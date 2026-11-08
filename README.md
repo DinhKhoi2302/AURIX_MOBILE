@@ -1,0 +1,2 @@
+# AURIX_MOBILE
+bandienthoai
