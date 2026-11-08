@@ -1,0 +1,212 @@
+{
+  "id": "anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m",
+  "docCode": "PK-PB004-A110M",
+  "model": "Pin Sạc Dự Phòng Anker Zolo 20.000mAh 45W Kèm 2 Cáp USB-C Liền Thân A110M",
+  "brand": "Anker",
+  "brandId": "anker",
+  "parentGroupId": "anker",
+  "series": "Pin sạc dự phòng",
+  "subCategory": "pin-sac-du-phong",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "pin-sac-du-phong"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Pin sạc dự phòng",
+    "highlights": [
+      "45W",
+      "20.000 mAh"
+    ],
+    "description": "Tiện lợi tối đa khi ra ngoài mà không cần mang theo bất kỳ sợi dây cáp nào nhờ 2 cáp Type-C đúc liền thân kiêm quai xách chắc chắn. Dung lượng lớn 20.000mAh sạc được 4-5 lần điện thoại, công suất 45W hỗ trợ sạc nhanh tức thì."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 950000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/anh-dai-dien-anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/anh-dai-dien-anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/anh-dai-dien-anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m-hong.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/anh-dai-dien-anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m-trang.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/anh-dai-dien-anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m-xanh-duong.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/cong-suat-sac-nhanh-45w-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/dung-luong-20000mah-sac-nhieu-lan-den-xam.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/sac-dong-thoi-4-thiet-bi-trang.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/tich-hop-2-day-cap-usb-c-ben-bi-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/tong-quan-tinh-nang-20000mah-sac-45w-den-xanh.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/anh-dai-dien-anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/cong-suat-sac-nhanh-45w-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/tich-hop-2-day-cap-usb-c-ben-bi-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/dung-luong-20000mah-sac-nhieu-lan-den-xam.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/tong-quan-tinh-nang-20000mah-sac-45w-den-xanh.webp"
+      ],
+      "Hồng": [
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/anh-dai-dien-anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m-hong.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/dung-luong-20000mah-sac-nhieu-lan-den-xam.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/tong-quan-tinh-nang-20000mah-sac-45w-den-xanh.webp"
+      ],
+      "Trắng": [
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/anh-dai-dien-anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m-trang.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/sac-dong-thoi-4-thiet-bi-trang.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/dung-luong-20000mah-sac-nhieu-lan-den-xam.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/tong-quan-tinh-nang-20000mah-sac-45w-den-xanh.webp"
+      ],
+      "Xanh Dương": [
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/anh-dai-dien-anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m-xanh-duong.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/dung-luong-20000mah-sac-nhieu-lan-den-xam.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/tong-quan-tinh-nang-20000mah-sac-45w-den-xanh.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/anh-dai-dien-anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m-hong.webp",
+      "screen": "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/anh-dai-dien-anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m-trang.webp",
+      "performance": "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/cong-suat-sac-nhanh-45w-den.webp",
+      "camera": "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/anh-dai-dien-anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m-xanh-duong.webp",
+      "battery": "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/dung-luong-20000mah-sac-nhieu-lan-den-xam.webp",
+      "feature": "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/tong-quan-tinh-nang-20000mah-sac-45w-den-xanh.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/anh-dai-dien-anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m-hong.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/anh-dai-dien-anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m-trang.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/anh-dai-dien-anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m-xanh-duong.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/cong-suat-sac-nhanh-45w-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/dung-luong-20000mah-sac-nhieu-lan-den-xam.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/sac-dong-thoi-4-thiet-bi-trang.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/tich-hop-2-day-cap-usb-c-ben-bi-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/tong-quan-tinh-nang-20000mah-sac-45w-den-xanh.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Anker",
+      "Dung lượng pin": "20.000 mAh",
+      "Công suất đầu ra tối đa": "45W (PD/PPS)",
+      "Công suất đầu vào": "30W",
+      "Số lượng cổng kết nối": "4 kết nối (1 cổng Type-C, 1 cổng USB-A, 2 cáp Type-C tích hợp sẵn)",
+      "Loại cổng kết nối": "USB-C, USB-A, 2 Cáp liền Type-C",
+      "Sạc không dây": "Không",
+      "Công nghệ sạc": "PD 3.0, QC, PPS",
+      "Màu sắc": "Đen, Hồng, Trắng, Xanh dương"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Anker"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "20.000 mAh"
+    },
+    {
+      "label": "Công suất đầu ra tối đa",
+      "value": "45W (PD/PPS)"
+    },
+    {
+      "label": "Công suất đầu vào",
+      "value": "30W"
+    },
+    {
+      "label": "Số lượng cổng kết nối",
+      "value": "4 kết nối (1 cổng Type-C, 1 cổng USB-A, 2 cáp Type-C tích hợp sẵn)"
+    },
+    {
+      "label": "Loại cổng kết nối",
+      "value": "USB-C, USB-A, 2 Cáp liền Type-C"
+    },
+    {
+      "label": "Sạc không dây",
+      "value": "Không"
+    },
+    {
+      "label": "Công nghệ sạc",
+      "value": "PD 3.0, QC, PPS"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Đen, Hồng, Trắng, Xanh dương"
+    }
+  ],
+  "verbatimDescription": [
+    "Tiện lợi tối đa khi ra ngoài mà không cần mang theo bất kỳ sợi dây cáp nào nhờ 2 cáp Type-C đúc liền thân kiêm quai xách chắc chắn. Dung lượng lớn 20.000mAh sạc được 4-5 lần điện thoại, công suất 45W hỗ trợ sạc nhanh tức thì."
+  ],
+  "variants": [
+    {
+      "sku": "PK-PB004-A110M-DEN-TIEU-CHUAN",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 950000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/anh-dai-dien-anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/cong-suat-sac-nhanh-45w-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/tich-hop-2-day-cap-usb-c-ben-bi-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/dung-luong-20000mah-sac-nhieu-lan-den-xam.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/tong-quan-tinh-nang-20000mah-sac-45w-den-xanh.webp"
+      ]
+    },
+    {
+      "sku": "PK-PB004-A110M-TRANG-TIEU-CHUAN",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 950000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/anh-dai-dien-anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m-trang.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/sac-dong-thoi-4-thiet-bi-trang.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/dung-luong-20000mah-sac-nhieu-lan-den-xam.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/tong-quan-tinh-nang-20000mah-sac-45w-den-xanh.webp"
+      ]
+    },
+    {
+      "sku": "PK-PB004-A110M-HONG-TIEU-CHUAN",
+      "color": "Hồng",
+      "colorHex": "#F472B6",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 950000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/anh-dai-dien-anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m-hong.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/dung-luong-20000mah-sac-nhieu-lan-den-xam.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/tong-quan-tinh-nang-20000mah-sac-45w-den-xanh.webp"
+      ]
+    },
+    {
+      "sku": "PK-PB004-A110M-XANH-DUONG-TIEU-CHUAN",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 950000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/anh-dai-dien-anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m-xanh-duong.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/dung-luong-20000mah-sac-nhieu-lan-den-xam.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-45w-power-bank-kem-2-cap-usb-c-a110m/tong-quan-tinh-nang-20000mah-sac-45w-den-xanh.webp"
+      ]
+    }
+  ]
+}

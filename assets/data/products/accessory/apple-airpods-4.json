@@ -1,0 +1,154 @@
+{
+  "id": "apple-airpods-4",
+  "docCode": "PK-TN001-AP4",
+  "model": "Tai Nghe Bluetooth Apple AirPods 4 (Bản Tiêu Chuẩn / Bản ANC)",
+  "brand": "Apple",
+  "brandId": "apple",
+  "parentGroupId": "apple",
+  "series": "Tai nghe",
+  "subCategory": "tai-nghe",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "tai-nghe"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Tai nghe",
+    "highlights": [
+      "Earbuds"
+    ],
+    "description": "Thế hệ AirPods mới nhất của Apple với kiến trúc âm thanh hoàn toàn mới mang lại âm trầm sâu hơn và âm cao trong trẻo. Thiết kế công thái học vừa vặn mọi dáng tai, lần đầu tiên trang bị tính năng chống ồn chủ động ANC trên dòng Earbuds mở cùng cổng sạc USB-C hiện đại."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 3490000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/tai-nghe/apple-airpods-4/anh-dai-dien-apple-airpods-4-trang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/tai-nghe/apple-airpods-4/anh-dai-dien-apple-airpods-4-trang.webp",
+      "assets/images/products/accessory/tai-nghe/apple-airpods-4/hai-tai-nghe-goc-nghieng-trang.webp",
+      "assets/images/products/accessory/tai-nghe/apple-airpods-4/can-canh-dau-tai-nghe-trang.webp",
+      "assets/images/products/accessory/tai-nghe/apple-airpods-4/hai-tai-nghe-nhin-ngang-trang.webp",
+      "assets/images/products/accessory/tai-nghe/apple-airpods-4/hop-sac-dong-nap-trang.webp"
+    ],
+    "byColor": {
+      "Trắng": [
+        "assets/images/products/accessory/tai-nghe/apple-airpods-4/anh-dai-dien-apple-airpods-4-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-4/hai-tai-nghe-goc-nghieng-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-4/can-canh-dau-tai-nghe-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-4/hai-tai-nghe-nhin-ngang-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-4/hop-sac-dong-nap-trang.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/tai-nghe/apple-airpods-4/hai-tai-nghe-goc-nghieng-trang.webp",
+      "screen": "assets/images/products/accessory/tai-nghe/apple-airpods-4/can-canh-dau-tai-nghe-trang.webp",
+      "performance": "assets/images/products/accessory/tai-nghe/apple-airpods-4/hai-tai-nghe-nhin-ngang-trang.webp",
+      "camera": "assets/images/products/accessory/tai-nghe/apple-airpods-4/hop-sac-dong-nap-trang.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/tai-nghe/apple-airpods-4/hai-tai-nghe-goc-nghieng-trang.webp",
+      "assets/images/products/accessory/tai-nghe/apple-airpods-4/can-canh-dau-tai-nghe-trang.webp",
+      "assets/images/products/accessory/tai-nghe/apple-airpods-4/hai-tai-nghe-nhin-ngang-trang.webp",
+      "assets/images/products/accessory/tai-nghe/apple-airpods-4/hop-sac-dong-nap-trang.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Apple",
+      "Kiểu tai nghe": "Earbuds (bán trong tai)",
+      "Kết nối": "Bluetooth 5.3, Chip Apple H2",
+      "Cổng sạc": "USB-C (hỗ trợ sạc không dây trên bản ANC)",
+      "Chống ồn chủ động (ANC)": "Có (phiên bản ANC) / Không (phiên bản tiêu chuẩn)",
+      "Microphone": "Có (Micro tạo chùm tia khử ồn giọng nói Voice Isolation)",
+      "Thời lượng pin": "Lên đến 5 giờ nghe liên tục (30 giờ kèm hộp sạc)",
+      "Kháng nước, bụi": "IP54 (cả tai nghe và hộp sạc)",
+      "Màu sắc": "Trắng"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Apple"
+    },
+    {
+      "label": "Kiểu tai nghe",
+      "value": "Earbuds (bán trong tai)"
+    },
+    {
+      "label": "Kết nối",
+      "value": "Bluetooth 5.3, Chip Apple H2"
+    },
+    {
+      "label": "Cổng sạc",
+      "value": "USB-C (hỗ trợ sạc không dây trên bản ANC)"
+    },
+    {
+      "label": "Chống ồn chủ động (ANC)",
+      "value": "Có (phiên bản ANC) / Không (phiên bản tiêu chuẩn)"
+    },
+    {
+      "label": "Microphone",
+      "value": "Có (Micro tạo chùm tia khử ồn giọng nói Voice Isolation)"
+    },
+    {
+      "label": "Thời lượng pin",
+      "value": "Lên đến 5 giờ nghe liên tục (30 giờ kèm hộp sạc)"
+    },
+    {
+      "label": "Kháng nước, bụi",
+      "value": "IP54 (cả tai nghe và hộp sạc)"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Trắng"
+    }
+  ],
+  "verbatimDescription": [
+    "Thế hệ AirPods mới nhất của Apple với kiến trúc âm thanh hoàn toàn mới mang lại âm trầm sâu hơn và âm cao trong trẻo. Thiết kế công thái học vừa vặn mọi dáng tai, lần đầu tiên trang bị tính năng chống ồn chủ động ANC trên dòng Earbuds mở cùng cổng sạc USB-C hiện đại."
+  ],
+  "variants": [
+    {
+      "sku": "PK-TN001-AP4-TRANG-BAN-THUONG",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": null,
+      "storage": "Bản thường",
+      "rom": null,
+      "price": 3490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/tai-nghe/apple-airpods-4/anh-dai-dien-apple-airpods-4-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-4/hai-tai-nghe-goc-nghieng-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-4/can-canh-dau-tai-nghe-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-4/hai-tai-nghe-nhin-ngang-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-4/hop-sac-dong-nap-trang.webp"
+      ]
+    },
+    {
+      "sku": "PK-TN001-AP4-TRANG-BAN-ANC",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": null,
+      "storage": "Bản ANC",
+      "rom": null,
+      "price": 4790000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/tai-nghe/apple-airpods-4/anh-dai-dien-apple-airpods-4-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-4/hai-tai-nghe-goc-nghieng-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-4/can-canh-dau-tai-nghe-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-4/hai-tai-nghe-nhin-ngang-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-4/hop-sac-dong-nap-trang.webp"
+      ]
+    }
+  ]
+}

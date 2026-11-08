@@ -1,0 +1,215 @@
+{
+  "id": "xiaomi-redmi-buds-8-lite",
+  "docCode": "PK-TN012-RB8LTE",
+  "model": "Tai Nghe Không Dây Xiaomi Redmi Buds 8 Lite",
+  "brand": "Xiaomi",
+  "brandId": "xiaomi",
+  "parentGroupId": "xiaomi",
+  "series": "Tai nghe",
+  "subCategory": "tai-nghe",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "tai-nghe"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Tai nghe",
+    "highlights": [
+      "Tai nghe",
+      "Xiaomi"
+    ],
+    "description": "Mẫu tai nghe thế hệ mới tích hợp công nghệ chống ồn chủ động giá cực tốt của Xiaomi. Mang lại trải nghiệm nghe nhạc yên tĩnh trong không gian công cộng, hỗ trợ sạc nhanh tiện lợi và kết nối mượt mà với mọi thiết bị Android, iOS."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 490000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/anh-dai-dien-xiaomi-redmi-buds-8-lite-trang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/anh-dai-dien-xiaomi-redmi-buds-8-lite-trang.webp",
+      "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/anh-dai-dien-xiaomi-redmi-buds-8-lite-den.webp",
+      "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/anh-dai-dien-xiaomi-redmi-buds-8-lite-xanh-duong.webp",
+      "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/goc-nghieng-phai-hop-sac-mo-nap-trang.webp",
+      "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/goc-nghieng-trai-hop-sac-mo-nap-trang.webp",
+      "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/hai-tai-nghe-goc-nghieng-trang.webp",
+      "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/can-canh-cong-sac-type-c-hop-sac-trang.webp",
+      "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/can-canh-dem-tai-in-ear-trang.webp",
+      "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/hai-tai-nghe-dat-canh-hop-sac-trang.webp",
+      "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/hai-tai-nghe-dat-tren-ban-trang.webp",
+      "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/hop-sac-dong-nap-dat-tren-ban-trang.webp",
+      "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/hop-sac-tai-nghe-va-bo-dem-tai-trang.webp",
+      "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/ket-noi-dien-thoai-nghe-nhac-trang.webp",
+      "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/kich-thuoc-chi-tiet-tai-nghe-trang.webp",
+      "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/mat-sau-hop-sac-trang.webp",
+      "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/tai-nghe-trong-hop-sac-dat-tren-ban-trang.webp",
+      "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/banner-gon-nhe-pin-tot-den-trang-xanh.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/anh-dai-dien-xiaomi-redmi-buds-8-lite-den.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/banner-gon-nhe-pin-tot-den-trang-xanh.webp"
+      ],
+      "Trắng": [
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/anh-dai-dien-xiaomi-redmi-buds-8-lite-trang.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/goc-nghieng-phai-hop-sac-mo-nap-trang.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/goc-nghieng-trai-hop-sac-mo-nap-trang.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/hai-tai-nghe-goc-nghieng-trang.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/can-canh-cong-sac-type-c-hop-sac-trang.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/can-canh-dem-tai-in-ear-trang.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/hai-tai-nghe-dat-canh-hop-sac-trang.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/hai-tai-nghe-dat-tren-ban-trang.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/hop-sac-dong-nap-dat-tren-ban-trang.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/hop-sac-tai-nghe-va-bo-dem-tai-trang.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/ket-noi-dien-thoai-nghe-nhac-trang.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/kich-thuoc-chi-tiet-tai-nghe-trang.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/mat-sau-hop-sac-trang.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/tai-nghe-trong-hop-sac-dat-tren-ban-trang.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/banner-gon-nhe-pin-tot-den-trang-xanh.webp"
+      ],
+      "Xanh Dương": [
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/anh-dai-dien-xiaomi-redmi-buds-8-lite-xanh-duong.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/banner-gon-nhe-pin-tot-den-trang-xanh.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/mat-sau-hop-sac-trang.webp",
+      "screen": "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/anh-dai-dien-xiaomi-redmi-buds-8-lite-den.webp",
+      "performance": "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/goc-nghieng-phai-hop-sac-mo-nap-trang.webp",
+      "camera": "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/anh-dai-dien-xiaomi-redmi-buds-8-lite-xanh-duong.webp",
+      "battery": "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/goc-nghieng-trai-hop-sac-mo-nap-trang.webp",
+      "feature": "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/hai-tai-nghe-goc-nghieng-trang.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/anh-dai-dien-xiaomi-redmi-buds-8-lite-den.webp",
+      "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/anh-dai-dien-xiaomi-redmi-buds-8-lite-xanh-duong.webp",
+      "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/goc-nghieng-phai-hop-sac-mo-nap-trang.webp",
+      "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/goc-nghieng-trai-hop-sac-mo-nap-trang.webp",
+      "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/hai-tai-nghe-goc-nghieng-trang.webp",
+      "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/can-canh-cong-sac-type-c-hop-sac-trang.webp",
+      "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/can-canh-dem-tai-in-ear-trang.webp",
+      "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/hai-tai-nghe-dat-canh-hop-sac-trang.webp",
+      "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/hai-tai-nghe-dat-tren-ban-trang.webp",
+      "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/hop-sac-dong-nap-dat-tren-ban-trang.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Xiaomi",
+      "Kiểu tai nghe": "In-ear công thái học thời trang",
+      "Kết nối": "Bluetooth 5.4",
+      "Cổng sạc": "USB-C",
+      "Chống ồn chủ động (ANC)": "Có (Chống ồn thông minh thế hệ mới)",
+      "Microphone": "Có (Microphone khử ồn giọng nói AI)",
+      "Thời lượng pin": "Lên đến 7 giờ (32 giờ kèm hộp sạc)",
+      "Kháng nước, bụi": "IP54",
+      "Màu sắc": "Đen, Trắng, Xanh dương"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Xiaomi"
+    },
+    {
+      "label": "Kiểu tai nghe",
+      "value": "In-ear công thái học thời trang"
+    },
+    {
+      "label": "Kết nối",
+      "value": "Bluetooth 5.4"
+    },
+    {
+      "label": "Cổng sạc",
+      "value": "USB-C"
+    },
+    {
+      "label": "Chống ồn chủ động (ANC)",
+      "value": "Có (Chống ồn thông minh thế hệ mới)"
+    },
+    {
+      "label": "Microphone",
+      "value": "Có (Microphone khử ồn giọng nói AI)"
+    },
+    {
+      "label": "Thời lượng pin",
+      "value": "Lên đến 7 giờ (32 giờ kèm hộp sạc)"
+    },
+    {
+      "label": "Kháng nước, bụi",
+      "value": "IP54"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Đen, Trắng, Xanh dương"
+    }
+  ],
+  "verbatimDescription": [
+    "Mẫu tai nghe thế hệ mới tích hợp công nghệ chống ồn chủ động giá cực tốt của Xiaomi. Mang lại trải nghiệm nghe nhạc yên tĩnh trong không gian công cộng, hỗ trợ sạc nhanh tiện lợi và kết nối mượt mà với mọi thiết bị Android, iOS."
+  ],
+  "variants": [
+    {
+      "sku": "PK-TN012-RB8LTE-TRANG-TIEU-CHUAN",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/anh-dai-dien-xiaomi-redmi-buds-8-lite-trang.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/goc-nghieng-phai-hop-sac-mo-nap-trang.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/goc-nghieng-trai-hop-sac-mo-nap-trang.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/hai-tai-nghe-goc-nghieng-trang.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/can-canh-cong-sac-type-c-hop-sac-trang.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/can-canh-dem-tai-in-ear-trang.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/hai-tai-nghe-dat-canh-hop-sac-trang.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/hai-tai-nghe-dat-tren-ban-trang.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/hop-sac-dong-nap-dat-tren-ban-trang.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/hop-sac-tai-nghe-va-bo-dem-tai-trang.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/ket-noi-dien-thoai-nghe-nhac-trang.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/kich-thuoc-chi-tiet-tai-nghe-trang.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/mat-sau-hop-sac-trang.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/tai-nghe-trong-hop-sac-dat-tren-ban-trang.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/banner-gon-nhe-pin-tot-den-trang-xanh.webp"
+      ]
+    },
+    {
+      "sku": "PK-TN012-RB8LTE-XANH-DUONG-TIEU-CHUAN",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/anh-dai-dien-xiaomi-redmi-buds-8-lite-xanh-duong.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/banner-gon-nhe-pin-tot-den-trang-xanh.webp"
+      ]
+    },
+    {
+      "sku": "PK-TN012-RB8LTE-DEN-TIEU-CHUAN",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/anh-dai-dien-xiaomi-redmi-buds-8-lite-den.webp",
+        "assets/images/products/accessory/tai-nghe/xiaomi-redmi-buds-8-lite/banner-gon-nhe-pin-tot-den-trang-xanh.webp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "id": "honor-pad-x8b",
+  "docCode": "TB-HN001-X8B",
+  "model": "Honor Pad X8b Wi-Fi",
+  "brand": "HONOR",
+  "brandId": "honor",
+  "parentGroupId": "honor",
+  "series": "HONOR Pad X Series",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "11.0 inch",
+      "Snapdragon 685",
+      "Pin 10.100 mAh"
+    ],
+    "description": "Honor Pad X8b là mẫu máy tính bảng giải trí và học tập nổi bật trong phân khúc tầm trung với điểm nhấn vượt trội là viên pin khủng lên đến 10.100 mAh. Thiết kế nguyên khối bằng kim loại chắc chắn cùng độ mỏng ấn tượng chỉ 7.25 mm mang lại cảm giác cầm nắm đầm tay, cao cấp và thanh lịch trong tông màu Xám không gian thời thượng.",
+    "releaseDate": "2024 / 2025"
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 685 (tiến trình 6nm)",
+    "ram": [
+      "6GB",
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "operatingSystem": "Android 14 (Giao diện MagicOS 8.0)"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 4690000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/honor/honor-pad-x8b/anh-dai-dien-honor-pad-x8b-xam.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/honor/honor-pad-x8b/anh-dai-dien-honor-pad-x8b-xam.webp",
+      "assets/images/products/tablet/honor/honor-pad-x8b/mat-truoc-sau-xam.webp",
+      "assets/images/products/tablet/honor/honor-pad-x8b/mat-truoc-nam-ngang-nghieng-xam.webp",
+      "assets/images/products/tablet/honor/honor-pad-x8b/mat-sau-nam-ngang-nghieng-xam.webp",
+      "assets/images/products/tablet/honor/honor-pad-x8b/canh-ben-phai-nut-bam-xam.webp",
+      "assets/images/products/tablet/honor/honor-pad-x8b/canh-ben-trai-xam.webp",
+      "assets/images/products/tablet/honor/honor-pad-x8b/canh-duoi-cong-sac-loa-xam.webp",
+      "assets/images/products/tablet/honor/honor-pad-x8b/canh-tren-loa-xam.webp",
+      "assets/images/products/tablet/honor/honor-pad-x8b/do-mong-than-may-nam-ngang-xam.webp",
+      "assets/images/products/tablet/honor/honor-pad-x8b/tong-quan-tinh-nang-pin-10100mah-man-hinh-90hz-xam-xanh.webp"
+    ],
+    "byColor": {
+      "Xám": [
+        "assets/images/products/tablet/honor/honor-pad-x8b/anh-dai-dien-honor-pad-x8b-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x8b/mat-truoc-sau-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x8b/mat-truoc-nam-ngang-nghieng-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x8b/mat-sau-nam-ngang-nghieng-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x8b/canh-ben-phai-nut-bam-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x8b/canh-ben-trai-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x8b/canh-duoi-cong-sac-loa-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x8b/canh-tren-loa-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x8b/do-mong-than-may-nam-ngang-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x8b/tong-quan-tinh-nang-pin-10100mah-man-hinh-90hz-xam-xanh.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/honor/honor-pad-x8b/mat-truoc-sau-xam.webp",
+      "screen": "assets/images/products/tablet/honor/honor-pad-x8b/mat-truoc-nam-ngang-nghieng-xam.webp",
+      "performance": "assets/images/products/tablet/honor/honor-pad-x8b/mat-sau-nam-ngang-nghieng-xam.webp",
+      "camera": "assets/images/products/tablet/honor/honor-pad-x8b/canh-ben-phai-nut-bam-xam.webp",
+      "battery": "assets/images/products/tablet/honor/honor-pad-x8b/canh-duoi-cong-sac-loa-xam.webp",
+      "feature": "assets/images/products/tablet/honor/honor-pad-x8b/canh-ben-trai-xam.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/honor/honor-pad-x8b/mat-truoc-sau-xam.webp",
+      "assets/images/products/tablet/honor/honor-pad-x8b/mat-truoc-nam-ngang-nghieng-xam.webp",
+      "assets/images/products/tablet/honor/honor-pad-x8b/mat-sau-nam-ngang-nghieng-xam.webp",
+      "assets/images/products/tablet/honor/honor-pad-x8b/canh-ben-phai-nut-bam-xam.webp",
+      "assets/images/products/tablet/honor/honor-pad-x8b/canh-ben-trai-xam.webp",
+      "assets/images/products/tablet/honor/honor-pad-x8b/canh-duoi-cong-sac-loa-xam.webp",
+      "assets/images/products/tablet/honor/honor-pad-x8b/canh-tren-loa-xam.webp",
+      "assets/images/products/tablet/honor/honor-pad-x8b/do-mong-than-may-nam-ngang-xam.webp",
+      "assets/images/products/tablet/honor/honor-pad-x8b/tong-quan-tinh-nang-pin-10100mah-man-hinh-90hz-xam-xanh.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "11,0 inch IPS LCD, tỷ lệ 16:10 tối ưu học tập và xem phim, độ phân giải Full HD+ (1920 x 1200 pixel, ~207 ppi), tần số quét 90Hz, hiển thị 16,7 triệu màu, tỷ lệ màn hình trên thân máy ~84%",
+      "Tính năng màn hình": "Tần số quét 90Hz mượt mà, độ sáng 400 nit, đạt chứng nhận kép TÜV Rheinland (Low Blue Light & Flicker Free), chế độ Sách điện tử (eBook Mode) và chế độ Tối bảo vệ thị lực ban đêm"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "Qualcomm SM6225 Snapdragon 685 8 nhân 6nm",
+      "CPU & Đồ họa": "Octa-core (4x2.8 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver), GPU đồ họa Adreno 610",
+      "Hệ điều hành khi ra mắt": "MagicOS 8.0 phát triển trên nền tảng Android 14"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "6GB / 8GB LPDDR4X kết hợp công nghệ RAM Turbo mở rộng thêm đến 8GB",
+      "Bộ nhớ trong": "128GB / 256GB UFS lưu trữ, hỗ trợ khe cắm thẻ nhớ thẻ nhớ ngoài MicroSD"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "8MP tự động lấy nét, khẩu độ f/2.0, quay video 1080p 30fps",
+      "Camera trước": "5MP góc rộng, khẩu độ f/2.2 phục vụ học tập và họp video",
+      "Chi tiết hệ thống Camera": "Camera chính sau 8MP (khẩu độ ƒ/2.0, tự động lấy nét AF) hỗ trợ chụp quét tài liệu rõ nét và HDR; Camera trước 5MP (khẩu độ ƒ/2.2) đặt ở cạnh ngang tối ưu góc nhìn khi học trực tuyến qua Zoom, Google Meet"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "10.100 mAh dung lượng cực khủng, sạc nhanh 35W qua cổng USB-C",
+      "Pin và công nghệ sạc": "Viên pin dung lượng cực lớn 10.100 mAh Li-Po, hỗ trợ sạc nhanh có dây Honor SuperCharge 35W"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Hỗ trợ bút cảm ứng điện dung viết vẽ ghi chú trên màn hình",
+      "Hỗ trợ bàn phím rời": "Hỗ trợ kết nối bàn phím và chuột không dây Bluetooth",
+      "Công nghệ âm thanh": "Hệ thống 4 loa Stereo đối xứng (Quad Speakers) biên độ lớn, tích hợp thuật toán âm thanh vòm Honor Histen và công nghệ tăng cường giọng nói Vocal Enhancement phục vụ học ngoại ngữ và họp trực tuyến",
+      "Thuộc tính đặc biệt": "Dung lượng pin khổng lồ 10.100mAh, hỗ trợ bút cảm ứng stylus, âm thanh vòm Honor Histen"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Wi-Fi 5 (802.11 a/b/g/n/ac) băng tần kép 2.4GHz và 5GHz",
+      "Thẻ SIM": "Không hỗ trợ (Bản Wi-Fi)",
+      "Kết nối không dây & Cổng giao tiếp": "Wi-Fi 802.11 a/b/g/n/ac 2.4GHz & 5GHz, Bluetooth 5.1, cổng Type-C chuẩn USB 2.0 có OTG",
+      "Công nghệ - Tiện ích": "Đa nhiệm thông minh APP Extender & Multi-Window mở tới 4 ứng dụng cùng lúc, kết nối liền mạch Honor MagicRing/Honor Connect chia sẻ tệp tin nhanh với điện thoại, không gian an toàn cho trẻ em"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Độ mỏng 7.25 mm thanh thoát, kích thước 256.9 x 168.4 x 7.25 mm, trọng lượng khoảng 495 g",
+      "Bảo mật và độ bền": "Mở khóa bằng nhận diện khuôn mặt AI 2D, thân máy hợp kim nhôm nguyên khối chắc chắn",
+      "Thời điểm ra mắt": "Năm 2024 / 2025"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "11.0 inch IPS LCD, độ phân giải Full HD+ 1920 x 1200 pixels"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Tần số quét 90Hz mượt mà, chứng nhận bảo vệ mắt TÜV Rheinland ánh sáng xanh thấp, độ sáng 400 nits"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 685 (tiến trình 6nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "6GB / 8GB (Hỗ trợ mở rộng RAM ảo Honor RAM Turbo)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB (Hỗ trợ thẻ nhớ MicroSD tối đa 1TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "8MP tự động lấy nét, khẩu độ f/2.0, quay video 1080p 30fps"
+    },
+    {
+      "label": "Camera trước",
+      "value": "5MP góc rộng, khẩu độ f/2.2 phục vụ học tập và họp video"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Viên pin dung lượng cực lớn 10.100 mAh Li-Po, hỗ trợ sạc nhanh có dây Honor SuperCharge 35W"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Wi-Fi 5 (802.11 a/b/g/n/ac) băng tần kép 2.4GHz và 5GHz"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Hỗ trợ bút cảm ứng điện dung viết vẽ ghi chú trên màn hình"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Hỗ trợ kết nối bàn phím và chuột không dây Bluetooth"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 14 (Giao diện MagicOS 8.0)"
+    }
+  ],
+  "verbatimDescription": [
+    "Honor Pad X8b là mẫu máy tính bảng giải trí và học tập nổi bật trong phân khúc tầm trung với điểm nhấn vượt trội là viên pin khủng lên đến 10.100 mAh. Thiết kế nguyên khối bằng kim loại chắc chắn cùng độ mỏng ấn tượng chỉ 7.25 mm mang lại cảm giác cầm nắm đầm tay, cao cấp và thanh lịch trong tông màu Xám không gian thời thượng.",
+    "Màn hình kích thước 11 inch với tấm nền IPS Full HD+ hiển thị hình ảnh trong trẻo, sắc nét, góc nhìn rộng và tái tạo màu sắc trung thực. Tần số quét 90Hz giúp thao tác lướt web, đọc báo và tương tác giao diện mượt mà rõ rệt. Đặc biệt, màn hình đạt chứng nhận bảo vệ mắt toàn diện từ TÜV Rheinland giúp lọc ánh sáng xanh và chống nhấp nháy hiệu quả khi sử dụng ban đêm.",
+    "Hiệu năng vận hành ổn định nhờ bộ vi xử lý Snapdragon 685 tiến trình 6nm tiết kiệm điện kết hợp cùng công nghệ mở rộng RAM Turbo của Honor. Người dùng có thể thoải mái mở nhiều ứng dụng văn phòng, xem phim độ phân giải cao và tham gia các lớp học trực tuyến mà không lo giật lag.",
+    "Viên pin 10.100 mAh cho phép máy hoạt động bền bỉ suốt 2-3 ngày với các tác vụ thông thường hoặc xem video liên tục lên đến 14 tiếng. Công nghệ sạc nhanh 35W đi kèm giúp nạp lại năng lượng nhanh chóng, giảm đáng kể thời gian chờ đợi cắm sạc.",
+    "Hệ thống 4 loa âm thanh vòm công nghệ Honor Histen mang đến chất âm to, rõ ràng và tách bạch từng dải âm, hỗ trợ tối đa cho trải nghiệm xem phim bom tấn, thưởng thức âm nhạc và đàm thoại học tập trực tuyến trong không gian gia đình.",
+    "Khả năng hỗ trợ học tập và làm việc của Honor Pad X8b được tối ưu hóa mạnh mẽ nhờ giao diện MagicOS 8.0 trên nền Android 14. Tính năng Multi-Window cho phép chia đôi màn hình kết hợp cửa sổ nổi để vừa xem bài giảng video vừa ghi chú song song trên HONOR Notes mà không phải chuyển đổi qua lại giữa các ứng dụng.",
+    "Camera trước 5MP được bố trí hợp lý ở viền ngang của máy, kết hợp cùng thuật toán thu âm tập trung giọng nói giúp hình ảnh và âm thanh của người dùng luôn rõ ràng trong các buổi học trực tuyến hay gọi video gia đình. Với mức giá dễ tiếp cận, thân vỏ kim loại mỏng 7,25mm và viên pin 10.100 mAh vượt trội, Honor Pad X8b là lựa chọn kinh tế hàng đầu cho học sinh, sinh viên và gia đình."
+  ],
+  "variants": [
+    {
+      "sku": "TB-HN001-X8B-XAM-6GB-128GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 4690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/honor/honor-pad-x8b/anh-dai-dien-honor-pad-x8b-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x8b/mat-truoc-sau-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x8b/mat-truoc-nam-ngang-nghieng-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x8b/mat-sau-nam-ngang-nghieng-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x8b/canh-ben-phai-nut-bam-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x8b/canh-ben-trai-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x8b/canh-duoi-cong-sac-loa-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x8b/canh-tren-loa-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x8b/do-mong-than-may-nam-ngang-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x8b/tong-quan-tinh-nang-pin-10100mah-man-hinh-90hz-xam-xanh.webp"
+      ]
+    },
+    {
+      "sku": "TB-HN001-X8B-XAM-8GB-256GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 5490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/honor/honor-pad-x8b/anh-dai-dien-honor-pad-x8b-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x8b/mat-truoc-sau-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x8b/mat-truoc-nam-ngang-nghieng-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x8b/mat-sau-nam-ngang-nghieng-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x8b/canh-ben-phai-nut-bam-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x8b/canh-ben-trai-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x8b/canh-duoi-cong-sac-loa-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x8b/canh-tren-loa-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x8b/do-mong-than-may-nam-ngang-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x8b/tong-quan-tinh-nang-pin-10100mah-man-hinh-90hz-xam-xanh.webp"
+      ]
+    }
+  ]
+}

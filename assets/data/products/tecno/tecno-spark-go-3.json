@@ -1,0 +1,611 @@
+{
+  "id": "tecno-spark-go-3",
+  "brand": "TECNO",
+  "brandId": "tecno",
+  "parentGroupId": "tecno",
+  "model": "TECNO SPARK Go 3",
+  "series": "TECNO SPARK Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "entry-level"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025 – 2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Ra mắt đầu năm 2026, TECNO SPARK Go 3 là mẫu smartphone khởi điểm nổi bật với màn hình đục lỗ 6,74 inch tần số quét lên tới 120Hz, loa kép Stereo DTS, mắt thần hồng ngoại IR Blaster, vi xử lý 8 nhân kèm 4GB RAM (+4GB mở rộng) và viên pin 5.000 mAh chuẩn kháng nước nhẹ IP54. Tại AURIX MOBILE, SPARK Go 3 mang đến trang bị vượt tầm giá cho học sinh, sinh viên và người lớn tuổi. (Nguồn tham chiếu: GSMArena - TECNO Spark Go 3).",
+    "highlights": [
+      "6,74 inch đục lỗ 120Hz",
+      "Loa kép Stereo + Hồng ngoại",
+      "Pin 5.000 mAh / Chuẩn IP54"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 2190000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT004-TECSPARKGO3-BAC-4GB-64GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "4GB",
+      "storage": "4GB/64GB",
+      "rom": "64GB",
+      "price": 2190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tecno/tecno-spark-go-3/anh-dai-dien-tecno-spark-go-3-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/TECNO-Spark-Go-3.jpg",
+        "assets/images/products/tecno/tecno-spark-go-3/hieu-nang-unisoc-t7250-tecno-spark-go-3.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/thong-so-noi-bat-tecno-spark-go-3-xanh-duong-den-xam.webp"
+      ]
+    },
+    {
+      "sku": "DT004-TECSPARKGO3-BAC-4GB-128GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 2490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tecno/tecno-spark-go-3/anh-dai-dien-tecno-spark-go-3-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/TECNO-Spark-Go-3.jpg",
+        "assets/images/products/tecno/tecno-spark-go-3/hieu-nang-unisoc-t7250-tecno-spark-go-3.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/thong-so-noi-bat-tecno-spark-go-3-xanh-duong-den-xam.webp"
+      ]
+    },
+    {
+      "sku": "DT004-TECSPARKGO3-XANH-DUONG-4GB-64GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "4GB",
+      "storage": "4GB/64GB",
+      "rom": "64GB",
+      "price": 2190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tecno/tecno-spark-go-3/mat-truoc-mat-sau-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/man-hinh-mat-truoc-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/thiet-ke-mat-lung-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/tren-tay-mat-lung-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/canh-trai-canh-phai-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/canh-tren-canh-duoi-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/canh-tren-loa-ngoai-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/goc-nghieng-phim-nguon-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/cum-camera-sau-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/dung-luong-pin-5000mah-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/man-hinh-120hz-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/thiet-ke-ben-bi-khang-nuoc-ip64-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/tren-tay-man-hinh-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/TECNO-Spark-Go-3.jpg",
+        "assets/images/products/tecno/tecno-spark-go-3/hieu-nang-unisoc-t7250-tecno-spark-go-3.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/thong-so-noi-bat-tecno-spark-go-3-xanh-duong-den-xam.webp"
+      ]
+    },
+    {
+      "sku": "DT004-TECSPARKGO3-XANH-DUONG-4GB-128GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 2490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tecno/tecno-spark-go-3/mat-truoc-mat-sau-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/man-hinh-mat-truoc-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/thiet-ke-mat-lung-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/tren-tay-mat-lung-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/canh-trai-canh-phai-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/canh-tren-canh-duoi-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/canh-tren-loa-ngoai-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/goc-nghieng-phim-nguon-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/cum-camera-sau-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/dung-luong-pin-5000mah-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/man-hinh-120hz-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/thiet-ke-ben-bi-khang-nuoc-ip64-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/tren-tay-man-hinh-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/TECNO-Spark-Go-3.jpg",
+        "assets/images/products/tecno/tecno-spark-go-3/hieu-nang-unisoc-t7250-tecno-spark-go-3.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/thong-so-noi-bat-tecno-spark-go-3-xanh-duong-den-xam.webp"
+      ]
+    },
+    {
+      "sku": "DT004-TECSPARKGO3-XAM-BAC-4GB-64GB",
+      "color": "Xám Bạc",
+      "colorHex": "#B8BFC6",
+      "ram": "4GB",
+      "storage": "4GB/64GB",
+      "rom": "64GB",
+      "price": 2190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tecno/tecno-spark-go-3/mat-truoc-mat-sau-tecno-spark-go-3-xam-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/man-hinh-mat-truoc-tecno-spark-go-3-xam-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/thiet-ke-mat-lung-tecno-spark-go-3-xam-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/tren-tay-mat-lung-tecno-spark-go-3-xam-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/canh-trai-canh-phai-tecno-spark-go-3-xam-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/canh-tren-canh-duoi-tecno-spark-go-3-xam-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/canh-tren-loa-ngoai-tecno-spark-go-3-xam-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/goc-nghieng-phim-nguon-tecno-spark-go-3-xam-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/cum-camera-sau-tecno-spark-go-3-xam-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/TECNO-Spark-Go-3.jpg",
+        "assets/images/products/tecno/tecno-spark-go-3/hieu-nang-unisoc-t7250-tecno-spark-go-3.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/thong-so-noi-bat-tecno-spark-go-3-xanh-duong-den-xam.webp"
+      ]
+    },
+    {
+      "sku": "DT004-TECSPARKGO3-XAM-BAC-4GB-128GB",
+      "color": "Xám Bạc",
+      "colorHex": "#B8BFC6",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 2490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tecno/tecno-spark-go-3/mat-truoc-mat-sau-tecno-spark-go-3-xam-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/man-hinh-mat-truoc-tecno-spark-go-3-xam-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/thiet-ke-mat-lung-tecno-spark-go-3-xam-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/tren-tay-mat-lung-tecno-spark-go-3-xam-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/canh-trai-canh-phai-tecno-spark-go-3-xam-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/canh-tren-canh-duoi-tecno-spark-go-3-xam-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/canh-tren-loa-ngoai-tecno-spark-go-3-xam-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/goc-nghieng-phim-nguon-tecno-spark-go-3-xam-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/cum-camera-sau-tecno-spark-go-3-xam-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/TECNO-Spark-Go-3.jpg",
+        "assets/images/products/tecno/tecno-spark-go-3/hieu-nang-unisoc-t7250-tecno-spark-go-3.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/thong-so-noi-bat-tecno-spark-go-3-xanh-duong-den-xam.webp"
+      ]
+    },
+    {
+      "sku": "DT004-TECSPARKGO3-DEN-4GB-64GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "4GB",
+      "storage": "4GB/64GB",
+      "rom": "64GB",
+      "price": 2190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tecno/tecno-spark-go-3/mat-truoc-mat-sau-tecno-spark-go-3-den.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/man-hinh-mat-truoc-tecno-spark-go-3-den.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/thiet-ke-mat-lung-tecno-spark-go-3-den.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/canh-trai-canh-phai-tecno-spark-go-3-den.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/canh-tren-canh-duoi-tecno-spark-go-3-den.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/canh-tren-loa-ngoai-tecno-spark-go-3-den.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/goc-nghieng-phim-nguon-tecno-spark-go-3-den.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/cum-camera-sau-tecno-spark-go-3-den.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/tren-tay-man-hinh-tecno-spark-go-3-den.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/TECNO-Spark-Go-3.jpg",
+        "assets/images/products/tecno/tecno-spark-go-3/hieu-nang-unisoc-t7250-tecno-spark-go-3.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/thong-so-noi-bat-tecno-spark-go-3-xanh-duong-den-xam.webp"
+      ]
+    },
+    {
+      "sku": "DT004-TECSPARKGO3-DEN-4GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 2490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tecno/tecno-spark-go-3/mat-truoc-mat-sau-tecno-spark-go-3-den.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/man-hinh-mat-truoc-tecno-spark-go-3-den.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/thiet-ke-mat-lung-tecno-spark-go-3-den.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/canh-trai-canh-phai-tecno-spark-go-3-den.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/canh-tren-canh-duoi-tecno-spark-go-3-den.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/canh-tren-loa-ngoai-tecno-spark-go-3-den.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/goc-nghieng-phim-nguon-tecno-spark-go-3-den.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/cum-camera-sau-tecno-spark-go-3-den.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/tren-tay-man-hinh-tecno-spark-go-3-den.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/TECNO-Spark-Go-3.jpg",
+        "assets/images/products/tecno/tecno-spark-go-3/hieu-nang-unisoc-t7250-tecno-spark-go-3.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/thong-so-noi-bat-tecno-spark-go-3-xanh-duong-den-xam.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "IPS LCD 120Hz, độ sáng cao",
+    "size": "6,74 inch",
+    "resolution": "1600 x 720 pixel (HD+, 260 ppi)",
+    "refreshRate": "120Hz",
+    "brightness": "Tần số quét 120Hz vượt trội trong phân khúc giá rẻ, cảm ứng khi tay ướt Wet Touch",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Unisoc T7250 / T615 8 nhân (12nm)",
+    "cpu": "CPU 8 nhân: 2 nhân Cortex-A75 (1,8 GHz) + 6 nhân Cortex-A55 (1,6 GHz)",
+    "gpu": "ARM Mali-G57 MP1",
+    "ram": [
+      "4GB"
+    ],
+    "storage": [
+      "64GB",
+      "128GB"
+    ],
+    "operatingSystem": "Android 15 / Android 16 (HiOS)",
+    "uiVersion": "Android",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "13MP Chính AI (ƒ/1.8, AF) kèm đèn flash LED kép",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "Quay video Full HD 1080p ở 30fps"
+    ],
+    "aiFeatures": [
+      "Chụp đêm AI, Chân dung xóa phông, HDR, Panorama"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "8MP Selfie kèm đèn flash trợ sáng kép",
+    "features": [
+      "Camera Selfie 8MP kèm đèn flash LED trợ sáng kép ở viền trên, hỗ trợ làm đẹp AI và mở khóa bằng khuôn mặt"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "5.000 mAh",
+    "wiredCharging": "Sạc nhanh có dây 15W / 18W USB-C",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc có dây 15W / 18W qua cổng USB Type-C"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM vật lý + 1 khe thẻ nhớ MicroSD độc lập"
+    ],
+    "network": [
+      "4G LTE (Hỗ trợ 4.5G Lightning Network)"
+    ],
+    "wifi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép",
+    "bluetooth": "Bluetooth 5.0 hỗ trợ A2DP, LE",
+    "gps": [
+      "GPS, GLONASS, GALILEO, BDS"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": false
+  },
+  "design": {
+    "dimensions": "165,6 x 77,0 x 8,35 mm",
+    "weight": "190 gram",
+    "materials": [
+      "Khung polycarbonate vát phẳng chắc chắn",
+      "Mặt lưng hoàn thiện vân nhám chống bám mồ hôi và dấu vân tay"
+    ],
+    "waterResistance": "IP54 kháng bụi và nước bắn",
+    "availableColors": [
+      "Bạc",
+      "Xanh Dương",
+      "Xám Bạc",
+      "Đen"
+    ]
+  },
+  "audio": {
+    "speakers": "Hệ thống loa kép Stereo chuẩn DTS, tích hợp giắc tai nghe 3.5mm",
+    "headphoneJack": true,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Spark",
+    "TECNO",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền TECNO tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/tecno/tecno-spark-go-3/anh-dai-dien-tecno-spark-go-3-bac.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tecno/tecno-spark-go-3/anh-dai-dien-tecno-spark-go-3-bac.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/mat-truoc-mat-sau-tecno-spark-go-3-den.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/mat-truoc-mat-sau-tecno-spark-go-3-xam-bac.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/mat-truoc-mat-sau-tecno-spark-go-3-xanh-duong.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/man-hinh-mat-truoc-tecno-spark-go-3-den.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/man-hinh-mat-truoc-tecno-spark-go-3-xam-bac.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/man-hinh-mat-truoc-tecno-spark-go-3-xanh-duong.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/thiet-ke-mat-lung-tecno-spark-go-3-den.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/thiet-ke-mat-lung-tecno-spark-go-3-xam-bac.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/thiet-ke-mat-lung-tecno-spark-go-3-xanh-duong.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/tren-tay-mat-lung-tecno-spark-go-3-xam-bac.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/tren-tay-mat-lung-tecno-spark-go-3-xanh-duong.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/canh-trai-canh-phai-tecno-spark-go-3-den.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/canh-trai-canh-phai-tecno-spark-go-3-xam-bac.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/canh-trai-canh-phai-tecno-spark-go-3-xanh-duong.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/canh-tren-canh-duoi-tecno-spark-go-3-den.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/canh-tren-canh-duoi-tecno-spark-go-3-xam-bac.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/canh-tren-canh-duoi-tecno-spark-go-3-xanh-duong.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/canh-tren-loa-ngoai-tecno-spark-go-3-den.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/canh-tren-loa-ngoai-tecno-spark-go-3-xam-bac.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/canh-tren-loa-ngoai-tecno-spark-go-3-xanh-duong.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/goc-nghieng-phim-nguon-tecno-spark-go-3-den.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/goc-nghieng-phim-nguon-tecno-spark-go-3-xam-bac.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/goc-nghieng-phim-nguon-tecno-spark-go-3-xanh-duong.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/cum-camera-sau-tecno-spark-go-3-den.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/cum-camera-sau-tecno-spark-go-3-xam-bac.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/cum-camera-sau-tecno-spark-go-3-xanh-duong.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/TECNO-Spark-Go-3.jpg",
+      "assets/images/products/tecno/tecno-spark-go-3/dung-luong-pin-5000mah-tecno-spark-go-3-xanh-duong.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/hieu-nang-unisoc-t7250-tecno-spark-go-3.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/man-hinh-120hz-tecno-spark-go-3-xanh-duong.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/thiet-ke-ben-bi-khang-nuoc-ip64-tecno-spark-go-3-xanh-duong.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/tren-tay-man-hinh-tecno-spark-go-3-den.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/tren-tay-man-hinh-tecno-spark-go-3-xanh-duong.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/thong-so-noi-bat-tecno-spark-go-3-xanh-duong-den-xam.webp"
+    ],
+    "byColor": {
+      "Bạc": [
+        "assets/images/products/tecno/tecno-spark-go-3/anh-dai-dien-tecno-spark-go-3-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/TECNO-Spark-Go-3.jpg",
+        "assets/images/products/tecno/tecno-spark-go-3/hieu-nang-unisoc-t7250-tecno-spark-go-3.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/thong-so-noi-bat-tecno-spark-go-3-xanh-duong-den-xam.webp"
+      ],
+      "Đen": [
+        "assets/images/products/tecno/tecno-spark-go-3/mat-truoc-mat-sau-tecno-spark-go-3-den.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/man-hinh-mat-truoc-tecno-spark-go-3-den.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/thiet-ke-mat-lung-tecno-spark-go-3-den.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/canh-trai-canh-phai-tecno-spark-go-3-den.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/canh-tren-canh-duoi-tecno-spark-go-3-den.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/canh-tren-loa-ngoai-tecno-spark-go-3-den.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/goc-nghieng-phim-nguon-tecno-spark-go-3-den.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/cum-camera-sau-tecno-spark-go-3-den.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/tren-tay-man-hinh-tecno-spark-go-3-den.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/TECNO-Spark-Go-3.jpg",
+        "assets/images/products/tecno/tecno-spark-go-3/hieu-nang-unisoc-t7250-tecno-spark-go-3.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/thong-so-noi-bat-tecno-spark-go-3-xanh-duong-den-xam.webp"
+      ],
+      "Xám Bạc": [
+        "assets/images/products/tecno/tecno-spark-go-3/mat-truoc-mat-sau-tecno-spark-go-3-xam-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/man-hinh-mat-truoc-tecno-spark-go-3-xam-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/thiet-ke-mat-lung-tecno-spark-go-3-xam-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/tren-tay-mat-lung-tecno-spark-go-3-xam-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/canh-trai-canh-phai-tecno-spark-go-3-xam-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/canh-tren-canh-duoi-tecno-spark-go-3-xam-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/canh-tren-loa-ngoai-tecno-spark-go-3-xam-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/goc-nghieng-phim-nguon-tecno-spark-go-3-xam-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/cum-camera-sau-tecno-spark-go-3-xam-bac.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/TECNO-Spark-Go-3.jpg",
+        "assets/images/products/tecno/tecno-spark-go-3/hieu-nang-unisoc-t7250-tecno-spark-go-3.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/thong-so-noi-bat-tecno-spark-go-3-xanh-duong-den-xam.webp"
+      ],
+      "Xanh Dương": [
+        "assets/images/products/tecno/tecno-spark-go-3/mat-truoc-mat-sau-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/man-hinh-mat-truoc-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/thiet-ke-mat-lung-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/tren-tay-mat-lung-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/canh-trai-canh-phai-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/canh-tren-canh-duoi-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/canh-tren-loa-ngoai-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/goc-nghieng-phim-nguon-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/cum-camera-sau-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/dung-luong-pin-5000mah-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/man-hinh-120hz-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/thiet-ke-ben-bi-khang-nuoc-ip64-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/tren-tay-man-hinh-tecno-spark-go-3-xanh-duong.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/TECNO-Spark-Go-3.jpg",
+        "assets/images/products/tecno/tecno-spark-go-3/hieu-nang-unisoc-t7250-tecno-spark-go-3.webp",
+        "assets/images/products/tecno/tecno-spark-go-3/thong-so-noi-bat-tecno-spark-go-3-xanh-duong-den-xam.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tecno/tecno-spark-go-3/mat-truoc-mat-sau-tecno-spark-go-3-den.webp",
+      "screen": "assets/images/products/tecno/tecno-spark-go-3/mat-truoc-mat-sau-tecno-spark-go-3-xam-bac.webp",
+      "performance": "assets/images/products/tecno/tecno-spark-go-3/hieu-nang-unisoc-t7250-tecno-spark-go-3.webp",
+      "camera": "assets/images/products/tecno/tecno-spark-go-3/cum-camera-sau-tecno-spark-go-3-den.webp",
+      "battery": "assets/images/products/tecno/tecno-spark-go-3/dung-luong-pin-5000mah-tecno-spark-go-3-xanh-duong.webp",
+      "feature": "assets/images/products/tecno/tecno-spark-go-3/canh-trai-canh-phai-tecno-spark-go-3-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tecno/tecno-spark-go-3/mat-truoc-mat-sau-tecno-spark-go-3-den.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/mat-truoc-mat-sau-tecno-spark-go-3-xam-bac.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/mat-truoc-mat-sau-tecno-spark-go-3-xanh-duong.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/man-hinh-mat-truoc-tecno-spark-go-3-den.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/man-hinh-mat-truoc-tecno-spark-go-3-xam-bac.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/man-hinh-mat-truoc-tecno-spark-go-3-xanh-duong.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/thiet-ke-mat-lung-tecno-spark-go-3-den.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/thiet-ke-mat-lung-tecno-spark-go-3-xam-bac.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/thiet-ke-mat-lung-tecno-spark-go-3-xanh-duong.webp",
+      "assets/images/products/tecno/tecno-spark-go-3/tren-tay-mat-lung-tecno-spark-go-3-xam-bac.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-tecno",
+      "https://www.tecno-mobile.com/vn/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT004-TECSPARKGO3",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "IPS LCD 120Hz, độ sáng cao",
+      "Kích thước màn hình": "6,74 inch",
+      "Độ phân giải màn hình": "1600 x 720 pixel (HD+, 260 ppi)",
+      "Tần số quét": "120Hz",
+      "Kiểu màn hình": "Màn hình phẳng đục lỗ tích hợp Dynamic Port",
+      "Tính năng màn hình": "Tần số quét 120Hz vượt trội trong phân khúc giá rẻ, cảm ứng khi tay ướt Wet Touch"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera AI: Camera chính 13MP (khẩu độ ƒ/1.8, lấy nét tự động AF) kèm đèn flash LED kép hỗ trợ chụp ảnh rõ nét",
+      "Quay video": "Quay video Full HD 1080p ở 30fps",
+      "Tính năng camera": "Chụp đêm AI, Chân dung xóa phông, HDR, Panorama"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera Selfie 8MP kèm đèn flash LED trợ sáng kép ở viền trên, hỗ trợ làm đẹp AI và mở khóa bằng khuôn mặt"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Unisoc T7250 / T615 8 nhân (12nm)",
+      "Loại CPU": "CPU 8 nhân: 2 nhân Cortex-A75 (1,8 GHz) + 6 nhân Cortex-A55 (1,6 GHz)",
+      "GPU": "ARM Mali-G57 MP1"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "4GB LPDDR4X (+4GB Extended RAM)",
+      "Bộ nhớ trong": "2 phiên bản: 64GB và 128GB (Hỗ trợ MicroSD 1TB)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.000 mAh (Pin Li-Po bền bỉ đáp ứng thoải mái gần 2 ngày sử dụng)",
+      "Công nghệ sạc": "Sạc có dây 15W / 18W qua cổng USB Type-C",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 15 / Android 16 (HiOS)",
+      "Công nghệ - Tiện ích": "Dynamic Port hiển thị thông báo động, mở rộng RAM ảo Extended RAM",
+      "Tiện ích khác": "Điều khiển hồng ngoại IR Blaster điều khiển TV/máy lạnh, loa kép Stereo DTS, giắc tai nghe 3.5mm",
+      "Thời điểm ra mắt": "Tháng 01 – 02/2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "4G LTE (Hỗ trợ 4.5G Lightning Network)",
+      "Thẻ SIM": "2 Nano-SIM vật lý + 1 khe thẻ nhớ MicroSD độc lập",
+      "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép",
+      "Bluetooth": "Bluetooth 5.0 hỗ trợ A2DP, LE",
+      "Công nghệ NFC": "Không hỗ trợ NFC",
+      "GPS": "GPS, GLONASS, GALILEO, BDS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung polycarbonate vát phẳng chắc chắn",
+      "Chất liệu mặt lưng": "Mặt lưng hoàn thiện vân nhám chống bám mồ hôi và dấu vân tay",
+      "Kích thước": "165,6 x 77,0 x 8,35 mm",
+      "Trọng lượng": "190 gram",
+      "Chỉ số kháng nước, bụi": "Thiết kế kháng bụi và tia nước bắn sinh hoạt chuẩn IP54"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo chuẩn DTS, tích hợp giắc tai nghe 3.5mm",
+      "Cảm biến vân tay": "Cảm biến vân tay tích hợp phím nguồn cạnh bên + Mở khóa khuôn mặt",
+      "Các loại cảm biến": "Gia tốc kế, Cảm biến tiệm cận, Cảm biến ánh sáng, Hồng ngoại"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,74 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "IPS LCD 120Hz, độ sáng cao"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "1600 x 720 pixel (HD+, 260 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Unisoc T7250 / T615 8 nhân (12nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "4GB LPDDR4X (+4GB Extended RAM)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "2 phiên bản: 64GB và 128GB (Hỗ trợ MicroSD 1TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "13MP Chính AI (ƒ/1.8, AF) kèm đèn flash LED kép"
+    },
+    {
+      "label": "Camera trước",
+      "value": "8MP Selfie kèm đèn flash trợ sáng kép"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh có dây 15W / 18W USB-C"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 15 / Android 16 (HiOS)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "4G LTE (Hỗ trợ 4.5G Lightning Network)"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP54 kháng bụi và nước bắn"
+    }
+  ],
+  "verbatimDescription": [
+    "Ra mắt đầu năm 2026, TECNO SPARK Go 3 là mẫu smartphone khởi điểm nổi bật với màn hình đục lỗ 6,74 inch tần số quét lên tới 120Hz, loa kép Stereo DTS, mắt thần hồng ngoại IR Blaster, vi xử lý 8 nhân kèm 4GB RAM (+4GB mở rộng) và viên pin 5.000 mAh chuẩn kháng nước nhẹ IP54. Tại AURIX MOBILE, SPARK Go 3 mang đến trang bị vượt tầm giá cho học sinh, sinh viên và người lớn tuổi.",
+    "TECNO SPARK Go 3 sở hữu ngoại hình hiện đại với màn hình đục lỗ thay vì màn hình giọt nước cũ kỹ, kết hợp khung viền phẳng chắc chắn đạt chuẩn kháng bụi nước nhẹ IP54.",
+    "Màn hình IPS LCD 6,74 inch (1600 x 720 pixel) hỗ trợ tần số quét 120Hz mượt mà, tính năng cảm ứng khi tay ướt Wet Touch và thanh thông báo động Dynamic Port.",
+    "Camera sau 13MP khẩu độ ƒ/1.8 hỗ trợ lấy nét tự động AF và đèn flash kép, trong khi camera trước 8MP cũng có đèn flash trợ sáng riêng để gọi video trong điều kiện thiếu sáng.",
+    "Vi xử lý 8 nhân Unisoc T7250 kết hợp 4GB RAM (+4GB RAM mở rộng) và bộ nhớ 64GB/128GB đảm bảo khả năng lướt web, xem YouTube và mạng xã hội trơn tru.",
+    "Viên pin 5.000 mAh đi kèm cổng sạc Type-C, loa kép Stereo DTS, mắt hồng ngoại điều khiển thiết bị gia dụng và cảm biến vân tay cạnh bên giúp SPARK Go 3 trở thành chiếc máy giá rẻ toàn diện bậc nhất."
+  ],
+  "priceSegment": "entry-level"
+}

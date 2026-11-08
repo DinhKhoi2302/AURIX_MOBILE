@@ -1,0 +1,539 @@
+{
+  "id": "tecno-pova-curve-2-5g",
+  "brand": "TECNO",
+  "brandId": "tecno",
+  "parentGroupId": "tecno",
+  "model": "TECNO POVA Curve 2 5G",
+  "series": "TECNO POVA Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "midrange"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025 – 2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Ra mắt tháng 2/2026, TECNO POVA Curve 2 5G lập kỷ lục thế giới khi tích hợp viên pin khổng lồ 8.000 mAh vào một chiếc điện thoại màn hình cong 3D AMOLED 144Hz (độ sáng đỉnh 4.500 nit) có độ mỏng dưới 8 mm và nặng chưa đầy 200 gram. Kết hợp cùng vi xử lý MediaTek Dimensity 7100 5G, RAM lên tới 12GB, sạc nhánh Bypass Charging và loa kép Dolby Atmos, TECNO POVA Curve 2 5G tại AURIX MOBILE là 'quái vật năng lượng' mang ngoại hình siêu mẫu. (Nguồn tham chiếu: TECNO Official & GSMArena - TECNO Pova Curve 2 5G).",
+    "highlights": [
+      "6,78 inch Cong 144Hz 4500 nit",
+      "Dimensity 7100 5G",
+      "Pin kỷ lục 8.000 mAh siêu mỏng"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 5790000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT001-TECPOVACURVE25G-BAC-8GB-128GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 5790000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/anh-dai-dien-tecno-pova-curve-2-bac.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/mat-truoc-mat-sau-tecno-pova-curve-2-bac.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-mat-lung-phai-tecno-pova-curve-2-bac.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-mat-lung-trai-tecno-pova-curve-2-bac.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/canh-duoi-cong-sac-tecno-pova-curve-2-bac.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-man-hinh-tecno-pova-curve-2-bac.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/TECNO-POVA-Curve-2-5G.jpg"
+      ]
+    },
+    {
+      "sku": "DT001-TECPOVACURVE25G-BAC-8GB-256GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 6390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/anh-dai-dien-tecno-pova-curve-2-bac.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/mat-truoc-mat-sau-tecno-pova-curve-2-bac.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-mat-lung-phai-tecno-pova-curve-2-bac.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-mat-lung-trai-tecno-pova-curve-2-bac.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/canh-duoi-cong-sac-tecno-pova-curve-2-bac.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-man-hinh-tecno-pova-curve-2-bac.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/TECNO-POVA-Curve-2-5G.jpg"
+      ]
+    },
+    {
+      "sku": "DT001-TECPOVACURVE25G-BAC-12GB-256GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 7090000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/anh-dai-dien-tecno-pova-curve-2-bac.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/mat-truoc-mat-sau-tecno-pova-curve-2-bac.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-mat-lung-phai-tecno-pova-curve-2-bac.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-mat-lung-trai-tecno-pova-curve-2-bac.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/canh-duoi-cong-sac-tecno-pova-curve-2-bac.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-man-hinh-tecno-pova-curve-2-bac.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/TECNO-POVA-Curve-2-5G.jpg"
+      ]
+    },
+    {
+      "sku": "DT001-TECPOVACURVE25G-TIM-8GB-128GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 5790000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/mat-truoc-mat-sau-tecno-pova-curve-2-tim.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-mat-lung-phai-tecno-pova-curve-2-tim.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-mat-lung-trai-tecno-pova-curve-2-tim.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/canh-duoi-cong-sac-tecno-pova-curve-2-tim.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-man-hinh-phai-tecno-pova-curve-2-tim.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-man-hinh-trai-tecno-pova-curve-2-tim.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/TECNO-POVA-Curve-2-5G.jpg"
+      ]
+    },
+    {
+      "sku": "DT001-TECPOVACURVE25G-TIM-8GB-256GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 6390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/mat-truoc-mat-sau-tecno-pova-curve-2-tim.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-mat-lung-phai-tecno-pova-curve-2-tim.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-mat-lung-trai-tecno-pova-curve-2-tim.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/canh-duoi-cong-sac-tecno-pova-curve-2-tim.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-man-hinh-phai-tecno-pova-curve-2-tim.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-man-hinh-trai-tecno-pova-curve-2-tim.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/TECNO-POVA-Curve-2-5G.jpg"
+      ]
+    },
+    {
+      "sku": "DT001-TECPOVACURVE25G-TIM-12GB-256GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 7090000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/mat-truoc-mat-sau-tecno-pova-curve-2-tim.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-mat-lung-phai-tecno-pova-curve-2-tim.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-mat-lung-trai-tecno-pova-curve-2-tim.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/canh-duoi-cong-sac-tecno-pova-curve-2-tim.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-man-hinh-phai-tecno-pova-curve-2-tim.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-man-hinh-trai-tecno-pova-curve-2-tim.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/TECNO-POVA-Curve-2-5G.jpg"
+      ]
+    },
+    {
+      "sku": "DT001-TECPOVACURVE25G-XAM-TITAN-8GB-128GB",
+      "color": "Xám Titan",
+      "colorHex": "#71717A",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 5790000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/thiet-ke-mat-lung-tecno-pova-curve-2-xam-titan.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/canh-duoi-cong-sac-tecno-pova-curve-2-xam-titan.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/TECNO-POVA-Curve-2-5G.jpg"
+      ]
+    },
+    {
+      "sku": "DT001-TECPOVACURVE25G-XAM-TITAN-8GB-256GB",
+      "color": "Xám Titan",
+      "colorHex": "#71717A",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 6390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/thiet-ke-mat-lung-tecno-pova-curve-2-xam-titan.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/canh-duoi-cong-sac-tecno-pova-curve-2-xam-titan.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/TECNO-POVA-Curve-2-5G.jpg"
+      ]
+    },
+    {
+      "sku": "DT001-TECPOVACURVE25G-XAM-TITAN-12GB-256GB",
+      "color": "Xám Titan",
+      "colorHex": "#71717A",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 7090000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/thiet-ke-mat-lung-tecno-pova-curve-2-xam-titan.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/canh-duoi-cong-sac-tecno-pova-curve-2-xam-titan.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/TECNO-POVA-Curve-2-5G.jpg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "AMOLED cong 144Hz, 1,07 tỷ màu, độ sáng đỉnh 4.500 nit",
+    "size": "6,78 inch",
+    "resolution": "2436 x 1080 pixel (FHD+, 429 ppi)",
+    "refreshRate": "144Hz",
+    "brightness": "Tần số quét 144Hz siêu mượt, độ sáng đỉnh 4.500 nit, làm mờ PWM tần số cực cao 2160Hz/4320Hz bảo vệ mắt, cảm ứng khi tay ướt Wet Touch",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "MediaTek Dimensity 7100 5G (6nm)",
+    "cpu": "CPU 8 nhân: 4 nhân Cortex-A78 hiệu năng cao + 4 nhân Cortex-A55 tiết kiệm điện",
+    "gpu": "ARM Mali-G610 MC2 tối ưu hóa gaming",
+    "ram": [
+      "8GB",
+      "12GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "operatingSystem": "HiOS 16 (Android 16)",
+    "uiVersion": "Android",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Chính Sony OIS (ƒ/1.8) + 2MP Đo chiều sâu",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "Quay video 2K / 1080p ở 30/60fps kèm chống rung OIS + EIS"
+    ],
+    "aiFeatures": [
+      "TECNO AI Camera, Super Night Mode, Chân dung AI, AIGC Portrait, xóa vật thể AI Eraser, Dual Video"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "13MP / 32MP Selfie kèm đèn flash trợ sáng",
+    "features": [
+      "Camera Selfie góc rộng tích hợp thuật toán làm đẹp AI và quay video Full HD sắc nét"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "8.000 mAh (Kỷ lục thế giới điện thoại màn hình cong mỏng nhẹ)",
+    "wiredCharging": "Sạc nhanh 45W Ultra Charge, hỗ trợ Sạc nhánh Bypass Charging",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": "Sạc nhanh có dây 45W | Hỗ trợ Sạc nhánh Bypass Charging khi chơi game và sạc ngược có dây 10W"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM vật lý hỗ trợ 5G kép"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 6 / Wi-Fi 5 băng tần kép (2.4GHz & 5GHz)",
+    "bluetooth": "Bluetooth 5.4 hỗ trợ A2DP, LE",
+    "gps": [
+      "GPS, GLONASS, GALILEO, BDS"
+    ],
+    "usb": "USB Type-C 2.0 hỗ trợ OTG",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "164,0 x 74,8 x 7,95 mm",
+    "weight": "199 gram",
+    "materials": [
+      "Khung viền cong siêu mảnh ôm sát lòng bàn tay",
+      "Mặt lưng thiết kế cơ khí viễn tưởng Starship phủ nhám chống bám vân tay"
+    ],
+    "waterResistance": "IP64 / IP65 kháng bụi và tia nước",
+    "availableColors": [
+      "Bạc",
+      "Tím",
+      "Xám Titan"
+    ]
+  },
+  "audio": {
+    "speakers": "Hệ thống loa kép Stereo chuẩn Dolby Atmos & Hi-Res Audio",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "POVA",
+    "TECNO",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền TECNO tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/tecno/tecno-pova-curve-2-5g/anh-dai-dien-tecno-pova-curve-2-bac.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tecno/tecno-pova-curve-2-5g/anh-dai-dien-tecno-pova-curve-2-bac.webp",
+      "assets/images/products/tecno/tecno-pova-curve-2-5g/mat-truoc-mat-sau-tecno-pova-curve-2-bac.webp",
+      "assets/images/products/tecno/tecno-pova-curve-2-5g/mat-truoc-mat-sau-tecno-pova-curve-2-tim.webp",
+      "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-mat-lung-phai-tecno-pova-curve-2-bac.webp",
+      "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-mat-lung-phai-tecno-pova-curve-2-tim.webp",
+      "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-mat-lung-trai-tecno-pova-curve-2-bac.webp",
+      "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-mat-lung-trai-tecno-pova-curve-2-tim.webp",
+      "assets/images/products/tecno/tecno-pova-curve-2-5g/thiet-ke-mat-lung-tecno-pova-curve-2-xam-titan.webp",
+      "assets/images/products/tecno/tecno-pova-curve-2-5g/canh-duoi-cong-sac-tecno-pova-curve-2-bac.webp",
+      "assets/images/products/tecno/tecno-pova-curve-2-5g/canh-duoi-cong-sac-tecno-pova-curve-2-tim.webp",
+      "assets/images/products/tecno/tecno-pova-curve-2-5g/canh-duoi-cong-sac-tecno-pova-curve-2-xam-titan.webp",
+      "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-man-hinh-phai-tecno-pova-curve-2-tim.webp",
+      "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-man-hinh-tecno-pova-curve-2-bac.webp",
+      "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-man-hinh-trai-tecno-pova-curve-2-tim.webp",
+      "assets/images/products/tecno/tecno-pova-curve-2-5g/TECNO-POVA-Curve-2-5G.jpg"
+    ],
+    "byColor": {
+      "Bạc": [
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/anh-dai-dien-tecno-pova-curve-2-bac.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/mat-truoc-mat-sau-tecno-pova-curve-2-bac.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-mat-lung-phai-tecno-pova-curve-2-bac.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-mat-lung-trai-tecno-pova-curve-2-bac.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/canh-duoi-cong-sac-tecno-pova-curve-2-bac.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-man-hinh-tecno-pova-curve-2-bac.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/TECNO-POVA-Curve-2-5G.jpg"
+      ],
+      "Tím": [
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/mat-truoc-mat-sau-tecno-pova-curve-2-tim.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-mat-lung-phai-tecno-pova-curve-2-tim.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-mat-lung-trai-tecno-pova-curve-2-tim.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/canh-duoi-cong-sac-tecno-pova-curve-2-tim.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-man-hinh-phai-tecno-pova-curve-2-tim.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-man-hinh-trai-tecno-pova-curve-2-tim.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/TECNO-POVA-Curve-2-5G.jpg"
+      ],
+      "Xám Titan": [
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/thiet-ke-mat-lung-tecno-pova-curve-2-xam-titan.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/canh-duoi-cong-sac-tecno-pova-curve-2-xam-titan.webp",
+        "assets/images/products/tecno/tecno-pova-curve-2-5g/TECNO-POVA-Curve-2-5G.jpg"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tecno/tecno-pova-curve-2-5g/mat-truoc-mat-sau-tecno-pova-curve-2-bac.webp",
+      "screen": "assets/images/products/tecno/tecno-pova-curve-2-5g/mat-truoc-mat-sau-tecno-pova-curve-2-tim.webp",
+      "performance": "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-man-hinh-phai-tecno-pova-curve-2-tim.webp",
+      "camera": "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-mat-lung-phai-tecno-pova-curve-2-bac.webp",
+      "battery": "assets/images/products/tecno/tecno-pova-curve-2-5g/canh-duoi-cong-sac-tecno-pova-curve-2-bac.webp",
+      "feature": "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-mat-lung-phai-tecno-pova-curve-2-tim.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tecno/tecno-pova-curve-2-5g/mat-truoc-mat-sau-tecno-pova-curve-2-bac.webp",
+      "assets/images/products/tecno/tecno-pova-curve-2-5g/mat-truoc-mat-sau-tecno-pova-curve-2-tim.webp",
+      "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-mat-lung-phai-tecno-pova-curve-2-bac.webp",
+      "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-mat-lung-phai-tecno-pova-curve-2-tim.webp",
+      "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-mat-lung-trai-tecno-pova-curve-2-bac.webp",
+      "assets/images/products/tecno/tecno-pova-curve-2-5g/goc-nghieng-mat-lung-trai-tecno-pova-curve-2-tim.webp",
+      "assets/images/products/tecno/tecno-pova-curve-2-5g/thiet-ke-mat-lung-tecno-pova-curve-2-xam-titan.webp",
+      "assets/images/products/tecno/tecno-pova-curve-2-5g/canh-duoi-cong-sac-tecno-pova-curve-2-bac.webp",
+      "assets/images/products/tecno/tecno-pova-curve-2-5g/canh-duoi-cong-sac-tecno-pova-curve-2-tim.webp",
+      "assets/images/products/tecno/tecno-pova-curve-2-5g/canh-duoi-cong-sac-tecno-pova-curve-2-xam-titan.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-tecno",
+      "https://www.tecno-mobile.com/vn/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT001-TECPOVACURVE25G",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "AMOLED cong 144Hz, 1,07 tỷ màu, độ sáng đỉnh 4.500 nit",
+      "Kích thước màn hình": "6,78 inch",
+      "Độ phân giải màn hình": "2436 x 1080 pixel (FHD+, 429 ppi)",
+      "Tần số quét": "144Hz",
+      "Kiểu màn hình": "Màn hình cong tràn cạnh 3D siêu mỏng, kính cường lực Corning Gorilla Glass 7i",
+      "Tính năng màn hình": "Tần số quét 144Hz siêu mượt, độ sáng đỉnh 4.500 nit, làm mờ PWM tần số cực cao 2160Hz/4320Hz bảo vệ mắt, cảm ứng khi tay ướt Wet Touch"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera AI: Camera chính 50MP cảm biến Sony (khẩu độ ƒ/1.8, lấy nét PDAF, chống rung quang học OIS) + Cảm biến phụ 2MP hỗ trợ xóa phông",
+      "Quay video": "Quay video 2K / 1080p ở 30/60fps kèm chống rung OIS + EIS",
+      "Tính năng camera": "TECNO AI Camera, Super Night Mode, Chân dung AI, AIGC Portrait, xóa vật thể AI Eraser, Dual Video"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera Selfie góc rộng tích hợp thuật toán làm đẹp AI và quay video Full HD sắc nét"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Dimensity 7100 5G (6nm)",
+      "Loại CPU": "CPU 8 nhân: 4 nhân Cortex-A78 hiệu năng cao + 4 nhân Cortex-A55 tiết kiệm điện",
+      "GPU": "ARM Mali-G610 MC2 tối ưu hóa gaming"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB / 12GB LPDDR5 (+12GB Extended RAM)",
+      "Bộ nhớ trong": "2 phiên bản: 128GB và 256GB chuẩn UFS 3.1"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "8.000 mAh (Pin Silicon-Carbon siêu mật độ cao – Điện thoại màn hình cong pin 8.000 mAh mỏng nhất thế giới)",
+      "Công nghệ sạc": "Sạc nhanh có dây 45W | Hỗ trợ Sạc nhánh Bypass Charging khi chơi game và sạc ngược có dây 10W",
+      "Cổng sạc": "USB Type-C 2.0 hỗ trợ OTG"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "HiOS 16 (Android 16)",
+      "Công nghệ - Tiện ích": "Trợ lý thông minh Ella AI tích hợp mô hình ngôn ngữ lớn (tóm tắt văn bản, dịch cuộc gọi, chỉnh sửa ảnh AI), không gian chơi game Game Space Pro",
+      "Tiện ích khác": "Thiết kế Starship साइ-fi tương lai cực kỳ mỏng nhẹ so với viên pin 8.000 mAh, điều khiển hồng ngoại IR Blaster",
+      "Thời điểm ra mắt": "Tháng 02/2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G",
+      "Thẻ SIM": "2 Nano-SIM vật lý hỗ trợ 5G kép",
+      "Wi-Fi": "Wi-Fi 6 / Wi-Fi 5 băng tần kép (2.4GHz & 5GHz)",
+      "Bluetooth": "Bluetooth 5.4 hỗ trợ A2DP, LE",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa năng",
+      "GPS": "GPS, GLONASS, GALILEO, BDS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền cong siêu mảnh ôm sát lòng bàn tay",
+      "Chất liệu mặt lưng": "Mặt lưng thiết kế cơ khí viễn tưởng Starship phủ nhám chống bám vân tay",
+      "Kích thước": "164,0 x 74,8 x 7,95 mm",
+      "Trọng lượng": "199 gram",
+      "Chỉ số kháng nước, bụi": "Đạt chuẩn kháng bụi hoàn toàn và chống tia nước phun IP64 / IP65"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo chuẩn Dolby Atmos & Hi-Res Audio",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình + Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển vật lý (chiến game bắn súng nhạy bén), Tiệm cận, Ánh sáng, La bàn số, Hồng ngoại"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,78 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "AMOLED cong 144Hz, 1,07 tỷ màu, độ sáng đỉnh 4.500 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2436 x 1080 pixel (FHD+, 429 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "144Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 7100 5G (6nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB / 12GB LPDDR5 (+12GB Extended RAM)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "2 phiên bản: 128GB và 256GB chuẩn UFS 3.1"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính Sony OIS (ƒ/1.8) + 2MP Đo chiều sâu"
+    },
+    {
+      "label": "Camera trước",
+      "value": "13MP / 32MP Selfie kèm đèn flash trợ sáng"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "8.000 mAh (Kỷ lục thế giới điện thoại màn hình cong mỏng nhẹ)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh 45W Ultra Charge, hỗ trợ Sạc nhánh Bypass Charging"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "HiOS 16 (Android 16)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP64 / IP65 kháng bụi và tia nước"
+    }
+  ],
+  "verbatimDescription": [
+    "Ra mắt tháng 2/2026, TECNO POVA Curve 2 5G lập kỷ lục thế giới khi tích hợp viên pin khổng lồ 8.000 mAh vào một chiếc điện thoại màn hình cong 3D AMOLED 144Hz (độ sáng đỉnh 4.500 nit) có độ mỏng dưới 8 mm và nặng chưa đầy 200 gram. Kết hợp cùng vi xử lý MediaTek Dimensity 7100 5G, RAM lên tới 12GB, sạc nhánh Bypass Charging và loa kép Dolby Atmos, TECNO POVA Curve 2 5G tại AURIX MOBILE là 'quái vật năng lượng' mang ngoại hình siêu mẫu.",
+    "TECNO POVA Curve 2 5G phá vỡ định kiến điện thoại pin 8.000 mAh phải dày và nặng như cục gạch. Nhờ công nghệ pin Silicon-Carbon mật độ siêu cao kết hợp màn hình cong 3D, máy cầm trên tay vô cùng thanh mảnh, bảo vệ bởi kính Gorilla Glass 7i và đạt chuẩn kháng bụi nước IP64/IP65.",
+    "Màn hình cong 6,78 inch AMOLED của máy hỗ trợ tần số quét 144Hz siêu mượt, độ phân giải sắc nét 429 ppi và độ sáng đỉnh lên tới 4.500 nit cùng công nghệ bảo vệ mắt tần số cao.",
+    "Hệ thống camera 50MP phía sau tích hợp chống rung quang học OIS cùng trọn bộ công cụ TECNO AI (AI Eraser, AIGC Portrait) giúp ghi lại những bức ảnh sắc nét cả ngày lẫn đêm.",
+    "Vi xử lý 5G MediaTek Dimensity 7100 đi kèm tùy chọn 8GB/12GB RAM (+12GB RAM mở rộng) và bộ nhớ 128GB/256GB vận hành mượt mà trên giao diện HiOS 16 (Android 16) tích hợp trợ lý Ella AI.",
+    "Viên pin kỷ lục 8.000 mAh cho phép sử dụng liên tục từ 3 đến 4 ngày, đi kèm sạc nhanh 45W, tính năng Sạc nhánh Bypass Charging bảo vệ pin khi chơi game và loa kép Stereo Dolby Atmos."
+  ],
+  "priceSegment": "midrange"
+}

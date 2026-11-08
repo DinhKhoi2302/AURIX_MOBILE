@@ -1,0 +1,517 @@
+{
+  "id": "poco-f8-pro",
+  "brand": "POCO",
+  "brandId": "poco",
+  "parentGroupId": "xiaomi_group",
+  "model": "POCO F8 Pro",
+  "series": "POCO F Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "upper-midrange"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Giảm giá",
+      "type": "sale"
+    }
+  ],
+  "overview": {
+    "releaseDate": "Tháng 05/2025",
+    "segment": "Cận cao cấp",
+    "description": "POCO F8 Pro là mẫu flagship hiệu năng toàn diện kết hợp giữa vi xử lý đầu bảng Snapdragon 8 Elite (3nm), màn hình phẳng 2K AMOLED độ sáng 3.200 nit và hệ thống 3 camera 50MP có ống kính Tele 2.5x chuyên dụng. Viên pin Silicon-Carbon 6.000 mAh cùng sạc siêu tốc 120W và chuẩn kháng nước IP68 biến máy thành cỗ máy chiến game kiêm nhiếp ảnh đáng gờm.",
+    "highlights": [
+      "Vi xử lý Snapdragon 8 Elite (3nm) cùng hệ thống tản nhiệt 3D IceLoop 5400mm²",
+      "Màn hình phẳng 2K WQHD+ độ sáng 3.200 nit tích hợp vân tay siêu âm 3D dưới màn hình",
+      "Hệ thống 3 camera có ống kính Tele 50MP 2.5x và viên pin 6.000 mAh sạc siêu tốc 120W"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 12990000,
+    "originalPrice": 18990000,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT013-POCOF8P-XANH-NGOC-12GB-256GB",
+      "color": "Xanh Ngọc",
+      "colorHex": "#48B5A3",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 12990000,
+      "originalPrice": 18990000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/poco/poco-f8-pro/anh-dai-dien-xiaomi-poco-f8-pro-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-phai-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-trai-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-f8-pro/canh-duoi-cong-sac-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-f8-pro/canh-phai-nut-nguon-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-f8-pro/canh-trai-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-f8-pro/canh-tren-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-f8-pro/goc-nghieng-man-hinh-phai-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-f8-pro/goc-nghieng-man-hinh-trai-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-f8-pro/man-hinh-poco-hyperrgb-2k-120hz.webp",
+        "assets/images/products/poco/poco-f8-pro/pin-6210mah-dung-luong-lon-ben-bi.webp",
+        "assets/images/products/poco/poco-f8-pro/vi-xu-ly-snapdragon-8-elite-hieu-suat-cao.webp",
+        "assets/images/products/poco/poco-f8-pro/tong-quan-tinh-nang-camera-50mp-snapdragon-8-elite-pin-6210mah.webp"
+      ]
+    },
+    {
+      "sku": "DT013-POCOF8P-XANH-NGOC-12GB-512GB",
+      "color": "Xanh Ngọc",
+      "colorHex": "#48B5A3",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 14490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/poco/poco-f8-pro/anh-dai-dien-xiaomi-poco-f8-pro-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-phai-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-trai-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-f8-pro/canh-duoi-cong-sac-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-f8-pro/canh-phai-nut-nguon-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-f8-pro/canh-trai-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-f8-pro/canh-tren-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-f8-pro/goc-nghieng-man-hinh-phai-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-f8-pro/goc-nghieng-man-hinh-trai-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-f8-pro/man-hinh-poco-hyperrgb-2k-120hz.webp",
+        "assets/images/products/poco/poco-f8-pro/pin-6210mah-dung-luong-lon-ben-bi.webp",
+        "assets/images/products/poco/poco-f8-pro/vi-xu-ly-snapdragon-8-elite-hieu-suat-cao.webp",
+        "assets/images/products/poco/poco-f8-pro/tong-quan-tinh-nang-camera-50mp-snapdragon-8-elite-pin-6210mah.webp"
+      ]
+    },
+    {
+      "sku": "DT013-POCOF8P-BAC-12GB-256GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 12990000,
+      "originalPrice": 18990000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/poco/poco-f8-pro/anh-dai-dien-xiaomi-poco-f8-pro-bac.webp",
+        "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-phai-bac.webp",
+        "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-trai-bac.webp",
+        "assets/images/products/poco/poco-f8-pro/he-thong-3-camera-50mp-ultrapower-bac.webp",
+        "assets/images/products/poco/poco-f8-pro/man-hinh-poco-hyperrgb-2k-120hz.webp",
+        "assets/images/products/poco/poco-f8-pro/pin-6210mah-dung-luong-lon-ben-bi.webp",
+        "assets/images/products/poco/poco-f8-pro/vi-xu-ly-snapdragon-8-elite-hieu-suat-cao.webp",
+        "assets/images/products/poco/poco-f8-pro/tong-quan-tinh-nang-camera-50mp-snapdragon-8-elite-pin-6210mah.webp"
+      ]
+    },
+    {
+      "sku": "DT013-POCOF8P-BAC-12GB-512GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 14490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/poco/poco-f8-pro/anh-dai-dien-xiaomi-poco-f8-pro-bac.webp",
+        "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-phai-bac.webp",
+        "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-trai-bac.webp",
+        "assets/images/products/poco/poco-f8-pro/he-thong-3-camera-50mp-ultrapower-bac.webp",
+        "assets/images/products/poco/poco-f8-pro/man-hinh-poco-hyperrgb-2k-120hz.webp",
+        "assets/images/products/poco/poco-f8-pro/pin-6210mah-dung-luong-lon-ben-bi.webp",
+        "assets/images/products/poco/poco-f8-pro/vi-xu-ly-snapdragon-8-elite-hieu-suat-cao.webp",
+        "assets/images/products/poco/poco-f8-pro/tong-quan-tinh-nang-camera-50mp-snapdragon-8-elite-pin-6210mah.webp"
+      ]
+    },
+    {
+      "sku": "DT013-POCOF8P-DEN-12GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 12990000,
+      "originalPrice": 18990000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/poco/poco-f8-pro/anh-dai-dien-xiaomi-poco-f8-pro-den.webp",
+        "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-phai-den.webp",
+        "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-trai-den.webp",
+        "assets/images/products/poco/poco-f8-pro/man-hinh-poco-hyperrgb-2k-120hz.webp",
+        "assets/images/products/poco/poco-f8-pro/pin-6210mah-dung-luong-lon-ben-bi.webp",
+        "assets/images/products/poco/poco-f8-pro/vi-xu-ly-snapdragon-8-elite-hieu-suat-cao.webp",
+        "assets/images/products/poco/poco-f8-pro/tong-quan-tinh-nang-camera-50mp-snapdragon-8-elite-pin-6210mah.webp"
+      ]
+    },
+    {
+      "sku": "DT013-POCOF8P-DEN-12GB-512GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 14490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/poco/poco-f8-pro/anh-dai-dien-xiaomi-poco-f8-pro-den.webp",
+        "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-phai-den.webp",
+        "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-trai-den.webp",
+        "assets/images/products/poco/poco-f8-pro/man-hinh-poco-hyperrgb-2k-120hz.webp",
+        "assets/images/products/poco/poco-f8-pro/pin-6210mah-dung-luong-lon-ben-bi.webp",
+        "assets/images/products/poco/poco-f8-pro/vi-xu-ly-snapdragon-8-elite-hieu-suat-cao.webp",
+        "assets/images/products/poco/poco-f8-pro/tong-quan-tinh-nang-camera-50mp-snapdragon-8-elite-pin-6210mah.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "AMOLED 2K 12-bit Dolby Vision",
+    "size": "6,67 inch",
+    "resolution": "2K+ (3200 x 1440 pixel)",
+    "refreshRate": "120Hz / 144Hz",
+    "brightness": "Độ sáng đỉnh 3.200 nit, công nghệ phân cực tròn bảo vệ mắt tự nhiên, cảm ứng siêu nhạy Wet Touch 2.0",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 8 Elite (tiến trình TSMC 3nm thế hệ 2, đi kèm buồng hơi tản nhiệt 3D Dual-loop IceLoop 5400mm²)",
+    "cpu": "CPU 8 nhân kiến trúc Oryon (2 siêu nhân xung nhịp lên tới 4.32GHz + 6 nhân hiệu năng cao 3.53GHz)",
+    "gpu": "Qualcomm Adreno 830 (kết hợp chip xử lý hiển thị độc lập hỗ trợ nội suy khung hình 2K 120fps)",
+    "ram": [
+      "12GB"
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ],
+    "operatingSystem": "Xiaomi HyperOS 2.0 (Android 15)",
+    "uiVersion": "Xiaomi HyperOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Light Fusion 800 OIS + 50MP Tele 2.5x + 12MP Siêu rộng",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "Quay video 8K ở 24/30 fps; 4K ở 24/30/60 fps; 1080p ở 30/60/120/240/960 fps; quay video 10-bit Log và HDR10+"
+    ],
+    "aiFeatures": [
+      "Xiaomi AISP nhiếp ảnh điện toán, Chụp liên tiếp tốc độ cao 150 ảnh, Chân dung Master Portrait 60mm, AI Erase Pro, AI Film"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "20MP (ƒ/2.2)",
+    "features": [
+      "Camera trước 20MP OmniVision (khẩu độ ƒ/2.2), hỗ trợ HDR, chụp chân dung đêm và quay video 1080p@60fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "6.000 mAh",
+    "wiredCharging": "Sạc siêu tốc 120W | Không dây 30W",
+    "wirelessCharging": "Có hỗ trợ sạc không dây",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc siêu tốc HyperCharge 120W có dây (nạp đầy 100% trong khoảng 19 phút) | Sạc không dây 30W"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano SIM"
+    ],
+    "network": [
+      "5G Sub-6GHz Dual SIM"
+    ],
+    "wifi": "Wi-Fi 7 (802.11 a/b/g/n/ac/ax/be, hỗ trợ Multi-Link Operation)",
+    "bluetooth": "Bluetooth 5.4 (aptX Lossless, LDAC, LHDC 5.0)",
+    "gps": [
+      "Băng tần kép: GPS (L1+L5), Galileo (E1+E5a), GLONASS, Beidou, NavIC"
+    ],
+    "usb": "USB Type-C",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "160,3 x 75,0 x 8,1 mm",
+    "weight": "206 gram",
+    "materials": [
+      "Khung viền hợp kim nhôm hàng không hoàn thiện nhám mờ",
+      "Mặt lưng kính cường lực bo cong nhẹ bốn cạnh tạo cảm giác cầm nắm ôm tay"
+    ],
+    "waterResistance": "Kháng nước & bụi IP68",
+    "availableColors": [
+      "Xanh Ngọc",
+      "Bạc",
+      "Đen"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo đối xứng tinh chỉnh bởi Dolby Atmos, chứng nhận Hi-Res Audio & Hi-Res Wireless",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "AMOLED 6.67 inch"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền POCO tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/poco/poco-f8-pro/anh-dai-dien-xiaomi-poco-f8-pro-xanh-ngoc.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/poco/poco-f8-pro/anh-dai-dien-xiaomi-poco-f8-pro-xanh-ngoc.webp",
+      "assets/images/products/poco/poco-f8-pro/anh-dai-dien-xiaomi-poco-f8-pro-bac.webp",
+      "assets/images/products/poco/poco-f8-pro/anh-dai-dien-xiaomi-poco-f8-pro-den.webp",
+      "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-phai-bac.webp",
+      "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-phai-den.webp",
+      "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-phai-xanh-ngoc.webp",
+      "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-trai-bac.webp",
+      "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-trai-den.webp",
+      "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-trai-xanh-ngoc.webp",
+      "assets/images/products/poco/poco-f8-pro/canh-duoi-cong-sac-xanh-ngoc.webp",
+      "assets/images/products/poco/poco-f8-pro/canh-phai-nut-nguon-xanh-ngoc.webp",
+      "assets/images/products/poco/poco-f8-pro/canh-trai-xanh-ngoc.webp",
+      "assets/images/products/poco/poco-f8-pro/canh-tren-xanh-ngoc.webp",
+      "assets/images/products/poco/poco-f8-pro/goc-nghieng-man-hinh-phai-xanh-ngoc.webp",
+      "assets/images/products/poco/poco-f8-pro/goc-nghieng-man-hinh-trai-xanh-ngoc.webp",
+      "assets/images/products/poco/poco-f8-pro/he-thong-3-camera-50mp-ultrapower-bac.webp",
+      "assets/images/products/poco/poco-f8-pro/man-hinh-poco-hyperrgb-2k-120hz.webp",
+      "assets/images/products/poco/poco-f8-pro/pin-6210mah-dung-luong-lon-ben-bi.webp",
+      "assets/images/products/poco/poco-f8-pro/vi-xu-ly-snapdragon-8-elite-hieu-suat-cao.webp",
+      "assets/images/products/poco/poco-f8-pro/tong-quan-tinh-nang-camera-50mp-snapdragon-8-elite-pin-6210mah.webp"
+    ],
+    "byColor": {
+      "Bạc": [
+        "assets/images/products/poco/poco-f8-pro/anh-dai-dien-xiaomi-poco-f8-pro-bac.webp",
+        "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-phai-bac.webp",
+        "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-trai-bac.webp",
+        "assets/images/products/poco/poco-f8-pro/he-thong-3-camera-50mp-ultrapower-bac.webp",
+        "assets/images/products/poco/poco-f8-pro/man-hinh-poco-hyperrgb-2k-120hz.webp",
+        "assets/images/products/poco/poco-f8-pro/pin-6210mah-dung-luong-lon-ben-bi.webp",
+        "assets/images/products/poco/poco-f8-pro/vi-xu-ly-snapdragon-8-elite-hieu-suat-cao.webp",
+        "assets/images/products/poco/poco-f8-pro/tong-quan-tinh-nang-camera-50mp-snapdragon-8-elite-pin-6210mah.webp"
+      ],
+      "Đen": [
+        "assets/images/products/poco/poco-f8-pro/anh-dai-dien-xiaomi-poco-f8-pro-den.webp",
+        "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-phai-den.webp",
+        "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-trai-den.webp",
+        "assets/images/products/poco/poco-f8-pro/man-hinh-poco-hyperrgb-2k-120hz.webp",
+        "assets/images/products/poco/poco-f8-pro/pin-6210mah-dung-luong-lon-ben-bi.webp",
+        "assets/images/products/poco/poco-f8-pro/vi-xu-ly-snapdragon-8-elite-hieu-suat-cao.webp",
+        "assets/images/products/poco/poco-f8-pro/tong-quan-tinh-nang-camera-50mp-snapdragon-8-elite-pin-6210mah.webp"
+      ],
+      "Xanh Ngọc": [
+        "assets/images/products/poco/poco-f8-pro/anh-dai-dien-xiaomi-poco-f8-pro-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-phai-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-trai-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-f8-pro/canh-duoi-cong-sac-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-f8-pro/canh-phai-nut-nguon-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-f8-pro/canh-trai-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-f8-pro/canh-tren-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-f8-pro/goc-nghieng-man-hinh-phai-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-f8-pro/goc-nghieng-man-hinh-trai-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-f8-pro/man-hinh-poco-hyperrgb-2k-120hz.webp",
+        "assets/images/products/poco/poco-f8-pro/pin-6210mah-dung-luong-lon-ben-bi.webp",
+        "assets/images/products/poco/poco-f8-pro/vi-xu-ly-snapdragon-8-elite-hieu-suat-cao.webp",
+        "assets/images/products/poco/poco-f8-pro/tong-quan-tinh-nang-camera-50mp-snapdragon-8-elite-pin-6210mah.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-phai-bac.webp",
+      "screen": "assets/images/products/poco/poco-f8-pro/goc-nghieng-man-hinh-phai-xanh-ngoc.webp",
+      "performance": "assets/images/products/poco/poco-f8-pro/vi-xu-ly-snapdragon-8-elite-hieu-suat-cao.webp",
+      "camera": "assets/images/products/poco/poco-f8-pro/he-thong-3-camera-50mp-ultrapower-bac.webp",
+      "battery": "assets/images/products/poco/poco-f8-pro/canh-duoi-cong-sac-xanh-ngoc.webp",
+      "feature": "assets/images/products/poco/poco-f8-pro/anh-dai-dien-xiaomi-poco-f8-pro-bac.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/poco/poco-f8-pro/anh-dai-dien-xiaomi-poco-f8-pro-bac.webp",
+      "assets/images/products/poco/poco-f8-pro/anh-dai-dien-xiaomi-poco-f8-pro-den.webp",
+      "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-phai-bac.webp",
+      "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-phai-den.webp",
+      "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-phai-xanh-ngoc.webp",
+      "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-trai-bac.webp",
+      "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-trai-den.webp",
+      "assets/images/products/poco/poco-f8-pro/goc-nghieng-mat-lung-trai-xanh-ngoc.webp",
+      "assets/images/products/poco/poco-f8-pro/canh-duoi-cong-sac-xanh-ngoc.webp",
+      "assets/images/products/poco/poco-f8-pro/canh-phai-nut-nguon-xanh-ngoc.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-xiaomi-poco",
+      "https://www.po.co/global/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "partial_retail_listing",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT013-POCOF8P",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "AMOLED 2K chuyên dụng eSports, 12-bit (68,7 tỷ màu), hỗ trợ Dolby Vision, HDR10+, làm mờ 3840Hz PWM kết hợp DC Dimming",
+      "Kích thước màn hình": "6,67 inch",
+      "Độ phân giải màn hình": "3200 x 1440 pixel (chuẩn 2K WQHD+, mật độ điểm ảnh ~526 ppi)",
+      "Tần số quét": "120Hz / 144Hz (tần số lấy mẫu cảm ứng tức thời 2560Hz)",
+      "Kiểu màn hình": "Màn hình phẳng viền siêu mỏng đối xứng, bảo vệ bởi kính cường lực Gorilla Glass Victus 2",
+      "Tính năng màn hình": "Độ sáng đỉnh 3.200 nit, công nghệ phân cực tròn bảo vệ mắt tự nhiên, cảm ứng siêu nhạy Wet Touch 2.0"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera đa tiêu cự cao cấp: Camera chính 50MP Light Fusion 800 (kích thước cảm biến 1/1.55 inch, khẩu độ ƒ/1.6, điểm ảnh gộp 2.0μm, dải tương phản 13.2EV, chống rung quang học OIS) + Camera Tele chân dung 50MP (tiêu cự 60mm, zoom quang học 2.5x, zoom lossless 5x, chụp cận cảnh Floating Telephoto) + Camera góc siêu rộng 12MP (góc nhìn 120°)",
+      "Quay video": "Quay video 8K ở 24/30 fps; 4K ở 24/30/60 fps; 1080p ở 30/60/120/240/960 fps; quay video 10-bit Log và HDR10+",
+      "Tính năng camera": "Xiaomi AISP nhiếp ảnh điện toán, Chụp liên tiếp tốc độ cao 150 ảnh, Chân dung Master Portrait 60mm, AI Erase Pro, AI Film"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera trước 20MP OmniVision (khẩu độ ƒ/2.2), hỗ trợ HDR, chụp chân dung đêm và quay video 1080p@60fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 8 Elite (tiến trình TSMC 3nm thế hệ 2, đi kèm buồng hơi tản nhiệt 3D Dual-loop IceLoop 5400mm²)",
+      "Loại CPU": "CPU 8 nhân kiến trúc Oryon (2 siêu nhân xung nhịp lên tới 4.32GHz + 6 nhân hiệu năng cao 3.53GHz)",
+      "GPU": "Qualcomm Adreno 830 (kết hợp chip xử lý hiển thị độc lập hỗ trợ nội suy khung hình 2K 120fps)"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "12GB LPDDR5X tốc độ cao",
+      "Bộ nhớ trong": "256GB / 512GB UFS 4.0"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "6.000 mAh (Pin Silicon-Carbon mật độ năng lượng cao kèm chip quản lý Surge P3 + Surge G1)",
+      "Công nghệ sạc": "Sạc siêu tốc HyperCharge 120W có dây (nạp đầy 100% trong khoảng 19 phút) | Sạc không dây 30W",
+      "Cổng sạc": "USB Type-C"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS 2.0 (Android 15)",
+      "Công nghệ - Tiện ích": "Tăng tốc đồ họa WildBoost 4.0, Trợ lý Xiaomi HyperAI, Cổng hồng ngoại IR Blaster, Chip tăng cường tín hiệu mạng Surge T1S",
+      "Tiện ích khác": "Khung viền hợp kim nhôm nguyên khối, cảm biến vân tay siêu âm 3D dưới màn hình",
+      "Thời điểm ra mắt": "2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G Sub-6GHz (SA/NSA), Dual 5G VoNR",
+      "Thẻ SIM": "2 Nano SIM",
+      "Wi-Fi": "Wi-Fi 7 (802.11 a/b/g/n/ac/ax/be, hỗ trợ Multi-Link Operation)",
+      "Bluetooth": "Bluetooth 5.4 (aptX Lossless, LDAC, LHDC 5.0)",
+      "Công nghệ NFC": "Có hỗ trợ",
+      "GPS": "Băng tần kép: GPS (L1+L5), Galileo (E1+E5a), GLONASS, Beidou, NavIC"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền hợp kim nhôm hàng không hoàn thiện nhám mờ",
+      "Chất liệu mặt lưng": "Mặt lưng kính cường lực bo cong nhẹ bốn cạnh tạo cảm giác cầm nắm ôm tay",
+      "Kích thước": "160,3 x 75,0 x 8,1 mm",
+      "Trọng lượng": "206 gram",
+      "Chỉ số kháng nước, bụi": "Chuẩn IP68 (kháng bụi tuyệt đối và ngâm nước ở độ sâu 1,5m trong 30 phút)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa kép Stereo đối xứng tinh chỉnh bởi Dolby Atmos, chứng nhận Hi-Res Audio & Hi-Res Wireless",
+      "Cảm biến vân tay": "Cảm biến vân tay siêu âm 3D dưới màn hình (nhận diện cực nhanh ngay cả khi tay ướt) & Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Cảm biến ánh sáng 360°, Cảm biến tiệm cận, La bàn điện tử, Cảm biến nhấp nháy, Hồng ngoại IR"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,67 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "AMOLED 2K 12-bit Dolby Vision"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2K+ (3200 x 1440 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz / 144Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Snapdragon 8 Elite (3nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB / 512GB UFS 4.0"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Light Fusion 800 OIS + 50MP Tele 2.5x + 12MP Siêu rộng"
+    },
+    {
+      "label": "Camera trước",
+      "value": "20MP (ƒ/2.2)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "6.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc siêu tốc 120W | Không dây 30W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS 2.0 (Android 15)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G Sub-6GHz Dual SIM"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "Kháng nước & bụi IP68"
+    }
+  ],
+  "verbatimDescription": [
+    "POCO F8 Pro đánh dấu bước chuyển mình mạnh mẽ của dòng F-Pro khi không chỉ tập trung vào sức mạnh thuần túy mà còn nâng cấp toàn diện về camera, pin và độ bền. Trái tim của thiết bị là vi xử lý Snapdragon 8 Elite sản xuất trên tiến trình 3nm thế hệ thứ hai với kiến trúc CPU Oryon đạt xung nhịp lên đến 4.32GHz.",
+    "Nhờ buồng hơi tản nhiệt 3D Dual-loop IceLoop diện tích 5.400mm² và thuật toán WildBoost 4.0, POCO F8 Pro duy trì tốc độ khung hình kịch trần trong các tựa game thế giới mở nặng nhất mà vẫn giữ nhiệt độ mặt lưng dễ chịu.",
+    "Mặt trước máy là tấm nền AMOLED 6,67 inch độ phân giải 2K+ (3200 x 1440 pixel) siêu sắc nét với mật độ điểm ảnh 526 ppi. Màn hình hỗ trợ độ sáng đỉnh 3.200 nit, công nghệ phân cực tròn bảo vệ mắt tự nhiên và tích hợp cảm biến vân tay siêu âm 3D cao cấp ở vị trí thuận tiện cho ngón cái.",
+    "Khác biệt lớn so với các thế hệ trước là cụm 3 camera sau hoàn chỉnh: cảm biến chính 50MP Light Fusion 800 (1/1.55 inch, OIS) kết hợp cùng camera Tele 50MP tiêu cự 60mm hỗ trợ zoom quang 2.5x và camera góc siêu rộng 12MP. Sự xuất hiện của ống kính tele giúp chụp ảnh chân dung xóa phông tự nhiên và thu phóng远 cảnh sắc nét.",
+    "Về năng lượng, viên pin Silicon-Carbon 6.000 mAh đi kèm sạc có dây 120W và sạc không dây 30W mang lại sự an tâm tuyệt đối suốt ngày dài. Toàn bộ thân máy được hoàn thiện với khung nhôm cứng cáp và đạt chuẩn kháng bụi nước IP68."
+  ],
+  "priceSegment": "upper-midrange"
+}

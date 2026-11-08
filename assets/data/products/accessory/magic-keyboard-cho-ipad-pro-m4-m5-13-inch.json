@@ -1,0 +1,173 @@
+{
+  "id": "magic-keyboard-cho-ipad-pro-m4-m5-13-inch",
+  "docCode": "PK-KB017-APMPRO13",
+  "model": "Bàn Phím Apple Magic Keyboard cho iPad Pro 13 inch M4/M5 (2024)",
+  "brand": "Apple",
+  "brandId": "apple",
+  "parentGroupId": "apple",
+  "series": "Bàn phím & Bao da",
+  "subCategory": "keyboard",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "keyboard"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Bàn phím & Bao da",
+    "highlights": [
+      "Smart Connector"
+    ],
+    "description": "Biến iPad Pro 13 inch M4 thành một cỗ máy làm việc chuyên nghiệp đỉnh cao. Mặt kê tay bằng nhôm mát lạnh, trackpad siêu rộng phản hồi haptic chuẩn xác từng milimet, bản lề góc nhìn linh hoạt và bảo vệ hoàn hảo cả 2 mặt máy."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 9790000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/anh-dai-dien-magic-keyboard-cho-ipad-pro-m4-m5-13-inch-trang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/anh-dai-dien-magic-keyboard-cho-ipad-pro-m4-m5-13-inch-trang.webp",
+      "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/anh-dai-dien-magic-keyboard-cho-ipad-pro-m4-m5-13-inch-den.webp",
+      "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/mat-chinh-dien-kem-ipad-den.webp",
+      "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/mat-chinh-dien-kem-ipad-trang.webp",
+      "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/goc-nghieng-mat-sau-den.webp",
+      "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/goc-nghieng-mat-sau-trang.webp",
+      "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/canh-ben-ban-le-treo-den.webp",
+      "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/canh-ben-ban-le-treo-trang.webp",
+      "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/goc-nghieng-phai-kem-ipad-den.webp",
+      "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/goc-nghieng-phai-kem-ipad-trang.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/anh-dai-dien-magic-keyboard-cho-ipad-pro-m4-m5-13-inch-den.webp",
+        "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/mat-chinh-dien-kem-ipad-den.webp",
+        "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/goc-nghieng-mat-sau-den.webp",
+        "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/canh-ben-ban-le-treo-den.webp",
+        "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/goc-nghieng-phai-kem-ipad-den.webp"
+      ],
+      "Trắng": [
+        "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/anh-dai-dien-magic-keyboard-cho-ipad-pro-m4-m5-13-inch-trang.webp",
+        "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/mat-chinh-dien-kem-ipad-trang.webp",
+        "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/goc-nghieng-mat-sau-trang.webp",
+        "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/canh-ben-ban-le-treo-trang.webp",
+        "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/goc-nghieng-phai-kem-ipad-trang.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/goc-nghieng-mat-sau-den.webp",
+      "screen": "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/mat-chinh-dien-kem-ipad-den.webp",
+      "performance": "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/anh-dai-dien-magic-keyboard-cho-ipad-pro-m4-m5-13-inch-den.webp",
+      "camera": "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/goc-nghieng-mat-sau-trang.webp",
+      "battery": "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/canh-ben-ban-le-treo-den.webp",
+      "feature": "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/goc-nghieng-phai-kem-ipad-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/anh-dai-dien-magic-keyboard-cho-ipad-pro-m4-m5-13-inch-den.webp",
+      "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/mat-chinh-dien-kem-ipad-den.webp",
+      "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/mat-chinh-dien-kem-ipad-trang.webp",
+      "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/goc-nghieng-mat-sau-den.webp",
+      "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/goc-nghieng-mat-sau-trang.webp",
+      "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/canh-ben-ban-le-treo-den.webp",
+      "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/canh-ben-ban-le-treo-trang.webp",
+      "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/goc-nghieng-phai-kem-ipad-den.webp",
+      "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/goc-nghieng-phai-kem-ipad-trang.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Apple",
+      "Loại bàn phím": "Bàn phím lơ lửng vỏ nhôm cao cấp cỡ lớn",
+      "Thiết bị tương thích": "iPad Pro 13 inch M4 (2024), iPad Pro M5",
+      "Kiểu kết nối": "Smart Connector",
+      "Ngôn ngữ bàn phím": "Tiếng Anh (US)",
+      "Bàn di chuột (Touchpad)": "Có (Trackpad kính lớn kèm phản hồi xúc giác Haptic)",
+      "Đèn nền bàn phím": "Có",
+      "Nguồn cấp điện": "Cấp nguồn từ iPad qua Smart Connector",
+      "Màu sắc": "Đen, Trắng"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Apple"
+    },
+    {
+      "label": "Loại bàn phím",
+      "value": "Bàn phím lơ lửng vỏ nhôm cao cấp cỡ lớn"
+    },
+    {
+      "label": "Thiết bị tương thích",
+      "value": "iPad Pro 13 inch M4 (2024), iPad Pro M5"
+    },
+    {
+      "label": "Kiểu kết nối",
+      "value": "Smart Connector"
+    },
+    {
+      "label": "Ngôn ngữ bàn phím",
+      "value": "Tiếng Anh (US)"
+    },
+    {
+      "label": "Bàn di chuột (Touchpad)",
+      "value": "Có (Trackpad kính lớn kèm phản hồi xúc giác Haptic)"
+    },
+    {
+      "label": "Đèn nền bàn phím",
+      "value": "Có"
+    },
+    {
+      "label": "Nguồn cấp điện",
+      "value": "Cấp nguồn từ iPad qua Smart Connector"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Đen, Trắng"
+    }
+  ],
+  "verbatimDescription": [
+    "Biến iPad Pro 13 inch M4 thành một cỗ máy làm việc chuyên nghiệp đỉnh cao. Mặt kê tay bằng nhôm mát lạnh, trackpad siêu rộng phản hồi haptic chuẩn xác từng milimet, bản lề góc nhìn linh hoạt và bảo vệ hoàn hảo cả 2 mặt máy."
+  ],
+  "variants": [
+    {
+      "sku": "PK-KB017-APMPRO13-TRANG-TIEU-CHUAN",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 9790000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/anh-dai-dien-magic-keyboard-cho-ipad-pro-m4-m5-13-inch-trang.webp",
+        "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/mat-chinh-dien-kem-ipad-trang.webp",
+        "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/goc-nghieng-mat-sau-trang.webp",
+        "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/canh-ben-ban-le-treo-trang.webp",
+        "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/goc-nghieng-phai-kem-ipad-trang.webp"
+      ]
+    },
+    {
+      "sku": "PK-KB017-APMPRO13-DEN-TIEU-CHUAN",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 9790000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/anh-dai-dien-magic-keyboard-cho-ipad-pro-m4-m5-13-inch-den.webp",
+        "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/mat-chinh-dien-kem-ipad-den.webp",
+        "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/goc-nghieng-mat-sau-den.webp",
+        "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/canh-ben-ban-le-treo-den.webp",
+        "assets/images/products/accessory/keyboard/magic-keyboard-cho-ipad-pro-m4-m5-13-inch/goc-nghieng-phai-kem-ipad-den.webp"
+      ]
+    }
+  ]
+}

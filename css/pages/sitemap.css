@@ -1,0 +1,85 @@
+/* TechPhone — Sitemap Page Styles */
+.tp-sitemap-diagram {
+  background: var(--tp-white);
+  border: 1px solid var(--tp-border);
+  border-radius: var(--tp-radius-xl);
+  padding: 2rem;
+  box-shadow: var(--tp-shadow-sm);
+  margin-bottom: 2rem;
+}
+.tp-sitemap-root {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+  position: relative;
+}
+.tp-sitemap-node-root {
+  background: linear-gradient(135deg, var(--tp-navy), var(--tp-primary));
+  color: var(--tp-white);
+  padding: 1rem 2rem;
+  border-radius: var(--tp-radius-lg);
+  font-weight: 800;
+  font-size: 1.1rem;
+  box-shadow: var(--tp-shadow-md);
+  text-align: center;
+}
+.tp-sitemap-branches {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 1.15rem;
+}
+.tp-sitemap-group {
+  background: var(--tp-bg-page);
+  border: 1px solid var(--tp-border);
+  border-radius: var(--tp-radius-lg);
+  padding: 1.25rem;
+}
+.tp-sitemap-group h3 {
+  font-size: 1rem;
+  font-weight: 800;
+  color: var(--tp-navy);
+  margin-bottom: 0.85rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--tp-primary);
+}
+.tp-sitemap-node {
+  display: block;
+  background: var(--tp-white);
+  border: 1px solid var(--tp-border);
+  border-radius: var(--tp-radius-sm);
+  padding: 0.65rem 0.85rem;
+  margin-bottom: 0.6rem;
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--tp-navy);
+  transition: all 0.2s ease;
+}
+.tp-sitemap-node:hover {
+  border-color: var(--tp-primary);
+  color: var(--tp-primary);
+  transform: translateY(-2px);
+  box-shadow: var(--tp-shadow-xs);
+}
+.tp-flow-box {
+  background: var(--tp-primary-soft);
+  border: 1px solid #C5DFFF;
+  border-radius: var(--tp-radius-lg);
+  padding: 1.25rem 1.5rem;
+  margin-top: 1.25rem;
+}
+.tp-flow-steps {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin-top: 0.65rem;
+}
+.tp-flow-step {
+  background: var(--tp-white);
+  border: 1px solid var(--tp-primary);
+  color: var(--tp-primary);
+  font-weight: 700;
+  font-size: 0.85rem;
+  padding: 0.45rem 0.9rem;
+  border-radius: var(--tp-radius-pill);
+}

@@ -1,0 +1,525 @@
+{
+  "id": "galaxy-s25-fe-5g",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "model": "Samsung Galaxy S25 FE 5G",
+  "series": "Galaxy S25 Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "upper-midrange"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 19,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "Năm 2025",
+    "segment": "Cận cao cấp",
+    "description": "Samsung Galaxy S25 FE 5G mang đến trải nghiệm cận flagship vượt trội với thân máy mỏng nhẹ hơn (7,4 mm, 190 gram), màn hình lớn 6,7 inch Dynamic AMOLED 2X 120Hz, vi xử lý 10 nhân Exynos 2400 (4nm) đầy đủ sức mạnh cho Galaxy AI, cụm 3 camera 50MP OIS có ống kính Telephoto 3x cùng viên pin nâng cấp lên 4.900 mAh sạc nhanh 45W.",
+    "highlights": [
+      "6,7 inch AMOLED 120Hz",
+      "Exynos 2400 (4nm)",
+      "3 Camera 50MP OIS + Tele 3x",
+      "Pin 4.900 mAh · Sạc 45W"
+    ],
+    "officialDistribution": "Model được bảo lưu từ danh sách trước nhưng chưa đủ bằng chứng đang mở bán chính thức trong lượt đối chiếu ngày 01/11/2026; giữ trạng thái needs_verification để không mất dấu dữ liệu."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 13490000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT011-SSS25FE5G-TRANG-8GB-128GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 13490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s25-fe-5g/anh-dai-dien-samsung-galaxy-s25-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/dung-luong-pin-4900mah-sac-45w-samsung-galaxy-s25-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/Galaxy-S25-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-man-hinh-amoled-120hz-samsung-galaxy-s25-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-noi-bat-samsung-galaxy-s25-fe-5g-xanh-duong-nhat-xanh-navy.webp"
+      ]
+    },
+    {
+      "sku": "DT011-SSS25FE5G-TRANG-8GB-256GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 14990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s25-fe-5g/anh-dai-dien-samsung-galaxy-s25-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/dung-luong-pin-4900mah-sac-45w-samsung-galaxy-s25-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/Galaxy-S25-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-man-hinh-amoled-120hz-samsung-galaxy-s25-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-noi-bat-samsung-galaxy-s25-fe-5g-xanh-duong-nhat-xanh-navy.webp"
+      ]
+    },
+    {
+      "sku": "DT011-SSS25FE5G-XANH-NAVY-8GB-128GB",
+      "color": "Xanh Navy",
+      "colorHex": "#1E3A8A",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 13490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s25-fe-5g/anh-dai-dien-samsung-galaxy-s25-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/he-thong-camera-50mp-samsung-galaxy-s25-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/Galaxy-S25-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-man-hinh-amoled-120hz-samsung-galaxy-s25-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-noi-bat-samsung-galaxy-s25-fe-5g-xanh-duong-nhat-xanh-navy.webp"
+      ]
+    },
+    {
+      "sku": "DT011-SSS25FE5G-XANH-NAVY-8GB-256GB",
+      "color": "Xanh Navy",
+      "colorHex": "#1E3A8A",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 14990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s25-fe-5g/anh-dai-dien-samsung-galaxy-s25-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/he-thong-camera-50mp-samsung-galaxy-s25-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/Galaxy-S25-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-man-hinh-amoled-120hz-samsung-galaxy-s25-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-noi-bat-samsung-galaxy-s25-fe-5g-xanh-duong-nhat-xanh-navy.webp"
+      ]
+    },
+    {
+      "sku": "DT011-SSS25FE5G-DEN-8GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 13490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s25-fe-5g/anh-dai-dien-samsung-galaxy-s25-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/mat-truoc-mat-sau-samsung-galaxy-s25-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/Galaxy-S25-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-man-hinh-amoled-120hz-samsung-galaxy-s25-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-noi-bat-samsung-galaxy-s25-fe-5g-xanh-duong-nhat-xanh-navy.webp"
+      ]
+    },
+    {
+      "sku": "DT011-SSS25FE5G-DEN-8GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 14990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s25-fe-5g/anh-dai-dien-samsung-galaxy-s25-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/mat-truoc-mat-sau-samsung-galaxy-s25-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/Galaxy-S25-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-man-hinh-amoled-120hz-samsung-galaxy-s25-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-noi-bat-samsung-galaxy-s25-fe-5g-xanh-duong-nhat-xanh-navy.webp"
+      ]
+    },
+    {
+      "sku": "DT011-SSS25FE5G-XANH-DUONG-NHAT-8GB-128GB",
+      "color": "Xanh Dương Nhạt",
+      "colorHex": "#D4E5F7",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 13490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s25-fe-5g/anh-dai-dien-samsung-galaxy-s25-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/Galaxy-S25-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-man-hinh-amoled-120hz-samsung-galaxy-s25-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-noi-bat-samsung-galaxy-s25-fe-5g-xanh-duong-nhat-xanh-navy.webp"
+      ]
+    },
+    {
+      "sku": "DT011-SSS25FE5G-XANH-DUONG-NHAT-8GB-256GB",
+      "color": "Xanh Dương Nhạt",
+      "colorHex": "#D4E5F7",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 14990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s25-fe-5g/anh-dai-dien-samsung-galaxy-s25-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/Galaxy-S25-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-man-hinh-amoled-120hz-samsung-galaxy-s25-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-noi-bat-samsung-galaxy-s25-fe-5g-xanh-duong-nhat-xanh-navy.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "Dynamic AMOLED 2X",
+    "size": "6,7 inch",
+    "resolution": "Full HD+ (1080 x 2340 pixel)",
+    "refreshRate": "120Hz",
+    "brightness": "1.900 nit",
+    "hdr": "HDR10+",
+    "protection": "Corning Gorilla Glass Victus+",
+    "features": [
+      "Tần số quét 120Hz",
+      "Vision Booster",
+      "Bảo vệ mắt"
+    ]
+  },
+  "performance": {
+    "chipset": "Samsung Exynos 2400 (4nm)",
+    "cpu": "10 nhân (1x 3,2 GHz Cortex-X4 + 2x 2,9 GHz + 3x 2,6 GHz + 4x 1,95 GHz)",
+    "gpu": "Samsung Xclipse 940",
+    "ram": [
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "operatingSystem": "Android 16, One UI 8 (Nâng cấp One UI 9)",
+    "uiVersion": "One UI",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Wide f/1.8 (24mm, Dual Pixel PDAF, OIS)",
+    "ultraWide": "12MP Ultra Wide f/2.2 (13mm, 123°)",
+    "telephoto": "8MP Telephoto f/2.4 (75mm, PDAF, OIS, Zoom quang học 3x)",
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "8K@24/30fps",
+      "4K@30/60/120fps",
+      "1080p@30/60/120/240fps",
+      "HDR10+"
+    ],
+    "aiFeatures": [
+      "ProVisual Engine",
+      "Galaxy AI Photo Assist",
+      "Nightography",
+      "Best Face"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "12MP Wide f/2.2 (26mm)",
+    "features": [
+      "HDR10+"
+    ],
+    "videoRecording": [
+      "4K@30/60fps",
+      "1080p@30/60fps"
+    ]
+  },
+  "battery": {
+    "capacity": "4.900 mAh",
+    "wiredCharging": "Sạc siêu nhanh 45W USB-C PD (65% trong 30 phút)",
+    "wirelessCharging": "Sạc không dây 15W (tương thích Qi2)",
+    "reverseCharging": "Chia sẻ pin không dây",
+    "chargingTechnology": "Super Fast Charging 2.0 (45W)"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM / eSIM kép"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 6E (802.11 a/b/g/n/ac/6e)",
+    "bluetooth": "Bluetooth 5.4 (A2DP, LE)",
+    "gps": [
+      "GPS",
+      "GLONASS",
+      "GALILEO",
+      "BDS"
+    ],
+    "usb": "USB Type-C 3.2, OTG",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "161,3 x 76,6 x 7,4 mm",
+    "weight": "190 g",
+    "materials": [
+      "Khung Enhanced Armor Aluminum",
+      "Hai mặt kính Corning Gorilla Glass Victus+"
+    ],
+    "waterResistance": "IP68 (1,5m trong 30 phút)",
+    "availableColors": [
+      "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo",
+    "headphoneJack": null,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "6,7 inch AMOLED 120Hz",
+    "Exynos 2400 (4nm)",
+    "3 Camera 50MP OIS + Tele 3x",
+    "Pin 4.900 mAh · Sạc 45W"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Samsung tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/samsung/galaxy-s25-fe-5g/anh-dai-dien-samsung-galaxy-s25-fe-5g-trang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/samsung/galaxy-s25-fe-5g/anh-dai-dien-samsung-galaxy-s25-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-s25-fe-5g/anh-dai-dien-samsung-galaxy-s25-fe-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s25-fe-5g/anh-dai-dien-samsung-galaxy-s25-fe-5g-xanh-duong-nhat.webp",
+      "assets/images/products/samsung/galaxy-s25-fe-5g/anh-dai-dien-samsung-galaxy-s25-fe-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s25-fe-5g/mat-truoc-mat-sau-samsung-galaxy-s25-fe-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s25-fe-5g/he-thong-camera-50mp-samsung-galaxy-s25-fe-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s25-fe-5g/Galaxy-S25-FE-5G.jpg",
+      "assets/images/products/samsung/galaxy-s25-fe-5g/dung-luong-pin-4900mah-sac-45w-samsung-galaxy-s25-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-man-hinh-amoled-120hz-samsung-galaxy-s25-fe-5g-xanh-duong-nhat.webp",
+      "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-noi-bat-samsung-galaxy-s25-fe-5g-xanh-duong-nhat-xanh-navy.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/samsung/galaxy-s25-fe-5g/anh-dai-dien-samsung-galaxy-s25-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/mat-truoc-mat-sau-samsung-galaxy-s25-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/Galaxy-S25-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-man-hinh-amoled-120hz-samsung-galaxy-s25-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-noi-bat-samsung-galaxy-s25-fe-5g-xanh-duong-nhat-xanh-navy.webp"
+      ],
+      "Trắng": [
+        "assets/images/products/samsung/galaxy-s25-fe-5g/anh-dai-dien-samsung-galaxy-s25-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/dung-luong-pin-4900mah-sac-45w-samsung-galaxy-s25-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/Galaxy-S25-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-man-hinh-amoled-120hz-samsung-galaxy-s25-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-noi-bat-samsung-galaxy-s25-fe-5g-xanh-duong-nhat-xanh-navy.webp"
+      ],
+      "Xanh Dương Nhạt": [
+        "assets/images/products/samsung/galaxy-s25-fe-5g/anh-dai-dien-samsung-galaxy-s25-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/Galaxy-S25-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-man-hinh-amoled-120hz-samsung-galaxy-s25-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-noi-bat-samsung-galaxy-s25-fe-5g-xanh-duong-nhat-xanh-navy.webp"
+      ],
+      "Xanh Navy": [
+        "assets/images/products/samsung/galaxy-s25-fe-5g/anh-dai-dien-samsung-galaxy-s25-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/he-thong-camera-50mp-samsung-galaxy-s25-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/Galaxy-S25-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-man-hinh-amoled-120hz-samsung-galaxy-s25-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-noi-bat-samsung-galaxy-s25-fe-5g-xanh-duong-nhat-xanh-navy.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/samsung/galaxy-s25-fe-5g/mat-truoc-mat-sau-samsung-galaxy-s25-fe-5g-den.webp",
+      "screen": "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-man-hinh-amoled-120hz-samsung-galaxy-s25-fe-5g-xanh-duong-nhat.webp",
+      "performance": "assets/images/products/samsung/galaxy-s25-fe-5g/Galaxy-S25-FE-5G.jpg",
+      "camera": "assets/images/products/samsung/galaxy-s25-fe-5g/he-thong-camera-50mp-samsung-galaxy-s25-fe-5g-xanh-navy.webp",
+      "battery": "assets/images/products/samsung/galaxy-s25-fe-5g/dung-luong-pin-4900mah-sac-45w-samsung-galaxy-s25-fe-5g-trang.webp",
+      "feature": "assets/images/products/samsung/galaxy-s25-fe-5g/anh-dai-dien-samsung-galaxy-s25-fe-5g-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/samsung/galaxy-s25-fe-5g/anh-dai-dien-samsung-galaxy-s25-fe-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s25-fe-5g/anh-dai-dien-samsung-galaxy-s25-fe-5g-xanh-duong-nhat.webp",
+      "assets/images/products/samsung/galaxy-s25-fe-5g/anh-dai-dien-samsung-galaxy-s25-fe-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s25-fe-5g/mat-truoc-mat-sau-samsung-galaxy-s25-fe-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s25-fe-5g/he-thong-camera-50mp-samsung-galaxy-s25-fe-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s25-fe-5g/Galaxy-S25-FE-5G.jpg",
+      "assets/images/products/samsung/galaxy-s25-fe-5g/dung-luong-pin-4900mah-sac-45w-samsung-galaxy-s25-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-man-hinh-amoled-120hz-samsung-galaxy-s25-fe-5g-xanh-duong-nhat.webp",
+      "assets/images/products/samsung/galaxy-s25-fe-5g/thong-so-noi-bat-samsung-galaxy-s25-fe-5g-xanh-duong-nhat-xanh-navy.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s26-series",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s25-series",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-z",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-a",
+      "https://www.samsung.com/vn/smartphones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "needs_verification",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Cần xác minh thêm",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT011-SSS25FE5G",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "Dynamic AMOLED 2X",
+      "Kích thước màn hình": "6,7 inch (tỷ lệ hiển thị ~89,2% mặt trước)",
+      "Độ phân giải màn hình": "Full HD+ (1080 x 2340 pixel, ~385 ppi)",
+      "Tần số quét": "120Hz",
+      "Kiểu màn hình": "Màn hình phẳng Infinity-O, kính Corning Gorilla Glass Victus+",
+      "Tính năng màn hình": "Độ sáng đỉnh 1.900 nit, HDR10+, Vision Booster, Always-On Display"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera: Chính 50MP (f/1.8, 24mm, Dual Pixel PDAF, OIS) + Góc siêu rộng 12MP (f/2.2, 13mm, 123°) + Telephoto 8MP (f/2.4, 75mm, OIS, Zoom quang học 3x)",
+      "Quay video": "8K@24/30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, HDR10+, chống rung OIS + gyro-EIS",
+      "Tính năng camera": "Zoom quang học 3x, Zoom số 30x, ProVisual Engine, Best Face, Nightography, Panorama"
+    },
+    "Camera trước": {
+      "Camera trước": "12MP (f/2.2, 26mm); hỗ trợ HDR10+ và quay video 4K@30/60fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Samsung Exynos 2400 (tiến trình 4nm)",
+      "Loại CPU": "10 nhân (1x 3,2 GHz Cortex-X4 + 2x 2,9 GHz Cortex-A720 + 3x 2,6 GHz Cortex-A720 + 4x 1,95 GHz Cortex-A520)",
+      "GPU": "Samsung Xclipse 940 hỗ trợ Ray Tracing"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB LPDDR5X",
+      "Bộ nhớ trong": "2 phiên bản: 128GB và 256GB chuẩn UFS 4.0"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "4.900 mAh (Li-Ion)",
+      "Công nghệ sạc": "Sạc siêu nhanh có dây 45W PD (đạt 65% pin trong 30 phút), sạc không dây 15W (tương thích Qi2), chia sẻ pin không dây",
+      "Cổng sạc": "USB Type-C 3.2, hỗ trợ OTG và Samsung DeX"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 16, One UI 8 (hỗ trợ cập nhật 7 thế hệ Android, đã có One UI 9)",
+      "Công nghệ - Tiện ích": "Tích hợp đầy đủ bộ tính năng Galaxy AI, Circle to Search, Live Translate, Photo Assist, Samsung DeX",
+      "Tiện ích khác": "Bảo mật Samsung Knox, cảm biến vân tay quang học dưới màn hình",
+      "Thời điểm ra mắt": "04/09/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G SA/NSA/Sub6 đa băng tần, LTE-A",
+      "Thẻ SIM": "SIM kép (2 Nano-SIM vật lý hoặc Nano-SIM + eSIM / 2 eSIM)",
+      "Wi-Fi": "Wi-Fi 6E (802.11 a/b/g/n/ac/6e), Wi-Fi Direct",
+      "Bluetooth": "Bluetooth 5.4 (A2DP, LE)",
+      "Công nghệ NFC": "Có hỗ trợ NFC",
+      "GPS": "GPS, GLONASS, GALILEO, BDS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung hợp kim Enhanced Armor Aluminum",
+      "Chất liệu mặt lưng": "Hai mặt kính cường lực Corning Gorilla Glass Victus+",
+      "Kích thước": "161,3 x 76,6 x 7,4 mm",
+      "Trọng lượng": "190 gram",
+      "Chỉ số kháng nước, bụi": "IP68 theo tiêu chuẩn IEC 60529 (kháng nước ở độ sâu 1,5 mét trong 30 phút)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo, hỗ trợ Dolby Atmos",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình",
+      "Các loại cảm biến": "Vân tay dưới màn hình, Gia tốc kế, Con quay hồi chuyển, Cảm biến tiệm cận, La bàn số, Áp kế"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,7 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "Dynamic AMOLED 2X"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "Full HD+ (1080 x 2340 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Samsung Exynos 2400 (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB UFS 4.0"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính OIS + 12MP Ultra Wide + 8MP Telephoto 3x OIS"
+    },
+    {
+      "label": "Camera trước",
+      "value": "12MP, khẩu độ f/2.2, quay 4K 60fps"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "4.900 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc có dây 45W, sạc không dây Qi2 15W, sạc ngược không dây"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 16, One UI 8 (hỗ trợ One UI 9)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 (1,5 mét trong 30 phút)"
+    }
+  ],
+  "verbatimDescription": [
+    "Samsung Galaxy S25 FE 5G là bước lột xác toàn diện của dòng Fan Edition khi được thu gọn độ mỏng xuống chỉ còn 7,4 mm và giảm trọng lượng còn 190 gram (nhẹ hơn 23 gram so với S24 FE), đồng thời nâng cấp dung lượng pin lên 4.900 mAh và công suất sạc nhanh lên 45W tương đương dòng S25 Plus.",
+    "Vẻ ngoài của Galaxy S25 FE 5G toát lên sự cao cấp nhờ khung viền Enhanced Armor Aluminum kết hợp hai mặt kính cường lực Corning Gorilla Glass Victus+ và chuẩn kháng nước/bụi IP68. Màn hình phẳng Dynamic AMOLED 2X kích thước 6,7 inch độ phân giải Full HD+ (1080 x 2340 pixel) sở hữu tần số quét 120Hz, chuẩn HDR10+ và độ sáng đỉnh 1.900 nit giúp hiển thị sắc nét trong mọi môi trường.",
+    "Về hiệu năng, máy được trang bị vi xử lý 10 nhân Samsung Exynos 2400 (4nm) bản đầy đủ với xung nhịp lên đến 3,2 GHz và GPU Xclipse 940 hỗ trợ dò tia phần cứng Ray Tracing. Kết hợp cùng 8GB RAM LPDDR5X và bộ nhớ trong chuẩn UFS 4.0 tốc độ cao (128GB hoặc 256GB), thiết bị xử lý mượt mà các tác vụ đa nhiệm, chơi game và trọn bộ tính năng Galaxy AI.",
+    "Hệ thống 3 camera sau của Galaxy S25 FE 5G bao gồm camera chính 50MP (f/1.8, Dual Pixel PDAF, chống rung OIS), camera góc siêu rộng 12MP (123°) và ống kính Telephoto 8MP (f/2.4, OIS, zoom quang học 3x). Đặc biệt, camera trước cũng được nâng cấp lên 12MP (f/2.2), hỗ trợ quay video 4K@60fps HDR10+ ở cả mặt trước và mặt sau (cùng khả năng quay 8K@30fps và 4K@120fps trên camera chính).",
+    "Viên pin 4.900 mAh kết hợp sạc siêu nhanh có dây 45W (sạc 65% pin trong 30 phút), sạc không dây 15W tương thích chuẩn Qi2 và chia sẻ pin không dây giúp Galaxy S25 FE 5G luôn sẵn sàng đồng hành suốt ngày dài.",
+    "Cài sẵn One UI 8 trên nền Android 16 (đã hỗ trợ nâng cấp lên One UI 9 / Android 17 với cam kết 7 năm cập nhật OS), cổng USB-C 3.2 tốc độ cao hỗ trợ xuất màn hình Samsung DeX, Wi-Fi 6E, Bluetooth 5.4 và NFC, Galaxy S25 FE 5G là mẫu smartphone cận cao cấp toàn diện nhất trong tầm giá."
+  ],
+  "priceSegment": "upper-midrange"
+}

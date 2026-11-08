@@ -1,0 +1,48 @@
+/* TechPhone — Hover & Micro-interaction Effects (Effects 07, 11, 12, 17, 19, 39, 45, 49) */
+.tp-ambient-gradient {
+  background-size: 200% 200%;
+  animation: tpAmbientShift 12s ease infinite;
+}
+@keyframes tpAmbientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+.tp-tilt-card {
+  transform-style: preserve-3d;
+  will-change: transform;
+}
+.tp-badge-bounce {
+  animation: tpBadgeBounce 0.42s var(--tp-ease-spring);
+}
+@keyframes tpBadgeBounce {
+  0% { transform: scale(1); }
+  45% { transform: scale(1.38); }
+  100% { transform: scale(1); }
+}
+.tp-custom-cursor-dot {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  border: 2px solid var(--tp-primary);
+  background: rgba(8, 102, 245, 0.12);
+  pointer-events: none;
+  z-index: var(--tp-z-cursor);
+  transform: translate(-50%, -50%);
+  transition: width 0.18s ease, height 0.18s ease, background 0.18s ease, opacity 0.18s ease;
+  opacity: 0;
+}
+.tp-custom-cursor-dot.is-active {
+  opacity: 1;
+}
+.tp-custom-cursor-dot.is-hover {
+  width: 38px;
+  height: 38px;
+  background: rgba(39, 196, 232, 0.18);
+}
+@media (hover: none), (pointer: coarse) {
+  .tp-custom-cursor-dot { display: none !important; }
+}

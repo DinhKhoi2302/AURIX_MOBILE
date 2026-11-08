@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sơ đồ Website (Sitemap) — AURIX MOBILE E-commerce</title>
+  <meta name="description" content="Sơ đồ cấu trúc phân cấp 12 trang HTML và luồng điều hướng của dự án website bán điện thoại AURIX MOBILE.">
+  <link rel="icon" type="image/svg+xml" href="assets/images/logo/favicon.svg">
+  <link rel="stylesheet" href="vendor/bootstrap/bootstrap.min.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/pages/sitemap.css">
+  <link rel="stylesheet" href="css/responsive/tablet.css">
+  <link rel="stylesheet" href="css/responsive/mobile.css">
+</head>
+<body data-page="sitemap">
+  <!-- Shared Header (Matches image_7c1303.png & Brandkit 09) -->
+  <header class="tp-header" role="banner">
+    <div class="tp-container">
+      <div class="tp-header-top">
+        <a href="index.html" class="tp-brand" aria-label="AURIX MOBILE Trang chủ">
+          <img src="assets/images/logo/logo-aurix-on-blue.svg" alt="AURIX MOBILE — Công nghệ trong tầm tay · Đẳng cấp trong từng lựa chọn" width="236" height="48">
+        </a>
+
+        <form id="tp-header-search-form" class="tp-search-bar" role="search" aria-label="Tìm kiếm điện thoại, phụ kiện">
+          <input type="search" id="tp-header-search-input" data-open-overlay-on-focus="true" placeholder="Bạn đang tìm kiếm điện thoại, phụ kiện...?" autocomplete="off" aria-label="Từ khóa tìm kiếm">
+          <button type="submit" class="tp-search-submit" aria-label="Tìm kiếm">
+            <img src="assets/icons/ui/search.svg" alt="" width="18" height="18" style="filter:brightness(10);">
+          </button>
+        </form>
+
+        <div class="tp-header-actions">
+          <a href="lienhe.html" class="tp-action-item" title="Tổng đài hỗ trợ 24/7">
+            <span class="tp-action-icon">
+              <img src="assets/icons/ui/headset.svg" alt="" width="20" height="20">
+            </span>
+            <span class="tp-action-text">
+              <span class="tp-action-label">Hỗ trợ</span>
+              <span class="tp-action-value">24/7</span>
+            </span>
+          </a>
+
+          <a href="lienhe.html#store-system" class="tp-action-item" title="Hệ thống cửa hàng gần bạn">
+            <span class="tp-action-icon">
+              <img src="assets/icons/ui/map-pin.svg" alt="" width="20" height="20">
+            </span>
+            <span class="tp-action-text">
+              <span class="tp-action-label">Cửa hàng</span>
+              <span class="tp-action-value">Gần bạn</span>
+            </span>
+          </a>
+
+          <a href="dangnhap.html" class="tp-action-item" title="Đăng nhập hoặc quản lý tài khoản">
+            <span class="tp-action-icon">
+              <img src="assets/icons/ui/user.svg" alt="" width="20" height="20">
+            </span>
+            <span class="tp-action-text">
+              <span class="tp-action-label" data-auth-label>Đăng nhập</span>
+              <span class="tp-action-value" data-auth-value>Tài khoản</span>
+            </span>
+          </a>
+
+          <a href="donhang.html?tab=cart" class="tp-action-item" data-cart-icon-target title="Xem giỏ hàng">
+            <span class="tp-action-icon">
+              <img src="assets/icons/ui/cart.svg" alt="" width="20" height="20">
+              <span class="tp-badge-count" data-cart-badge>0</span>
+            </span>
+            <span class="tp-action-text">
+              <span class="tp-action-label">Giỏ hàng</span>
+              <span class="tp-action-value" data-cart-text>0 sản phẩm</span>
+            </span>
+          </a>
+
+          <button type="button" class="tp-mobile-toggle" data-mobile-nav-toggle aria-expanded="false" aria-label="Mở menu điều hướng">
+            ☰
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <nav class="tp-nav-bar" aria-label="Điều hướng chính">
+      <div class="tp-container tp-nav-inner">
+        <button type="button" class="tp-cat-trigger" data-mega-trigger aria-expanded="false" aria-controls="tp-mega-menu">
+          <span>☰</span>
+          <span>Danh mục sản phẩm</span>
+        </button>
+
+        <ul class="tp-nav-links" data-main-nav-links>
+          <li><a href="index.html" class="tp-nav-link">Trang chủ</a></li>
+          <li><a href="sanpham.html?category=smartphone" class="tp-nav-link">Điện thoại</a></li>
+          <li><a href="sanpham.html?category=accessory" class="tp-nav-link">Phụ kiện</a></li>
+          <li><a href="sanpham.html?category=tablet" class="tp-nav-link">Tablet</a></li>
+          <li><a href="sanpham.html?q=Giảm" class="tp-nav-link">Khuyến mãi</a></li>
+          <li><a href="tintuc.html" class="tp-nav-link">Tin tức</a></li>
+          <li><a href="gioithieu.html" class="tp-nav-link">Giới thiệu</a></li>
+          <li><a href="lienhe.html" class="tp-nav-link">Liên hệ</a></li>
+        </ul>
+
+        <a href="donhang.html" class="tp-hot-deal-btn" data-magnetic title="Xem các đơn hàng đã đặt">
+          <span>📦</span>
+          <span>Đơn hàng của tôi</span>
+        </a>
+
+                <!-- Mega Menu -->
+        <div id="tp-mega-menu" class="tp-mega-menu" role="region" aria-label="Danh mục chi tiết AURIX MOBILE">
+          <div class="tp-mega-grid">
+            <div class="tp-mega-col">
+              <h4>📱 Flagship Hàng Đầu</h4>
+              <ul>
+                <li><a href="sanpham.html?brand=Apple"><span>Apple iPhone (18 / 17 / 16 / 15)</span><span class="tp-badge tp-badge-hot">Hot</span></a></li>
+                <li><a href="sanpham.html?brand=Samsung"><span>Samsung Galaxy S / Z / A</span><span class="tp-badge tp-badge-sale">AI</span></a></li>
+                <li><a href="sanpham.html?brand=Xiaomi"><span>Xiaomi 17 / 15T / 14T Series</span><span class="tp-badge tp-badge-new">Leica</span></a></li>
+                <li><a href="sanpham.html?brand=OPPO"><span>OPPO Find X9 &amp; Reno16 Series</span><span>›</span></a></li>
+                <li><a href="sanpham.html?brand=vivo"><span>vivo X300 Ultra / V70 / Y Series</span><span>›</span></a></li>
+              </ul>
+            </div>
+            <div class="tp-mega-col">
+              <h4>⚡ Thương Hiệu Nổi Bật</h4>
+              <ul>
+                <li><a href="sanpham.html?brand=HONOR"><span>HONOR 600 / 400 / Magic V / X</span><span class="tp-badge tp-badge-new">Mới</span></a></li>
+                <li><a href="sanpham.html?brand=realme"><span>realme 16 Pro / 15 Pro / C100</span><span>›</span></a></li>
+                <li><a href="sanpham.html?brand=Redmi"><span>Redmi Note 17 / Note 15 Series</span><span>›</span></a></li>
+                <li><a href="sanpham.html?brand=POCO"><span>POCO F9 Ultra / X8 Pro / M8</span><span>›</span></a></li>
+                <li><a href="sanpham.html?brand=Nothing"><span>Nothing Phone (4a) Pro / (4b)</span><span>›</span></a></li>
+              </ul>
+            </div>
+            <div class="tp-mega-col">
+              <h4>🌐 Đa Phân Khúc &amp; Màn Gập</h4>
+              <ul>
+                <li><a href="sanpham.html?brand=Motorola"><span>Motorola Razr / Edge / Moto G</span><span>›</span></a></li>
+                <li><a href="sanpham.html?brand=TECNO"><span>TECNO POVA Curve 2 &amp; Spark 50</span><span>›</span></a></li>
+                <li><a href="sanpham.html?brand=nubia"><span>nubia Air 5G &amp; V80 Series</span><span>›</span></a></li>
+                <li><a href="sanpham.html?category=foldable"><span>Điện thoại Màn hình gập</span><span class="tp-badge tp-badge-hot">VIP</span></a></li>
+                <li><a href="sanpham.html?category=5g-ready"><span>Điện thoại Hỗ trợ 5G</span><span>›</span></a></li>
+              </ul>
+            </div>
+                        <div class="tp-mega-col">
+              <h4>🧭 Tiện Ích Hệ Thống AURIX</h4>
+              <ul>
+                <li><a href="donhang.html?tab=cart"><span>Giỏ hàng &amp; Mã giảm giá AURIX500</span><span>›</span></a></li>
+                <li><a href="donhang.html"><span>Đơn hàng của tôi</span><span class="tp-badge tp-badge-new">Mới</span></a></li>
+                <li><a href="dathang.html"><span>Thanh toán &amp; Đặt hàng nhanh</span><span>›</span></a></li>
+                <li><a href="dangky.html"><span>Đăng ký thành viên AURIX</span><span>›</span></a></li>
+                <li><a href="dangnhap.html"><span>Đăng nhập tài khoản thành viên</span><span>›</span></a></li>
+                <li><a href="chinhsachbaohanh.html"><span>Chính sách bảo hành (18–36 tháng)</span><span class="tp-badge tp-badge-hot">Care+</span></a></li>
+                <li><a href="lienhe.html"><span>Trung tâm hỗ trợ &amp; Liên hệ</span><span>›</span></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <main class="tp-main" id="main-content">
+    <div class="tp-container">
+      <nav class="tp-breadcrumb" aria-label="Breadcrumb">
+        <a href="index.html">Trang chủ</a>
+        <span>/</span>
+        <span class="is-current">Sơ đồ cấu trúc Website (Sitemap)</span>
+      </nav>
+
+      <div class="mb-4">
+        <span class="tp-badge tp-badge-new mb-2">SƠ ĐỒ CẤU TRÚC WEBSITE</span>
+        <h1 class="tp-h1 mb-2">Sơ đồ Website AURIX MOBILE (Hierarchical Sitemap)</h1>
+        <p class="tp-text-small">Mô tả trực quan mối quan hệ liên kết giữa 15 trang HTML tiếng Việt chuẩn hóa và luồng truyền dữ liệu tạm thời giữa các trang.</p>
+      </div>
+
+      <!-- Visual Hierarchical Diagram -->
+      <section class="tp-sitemap-diagram tp-reveal" aria-label="Sơ đồ phân cấp 12 trang">
+        <div class="tp-sitemap-root">
+          <a href="index.html" class="tp-sitemap-node-root">
+            🏠 01. TRANG CHỦ AURIX MOBILE (index.html)<br>
+            <span style="font-size:0.8rem;font-weight:500;opacity:0.9;">Trung tâm điều hướng · Hero Flagship · Tìm kiếm · Giỏ hàng</span>
+          </a>
+        </div>
+
+        <div class="tp-sitemap-branches">
+          <div class="tp-sitemap-group">
+            <h3>📱 Nhóm Sản phẩm</h3>
+            <a href="sanpham.html" class="tp-sitemap-node">03. Danh sách điện thoại (sanpham.html)</a>
+            <a href="chitietsanpham.html?id=iphone-16-pro-max" class="tp-sitemap-node">04. Chi tiết sản phẩm (chitietsanpham.html)</a>
+            <a href="sanpham.html?category=tablet" class="tp-sitemap-node">Danh mục Máy tính bảng</a>
+            <a href="sanpham.html?category=accessory" class="tp-sitemap-node">Danh mục Phụ kiện &amp; Âm thanh</a>
+          </div>
+
+          <div class="tp-sitemap-group">
+            <h3>🛒 Nhóm Mua sắm</h3>
+            <a href="donhang.html?tab=cart" class="tp-sitemap-node">08. Giỏ hàng (giohang.html)</a>
+            <a href="dathang.html" class="tp-sitemap-node">09. Đặt hàng &amp; Địa chỉ nhận (dathang.html)</a>
+            <a href="thanhtoan.html" class="tp-sitemap-node">13. Thanh toán chuyển khoản QR  (thanhtoan.html)</a>
+            <a href="dathangthanhcong.html" class="tp-sitemap-node">14. Xác nhận đặt hàng thành công (dathangthanhcong.html)</a>
+            <a href="donhang.html" class="tp-sitemap-node">15. Đơn hàng của tôi (donhang.html)</a>
+          </div>
+
+          <div class="tp-sitemap-group">
+            <h3>👤 Nhóm Tài khoản</h3>
+            <a href="dangnhap.html" class="tp-sitemap-node">05. Đăng nhập thành viên (dangnhap.html)</a>
+            <a href="dangky.html" class="tp-sitemap-node">06. Đăng ký thành viên (dangky.html)</a>
+          </div>
+
+          <div class="tp-sitemap-group">
+            <h3>📰 Nhóm Tin tức</h3>
+            <a href="tintuc.html" class="tp-sitemap-node">10. Tin tức công nghệ (tintuc.html)</a>
+            <a href="chitiettintuc.html?id=iphone-duo-chinh-thuc-xuat-hien" class="tp-sitemap-node">11. Chi tiết bài viết (chitiettintuc.html)</a>
+          </div>
+
+          <div class="tp-sitemap-group">
+            <h3>ℹ️ Thông tin &amp; Hỗ trợ</h3>
+            <a href="sodotrang.html" class="tp-sitemap-node">02. Sơ đồ Website (sodotrang.html)</a>
+            <a href="gioithieu.html" class="tp-sitemap-node">07. Giới thiệu thương hiệu (gioithieu.html)</a>
+            <a href="lienhe.html" class="tp-sitemap-node">12. Liên hệ &amp; FAQ (lienhe.html)</a>
+            <a href="chinhsachbaohanh.html" class="tp-sitemap-node">16. Chính sách bảo hành &amp; Hậu mãi (chinhsachbaohanh.html)</a>
+          </div>
+        </div>
+
+        <!-- Mandatory User Flows -->
+        <div class="tp-flow-box">
+          <strong class="tp-text-navy">Luồng nghiệp vụ 1 — Mua sắm &amp; Thanh toán:</strong>
+          <div class="tp-flow-steps">
+            <a href="index.html" class="tp-flow-step">Trang chủ (index.html)</a>
+            <span>→</span>
+            <a href="sanpham.html" class="tp-flow-step">Danh sách điện thoại (sanpham.html)</a>
+            <span>→</span>
+            <a href="chitietsanpham.html?id=iphone-16-pro-max" class="tp-flow-step">Chi tiết sản phẩm (chitietsanpham.html)</a>
+            <span>→</span>
+            <a href="donhang.html?tab=cart" class="tp-flow-step">Giỏ hàng (giohang.html)</a>
+            <span>→</span>
+            <a href="dathang.html" class="tp-flow-step">Thanh toán (dathang.html)</a>
+          </div>
+        </div>
+
+        <div class="tp-flow-box">
+          <strong class="tp-text-navy">Luồng nghiệp vụ 2 — Đọc tin tức công nghệ &amp; Đánh giá:</strong>
+          <div class="tp-flow-steps">
+            <a href="index.html" class="tp-flow-step">Trang chủ (index.html)</a>
+            <span>→</span>
+            <a href="tintuc.html" class="tp-flow-step">Danh mục Tin tức (tintuc.html)</a>
+            <span>→</span>
+            <a href="chitiettintuc.html?id=iphone-duo-chinh-thuc-xuat-hien" class="tp-flow-step">Chi tiết tin tức (chitiettintuc.html)</a>
+          </div>
+        </div>
+      </section>
+
+      <!-- Dynamic Deep Links to Products & Articles -->
+      <section class="row g-4">
+        <div class="col-lg-6">
+          <div class="tp-surface p-4 h-100">
+            <h2 class="tp-h3 mb-3">Liên kết nhanh đến từng sản phẩm mẫu</h2>
+            <ul id="tp-sitemap-product-links" class="row g-2"></ul>
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="tp-surface p-4 h-100">
+            <h2 class="tp-h3 mb-3">Liên kết nhanh đến từng bài viết tin tức</h2>
+            <ul id="tp-sitemap-news-links"></ul>
+          </div>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <!-- Newsletter Promotional Strip (Matches bottom of image_7c1303.png) -->
+  <section class="tp-newsletter-strip" aria-label="Đăng ký nhận bản tin khuyến mãi">
+    <div class="tp-container tp-newsletter-inner">
+      <div class="tp-newsletter-brand">
+                <div class="tp-gift-badge" aria-hidden="true" style="padding:8px;">
+          <img src="assets/images/logo/favicon.svg" alt="AURIX Icon" width="38" height="38" style="border-radius:50%;">
+        </div>
+        <div>
+          <h2 class="tp-h3 text-white mb-0" style="color:#FFFFFF;">Đăng ký ngay</h2>
+          <p class="mb-0" style="color:#DDEEFF;font-weight:700;font-size:1.05rem;">Nhận ưu đãi đặc biệt!</p>
+        </div>
+      </div>
+
+      <form class="tp-newsletter-form" data-newsletter-form aria-label="Form đăng ký email nhận ưu đãi">
+        <input type="email" name="newsletterEmail" placeholder="✉ Nhập email của bạn..." required aria-label="Nhập email của bạn">
+        <button type="submit" class="tp-btn tp-btn-primary tp-btn-sm" style="padding:0.52rem 1rem;flex-shrink:0;">Đăng ký</button>
+      </form>
+
+      <div class="tp-newsletter-perks">
+        <span>🏷️ Giảm giá độc quyền</span>
+        <span>📱 Thông tin sản phẩm mới</span>
+        <span>🎂 Ưu đãi sinh nhật</span>
+      </div>
+    </div>
+  </section>
+
+    <!-- Shared Footer -->
+  <footer class="tp-footer" role="contentinfo">
+    <div class="tp-container">
+      <div class="tp-footer-grid">
+        <div>
+          <img src="assets/images/logo/logo-aurix-dark.svg" alt="AURIX MOBILE Logo" width="220" height="48" class="mb-3">
+          <p class="mb-3" style="color:#B4C4E0;line-height:1.65;">
+            <strong>AURIX MOBILE</strong> — Hệ thống bán lẻ điện thoại thông minh và thiết bị công nghệ chính hãng. Trải nghiệm mua sắm hiện đại, minh bạch thông số kỹ thuật và dịch vụ tận tâm.
+          </p>
+          <div class="d-flex gap-2">
+            <a href="sanpham.html?category=smartphone" class="tp-btn tp-btn-ghost tp-btn-sm" style="background:rgba(255,255,255,0.08);color:#FFF;border:none;">Sản phẩm</a>
+            <a href="tintuc.html" class="tp-btn tp-btn-ghost tp-btn-sm" style="background:rgba(255,255,255,0.08);color:#FFF;border:none;">Tin công nghệ</a>
+            <a href="sodotrang.html" class="tp-btn tp-btn-ghost tp-btn-sm" style="background:rgba(255,255,255,0.08);color:#FFF;border:none;">Sitemap</a>
+          </div>
+        </div>
+
+        <div>
+          <h3 class="tp-footer-title">Danh mục sản phẩm</h3>
+          <ul class="tp-footer-links">
+            <li><a href="sanpham.html?category=smartphone">Điện thoại iPhone / Galaxy / Xiaomi</a></li>
+            <li><a href="sanpham.html?category=flagship">Flagship Cao cấp chính hãng</a></li>
+            <li><a href="sanpham.html?category=foldable">Điện thoại Màn hình gập</a></li>
+            <li><a href="sanpham.html?q=Giảm">Sản phẩm đang Khuyến mãi</a></li>
+            <li><a href="tintuc.html">Chuyên trang Tin tức công nghệ</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h3 class="tp-footer-title">Hỗ trợ &amp; Dịch vụ</h3>
+          <ul class="tp-footer-links">
+            <li><a href="gioithieu.html">Giới thiệu thương hiệu AURIX MOBILE</a></li>
+            <li><a href="chinhsachbaohanh.html">Chính sách bảo hành (18 – 36 tháng)</a></li>
+            <li><a href="donhang.html?tab=cart">Giỏ hàng &amp; Chính sách vận chuyển</a></li>
+            <li><a href="dathang.html">Hướng dẫn thanh toán &amp; Trả góp 0%</a></li>
+            <li><a href="lienhe.html">Trung tâm hỗ trợ &amp; Liên hệ</a></li>
+            <li><a href="sodotrang.html">Sơ đồ cấu trúc Website (Sitemap)</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h3 class="tp-footer-title">Kênh hỗ trợ trực tuyến</h3>
+          <ul class="tp-footer-links">
+            <li>💬 Gửi yêu cầu trực tuyến tại <a href="lienhe.html" class="text-white fw-bold">Trang Liên hệ</a></li>
+            <li>🛡️ <a href="chinhsachbaohanh.html" class="text-white fw-bold">Chính sách bảo hành mở rộng đến 36 tháng</a></li>
+            <li>🔄 <a href="chinhsachbaohanh.html#heading-exchange-policy">Hỗ trợ 1 đổi 1 trong 30 ngày theo quy định</a></li>
+            <li>👤 Phụ trách phát triển: <strong class="text-white">Trương Đình Khôi</strong></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="tp-footer-bottom">
+        <div>© 2026 <strong>AURIX MOBILE</strong>. Phát triển bởi <strong>Trương Đình Khôi</strong>.</div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Local Offline Vendor Libraries (Section 8 & PDF Requirement 10) -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/bootstrap.bundle.min.js"></script>
+
+  <!-- AURIX MOBILE Modular JavaScript Architecture -->
+  <script src="js/config.js"></script>
+  <script src="js/data/categories.js"></script>
+  <script src="js/data/products.js"></script>
+  <script src="js/data/news.js"></script>
+  <script src="js/data/demo-users.js"></script>
+
+  <script src="js/core/dom.js"></script>
+  <script src="js/core/events.js"></script>
+  <script src="js/core/error-handler.js"></script>
+  <script src="js/core/navigation.js"></script>
+  <script src="js/core/page-init.js"></script>
+
+  <script src="js/services/storage-service.js"></script>
+  <script src="js/services/image-resolver.js"></script>
+  <script src="js/services/product-validator.js"></script>
+  <script src="js/services/product-repository.js"></script>
+  <script src="js/services/product-loader.js"></script>
+  <script src="js/services/product-service.js"></script>
+  <script src="js/services/cart-service.js"></script>
+  <script src="js/services/wishlist-service.js"></script>
+  <script src="js/services/auth-service.js"></script>
+  <script src="js/services/order-service.js"></script>
+  <script src="js/services/search-service.js"></script>
+  <script src="js/services/news-service.js"></script>
+
+  <script src="js/components/toast.js"></script>
+  <script src="js/components/modal.js"></script>
+  <script src="js/components/mega-menu.js"></script>
+  <script src="js/components/search-overlay.js"></script>
+  <script src="js/components/product-card.js"></script>
+  <script src="js/components/product-gallery.js"></script>
+  <script src="js/components/quick-view.js"></script>
+  <script src="js/components/cart-drawer.js"></script>
+  <script src="js/components/header.js"></script>
+  <script src="js/components/footer.js"></script>
+  <script src="js/components/accordion.js"></script>
+  <script src="js/components/carousel.js"></script>
+  <script src="js/components/pagination.js"></script>
+
+  <script src="js/motion/motion-fallbacks.js"></script>
+  <script src="js/motion/hero-reveal.js"></script>
+  <script src="js/motion/scroll-reveal.js"></script>
+  <script src="js/motion/parallax.js"></script>
+  <script src="js/motion/product-3d.js"></script>
+  <script src="js/motion/product-card-motion.js"></script>
+  <script src="js/motion/magnetic-button.js"></script>
+  <script src="js/motion/page-transition.js"></script>
+  <script src="js/motion/shared-element.js"></script>
+  <script src="js/motion/cursor.js"></script>
+  <script src="js/motion/counters.js"></script>
+  <script src="js/motion/cart-motion.js"></script>
+  <script src="js/motion/loading-motion.js"></script>
+  <script src="js/motion/motion-manager.js"></script>
+  <script src="js/pages/sitemap-page.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,322 @@
+{
+  "id": "redmi-17-4g",
+  "brand": "Redmi",
+  "brandId": "redmi",
+  "parentGroupId": "xiaomi_group",
+  "model": "Redmi 17 4G",
+  "series": "Redmi Number",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "entry-level"
+  ],
+  "status": "needs_verification",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 19,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Redmi 17 4G là mẫu smartphone phổ thông nổi bật với mặt lưng kính sang trọng, màn hình đục lỗ 6,79 inch Full HD+ 90Hz sắc nét, camera chính 108MP hỗ trợ zoom nội suy 3x và viên pin 5.030 mAh sạc nhanh 33W.",
+    "highlights": [
+      "Camera chính 108MP cảm biến lớn 1/1.67 inch hỗ trợ zoom cảm biến 3x sắc nét",
+      "Màn hình đục lỗ 6,79 inch độ phân giải Full HD+ 90Hz đạt 3 chứng nhận bảo vệ mắt TÜV",
+      "Pin 5.030 mAh kèm sạc nhanh 33W, mặt lưng kính cao cấp và cổng hồng ngoại IR"
+    ],
+    "officialDistribution": "Model được bảo lưu từ danh sách trước nhưng chưa đủ bằng chứng đang mở bán chính thức trong lượt đối chiếu ngày 01/11/2026; giữ trạng thái needs_verification để không mất dấu dữ liệu."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": null,
+    "originalPrice": null,
+    "promotionPrice": null,
+    "priceUpdatedAt": "2026-11-01",
+    "priceVerified": false
+  },
+  "variants": [
+    {
+      "sku": "AUR-RED-17-4G-RAM-STD-01",
+      "color": "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)",
+      "colorHex": "#102347",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "price": null,
+      "originalPrice": null,
+      "stockStatus": "needs_verification",
+      "images": [
+        "assets/images/placeholders/placeholder-default.svg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "IPS LCD FHD+ 90Hz",
+    "size": "6,79 inch",
+    "resolution": "FHD+ (2460 x 1080 pixel)",
+    "refreshRate": "90Hz",
+    "brightness": "Độ sáng tối đa 550 nit, kính cường lực Corning Gorilla Glass",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "MediaTek Helio G91-Ultra (tiến trình 12nm hỗ trợ cảm biến ảnh 108MP)",
+    "cpu": "CPU 8 nhân (2 nhân Cortex-A75 xung nhịp 2.0GHz + 6 nhân Cortex-A55 xung nhịp 1.8GHz)",
+    "gpu": "ARM Mali-G52 MC2",
+    "ram": [
+      "6GB"
+    ],
+    "storage": [
+      "128GB"
+    ],
+    "operatingSystem": "Xiaomi HyperOS dựa trên Android 15",
+    "uiVersion": "Xiaomi HyperOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "108MP Chính (ƒ/1.75) + 2MP Macro",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "Quay video 1080p Full HD ở 30 fps; 720p HD ở 30 fps; Time-lapse"
+    ],
+    "aiFeatures": [
+      "Chế độ 108MP Ultra HD, Zoom 3x không giảm chất lượng, Chụp đêm Night Mode, Chân dung AI, filmCamera"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "13MP (ƒ/2.0, Vòng sáng mềm)",
+    "features": [
+      "Camera selfie 13MP (khẩu độ ƒ/2.0), tích hợp vòng sáng màn hình Soft-light Ring và quay video 1080p@30fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "5.030 mAh",
+    "wiredCharging": "Sạc nhanh 33W USB-C",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc nhanh 33W qua cổng USB Type-C (nạp 50% chỉ trong khoảng 26 phút) | Không hỗ trợ sạc không dây"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano SIM (hoặc 1 Nano SIM + 1 thẻ nhớ microSD)"
+    ],
+    "network": [
+      "4G LTE Dual SIM"
+    ],
+    "wifi": "Wi-Fi 5 băng tần kép (2.4GHz / 5GHz)",
+    "bluetooth": "Bluetooth 5.4",
+    "gps": [
+      "GPS, GLONASS, Galileo, BDS"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "168,6 x 76,28 x 8,3 mm",
+    "weight": "205 gram",
+    "materials": [
+      "Khung viền phẳng hợp chất polycarbonate cứng cáp",
+      "Mặt lưng kính sang trọng chống bám bẩn"
+    ],
+    "waterResistance": "Kháng nước & bụi IP53",
+    "availableColors": [
+      "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa ngoài công suất lớn, tích hợp giắc cắm tai nghe 3.5mm",
+    "headphoneJack": true,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Redmi Number",
+    "Redmi",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Redmi tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/placeholders/placeholder-default.svg",
+    "hasAvatarNamed": false,
+    "gallery": [
+      "assets/images/placeholders/placeholder-default.svg"
+    ],
+    "byColor": {},
+    "bySection": {
+      "performance": "assets/images/placeholders/placeholder-default.svg"
+    }
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-xiaomi",
+      "https://www.mi.com/vn/phone/#redmi"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "needs_verification",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Cần xác minh thêm",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "verbatimDescription": [
+    "Redmi 17 4G mang lại vẻ ngoài vượt tầm giá nhờ thiết kế mặt lưng kính bóng bẩy kết hợp khung viền phẳng hiện đại. Phía trước là màn hình đục lỗ 6,79 inch có độ phân giải chuẩn Full HD+ (2460 x 1080 pixel) sắc nét cùng tần số quét 90Hz AdaptiveSync.",
+    "Điểm nhấn nhiếp ảnh của máy là camera chính độ phân giải lên tới 108MP sử dụng cảm biến kích thước lớn 1/1.67 inch. Công nghệ gộp 9 điểm ảnh thành 1 giúp thu sáng vượt trội khi chụp đêm, đồng thời cho phép thu phóng 3x In-sensor Zoom mà không làm vỡ hạt.",
+    "Vi xử lý MediaTek Helio G91-Ultra phối hợp cùng RAM 6GB/8GB (mở rộng tới 16GB) và giao diện Xiaomi HyperOS trên nền Android 15 đảm bảo các tác vụ giải trí, mạng xã hội vận hành trơn tru.",
+    "Viên pin 5.030 mAh đi kèm sạc nhanh 33W giúp nạp lại 50% năng lượng chỉ trong 26 phút, đáp ứng tốt cường độ sử dụng bận rộn hàng ngày.",
+    "Ngoài ra, máy còn trang bị đầy đủ cổng hồng ngoại IR Blaster để điều khiển tivi/máy lạnh, giắc cắm tai nghe 3.5mm và chuẩn kháng bụi nước nhẹ IP53."
+  ],
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,79 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "IPS LCD FHD+ 90Hz"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "FHD+ (2460 x 1080 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "90Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Helio G91-Ultra (12nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "6GB / 8GB LPDDR4X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB (Hỗ trợ thẻ nhớ 1TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "108MP Chính (ƒ/1.75) + 2MP Macro"
+    },
+    {
+      "label": "Camera trước",
+      "value": "13MP (ƒ/2.0, Vòng sáng mềm)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.030 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh 33W USB-C"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS (Android 15)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "4G LTE Dual SIM"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "Kháng nước & bụi IP53"
+    }
+  ],
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "IPS LCD độ phân giải cao FHD+, hỗ trợ DC Dimming và đạt 3 chứng nhận bảo vệ mắt TÜV Rheinland",
+      "Kích thước màn hình": "6,79 inch",
+      "Độ phân giải màn hình": "2460 x 1080 pixel (Full HD+, mật độ điểm ảnh ~396 ppi)",
+      "Tần số quét": "90Hz AdaptiveSync",
+      "Kiểu màn hình": "Màn hình phẳng đục lỗ hiện đại, hỗ trợ cảm ứng khi tay ướt Wet Touch",
+      "Tính năng màn hình": "Độ sáng tối đa 550 nit, kính cường lực Corning Gorilla Glass"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera kép 108MP: Camera chính 108MP (cảm biến lớn 1/1.67 inch, khẩu độ ƒ/1.75, gộp 9 điểm ảnh thành 1 kích thước 1.92μm, zoom cảm biến 3x In-sensor Zoom) + Camera Macro 2MP (khẩu độ ƒ/2.4)",
+      "Quay video": "Quay video 1080p Full HD ở 30 fps; 720p HD ở 30 fps; Time-lapse",
+      "Tính năng camera": "Chế độ 108MP Ultra HD, Zoom 3x không giảm chất lượng, Chụp đêm Night Mode, Chân dung AI, filmCamera"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera selfie 13MP (khẩu độ ƒ/2.0), tích hợp vòng sáng màn hình Soft-light Ring và quay video 1080p@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Helio G91-Ultra (tiến trình 12nm hỗ trợ cảm biến ảnh 108MP)",
+      "Loại CPU": "CPU 8 nhân (2 nhân Cortex-A75 xung nhịp 2.0GHz + 6 nhân Cortex-A55 xung nhịp 1.8GHz)",
+      "GPU": "ARM Mali-G52 MC2"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "6GB / 8GB LPDDR4X (hỗ trợ mở rộng RAM ảo lên tới 16GB)",
+      "Bộ nhớ trong": "128GB / 256GB (hỗ trợ mở rộng qua thẻ nhớ microSD lên đến 1TB)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.030 mAh (Pin Li-Po bền bỉ giữ trên 80% dung lượng sau 1.000 chu kỳ sạc)",
+      "Công nghệ sạc": "Sạc nhanh 33W qua cổng USB Type-C (nạp 50% chỉ trong khoảng 26 phút) | Không hỗ trợ sạc không dây",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS dựa trên Android 15",
+      "Công nghệ - Tiện ích": "Cổng hồng ngoại IR Blaster điều khiển thiết bị gia dụng, Thông báo Flash LED, Mở rộng RAM",
+      "Tiện ích khác": "Mặt lưng kính sang trọng, giữ lại giắc cắm tai nghe 3.5mm",
+      "Thời điểm ra mắt": "2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "4G LTE Dual SIM VoLTE",
+      "Thẻ SIM": "2 Nano SIM (hoặc 1 Nano SIM + 1 thẻ nhớ microSD)",
+      "Wi-Fi": "Wi-Fi 5 băng tần kép (2.4GHz / 5GHz)",
+      "Bluetooth": "Bluetooth 5.4",
+      "Công nghệ NFC": "Có hỗ trợ (tùy thị trường)",
+      "GPS": "GPS, GLONASS, Galileo, BDS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền phẳng hợp chất polycarbonate cứng cáp",
+      "Chất liệu mặt lưng": "Mặt lưng kính sang trọng chống bám bẩn",
+      "Kích thước": "168,6 x 76,28 x 8,3 mm",
+      "Trọng lượng": "205 gram",
+      "Chỉ số kháng nước, bụi": "Chuẩn IP53 (kháng bụi và tia nước bắn)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài công suất lớn, tích hợp giắc cắm tai nghe 3.5mm",
+      "Cảm biến vân tay": "Cảm biến vân tay tích hợp phím nguồn cạnh bên & Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Cảm biến ánh sáng ảo, Cảm biến tiệm cận, La bàn điện tử, Hồng ngoại IR"
+    }
+  }
+}

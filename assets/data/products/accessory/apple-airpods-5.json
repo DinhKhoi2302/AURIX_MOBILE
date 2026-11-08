@@ -1,0 +1,146 @@
+{
+  "id": "apple-airpods-5",
+  "docCode": "PK-TN002-AP5",
+  "model": "Tai Nghe Apple AirPods 5 Thế Hệ Mới",
+  "brand": "Apple",
+  "brandId": "apple",
+  "parentGroupId": "apple",
+  "series": "Tai nghe",
+  "subCategory": "tai-nghe",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "tai-nghe"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Tai nghe",
+    "highlights": [
+      "Earbuds công thái học"
+    ],
+    "description": "Mẫu tai nghe tương lai kế thừa thiết kế tinh xảo của Apple với khả năng theo dõi chuyển động đầu Spatial Audio nâng cấp, hỗ trợ tương tác cử chỉ lắc/gật đầu phản hồi Siri thông minh và chất lượng đàm thoại vượt trội trong môi trường ồn ào."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 5290000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/tai-nghe/apple-airpods-5/anh-dai-dien-apple-airpods-5-trang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/tai-nghe/apple-airpods-5/anh-dai-dien-apple-airpods-5-trang.webp",
+      "assets/images/products/accessory/tai-nghe/apple-airpods-5/hai-tai-nghe-goc-nghieng-trang.webp",
+      "assets/images/products/accessory/tai-nghe/apple-airpods-5/ket-cau-am-hoc-am-tram-phong-phu-den-trang.webp",
+      "assets/images/products/accessory/tai-nghe/apple-airpods-5/phu-kien-trong-hop-trang.webp",
+      "assets/images/products/accessory/tai-nghe/apple-airpods-5/tinh-nang-khu-tieng-on-chu-dong-xanh-trang.webp",
+      "assets/images/products/accessory/tai-nghe/apple-airpods-5/tinh-nang-tach-loi-noi-cuoc-goi-trang-den.webp",
+      "assets/images/products/accessory/tai-nghe/apple-airpods-5/tong-quan-tinh-nang-am-thanh-spatial-audio-trang-den.webp"
+    ],
+    "byColor": {
+      "Trắng": [
+        "assets/images/products/accessory/tai-nghe/apple-airpods-5/anh-dai-dien-apple-airpods-5-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-5/hai-tai-nghe-goc-nghieng-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-5/ket-cau-am-hoc-am-tram-phong-phu-den-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-5/phu-kien-trong-hop-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-5/tinh-nang-khu-tieng-on-chu-dong-xanh-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-5/tinh-nang-tach-loi-noi-cuoc-goi-trang-den.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-5/tong-quan-tinh-nang-am-thanh-spatial-audio-trang-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/tai-nghe/apple-airpods-5/hai-tai-nghe-goc-nghieng-trang.webp",
+      "screen": "assets/images/products/accessory/tai-nghe/apple-airpods-5/ket-cau-am-hoc-am-tram-phong-phu-den-trang.webp",
+      "performance": "assets/images/products/accessory/tai-nghe/apple-airpods-5/phu-kien-trong-hop-trang.webp",
+      "camera": "assets/images/products/accessory/tai-nghe/apple-airpods-5/tinh-nang-khu-tieng-on-chu-dong-xanh-trang.webp",
+      "battery": "assets/images/products/accessory/tai-nghe/apple-airpods-5/tinh-nang-tach-loi-noi-cuoc-goi-trang-den.webp",
+      "feature": "assets/images/products/accessory/tai-nghe/apple-airpods-5/tong-quan-tinh-nang-am-thanh-spatial-audio-trang-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/tai-nghe/apple-airpods-5/hai-tai-nghe-goc-nghieng-trang.webp",
+      "assets/images/products/accessory/tai-nghe/apple-airpods-5/ket-cau-am-hoc-am-tram-phong-phu-den-trang.webp",
+      "assets/images/products/accessory/tai-nghe/apple-airpods-5/phu-kien-trong-hop-trang.webp",
+      "assets/images/products/accessory/tai-nghe/apple-airpods-5/tinh-nang-khu-tieng-on-chu-dong-xanh-trang.webp",
+      "assets/images/products/accessory/tai-nghe/apple-airpods-5/tinh-nang-tach-loi-noi-cuoc-goi-trang-den.webp",
+      "assets/images/products/accessory/tai-nghe/apple-airpods-5/tong-quan-tinh-nang-am-thanh-spatial-audio-trang-den.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Apple",
+      "Kiểu tai nghe": "Earbuds công thái học",
+      "Kết nối": "Bluetooth 5.4, Chip xử lý âm thanh Apple thế hệ mới",
+      "Cổng sạc": "USB-C & Sạc không dây MagSafe",
+      "Chống ồn chủ động (ANC)": "Có (Chống ồn thích ứng thích nghi theo môi trường)",
+      "Microphone": "Có (Micro đa hướng tích hợp AI lọc gió)",
+      "Thời lượng pin": "Lên đến 6 giờ liên tục (32 giờ kèm hộp sạc)",
+      "Kháng nước, bụi": "IP54",
+      "Màu sắc": "Trắng"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Apple"
+    },
+    {
+      "label": "Kiểu tai nghe",
+      "value": "Earbuds công thái học"
+    },
+    {
+      "label": "Kết nối",
+      "value": "Bluetooth 5.4, Chip xử lý âm thanh Apple thế hệ mới"
+    },
+    {
+      "label": "Cổng sạc",
+      "value": "USB-C & Sạc không dây MagSafe"
+    },
+    {
+      "label": "Chống ồn chủ động (ANC)",
+      "value": "Có (Chống ồn thích ứng thích nghi theo môi trường)"
+    },
+    {
+      "label": "Microphone",
+      "value": "Có (Micro đa hướng tích hợp AI lọc gió)"
+    },
+    {
+      "label": "Thời lượng pin",
+      "value": "Lên đến 6 giờ liên tục (32 giờ kèm hộp sạc)"
+    },
+    {
+      "label": "Kháng nước, bụi",
+      "value": "IP54"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Trắng"
+    }
+  ],
+  "verbatimDescription": [
+    "Mẫu tai nghe tương lai kế thừa thiết kế tinh xảo của Apple với khả năng theo dõi chuyển động đầu Spatial Audio nâng cấp, hỗ trợ tương tác cử chỉ lắc/gật đầu phản hồi Siri thông minh và chất lượng đàm thoại vượt trội trong môi trường ồn ào."
+  ],
+  "variants": [
+    {
+      "sku": "PK-TN002-AP5-TRANG-TIEU-CHUAN",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 5290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/tai-nghe/apple-airpods-5/anh-dai-dien-apple-airpods-5-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-5/hai-tai-nghe-goc-nghieng-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-5/ket-cau-am-hoc-am-tram-phong-phu-den-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-5/phu-kien-trong-hop-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-5/tinh-nang-khu-tieng-on-chu-dong-xanh-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-5/tinh-nang-tach-loi-noi-cuoc-goi-trang-den.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-5/tong-quan-tinh-nang-am-thanh-spatial-audio-trang-den.webp"
+      ]
+    }
+  ]
+}

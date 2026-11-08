@@ -1,0 +1,308 @@
+{
+  "id": "samsung-galaxy-tab-a11-4g",
+  "docCode": "TB-SS001-A11-4G",
+  "model": "Samsung Galaxy Tab A11 4G",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "series": "Galaxy Tab A11 Series",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "8.7 inch",
+      "Helio G99",
+      "Pin 5.100 mAh"
+    ],
+    "description": "Samsung Galaxy Tab A11 4G là mẫu máy tính bảng mini nhỏ gọn hoàn hảo cho người dùng thường xuyên di chuyển hoặc phụ huynh tìm kiếm thiết bị học tập cho con em. Thân máy kim loại cứng cáp với kích thước 8.7 inch và trọng lượng chỉ 333g cho phép bạn dễ dàng cầm gọn gàng bằng một tay hoặc bỏ vào túi xách vô cùng tiện lợi.",
+    "releaseDate": "2024 / 2025"
+  },
+  "performance": {
+    "chipset": "MediaTek Helio G99 (tiến trình 6nm)",
+    "ram": [
+      "4GB",
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "64GB"
+    ],
+    "operatingSystem": "Android 14 (One UI 6.1)"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 4190000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/anh-dai-dien-samsung-galaxy-tab-a11-4g-xam.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/anh-dai-dien-samsung-galaxy-tab-a11-4g-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/anh-dai-dien-samsung-galaxy-tab-a11-4g-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/mat-truoc-sau-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/mat-truoc-dat-tren-ban-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/mat-sau-dat-tren-ban-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/canh-ben-trai-phai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/canh-tren-duoi-loa-cong-sac-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/mat-truoc-nghieng-phai-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/mat-truoc-nghieng-trai-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/can-canh-camera-sau-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/cam-tren-tay-man-hinh-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/can-canh-cong-sac-type-c-va-jack-tai-nghe-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/can-canh-nut-nguon-va-am-luong-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/he-thong-loa-kep-dolby-atmos-xanh-den.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/thiet-ke-mong-8mm-nhe-335g-xam-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/thong-so-man-hinh-tft-lcd-8-7-inch-90hz-xanh-den.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/tong-quan-tinh-nang-man-hinh-8-7-inch-90hz-pin-5100mah-xam-xanh.webp"
+    ],
+    "byColor": {
+      "Bạc": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/anh-dai-dien-samsung-galaxy-tab-a11-4g-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/mat-truoc-nghieng-phai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/mat-truoc-nghieng-trai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/he-thong-loa-kep-dolby-atmos-xanh-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/thiet-ke-mong-8mm-nhe-335g-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/thong-so-man-hinh-tft-lcd-8-7-inch-90hz-xanh-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/tong-quan-tinh-nang-man-hinh-8-7-inch-90hz-pin-5100mah-xam-xanh.webp"
+      ],
+      "Xám": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/anh-dai-dien-samsung-galaxy-tab-a11-4g-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/mat-truoc-sau-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/mat-truoc-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/mat-sau-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/can-canh-camera-sau-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/cam-tren-tay-man-hinh-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/can-canh-cong-sac-type-c-va-jack-tai-nghe-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/can-canh-nut-nguon-va-am-luong-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/he-thong-loa-kep-dolby-atmos-xanh-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/thiet-ke-mong-8mm-nhe-335g-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/thong-so-man-hinh-tft-lcd-8-7-inch-90hz-xanh-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/tong-quan-tinh-nang-man-hinh-8-7-inch-90hz-pin-5100mah-xam-xanh.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/mat-truoc-sau-xam.webp",
+      "screen": "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/mat-truoc-dat-tren-ban-xam.webp",
+      "performance": "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/mat-truoc-nghieng-phai-bac.webp",
+      "camera": "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/can-canh-camera-sau-xam.webp",
+      "battery": "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/canh-tren-duoi-loa-cong-sac-xam.webp",
+      "feature": "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/anh-dai-dien-samsung-galaxy-tab-a11-4g-bac.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/anh-dai-dien-samsung-galaxy-tab-a11-4g-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/mat-truoc-sau-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/mat-truoc-dat-tren-ban-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/mat-sau-dat-tren-ban-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/canh-ben-trai-phai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/canh-tren-duoi-loa-cong-sac-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/mat-truoc-nghieng-phai-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/mat-truoc-nghieng-trai-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/can-canh-camera-sau-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/cam-tren-tay-man-hinh-xam.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "8,7 inch WXGA+ TFT LCD (1340 x 800 pixel), tỷ lệ 5:3 nhỏ gọn dễ dàng cầm nắm bằng một tay, tần số quét nâng cấp 90Hz mượt mà, độ sáng 450 nit",
+      "Tính năng màn hình": "Tần số quét 90Hz giảm hiện tượng bóng mờ khi cuộn trang, chế độ Eye Comfort Shield lọc ánh sáng xanh bảo vệ mắt ban đêm"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "MediaTek Helio G99 6nm tối ưu hóa hiệu suất và tiết kiệm năng lượng",
+      "CPU & Đồ họa": "Octa-core 2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55, GPU Mali-G57 MC2",
+      "Hệ điều hành khi ra mắt": "Android 14 với giao diện One UI 6.1 mượt mà của Samsung"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "4GB / 8GB RAM LPDDR4X kết hợp tính năng RAM Plus mở rộng",
+      "Bộ nhớ trong": "64GB / 128GB, khe cắm thẻ nhớ ngoài MicroSD mở rộng dung lượng lên tới 1TB"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "8MP tự động lấy nét, khẩu độ f/2.0, quay video 1080p 30fps",
+      "Camera trước": "2MP khẩu độ f/2.2 hỗ trợ gọi video và mở khóa khuôn mặt",
+      "Chi tiết hệ thống Camera": "Camera chính sau 8MP AF quay video 1080p 30fps; Camera trước 2MP f/2.2"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "5.100 mAh, hỗ trợ sạc công suất 15W qua cổng USB-C",
+      "Pin và công nghệ sạc": "Pin Lithium-Polymer 5.100 mAh, hỗ trợ sạc nhanh có dây 15W qua Type-C"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Tương thích các dòng bút cảm ứng stylus điện dung",
+      "Hỗ trợ bàn phím rời": "Kết nối bàn phím và chuột không dây Bluetooth",
+      "Công nghệ âm thanh": "Loa kép Dual Speakers tích hợp công nghệ âm thanh vòm Dolby Atmos to rõ",
+      "Thuộc tính đặc biệt": "Kích thước 8.7 inch bỏ túi tiện lợi, kết nối SIM 4G nghe gọi, loa kép Dolby Atmos"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Mạng di động 4G LTE tốc độ cao, Wi-Fi 5 băng tần kép",
+      "Thẻ SIM": "1 Nano-SIM (Hỗ trợ đàm thoại nghe gọi và data di động 4G)",
+      "Kết nối không dây & Cổng giao tiếp": "4G LTE di động, 1 Nano-SIM, Wi-Fi 802.11 a/b/g/n/ac băng tần kép, Bluetooth 5.3, GPS, jack 3.5mm",
+      "Công nghệ - Tiện ích": "Tính năng Samsung Kids cho trẻ em, đa nhiệm chia đôi màn hình hai ứng dụng"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Thiết kế siêu gọn nhẹ chỉ dày 8.0 mm, kích thước 211.0 x 124.7 x 8.0 mm, trọng lượng 333 g",
+      "Bảo mật và độ bền": "Mở khóa bằng nhận diện khuôn mặt 2D, thân kim loại nguyên khối chống trầy xước",
+      "Thời điểm ra mắt": "Năm 2024 / 2025"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "8.7 inch TFT LCD, độ phân giải 1340 x 800 pixels"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Tần số quét 90Hz mượt mà, độ sáng 450 nits, tỷ lệ 5:3 nhỏ gọn vừa vặn cầm một tay"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Helio G99 (tiến trình 6nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "4GB / 8GB"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "64GB / 128GB (Hỗ trợ thẻ nhớ MicroSD tối đa 1TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "8MP tự động lấy nét, khẩu độ f/2.0, quay video 1080p 30fps"
+    },
+    {
+      "label": "Camera trước",
+      "value": "2MP khẩu độ f/2.2 hỗ trợ gọi video và mở khóa khuôn mặt"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Pin Lithium-Polymer 5.100 mAh, hỗ trợ sạc nhanh có dây 15W qua Type-C"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Mạng di động 4G LTE tốc độ cao, Wi-Fi 5 băng tần kép"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Tương thích các dòng bút cảm ứng stylus điện dung"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Kết nối bàn phím và chuột không dây Bluetooth"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 14 (One UI 6.1)"
+    }
+  ],
+  "verbatimDescription": [
+    "Samsung Galaxy Tab A11 4G là mẫu máy tính bảng mini nhỏ gọn hoàn hảo cho người dùng thường xuyên di chuyển hoặc phụ huynh tìm kiếm thiết bị học tập cho con em. Thân máy kim loại cứng cáp với kích thước 8.7 inch và trọng lượng chỉ 333g cho phép bạn dễ dàng cầm gọn gàng bằng một tay hoặc bỏ vào túi xách vô cùng tiện lợi.",
+    "Điểm nâng cấp đáng giá trên màn hình là tần số quét 90Hz mượt mà, giúp các thao tác cuộn trang sách, lướt mạng xã hội và chơi game nhẹ nhàng trở nên trơn tru rõ rệt so với thế hệ trước. Tấm nền hiển thị rõ nét với độ sáng 450 nits đáp ứng tốt nhu cầu đọc tài liệu cả trong nhà lẫn ngoài trời.",
+    "Khả năng kết nối di động 4G LTE thông qua khay Nano-SIM biến chiếc tablet thành một thiết bị liên lạc đa năng, hỗ trợ nghe gọi điện thoại trực tiếp và duy trì kết nối mạng internet tốc độ cao liên tục. Cùng với vi xử lý Helio G99 và hệ thống loa kép Dolby Atmos, máy đáp ứng trọn vẹn mọi nhu cầu giải trí và làm việc hàng ngày.",
+    "Hệ thống loa kép Stereo tích hợp công nghệ âm thanh vòm Dolby Atmos kết hợp cùng giắc cắm tai nghe 3.5mm mang lại trải nghiệm âm thanh sống động khi xem phim, nghe podcast hay học ngoại ngữ.",
+    "Chạy trên giao diện One UI của Samsung, Galaxy Tab A11 4G hỗ trợ chia đôi màn hình Multi-Active Window, chia sẻ tệp tin siêu tốc Quick Share, không gian an toàn Samsung Kids cho trẻ nhỏ và hệ thống bảo mật cấp phần cứng Samsung Knox.",
+    "Viên pin 5.100 mAh kết hợp vi xử lý Helio G99 (6nm) tiết kiệm điện năng và khe cắm thẻ nhớ microSD mở rộng tới 1TB giúp chiếc tablet mini nặng chỉ 333g này trở thành thiết bị giải trí, đọc sách và định vị dẫn đường hoàn hảo."
+  ],
+  "variants": [
+    {
+      "sku": "TB-SS001-A11-4G-XAM-4GB-64GB-4G",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "4GB",
+      "storage": "4GB/64GB (4G)",
+      "rom": "64GB",
+      "price": 4190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/anh-dai-dien-samsung-galaxy-tab-a11-4g-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/mat-truoc-sau-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/mat-truoc-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/mat-sau-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/can-canh-camera-sau-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/cam-tren-tay-man-hinh-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/can-canh-cong-sac-type-c-va-jack-tai-nghe-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/can-canh-nut-nguon-va-am-luong-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/he-thong-loa-kep-dolby-atmos-xanh-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/thiet-ke-mong-8mm-nhe-335g-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/thong-so-man-hinh-tft-lcd-8-7-inch-90hz-xanh-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/tong-quan-tinh-nang-man-hinh-8-7-inch-90hz-pin-5100mah-xam-xanh.webp"
+      ]
+    },
+    {
+      "sku": "TB-SS001-A11-4G-XAM-8GB-128GB-4G",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "8GB/128GB (4G)",
+      "rom": "128GB",
+      "price": 4990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/anh-dai-dien-samsung-galaxy-tab-a11-4g-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/mat-truoc-sau-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/mat-truoc-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/mat-sau-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/can-canh-camera-sau-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/cam-tren-tay-man-hinh-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/can-canh-cong-sac-type-c-va-jack-tai-nghe-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/can-canh-nut-nguon-va-am-luong-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/he-thong-loa-kep-dolby-atmos-xanh-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/thiet-ke-mong-8mm-nhe-335g-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/thong-so-man-hinh-tft-lcd-8-7-inch-90hz-xanh-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/tong-quan-tinh-nang-man-hinh-8-7-inch-90hz-pin-5100mah-xam-xanh.webp"
+      ]
+    },
+    {
+      "sku": "TB-SS001-A11-4G-BAC-4GB-64GB-4G",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "4GB",
+      "storage": "4GB/64GB (4G)",
+      "rom": "64GB",
+      "price": 4190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/anh-dai-dien-samsung-galaxy-tab-a11-4g-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/mat-truoc-nghieng-phai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/mat-truoc-nghieng-trai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/he-thong-loa-kep-dolby-atmos-xanh-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/thiet-ke-mong-8mm-nhe-335g-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/thong-so-man-hinh-tft-lcd-8-7-inch-90hz-xanh-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/tong-quan-tinh-nang-man-hinh-8-7-inch-90hz-pin-5100mah-xam-xanh.webp"
+      ]
+    },
+    {
+      "sku": "TB-SS001-A11-4G-BAC-8GB-128GB-4G",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "8GB",
+      "storage": "8GB/128GB (4G)",
+      "rom": "128GB",
+      "price": 4990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/anh-dai-dien-samsung-galaxy-tab-a11-4g-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/mat-truoc-nghieng-phai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/mat-truoc-nghieng-trai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/he-thong-loa-kep-dolby-atmos-xanh-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/thiet-ke-mong-8mm-nhe-335g-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/thong-so-man-hinh-tft-lcd-8-7-inch-90hz-xanh-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-4g/tong-quan-tinh-nang-man-hinh-8-7-inch-90hz-pin-5100mah-xam-xanh.webp"
+      ]
+    }
+  ]
+}

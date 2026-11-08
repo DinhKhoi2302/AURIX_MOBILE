@@ -1,0 +1,589 @@
+{
+  "id": "galaxy-a18",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "model": "Samsung Galaxy A18",
+  "series": "Galaxy A Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "entry-level"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Giảm giá",
+      "type": "sale"
+    }
+  ],
+  "overview": {
+    "releaseDate": "Năm 2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Samsung Galaxy A18 là mẫu smartphone phổ thông thế hệ mới ra mắt cuối năm 2026, sở hữu màn hình Super AMOLED 6,7 inch Full HD+ 90Hz sắc nét, cụm 3 camera 50MP đa dụng, chuẩn kháng bụi/nước nâng cấp lên IP64, viên pin 5.000 mAh sạc nhanh 25W và cài sẵn Android 17 (One UI 9) với cam kết 6 năm cập nhật phần mềm.",
+    "highlights": [
+      "6,7 inch Super AMOLED 90Hz",
+      "Exynos 1610 / Helio G99+",
+      "Camera 50MP + 5MP + 2MP",
+      "Pin 5.000 mAh · Sạc 25W · IP64"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 4690000,
+    "originalPrice": 6590000,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT005-SSA18-DEN-4GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 4690000,
+      "originalPrice": 6590000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a18/anh-dai-dien-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-truoc-mat-sau-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/man-hinh-mat-truoc-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-lung-goc-nghieng-phai-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-lung-goc-nghieng-trai-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-lung-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/canh-phai-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/canh-trai-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/man-hinh-goc-nghieng-phai-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/man-hinh-goc-nghieng-trai-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/he-thong-camera-50mp-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/khang-bui-nuoc-ip64-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/nang-cap-he-dieu-hanh-6-lan-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/tinh-nang-khoanh-tron-tim-kiem-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/tinh-nang-mo-rong-ram-plus-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/Galaxy-A18.jpg",
+        "assets/images/products/samsung/galaxy-a18/thong-so-noi-bat-samsung-galaxy-a18-trang-bac-den-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "DT005-SSA18-DEN-6GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 5190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a18/anh-dai-dien-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-truoc-mat-sau-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/man-hinh-mat-truoc-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-lung-goc-nghieng-phai-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-lung-goc-nghieng-trai-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-lung-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/canh-phai-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/canh-trai-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/man-hinh-goc-nghieng-phai-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/man-hinh-goc-nghieng-trai-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/he-thong-camera-50mp-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/khang-bui-nuoc-ip64-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/nang-cap-he-dieu-hanh-6-lan-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/tinh-nang-khoanh-tron-tim-kiem-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/tinh-nang-mo-rong-ram-plus-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/Galaxy-A18.jpg",
+        "assets/images/products/samsung/galaxy-a18/thong-so-noi-bat-samsung-galaxy-a18-trang-bac-den-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "DT005-SSA18-XANH-DUONG-4GB-128GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 4690000,
+      "originalPrice": 6590000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a18/anh-dai-dien-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-truoc-mat-sau-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/man-hinh-mat-truoc-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-lung-goc-nghieng-phai-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-lung-goc-nghieng-trai-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-lung-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/canh-phai-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/canh-trai-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/man-hinh-goc-nghieng-phai-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/man-hinh-goc-nghieng-trai-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/thiet-ke-mong-nhe-ba-mau-samsung-galaxy-a18-trang-bac-den-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/Galaxy-A18.jpg",
+        "assets/images/products/samsung/galaxy-a18/thong-so-noi-bat-samsung-galaxy-a18-trang-bac-den-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "DT005-SSA18-XANH-DUONG-6GB-128GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 5190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a18/anh-dai-dien-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-truoc-mat-sau-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/man-hinh-mat-truoc-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-lung-goc-nghieng-phai-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-lung-goc-nghieng-trai-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-lung-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/canh-phai-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/canh-trai-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/man-hinh-goc-nghieng-phai-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/man-hinh-goc-nghieng-trai-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/thiet-ke-mong-nhe-ba-mau-samsung-galaxy-a18-trang-bac-den-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/Galaxy-A18.jpg",
+        "assets/images/products/samsung/galaxy-a18/thong-so-noi-bat-samsung-galaxy-a18-trang-bac-den-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "DT005-SSA18-TRANG-BAC-4GB-128GB",
+      "color": "Trắng Bạc",
+      "colorHex": "#F1F5F9",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 4690000,
+      "originalPrice": 6590000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a18/anh-dai-dien-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-truoc-mat-sau-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/man-hinh-mat-truoc-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-lung-goc-nghieng-phai-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-lung-goc-nghieng-trai-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-lung-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/canh-phai-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/canh-trai-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/man-hinh-goc-nghieng-phai-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/man-hinh-goc-nghieng-trai-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/Galaxy-A18.jpg",
+        "assets/images/products/samsung/galaxy-a18/thong-so-noi-bat-samsung-galaxy-a18-trang-bac-den-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "DT005-SSA18-TRANG-BAC-6GB-128GB",
+      "color": "Trắng Bạc",
+      "colorHex": "#F1F5F9",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 5190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a18/anh-dai-dien-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-truoc-mat-sau-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/man-hinh-mat-truoc-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-lung-goc-nghieng-phai-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-lung-goc-nghieng-trai-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-lung-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/canh-phai-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/canh-trai-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/man-hinh-goc-nghieng-phai-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/man-hinh-goc-nghieng-trai-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/Galaxy-A18.jpg",
+        "assets/images/products/samsung/galaxy-a18/thong-so-noi-bat-samsung-galaxy-a18-trang-bac-den-xanh-duong.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "Super AMOLED",
+    "size": "6,7 inch",
+    "resolution": "Full HD+ (1080 x 2340 pixel)",
+    "refreshRate": "90Hz",
+    "brightness": "800 nit",
+    "hdr": null,
+    "protection": "Corning Gorilla Glass 3",
+    "features": [
+      "Tần số quét 90Hz",
+      "Bảo vệ mắt Eye Comfort Shield"
+    ]
+  },
+  "performance": {
+    "chipset": "Exynos 1610 / MediaTek Helio G99+",
+    "cpu": "8 nhân (2x 2,4 GHz & 6x 2,0 GHz)",
+    "gpu": "Mali-G68 / Mali-G57 MC2",
+    "ram": [
+      "4GB",
+      "6GB"
+    ],
+    "storage": [
+      "128GB"
+    ],
+    "operatingSystem": "Android 17, One UI 9",
+    "uiVersion": "One UI 9",
+    "expandableStorage": "Hỗ trợ thẻ nhớ microSDXC"
+  },
+  "rearCamera": {
+    "main": "50MP Wide f/1.8 (26mm, PDAF)",
+    "ultraWide": "5MP Ultra Wide f/2.2 (17mm)",
+    "telephoto": "2MP Macro",
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "1080p@30fps"
+    ],
+    "aiFeatures": [
+      "Chân dung AI",
+      "Chụp đêm"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "13MP Wide f/2.0 (27mm)",
+    "features": [
+      "Làm đẹp AI"
+    ],
+    "videoRecording": [
+      "1080p@30fps"
+    ]
+  },
+  "battery": {
+    "capacity": "5.000 mAh",
+    "wiredCharging": "Sạc nhanh 25W USB-C (50% trong 30 phút)",
+    "wirelessCharging": null,
+    "reverseCharging": null,
+    "chargingTechnology": "Super Fast Charging 25W"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM"
+    ],
+    "network": [
+      "4G LTE"
+    ],
+    "wifi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép",
+    "bluetooth": "Bluetooth 5.3 (A2DP, LE)",
+    "gps": [
+      "GPS",
+      "GALILEO",
+      "GLONASS",
+      "BDS",
+      "QZSS"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "164,4 x 77,9 x 7,7 mm",
+    "weight": "196 g",
+    "materials": [
+      "Mặt trước kính Corning Gorilla Glass 3",
+      "Khung và mặt lưng nhựa cao cấp"
+    ],
+    "waterResistance": "IP64 (kháng bụi hoàn toàn và kháng tia nước bắn)",
+    "availableColors": [
+      "Đen",
+      "Xanh"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa đơn / Stereo tiêu chuẩn",
+    "headphoneJack": null,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "6,7 inch Super AMOLED 90Hz",
+    "Exynos 1610 / Helio G99+",
+    "Camera 50MP + 5MP + 2MP",
+    "Pin 5.000 mAh · Sạc 25W · IP64"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Samsung tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/samsung/galaxy-a18/anh-dai-dien-samsung-galaxy-a18-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/samsung/galaxy-a18/anh-dai-dien-samsung-galaxy-a18-den.webp",
+      "assets/images/products/samsung/galaxy-a18/anh-dai-dien-samsung-galaxy-a18-trang-bac.webp",
+      "assets/images/products/samsung/galaxy-a18/anh-dai-dien-samsung-galaxy-a18-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a18/mat-truoc-mat-sau-samsung-galaxy-a18-den.webp",
+      "assets/images/products/samsung/galaxy-a18/mat-truoc-mat-sau-samsung-galaxy-a18-trang-bac.webp",
+      "assets/images/products/samsung/galaxy-a18/mat-truoc-mat-sau-samsung-galaxy-a18-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a18/man-hinh-mat-truoc-samsung-galaxy-a18-den.webp",
+      "assets/images/products/samsung/galaxy-a18/man-hinh-mat-truoc-samsung-galaxy-a18-trang-bac.webp",
+      "assets/images/products/samsung/galaxy-a18/man-hinh-mat-truoc-samsung-galaxy-a18-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a18/mat-lung-goc-nghieng-phai-samsung-galaxy-a18-den.webp",
+      "assets/images/products/samsung/galaxy-a18/mat-lung-goc-nghieng-phai-samsung-galaxy-a18-trang-bac.webp",
+      "assets/images/products/samsung/galaxy-a18/mat-lung-goc-nghieng-phai-samsung-galaxy-a18-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a18/mat-lung-goc-nghieng-trai-samsung-galaxy-a18-den.webp",
+      "assets/images/products/samsung/galaxy-a18/mat-lung-goc-nghieng-trai-samsung-galaxy-a18-trang-bac.webp",
+      "assets/images/products/samsung/galaxy-a18/mat-lung-goc-nghieng-trai-samsung-galaxy-a18-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a18/mat-lung-samsung-galaxy-a18-den.webp",
+      "assets/images/products/samsung/galaxy-a18/mat-lung-samsung-galaxy-a18-trang-bac.webp",
+      "assets/images/products/samsung/galaxy-a18/mat-lung-samsung-galaxy-a18-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a18/canh-phai-samsung-galaxy-a18-den.webp",
+      "assets/images/products/samsung/galaxy-a18/canh-phai-samsung-galaxy-a18-trang-bac.webp",
+      "assets/images/products/samsung/galaxy-a18/canh-phai-samsung-galaxy-a18-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a18/canh-trai-samsung-galaxy-a18-den.webp",
+      "assets/images/products/samsung/galaxy-a18/canh-trai-samsung-galaxy-a18-trang-bac.webp",
+      "assets/images/products/samsung/galaxy-a18/canh-trai-samsung-galaxy-a18-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a18/man-hinh-goc-nghieng-phai-samsung-galaxy-a18-den.webp",
+      "assets/images/products/samsung/galaxy-a18/man-hinh-goc-nghieng-phai-samsung-galaxy-a18-trang-bac.webp",
+      "assets/images/products/samsung/galaxy-a18/man-hinh-goc-nghieng-phai-samsung-galaxy-a18-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a18/man-hinh-goc-nghieng-trai-samsung-galaxy-a18-den.webp",
+      "assets/images/products/samsung/galaxy-a18/man-hinh-goc-nghieng-trai-samsung-galaxy-a18-trang-bac.webp",
+      "assets/images/products/samsung/galaxy-a18/man-hinh-goc-nghieng-trai-samsung-galaxy-a18-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a18/he-thong-camera-50mp-samsung-galaxy-a18-den.webp",
+      "assets/images/products/samsung/galaxy-a18/Galaxy-A18.jpg",
+      "assets/images/products/samsung/galaxy-a18/khang-bui-nuoc-ip64-samsung-galaxy-a18-den.webp",
+      "assets/images/products/samsung/galaxy-a18/nang-cap-he-dieu-hanh-6-lan-samsung-galaxy-a18-den.webp",
+      "assets/images/products/samsung/galaxy-a18/thiet-ke-mong-nhe-ba-mau-samsung-galaxy-a18-trang-bac-den-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a18/tinh-nang-khoanh-tron-tim-kiem-samsung-galaxy-a18-den.webp",
+      "assets/images/products/samsung/galaxy-a18/tinh-nang-mo-rong-ram-plus-samsung-galaxy-a18-den.webp",
+      "assets/images/products/samsung/galaxy-a18/thong-so-noi-bat-samsung-galaxy-a18-trang-bac-den-xanh-duong.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/samsung/galaxy-a18/anh-dai-dien-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-truoc-mat-sau-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/man-hinh-mat-truoc-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-lung-goc-nghieng-phai-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-lung-goc-nghieng-trai-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-lung-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/canh-phai-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/canh-trai-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/man-hinh-goc-nghieng-phai-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/man-hinh-goc-nghieng-trai-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/he-thong-camera-50mp-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/khang-bui-nuoc-ip64-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/nang-cap-he-dieu-hanh-6-lan-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/tinh-nang-khoanh-tron-tim-kiem-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/tinh-nang-mo-rong-ram-plus-samsung-galaxy-a18-den.webp",
+        "assets/images/products/samsung/galaxy-a18/Galaxy-A18.jpg",
+        "assets/images/products/samsung/galaxy-a18/thong-so-noi-bat-samsung-galaxy-a18-trang-bac-den-xanh-duong.webp"
+      ],
+      "Trắng Bạc": [
+        "assets/images/products/samsung/galaxy-a18/anh-dai-dien-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-truoc-mat-sau-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/man-hinh-mat-truoc-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-lung-goc-nghieng-phai-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-lung-goc-nghieng-trai-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-lung-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/canh-phai-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/canh-trai-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/man-hinh-goc-nghieng-phai-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/man-hinh-goc-nghieng-trai-samsung-galaxy-a18-trang-bac.webp",
+        "assets/images/products/samsung/galaxy-a18/Galaxy-A18.jpg",
+        "assets/images/products/samsung/galaxy-a18/thong-so-noi-bat-samsung-galaxy-a18-trang-bac-den-xanh-duong.webp"
+      ],
+      "Xanh Dương": [
+        "assets/images/products/samsung/galaxy-a18/anh-dai-dien-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-truoc-mat-sau-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/man-hinh-mat-truoc-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-lung-goc-nghieng-phai-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-lung-goc-nghieng-trai-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/mat-lung-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/canh-phai-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/canh-trai-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/man-hinh-goc-nghieng-phai-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/man-hinh-goc-nghieng-trai-samsung-galaxy-a18-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/thiet-ke-mong-nhe-ba-mau-samsung-galaxy-a18-trang-bac-den-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a18/Galaxy-A18.jpg",
+        "assets/images/products/samsung/galaxy-a18/thong-so-noi-bat-samsung-galaxy-a18-trang-bac-den-xanh-duong.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/samsung/galaxy-a18/mat-truoc-mat-sau-samsung-galaxy-a18-den.webp",
+      "screen": "assets/images/products/samsung/galaxy-a18/mat-truoc-mat-sau-samsung-galaxy-a18-trang-bac.webp",
+      "performance": "assets/images/products/samsung/galaxy-a18/anh-dai-dien-samsung-galaxy-a18-trang-bac.webp",
+      "camera": "assets/images/products/samsung/galaxy-a18/he-thong-camera-50mp-samsung-galaxy-a18-den.webp",
+      "battery": "assets/images/products/samsung/galaxy-a18/canh-phai-samsung-galaxy-a18-den.webp",
+      "feature": "assets/images/products/samsung/galaxy-a18/anh-dai-dien-samsung-galaxy-a18-xanh-duong.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/samsung/galaxy-a18/anh-dai-dien-samsung-galaxy-a18-trang-bac.webp",
+      "assets/images/products/samsung/galaxy-a18/anh-dai-dien-samsung-galaxy-a18-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a18/mat-truoc-mat-sau-samsung-galaxy-a18-den.webp",
+      "assets/images/products/samsung/galaxy-a18/mat-truoc-mat-sau-samsung-galaxy-a18-trang-bac.webp",
+      "assets/images/products/samsung/galaxy-a18/mat-truoc-mat-sau-samsung-galaxy-a18-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a18/man-hinh-mat-truoc-samsung-galaxy-a18-den.webp",
+      "assets/images/products/samsung/galaxy-a18/man-hinh-mat-truoc-samsung-galaxy-a18-trang-bac.webp",
+      "assets/images/products/samsung/galaxy-a18/man-hinh-mat-truoc-samsung-galaxy-a18-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a18/mat-lung-goc-nghieng-phai-samsung-galaxy-a18-den.webp",
+      "assets/images/products/samsung/galaxy-a18/mat-lung-goc-nghieng-phai-samsung-galaxy-a18-trang-bac.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s26-series",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s25-series",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-z",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-a",
+      "https://www.samsung.com/vn/smartphones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "partial_retail_listing",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT005-SSA18",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "Super AMOLED",
+      "Kích thước màn hình": "6,7 inch (tỷ lệ hiển thị ~86,0% mặt trước)",
+      "Độ phân giải màn hình": "Full HD+ (1080 x 2340 pixel, ~385 ppi)",
+      "Tần số quét": "90Hz",
+      "Kiểu màn hình": "Màn hình phẳng bảo vệ bởi kính cường lực Corning Gorilla Glass 3",
+      "Tính năng màn hình": "Độ sáng cao ~775 nit, dải màu rực rỡ Super AMOLED, chế độ bảo vệ mắt Eye Comfort Shield"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera: Chính 50MP (f/1.8, 26mm, lấy nét PDAF) + Góc siêu rộng 5MP (f/2.2, 17mm) + Macro 2MP",
+      "Quay video": "Full HD 1080p@30fps",
+      "Tính năng camera": "Chân dung xóa phông, Chụp đêm, HDR, Panorama, đèn Flash LED"
+    },
+    "Camera trước": {
+      "Camera trước": "13MP (f/2.0, 27mm); hỗ trợ quay video Full HD 1080p@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Samsung Exynos 1610 / MediaTek Helio G99+ (8 nhân)",
+      "Loại CPU": "8 nhân (2 nhân hiệu năng 2,4 GHz + 6 nhân tiết kiệm điện 2,0 GHz)",
+      "GPU": "Mali-G68 / Mali-G57 MC2"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "4GB / 6GB (hỗ trợ mở rộng RAM Plus)",
+      "Bộ nhớ trong": "128GB (hỗ trợ thẻ nhớ microSDXC)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.000 mAh (Li-Ion)",
+      "Công nghệ sạc": "Sạc nhanh có dây 25W (đạt 50% pin trong 30 phút)",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 17, giao diện One UI 9 (hỗ trợ cập nhật 6 thế hệ Android)",
+      "Công nghệ - Tiện ích": "Bảo mật Samsung Knox Vault, Thư mục bảo mật, Quick Share",
+      "Tiện ích khác": "Hỗ trợ thẻ nhớ microSDXC, cảm biến vân tay tích hợp nút nguồn cạnh bên",
+      "Thời điểm ra mắt": "15/09/2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "4G LTE đa băng tần tốc độ cao",
+      "Thẻ SIM": "2 Nano-SIM (khe SIM lai microSDXC)",
+      "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép (2.4GHz & 5GHz), Wi-Fi Direct",
+      "Bluetooth": "Bluetooth 5.3 (A2DP, LE)",
+      "Công nghệ NFC": "Có hỗ trợ NFC (tùy thị trường)",
+      "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung nhựa polycarbonate gia cố cứng cáp với cụm phím Key Island",
+      "Chất liệu mặt lưng": "Mặt trước kính Corning Gorilla Glass 3, mặt lưng hoàn thiện thanh lịch",
+      "Kích thước": "164,4 x 77,9 x 7,7 mm",
+      "Trọng lượng": "196 gram",
+      "Chỉ số kháng nước, bụi": "IP64 (kháng bụi hoàn toàn và kháng tia nước bắn)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài chất lượng cao (-25,8 LUFS), hỗ trợ Dolby Atmos qua tai nghe",
+      "Cảm biến vân tay": "Cảm biến vân tay tích hợp nút nguồn cạnh bên",
+      "Các loại cảm biến": "Vân tay cạnh bên, Gia tốc kế, Con quay hồi chuyển, Cảm biến tiệm cận ảo, La bàn số"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,7 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "Super AMOLED"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "Full HD+ (1080 x 2340 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "90Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Exynos 1610 / MediaTek Helio G99+"
+    },
+    {
+      "label": "RAM",
+      "value": "4GB / 6GB"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB (hỗ trợ thẻ nhớ microSDXC)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính + 5MP Ultra Wide + 2MP Macro"
+    },
+    {
+      "label": "Camera trước",
+      "value": "13MP, khẩu độ f/2.0"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh có dây 25W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 17, One UI 9"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "4G LTE"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP64 (kháng bụi & kháng tia nước)"
+    }
+  ],
+  "verbatimDescription": [
+    "Samsung Galaxy A18 mang đến trải nghiệm vượt kỳ vọng trong phân khúc phổ thông dưới 5 triệu đồng khi kết hợp tấm nền Super AMOLED rực rỡ, độ bền chuẩn IP64 và cam kết hỗ trợ cập nhật hệ điều hành lên tới 6 thế hệ Android — một ưu thế hiếm có trong tầm giá.",
+    "Máy sở hữu ngoại hình hiện đại với độ mỏng 7,7 mm và cụm phím nổi Key Island tiện lợi ở cạnh phải. Điểm sáng giá nhất ở mặt trước là màn hình Super AMOLED rộng 6,7 inch đạt độ phân giải Full HD+ (1080 x 2340 pixel, ~385 ppi) và tần số quét 90Hz, mang lại chất lượng hiển thị sắc nét, màu sắc sống động hơn hẳn các màn hình LCD HD+ thông thường.",
+    "Cung cấp sức mạnh cho Galaxy A18 là vi xử lý 8 nhân Exynos 1610 / MediaTek Helio G99+ (xung nhịp lên đến 2,4 GHz) kết hợp tùy chọn RAM 4GB hoặc 6GB (hỗ trợ mở rộng RAM Plus) và bộ nhớ trong 128GB có khe cắm thẻ nhớ microSDXC. Cấu hình này đáp ứng mượt mà các tác vụ liên lạc, lướt web, xem video trực tuyến và sử dụng ứng dụng ngân hàng, mạng xã hội.",
+    "Hệ thống 3 camera sau của Galaxy A18 bao gồm camera chính 50MP (khẩu độ f/1.8, lấy nét theo pha PDAF), camera góc siêu rộng 5MP (f/2.2) và camera Macro 2MP chụp cận cảnh, đi kèm camera trước 13MP (f/2.0). Cả camera trước và sau đều hỗ trợ quay video Full HD 1080p@30fps rõ nét.",
+    "Viên pin dung lượng 5.000 mAh cho thời lượng sử dụng thực tế bền bỉ suốt hơn một ngày dài, kết hợp công nghệ sạc nhanh có dây 25W giúp nạp 50% dung lượng pin trong khoảng 30 phút.",
+    "Cài sẵn hệ điều hành Android 17 và giao diện One UI 9 ngay khi xuất xưởng, tích hợp bảo mật phần cứng Samsung Knox Vault, cảm biến vân tay cạnh bên, Wi-Fi băng tần kép, Bluetooth 5.3 và chuẩn kháng bụi/nước IP64, Galaxy A18 là lựa chọn kinh tế và bền bỉ cho học sinh, sinh viên và người dùng phổ thông."
+  ],
+  "priceSegment": "entry-level"
+}

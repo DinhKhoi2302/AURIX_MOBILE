@@ -1,0 +1,132 @@
+{
+  "id": "baseus-comet-pro-20000mah-30w-e0027y",
+  "docCode": "PK-PB005-E0027Y",
+  "model": "Pin Sạc Dự Phòng Baseus Comet Pro 20.000mAh 30W E0027Y",
+  "brand": "Baseus",
+  "brandId": "baseus",
+  "parentGroupId": "baseus",
+  "series": "Pin sạc dự phòng",
+  "subCategory": "pin-sac-du-phong",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "pin-sac-du-phong"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Pin sạc dự phòng",
+    "highlights": [
+      "30W",
+      "20.000 mAh"
+    ],
+    "description": "Dòng pin dự phòng tích hợp sẵn cả cáp sạc Type-C và cáp Lightning, tương thích hoàn hảo cho cả tín đồ iPhone lẫn Android. Màn hình gương LED hiển thị pin sắc nét, lớp vỏ mờ chống xước và tiêu chuẩn an toàn bảo vệ mạch điện tử cao cấp cấp độ 9."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 650000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/pin-sac-du-phong/baseus-comet-pro-20000mah-30w-e0027y/anh-dai-dien-baseus-comet-pro-20000mah-30w-e0027y-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/pin-sac-du-phong/baseus-comet-pro-20000mah-30w-e0027y/anh-dai-dien-baseus-comet-pro-20000mah-30w-e0027y-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/baseus-comet-pro-20000mah-30w-e0027y/goc-nghieng-kem-cap-tich-hop-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/baseus-comet-pro-20000mah-30w-e0027y/cau-truc-loi-pin-20000mah-ben-trong-den-bac.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/baseus-comet-pro-20000mah-30w-e0027y/chip-ai-kiem-soat-nhiet-do-den-xam.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/accessory/pin-sac-du-phong/baseus-comet-pro-20000mah-30w-e0027y/anh-dai-dien-baseus-comet-pro-20000mah-30w-e0027y-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/baseus-comet-pro-20000mah-30w-e0027y/goc-nghieng-kem-cap-tich-hop-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/baseus-comet-pro-20000mah-30w-e0027y/cau-truc-loi-pin-20000mah-ben-trong-den-bac.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/baseus-comet-pro-20000mah-30w-e0027y/chip-ai-kiem-soat-nhiet-do-den-xam.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/pin-sac-du-phong/baseus-comet-pro-20000mah-30w-e0027y/goc-nghieng-kem-cap-tich-hop-den.webp",
+      "screen": "assets/images/products/accessory/pin-sac-du-phong/baseus-comet-pro-20000mah-30w-e0027y/cau-truc-loi-pin-20000mah-ben-trong-den-bac.webp",
+      "performance": "assets/images/products/accessory/pin-sac-du-phong/baseus-comet-pro-20000mah-30w-e0027y/chip-ai-kiem-soat-nhiet-do-den-xam.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/pin-sac-du-phong/baseus-comet-pro-20000mah-30w-e0027y/goc-nghieng-kem-cap-tich-hop-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/baseus-comet-pro-20000mah-30w-e0027y/cau-truc-loi-pin-20000mah-ben-trong-den-bac.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/baseus-comet-pro-20000mah-30w-e0027y/chip-ai-kiem-soat-nhiet-do-den-xam.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Baseus",
+      "Dung lượng pin": "20.000 mAh",
+      "Công suất đầu ra tối đa": "30W",
+      "Công suất đầu vào": "18W",
+      "Số lượng cổng kết nối": "4 kết nối (1 cổng USB-C, 1 cổng USB-A, 1 cáp Type-C liền, 1 cáp Lightning liền)",
+      "Loại cổng kết nối": "USB-C, USB-A, Cáp Type-C, Cáp Lightning",
+      "Sạc không dây": "Không",
+      "Công nghệ sạc": "PD 3.0, QC 3.0, SCP, FCP",
+      "Màu sắc": "Đen"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Baseus"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "20.000 mAh"
+    },
+    {
+      "label": "Công suất đầu ra tối đa",
+      "value": "30W"
+    },
+    {
+      "label": "Công suất đầu vào",
+      "value": "18W"
+    },
+    {
+      "label": "Số lượng cổng kết nối",
+      "value": "4 kết nối (1 cổng USB-C, 1 cổng USB-A, 1 cáp Type-C liền, 1 cáp Lightning liền)"
+    },
+    {
+      "label": "Loại cổng kết nối",
+      "value": "USB-C, USB-A, Cáp Type-C, Cáp Lightning"
+    },
+    {
+      "label": "Sạc không dây",
+      "value": "Không"
+    },
+    {
+      "label": "Công nghệ sạc",
+      "value": "PD 3.0, QC 3.0, SCP, FCP"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Đen"
+    }
+  ],
+  "verbatimDescription": [
+    "Dòng pin dự phòng tích hợp sẵn cả cáp sạc Type-C và cáp Lightning, tương thích hoàn hảo cho cả tín đồ iPhone lẫn Android. Màn hình gương LED hiển thị pin sắc nét, lớp vỏ mờ chống xước và tiêu chuẩn an toàn bảo vệ mạch điện tử cao cấp cấp độ 9."
+  ],
+  "variants": [
+    {
+      "sku": "PK-PB005-E0027Y-DEN-TIEU-CHUAN",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 650000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/pin-sac-du-phong/baseus-comet-pro-20000mah-30w-e0027y/anh-dai-dien-baseus-comet-pro-20000mah-30w-e0027y-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/baseus-comet-pro-20000mah-30w-e0027y/goc-nghieng-kem-cap-tich-hop-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/baseus-comet-pro-20000mah-30w-e0027y/cau-truc-loi-pin-20000mah-ben-trong-den-bac.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/baseus-comet-pro-20000mah-30w-e0027y/chip-ai-kiem-soat-nhiet-do-den-xam.webp"
+      ]
+    }
+  ]
+}

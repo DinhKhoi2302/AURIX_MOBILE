@@ -1,0 +1,25 @@
+/* TechPhone — News Detail Page Styles */
+.tp-article-container {
+  max-width: 880px;
+  margin: 0 auto;
+  background: var(--tp-white);
+  border: 1px solid var(--tp-border);
+  border-radius: var(--tp-radius-xl);
+  padding: 2.5rem;
+}
+.tp-article-toc {
+  background: var(--tp-bg-page);
+  border-left: 4px solid var(--tp-primary);
+  border-radius: var(--tp-radius-sm);
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+}
+.tp-article-body h2 {
+  font-size: 1.4rem;
+  margin: 1.75rem 0 0.75rem;
+}
+.tp-article-body p {
+  margin-bottom: 1.1rem;
+  line-height: 1.75;
+  color: #26334D;
+}

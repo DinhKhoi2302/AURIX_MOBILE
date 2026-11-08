@@ -1,0 +1,324 @@
+{
+  "id": "motorola-g57-power-5g",
+  "brand": "Motorola",
+  "brandId": "motorola",
+  "parentGroupId": "motorola",
+  "model": "Motorola G57 Power 5G",
+  "series": "Moto G",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "entry-level",
+    "5g-ready"
+  ],
+  "status": "needs_verification",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 19,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Ra mắt tháng 11/2025, Motorola Moto G57 Power 5G là mẫu smartphone 5G pin khủng trang bị viên pin 7.000 mAh, vi xử lý 4nm Qualcomm Snapdragon 6s Gen 4, màn hình 6,72 inch FHD+ 120Hz bảo vệ bởi kính Gorilla Glass 7i, cụm camera 50MP Sony LYT-600 OIS + 8MP góc siêu rộng và độ bền chuẩn quân đội MIL-STD-810H. (Nguồn tham chiếu: GSMArena - Motorola Moto G57 Power 5G).",
+    "highlights": [
+      "6,72 inch FHD+ 120Hz",
+      "Snapdragon 6s Gen 4",
+      "Pin 7.000 mAh / Sony LYT-600 OIS"
+    ],
+    "officialDistribution": "Model được bảo lưu từ danh sách trước nhưng chưa đủ bằng chứng đang mở bán chính thức trong lượt đối chiếu ngày 01/11/2026; giữ trạng thái needs_verification để không mất dấu dữ liệu."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": null,
+    "originalPrice": null,
+    "promotionPrice": null,
+    "priceUpdatedAt": "2026-11-01",
+    "priceVerified": false
+  },
+  "variants": [
+    {
+      "sku": "AUR-MOT-G57-POWER-5G-RAM-STD-01",
+      "color": "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)",
+      "colorHex": "#102347",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "price": null,
+      "originalPrice": null,
+      "stockStatus": "needs_verification",
+      "images": [
+        "assets/images/placeholders/placeholder-default.svg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "IPS LCD FHD+ 120Hz, độ sáng đỉnh 1.050 nit",
+    "size": "6,72 inch",
+    "resolution": "2400 x 1080 pixel (FHD+, 392 ppi)",
+    "refreshRate": "120Hz",
+    "brightness": "Độ phân giải Full HD+, tần số quét 120Hz, độ sáng cao 1.050 nit, cảm ứng khi tay ướt Water Touch",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 6s Gen 4 5G (4nm)",
+    "cpu": "CPU 8 nhân hiệu năng cao tối ưu hóa kết nối 5G và tiết kiệm pin",
+    "gpu": "Qualcomm Adreno GPU",
+    "ram": [
+      "8GB"
+    ],
+    "storage": [
+      "256GB"
+    ],
+    "operatingSystem": "Android 16 (Giao diện Hello UI)",
+    "uiVersion": "Android",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Chính Sony LYT-600 OIS + 8MP Góc siêu rộng & Macro",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "Quay video Full HD 1080p ở 30/60fps kèm chống rung quang học OIS + EIS"
+    ],
+    "aiFeatures": [
+      "Night Vision chụp đêm, Chân dung xóa phông, Macro Vision, Dual Capture, HDR"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "16MP (ƒ/2.4), quay 1080p 30fps",
+    "features": [
+      "Camera Selfie 16MP (khẩu độ ƒ/2.4), hỗ trợ làm đẹp chân dung AI và quay video 1080p@30fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "7.000 mAh (Pin khủng Silicon-Carbon)",
+    "wiredCharging": "Sạc nhanh có dây 33W TurboPower",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc nhanh có dây 33W TurboPower qua cổng USB Type-C"
+  },
+  "connectivity": {
+    "sim": [
+      "SIM kép (Nano-SIM + eSIM hoặc 2 Nano-SIM)"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép",
+    "bluetooth": "Bluetooth 5.3 hỗ trợ A2DP, LE",
+    "gps": [
+      "GPS, GLONASS, GALILEO, BDS, QZSS"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "166,2 x 76,5 x 8,6 mm",
+    "weight": "208 gram",
+    "materials": [
+      "Khung composite gia cường đạt chuẩn quân đội",
+      "Mặt lưng da thuần chay (Vegan Leather) chống bám vân tay"
+    ],
+    "waterResistance": "IP64 & Độ bền quân đội MIL-STD-810H",
+    "availableColors": [
+      "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo chuẩn Dolby Atmos, Hi-Res Audio, có giắc tai nghe 3.5mm",
+    "headphoneJack": true,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Moto G",
+    "Motorola",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Motorola tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/placeholders/placeholder-default.svg",
+    "hasAvatarNamed": false,
+    "gallery": [
+      "assets/images/placeholders/placeholder-default.svg"
+    ],
+    "byColor": {},
+    "bySection": {
+      "performance": "assets/images/placeholders/placeholder-default.svg"
+    }
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-motorola",
+      "https://www.motorola.com/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "needs_verification",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Model bổ sung xuất hiện trong kết quả tra cứu mới — Cần xác minh thêm",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "verbatimDescription": [
+    "Ra mắt tháng 11/2025, Motorola Moto G57 Power 5G là mẫu smartphone 5G pin khủng trang bị viên pin 7.000 mAh, vi xử lý 4nm Qualcomm Snapdragon 6s Gen 4, màn hình 6,72 inch FHD+ 120Hz bảo vệ bởi kính Gorilla Glass 7i, cụm camera 50MP Sony LYT-600 OIS + 8MP góc siêu rộng và độ bền chuẩn quân đội MIL-STD-810H. Tại AURIX MOBILE, hồ sơ kỹ thuật của máy được cập nhật chuẩn xác để khách hàng tham khảo.",
+    "Moto G57 Power 5G sở hữu thiết kế mặt lưng da thuần chay sang trọng, mặt trước trang bị kính cường lực Corning Gorilla Glass 7i chịu va đập cao cùng chuẩn kháng bụi nước IP64 và độ bền quân đội MIL-STD-810H.",
+    "Màn hình 6,72 inch IPS LCD đạt độ phân giải Full HD+ (2400 x 1080 pixel) với tần số quét 120Hz mượt mà và độ sáng đỉnh 1.050 nit.",
+    "Hệ thống camera sau gồm camera chính 50MP cảm biến Sony LYTIA 600 tích hợp chống rung quang học OIS và camera góc siêu rộng 8MP (118°) có khả năng chụp cận cảnh Macro Vision.",
+    "Vi xử lý 4nm Qualcomm Snapdragon 6s Gen 4 kết hợp 8GB RAM và 256GB bộ nhớ trong mang lại hiệu năng 5G ổn định, tiết kiệm năng lượng trên nền tảng Android 16.",
+    "Viên pin khổng lồ 7.000 mAh kết hợp sạc nhanh 33W TurboPower, loa kép Dolby Atmos và giắc tai nghe 3.5mm đáp ứng tới 3 ngày sử dụng liên tục."
+  ],
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,72 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "IPS LCD FHD+ 120Hz, độ sáng đỉnh 1.050 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2400 x 1080 pixel (FHD+, 392 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 6s Gen 4 5G (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB LPDDR4X (+8GB RAM Boost)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB chuẩn UFS 2.2 (Hỗ trợ MicroSD 1TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính Sony LYT-600 OIS + 8MP Góc siêu rộng & Macro"
+    },
+    {
+      "label": "Camera trước",
+      "value": "16MP (ƒ/2.4), quay 1080p 30fps"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "7.000 mAh (Pin khủng Silicon-Carbon)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh có dây 33W TurboPower"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 16 (Giao diện Hello UI)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP64 & Độ bền quân đội MIL-STD-810H"
+    }
+  ],
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "IPS LCD FHD+ 120Hz, độ sáng đỉnh 1.050 nit",
+      "Kích thước màn hình": "6,72 inch",
+      "Độ phân giải màn hình": "2400 x 1080 pixel (FHD+, 392 ppi)",
+      "Tần số quét": "120Hz",
+      "Kiểu màn hình": "Màn hình phẳng đục lỗ sắc nét, bảo vệ bởi kính Corning Gorilla Glass 7i",
+      "Tính năng màn hình": "Độ phân giải Full HD+, tần số quét 120Hz, độ sáng cao 1.050 nit, cảm ứng khi tay ướt Water Touch"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera kép chống rung quang học: (1) Camera chính 50MP: cảm biến Sony LYTIA 600 (1/1.95\"), khẩu độ ƒ/1.8, lấy nét PDAF, chống rung quang học OIS; (2) Camera Góc siêu rộng & Macro 8MP: khẩu độ ƒ/2.2, góc nhìn 118°, tích hợp AF chụp cận cảnh Macro Vision",
+      "Quay video": "Quay video Full HD 1080p ở 30/60fps kèm chống rung quang học OIS + EIS",
+      "Tính năng camera": "Night Vision chụp đêm, Chân dung xóa phông, Macro Vision, Dual Capture, HDR"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera Selfie 16MP (khẩu độ ƒ/2.4), hỗ trợ làm đẹp chân dung AI và quay video 1080p@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 6s Gen 4 5G (4nm)",
+      "Loại CPU": "CPU 8 nhân hiệu năng cao tối ưu hóa kết nối 5G và tiết kiệm pin",
+      "GPU": "Qualcomm Adreno GPU"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB LPDDR4X (+8GB RAM Boost)",
+      "Bộ nhớ trong": "256GB chuẩn UFS 2.2 (Hỗ trợ MicroSD 1TB)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "7.000 mAh (Pin dung lượng cực lớn đáp ứng 3 ngày sử dụng liên tục)",
+      "Công nghệ sạc": "Sạc nhanh có dây 33W TurboPower qua cổng USB Type-C",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 16 (Giao diện Hello UI)",
+      "Công nghệ - Tiện ích": "Tích hợp Moto AI, Smart Connect, Moto Secure, cử chỉ thông minh Moto Actions",
+      "Tiện ích khác": "Đạt độ bền chuẩn quân đội MIL-STD-810H, giữ lại giắc tai nghe 3.5mm",
+      "Thời điểm ra mắt": "Tháng 11/2025 (Đối chiếu thông số GSMArena)"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G",
+      "Thẻ SIM": "SIM kép (Nano-SIM + eSIM hoặc 2 Nano-SIM)",
+      "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép",
+      "Bluetooth": "Bluetooth 5.3 hỗ trợ A2DP, LE",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa năng",
+      "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung composite gia cường đạt chuẩn quân đội",
+      "Chất liệu mặt lưng": "Mặt lưng da thuần chay (Vegan Leather) chống bám vân tay",
+      "Kích thước": "166,2 x 76,5 x 8,6 mm",
+      "Trọng lượng": "208 gram",
+      "Chỉ số kháng nước, bụi": "Kháng bụi nước chuẩn IP64 kết hợp chứng nhận độ bền quân đội MIL-STD-810H"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa kép Stereo chuẩn Dolby Atmos, Hi-Res Audio, có giắc tai nghe 3.5mm",
+      "Cảm biến vân tay": "Cảm biến vân tay cạnh bên + Mở khóa khuôn mặt",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Tiệm cận, Ánh sáng môi trường, La bàn số"
+    }
+  }
+}

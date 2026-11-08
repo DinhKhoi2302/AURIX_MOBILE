@@ -1,0 +1,480 @@
+{
+  "id": "poco-f9-ultra",
+  "brand": "POCO",
+  "brandId": "poco",
+  "parentGroupId": "xiaomi_group",
+  "model": "POCO F9 Ultra",
+  "series": "POCO F Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "high-end"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.9,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Bán chạy",
+      "type": "hot"
+    }
+  ],
+  "overview": {
+    "releaseDate": "Tháng 05/2026",
+    "segment": "Flagship Cao cấp",
+    "description": "POCO F9 Ultra là thế hệ flagship kế nhiệm đỉnh cao hội tụ vi xử lý Snapdragon 8 Gen 5 Extreme (3nm), màn hình phẳng 2K LTPO 144Hz độ sáng 3.800 nit, cụm camera có ống kính Tele tiềm vọng 64MP 5x OIS và viên pin Silicon-Carbon 6.800 mAh sạc nhanh 120W.",
+    "highlights": [
+      "Sức mạnh thế hệ mới từ Snapdragon 8 Gen 5 Extreme (3nm), RAM LPDDR5X Ultra và bộ nhớ UFS 4.1",
+      "Hệ thống camera Flagship với cảm biến chính 50MP OIS + Tele tiềm vọng 64MP 5x OIS + Siêu rộng 50MP",
+      "Pin Silicon-Carbon 6.800 mAh, sạc siêu tốc 120W có dây, 50W không dây và kháng nước IP68/IP69"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 18990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT015-POCOF9U-DO-12GB-256GB",
+      "color": "Đỏ",
+      "colorHex": "#DC2626",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 18990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/poco/poco-f9-ultra/anh-dai-dien-xiaomi-poco-f9-ultra-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/mat-truoc-man-hinh-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/goc-nghieng-mat-lung-phai-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/goc-nghieng-mat-lung-trai-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/mat-lung-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/canh-phai-nut-nguon-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/canh-trai-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/canh-tren-loa-sound-by-bose-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/goc-nghieng-man-hinh-phai-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/goc-nghieng-man-hinh-trai-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/he-thong-camera-chinh-200mp-ois-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/he-thong-am-thanh-2-1-sound-by-bose.webp",
+        "assets/images/products/poco/poco-f9-ultra/man-hinh-amoled-6-9-inch-185hz-10000-nits.webp",
+        "assets/images/products/poco/poco-f9-ultra/pin-lon-8050mah-dung-den-2-ngay.webp",
+        "assets/images/products/poco/poco-f9-ultra/vi-xu-ly-snapdragon-8-elite-gen-5-tien-trinh-3nm.webp",
+        "assets/images/products/poco/poco-f9-ultra/tong-quan-tinh-nang-man-hinh-185hz-camera-200mp-pin-8050mah.webp"
+      ]
+    },
+    {
+      "sku": "DT015-POCOF9U-DO-16GB-512GB",
+      "color": "Đỏ",
+      "colorHex": "#DC2626",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 21490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/poco/poco-f9-ultra/anh-dai-dien-xiaomi-poco-f9-ultra-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/mat-truoc-man-hinh-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/goc-nghieng-mat-lung-phai-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/goc-nghieng-mat-lung-trai-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/mat-lung-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/canh-phai-nut-nguon-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/canh-trai-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/canh-tren-loa-sound-by-bose-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/goc-nghieng-man-hinh-phai-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/goc-nghieng-man-hinh-trai-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/he-thong-camera-chinh-200mp-ois-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/he-thong-am-thanh-2-1-sound-by-bose.webp",
+        "assets/images/products/poco/poco-f9-ultra/man-hinh-amoled-6-9-inch-185hz-10000-nits.webp",
+        "assets/images/products/poco/poco-f9-ultra/pin-lon-8050mah-dung-den-2-ngay.webp",
+        "assets/images/products/poco/poco-f9-ultra/vi-xu-ly-snapdragon-8-elite-gen-5-tien-trinh-3nm.webp",
+        "assets/images/products/poco/poco-f9-ultra/tong-quan-tinh-nang-man-hinh-185hz-camera-200mp-pin-8050mah.webp"
+      ]
+    },
+    {
+      "sku": "DT015-POCOF9U-DEN-12GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 18990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/poco/poco-f9-ultra/anh-dai-dien-xiaomi-poco-f9-ultra-den.webp",
+        "assets/images/products/poco/poco-f9-ultra/goc-nghieng-mat-lung-phai-den.webp",
+        "assets/images/products/poco/poco-f9-ultra/goc-nghieng-mat-lung-trai-den.webp",
+        "assets/images/products/poco/poco-f9-ultra/canh-tren-loa-sound-by-bose-den.webp",
+        "assets/images/products/poco/poco-f9-ultra/he-thong-am-thanh-2-1-sound-by-bose.webp",
+        "assets/images/products/poco/poco-f9-ultra/man-hinh-amoled-6-9-inch-185hz-10000-nits.webp",
+        "assets/images/products/poco/poco-f9-ultra/pin-lon-8050mah-dung-den-2-ngay.webp",
+        "assets/images/products/poco/poco-f9-ultra/vi-xu-ly-snapdragon-8-elite-gen-5-tien-trinh-3nm.webp",
+        "assets/images/products/poco/poco-f9-ultra/tong-quan-tinh-nang-man-hinh-185hz-camera-200mp-pin-8050mah.webp"
+      ]
+    },
+    {
+      "sku": "DT015-POCOF9U-DEN-16GB-512GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 21490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/poco/poco-f9-ultra/anh-dai-dien-xiaomi-poco-f9-ultra-den.webp",
+        "assets/images/products/poco/poco-f9-ultra/goc-nghieng-mat-lung-phai-den.webp",
+        "assets/images/products/poco/poco-f9-ultra/goc-nghieng-mat-lung-trai-den.webp",
+        "assets/images/products/poco/poco-f9-ultra/canh-tren-loa-sound-by-bose-den.webp",
+        "assets/images/products/poco/poco-f9-ultra/he-thong-am-thanh-2-1-sound-by-bose.webp",
+        "assets/images/products/poco/poco-f9-ultra/man-hinh-amoled-6-9-inch-185hz-10000-nits.webp",
+        "assets/images/products/poco/poco-f9-ultra/pin-lon-8050mah-dung-den-2-ngay.webp",
+        "assets/images/products/poco/poco-f9-ultra/vi-xu-ly-snapdragon-8-elite-gen-5-tien-trinh-3nm.webp",
+        "assets/images/products/poco/poco-f9-ultra/tong-quan-tinh-nang-man-hinh-185hz-camera-200mp-pin-8050mah.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "AMOLED 2K LTPO 12-bit Dolby Vision",
+    "size": "6,78 inch",
+    "resolution": "2K+ (3200 x 1440 pixel)",
+    "refreshRate": "144Hz (LTPO 1–144Hz)",
+    "brightness": "Độ sáng đỉnh 3.800 nit, công nghệ phân cực tròn bảo vệ thị lực, cảm ứng siêu nhạy dưới mưa Wet Touch 3.0",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 8 Gen 5 Extreme / 8 Elite Gen 5 (tiến trình 3nm thế hệ mới nhất, tích hợp chip đồ họa AI độc lập D2)",
+    "cpu": "CPU 8 nhân kiến trúc Oryon thế hệ 2 xung nhịp siêu cao",
+    "gpu": "Qualcomm Adreno thế hệ mới hỗ trợ Ray Tracing phần cứng thời gian thực",
+    "ram": [
+      "12GB",
+      "16GB"
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ],
+    "operatingSystem": "Xiaomi HyperOS 3.0 dựa trên Android 16",
+    "uiVersion": "Xiaomi HyperOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Chính OIS + 64MP Tiềm vọng 5x OIS + 50MP Siêu rộng",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "Quay video 8K ở 30 fps; 4K ở 24/30/60/120 fps; 1080p ở 30/60/240/960 fps; quay video 10-bit Dolby Vision và 10-bit Log"
+    ],
+    "aiFeatures": [
+      "Xiaomi AISP 2.0, Chụp nhanh chuyển động AI Motion Capture, Chân dung điện ảnh đa tiêu cự, Zoom AI siêu phân giải, Xóa vật thể AI thế hệ mới"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "32MP (Quay 4K 60fps)",
+    "features": [
+      "Camera trước 32MP (khẩu độ ƒ/2.0, góc rộng 90°), hỗ trợ lấy nét tự động AF, HDR10+ và quay video 4K@60fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "6.800 mAh",
+    "wiredCharging": "Sạc siêu tốc 120W | Không dây 50W",
+    "wirelessCharging": "Có hỗ trợ sạc không dây",
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": "Sạc siêu tốc HyperCharge 120W có dây | Sạc nhanh không dây 50W | Sạc ngược không dây 10W"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano SIM (hỗ trợ eSIM)"
+    ],
+    "network": [
+      "5G Sub-6GHz Dual SIM"
+    ],
+    "wifi": "Wi-Fi 7 (802.11 a/b/g/n/ac/ax/be, 2x2 MIMO, MLO)",
+    "bluetooth": "Bluetooth 6.0 (aptX Lossless, LDAC, LHDC 5.0)",
+    "gps": [
+      "Định vị đa băng tần L1+L5 (GPS, GLONASS, Galileo, Beidou, QZSS, NavIC)"
+    ],
+    "usb": "USB Type-C 3.2 Gen 1",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "161,8 x 75,6 x 8,4 mm",
+    "weight": "218 gram",
+    "materials": [
+      "Khung viền hợp kim nhôm hàng không CNC nguyên khối",
+      "Mặt lưng kính cường lực nhám mờ kết hợp điểm nhấn đường viền thể thao đặc trưng"
+    ],
+    "waterResistance": "Kháng nước & bụi IP68/IP69",
+    "availableColors": [
+      "Đỏ",
+      "Đen"
+    ]
+  },
+  "audio": {
+    "speakers": "Hệ thống loa kép Stereo đối xứng tinh chỉnh âm thanh vòm Dolby Atmos, chứng nhận Hi-Res Audio & Hi-Res Wireless",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "AMOLED 6.9 inch"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền POCO tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/poco/poco-f9-ultra/anh-dai-dien-xiaomi-poco-f9-ultra-do.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/poco/poco-f9-ultra/anh-dai-dien-xiaomi-poco-f9-ultra-do.webp",
+      "assets/images/products/poco/poco-f9-ultra/anh-dai-dien-xiaomi-poco-f9-ultra-den.webp",
+      "assets/images/products/poco/poco-f9-ultra/mat-truoc-man-hinh-do.webp",
+      "assets/images/products/poco/poco-f9-ultra/goc-nghieng-mat-lung-phai-den.webp",
+      "assets/images/products/poco/poco-f9-ultra/goc-nghieng-mat-lung-phai-do.webp",
+      "assets/images/products/poco/poco-f9-ultra/goc-nghieng-mat-lung-trai-den.webp",
+      "assets/images/products/poco/poco-f9-ultra/goc-nghieng-mat-lung-trai-do.webp",
+      "assets/images/products/poco/poco-f9-ultra/mat-lung-do.webp",
+      "assets/images/products/poco/poco-f9-ultra/canh-phai-nut-nguon-do.webp",
+      "assets/images/products/poco/poco-f9-ultra/canh-trai-do.webp",
+      "assets/images/products/poco/poco-f9-ultra/canh-tren-loa-sound-by-bose-den.webp",
+      "assets/images/products/poco/poco-f9-ultra/canh-tren-loa-sound-by-bose-do.webp",
+      "assets/images/products/poco/poco-f9-ultra/goc-nghieng-man-hinh-phai-do.webp",
+      "assets/images/products/poco/poco-f9-ultra/goc-nghieng-man-hinh-trai-do.webp",
+      "assets/images/products/poco/poco-f9-ultra/he-thong-camera-chinh-200mp-ois-do.webp",
+      "assets/images/products/poco/poco-f9-ultra/he-thong-am-thanh-2-1-sound-by-bose.webp",
+      "assets/images/products/poco/poco-f9-ultra/man-hinh-amoled-6-9-inch-185hz-10000-nits.webp",
+      "assets/images/products/poco/poco-f9-ultra/pin-lon-8050mah-dung-den-2-ngay.webp",
+      "assets/images/products/poco/poco-f9-ultra/vi-xu-ly-snapdragon-8-elite-gen-5-tien-trinh-3nm.webp",
+      "assets/images/products/poco/poco-f9-ultra/tong-quan-tinh-nang-man-hinh-185hz-camera-200mp-pin-8050mah.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/poco/poco-f9-ultra/anh-dai-dien-xiaomi-poco-f9-ultra-den.webp",
+        "assets/images/products/poco/poco-f9-ultra/goc-nghieng-mat-lung-phai-den.webp",
+        "assets/images/products/poco/poco-f9-ultra/goc-nghieng-mat-lung-trai-den.webp",
+        "assets/images/products/poco/poco-f9-ultra/canh-tren-loa-sound-by-bose-den.webp",
+        "assets/images/products/poco/poco-f9-ultra/he-thong-am-thanh-2-1-sound-by-bose.webp",
+        "assets/images/products/poco/poco-f9-ultra/man-hinh-amoled-6-9-inch-185hz-10000-nits.webp",
+        "assets/images/products/poco/poco-f9-ultra/pin-lon-8050mah-dung-den-2-ngay.webp",
+        "assets/images/products/poco/poco-f9-ultra/vi-xu-ly-snapdragon-8-elite-gen-5-tien-trinh-3nm.webp",
+        "assets/images/products/poco/poco-f9-ultra/tong-quan-tinh-nang-man-hinh-185hz-camera-200mp-pin-8050mah.webp"
+      ],
+      "Đỏ": [
+        "assets/images/products/poco/poco-f9-ultra/anh-dai-dien-xiaomi-poco-f9-ultra-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/mat-truoc-man-hinh-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/goc-nghieng-mat-lung-phai-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/goc-nghieng-mat-lung-trai-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/mat-lung-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/canh-phai-nut-nguon-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/canh-trai-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/canh-tren-loa-sound-by-bose-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/goc-nghieng-man-hinh-phai-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/goc-nghieng-man-hinh-trai-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/he-thong-camera-chinh-200mp-ois-do.webp",
+        "assets/images/products/poco/poco-f9-ultra/he-thong-am-thanh-2-1-sound-by-bose.webp",
+        "assets/images/products/poco/poco-f9-ultra/man-hinh-amoled-6-9-inch-185hz-10000-nits.webp",
+        "assets/images/products/poco/poco-f9-ultra/pin-lon-8050mah-dung-den-2-ngay.webp",
+        "assets/images/products/poco/poco-f9-ultra/vi-xu-ly-snapdragon-8-elite-gen-5-tien-trinh-3nm.webp",
+        "assets/images/products/poco/poco-f9-ultra/tong-quan-tinh-nang-man-hinh-185hz-camera-200mp-pin-8050mah.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/poco/poco-f9-ultra/goc-nghieng-mat-lung-phai-den.webp",
+      "screen": "assets/images/products/poco/poco-f9-ultra/mat-truoc-man-hinh-do.webp",
+      "performance": "assets/images/products/poco/poco-f9-ultra/vi-xu-ly-snapdragon-8-elite-gen-5-tien-trinh-3nm.webp",
+      "camera": "assets/images/products/poco/poco-f9-ultra/he-thong-camera-chinh-200mp-ois-do.webp",
+      "battery": "assets/images/products/poco/poco-f9-ultra/pin-lon-8050mah-dung-den-2-ngay.webp",
+      "feature": "assets/images/products/poco/poco-f9-ultra/anh-dai-dien-xiaomi-poco-f9-ultra-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/poco/poco-f9-ultra/anh-dai-dien-xiaomi-poco-f9-ultra-den.webp",
+      "assets/images/products/poco/poco-f9-ultra/mat-truoc-man-hinh-do.webp",
+      "assets/images/products/poco/poco-f9-ultra/goc-nghieng-mat-lung-phai-den.webp",
+      "assets/images/products/poco/poco-f9-ultra/goc-nghieng-mat-lung-phai-do.webp",
+      "assets/images/products/poco/poco-f9-ultra/goc-nghieng-mat-lung-trai-den.webp",
+      "assets/images/products/poco/poco-f9-ultra/goc-nghieng-mat-lung-trai-do.webp",
+      "assets/images/products/poco/poco-f9-ultra/mat-lung-do.webp",
+      "assets/images/products/poco/poco-f9-ultra/canh-phai-nut-nguon-do.webp",
+      "assets/images/products/poco/poco-f9-ultra/canh-trai-do.webp",
+      "assets/images/products/poco/poco-f9-ultra/canh-tren-loa-sound-by-bose-den.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-xiaomi-poco",
+      "https://www.po.co/global/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "partial_retail_listing",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT015-POCOF9U",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "AMOLED 2K LTPO thế hệ mới, 12-bit (68,7 tỷ màu), hỗ trợ Dolby Vision, HDR10+, HDR Vivid, làm mờ 4320Hz PWM Dimming",
+      "Kích thước màn hình": "6,78 inch",
+      "Độ phân giải màn hình": "3200 x 1440 pixel (2K WQHD+, mật độ điểm ảnh ~517 ppi)",
+      "Tần số quét": "144Hz LTPO (biến thiên tự động 1Hz – 144Hz)",
+      "Kiểu màn hình": "Màn hình phẳng viền siêu mỏng đối xứng 4 cạnh, bảo vệ bởi kính cường lực thế hệ mới Poco Shield Glass 2.0",
+      "Tính năng màn hình": "Độ sáng đỉnh 3.800 nit, công nghệ phân cực tròn bảo vệ thị lực, cảm ứng siêu nhạy dưới mưa Wet Touch 3.0"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera Ultra cao cấp: Camera chính 50MP cảm biến lớn 1/1.28 inch (khẩu độ ƒ/1.6, chống rung quang học OIS) + Camera Tele tiềm vọng 64MP (zoom quang học 5x, zoom kỹ thuật số 100x, chống rung OIS, hỗ trợ chụp Tele Macro) + Camera góc siêu rộng 50MP (khẩu độ ƒ/2.0, góc nhìn 122°, lấy nét tự động AF)",
+      "Quay video": "Quay video 8K ở 30 fps; 4K ở 24/30/60/120 fps; 1080p ở 30/60/240/960 fps; quay video 10-bit Dolby Vision và 10-bit Log",
+      "Tính năng camera": "Xiaomi AISP 2.0, Chụp nhanh chuyển động AI Motion Capture, Chân dung điện ảnh đa tiêu cự, Zoom AI siêu phân giải, Xóa vật thể AI thế hệ mới"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera trước 32MP (khẩu độ ƒ/2.0, góc rộng 90°), hỗ trợ lấy nét tự động AF, HDR10+ và quay video 4K@60fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 8 Gen 5 Extreme / 8 Elite Gen 5 (tiến trình 3nm thế hệ mới nhất, tích hợp chip đồ họa AI độc lập D2)",
+      "Loại CPU": "CPU 8 nhân kiến trúc Oryon thế hệ 2 xung nhịp siêu cao",
+      "GPU": "Qualcomm Adreno thế hệ mới hỗ trợ Ray Tracing phần cứng thời gian thực"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "12GB / 16GB LPDDR5X Ultra (9600Mbps)",
+      "Bộ nhớ trong": "256GB / 512GB chuẩn UFS 4.1 tốc độ truy xuất cực nhanh"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "6.800 mAh (Pin Silicon-Carbon hàm lượng silicon cao kết hợp chip quản lý năng lượng Surge P3 & G2)",
+      "Công nghệ sạc": "Sạc siêu tốc HyperCharge 120W có dây | Sạc nhanh không dây 50W | Sạc ngược không dây 10W",
+      "Cổng sạc": "USB Type-C 3.2 Gen 1"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS 3.0 dựa trên Android 16",
+      "Công nghệ - Tiện ích": "Tổ hợp trí tuệ nhân tạo HyperAI toàn diện, WildBoost 5.0, Cổng hồng ngoại IR Blaster, Liên lạc nội bộ khoảng cách xa không cần mạng",
+      "Tiện ích khác": "Hệ thống tản nhiệt buồng hơi kép 3D diện tích 6.000mm², cảm biến vân tay siêu âm 3D",
+      "Thời điểm ra mắt": "2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G Sub-6GHz (SA/NSA), Dual 5G VoNR",
+      "Thẻ SIM": "2 Nano SIM (hỗ trợ eSIM)",
+      "Wi-Fi": "Wi-Fi 7 (802.11 a/b/g/n/ac/ax/be, 2x2 MIMO, MLO)",
+      "Bluetooth": "Bluetooth 6.0 (aptX Lossless, LDAC, LHDC 5.0)",
+      "Công nghệ NFC": "Có hỗ trợ",
+      "GPS": "Định vị đa băng tần L1+L5 (GPS, GLONASS, Galileo, Beidou, QZSS, NavIC)"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền hợp kim nhôm hàng không CNC nguyên khối",
+      "Chất liệu mặt lưng": "Mặt lưng kính cường lực nhám mờ kết hợp điểm nhấn đường viền thể thao đặc trưng",
+      "Kích thước": "161,8 x 75,6 x 8,4 mm",
+      "Trọng lượng": "218 gram",
+      "Chỉ số kháng nước, bụi": "Chuẩn IP68 / IP69 (kháng bụi tuyệt đối, chịu ngâm nước sâu và tia nước áp lực cao)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo đối xứng tinh chỉnh âm thanh vòm Dolby Atmos, chứng nhận Hi-Res Audio & Hi-Res Wireless",
+      "Cảm biến vân tay": "Cảm biến vân tay siêu âm 3D dưới màn hình & Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Cảm biến ánh sáng 360°, Cảm biến tiệm cận, La bàn điện tử, Áp kế, Cảm biến nhấp nháy, Hồng ngoại IR"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,78 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "AMOLED 2K LTPO 12-bit Dolby Vision"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2K+ (3200 x 1440 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "144Hz (LTPO 1–144Hz)"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Snapdragon 8 Gen 5 Extreme / Elite Gen 5 (3nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB / 16GB LPDDR5X Ultra"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB / 512GB UFS 4.1"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính OIS + 64MP Tiềm vọng 5x OIS + 50MP Siêu rộng"
+    },
+    {
+      "label": "Camera trước",
+      "value": "32MP (Quay 4K 60fps)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "6.800 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc siêu tốc 120W | Không dây 50W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS 3.0 (Android 16)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G Sub-6GHz Dual SIM"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "Kháng nước & bụi IP68/IP69"
+    }
+  ],
+  "verbatimDescription": [
+    "POCO F9 Ultra đại diện cho đỉnh cao công nghệ của thương hiệu POCO trong kỷ nguyên hiệu năng kết hợp AI. Máy được trang bị vi xử lý Snapdragon 8 Gen 5 Extreme (3nm) cùng chip đồ họa độc lập D2 và chuẩn bộ nhớ UFS 4.1, mang lại tốc độ xử lý đồ họa Ray Tracing và tác vụ AI tức thời.",
+    "Không gian hiển thị trên POCO F9 Ultra sử dụng tấm nền AMOLED 6,78 inch độ phân giải 2K+ với công nghệ LTPO 1–144Hz và tần số làm mờ 4320Hz PWM Dimming. Độ sáng đỉnh đạt mức 3.800 nit đảm bảo độ tương phản hoàn hảo khi thưởng thức nội dung HDR ngoài trời nắng gắt.",
+    "Về khả năng nhiếp ảnh, cụm 3 camera sau được nâng cấp mạnh mẽ với cảm biến chính 50MP kích thước lớn 1/1.28 inch có OIS, ống kính góc siêu rộng 50MP AF và đặc biệt là ống kính Tele tiềm vọng 64MP hỗ trợ zoom quang 5x OIS. Người dùng có thể dễ dàng chụp ảnh chân dung, cận cảnh tele macro hay quay video 4K@120fps chuyên nghiệp.",
+    "Dung lượng pin trên máy được đẩy lên mức 6.800 mAh nhờ công nghệ cực dương Silicon-Carbon thế hệ mới, đi kèm sạc nhanh có dây 120W và sạc nhanh không dây 50W giúp duy trì nguồn năng lượng dồi dào mọi lúc mọi nơi.",
+    "Bên cạnh đó, POCO F9 Ultra còn sở hữu chuẩn kháng bụi nước kép IP68/IP69, cảm biến vân tay siêu âm 3D dưới màn hình, Wi-Fi 7 và hệ điều hành Xiaomi HyperOS 3.0 trên nền Android 16."
+  ],
+  "priceSegment": "high-end"
+}

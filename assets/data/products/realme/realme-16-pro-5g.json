@@ -1,0 +1,546 @@
+{
+  "id": "realme-16-pro-5g",
+  "brand": "realme",
+  "brandId": "realme",
+  "parentGroupId": "realme",
+  "model": "realme 16 Pro 5G",
+  "series": "realme Number Series (16 / 15)",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "upper-midrange"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "Năm 2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "realme 16 Pro 5G nâng tầm nhiếp ảnh tầm trung với camera chính 200MP cảm biến Samsung HP5 chống rung Super OIS hỗ trợ zoom nội suy 2x/4x sắc nét, camera selfie 50MP quay 4K, màn hình phẳng 6,78 inch 1.5K 144Hz và viên pin Titan 7.000 mAh sạc nhanh 80W.",
+    "highlights": [
+      "Camera chính 200MP Samsung HP5 OIS hỗ trợ zoom cảm biến 2x/4x sắc nét kết hợp selfie 50MP quay 4K",
+      "Màn hình phẳng 6,78 inch 1.5K AMOLED tần số quét 144Hz, làm mờ 3840Hz PWM bảo vệ mắt",
+      "Pin Titan 7.000 mAh sạc nhanh 80W, chip Dimensity 7300 Max 5G và kháng nước IP68/IP69"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 11990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT005-RM16PRO5G-TIM-8GB-256GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 11990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-16-pro-5g/anh-dai-dien-realme-16-pro-5g-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-canh-duoi-cong-sac-loa-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-khay-sim-canh-duoi-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/canh-ben-trai-phai-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/canh-tren-duoi-loa-cong-sac-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-cum-camera-sau-200mp-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/cam-hai-tay-chup-anh-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/cam-tren-tay-man-hinh-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-nut-nguon-am-luong-va-camera-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-nut-nguon-va-am-luong-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/mat-sau-dat-canh-hop-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/mat-truoc-kem-hop-phu-kien-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/mo-khoa-van-tay-man-hinh-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT005-RM16PRO5G-TIM-12GB-256GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 13490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-16-pro-5g/anh-dai-dien-realme-16-pro-5g-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-canh-duoi-cong-sac-loa-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-khay-sim-canh-duoi-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/canh-ben-trai-phai-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/canh-tren-duoi-loa-cong-sac-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-cum-camera-sau-200mp-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/cam-hai-tay-chup-anh-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/cam-tren-tay-man-hinh-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-nut-nguon-am-luong-va-camera-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-nut-nguon-va-am-luong-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/mat-sau-dat-canh-hop-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/mat-truoc-kem-hop-phu-kien-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/mo-khoa-van-tay-man-hinh-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT005-RM16PRO5G-TIM-12GB-512GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 14990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-16-pro-5g/anh-dai-dien-realme-16-pro-5g-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-canh-duoi-cong-sac-loa-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-khay-sim-canh-duoi-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/canh-ben-trai-phai-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/canh-tren-duoi-loa-cong-sac-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-cum-camera-sau-200mp-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/cam-hai-tay-chup-anh-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/cam-tren-tay-man-hinh-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-nut-nguon-am-luong-va-camera-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-nut-nguon-va-am-luong-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/mat-sau-dat-canh-hop-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/mat-truoc-kem-hop-phu-kien-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/mo-khoa-van-tay-man-hinh-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT005-RM16PRO5G-XAM-8GB-256GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 11990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-16-pro-5g/anh-dai-dien-realme-16-pro-5g-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-canh-duoi-cong-sac-loa-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-khay-sim-canh-duoi-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-cum-camera-sau-200mp-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-do-day-cum-camera-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/cam-hai-tay-chup-anh-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/cam-tren-tay-man-hinh-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-nut-nguon-am-luong-va-camera-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/mat-sau-kem-hop-phu-kien-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/mat-truoc-kem-hop-phu-kien-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/mo-khoa-van-tay-man-hinh-xam.webp"
+      ]
+    },
+    {
+      "sku": "DT005-RM16PRO5G-XAM-12GB-256GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 13490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-16-pro-5g/anh-dai-dien-realme-16-pro-5g-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-canh-duoi-cong-sac-loa-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-khay-sim-canh-duoi-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-cum-camera-sau-200mp-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-do-day-cum-camera-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/cam-hai-tay-chup-anh-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/cam-tren-tay-man-hinh-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-nut-nguon-am-luong-va-camera-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/mat-sau-kem-hop-phu-kien-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/mat-truoc-kem-hop-phu-kien-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/mo-khoa-van-tay-man-hinh-xam.webp"
+      ]
+    },
+    {
+      "sku": "DT005-RM16PRO5G-XAM-12GB-512GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 14990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-16-pro-5g/anh-dai-dien-realme-16-pro-5g-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-canh-duoi-cong-sac-loa-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-khay-sim-canh-duoi-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-cum-camera-sau-200mp-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-do-day-cum-camera-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/cam-hai-tay-chup-anh-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/cam-tren-tay-man-hinh-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-nut-nguon-am-luong-va-camera-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/mat-sau-kem-hop-phu-kien-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/mat-truoc-kem-hop-phu-kien-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/mo-khoa-van-tay-man-hinh-xam.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "AMOLED Phẳng 1.5K 144Hz",
+    "size": "6,78 inch",
+    "resolution": "1.5K (2772 x 1272 pixel)",
+    "refreshRate": "144Hz",
+    "brightness": "Độ sáng toàn màn hình 1.400 nit (HBM) / độ sáng đỉnh cục bộ 4.500 nit, cảm ứng dưới mưa Smart Touch",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "MediaTek Dimensity 7300 Max 5G (tiến trình TSMC 4nm, đi kèm hệ thống tản nhiệt buồng hơi VC 7000mm²)",
+    "cpu": "CPU 8 nhân (4 nhân hiệu năng cao Cortex-A78 xung nhịp 2.5GHz + 4 nhân Cortex-A55 xung nhịp 2.0GHz)",
+    "gpu": "ARM Mali-G615 MC2",
+    "ram": [
+      "8GB",
+      "12GB"
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ],
+    "operatingSystem": "realme UI 7.0 dựa trên Android 16",
+    "uiVersion": "realme UI",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "200MP Samsung HP5 OIS + 8MP Góc siêu rộng",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "Quay video 4K ở 30 fps; 1080p ở 30/60/120 fps; chống rung kép Super OIS + EIS"
+    ],
+    "aiFeatures": [
+      "Công nghệ LumaColor Image, Chân dung đa tiêu cự 1x/2x/4x, AI Edit Genie, AI Ultra Clarity, AI Eraser 2.0, Chụp đêm ProLight"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "50MP (Quay 4K)",
+    "features": [
+      "Camera selfie 50MP (khẩu độ ƒ/2.0), hỗ trợ chụp chân dung độ phân giải cao và quay video 4K@30fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "7.000 mAh",
+    "wiredCharging": "Sạc nhanh SuperVOOC 80W",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc siêu nhanh SuperVOOC 80W qua cổng USB Type-C, hỗ trợ sạc nhánh Bypass Charging | Không hỗ trợ sạc không dây"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano SIM"
+    ],
+    "network": [
+      "5G Sub-6GHz Dual SIM"
+    ],
+    "wifi": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax)",
+    "bluetooth": "Bluetooth 5.4",
+    "gps": [
+      "GPS, GLONASS, Galileo, Beidou, QZSS"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "162,6 x 75,8 x 7,79 mm",
+    "weight": "192 gram",
+    "materials": [
+      "Khung viền hợp kim / composite gia cường ArmorShell",
+      "Mặt lưng kính nhám mờ hoặc chất liệu silicone hữu cơ thân thiện môi trường"
+    ],
+    "waterResistance": "Kháng nước & bụi IP68/IP69",
+    "availableColors": [
+      "Tím",
+      "Xám"
+    ]
+  },
+  "audio": {
+    "speakers": "Hệ thống loa kép Stereo chuẩn Hi-Res Audio, OReality Audio",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "MediaTek Dimensity 7300 Max (4nm)",
+    "AMOLED phẳng 6.78 inch",
+    "Camera 200MP",
+    "Pin 7000 mAh"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền realme tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/realme/realme-16-pro-5g/anh-dai-dien-realme-16-pro-5g-tim-thumb.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/realme/realme-16-pro-5g/anh-dai-dien-realme-16-pro-5g-tim.webp",
+      "assets/images/products/realme/realme-16-pro-5g/anh-dai-dien-realme-16-pro-5g-xam.webp",
+      "assets/images/products/realme/realme-16-pro-5g/can-canh-canh-duoi-cong-sac-loa-tim.webp",
+      "assets/images/products/realme/realme-16-pro-5g/can-canh-canh-duoi-cong-sac-loa-xam.webp",
+      "assets/images/products/realme/realme-16-pro-5g/can-canh-khay-sim-canh-duoi-tim.webp",
+      "assets/images/products/realme/realme-16-pro-5g/can-canh-khay-sim-canh-duoi-xam.webp",
+      "assets/images/products/realme/realme-16-pro-5g/canh-ben-trai-phai-tim.webp",
+      "assets/images/products/realme/realme-16-pro-5g/canh-ben-trai-phai-xam.webp",
+      "assets/images/products/realme/realme-16-pro-5g/canh-tren-duoi-loa-cong-sac-tim.webp",
+      "assets/images/products/realme/realme-16-pro-5g/canh-tren-duoi-loa-cong-sac-xam.webp",
+      "assets/images/products/realme/realme-16-pro-5g/can-canh-cum-camera-sau-200mp-tim.webp",
+      "assets/images/products/realme/realme-16-pro-5g/can-canh-cum-camera-sau-200mp-xam.webp",
+      "assets/images/products/realme/realme-16-pro-5g/can-canh-do-day-cum-camera-xam.webp",
+      "assets/images/products/realme/realme-16-pro-5g/cam-hai-tay-chup-anh-tim.webp",
+      "assets/images/products/realme/realme-16-pro-5g/cam-hai-tay-chup-anh-xam.webp",
+      "assets/images/products/realme/realme-16-pro-5g/cam-tren-tay-man-hinh-tim.webp",
+      "assets/images/products/realme/realme-16-pro-5g/cam-tren-tay-man-hinh-xam.webp",
+      "assets/images/products/realme/realme-16-pro-5g/can-canh-nut-nguon-am-luong-va-camera-tim.webp",
+      "assets/images/products/realme/realme-16-pro-5g/can-canh-nut-nguon-am-luong-va-camera-xam.webp",
+      "assets/images/products/realme/realme-16-pro-5g/can-canh-nut-nguon-va-am-luong-tim.webp",
+      "assets/images/products/realme/realme-16-pro-5g/mat-sau-dat-canh-hop-tim.webp",
+      "assets/images/products/realme/realme-16-pro-5g/mat-sau-kem-hop-phu-kien-xam.webp",
+      "assets/images/products/realme/realme-16-pro-5g/mat-truoc-kem-hop-phu-kien-tim.webp",
+      "assets/images/products/realme/realme-16-pro-5g/mat-truoc-kem-hop-phu-kien-xam.webp",
+      "assets/images/products/realme/realme-16-pro-5g/mo-khoa-van-tay-man-hinh-tim.webp",
+      "assets/images/products/realme/realme-16-pro-5g/mo-khoa-van-tay-man-hinh-xam.webp"
+    ],
+    "byColor": {
+      "Tím": [
+        "assets/images/products/realme/realme-16-pro-5g/anh-dai-dien-realme-16-pro-5g-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-canh-duoi-cong-sac-loa-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-khay-sim-canh-duoi-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/canh-ben-trai-phai-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/canh-tren-duoi-loa-cong-sac-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-cum-camera-sau-200mp-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/cam-hai-tay-chup-anh-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/cam-tren-tay-man-hinh-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-nut-nguon-am-luong-va-camera-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-nut-nguon-va-am-luong-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/mat-sau-dat-canh-hop-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/mat-truoc-kem-hop-phu-kien-tim.webp",
+        "assets/images/products/realme/realme-16-pro-5g/mo-khoa-van-tay-man-hinh-tim.webp"
+      ],
+      "Xám": [
+        "assets/images/products/realme/realme-16-pro-5g/anh-dai-dien-realme-16-pro-5g-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-canh-duoi-cong-sac-loa-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-khay-sim-canh-duoi-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-cum-camera-sau-200mp-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-do-day-cum-camera-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/cam-hai-tay-chup-anh-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/cam-tren-tay-man-hinh-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/can-canh-nut-nguon-am-luong-va-camera-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/mat-sau-kem-hop-phu-kien-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/mat-truoc-kem-hop-phu-kien-xam.webp",
+        "assets/images/products/realme/realme-16-pro-5g/mo-khoa-van-tay-man-hinh-xam.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/realme/realme-16-pro-5g/canh-ben-trai-phai-tim.webp",
+      "screen": "assets/images/products/realme/realme-16-pro-5g/cam-tren-tay-man-hinh-tim.webp",
+      "performance": "assets/images/products/realme/realme-16-pro-5g/cam-hai-tay-chup-anh-tim.webp",
+      "camera": "assets/images/products/realme/realme-16-pro-5g/can-canh-cum-camera-sau-200mp-tim.webp",
+      "battery": "assets/images/products/realme/realme-16-pro-5g/can-canh-canh-duoi-cong-sac-loa-tim.webp",
+      "feature": "assets/images/products/realme/realme-16-pro-5g/anh-dai-dien-realme-16-pro-5g-xam.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/realme/realme-16-pro-5g/anh-dai-dien-realme-16-pro-5g-xam.webp",
+      "assets/images/products/realme/realme-16-pro-5g/can-canh-canh-duoi-cong-sac-loa-tim.webp",
+      "assets/images/products/realme/realme-16-pro-5g/can-canh-canh-duoi-cong-sac-loa-xam.webp",
+      "assets/images/products/realme/realme-16-pro-5g/can-canh-khay-sim-canh-duoi-tim.webp",
+      "assets/images/products/realme/realme-16-pro-5g/can-canh-khay-sim-canh-duoi-xam.webp",
+      "assets/images/products/realme/realme-16-pro-5g/canh-ben-trai-phai-tim.webp",
+      "assets/images/products/realme/realme-16-pro-5g/canh-ben-trai-phai-xam.webp",
+      "assets/images/products/realme/realme-16-pro-5g/canh-tren-duoi-loa-cong-sac-tim.webp",
+      "assets/images/products/realme/realme-16-pro-5g/canh-tren-duoi-loa-cong-sac-xam.webp",
+      "assets/images/products/realme/realme-16-pro-5g/can-canh-cum-camera-sau-200mp-tim.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.realme.com/vn/",
+      "https://www.thegioididong.com/dtdd-realme",
+      "https://www.thegioididong.com/tin-tuc/realme-16-pro-series-ra-mat-man-hinh-144hz-camera-200mp-va-loat-thong-so-1588171",
+      "https://www.realme.com/vn/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "verified",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT005-RM16PRO5G",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "AMOLED phẳng 1.5K 10-bit (1,07 tỷ màu), dải màu 100% DCI-P3, hỗ trợ HDR10+, làm mờ 3840Hz PWM Dimming",
+      "Kích thước màn hình": "6,78 inch",
+      "Độ phân giải màn hình": "2772 x 1272 pixel (chuẩn 1.5K, mật độ điểm ảnh ~450 ppi)",
+      "Tần số quét": "144Hz mượt mà (tần số lấy mẫu cảm ứng tức thời 2500Hz)",
+      "Kiểu màn hình": "Màn hình phẳng viền siêu mỏng đối xứng, bảo vệ bởi kính cường lực Corning Gorilla Glass 7i",
+      "Tính năng màn hình": "Độ sáng toàn màn hình 1.400 nit (HBM) / độ sáng đỉnh cục bộ 4.500 nit, cảm ứng dưới mưa Smart Touch"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera 200MP LumaColor: Camera chính 200MP cảm biến Samsung ISOCELL HP5 (kích thước 1/1.56 inch, khẩu độ ƒ/1.8, chống rung quang học Super OIS, hỗ trợ zoom nội suy 2x/4x In-sensor Lossless Zoom) + Camera góc siêu rộng 8MP (khẩu độ ƒ/2.2, góc nhìn 112°)",
+      "Quay video": "Quay video 4K ở 30 fps; 1080p ở 30/60/120 fps; chống rung kép Super OIS + EIS",
+      "Tính năng camera": "Công nghệ LumaColor Image, Chân dung đa tiêu cự 1x/2x/4x, AI Edit Genie, AI Ultra Clarity, AI Eraser 2.0, Chụp đêm ProLight"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera selfie 50MP (khẩu độ ƒ/2.0), hỗ trợ chụp chân dung độ phân giải cao và quay video 4K@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Dimensity 7300 Max 5G (tiến trình TSMC 4nm, đi kèm hệ thống tản nhiệt buồng hơi VC 7000mm²)",
+      "Loại CPU": "CPU 8 nhân (4 nhân hiệu năng cao Cortex-A78 xung nhịp 2.5GHz + 4 nhân Cortex-A55 xung nhịp 2.0GHz)",
+      "GPU": "ARM Mali-G615 MC2"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB / 12GB (hỗ trợ mở rộng RAM động thêm tối đa 12GB lên 24GB)",
+      "Bộ nhớ trong": "256GB / 512GB chuẩn UFS 3.1"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "7.000 mAh (Pin Titan Silicon-Carbon mật độ cao thế hệ mới)",
+      "Công nghệ sạc": "Sạc siêu nhanh SuperVOOC 80W qua cổng USB Type-C, hỗ trợ sạc nhánh Bypass Charging | Không hỗ trợ sạc không dây",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "realme UI 7.0 dựa trên Android 16",
+      "Công nghệ - Tiện ích": "NEXT AI (AI Edit Genie, AI Smart Loop 2.0, AI Recording Summary), GT Mode, Cổng hồng ngoại IR",
+      "Tiện ích khác": "Thiết kế chế tác bởi Naoto Fukasawa, chuẩn kháng nước IP66/IP68/IP69",
+      "Thời điểm ra mắt": "01/2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G Sub-6GHz (SA/NSA), Dual 5G Standby",
+      "Thẻ SIM": "2 Nano SIM",
+      "Wi-Fi": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax)",
+      "Bluetooth": "Bluetooth 5.4",
+      "Công nghệ NFC": "Có hỗ trợ (360° NFC)",
+      "GPS": "GPS, GLONASS, Galileo, Beidou, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền hợp kim / composite gia cường ArmorShell",
+      "Chất liệu mặt lưng": "Mặt lưng kính nhám mờ hoặc chất liệu silicone hữu cơ thân thiện môi trường",
+      "Kích thước": "162,6 x 75,8 x 7,79 mm",
+      "Trọng lượng": "192 gram",
+      "Chỉ số kháng nước, bụi": "Chuẩn IP66 / IP68 / IP69 (kháng bụi tuyệt đối, chịu ngâm nước sâu và tia nước áp lực cao)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo chuẩn Hi-Res Audio, OReality Audio",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình & Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Cảm biến ánh sáng, Cảm biến tiệm cận, La bàn điện tử, Hồng ngoại IR"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,78 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "AMOLED Phẳng 1.5K 144Hz"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "1.5K (2772 x 1272 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "144Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 7300 Max 5G (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB / 12GB LPDDR5"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB / 512GB UFS 3.1"
+    },
+    {
+      "label": "Camera sau",
+      "value": "200MP Samsung HP5 OIS + 8MP Góc siêu rộng"
+    },
+    {
+      "label": "Camera trước",
+      "value": "50MP (Quay 4K)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "7.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh SuperVOOC 80W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "realme UI 7.0 (Android 16)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G Sub-6GHz Dual SIM"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "Kháng nước & bụi IP68/IP69"
+    }
+  ],
+  "verbatimDescription": [
+    "realme 16 Pro 5G đánh dấu sự trở lại của cảm biến siêu độ phân giải 200MP trên dòng realme Pro kết hợp cùng ngôn ngữ thiết kế tối giản của nhà thiết kế công nghiệp Naoto Fukasawa. Cảm biến chính 200MP Samsung ISOCELL HP5 tích hợp chống rung Super OIS cho phép chụp chân dung và thu phóng 2x, 4x ngay trên cảm biến với độ chi tiết đáng kinh ngạc.",
+    "Đáp ứng xu hướng của game thủ và người dùng hiện đại, realme 16 Pro 5G chuyển sang thiết kế màn hình phẳng 6,78 inch độ phân giải 1.5K tần số quét 144Hz với viền siêu mỏng bốn cạnh. Công nghệ làm mờ 3840Hz PWM giúp bảo vệ thị lực tối đa khi sử dụng trong bóng tối.",
+    "Phía trước máy là camera selfie 50MP hỗ trợ quay video 4K sắc nét, phối hợp cùng bộ công cụ trí tuệ nhân tạo NEXT AI trên nền tảng realme UI 7.0 (Android 16) giúp hậu kỳ hình ảnh nhanh chóng.",
+    "Sức mạnh bên trong được đảm nhiệm bởi vi xử lý MediaTek Dimensity 7300 Max 5G (4nm) kết hợp tản nhiệt buồng hơi VC 7.000mm², đảm bảo hiệu suất ổn định và mát mẻ.",
+    "Viên pin Titan 7.000 mAh đi kèm sạc nhanh SuperVOOC 80W và chuẩn kháng bụi nước cao cấp IP66/IP68/IP69 giúp realme 16 Pro 5G trở thành người bạn đồng hành bền bỉ suốt nhiều năm."
+  ],
+  "priceSegment": "upper-midrange"
+}

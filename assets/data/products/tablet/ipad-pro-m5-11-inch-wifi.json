@@ -1,0 +1,351 @@
+{
+  "id": "ipad-pro-m5-11-inch-wifi",
+  "docCode": "TB-AP004-PROM5-11",
+  "model": "iPad Pro 11 inch M5 Ultra Retina XDR Wi-Fi",
+  "brand": "Apple",
+  "brandId": "apple",
+  "parentGroupId": "apple",
+  "series": "iPad Pro M5",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "11.0 inch",
+      "Pin 31.29 Wh"
+    ],
+    "description": "iPad Pro 11 inch với chip xử lý Apple M5 đại diện cho đỉnh cao công nghệ máy tính bảng đương đại của Apple. Thiết bị sở hữu thiết kế mỏng đến khó tin chỉ 5.3 mm – trở thành một trong những sản phẩm mỏng nhất mà Apple từng chế tạo, nhưng ẩn chứa bên trong là sức mạnh xử lý cấp độ máy trạm chuyên nghiệp.",
+    "releaseDate": "2024 / 2025"
+  },
+  "performance": {
+    "chipset": "Apple M5 Pro Chipset thế hệ mới với NPU AI đột phá",
+    "ram": [
+      "8GB"
+    ],
+    "storage": [
+      "1TB",
+      "256GB",
+      "2TB",
+      "512GB"
+    ],
+    "operatingSystem": "iPadOS 18"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 28990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/anh-dai-dien-ipad-pro-m5-11-inch-wifi-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/anh-dai-dien-ipad-pro-m5-11-inch-wifi-den.webp",
+      "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/anh-dai-dien-ipad-pro-m5-11-inch-wifi-bac.webp",
+      "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/goc-nghieng-mat-truoc-sau-den.webp",
+      "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/mat-sau-hai-mau-bac-va-den.webp",
+      "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/hieu-nang-chip-m5-ai-den.webp",
+      "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/phu-kien-trong-hop-den.webp",
+      "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+      "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/su-dung-kem-but-apple-pencil-pro-den.webp",
+      "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/su-dung-lam-viec-di-dong-den.webp",
+      "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/tong-quan-tinh-nang-man-hinh-ultra-retina-xdr-den.webp"
+    ],
+    "byColor": {
+      "Bạc": [
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/anh-dai-dien-ipad-pro-m5-11-inch-wifi-bac.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/mat-sau-hai-mau-bac-va-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/tong-quan-tinh-nang-man-hinh-ultra-retina-xdr-den.webp"
+      ],
+      "Đen": [
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/anh-dai-dien-ipad-pro-m5-11-inch-wifi-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/goc-nghieng-mat-truoc-sau-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/hieu-nang-chip-m5-ai-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/phu-kien-trong-hop-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/su-dung-kem-but-apple-pencil-pro-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/su-dung-lam-viec-di-dong-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/mat-sau-hai-mau-bac-va-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/tong-quan-tinh-nang-man-hinh-ultra-retina-xdr-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/goc-nghieng-mat-truoc-sau-den.webp",
+      "screen": "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/tong-quan-tinh-nang-man-hinh-ultra-retina-xdr-den.webp",
+      "performance": "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/anh-dai-dien-ipad-pro-m5-11-inch-wifi-bac.webp",
+      "camera": "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/mat-sau-hai-mau-bac-va-den.webp",
+      "battery": "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/phu-kien-trong-hop-den.webp",
+      "feature": "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/hieu-nang-chip-m5-ai-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/anh-dai-dien-ipad-pro-m5-11-inch-wifi-bac.webp",
+      "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/goc-nghieng-mat-truoc-sau-den.webp",
+      "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/mat-sau-hai-mau-bac-va-den.webp",
+      "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/hieu-nang-chip-m5-ai-den.webp",
+      "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/phu-kien-trong-hop-den.webp",
+      "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+      "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/su-dung-kem-but-apple-pencil-pro-den.webp",
+      "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/su-dung-lam-viec-di-dong-den.webp",
+      "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/tong-quan-tinh-nang-man-hinh-ultra-retina-xdr-den.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "11 inch Ultra Retina XDR Tandem OLED, độ phân giải 2420 x 1668, ProMotion 120Hz, độ sáng HDR 1600 nits, tương phản vô cực",
+      "Tính năng màn hình": "Công nghệ ProMotion 10Hz-120Hz, độ sáng toàn màn hình 1000 nits, độ sáng đỉnh HDR 1600 nits, tỷ lệ tương phản 2.000.000:1, tùy chọn kính Nano-texture"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "Apple M5 Pro thế hệ mới sản xuất trên quy trình 3nm nâng cấp, NPU AI hiệu năng vượt trội",
+      "CPU & Đồ họa": "CPU 9 đến 10 nhân thế hệ mới, GPU 10 nhân hỗ trợ dò tia Ray Tracing thế hệ 2 và Dynamic Caching",
+      "Hệ điều hành khi ra mắt": "iPadOS 18 chuyên sâu với đầy đủ tính năng Apple Intelligence và Stage Manager"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "8GB (bản 256GB/512GB) hoặc 16GB RAM Unified Memory (bản 1TB/2TB) băng thông cực lớn",
+      "Bộ nhớ trong": "256GB / 512GB / 1TB / 2TB bộ nhớ flash PCIe NVMe siêu tốc"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "12MP Wide f/1.8, cảm biến LiDAR Scanner, đèn flash True Tone thích ứng, quay video 4K ProRes",
+      "Camera trước": "12MP Ultra Wide TrueDepth đặt ngang, hỗ trợ nhận diện khuôn mặt Face ID và Center Stage",
+      "Chi tiết hệ thống Camera": "Camera sau 12MP f/1.8 tích hợp LiDAR 3D, quay phim 4K ProRes; Camera trước TrueDepth 12MP hỗ trợ Face ID an toàn"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "31.29 Wh (~8.160 mAh), hỗ trợ sạc nhanh công suất 35W qua cổng Thunderbolt / USB 4",
+      "Pin và công nghệ sạc": "Pin Lithium-Polymer 31.29 Wh, hỗ trợ sạc nhanh qua cổng Thunderbolt 35W"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Tương thích Apple Pencil Pro với tính năng tìm vị trí Find My và Apple Pencil (USB-C)",
+      "Hỗ trợ bàn phím rời": "Tương thích Magic Keyboard cho iPad Pro M4/M5 vỏ nhôm cao cấp có hàng phím chức năng",
+      "Công nghệ âm thanh": "Hệ thống 4 loa stereo chuẩn phòng thu phân bổ 4 góc máy, 4 micro chuẩn studio",
+      "Thuộc tính đặc biệt": "Màn hình Tandem OLED hai lớp, Face ID, cổng Thunderbolt 4 (40Gbps), Apple Pencil Pro"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Wi-Fi 7 / Wi-Fi 6E (802.11be/ax) đa băng tần siêu tốc độ",
+      "Thẻ SIM": "Không hỗ trợ (Bản Wi-Fi)",
+      "Kết nối không dây & Cổng giao tiếp": "Wi-Fi 6E/7, Bluetooth 5.3, cổng Thunderbolt 4 / USB 4 băng thông 40Gbps",
+      "Công nghệ - Tiện ích": "LiDAR Scanner đo chiều sâu không gian AR, Apple Intelligence toàn diện, xuất màn hình ngoài 6K/8K"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Độ mỏng kỷ lục thế giới chỉ 5.3 mm, khung nhôm unibody, kích thước 249.7 x 177.5 x 5.3 mm, trọng lượng 444 g",
+      "Bảo mật và độ bền": "Mở khóa khuôn mặt Face ID nhận diện 3D an toàn tuyệt đối ở mọi hướng xoay máy",
+      "Thời điểm ra mắt": "Năm 2024 / 2025"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "11.0 inch Tandem OLED Ultra Retina XDR, độ phân giải 2420 x 1668 pixels (264 ppi)"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Công nghệ ProMotion 10Hz-120Hz, độ sáng toàn màn hình 1000 nits, độ sáng đỉnh HDR 1600 nits, tỷ lệ tương phản 2.000.000:1, tùy chọn kính Nano-texture"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Apple M5 Pro Chipset thế hệ mới với NPU AI đột phá"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB RAM (bản 256GB/512GB) hoặc 16GB RAM (bản 1TB/2TB)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB, 512GB, 1TB, 2TB"
+    },
+    {
+      "label": "Camera sau",
+      "value": "12MP Wide f/1.8, cảm biến LiDAR Scanner, đèn flash True Tone thích ứng, quay video 4K ProRes"
+    },
+    {
+      "label": "Camera trước",
+      "value": "12MP Ultra Wide TrueDepth đặt ngang, hỗ trợ nhận diện khuôn mặt Face ID và Center Stage"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Pin Lithium-Polymer 31.29 Wh, hỗ trợ sạc nhanh qua cổng Thunderbolt 35W"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Wi-Fi 7 / Wi-Fi 6E (802.11be/ax) đa băng tần siêu tốc độ"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Tương thích Apple Pencil Pro với tính năng tìm vị trí Find My và Apple Pencil (USB-C)"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Tương thích Magic Keyboard cho iPad Pro M4/M5 vỏ nhôm cao cấp có hàng phím chức năng"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "iPadOS 18"
+    }
+  ],
+  "verbatimDescription": [
+    "iPad Pro 11 inch với chip xử lý Apple M5 đại diện cho đỉnh cao công nghệ máy tính bảng đương đại của Apple. Thiết bị sở hữu thiết kế mỏng đến khó tin chỉ 5.3 mm – trở thành một trong những sản phẩm mỏng nhất mà Apple từng chế tạo, nhưng ẩn chứa bên trong là sức mạnh xử lý cấp độ máy trạm chuyên nghiệp.",
+    "Tâm điểm chói lọi của sản phẩm chính là màn hình Ultra Retina XDR ứng dụng công nghệ Tandem OLED đột phá. Bằng cách kết hợp hai lớp tấm nền OLED phát quang cùng lúc, màn hình đạt được độ sáng toàn khung hình lên đến 1000 nits và độ sáng tối đa 1600 nits cho nội dung HDR, đem lại màu đen tuyệt đối và độ tương phản vô cực 2.000.000:1 chưa từng có trên thiết bị di động.",
+    "Công nghệ ProMotion tự động điều chỉnh tần số quét mượt mà từ 10Hz đến 120Hz mang lại độ phản hồi tức thì với từng cử chỉ vuốt chạm và đường nét bút vẽ, đồng thời tối ưu hóa mức tiêu thụ năng lượng một cách thông minh.",
+    "Bộ vi xử lý Apple M5 thế hệ mới mang lại hiệu suất tính toán vượt trội với kiến trúc đồ họa GPU tân tiến hỗ trợ dò tia Ray Tracing và bộ nhớ đệm Dynamic Caching. Bộ xử lý thần kinh Neural Engine được thiết kế chuyên biệt cho kỷ nguyên trí tuệ nhân tạo, cho phép iPad Pro chạy trực tiếp các mô hình AI ngôn ngữ và xử lý hình ảnh phức tạp ngay trên thiết bị mà không cần gửi dữ liệu lên đám mây.",
+    "Khả năng quay phim và chụp ảnh đẳng cấp chuyên nghiệp nhờ camera chính 12MP kết hợp cùng cảm biến quét chiều sâu không gian LiDAR Scanner thế hệ mới. Cụm camera này biến iPad Pro thành công cụ hoàn hảo để chụp ảnh thực tế ảo AR, đo đạc công trình xây dựng và quay video chuẩn Apple ProRes chất lượng điện ảnh.",
+    "Hệ thống nhận diện khuôn mặt Face ID được tích hợp khéo léo vào camera trước TrueDepth 12MP ở cạnh ngang, mang lại khả năng mở khóa thiết bị và xác thực thanh toán an toàn, nhạy bén ở bất kỳ góc độ cầm máy nào.",
+    "Cổng kết nối Thunderbolt 4 / USB 4 với băng thông cực đại 40Gbps cho phép liên kết trực tiếp với các ổ cứng SSD rời tốc độ cao, trạm sạc Docking Station và xuất hình ảnh ra màn hình đồ họa chuyên dụng Pro Display XDR với độ phân giải lên đến 6K một cách mượt mà.",
+    "Khi kết hợp với bàn phím Magic Keyboard vỏ nhôm nguyên khối sang trọng và bút Apple Pencil Pro có phản hồi xúc giác haptic, iPad Pro 11 inch M5 trở thành cỗ máy sáng tạo nội dung, lập trình và xử lý công việc đỉnh cao không có đối thủ trên thị trường công nghệ toàn cầu."
+  ],
+  "variants": [
+    {
+      "sku": "TB-AP004-PROM5-11-DEN-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 28990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/anh-dai-dien-ipad-pro-m5-11-inch-wifi-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/goc-nghieng-mat-truoc-sau-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/hieu-nang-chip-m5-ai-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/phu-kien-trong-hop-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/su-dung-kem-but-apple-pencil-pro-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/su-dung-lam-viec-di-dong-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/mat-sau-hai-mau-bac-va-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/tong-quan-tinh-nang-man-hinh-ultra-retina-xdr-den.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP004-PROM5-11-DEN-512GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 34490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/anh-dai-dien-ipad-pro-m5-11-inch-wifi-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/goc-nghieng-mat-truoc-sau-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/hieu-nang-chip-m5-ai-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/phu-kien-trong-hop-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/su-dung-kem-but-apple-pencil-pro-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/su-dung-lam-viec-di-dong-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/mat-sau-hai-mau-bac-va-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/tong-quan-tinh-nang-man-hinh-ultra-retina-xdr-den.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP004-PROM5-11-DEN-1TB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "1TB",
+      "rom": "1TB",
+      "price": 45490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/anh-dai-dien-ipad-pro-m5-11-inch-wifi-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/goc-nghieng-mat-truoc-sau-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/hieu-nang-chip-m5-ai-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/phu-kien-trong-hop-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/su-dung-kem-but-apple-pencil-pro-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/su-dung-lam-viec-di-dong-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/mat-sau-hai-mau-bac-va-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/tong-quan-tinh-nang-man-hinh-ultra-retina-xdr-den.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP004-PROM5-11-DEN-2TB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "2TB",
+      "rom": "2TB",
+      "price": 56490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/anh-dai-dien-ipad-pro-m5-11-inch-wifi-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/goc-nghieng-mat-truoc-sau-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/hieu-nang-chip-m5-ai-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/phu-kien-trong-hop-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/su-dung-kem-but-apple-pencil-pro-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/su-dung-lam-viec-di-dong-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/mat-sau-hai-mau-bac-va-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/tong-quan-tinh-nang-man-hinh-ultra-retina-xdr-den.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP004-PROM5-11-BAC-256GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "8GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 28990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/anh-dai-dien-ipad-pro-m5-11-inch-wifi-bac.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/mat-sau-hai-mau-bac-va-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/tong-quan-tinh-nang-man-hinh-ultra-retina-xdr-den.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP004-PROM5-11-BAC-512GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "8GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 34490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/anh-dai-dien-ipad-pro-m5-11-inch-wifi-bac.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/mat-sau-hai-mau-bac-va-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/tong-quan-tinh-nang-man-hinh-ultra-retina-xdr-den.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP004-PROM5-11-BAC-1TB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "8GB",
+      "storage": "1TB",
+      "rom": "1TB",
+      "price": 45490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/anh-dai-dien-ipad-pro-m5-11-inch-wifi-bac.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/mat-sau-hai-mau-bac-va-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/tong-quan-tinh-nang-man-hinh-ultra-retina-xdr-den.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP004-PROM5-11-BAC-2TB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "8GB",
+      "storage": "2TB",
+      "rom": "2TB",
+      "price": 56490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/anh-dai-dien-ipad-pro-m5-11-inch-wifi-bac.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/mat-sau-hai-mau-bac-va-den.webp",
+        "assets/images/products/tablet/apple/ipad-pro-m5-11-inch-wifi/tong-quan-tinh-nang-man-hinh-ultra-retina-xdr-den.webp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "id": "nubia-v80-design",
+  "brand": "nubia",
+  "brandId": "nubia",
+  "parentGroupId": "nubia",
+  "model": "nubia V80 Design",
+  "series": "nubia V80 Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "entry-level"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "Năm 2026",
+    "segment": "Cận cao cấp",
+    "description": "Ra mắt cuối năm 2025, nubia V80 Design gây ấn tượng mạnh trong phân khúc phổ thông nhờ kiểu dáng thời trang mỏng chỉ 7,7 mm (nặng 191g), trang bị nút bấm vật lý AI Button, tính năng liên lạc không cần mạng nubia LinkFree, màn hình 6,75 inch 120Hz, camera chính 50MP + selfie 16MP và chuẩn kháng bụi nước IP64. (Nguồn tham chiếu: ZTE Official & GSMArena - ZTE Blade / nubia V80 Design).",
+    "highlights": [
+      "Mỏng 7,7mm / IP64",
+      "6,75 inch 120Hz / Nút AI",
+      "Camera 50MP + Selfie 16MP"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 3190000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT004-NBV80DESIGN-VANG-4GB-128GB",
+      "color": "Vàng",
+      "colorHex": "#EAB308",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 3190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-v80-design/anh-dai-dien-nubia-v80-design-vang.webp",
+        "assets/images/products/nubia/nubia-v80-design/mat-truoc-mat-sau-nubia-v80-design-vang.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-mat-lung-nubia-v80-design-vang.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-man-hinh-phai-nubia-v80-design-vang.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-man-hinh-trai-nubia-v80-design-vang.webp",
+        "assets/images/products/nubia/nubia-v80-design/nubia-V80-Design.jpg"
+      ]
+    },
+    {
+      "sku": "DT004-NBV80DESIGN-VANG-8GB-128GB",
+      "color": "Vàng",
+      "colorHex": "#EAB308",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 3590000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-v80-design/anh-dai-dien-nubia-v80-design-vang.webp",
+        "assets/images/products/nubia/nubia-v80-design/mat-truoc-mat-sau-nubia-v80-design-vang.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-mat-lung-nubia-v80-design-vang.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-man-hinh-phai-nubia-v80-design-vang.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-man-hinh-trai-nubia-v80-design-vang.webp",
+        "assets/images/products/nubia/nubia-v80-design/nubia-V80-Design.jpg"
+      ]
+    },
+    {
+      "sku": "DT004-NBV80DESIGN-VANG-8GB-256GB",
+      "color": "Vàng",
+      "colorHex": "#EAB308",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 3990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-v80-design/anh-dai-dien-nubia-v80-design-vang.webp",
+        "assets/images/products/nubia/nubia-v80-design/mat-truoc-mat-sau-nubia-v80-design-vang.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-mat-lung-nubia-v80-design-vang.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-man-hinh-phai-nubia-v80-design-vang.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-man-hinh-trai-nubia-v80-design-vang.webp",
+        "assets/images/products/nubia/nubia-v80-design/nubia-V80-Design.jpg"
+      ]
+    },
+    {
+      "sku": "DT004-NBV80DESIGN-CAM-4GB-128GB",
+      "color": "Cam",
+      "colorHex": "#EA580C",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 3190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-v80-design/mat-truoc-mat-sau-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/man-hinh-mat-truoc-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/thiet-ke-mat-lung-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/canh-trai-canh-phai-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/canh-tren-canh-duoi-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-camera-sau-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/cum-camera-sau-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/trai-nghiem-chup-anh-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/nubia-V80-Design.jpg"
+      ]
+    },
+    {
+      "sku": "DT004-NBV80DESIGN-CAM-8GB-128GB",
+      "color": "Cam",
+      "colorHex": "#EA580C",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 3590000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-v80-design/mat-truoc-mat-sau-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/man-hinh-mat-truoc-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/thiet-ke-mat-lung-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/canh-trai-canh-phai-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/canh-tren-canh-duoi-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-camera-sau-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/cum-camera-sau-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/trai-nghiem-chup-anh-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/nubia-V80-Design.jpg"
+      ]
+    },
+    {
+      "sku": "DT004-NBV80DESIGN-CAM-8GB-256GB",
+      "color": "Cam",
+      "colorHex": "#EA580C",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 3990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-v80-design/mat-truoc-mat-sau-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/man-hinh-mat-truoc-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/thiet-ke-mat-lung-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/canh-trai-canh-phai-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/canh-tren-canh-duoi-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-camera-sau-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/cum-camera-sau-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/trai-nghiem-chup-anh-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/nubia-V80-Design.jpg"
+      ]
+    },
+    {
+      "sku": "DT004-NBV80DESIGN-DEN-4GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 3190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-v80-design/mat-truoc-mat-sau-nubia-v80-design-den.webp",
+        "assets/images/products/nubia/nubia-v80-design/canh-duoi-cong-sac-nubia-v80-design-den.webp",
+        "assets/images/products/nubia/nubia-v80-design/canh-trai-canh-phai-nubia-v80-design-den.webp",
+        "assets/images/products/nubia/nubia-v80-design/canh-tren-canh-duoi-nubia-v80-design-den.webp",
+        "assets/images/products/nubia/nubia-v80-design/tren-tay-canh-ben-nubia-v80-design-den.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-camera-sau-nubia-v80-design-den.webp",
+        "assets/images/products/nubia/nubia-v80-design/cum-camera-sau-nubia-v80-design-den.webp",
+        "assets/images/products/nubia/nubia-v80-design/nubia-V80-Design.jpg"
+      ]
+    },
+    {
+      "sku": "DT004-NBV80DESIGN-DEN-8GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 3590000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-v80-design/mat-truoc-mat-sau-nubia-v80-design-den.webp",
+        "assets/images/products/nubia/nubia-v80-design/canh-duoi-cong-sac-nubia-v80-design-den.webp",
+        "assets/images/products/nubia/nubia-v80-design/canh-trai-canh-phai-nubia-v80-design-den.webp",
+        "assets/images/products/nubia/nubia-v80-design/canh-tren-canh-duoi-nubia-v80-design-den.webp",
+        "assets/images/products/nubia/nubia-v80-design/tren-tay-canh-ben-nubia-v80-design-den.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-camera-sau-nubia-v80-design-den.webp",
+        "assets/images/products/nubia/nubia-v80-design/cum-camera-sau-nubia-v80-design-den.webp",
+        "assets/images/products/nubia/nubia-v80-design/nubia-V80-Design.jpg"
+      ]
+    },
+    {
+      "sku": "DT004-NBV80DESIGN-DEN-8GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 3990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-v80-design/mat-truoc-mat-sau-nubia-v80-design-den.webp",
+        "assets/images/products/nubia/nubia-v80-design/canh-duoi-cong-sac-nubia-v80-design-den.webp",
+        "assets/images/products/nubia/nubia-v80-design/canh-trai-canh-phai-nubia-v80-design-den.webp",
+        "assets/images/products/nubia/nubia-v80-design/canh-tren-canh-duoi-nubia-v80-design-den.webp",
+        "assets/images/products/nubia/nubia-v80-design/tren-tay-canh-ben-nubia-v80-design-den.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-camera-sau-nubia-v80-design-den.webp",
+        "assets/images/products/nubia/nubia-v80-design/cum-camera-sau-nubia-v80-design-den.webp",
+        "assets/images/products/nubia/nubia-v80-design/nubia-V80-Design.jpg"
+      ]
+    },
+    {
+      "sku": "DT004-NBV80DESIGN-XANH-LAM-4GB-128GB",
+      "color": "Xanh Lam",
+      "colorHex": "#1D4ED8",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 3190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-v80-design/mat-truoc-mat-sau-nubia-v80-design-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-mat-lung-phai-nubia-v80-design-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-mat-lung-trai-nubia-v80-design-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-man-hinh-phai-nubia-v80-design-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-man-hinh-trai-nubia-v80-design-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-design/nubia-V80-Design.jpg"
+      ]
+    },
+    {
+      "sku": "DT004-NBV80DESIGN-XANH-LAM-8GB-128GB",
+      "color": "Xanh Lam",
+      "colorHex": "#1D4ED8",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 3590000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-v80-design/mat-truoc-mat-sau-nubia-v80-design-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-mat-lung-phai-nubia-v80-design-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-mat-lung-trai-nubia-v80-design-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-man-hinh-phai-nubia-v80-design-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-man-hinh-trai-nubia-v80-design-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-design/nubia-V80-Design.jpg"
+      ]
+    },
+    {
+      "sku": "DT004-NBV80DESIGN-XANH-LAM-8GB-256GB",
+      "color": "Xanh Lam",
+      "colorHex": "#1D4ED8",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 3990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-v80-design/mat-truoc-mat-sau-nubia-v80-design-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-mat-lung-phai-nubia-v80-design-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-mat-lung-trai-nubia-v80-design-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-man-hinh-phai-nubia-v80-design-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-man-hinh-trai-nubia-v80-design-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-design/nubia-V80-Design.jpg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "IPS LCD FHD+ 120Hz, độ sáng cao",
+    "size": "6,75 inch",
+    "resolution": "2400 x 1080 pixel / 1600 x 720 pixel (High-Res 120Hz)",
+    "refreshRate": "120Hz",
+    "brightness": "Tần số quét 120Hz mượt mà, Live Island hiển thị thông báo động, bảo vệ mắt chống nhấp nháy",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Unisoc T7280 / T620 8 nhân (12nm)",
+    "cpu": "CPU 8 nhân: 2 nhân Cortex-A75 (2,2 GHz) + 6 nhân Cortex-A55 (1,8 GHz)",
+    "gpu": "ARM Mali-G57",
+    "ram": [
+      "4GB",
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "operatingSystem": "MyOS (Android 15 / Android 16)",
+    "uiVersion": "Android",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Chính AI (ƒ/1.8, PDAF) + 2MP Đo chiều sâu + AI Lens",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "Quay video Full HD 1080p ở 30fps"
+    ],
+    "aiFeatures": [
+      "Neovision AI, Chụp đêm Super Night, Chân dung xóa phông, AI Eraser xóa vật thể, HDR"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "16MP AI Selfie, quay 1080p 30fps",
+    "features": [
+      "Camera Selfie 16MP (khẩu độ ƒ/2.0), hỗ trợ làm đẹp chân dung AI và quay video Full HD 1080p@30fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "5.000 mAh",
+    "wiredCharging": "Sạc nhanh có dây 22,5W, hỗ trợ sạc ngược có dây",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": "Sạc nhanh có dây 22,5W qua cổng Type-C | Hỗ trợ sạc ngược có dây tiện lợi"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM vật lý"
+    ],
+    "network": [
+      "4G LTE"
+    ],
+    "wifi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép (2.4GHz & 5GHz)",
+    "bluetooth": "Bluetooth 5.2 hỗ trợ tính năng đàm thoại tầm gần nubia LinkFree",
+    "gps": [
+      "GPS, GLONASS, GALILEO, BDS"
+    ],
+    "usb": "USB Type-C 2.0 hỗ trợ OTG",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "166,0 x 79,0 x 7,7 mm",
+    "weight": "191 gram",
+    "materials": [
+      "Khung viền phẳng vát kim cương mỏng 7,7 mm",
+      "Mặt lưng kính / da sinh học hoàn thiện sang trọng"
+    ],
+    "waterResistance": "IP64 kháng bụi và tia nước",
+    "availableColors": [
+      "Vàng",
+      "Cam",
+      "Đen",
+      "Xanh Lam"
+    ]
+  },
+  "audio": {
+    "speakers": "Hệ thống âm thanh DTS, micro kép khử ồn, tích hợp giắc tai nghe 3.5mm",
+    "headphoneJack": true,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Unisoc T7280 8 nhân (2.2GHz)",
+    "IPS LCD 6.75 inch",
+    "Camera 50MP",
+    "Pin 5000 mAh"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền nubia tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/nubia/nubia-v80-design/anh-dai-dien-nubia-v80-design-vang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/nubia/nubia-v80-design/anh-dai-dien-nubia-v80-design-vang.webp",
+      "assets/images/products/nubia/nubia-v80-design/mat-truoc-mat-sau-nubia-v80-design-cam.webp",
+      "assets/images/products/nubia/nubia-v80-design/mat-truoc-mat-sau-nubia-v80-design-den.webp",
+      "assets/images/products/nubia/nubia-v80-design/mat-truoc-mat-sau-nubia-v80-design-vang.webp",
+      "assets/images/products/nubia/nubia-v80-design/mat-truoc-mat-sau-nubia-v80-design-xanh-lam.webp",
+      "assets/images/products/nubia/nubia-v80-design/man-hinh-mat-truoc-nubia-v80-design-cam.webp",
+      "assets/images/products/nubia/nubia-v80-design/goc-nghieng-mat-lung-nubia-v80-design-vang.webp",
+      "assets/images/products/nubia/nubia-v80-design/goc-nghieng-mat-lung-phai-nubia-v80-design-xanh-lam.webp",
+      "assets/images/products/nubia/nubia-v80-design/goc-nghieng-mat-lung-trai-nubia-v80-design-xanh-lam.webp",
+      "assets/images/products/nubia/nubia-v80-design/thiet-ke-mat-lung-nubia-v80-design-cam.webp",
+      "assets/images/products/nubia/nubia-v80-design/canh-duoi-cong-sac-nubia-v80-design-den.webp",
+      "assets/images/products/nubia/nubia-v80-design/canh-trai-canh-phai-nubia-v80-design-cam.webp",
+      "assets/images/products/nubia/nubia-v80-design/canh-trai-canh-phai-nubia-v80-design-den.webp",
+      "assets/images/products/nubia/nubia-v80-design/canh-tren-canh-duoi-nubia-v80-design-cam.webp",
+      "assets/images/products/nubia/nubia-v80-design/canh-tren-canh-duoi-nubia-v80-design-den.webp",
+      "assets/images/products/nubia/nubia-v80-design/tren-tay-canh-ben-nubia-v80-design-den.webp",
+      "assets/images/products/nubia/nubia-v80-design/goc-nghieng-camera-sau-nubia-v80-design-cam.webp",
+      "assets/images/products/nubia/nubia-v80-design/goc-nghieng-camera-sau-nubia-v80-design-den.webp",
+      "assets/images/products/nubia/nubia-v80-design/goc-nghieng-man-hinh-phai-nubia-v80-design-vang.webp",
+      "assets/images/products/nubia/nubia-v80-design/goc-nghieng-man-hinh-phai-nubia-v80-design-xanh-lam.webp",
+      "assets/images/products/nubia/nubia-v80-design/goc-nghieng-man-hinh-trai-nubia-v80-design-vang.webp",
+      "assets/images/products/nubia/nubia-v80-design/goc-nghieng-man-hinh-trai-nubia-v80-design-xanh-lam.webp",
+      "assets/images/products/nubia/nubia-v80-design/cum-camera-sau-nubia-v80-design-cam.webp",
+      "assets/images/products/nubia/nubia-v80-design/cum-camera-sau-nubia-v80-design-den.webp",
+      "assets/images/products/nubia/nubia-v80-design/nubia-V80-Design.jpg",
+      "assets/images/products/nubia/nubia-v80-design/trai-nghiem-chup-anh-nubia-v80-design-cam.webp"
+    ],
+    "byColor": {
+      "Vàng": [
+        "assets/images/products/nubia/nubia-v80-design/anh-dai-dien-nubia-v80-design-vang.webp",
+        "assets/images/products/nubia/nubia-v80-design/mat-truoc-mat-sau-nubia-v80-design-vang.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-mat-lung-nubia-v80-design-vang.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-man-hinh-phai-nubia-v80-design-vang.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-man-hinh-trai-nubia-v80-design-vang.webp",
+        "assets/images/products/nubia/nubia-v80-design/nubia-V80-Design.jpg"
+      ],
+      "Cam": [
+        "assets/images/products/nubia/nubia-v80-design/mat-truoc-mat-sau-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/man-hinh-mat-truoc-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/thiet-ke-mat-lung-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/canh-trai-canh-phai-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/canh-tren-canh-duoi-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-camera-sau-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/cum-camera-sau-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/trai-nghiem-chup-anh-nubia-v80-design-cam.webp",
+        "assets/images/products/nubia/nubia-v80-design/nubia-V80-Design.jpg"
+      ],
+      "Đen": [
+        "assets/images/products/nubia/nubia-v80-design/mat-truoc-mat-sau-nubia-v80-design-den.webp",
+        "assets/images/products/nubia/nubia-v80-design/canh-duoi-cong-sac-nubia-v80-design-den.webp",
+        "assets/images/products/nubia/nubia-v80-design/canh-trai-canh-phai-nubia-v80-design-den.webp",
+        "assets/images/products/nubia/nubia-v80-design/canh-tren-canh-duoi-nubia-v80-design-den.webp",
+        "assets/images/products/nubia/nubia-v80-design/tren-tay-canh-ben-nubia-v80-design-den.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-camera-sau-nubia-v80-design-den.webp",
+        "assets/images/products/nubia/nubia-v80-design/cum-camera-sau-nubia-v80-design-den.webp",
+        "assets/images/products/nubia/nubia-v80-design/nubia-V80-Design.jpg"
+      ],
+      "Xanh Lam": [
+        "assets/images/products/nubia/nubia-v80-design/mat-truoc-mat-sau-nubia-v80-design-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-mat-lung-phai-nubia-v80-design-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-mat-lung-trai-nubia-v80-design-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-man-hinh-phai-nubia-v80-design-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-design/goc-nghieng-man-hinh-trai-nubia-v80-design-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-design/nubia-V80-Design.jpg"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/nubia/nubia-v80-design/mat-truoc-mat-sau-nubia-v80-design-cam.webp",
+      "screen": "assets/images/products/nubia/nubia-v80-design/mat-truoc-mat-sau-nubia-v80-design-den.webp",
+      "performance": "assets/images/products/nubia/nubia-v80-design/goc-nghieng-camera-sau-nubia-v80-design-cam.webp",
+      "camera": "assets/images/products/nubia/nubia-v80-design/goc-nghieng-camera-sau-nubia-v80-design-den.webp",
+      "battery": "assets/images/products/nubia/nubia-v80-design/canh-duoi-cong-sac-nubia-v80-design-den.webp",
+      "feature": "assets/images/products/nubia/nubia-v80-design/goc-nghieng-mat-lung-phai-nubia-v80-design-xanh-lam.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/nubia/nubia-v80-design/mat-truoc-mat-sau-nubia-v80-design-cam.webp",
+      "assets/images/products/nubia/nubia-v80-design/mat-truoc-mat-sau-nubia-v80-design-den.webp",
+      "assets/images/products/nubia/nubia-v80-design/mat-truoc-mat-sau-nubia-v80-design-vang.webp",
+      "assets/images/products/nubia/nubia-v80-design/mat-truoc-mat-sau-nubia-v80-design-xanh-lam.webp",
+      "assets/images/products/nubia/nubia-v80-design/man-hinh-mat-truoc-nubia-v80-design-cam.webp",
+      "assets/images/products/nubia/nubia-v80-design/goc-nghieng-mat-lung-nubia-v80-design-vang.webp",
+      "assets/images/products/nubia/nubia-v80-design/goc-nghieng-mat-lung-phai-nubia-v80-design-xanh-lam.webp",
+      "assets/images/products/nubia/nubia-v80-design/goc-nghieng-mat-lung-trai-nubia-v80-design-xanh-lam.webp",
+      "assets/images/products/nubia/nubia-v80-design/thiet-ke-mat-lung-nubia-v80-design-cam.webp",
+      "assets/images/products/nubia/nubia-v80-design/canh-duoi-cong-sac-nubia-v80-design-den.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.nubia.com/vn/",
+      "https://www.thegioididong.com/dtdd-nubia",
+      "https://www.thegioididong.com/tin-tuc/tat-tan-tat-ve-nubia-v80-design-gia-re-thiet-ke-chuan-flagship-man-hinh-120hz-1593594",
+      "https://www.nubia.com/vn/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "verified",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT004-NBV80DESIGN",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "IPS LCD FHD+ 120Hz, độ sáng cao",
+      "Kích thước màn hình": "6,75 inch",
+      "Độ phân giải màn hình": "2400 x 1080 pixel / 1600 x 720 pixel (High-Res 120Hz)",
+      "Tần số quét": "120Hz",
+      "Kiểu màn hình": "Màn hình phẳng đục lỗ tích hợp Live Island 2.0",
+      "Tính năng màn hình": "Tần số quét 120Hz mượt mà, Live Island hiển thị thông báo động, bảo vệ mắt chống nhấp nháy"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera AI thời trang: Camera chính 50MP (khẩu độ ƒ/1.8, lấy nét PDAF) + Camera đo chiều sâu 2MP (ƒ/2.4) + Ống kính bổ trợ AI",
+      "Quay video": "Quay video Full HD 1080p ở 30fps",
+      "Tính năng camera": "Neovision AI, Chụp đêm Super Night, Chân dung xóa phông, AI Eraser xóa vật thể, HDR"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera Selfie 16MP (khẩu độ ƒ/2.0), hỗ trợ làm đẹp chân dung AI và quay video Full HD 1080p@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Unisoc T7280 / T620 8 nhân (12nm)",
+      "Loại CPU": "CPU 8 nhân: 2 nhân Cortex-A75 (2,2 GHz) + 6 nhân Cortex-A55 (1,8 GHz)",
+      "GPU": "ARM Mali-G57"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "4GB / 8GB (+12GB Dynamic RAM mở rộng lên tới 20GB)",
+      "Bộ nhớ trong": "2 phiên bản: 128GB và 256GB chuẩn UFS 2.2"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.000 mAh (Pin Li-Po bền bỉ đáp ứng thoải mái cả ngày dài)",
+      "Công nghệ sạc": "Sạc nhanh có dây 22,5W qua cổng Type-C | Hỗ trợ sạc ngược có dây tiện lợi",
+      "Cổng sạc": "USB Type-C 2.0 hỗ trợ OTG"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "MyOS (Android 15 / Android 16)",
+      "Công nghệ - Tiện ích": "Trang bị nút bấm vật lý AI Button truy cập nhanh công cụ thông minh, tính năng liên lạc nội bộ không cần sóng di động nubia LinkFree qua Bluetooth, Live Island 2.0",
+      "Tiện ích khác": "Thiết kế mỏng nhẹ chỉ 7,7 mm, hệ thống micro kép khử ồn, giữ lại giắc tai nghe 3.5mm",
+      "Thời điểm ra mắt": "Tháng 11/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "4G LTE",
+      "Thẻ SIM": "2 Nano-SIM vật lý",
+      "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép (2.4GHz & 5GHz)",
+      "Bluetooth": "Bluetooth 5.2 hỗ trợ tính năng đàm thoại tầm gần nubia LinkFree",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa năng",
+      "GPS": "GPS, GLONASS, GALILEO, BDS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền phẳng vát kim cương mỏng 7,7 mm",
+      "Chất liệu mặt lưng": "Mặt lưng kính / da sinh học hoàn thiện sang trọng",
+      "Kích thước": "166,0 x 79,0 x 7,7 mm",
+      "Trọng lượng": "191 gram",
+      "Chỉ số kháng nước, bụi": "Đạt chuẩn kháng bụi hoàn toàn và chống tia nước bắn IP64"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống âm thanh DTS, micro kép khử ồn, tích hợp giắc tai nghe 3.5mm",
+      "Cảm biến vân tay": "Cảm biến vân tay tích hợp phím nguồn cạnh bên + Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Tiệm cận, Ánh sáng môi trường, La bàn số"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,75 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "IPS LCD FHD+ 120Hz, độ sáng cao"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2400 x 1080 pixel / 1600 x 720 pixel (High-Res 120Hz)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Unisoc T7280 / T620 8 nhân (12nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "4GB / 8GB (+12GB Dynamic RAM mở rộng lên tới 20GB)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "2 phiên bản: 128GB và 256GB chuẩn UFS 2.2"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính AI (ƒ/1.8, PDAF) + 2MP Đo chiều sâu + AI Lens"
+    },
+    {
+      "label": "Camera trước",
+      "value": "16MP AI Selfie, quay 1080p 30fps"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh có dây 22,5W, hỗ trợ sạc ngược có dây"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "MyOS (Android 15 / Android 16)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "4G LTE"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP64 kháng bụi và tia nước"
+    }
+  ],
+  "verbatimDescription": [
+    "Ra mắt cuối năm 2025, nubia V80 Design gây ấn tượng mạnh trong phân khúc phổ thông nhờ kiểu dáng thời trang mỏng chỉ 7,7 mm (nặng 191g), trang bị nút bấm vật lý AI Button, tính năng liên lạc không cần mạng nubia LinkFree, màn hình 6,75 inch 120Hz, camera chính 50MP + selfie 16MP và chuẩn kháng bụi nước IP64. Tại AURIX MOBILE, nubia V80 Design là lựa chọn sành điệu cho người dùng trẻ.",
+    "nubia V80 Design sở hữu thân máy mỏng nhẹ chỉ 7,7 mm và nặng 191 gram với cụm camera sau thiết kế tinh xảo, đạt chuẩn kháng bụi và tia nước bắn IP64.",
+    "Màn hình phẳng 6,75 inch tần số quét 120Hz tích hợp Live Island 2.0 mang lại trải nghiệm vuốt chạm mượt mà và hiển thị thông báo trực quan.",
+    "Hệ thống nhiếp ảnh gồm cụm 3 camera AI 50MP phía sau và camera trước nâng lên 16MP, đáp ứng xuất sắc nhu cầu chụp ảnh chân dung và gọi video sắc nét.",
+    "Máy trang bị vi xử lý 8 nhân Unisoc T7280 (2,2 GHz) đi kèm tùy chọn RAM 4GB/8GB (mở rộng Dynamic RAM lên tới 20GB), bộ nhớ trong lên đến 256GB và nút vật lý AI Button tiện dụng.",
+    "Viên pin 5.000 mAh hỗ trợ sạc nhanh 22,5W, sạc ngược có dây, NFC đa năng và giắc tai nghe 3.5mm truyền thống."
+  ],
+  "priceSegment": "entry-level"
+}

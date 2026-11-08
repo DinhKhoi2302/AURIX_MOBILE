@@ -1,0 +1,244 @@
+{
+  "id": "oppo-pad-5",
+  "docCode": "TB-OP002-PAD5",
+  "model": "OPPO Pad 5 Flagship Wi-Fi",
+  "brand": "OPPO",
+  "brandId": "oppo",
+  "parentGroupId": "oppo",
+  "series": "OPPO Pad Series",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "12.1 inch",
+      "Snapdragon 8 Gen 3",
+      "Pin 9.510 mAh"
+    ],
+    "description": "OPPO Pad 5 là biểu tượng đỉnh cao về hiệu năng và phong cách thiết kế trong phân khúc máy tính bảng flagship. Sở hữu lớp vỏ kim loại unibody màu Hồng ánh kim sang trọng và tinh tế, sản phẩm thu hút mọi ánh nhìn bởi sự kết hợp hoàn hảo giữa vẻ đẹp thời trang cao cấp và độ mỏng thanh thoát chỉ 6.49 mm.",
+    "releaseDate": "2024 / 2025"
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 8 Gen 3 (tiến trình 4nm đẳng cấp hàng đầu)",
+    "ram": [
+      "12GB",
+      "16GB"
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ],
+    "operatingSystem": "ColorOS 15 for Pad (Android 15)"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 11990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/oppo/oppo-pad-5/anh-dai-dien-oppo-pad-5-hong.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/oppo/oppo-pad-5/anh-dai-dien-oppo-pad-5-hong.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-5/mat-truoc-sau-hong.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-5/mat-truoc-dat-tren-ban-hong.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-5/mat-sau-dat-tren-ban-hong.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-5/canh-ben-trai-phai-hong.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-5/canh-tren-duoi-loa-cong-sac-hong.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-5/can-canh-cum-camera-sau-hong.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-5/cam-tren-tay-man-hinh-hong.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-5/can-canh-cong-sac-type-c-va-loa-hong.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-5/can-canh-nut-am-luong-va-camera-hong.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-5/can-canh-nut-nguon-va-loa-hong.webp"
+    ],
+    "byColor": {
+      "Hồng": [
+        "assets/images/products/tablet/oppo/oppo-pad-5/anh-dai-dien-oppo-pad-5-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/mat-truoc-sau-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/mat-truoc-dat-tren-ban-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/mat-sau-dat-tren-ban-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/canh-ben-trai-phai-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/canh-tren-duoi-loa-cong-sac-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/can-canh-cum-camera-sau-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/cam-tren-tay-man-hinh-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/can-canh-cong-sac-type-c-va-loa-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/can-canh-nut-am-luong-va-camera-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/can-canh-nut-nguon-va-loa-hong.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/oppo/oppo-pad-5/mat-truoc-sau-hong.webp",
+      "screen": "assets/images/products/tablet/oppo/oppo-pad-5/mat-truoc-dat-tren-ban-hong.webp",
+      "performance": "assets/images/products/tablet/oppo/oppo-pad-5/cam-tren-tay-man-hinh-hong.webp",
+      "camera": "assets/images/products/tablet/oppo/oppo-pad-5/can-canh-cum-camera-sau-hong.webp",
+      "battery": "assets/images/products/tablet/oppo/oppo-pad-5/canh-tren-duoi-loa-cong-sac-hong.webp",
+      "feature": "assets/images/products/tablet/oppo/oppo-pad-5/canh-ben-trai-phai-hong.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/oppo/oppo-pad-5/mat-truoc-sau-hong.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-5/mat-truoc-dat-tren-ban-hong.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-5/mat-sau-dat-tren-ban-hong.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-5/canh-ben-trai-phai-hong.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-5/canh-tren-duoi-loa-cong-sac-hong.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-5/can-canh-cum-camera-sau-hong.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-5/cam-tren-tay-man-hinh-hong.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-5/can-canh-cong-sac-type-c-va-loa-hong.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-5/can-canh-nut-am-luong-va-camera-hong.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-5/can-canh-nut-nguon-va-loa-hong.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "12,1 inch LTPS LCD 3K (3000 x 2120 pixel, mật độ điểm ảnh 303 ppi), tỷ lệ sách 7:5 ReadFit, tần số quét biến thiên 144Hz, hỗ trợ Dolby Vision, độ sáng đỉnh 900 nit",
+      "Tính năng màn hình": "Hiển thị 1,07 tỷ màu, độ chuẩn màu chuyên nghiệp Delta E ≈ 0.7, công nghệ bảo vệ mắt thông minh giảm ánh sáng xanh phần cứng kết hợp DC Dimming chống nhấp nháy"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "Qualcomm Snapdragon 8 Gen 3 với NPU AI xử lý các tác vụ trí tuệ nhân tạo chuyên sâu",
+      "CPU & Đồ họa": "Octa-core kiến trúc Cortex-X4 đỉnh cao, GPU Adreno 750 hỗ trợ Ray Tracing",
+      "Hệ điều hành khi ra mắt": "ColorOS 15 for Pad tích hợp sâu bộ công cụ AI thông minh và đồ họa mượt mà"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "12GB / 16GB LPDDR5X tốc độ cao hàng đầu",
+      "Bộ nhớ trong": "256GB / 512GB chuẩn UFS 4.0 đọc ghi siêu tốc"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "13MP tự động lấy nét với đèn flash LED, quay video 4K 60fps",
+      "Camera trước": "8MP góc siêu rộng tối ưu hóa đàm thoại và họp nhóm trực tuyến",
+      "Chi tiết hệ thống Camera": "Camera chính 13MP AF quay video 4K 60fps; Camera trước 8MP với góc thu hình rộng và AI lọc tiếng ồn"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "9.510 mAh, công nghệ sạc siêu nhanh SuperVOOC 67W",
+      "Pin và công nghệ sạc": "Pin Lithium Polymer 9.510 mAh, sạc nhanh SuperVOOC 67W an toàn đa tầng"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Tương thích bút cảm ứng OPPO Pencil Pro thế hệ mới (tích hợp cảm biến rung phản hồi xúc giác, 4.096 mức lực nhấn, độ trễ 2ms và điều khiển trình chiếu từ xa)",
+      "Hỗ trợ bàn phím rời": "Tương thích bàn phím OPPO Smart Touchpad Keyboard tích hợp chip NFC một chạm để truyền tệp tin và phản chiếu màn hình điện thoại tức thì",
+      "Công nghệ âm thanh": "Dàn 6 loa âm thanh vòm cao cấp hỗ trợ chuẩn âm thanh Hi-Res Audio và Dolby Atmos",
+      "Thuộc tính đặc biệt": "Cấu hình siêu khủng Snapdragon 8 Gen 3, màn hình 3K 144Hz, Wi-Fi 7, thiết kế màu Hồng quyến rũ"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Wi-Fi 7 (802.11be) siêu tốc độ cao",
+      "Thẻ SIM": "Không hỗ trợ (Bản Wi-Fi)",
+      "Kết nối không dây & Cổng giao tiếp": "Wi-Fi 7 thế hệ mới nhất, Bluetooth 5.4, cổng Type-C USB 3.2 Gen 1 (5Gbps), Pogo Pin",
+      "Công nghệ - Tiện ích": "OPPO AI Eraser xóa vật thể, AI tóm tắt văn bản, kết nối đồng bộ một chạm với điện thoại"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Độ mỏng chỉ 6.49 mm, kích thước 268.7 x 195.1 x 6.49 mm, trọng lượng khoảng 589 g",
+      "Bảo mật và độ bền": "Mở khóa khuôn mặt AI, khung viền kim loại hợp kim nhôm hàng không nguyên khối",
+      "Thời điểm ra mắt": "Năm 2024 / 2025"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "12.1 inch LTPS LCD 3K sắc nét, độ phân giải 3000 x 2120 pixels, tỷ lệ 7:5"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Tần số quét 144Hz, độ sáng đỉnh 900 nits, chuẩn màu Dolby Vision, chứng nhận bảo vệ mắt toàn diện"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 8 Gen 3 (tiến trình 4nm đẳng cấp hàng đầu)"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB / 16GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB / 512GB UFS 4.0"
+    },
+    {
+      "label": "Camera sau",
+      "value": "13MP tự động lấy nét với đèn flash LED, quay video 4K 60fps"
+    },
+    {
+      "label": "Camera trước",
+      "value": "8MP góc siêu rộng tối ưu hóa đàm thoại và họp nhóm trực tuyến"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Pin Lithium Polymer 9.510 mAh, sạc nhanh SuperVOOC 67W an toàn đa tầng"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Wi-Fi 7 (802.11be) siêu tốc độ cao"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Tương thích bút thông minh thế hệ mới của OPPO gắn sạc từ tính trên cạnh máy"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Hỗ trợ bàn phím Smart Touchpad Keyboard kết nối từ tính không độ trễ"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "ColorOS 15 for Pad (Android 15)"
+    }
+  ],
+  "verbatimDescription": [
+    "OPPO Pad 5 là biểu tượng đỉnh cao về hiệu năng và phong cách thiết kế trong phân khúc máy tính bảng flagship. Sở hữu lớp vỏ kim loại unibody màu Hồng ánh kim sang trọng và tinh tế, sản phẩm thu hút mọi ánh nhìn bởi sự kết hợp hoàn hảo giữa vẻ đẹp thời trang cao cấp và độ mỏng thanh thoát chỉ 6.49 mm.",
+    "Màn hình kích thước lớn 12.1 inch với độ phân giải siêu nét 3K (3000 x 2120 pixels) cùng tỷ lệ khung hình 7:5 chuẩn mực mang lại diện tích làm việc và thưởng thức nội dung vô cùng rộng rãi. Tần số quét 144Hz kết hợp cùng độ sáng đỉnh 900 nits và chuẩn Dolby Vision giúp từng thước phim bom tấn hay khung hình game đồ họa hiện lên rực rỡ và chân thực tuyệt đối.",
+    "Trang bị sức mạnh hủy diệt từ con chip đầu bảng Qualcomm Snapdragon 8 Gen 3 cùng RAM LPDDR5X lên tới 16GB, OPPO Pad 5 sẵn sàng chinh phục mọi thử thách khó khăn nhất. Hệ điều hành ColorOS 15 tích hợp sâu bộ công cụ AI thông minh giúp tóm tắt tài liệu nhanh, dịch thuật tức thì và chỉnh sửa hình ảnh chuyên nghiệp chỉ với một chạm.",
+    "Viên pin dung lượng lớn 9.510 mAh cùng công nghệ sạc siêu nhanh SuperVOOC 67W đảm bảo cho thiết bị luôn tràn đầy năng lượng hoạt động suốt ngày dài. Hệ thống 6 loa âm thanh vòm Dolby Atmos tái tạo chất âm bùng nổ, mang lại trải nghiệm đỉnh cao cho cả công việc lẫn giải trí.",
+    "Hệ thống âm thanh trên OPPO Pad 5 được nâng cấp lên dàn 6 loa Omnidirectional âm trường 360 độ đạt chuẩn Dolby Atmos và Hi-Res Audio Wireless, mang lại âm lượng lớn cùng dải trầm uy lực cho các bộ phim điện ảnh chuẩn Dolby Vision.",
+    "Đặc biệt, khi kết hợp với bàn phím thông minh tích hợp vùng chạm NFC và bút OPPO Pencil Pro có phản hồi xúc giác, người dùng có thể chạm nhẹ điện thoại vào bàn phím để chuyển giao ngay lập tức các tài liệu văn phòng đang làm dở. Bộ công cụ trí tuệ nhân tạo OPPO AI hỗ trợ tóm tắt ghi âm, dịch thuật tài liệu và xóa vật thể trong ảnh biến OPPO Pad 5 thành chiếc máy tính bảng flagship toàn diện."
+  ],
+  "variants": [
+    {
+      "sku": "TB-OP002-PAD5-HONG-12GB-256GB",
+      "color": "Hồng",
+      "colorHex": "#F472B6",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 11990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/oppo/oppo-pad-5/anh-dai-dien-oppo-pad-5-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/mat-truoc-sau-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/mat-truoc-dat-tren-ban-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/mat-sau-dat-tren-ban-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/canh-ben-trai-phai-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/canh-tren-duoi-loa-cong-sac-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/can-canh-cum-camera-sau-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/cam-tren-tay-man-hinh-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/can-canh-cong-sac-type-c-va-loa-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/can-canh-nut-am-luong-va-camera-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/can-canh-nut-nguon-va-loa-hong.webp"
+      ]
+    },
+    {
+      "sku": "TB-OP002-PAD5-HONG-16GB-512GB",
+      "color": "Hồng",
+      "colorHex": "#F472B6",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 14490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/oppo/oppo-pad-5/anh-dai-dien-oppo-pad-5-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/mat-truoc-sau-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/mat-truoc-dat-tren-ban-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/mat-sau-dat-tren-ban-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/canh-ben-trai-phai-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/canh-tren-duoi-loa-cong-sac-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/can-canh-cum-camera-sau-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/cam-tren-tay-man-hinh-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/can-canh-cong-sac-type-c-va-loa-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/can-canh-nut-am-luong-va-camera-hong.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-5/can-canh-nut-nguon-va-loa-hong.webp"
+      ]
+    }
+  ]
+}

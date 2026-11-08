@@ -1,0 +1,385 @@
+{
+  "id": "redmi-pad-2-pro",
+  "docCode": "TB-MI002-RP2PRO",
+  "model": "Xiaomi Redmi Pad 2 Pro Wi-Fi (Màn hình lớn 12.1 inch)",
+  "brand": "Redmi",
+  "brandId": "redmi",
+  "parentGroupId": "xiaomi",
+  "series": "Redmi Pad 2 Series",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "12.1 inch",
+      "Snapdragon 7s Gen 2",
+      "Pin 10.000 mAh"
+    ],
+    "description": "Xiaomi Redmi Pad 2 Pro là chiếc máy tính bảng màn hình lớn lý tưởng mở ra không gian học tập và giải trí bao la với mức giá vô cùng hấp dẫn. Màn hình kích thước 12.1 inch độ phân giải 2.5K (2560 x 1600 pixels) cùng tần số quét mượt mà 120Hz mang lại trải nghiệm xem phim điện ảnh chuẩn Dolby Vision và hiển thị tài liệu sắc nét đến từng chi tiết.",
+    "releaseDate": "2024 / 2025"
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 7s Gen 2 (tiến trình 4nm tiên tiến)",
+    "ram": [
+      "6GB",
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "operatingSystem": "Xiaomi HyperOS (Android 14)"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 6990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/anh-dai-dien-redmi-pad-2-pro-bac.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/anh-dai-dien-redmi-pad-2-pro-bac.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/anh-dai-dien-redmi-pad-2-pro-tim.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/anh-dai-dien-redmi-pad-2-pro-xam.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-truoc-sau-bac.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-sau-nghieng-phai-bac.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-sau-nghieng-trai-bac.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-truoc-nghieng-phai-bac.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-truoc-nghieng-trai-bac.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-cum-camera-sau-tim.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-cum-camera-sau-xam.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-cong-sac-type-c-va-loa-tim.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-cong-sac-type-c-va-loa-xam.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-nut-am-luong-va-camera-tim.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-nut-am-luong-va-camera-xam.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-nut-nguon-va-loa-tim.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-nut-nguon-va-loa-xam.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-sau-dat-canh-hop-xam.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-truoc-dat-canh-hop-tim.webp"
+    ],
+    "byColor": {
+      "Bạc": [
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/anh-dai-dien-redmi-pad-2-pro-bac.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-truoc-sau-bac.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-sau-nghieng-phai-bac.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-sau-nghieng-trai-bac.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-truoc-nghieng-phai-bac.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-truoc-nghieng-trai-bac.webp"
+      ],
+      "Tím": [
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/anh-dai-dien-redmi-pad-2-pro-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-cum-camera-sau-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-cong-sac-type-c-va-loa-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-nut-am-luong-va-camera-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-nut-nguon-va-loa-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-truoc-dat-canh-hop-tim.webp"
+      ],
+      "Xám": [
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/anh-dai-dien-redmi-pad-2-pro-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-cum-camera-sau-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-cong-sac-type-c-va-loa-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-nut-am-luong-va-camera-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-nut-nguon-va-loa-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-sau-dat-canh-hop-xam.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-truoc-sau-bac.webp",
+      "screen": "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-truoc-nghieng-phai-bac.webp",
+      "performance": "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-truoc-nghieng-trai-bac.webp",
+      "camera": "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-cum-camera-sau-tim.webp",
+      "battery": "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-cong-sac-type-c-va-loa-tim.webp",
+      "feature": "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/anh-dai-dien-redmi-pad-2-pro-tim.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/anh-dai-dien-redmi-pad-2-pro-tim.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/anh-dai-dien-redmi-pad-2-pro-xam.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-truoc-sau-bac.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-sau-nghieng-phai-bac.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-sau-nghieng-trai-bac.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-truoc-nghieng-phai-bac.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-truoc-nghieng-trai-bac.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-cum-camera-sau-tim.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-cum-camera-sau-xam.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-cong-sac-type-c-va-loa-tim.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "12,1 inch IPS LCD 2.5K (2560 x 1600 pixel, 249 ppi), tỷ lệ 16:10 rộng hơn 33% so với màn hình 10,6 inch, tần số quét 120Hz AdaptiveSync, 68,7 tỷ màu (12-bit), Dolby Vision, độ sáng 600 nit",
+      "Tính năng màn hình": "Mặt kính cường lực Corning Gorilla Glass 3, đạt 3 chứng nhận bảo vệ mắt TÜV Rheinland và công nghệ DC Dimming toàn dải chống nhấp nháy"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "Qualcomm Snapdragon 7s Gen 2 nền tảng 4nm hiệu năng cao và tản nhiệt tối ưu",
+      "CPU & Đồ họa": "Octa-core 4x2.40 GHz Cortex-A78 & 4x1.95 GHz Cortex-A55, GPU Adreno 710",
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS trên nền Android 14 hỗ trợ hệ sinh thái kết nối đa màn hình"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "6GB / 8GB RAM LPDDR4X",
+      "Bộ nhớ trong": "128GB / 256GB UFS 2.2, hỗ trợ khe thẻ cắm MicroSD mở rộng lên đến 1.5TB"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "8MP góc rộng, khẩu độ f/2.0, quay video Full HD 1080p 30fps",
+      "Camera trước": "8MP đặt ở cạnh ngang tối ưu hóa học trực tuyến và gọi video",
+      "Chi tiết hệ thống Camera": "Camera chính sau 8MP f/2.0; Camera trước 8MP f/2.3 góc rộng rõ nét"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "10.000 mAh dung lượng khổng lồ, sạc nhanh công suất 33W qua USB-C",
+      "Pin và công nghệ sạc": "Pin Lithium Polymer 10.000 mAh cực lớn, sạc nhanh có dây 33W qua cổng USB-C"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Tương thích bút cảm ứng cao cấp Redmi Smart Pen hỗ trợ 4096 mức cảm ứng lực",
+      "Hỗ trợ bàn phím rời": "Hỗ trợ bàn phím rời Redmi Pad Pro Keyboard qua kết nối Bluetooth",
+      "Công nghệ âm thanh": "Dàn 4 loa ngoài stereo công suất lớn hỗ trợ Dolby Atmos và chuẩn âm thanh Hi-Res Audio",
+      "Thuộc tính đặc biệt": "Màn hình 12.1 inch 2.5K 120Hz, pin 10.000mAh, chip Snapdragon 7s Gen 2, hỗ trợ bút Redmi Smart Pen"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Wi-Fi 6 (802.11ax) 2x2 MIMO băng tần kép",
+      "Thẻ SIM": "Không hỗ trợ (Bản thuần Wi-Fi)",
+      "Kết nối không dây & Cổng giao tiếp": "Wi-Fi 6 siêu tốc, Bluetooth 5.2, cổng Type-C 2.0 có OTG, jack tai nghe 3.5mm",
+      "Công nghệ - Tiện ích": "Tính năng Xiaomi Smart Hub kết nối đồng bộ điện thoại, chia sẻ clipboard và hình ảnh"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Thân máy mỏng 7.52 mm, kích thước 280.0 x 181.9 x 7.52 mm, trọng lượng khoảng 571 g",
+      "Bảo mật và độ bền": "Mở khóa khuôn mặt Face Unlock, thân kim loại nguyên khối chống va đập",
+      "Thời điểm ra mắt": "Năm 2024 / 2025"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "12.1 inch IPS LCD 2.5K cực đại, độ phân giải sắc nét 2560 x 1600 pixels (tỷ lệ 16:10)"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Tần số quét cao 120Hz AdaptiveSync, độ sáng đỉnh 600 nits, Dolby Vision, chứng nhận bảo vệ mắt 3 chuẩn TÜV Rheinland"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 7s Gen 2 (tiến trình 4nm tiên tiến)"
+    },
+    {
+      "label": "RAM",
+      "value": "6GB / 8GB LPDDR4X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB UFS 2.2 (Hỗ trợ thẻ nhớ MicroSD tối đa 1.5TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "8MP góc rộng, khẩu độ f/2.0, quay video Full HD 1080p 30fps"
+    },
+    {
+      "label": "Camera trước",
+      "value": "8MP đặt ở cạnh ngang tối ưu hóa học trực tuyến và gọi video"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Pin Lithium Polymer 10.000 mAh cực lớn, sạc nhanh có dây 33W qua cổng USB-C"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Wi-Fi 6 (802.11ax) 2x2 MIMO băng tần kép"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Tương thích bút cảm ứng cao cấp Redmi Smart Pen hỗ trợ 4096 mức cảm ứng lực"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Hỗ trợ bàn phím rời Redmi Pad Pro Keyboard qua kết nối Bluetooth"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS (Android 14)"
+    }
+  ],
+  "verbatimDescription": [
+    "Xiaomi Redmi Pad 2 Pro là chiếc máy tính bảng màn hình lớn lý tưởng mở ra không gian học tập và giải trí bao la với mức giá vô cùng hấp dẫn. Màn hình kích thước 12.1 inch độ phân giải 2.5K (2560 x 1600 pixels) cùng tần số quét mượt mà 120Hz mang lại trải nghiệm xem phim điện ảnh chuẩn Dolby Vision và hiển thị tài liệu sắc nét đến từng chi tiết.",
+    "Cung cấp sức mạnh cho máy là bộ vi xử lý 4nm Qualcomm Snapdragon 7s Gen 2 mạnh mẽ, cho phép xử lý trơn tru mọi tác vụ từ học tập trực tuyến, chỉnh sửa văn bản, bảng tính đến chơi các tựa game 3D thịnh hành. Hệ điều hành Xiaomi HyperOS mang lại khả năng kết nối mượt mà với điện thoại Xiaomi, giúp đồng bộ tin nhắn, hình ảnh và clipboard chỉ trong tích tắc.",
+    "Viên pin khổng lồ dung lượng lên đến 10.000 mAh cho thời gian xem video liên tục hơn 12 tiếng hoặc thời gian chờ lên đến cả tháng. Công nghệ sạc nhanh 33W giúp nạp lại năng lượng nhanh chóng, kết hợp dàn 4 loa ngoài Dolby Atmos sống động và khả năng tương thích bút cảm ứng Redmi Smart Pen biến máy thành công cụ học tập toàn năng.",
+    "Trải nghiệm nghe nhìn trên Xiaomi Redmi Pad 2 Pro đạt chuẩn rạp hát tại gia nhờ tấm nền 12,1 inch 2.5K hỗ trợ Dolby Vision kết hợp cùng dàn 4 loa ngoài Stereo chuẩn Dolby Atmos và Hi-Res Audio.",
+    "Thiết bị tương thích hoàn hảo với hệ sinh thái phụ kiện chính hãng gồm bút cảm ứng Redmi Smart Pen (độ trễ siêu thấp, 4.096 mức lực nhấn) và bàn phím Redmi Pad Pro Keyboard hành trình phím 1,3mm êm ái, biến máy thành công cụ ghi chú bài giảng và soạn thảo báo cáo đắc lực.",
+    "Nhờ nền tảng Xiaomi HyperOS, người dùng có thể mở cùng lúc tối đa 4 cửa sổ ứng dụng hoặc phản chiếu trực tiếp màn hình smartphone Xiaomi lên tablet để điều khiển và truyền dữ liệu không dây tức thì."
+  ],
+  "variants": [
+    {
+      "sku": "TB-MI002-RP2PRO-BAC-6GB-128GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 6990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/anh-dai-dien-redmi-pad-2-pro-bac.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-truoc-sau-bac.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-sau-nghieng-phai-bac.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-sau-nghieng-trai-bac.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-truoc-nghieng-phai-bac.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-truoc-nghieng-trai-bac.webp"
+      ]
+    },
+    {
+      "sku": "TB-MI002-RP2PRO-BAC-8GB-128GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 7690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/anh-dai-dien-redmi-pad-2-pro-bac.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-truoc-sau-bac.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-sau-nghieng-phai-bac.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-sau-nghieng-trai-bac.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-truoc-nghieng-phai-bac.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-truoc-nghieng-trai-bac.webp"
+      ]
+    },
+    {
+      "sku": "TB-MI002-RP2PRO-BAC-8GB-256GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 8490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/anh-dai-dien-redmi-pad-2-pro-bac.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-truoc-sau-bac.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-sau-nghieng-phai-bac.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-sau-nghieng-trai-bac.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-truoc-nghieng-phai-bac.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-truoc-nghieng-trai-bac.webp"
+      ]
+    },
+    {
+      "sku": "TB-MI002-RP2PRO-TIM-6GB-128GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 6990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/anh-dai-dien-redmi-pad-2-pro-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-cum-camera-sau-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-cong-sac-type-c-va-loa-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-nut-am-luong-va-camera-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-nut-nguon-va-loa-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-truoc-dat-canh-hop-tim.webp"
+      ]
+    },
+    {
+      "sku": "TB-MI002-RP2PRO-TIM-8GB-128GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 7690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/anh-dai-dien-redmi-pad-2-pro-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-cum-camera-sau-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-cong-sac-type-c-va-loa-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-nut-am-luong-va-camera-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-nut-nguon-va-loa-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-truoc-dat-canh-hop-tim.webp"
+      ]
+    },
+    {
+      "sku": "TB-MI002-RP2PRO-TIM-8GB-256GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 8490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/anh-dai-dien-redmi-pad-2-pro-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-cum-camera-sau-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-cong-sac-type-c-va-loa-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-nut-am-luong-va-camera-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-nut-nguon-va-loa-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-truoc-dat-canh-hop-tim.webp"
+      ]
+    },
+    {
+      "sku": "TB-MI002-RP2PRO-XAM-6GB-128GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 6990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/anh-dai-dien-redmi-pad-2-pro-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-cum-camera-sau-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-cong-sac-type-c-va-loa-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-nut-am-luong-va-camera-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-nut-nguon-va-loa-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-sau-dat-canh-hop-xam.webp"
+      ]
+    },
+    {
+      "sku": "TB-MI002-RP2PRO-XAM-8GB-128GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 7690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/anh-dai-dien-redmi-pad-2-pro-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-cum-camera-sau-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-cong-sac-type-c-va-loa-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-nut-am-luong-va-camera-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-nut-nguon-va-loa-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-sau-dat-canh-hop-xam.webp"
+      ]
+    },
+    {
+      "sku": "TB-MI002-RP2PRO-XAM-8GB-256GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 8490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/anh-dai-dien-redmi-pad-2-pro-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-cum-camera-sau-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-cong-sac-type-c-va-loa-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-nut-am-luong-va-camera-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/can-canh-nut-nguon-va-loa-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-pro/mat-sau-dat-canh-hop-xam.webp"
+      ]
+    }
+  ]
+}

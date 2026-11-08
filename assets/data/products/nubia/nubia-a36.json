@@ -1,0 +1,535 @@
+{
+  "id": "nubia-a36",
+  "brand": "nubia",
+  "brandId": "nubia",
+  "parentGroupId": "nubia",
+  "model": "nubia A36",
+  "series": "nubia A Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "entry-level"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025 – 2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Ra mắt giữa năm 2025, nubia A36 là mẫu smartphone phổ thông giá rẻ nổi bật với màn hình lớn 6,75 inch 90Hz tích hợp Live Island, vi xử lý 8 nhân Unisoc T7200, viên pin 5.000 mAh và hệ điều hành Android 15 mới mẻ. Tại AURIX MOBILE, nubia A36 là lựa chọn kinh tế tuyệt vời cho học sinh, người lớn tuổi hoặc làm máy phụ liên lạc bền bỉ. (Nguồn tham chiếu: ZTE nubia Official - nubia A36).",
+    "highlights": [
+      "6,75 inch 90Hz",
+      "Chip 8 nhân / Android 15",
+      "Pin 5.000 mAh / Live Island"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 2390000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT001-NBA36-XANH-NGOC-4GB-64GB",
+      "color": "Xanh Ngọc",
+      "colorHex": "#48B5A3",
+      "ram": "4GB",
+      "storage": "4GB/64GB",
+      "rom": "64GB",
+      "price": 2390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-a36/anh-dai-dien-nubia-a36-xanh-ngoc.webp",
+        "assets/images/products/nubia/nubia-a36/mat-truoc-mat-sau-nubia-a36-xanh-ngoc.webp",
+        "assets/images/products/nubia/nubia-a36/man-hinh-mat-truoc-nubia-a36-xanh-ngoc.webp",
+        "assets/images/products/nubia/nubia-a36/thiet-ke-mat-lung-nubia-a36-xanh-ngoc.webp",
+        "assets/images/products/nubia/nubia-a36/canh-trai-canh-phai-nubia-a36-xanh-ngoc.webp",
+        "assets/images/products/nubia/nubia-a36/canh-tren-canh-duoi-nubia-a36-xanh-ngoc.webp",
+        "assets/images/products/nubia/nubia-a36/cum-camera-sau-nubia-a36-xanh-ngoc.webp",
+        "assets/images/products/nubia/nubia-a36/hieu-nang-unisoc-t7200-nubia-a36.webp",
+        "assets/images/products/nubia/nubia-a36/nubia-A36.jpg",
+        "assets/images/products/nubia/nubia-a36/thong-so-noi-bat-nubia-a36-den-vang-xanh-ngoc.webp"
+      ]
+    },
+    {
+      "sku": "DT001-NBA36-XANH-NGOC-4GB-128GB",
+      "color": "Xanh Ngọc",
+      "colorHex": "#48B5A3",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 2790000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-a36/anh-dai-dien-nubia-a36-xanh-ngoc.webp",
+        "assets/images/products/nubia/nubia-a36/mat-truoc-mat-sau-nubia-a36-xanh-ngoc.webp",
+        "assets/images/products/nubia/nubia-a36/man-hinh-mat-truoc-nubia-a36-xanh-ngoc.webp",
+        "assets/images/products/nubia/nubia-a36/thiet-ke-mat-lung-nubia-a36-xanh-ngoc.webp",
+        "assets/images/products/nubia/nubia-a36/canh-trai-canh-phai-nubia-a36-xanh-ngoc.webp",
+        "assets/images/products/nubia/nubia-a36/canh-tren-canh-duoi-nubia-a36-xanh-ngoc.webp",
+        "assets/images/products/nubia/nubia-a36/cum-camera-sau-nubia-a36-xanh-ngoc.webp",
+        "assets/images/products/nubia/nubia-a36/hieu-nang-unisoc-t7200-nubia-a36.webp",
+        "assets/images/products/nubia/nubia-a36/nubia-A36.jpg",
+        "assets/images/products/nubia/nubia-a36/thong-so-noi-bat-nubia-a36-den-vang-xanh-ngoc.webp"
+      ]
+    },
+    {
+      "sku": "DT001-NBA36-DEN-4GB-64GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "4GB",
+      "storage": "4GB/64GB",
+      "rom": "64GB",
+      "price": 2390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-a36/mat-truoc-mat-sau-nubia-a36-den.webp",
+        "assets/images/products/nubia/nubia-a36/canh-duoi-cong-sac-nubia-a36-den.webp",
+        "assets/images/products/nubia/nubia-a36/canh-trai-canh-phai-nubia-a36-den.webp",
+        "assets/images/products/nubia/nubia-a36/canh-tren-canh-duoi-nubia-a36-den.webp",
+        "assets/images/products/nubia/nubia-a36/goc-nghieng-phim-nguon-nubia-a36-den.webp",
+        "assets/images/products/nubia/nubia-a36/cum-camera-sau-nubia-a36-den.webp",
+        "assets/images/products/nubia/nubia-a36/man-hinh-90hz-nubia-a36-den.webp",
+        "assets/images/products/nubia/nubia-a36/nubia-a36-den-4-639047840458706931 (1).webp",
+        "assets/images/products/nubia/nubia-a36/tren-tay-man-hinh-nubia-a36-den.webp",
+        "assets/images/products/nubia/nubia-a36/hieu-nang-unisoc-t7200-nubia-a36.webp",
+        "assets/images/products/nubia/nubia-a36/nubia-A36.jpg",
+        "assets/images/products/nubia/nubia-a36/thong-so-noi-bat-nubia-a36-den-vang-xanh-ngoc.webp"
+      ]
+    },
+    {
+      "sku": "DT001-NBA36-DEN-4GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 2790000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-a36/mat-truoc-mat-sau-nubia-a36-den.webp",
+        "assets/images/products/nubia/nubia-a36/canh-duoi-cong-sac-nubia-a36-den.webp",
+        "assets/images/products/nubia/nubia-a36/canh-trai-canh-phai-nubia-a36-den.webp",
+        "assets/images/products/nubia/nubia-a36/canh-tren-canh-duoi-nubia-a36-den.webp",
+        "assets/images/products/nubia/nubia-a36/goc-nghieng-phim-nguon-nubia-a36-den.webp",
+        "assets/images/products/nubia/nubia-a36/cum-camera-sau-nubia-a36-den.webp",
+        "assets/images/products/nubia/nubia-a36/man-hinh-90hz-nubia-a36-den.webp",
+        "assets/images/products/nubia/nubia-a36/nubia-a36-den-4-639047840458706931 (1).webp",
+        "assets/images/products/nubia/nubia-a36/tren-tay-man-hinh-nubia-a36-den.webp",
+        "assets/images/products/nubia/nubia-a36/hieu-nang-unisoc-t7200-nubia-a36.webp",
+        "assets/images/products/nubia/nubia-a36/nubia-A36.jpg",
+        "assets/images/products/nubia/nubia-a36/thong-so-noi-bat-nubia-a36-den-vang-xanh-ngoc.webp"
+      ]
+    },
+    {
+      "sku": "DT001-NBA36-VANG-4GB-64GB",
+      "color": "Vàng",
+      "colorHex": "#EAB308",
+      "ram": "4GB",
+      "storage": "4GB/64GB",
+      "rom": "64GB",
+      "price": 2390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-a36/mat-truoc-mat-sau-nubia-a36-vang.webp",
+        "assets/images/products/nubia/nubia-a36/man-hinh-mat-truoc-nubia-a36-vang.webp",
+        "assets/images/products/nubia/nubia-a36/thiet-ke-mat-lung-nubia-a36-vang.webp",
+        "assets/images/products/nubia/nubia-a36/canh-trai-canh-phai-nubia-a36-vang.webp",
+        "assets/images/products/nubia/nubia-a36/canh-tren-canh-duoi-nubia-a36-vang.webp",
+        "assets/images/products/nubia/nubia-a36/cum-camera-sau-nubia-a36-vang.webp",
+        "assets/images/products/nubia/nubia-a36/tren-tay-man-hinh-nubia-a36-vang.webp",
+        "assets/images/products/nubia/nubia-a36/hieu-nang-unisoc-t7200-nubia-a36.webp",
+        "assets/images/products/nubia/nubia-a36/nubia-A36.jpg",
+        "assets/images/products/nubia/nubia-a36/thong-so-noi-bat-nubia-a36-den-vang-xanh-ngoc.webp"
+      ]
+    },
+    {
+      "sku": "DT001-NBA36-VANG-4GB-128GB",
+      "color": "Vàng",
+      "colorHex": "#EAB308",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 2790000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-a36/mat-truoc-mat-sau-nubia-a36-vang.webp",
+        "assets/images/products/nubia/nubia-a36/man-hinh-mat-truoc-nubia-a36-vang.webp",
+        "assets/images/products/nubia/nubia-a36/thiet-ke-mat-lung-nubia-a36-vang.webp",
+        "assets/images/products/nubia/nubia-a36/canh-trai-canh-phai-nubia-a36-vang.webp",
+        "assets/images/products/nubia/nubia-a36/canh-tren-canh-duoi-nubia-a36-vang.webp",
+        "assets/images/products/nubia/nubia-a36/cum-camera-sau-nubia-a36-vang.webp",
+        "assets/images/products/nubia/nubia-a36/tren-tay-man-hinh-nubia-a36-vang.webp",
+        "assets/images/products/nubia/nubia-a36/hieu-nang-unisoc-t7200-nubia-a36.webp",
+        "assets/images/products/nubia/nubia-a36/nubia-A36.jpg",
+        "assets/images/products/nubia/nubia-a36/thong-so-noi-bat-nubia-a36-den-vang-xanh-ngoc.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "IPS LCD 90Hz, độ sáng 500 nit",
+    "size": "6,75 inch",
+    "resolution": "1600 x 720 pixel (HD+, 260 ppi)",
+    "refreshRate": "90Hz",
+    "brightness": "Tần số quét 90Hz mượt mà, tính năng hiển thị thông báo động Live Island",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Unisoc T7200 / T606 8 nhân (12nm)",
+    "cpu": "CPU 8 nhân: 2 nhân Cortex-A75 (1,6 GHz) + 6 nhân Cortex-A55 (1,6 GHz)",
+    "gpu": "ARM Mali-G57 MP1",
+    "ram": [
+      "4GB"
+    ],
+    "storage": [
+      "64GB",
+      "128GB"
+    ],
+    "operatingSystem": "Android 15 (Giao diện MyOS)",
+    "uiVersion": "Android",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "13MP / 50MP AI Camera kèm đèn flash LED",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "Quay video Full HD 1080p ở 30fps, HD 720p ở 30fps"
+    ],
+    "aiFeatures": [
+      "Chụp đêm AI, Chân dung xóa phông, HDR, Panorama, Nhận diện nụ cười"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "5MP Selfie, quay video HD",
+    "features": [
+      "Camera Selfie 5MP hỗ trợ làm đẹp chân dung AI và mở khóa bằng khuôn mặt"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "5.000 mAh",
+    "wiredCharging": "Sạc 10W qua cổng USB Type-C",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc có dây 10W qua cổng USB Type-C kèm chế độ tiết kiệm pin thông minh"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM vật lý + 1 khe thẻ nhớ MicroSD"
+    ],
+    "network": [
+      "4G LTE"
+    ],
+    "wifi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép (2.4GHz & 5GHz)",
+    "bluetooth": "Bluetooth 5.2 hỗ trợ A2DP, LE",
+    "gps": [
+      "GPS, GLONASS, GALILEO"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": false
+  },
+  "design": {
+    "dimensions": "167,6 x 77,4 x 8,3 mm",
+    "weight": "193 gram",
+    "materials": [
+      "Khung polycarbonate vát phẳng trẻ trung",
+      "Mặt lưng hoàn thiện hiệu ứng ánh kim chống bám vân tay"
+    ],
+    "waterResistance": "IP54 kháng bụi và nước bắn",
+    "availableColors": [
+      "Xanh Ngọc",
+      "Đen",
+      "Vàng"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa ngoài âm lượng lớn, tích hợp giắc cắm tai nghe 3.5mm",
+    "headphoneJack": true,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "LCD 6.75 inch"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền nubia tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/nubia/nubia-a36/anh-dai-dien-nubia-a36-xanh-ngoc.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/nubia/nubia-a36/anh-dai-dien-nubia-a36-xanh-ngoc.webp",
+      "assets/images/products/nubia/nubia-a36/mat-truoc-mat-sau-nubia-a36-den.webp",
+      "assets/images/products/nubia/nubia-a36/mat-truoc-mat-sau-nubia-a36-vang.webp",
+      "assets/images/products/nubia/nubia-a36/mat-truoc-mat-sau-nubia-a36-xanh-ngoc.webp",
+      "assets/images/products/nubia/nubia-a36/man-hinh-mat-truoc-nubia-a36-vang.webp",
+      "assets/images/products/nubia/nubia-a36/man-hinh-mat-truoc-nubia-a36-xanh-ngoc.webp",
+      "assets/images/products/nubia/nubia-a36/thiet-ke-mat-lung-nubia-a36-vang.webp",
+      "assets/images/products/nubia/nubia-a36/thiet-ke-mat-lung-nubia-a36-xanh-ngoc.webp",
+      "assets/images/products/nubia/nubia-a36/canh-duoi-cong-sac-nubia-a36-den.webp",
+      "assets/images/products/nubia/nubia-a36/canh-trai-canh-phai-nubia-a36-den.webp",
+      "assets/images/products/nubia/nubia-a36/canh-trai-canh-phai-nubia-a36-vang.webp",
+      "assets/images/products/nubia/nubia-a36/canh-trai-canh-phai-nubia-a36-xanh-ngoc.webp",
+      "assets/images/products/nubia/nubia-a36/canh-tren-canh-duoi-nubia-a36-den.webp",
+      "assets/images/products/nubia/nubia-a36/canh-tren-canh-duoi-nubia-a36-vang.webp",
+      "assets/images/products/nubia/nubia-a36/canh-tren-canh-duoi-nubia-a36-xanh-ngoc.webp",
+      "assets/images/products/nubia/nubia-a36/goc-nghieng-phim-nguon-nubia-a36-den.webp",
+      "assets/images/products/nubia/nubia-a36/cum-camera-sau-nubia-a36-den.webp",
+      "assets/images/products/nubia/nubia-a36/cum-camera-sau-nubia-a36-vang.webp",
+      "assets/images/products/nubia/nubia-a36/cum-camera-sau-nubia-a36-xanh-ngoc.webp",
+      "assets/images/products/nubia/nubia-a36/hieu-nang-unisoc-t7200-nubia-a36.webp",
+      "assets/images/products/nubia/nubia-a36/man-hinh-90hz-nubia-a36-den.webp",
+      "assets/images/products/nubia/nubia-a36/nubia-A36.jpg",
+      "assets/images/products/nubia/nubia-a36/nubia-a36-den-4-639047840458706931 (1).webp",
+      "assets/images/products/nubia/nubia-a36/tren-tay-man-hinh-nubia-a36-den.webp",
+      "assets/images/products/nubia/nubia-a36/tren-tay-man-hinh-nubia-a36-vang.webp",
+      "assets/images/products/nubia/nubia-a36/thong-so-noi-bat-nubia-a36-den-vang-xanh-ngoc.webp"
+    ],
+    "byColor": {
+      "Xanh Ngọc": [
+        "assets/images/products/nubia/nubia-a36/anh-dai-dien-nubia-a36-xanh-ngoc.webp",
+        "assets/images/products/nubia/nubia-a36/mat-truoc-mat-sau-nubia-a36-xanh-ngoc.webp",
+        "assets/images/products/nubia/nubia-a36/man-hinh-mat-truoc-nubia-a36-xanh-ngoc.webp",
+        "assets/images/products/nubia/nubia-a36/thiet-ke-mat-lung-nubia-a36-xanh-ngoc.webp",
+        "assets/images/products/nubia/nubia-a36/canh-trai-canh-phai-nubia-a36-xanh-ngoc.webp",
+        "assets/images/products/nubia/nubia-a36/canh-tren-canh-duoi-nubia-a36-xanh-ngoc.webp",
+        "assets/images/products/nubia/nubia-a36/cum-camera-sau-nubia-a36-xanh-ngoc.webp",
+        "assets/images/products/nubia/nubia-a36/hieu-nang-unisoc-t7200-nubia-a36.webp",
+        "assets/images/products/nubia/nubia-a36/nubia-A36.jpg",
+        "assets/images/products/nubia/nubia-a36/thong-so-noi-bat-nubia-a36-den-vang-xanh-ngoc.webp"
+      ],
+      "Đen": [
+        "assets/images/products/nubia/nubia-a36/mat-truoc-mat-sau-nubia-a36-den.webp",
+        "assets/images/products/nubia/nubia-a36/canh-duoi-cong-sac-nubia-a36-den.webp",
+        "assets/images/products/nubia/nubia-a36/canh-trai-canh-phai-nubia-a36-den.webp",
+        "assets/images/products/nubia/nubia-a36/canh-tren-canh-duoi-nubia-a36-den.webp",
+        "assets/images/products/nubia/nubia-a36/goc-nghieng-phim-nguon-nubia-a36-den.webp",
+        "assets/images/products/nubia/nubia-a36/cum-camera-sau-nubia-a36-den.webp",
+        "assets/images/products/nubia/nubia-a36/man-hinh-90hz-nubia-a36-den.webp",
+        "assets/images/products/nubia/nubia-a36/nubia-a36-den-4-639047840458706931 (1).webp",
+        "assets/images/products/nubia/nubia-a36/tren-tay-man-hinh-nubia-a36-den.webp",
+        "assets/images/products/nubia/nubia-a36/hieu-nang-unisoc-t7200-nubia-a36.webp",
+        "assets/images/products/nubia/nubia-a36/nubia-A36.jpg",
+        "assets/images/products/nubia/nubia-a36/thong-so-noi-bat-nubia-a36-den-vang-xanh-ngoc.webp"
+      ],
+      "Vàng": [
+        "assets/images/products/nubia/nubia-a36/mat-truoc-mat-sau-nubia-a36-vang.webp",
+        "assets/images/products/nubia/nubia-a36/man-hinh-mat-truoc-nubia-a36-vang.webp",
+        "assets/images/products/nubia/nubia-a36/thiet-ke-mat-lung-nubia-a36-vang.webp",
+        "assets/images/products/nubia/nubia-a36/canh-trai-canh-phai-nubia-a36-vang.webp",
+        "assets/images/products/nubia/nubia-a36/canh-tren-canh-duoi-nubia-a36-vang.webp",
+        "assets/images/products/nubia/nubia-a36/cum-camera-sau-nubia-a36-vang.webp",
+        "assets/images/products/nubia/nubia-a36/tren-tay-man-hinh-nubia-a36-vang.webp",
+        "assets/images/products/nubia/nubia-a36/hieu-nang-unisoc-t7200-nubia-a36.webp",
+        "assets/images/products/nubia/nubia-a36/nubia-A36.jpg",
+        "assets/images/products/nubia/nubia-a36/thong-so-noi-bat-nubia-a36-den-vang-xanh-ngoc.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/nubia/nubia-a36/mat-truoc-mat-sau-nubia-a36-den.webp",
+      "screen": "assets/images/products/nubia/nubia-a36/mat-truoc-mat-sau-nubia-a36-vang.webp",
+      "performance": "assets/images/products/nubia/nubia-a36/hieu-nang-unisoc-t7200-nubia-a36.webp",
+      "camera": "assets/images/products/nubia/nubia-a36/cum-camera-sau-nubia-a36-den.webp",
+      "battery": "assets/images/products/nubia/nubia-a36/canh-duoi-cong-sac-nubia-a36-den.webp",
+      "feature": "assets/images/products/nubia/nubia-a36/canh-trai-canh-phai-nubia-a36-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/nubia/nubia-a36/mat-truoc-mat-sau-nubia-a36-den.webp",
+      "assets/images/products/nubia/nubia-a36/mat-truoc-mat-sau-nubia-a36-vang.webp",
+      "assets/images/products/nubia/nubia-a36/mat-truoc-mat-sau-nubia-a36-xanh-ngoc.webp",
+      "assets/images/products/nubia/nubia-a36/man-hinh-mat-truoc-nubia-a36-vang.webp",
+      "assets/images/products/nubia/nubia-a36/man-hinh-mat-truoc-nubia-a36-xanh-ngoc.webp",
+      "assets/images/products/nubia/nubia-a36/thiet-ke-mat-lung-nubia-a36-vang.webp",
+      "assets/images/products/nubia/nubia-a36/thiet-ke-mat-lung-nubia-a36-xanh-ngoc.webp",
+      "assets/images/products/nubia/nubia-a36/canh-duoi-cong-sac-nubia-a36-den.webp",
+      "assets/images/products/nubia/nubia-a36/canh-trai-canh-phai-nubia-a36-den.webp",
+      "assets/images/products/nubia/nubia-a36/canh-trai-canh-phai-nubia-a36-vang.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-nubia",
+      "https://www.nubia.com/vn/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "partial_retail_listing",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT001-NBA36",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "IPS LCD 90Hz, độ sáng 500 nit",
+      "Kích thước màn hình": "6,75 inch",
+      "Độ phân giải màn hình": "1600 x 720 pixel (HD+, 260 ppi)",
+      "Tần số quét": "90Hz",
+      "Kiểu màn hình": "Màn hình phẳng thiết kế giọt nước / đục lỗ hiện đại tích hợp Live Island",
+      "Tính năng màn hình": "Tần số quét 90Hz mượt mà, tính năng hiển thị thông báo động Live Island"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera AI: Camera chính 13MP (khẩu độ ƒ/2.2, tự động lấy nét AF) kết hợp cảm biến phụ AI hỗ trợ chụp chân dung và nhận diện bối cảnh thông minh",
+      "Quay video": "Quay video Full HD 1080p ở 30fps, HD 720p ở 30fps",
+      "Tính năng camera": "Chụp đêm AI, Chân dung xóa phông, HDR, Panorama, Nhận diện nụ cười"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera Selfie 5MP hỗ trợ làm đẹp chân dung AI và mở khóa bằng khuôn mặt"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Unisoc T7200 / T606 8 nhân (12nm)",
+      "Loại CPU": "CPU 8 nhân: 2 nhân Cortex-A75 (1,6 GHz) + 6 nhân Cortex-A55 (1,6 GHz)",
+      "GPU": "ARM Mali-G57 MP1"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "4GB (+8GB Dynamic RAM mở rộng lên 12GB)",
+      "Bộ nhớ trong": "2 phiên bản: 64GB và 128GB (Hỗ trợ thẻ nhớ MicroSD 1TB)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.000 mAh (Pin Li-Po bền bỉ đáp ứng gần 2 ngày sử dụng cơ bản)",
+      "Công nghệ sạc": "Sạc có dây 10W qua cổng USB Type-C kèm chế độ tiết kiệm pin thông minh",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 15 (Giao diện MyOS)",
+      "Công nghệ - Tiện ích": "Tính năng Live Island hiển thị trạng thái trực quan, mở rộng RAM động Dynamic RAM",
+      "Tiện ích khác": "Giữ lại giắc cắm tai nghe 3.5mm truyền thống, khay SIM kép kèm khe thẻ nhớ MicroSD",
+      "Thời điểm ra mắt": "Tháng 06/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "4G LTE",
+      "Thẻ SIM": "2 Nano-SIM vật lý + 1 khe thẻ nhớ MicroSD",
+      "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép (2.4GHz & 5GHz)",
+      "Bluetooth": "Bluetooth 5.2 hỗ trợ A2DP, LE",
+      "Công nghệ NFC": "Không hỗ trợ NFC",
+      "GPS": "GPS, GLONASS, GALILEO"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung polycarbonate vát phẳng trẻ trung",
+      "Chất liệu mặt lưng": "Mặt lưng hoàn thiện hiệu ứng ánh kim chống bám vân tay",
+      "Kích thước": "167,6 x 77,4 x 8,3 mm",
+      "Trọng lượng": "193 gram",
+      "Chỉ số kháng nước, bụi": "Thiết kế kháng bụi và tia nước bắn sinh hoạt chuẩn IP54"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài âm lượng lớn, tích hợp giắc cắm tai nghe 3.5mm",
+      "Cảm biến vân tay": "Cảm biến vân tay tích hợp phím nguồn cạnh bên + Mở khóa khuôn mặt",
+      "Các loại cảm biến": "Gia tốc kế, Cảm biến tiệm cận, Cảm biến ánh sáng"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,75 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "IPS LCD 90Hz, độ sáng 500 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "1600 x 720 pixel (HD+, 260 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "90Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Unisoc T7200 / T606 8 nhân (12nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "4GB (+8GB Dynamic RAM mở rộng lên 12GB)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "2 phiên bản: 64GB và 128GB (Hỗ trợ thẻ nhớ MicroSD 1TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "13MP / 50MP AI Camera kèm đèn flash LED"
+    },
+    {
+      "label": "Camera trước",
+      "value": "5MP Selfie, quay video HD"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc 10W qua cổng USB Type-C"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 15 (Giao diện MyOS)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "4G LTE"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP54 kháng bụi và nước bắn"
+    }
+  ],
+  "verbatimDescription": [
+    "Ra mắt giữa năm 2025, nubia A36 là mẫu smartphone phổ thông giá rẻ nổi bật với màn hình lớn 6,75 inch 90Hz tích hợp Live Island, vi xử lý 8 nhân Unisoc T7200, viên pin 5.000 mAh và hệ điều hành Android 15 mới mẻ. Tại AURIX MOBILE, nubia A36 là lựa chọn kinh tế tuyệt vời cho học sinh, người lớn tuổi hoặc làm máy phụ liên lạc bền bỉ.",
+    "nubia A36 sở hữu ngoại hình vuông vức hiện đại với mặt lưng chuyển sắc bắt mắt, kích thước cân đối và tích hợp cảm biến vân tay một chạm ngay trên phím nguồn cạnh bên.",
+    "Màn hình IPS LCD 6,75 inch (1600 x 720 pixel) hỗ trợ tần số quét 90Hz giúp thao tác cuộn lướt mượt mà hơn hẳn màn hình 60Hz truyền thống, đồng thời tích hợp thanh thông báo động Live Island tiện lợi.",
+    "Hệ thống camera AI phía sau cùng camera selfie 5MP phía trước đáp ứng tốt nhu cầu chụp ảnh kỷ niệm, quét mã QR, học trực tuyến và gọi video Zalo/Messenger rõ nét.",
+    "Vi xử lý 8 nhân Unisoc T7200 kết hợp 4GB RAM vật lý (hỗ trợ mở rộng thêm 8GB RAM ảo) và bộ nhớ 64GB/128GB trên nền tảng Android 15 giúp máy vận hành ổn định các ứng dụng hàng ngày.",
+    "Viên pin 5.000 mAh đi kèm cổng sạc USB Type-C và giắc tai nghe 3.5mm đảm bảo thời gian sử dụng liên tục lên tới gần 2 ngày."
+  ],
+  "priceSegment": "entry-level"
+}

@@ -1,0 +1,473 @@
+{
+  "id": "iphone-16e",
+  "brand": "Apple",
+  "brandId": "apple",
+  "parentGroupId": "apple",
+  "model": "iPhone 16e",
+  "series": "iPhone 16 Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "upper-midrange"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 19,
+  "badges": [
+    {
+      "text": "Sắp về",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "19/02/2025",
+    "segment": "Cận cao cấp",
+    "description": "Ra mắt vào tháng 2/2025, iPhone 16e là thành viên mở đầu cho dòng sản phẩm hậu tố 'e' hoàn toàn mới của Apple (thay thế dòng iPhone SE trước đây). Trong danh mục của AURIX MOBILE, iPhone 16e định vị là mẫu iPhone hỗ trợ Apple Intelligence có mức giá dễ tiếp cận nhất, hướng tới khách hàng cần một chiếc máy nhỏ gọn 6,1 inch nhưng có hiệu năng chip A18 mạnh mẽ và thời lượng pin 26 giờ bền bỉ vượt trội. (Nguồn tham chiếu chính thức: Apple Tech Specs - iPhone 16e).",
+    "highlights": [
+      "6,1 inch",
+      "A18",
+      "Pin 4.005 mAh"
+    ],
+    "officialDistribution": "Nguồn tra cứu hiển thị trạng thái Hàng sắp về / Đặt trước tại thời điểm 01/11/2026; không xếp vào hàng có sẵn (in_stock=false)."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 14290000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT007-IP16E-TRANG-128GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "8GB",
+      "storage": "128GB",
+      "rom": "128GB",
+      "price": 14290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-16e/anh-dai-dien-iphone-16e-trang.webp",
+        "assets/images/products/apple/iphone-16e/mat-truoc-man-hinh-trang.webp",
+        "assets/images/products/apple/iphone-16e/canh-ben-nut-tac-vu-trang.webp",
+        "assets/images/products/apple/iphone-16e/can-canh-camera-sau-48mp-trang.webp",
+        "assets/images/products/apple/iphone-16e/man-hinh-super-retina-xdr-6-1-inch-trang.webp",
+        "assets/images/products/apple/iphone-16e/phu-kien-trong-hop-trang.webp",
+        "assets/images/products/apple/iphone-16e/iPhone-16e.jpg",
+        "assets/images/products/apple/iphone-16e/phu-kien-op-lung-nhieu-mau-sac.webp",
+        "assets/images/products/apple/iphone-16e/hai-tuy-chon-mau-sac-den-va-trang.webp",
+        "assets/images/products/apple/iphone-16e/tong-quan-tinh-nang-chip-a18-pin-26-gio.webp"
+      ]
+    },
+    {
+      "sku": "DT007-IP16E-TRANG-256GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "8GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 16190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-16e/anh-dai-dien-iphone-16e-trang.webp",
+        "assets/images/products/apple/iphone-16e/mat-truoc-man-hinh-trang.webp",
+        "assets/images/products/apple/iphone-16e/canh-ben-nut-tac-vu-trang.webp",
+        "assets/images/products/apple/iphone-16e/can-canh-camera-sau-48mp-trang.webp",
+        "assets/images/products/apple/iphone-16e/man-hinh-super-retina-xdr-6-1-inch-trang.webp",
+        "assets/images/products/apple/iphone-16e/phu-kien-trong-hop-trang.webp",
+        "assets/images/products/apple/iphone-16e/iPhone-16e.jpg",
+        "assets/images/products/apple/iphone-16e/phu-kien-op-lung-nhieu-mau-sac.webp",
+        "assets/images/products/apple/iphone-16e/hai-tuy-chon-mau-sac-den-va-trang.webp",
+        "assets/images/products/apple/iphone-16e/tong-quan-tinh-nang-chip-a18-pin-26-gio.webp"
+      ]
+    },
+    {
+      "sku": "DT007-IP16E-TRANG-512GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "8GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 19990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-16e/anh-dai-dien-iphone-16e-trang.webp",
+        "assets/images/products/apple/iphone-16e/mat-truoc-man-hinh-trang.webp",
+        "assets/images/products/apple/iphone-16e/canh-ben-nut-tac-vu-trang.webp",
+        "assets/images/products/apple/iphone-16e/can-canh-camera-sau-48mp-trang.webp",
+        "assets/images/products/apple/iphone-16e/man-hinh-super-retina-xdr-6-1-inch-trang.webp",
+        "assets/images/products/apple/iphone-16e/phu-kien-trong-hop-trang.webp",
+        "assets/images/products/apple/iphone-16e/iPhone-16e.jpg",
+        "assets/images/products/apple/iphone-16e/phu-kien-op-lung-nhieu-mau-sac.webp",
+        "assets/images/products/apple/iphone-16e/hai-tuy-chon-mau-sac-den-va-trang.webp",
+        "assets/images/products/apple/iphone-16e/tong-quan-tinh-nang-chip-a18-pin-26-gio.webp"
+      ]
+    },
+    {
+      "sku": "DT007-IP16E-DEN-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "128GB",
+      "rom": "128GB",
+      "price": 14290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-16e/anh-dai-dien-iphone-16e-den.webp",
+        "assets/images/products/apple/iphone-16e/iPhone-16e.jpg",
+        "assets/images/products/apple/iphone-16e/phu-kien-op-lung-nhieu-mau-sac.webp",
+        "assets/images/products/apple/iphone-16e/hai-tuy-chon-mau-sac-den-va-trang.webp",
+        "assets/images/products/apple/iphone-16e/tong-quan-tinh-nang-chip-a18-pin-26-gio.webp"
+      ]
+    },
+    {
+      "sku": "DT007-IP16E-DEN-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 16190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-16e/anh-dai-dien-iphone-16e-den.webp",
+        "assets/images/products/apple/iphone-16e/iPhone-16e.jpg",
+        "assets/images/products/apple/iphone-16e/phu-kien-op-lung-nhieu-mau-sac.webp",
+        "assets/images/products/apple/iphone-16e/hai-tuy-chon-mau-sac-den-va-trang.webp",
+        "assets/images/products/apple/iphone-16e/tong-quan-tinh-nang-chip-a18-pin-26-gio.webp"
+      ]
+    },
+    {
+      "sku": "DT007-IP16E-DEN-512GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 19990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-16e/anh-dai-dien-iphone-16e-den.webp",
+        "assets/images/products/apple/iphone-16e/iPhone-16e.jpg",
+        "assets/images/products/apple/iphone-16e/phu-kien-op-lung-nhieu-mau-sac.webp",
+        "assets/images/products/apple/iphone-16e/hai-tuy-chon-mau-sac-den-va-trang.webp",
+        "assets/images/products/apple/iphone-16e/tong-quan-tinh-nang-chip-a18-pin-26-gio.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": null,
+    "size": null,
+    "resolution": null,
+    "refreshRate": null,
+    "brightness": null,
+    "hdr": null,
+    "protection": "Ceramic Shield",
+    "features": []
+  },
+  "performance": {
+    "chipset": "Apple A18 (tiến trình 3nm thế hệ thứ 2 TSMC N3E – phiên bản giới hạn 4 nhân GPU)",
+    "cpu": null,
+    "gpu": null,
+    "ram": [
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB",
+      "512GB"
+    ],
+    "operatingSystem": "iOS 18 (cài sẵn iOS 18.3.1 khi mở bán tháng 02/2025)",
+    "uiVersion": "iOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": null,
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": null,
+    "videoRecording": [],
+    "aiFeatures": []
+  },
+  "frontCamera": {
+    "resolution": null,
+    "features": [],
+    "videoRecording": []
+  },
+  "battery": {
+    "capacity": null,
+    "wiredCharging": null,
+    "wirelessCharging": null,
+    "reverseCharging": null,
+    "chargingTechnology": null
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM / eSIM"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi băng tần kép",
+    "bluetooth": "Bluetooth 5.3+",
+    "gps": [
+      "GPS",
+      "GLONASS",
+      "Galileo",
+      "BDS"
+    ],
+    "usb": "USB Type-C",
+    "nfc": null
+  },
+  "design": {
+    "dimensions": null,
+    "weight": null,
+    "materials": [],
+    "waterResistance": null,
+    "availableColors": [
+      "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo",
+    "headphoneJack": null,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Face ID 3D"
+  ],
+  "specialFeatures": [
+    "iPhone 16 Series",
+    "Apple",
+    "Chính hãng VN/A"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Apple tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/apple/iphone-16e/anh-dai-dien-iphone-16e-trang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/apple/iphone-16e/anh-dai-dien-iphone-16e-trang.webp",
+      "assets/images/products/apple/iphone-16e/anh-dai-dien-iphone-16e-den.webp",
+      "assets/images/products/apple/iphone-16e/mat-truoc-man-hinh-trang.webp",
+      "assets/images/products/apple/iphone-16e/canh-ben-nut-tac-vu-trang.webp",
+      "assets/images/products/apple/iphone-16e/can-canh-camera-sau-48mp-trang.webp",
+      "assets/images/products/apple/iphone-16e/iPhone-16e.jpg",
+      "assets/images/products/apple/iphone-16e/man-hinh-super-retina-xdr-6-1-inch-trang.webp",
+      "assets/images/products/apple/iphone-16e/phu-kien-op-lung-nhieu-mau-sac.webp",
+      "assets/images/products/apple/iphone-16e/phu-kien-trong-hop-trang.webp",
+      "assets/images/products/apple/iphone-16e/hai-tuy-chon-mau-sac-den-va-trang.webp",
+      "assets/images/products/apple/iphone-16e/tong-quan-tinh-nang-chip-a18-pin-26-gio.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/apple/iphone-16e/anh-dai-dien-iphone-16e-den.webp",
+        "assets/images/products/apple/iphone-16e/iPhone-16e.jpg",
+        "assets/images/products/apple/iphone-16e/phu-kien-op-lung-nhieu-mau-sac.webp",
+        "assets/images/products/apple/iphone-16e/hai-tuy-chon-mau-sac-den-va-trang.webp",
+        "assets/images/products/apple/iphone-16e/tong-quan-tinh-nang-chip-a18-pin-26-gio.webp"
+      ],
+      "Trắng": [
+        "assets/images/products/apple/iphone-16e/anh-dai-dien-iphone-16e-trang.webp",
+        "assets/images/products/apple/iphone-16e/mat-truoc-man-hinh-trang.webp",
+        "assets/images/products/apple/iphone-16e/canh-ben-nut-tac-vu-trang.webp",
+        "assets/images/products/apple/iphone-16e/can-canh-camera-sau-48mp-trang.webp",
+        "assets/images/products/apple/iphone-16e/man-hinh-super-retina-xdr-6-1-inch-trang.webp",
+        "assets/images/products/apple/iphone-16e/phu-kien-trong-hop-trang.webp",
+        "assets/images/products/apple/iphone-16e/iPhone-16e.jpg",
+        "assets/images/products/apple/iphone-16e/phu-kien-op-lung-nhieu-mau-sac.webp",
+        "assets/images/products/apple/iphone-16e/hai-tuy-chon-mau-sac-den-va-trang.webp",
+        "assets/images/products/apple/iphone-16e/tong-quan-tinh-nang-chip-a18-pin-26-gio.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/apple/iphone-16e/canh-ben-nut-tac-vu-trang.webp",
+      "screen": "assets/images/products/apple/iphone-16e/mat-truoc-man-hinh-trang.webp",
+      "performance": "assets/images/products/apple/iphone-16e/tong-quan-tinh-nang-chip-a18-pin-26-gio.webp",
+      "camera": "assets/images/products/apple/iphone-16e/can-canh-camera-sau-48mp-trang.webp",
+      "battery": "assets/images/products/apple/iphone-16e/phu-kien-op-lung-nhieu-mau-sac.webp",
+      "feature": "assets/images/products/apple/iphone-16e/anh-dai-dien-iphone-16e-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/apple/iphone-16e/anh-dai-dien-iphone-16e-den.webp",
+      "assets/images/products/apple/iphone-16e/mat-truoc-man-hinh-trang.webp",
+      "assets/images/products/apple/iphone-16e/canh-ben-nut-tac-vu-trang.webp",
+      "assets/images/products/apple/iphone-16e/can-canh-camera-sau-48mp-trang.webp",
+      "assets/images/products/apple/iphone-16e/iPhone-16e.jpg",
+      "assets/images/products/apple/iphone-16e/man-hinh-super-retina-xdr-6-1-inch-trang.webp",
+      "assets/images/products/apple/iphone-16e/phu-kien-op-lung-nhieu-mau-sac.webp",
+      "assets/images/products/apple/iphone-16e/phu-kien-trong-hop-trang.webp",
+      "assets/images/products/apple/iphone-16e/hai-tuy-chon-mau-sac-den-va-trang.webp",
+      "assets/images/products/apple/iphone-16e/tong-quan-tinh-nang-chip-a18-pin-26-gio.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-apple-iphone",
+      "https://www.thegioididong.com/dtdd-apple-iphone-18-series",
+      "https://www.apple.com/vn/iphone/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "preorder",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Hàng sắp về / chưa phải hàng có sẵn",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT007-IP16E",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "Super Retina XDR OLED",
+      "Kích thước màn hình": "6,1 inch",
+      "Độ phân giải màn hình": "2532 x 1170 pixel (tỷ lệ 19,5:9)",
+      "Tần số quét": "60Hz",
+      "Kiểu màn hình": "Màn hình phẳng thiết kế tai thỏ (Notch)",
+      "Tính năng màn hình": "Dolby Vision, HDR10+/HDR10, HLG, độ sáng 800 nit (tiêu chuẩn) / 1.200 nit (HDR), True Tone, dải màu P3, Haptic Touch"
+    },
+    "Camera sau": {
+      "Camera sau": "Camera 2-trong-1 48MP Fusion (26mm, ƒ/1.6, chống rung OIS, Hybrid Focus Pixels), tích hợp Telephoto 2x 12MP chất lượng quang học",
+      "Quay video": "4K Dolby Vision 24/25/30/60fps; 1080p Dolby Vision 25/30/60fps; Slo-mo 1080p 120/240fps; Time-lapse chống rung; thu âm Spatial Audio và Hòa Âm (Audio Mix)",
+      "Tính năng camera": "Chân dung Depth Control, Portrait Lighting, Night mode, Smart HDR 5, Panorama 63MP, Photographic Styles; Zoom quang học 1x, 2x và zoom số 10x (ảnh), 6x (video)"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera TrueDepth 12MP (ƒ/1.9, 23mm, SL 3D); quay 4K Dolby Vision 24/25/30/60fps, Slo-mo 1080p 120fps, Spatial Audio, Hòa Âm, FaceTime HD 1080p"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Apple A18 (3nm)",
+      "Loại CPU": "CPU 6 lõi: 2 lõi hiệu năng cao (4,04 GHz) + 4 lõi tiết kiệm điện (2,20 GHz)",
+      "GPU": "Apple GPU 4 lõi hỗ trợ dò tia phần cứng (Ray Tracing)"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB LPDDR5X",
+      "Bộ nhớ trong": "3 phiên bản: 128GB, 256GB và 512GB chuẩn NVMe"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "4.005 mAh (Li-Ion) – Xem video lên đến 26 giờ, xem trực tuyến 21 giờ, nghe nhạc 90 giờ",
+      "Công nghệ sạc": "Sạc nhanh USB-C 20W (50% pin trong 30 phút); Sạc không dây chuẩn Qi 7,5W",
+      "Cổng sạc": "USB-C (chuẩn USB 2 tốc độ lên đến 480Mb/s)"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "iOS 18 (tháng 02/2025)",
+      "Công nghệ - Tiện ích": "Hỗ trợ đầy đủ Apple Intelligence tiếng Việt, Siri AI mới, Writing Tools, Visual Intelligence",
+      "Tiện ích khác": "Nút Tác Vụ (Action Button), SOS khẩn cấp qua vệ tinh, Phát Hiện Va Chạm",
+      "Thời điểm ra mắt": "19/02/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G sub-6GHz 4x4 MIMO (Modem Apple C1), Gigabit LTE",
+      "Thẻ SIM": "SIM kép (1 Nano-SIM + eSIM hoặc 2 eSIM hoạt động đồng thời)",
+      "Wi-Fi": "Wi-Fi 6 (802.11ax) 2x2 MIMO",
+      "Bluetooth": "Bluetooth 5.3",
+      "Công nghệ NFC": "Có hỗ trợ NFC",
+      "GPS": "GPS, GLONASS, Galileo, QZSS, BeiDou"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung nhôm hàng không vũ trụ (85% nhôm tái chế)",
+      "Chất liệu mặt lưng": "Mặt lưng kính nhám mờ, mặt trước Ceramic Shield",
+      "Kích thước": "146,7 x 71,5 x 7,80 mm",
+      "Trọng lượng": "167 gram",
+      "Chỉ số kháng nước, bụi": "IP68 theo chuẩn IEC 60529 (tối đa 6 mét trong 30 phút)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài Stereo, hỗ trợ Spatial Audio, Dolby Atmos, Apple Lossless, FLAC",
+      "Cảm biến vân tay": "Không trang bị (Bảo mật khuôn mặt Face ID 3D)",
+      "Các loại cảm biến": "Face ID, Áp kế, Con quay hồi chuyển, Gia tốc kế, Cảm biến tiệm cận, Cảm biến ánh sáng kép, La bàn số"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,1 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "Super Retina XDR OLED"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2532 x 1170 pixel"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "60Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Apple A18"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "3 phiên bản: 128GB, 256GB và 512GB NVMe"
+    },
+    {
+      "label": "Camera sau",
+      "value": "48MP Fusion 2-trong-1 (tích hợp Telephoto 2x)"
+    },
+    {
+      "label": "Camera trước",
+      "value": "12MP TrueDepth, khẩu độ ƒ/1.9"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "4.005 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh USB-C 20W, sạc không dây Qi 7,5W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "iOS 18"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G (Modem Apple C1)"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 (6 mét trong 30 phút)"
+    }
+  ],
+  "verbatimDescription": [
+    "Ra mắt vào tháng 2/2025, iPhone 16e là thành viên mở đầu cho dòng sản phẩm hậu tố 'e' hoàn toàn mới của Apple (thay thế dòng iPhone SE trước đây). Trong danh mục của AURIX MOBILE, iPhone 16e định vị là mẫu iPhone hỗ trợ Apple Intelligence có mức giá dễ tiếp cận nhất, hướng tới khách hàng cần một chiếc máy nhỏ gọn 6,1 inch nhưng có hiệu năng chip A18 mạnh mẽ và thời lượng pin 26 giờ bền bỉ vượt trội. (Nguồn tham chiếu chính thức: Apple Tech Specs - iPhone 16e).",
+    "iPhone 16e sở hữu kiểu dáng gọn nhẹ với kích thước 146,7 x 71,5 x 7,80 mm và trọng lượng chỉ 167 gram. Thân máy được hoàn thiện từ khung nhôm tái chế vát phẳng kết hợp mặt lưng kính nhám mờ tinh giản trong 2 tùy chọn màu Đen (Black) và Trắng (White), đạt chuẩn kháng nước IP68. Ở mặt trước, máy trang bị màn hình Super Retina XDR OLED 6,1 inch (2532 x 1170 pixel, 460 ppi) bảo vệ bởi kính Ceramic Shield, sử dụng thiết kế khuyết đỉnh tai thỏ (Notch) chứa cụm Face ID và có độ sáng tối đa 800 nit tiêu chuẩn (1.200 nit HDR), tần số quét 60Hz.",
+    "Điểm đắt giá nhất của iPhone 16e nằm ở cấu hình phần cứng bên trong: máy được trang bị vi xử lý Apple A18 (tiến trình 3nm thế hệ 2) với 6 lõi CPU (xung nhịp 4,04 GHz), 4 lõi GPU (ít hơn 1 lõi GPU so với iPhone 16 thường nhưng vẫn có Ray Tracing phần cứng), Neural Engine 16 lõi 35 TOPS và dung lượng RAM 8GB LPDDR5X. Nhờ đó, hiệu năng xử lý ứng dụng, đa nhiệm và chạy các tác vụ AI tạo sinh Apple Intelligence của iPhone 16e tương đương trực tiếp với các mẫu máy đắt tiền hơn.",
+    "Thay vì cụm đa ống kính, iPhone 16e sử dụng hệ thống camera đơn 48MP Fusion 2-trong-1 ở mặt sau (tiêu cự 26mm, khẩu độ ƒ/1.6, tích hợp chống rung quang học OIS). Cảm biến 48MP cho phép chụp ảnh mặc định 24MP sắc nét đồng thời cung cấp tiêu cự Telephoto 2x (52mm) chất lượng quang học để chụp chân dung. Máy hỗ trợ quay video 4K Dolby Vision 60 fps cùng tính năng thu âm Hòa Âm (Audio Mix) và Giảm tiếng gió, nhưng không có ống kính góc siêu rộng (0.5x) và không có chế độ Cinematic/Action mode. Mặt trước là camera TrueDepth 12MP (ƒ/1.9) có tự động lấy nét.",
+    "Nhờ thiết kế chỉ 1 camera sau giúp giải phóng không gian bên trong và sự xuất hiện của modem 5G Apple C1 tiết kiệm điện nhất từng có, Apple đã trang bị cho iPhone 16e viên pin dung lượng lên tới 4.005 mAh (theo dữ liệu mổ máy GSMArena/CellphoneS). Kết quả là máy đạt thời lượng xem video lên đến 26 giờ — vượt xa cả iPhone 15 (20 giờ) lẫn iPhone 16 tiêu chuẩn (22 giờ). Máy sạc nhanh có dây qua USB-C (50% trong 30 phút với củ sạc 20W+), nhưng chỉ hỗ trợ sạc không dây chuẩn Qi 7,5W và không có vòng nam châm MagSafe.",
+    "Xuất xưởng với iOS 18.3.1 và hiện chạy mượt mà iOS 27.2 tính đến tháng 11/2026, iPhone 16e tích hợp nút Action Button giúp kích hoạt nhanh Visual Intelligence, đèn pin hoặc dịch thuật. Máy hỗ trợ 5G sub-6GHz qua modem C1, Wi-Fi 6, Bluetooth 5.3 và SIM kép (1 Nano-SIM + eSIM) trên bản chính hãng VN/A."
+  ],
+  "priceSegment": "upper-midrange"
+}

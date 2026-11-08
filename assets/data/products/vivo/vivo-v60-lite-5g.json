@@ -1,0 +1,424 @@
+{
+  "id": "vivo-v60-lite-5g",
+  "brand": "vivo",
+  "brandId": "vivo",
+  "parentGroupId": "vivo",
+  "model": "vivo V60 Lite 5G",
+  "series": "vivo V Series (V80 / V70 / V60)",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "midrange"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Giảm giá",
+      "type": "sale"
+    }
+  ],
+  "overview": {
+    "releaseDate": "25/03/2025",
+    "segment": "Cận cao cấp",
+    "description": "Chính thức ra mắt vào tháng 09/2025 – Mở bán chính thức tháng 10/2025 tại Việt Nam, vivo V60 Lite 5G là bước tiến quan trọng của thương hiệu Vivo trong chiến lược chinh phục người tiêu dùng hiện đại. Thiết bị sở hữu mã hiệu V2351 / V2351A, được định vị là Phiên bản tinh gọn hoàn hảo trong phân khúc tầm trung, kết hợp ngoại hình thời trang siêu mỏng nhẹ, pin lớn và màn hình AMOLED 120Hz rực rỡ. Với mức giá niêm yết tham khảo trong khoảng 8.490.000 VNĐ – 9.490.000 VNĐ, sản phẩm không chỉ mang lại giá trị công nghệ vượt trội mà còn khẳng định ngôn ngữ thiết kế thời thượng, đột phá của Vivo.\n\nTrong bối cảnh thị trường smartphone ngày càng cạnh tranh khốc liệt, vivo V60 Lite 5G nổi lên như một điểm sáng nhờ sự dung hòa hoàn hảo giữa vẻ đẹp thẩm mỹ bên ngoài và sức mạnh phần cứng bên trong. Vivo đã lắng nghe sâu sắc phản hồi của người dùng Việt Nam để tinh chỉnh từng đường nét thiết kế, tối ưu hóa thuật toán phần mềm Funtouch OS và trang bị các linh kiện phần cứng hàng đầu nhằm mang lại trải nghiệm cầm nắm và vận hành bền bỉ qua nhiều năm sử dụng.",
+    "highlights": [
+      "6,77 inch",
+      "MediaTek Dimensity 7360 Turbo",
+      "Pin 6.500 mAh"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 8490000,
+    "originalPrice": 10490000,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT005-VVV60L-HONG-8GB-256GB",
+      "color": "Hồng",
+      "colorHex": "#F472B6",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 8490000,
+      "originalPrice": 10490000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/vivo/vivo-v60-lite-5g/anh-dai-dien-vivo-v60-lite-5g-hong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/mat-truoc-mat-sau-vivo-v60-lite-5g-hong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/man-hinh-mat-truoc-vivo-v60-lite-5g-hong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/thiet-ke-mat-lung-vivo-v60-lite-5g-hong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/canh-duoi-cong-sac-vivo-v60-lite-5g-hong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/canh-trai-canh-phai-vivo-v60-lite-5g-hong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/canh-tren-canh-duoi-vivo-v60-lite-5g-hong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/goc-nghieng-camera-sau-vivo-v60-lite-5g-hong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/cum-camera-sau-vivo-v60-lite-5g-hong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/khay-sim-vivo-v60-lite-5g-hong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/tren-tay-man-hinh-vivo-v60-lite-5g-hong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/vivo-V60-Lite-5G.jpg",
+        "assets/images/products/vivo/vivo-v60-lite-5g/thong-so-man-hinh-vivo-v60-lite-5g-hong.webp"
+      ]
+    },
+    {
+      "sku": "DT005-VVV60L-XANH-DUONG-8GB-256GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 8490000,
+      "originalPrice": 10490000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/vivo/vivo-v60-lite-5g/mat-truoc-mat-sau-vivo-v60-lite-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/man-hinh-mat-truoc-vivo-v60-lite-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/thiet-ke-mat-lung-vivo-v60-lite-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/canh-trai-canh-phai-vivo-v60-lite-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/canh-tren-canh-duoi-vivo-v60-lite-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/goc-nghieng-camera-sau-vivo-v60-lite-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/cum-camera-sau-vivo-v60-lite-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/vivo-V60-Lite-5G.jpg",
+        "assets/images/products/vivo/vivo-v60-lite-5g/thong-so-man-hinh-vivo-v60-lite-5g-hong.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "AMOLED 1,07 tỷ màu, 120Hz, 1.800 nit",
+    "size": "6,77 inch",
+    "resolution": "2392 x 1080 pixel (FHD+, 388 ppi)",
+    "refreshRate": "120Hz",
+    "brightness": "Hỗ trợ HDR10 và chứng nhận phát nội dung HD, Độ sáng tiêu chuẩn 1.200 nit / đỉnh ngoài trời 3.000 nit, Làm mờ PWM tần số cao, chứng nhận ánh sáng xanh thấp SGS, gam màu DCI-P3 100%",
+    "hdr": "HDR10+ / HLG",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "MediaTek Dimensity 7360 (tiến trình 4nm hiện đại)",
+    "cpu": "CPU 8 nhân: 2 nhân hiệu năng Cortex-A78 (2,5 GHz) + 6 nhân tiết kiệm Cortex-A55 (2,0 GHz)",
+    "gpu": "Mali-G615 MC2 tối ưu đồ họa giải trí",
+    "ram": [
+      "8GB"
+    ],
+    "storage": [
+      "256GB"
+    ],
+    "operatingSystem": "Android 15 cùng giao diện Funtouch OS 15",
+    "uiVersion": "Funtouch OS / OriginOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Chính Sony OIS / 32MP + 8MP Góc siêu rộng (Đèn Aura Light)",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "Quay 1080p ở 30/60 fps, 720p ở 30 fps; chống rung EIS; Dual-View Video"
+    ],
+    "aiFeatures": [
+      "Chân dung Aura Light độc quyền, Chụp đêm Super Night, Chế độ làm đẹp chân dung AI, Panorama, Chụp tài liệu, Zoom: Zoom kỹ thuật số lên đến 10x"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "32MP Portrait Selfie (ƒ/2.0)",
+    "features": [
+      "Camera trước 32MP HD Selfie, khẩu độ ƒ/2.45, Quay video: Quay 1080p ở 30 fps; gọi video HD"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "6.500 mAh (Pin BlueVolt)",
+    "wiredCharging": "Sạc siêu nhanh FlashCharge 90W",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc nhanh FlashCharge 90W: nạp 50% pin trong khoảng 19 phút | Không hỗ trợ sạc không dây"
+  },
+  "connectivity": {
+    "sim": [
+      "Bản chính hãng Việt Nam: SIM kép (khe cắm kết hợp 2 SIM hoặc 1 SIM + 1 microSD)"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 5 (802.11ac) băng tần kép; Bluetooth 5.4",
+    "bluetooth": "Wi-Fi 5 (802.11ac) băng tần kép; Bluetooth 5.4",
+    "gps": [
+      "GPS, GLONASS, Galileo, BeiDou, QZSS"
+    ],
+    "usb": "Cổng USB Type-C chuẩn USB 2.0 hỗ trợ OTG",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "163,77 x 76,28 x 7,59 mm",
+    "weight": "194 gram",
+    "materials": [
+      "Khung viền vát phẳng thời thượng",
+      "mặt lưng hiệu ứng ánh sáng kim cương"
+    ],
+    "waterResistance": "IP65 kháng bụi và tia nước",
+    "availableColors": [
+      "Hồng",
+      "Xanh Dương"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo âm lượng lớn 300% Audio Booster; Hi-Res Audio",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "AMOLED 6.77 inch"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền vivo tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/vivo/vivo-v60-lite-5g/anh-dai-dien-vivo-v60-lite-5g-hong.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/vivo/vivo-v60-lite-5g/anh-dai-dien-vivo-v60-lite-5g-hong.webp",
+      "assets/images/products/vivo/vivo-v60-lite-5g/mat-truoc-mat-sau-vivo-v60-lite-5g-hong.webp",
+      "assets/images/products/vivo/vivo-v60-lite-5g/mat-truoc-mat-sau-vivo-v60-lite-5g-xanh-duong.webp",
+      "assets/images/products/vivo/vivo-v60-lite-5g/man-hinh-mat-truoc-vivo-v60-lite-5g-hong.webp",
+      "assets/images/products/vivo/vivo-v60-lite-5g/man-hinh-mat-truoc-vivo-v60-lite-5g-xanh-duong.webp",
+      "assets/images/products/vivo/vivo-v60-lite-5g/thiet-ke-mat-lung-vivo-v60-lite-5g-hong.webp",
+      "assets/images/products/vivo/vivo-v60-lite-5g/thiet-ke-mat-lung-vivo-v60-lite-5g-xanh-duong.webp",
+      "assets/images/products/vivo/vivo-v60-lite-5g/canh-duoi-cong-sac-vivo-v60-lite-5g-hong.webp",
+      "assets/images/products/vivo/vivo-v60-lite-5g/canh-trai-canh-phai-vivo-v60-lite-5g-hong.webp",
+      "assets/images/products/vivo/vivo-v60-lite-5g/canh-trai-canh-phai-vivo-v60-lite-5g-xanh-duong.webp",
+      "assets/images/products/vivo/vivo-v60-lite-5g/canh-tren-canh-duoi-vivo-v60-lite-5g-hong.webp",
+      "assets/images/products/vivo/vivo-v60-lite-5g/canh-tren-canh-duoi-vivo-v60-lite-5g-xanh-duong.webp",
+      "assets/images/products/vivo/vivo-v60-lite-5g/goc-nghieng-camera-sau-vivo-v60-lite-5g-hong.webp",
+      "assets/images/products/vivo/vivo-v60-lite-5g/goc-nghieng-camera-sau-vivo-v60-lite-5g-xanh-duong.webp",
+      "assets/images/products/vivo/vivo-v60-lite-5g/cum-camera-sau-vivo-v60-lite-5g-hong.webp",
+      "assets/images/products/vivo/vivo-v60-lite-5g/cum-camera-sau-vivo-v60-lite-5g-xanh-duong.webp",
+      "assets/images/products/vivo/vivo-v60-lite-5g/khay-sim-vivo-v60-lite-5g-hong.webp",
+      "assets/images/products/vivo/vivo-v60-lite-5g/tren-tay-man-hinh-vivo-v60-lite-5g-hong.webp",
+      "assets/images/products/vivo/vivo-v60-lite-5g/vivo-V60-Lite-5G.jpg",
+      "assets/images/products/vivo/vivo-v60-lite-5g/thong-so-man-hinh-vivo-v60-lite-5g-hong.webp"
+    ],
+    "byColor": {
+      "Hồng": [
+        "assets/images/products/vivo/vivo-v60-lite-5g/anh-dai-dien-vivo-v60-lite-5g-hong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/mat-truoc-mat-sau-vivo-v60-lite-5g-hong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/man-hinh-mat-truoc-vivo-v60-lite-5g-hong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/thiet-ke-mat-lung-vivo-v60-lite-5g-hong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/canh-duoi-cong-sac-vivo-v60-lite-5g-hong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/canh-trai-canh-phai-vivo-v60-lite-5g-hong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/canh-tren-canh-duoi-vivo-v60-lite-5g-hong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/goc-nghieng-camera-sau-vivo-v60-lite-5g-hong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/cum-camera-sau-vivo-v60-lite-5g-hong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/khay-sim-vivo-v60-lite-5g-hong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/tren-tay-man-hinh-vivo-v60-lite-5g-hong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/vivo-V60-Lite-5G.jpg",
+        "assets/images/products/vivo/vivo-v60-lite-5g/thong-so-man-hinh-vivo-v60-lite-5g-hong.webp"
+      ],
+      "Xanh Dương": [
+        "assets/images/products/vivo/vivo-v60-lite-5g/mat-truoc-mat-sau-vivo-v60-lite-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/man-hinh-mat-truoc-vivo-v60-lite-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/thiet-ke-mat-lung-vivo-v60-lite-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/canh-trai-canh-phai-vivo-v60-lite-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/canh-tren-canh-duoi-vivo-v60-lite-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/goc-nghieng-camera-sau-vivo-v60-lite-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/cum-camera-sau-vivo-v60-lite-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-v60-lite-5g/vivo-V60-Lite-5G.jpg",
+        "assets/images/products/vivo/vivo-v60-lite-5g/thong-so-man-hinh-vivo-v60-lite-5g-hong.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/vivo/vivo-v60-lite-5g/mat-truoc-mat-sau-vivo-v60-lite-5g-hong.webp",
+      "screen": "assets/images/products/vivo/vivo-v60-lite-5g/mat-truoc-mat-sau-vivo-v60-lite-5g-xanh-duong.webp",
+      "performance": "assets/images/products/vivo/vivo-v60-lite-5g/goc-nghieng-camera-sau-vivo-v60-lite-5g-hong.webp",
+      "camera": "assets/images/products/vivo/vivo-v60-lite-5g/goc-nghieng-camera-sau-vivo-v60-lite-5g-xanh-duong.webp",
+      "battery": "assets/images/products/vivo/vivo-v60-lite-5g/canh-duoi-cong-sac-vivo-v60-lite-5g-hong.webp",
+      "feature": "assets/images/products/vivo/vivo-v60-lite-5g/canh-trai-canh-phai-vivo-v60-lite-5g-hong.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/vivo/vivo-v60-lite-5g/mat-truoc-mat-sau-vivo-v60-lite-5g-hong.webp",
+      "assets/images/products/vivo/vivo-v60-lite-5g/mat-truoc-mat-sau-vivo-v60-lite-5g-xanh-duong.webp",
+      "assets/images/products/vivo/vivo-v60-lite-5g/man-hinh-mat-truoc-vivo-v60-lite-5g-hong.webp",
+      "assets/images/products/vivo/vivo-v60-lite-5g/man-hinh-mat-truoc-vivo-v60-lite-5g-xanh-duong.webp",
+      "assets/images/products/vivo/vivo-v60-lite-5g/thiet-ke-mat-lung-vivo-v60-lite-5g-hong.webp",
+      "assets/images/products/vivo/vivo-v60-lite-5g/thiet-ke-mat-lung-vivo-v60-lite-5g-xanh-duong.webp",
+      "assets/images/products/vivo/vivo-v60-lite-5g/canh-duoi-cong-sac-vivo-v60-lite-5g-hong.webp",
+      "assets/images/products/vivo/vivo-v60-lite-5g/canh-trai-canh-phai-vivo-v60-lite-5g-hong.webp",
+      "assets/images/products/vivo/vivo-v60-lite-5g/canh-trai-canh-phai-vivo-v60-lite-5g-xanh-duong.webp",
+      "assets/images/products/vivo/vivo-v60-lite-5g/canh-tren-canh-duoi-vivo-v60-lite-5g-hong.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-vivo",
+      "https://www.vivo.com/vn/products"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "partial_retail_listing",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT005-VVV60L",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "AMOLED 16,7 triệu màu",
+      "Kích thước màn hình": "6,77 inch theo đường chéo (màn hình phẳng viền siêu mỏng)",
+      "Độ phân giải màn hình": "2392 x 1080 pixel (Full HD+, tỷ lệ 20:9)",
+      "Tần số quét": "120Hz siêu mượt mà",
+      "Kiểu màn hình": "Màn hình phẳng tràn viền",
+      "Tính năng màn hình": "Hỗ trợ HDR10 và chứng nhận phát nội dung HD, Độ sáng tiêu chuẩn 1.200 nit / đỉnh ngoài trời 3.000 nit, Làm mờ PWM tần số cao, chứng nhận ánh sáng xanh thấp SGS, gam màu DCI-P3 100%"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera kép thông minh kèm đèn Aura Light (32MP Chính + 2MP Đo chiều sâu) - 32MP Ultra-Clear, khẩu độ ƒ/1.8, tự động lấy nét PDAF, chống rung điện tử EIS",
+      "Quay video": "Quay 1080p ở 30/60 fps, 720p ở 30 fps; chống rung EIS; Dual-View Video",
+      "Tính năng camera": "Chân dung Aura Light độc quyền, Chụp đêm Super Night, Chế độ làm đẹp chân dung AI, Panorama, Chụp tài liệu, Zoom: Zoom kỹ thuật số lên đến 10x"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera trước 32MP HD Selfie, khẩu độ ƒ/2.45, Quay video: Quay 1080p ở 30 fps; gọi video HD"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Dimensity 7360 (tiến trình 4nm hiện đại)",
+      "Loại CPU": "CPU 8 nhân: 2 nhân hiệu năng Cortex-A78 (2,5 GHz) + 6 nhân tiết kiệm Cortex-A55 (2,0 GHz)",
+      "GPU": "Mali-G615 MC2 tối ưu đồ họa giải trí"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB LPDDR4X (mở rộng thêm 8GB RAM ảo)",
+      "Bộ nhớ trong": "256GB chuẩn UFS 3.1"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "6.500 mAh (pin BlueVolt dung lượng lớn) - Sử dụng hỗn hợp thông thường lên đến 2,5 ngày; xem video 26 giờ",
+      "Công nghệ sạc": "Sạc nhanh FlashCharge 90W: nạp 50% pin trong khoảng 19 phút | Không hỗ trợ sạc không dây",
+      "Cổng sạc": "Cổng USB Type-C chuẩn USB 2.0 hỗ trợ OTG"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 15 cùng giao diện Funtouch OS 15",
+      "Công nghệ - Tiện ích": "Tính năng AI thông minh Funtouch OS (AI Erase, AI Photo), Thiết kế khuyết đỉnh đục lỗ tinh tế",
+      "Tiện ích khác": "Phím nguồn, phím âm lượng; bảo mật sinh trắc học, SOS khẩn cấp",
+      "Thời điểm ra mắt": "25/03/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "Hỗ trợ 5G đa băng tần tốc độ cao; 4G LTE",
+      "Thẻ SIM": "Bản chính hãng Việt Nam: SIM kép (khe cắm kết hợp 2 SIM hoặc 1 SIM + 1 microSD)",
+      "Wi-Fi": "Wi-Fi 5 (802.11ac) băng tần kép; Bluetooth 5.4",
+      "Bluetooth": "Wi-Fi 5 (802.11ac) băng tần kép; Bluetooth 5.4",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa chức năng",
+      "GPS": "GPS, GLONASS, Galileo, BeiDou, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền vát phẳng thời thượng",
+      "Chất liệu mặt lưng": "mặt lưng hiệu ứng ánh sáng kim cương",
+      "Kích thước": "163,77 x 76,28 x 7,59 mm",
+      "Trọng lượng": "194 gram",
+      "Chỉ số kháng nước, bụi": "Đạt chuẩn kháng nước và bụi IP65"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa kép Stereo âm lượng lớn 300% Audio Booster; Hi-Res Audio",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học trong màn hình + Mở khóa khuôn mặt",
+      "Các loại cảm biến": "Cảm biến vân tay dưới màn hình, Con quay hồi chuyển, Gia tốc kế, Cảm biến tiệm cận, Cảm biến ánh sáng, La bàn số"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,77 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "AMOLED 1,07 tỷ màu, 120Hz, 1.800 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2392 x 1080 pixel (FHD+, 388 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 7360 Turbo (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB LPDDR4X (+8GB RAM mở rộng)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB chuẩn UFS 3.1"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính Sony OIS / 32MP + 8MP Góc siêu rộng (Đèn Aura Light)"
+    },
+    {
+      "label": "Camera trước",
+      "value": "32MP Portrait Selfie (ƒ/2.0)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "6.500 mAh (Pin BlueVolt)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc siêu nhanh FlashCharge 90W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Funtouch OS 15 (Android 15)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP65 kháng bụi và tia nước"
+    }
+  ],
+  "verbatimDescription": [
+    "Chính thức ra mắt vào tháng 09/2025 – Mở bán chính thức tháng 10/2025 tại Việt Nam, vivo V60 Lite 5G là bước tiến quan trọng của thương hiệu Vivo trong chiến lược chinh phục người tiêu dùng hiện đại. Thiết bị sở hữu mã hiệu V2351 / V2351A, được định vị là Phiên bản tinh gọn hoàn hảo trong phân khúc tầm trung, kết hợp ngoại hình thời trang siêu mỏng nhẹ, pin lớn và màn hình AMOLED 120Hz rực rỡ. Với mức giá niêm yết tham khảo trong khoảng 8.490.000 VNĐ – 9.490.000 VNĐ, sản phẩm không chỉ mang lại giá trị công nghệ vượt trội mà còn khẳng định ngôn ngữ thiết kế thời thượng, đột phá của Vivo.\n\nTrong bối cảnh thị trường smartphone ngày càng cạnh tranh khốc liệt, vivo V60 Lite 5G nổi lên như một điểm sáng nhờ sự dung hòa hoàn hảo giữa vẻ đẹp thẩm mỹ bên ngoài và sức mạnh phần cứng bên trong. Vivo đã lắng nghe sâu sắc phản hồi của người dùng Việt Nam để tinh chỉnh từng đường nét thiết kế, tối ưu hóa thuật toán phần mềm Funtouch OS và trang bị các linh kiện phần cứng hàng đầu nhằm mang lại trải nghiệm cầm nắm và vận hành bền bỉ qua nhiều năm sử dụng.",
+    "Ngoại hình của vivo V60 Lite 5G thu hút mọi ánh nhìn với kích thước chuẩn mực 163,77 x 76,28 x 7,59 mm cùng trọng lượng 194 gram. Thân máy được chế tác từ Khung viền vát phẳng thời thượng; mặt lưng hiệu ứng ánh sáng kim cương, mang lại cảm giác đầm tay, chắc chắn nhưng vẫn vô cùng êm ái khi sử dụng liên tục trong thời gian dài. Các phiên bản màu sắc chính thức gồm 2 màu: Đen Titan (Titan Black), Tím Lavender (Lavender Purple) được xử lý bề mặt tinh xảo, vừa toát lên vẻ sang trọng vừa hạn chế tối đa tình trạng bám dính dấu vân tay và mồ hôi.\n\nMặt trước của máy là không gian hiển thị ấn tượng với kích thước 6,77 inch theo đường chéo (màn hình phẳng viền siêu mỏng). Vivo trang bị tấm nền AMOLED 16,7 triệu màu cùng độ phân giải 2392 x 1080 pixel (Full HD+, tỷ lệ 20:9) đạt mật độ điểm ảnh 387 ppi. Tần số quét 120Hz siêu mượt mà kết hợp độ sáng Độ sáng tiêu chuẩn 1.200 nit / đỉnh ngoài trời 3.000 nit giúp màn hình hiển thị xuất sắc trong mọi điều kiện ánh sáng, kể cả dưới trời nắng chói chang giữa trưa. Lớp bảo vệ Kính cường lực chống xước bảo vệ toàn diện và chuẩn kháng nước bụi Đạt chuẩn kháng nước và bụi IP65 đem lại sự an tâm tuyệt đối trước các tác động va đập hay thời tiết khắc nghiệt.",
+    "Ẩn chứa bên trong vivo V60 Lite 5G là sức mạnh của bộ vi xử lý MediaTek Dimensity 7360 (tiến trình 4nm hiện đại). Cấu trúc CPU gồm CPU 8 nhân: 2 nhân hiệu năng Cortex-A78 (2,5 GHz) + 6 nhân tiết kiệm Cortex-A55 (2,0 GHz), đi kèm chip đồ họa Mali-G615 MC2 tối ưu đồ họa giải trí và bộ xử lý trí tuệ nhân tạo MediaTek APU hỗ trợ tính năng làm đẹp và tối ưu pin. Sự kết hợp phần cứng đồng bộ này đem lại hiệu năng ấn tượng: Vận hành mượt mà tác vụ hàng ngày, lướt web, mạng xã hội và chơi game eSports.\n\nKhả năng quản lý đa nhiệm của thiết bị được nâng tầm nhờ bộ nhớ RAM 8GB LPDDR4X (mở rộng thêm 8GB RAM ảo). Bộ nhớ trong 256GB chuẩn UFS 3.1 chuẩn tốc độ cao mang lại không gian lưu trữ rộng rãi cho hàng nghìn bức ảnh, tài liệu và các tựa game nặng. Khả năng hỗ trợ thẻ nhớ (Có hỗ trợ khe cắm thẻ nhớ microSD (lên đến 1TB)) đem lại sự linh hoạt tối đa cho người dùng có nhu cầu lưu trữ dữ liệu lớn trong công việc và học tập hàng ngày.",
+    "Hệ thống camera là một trong những niềm tự hào lớn nhất trên vivo V60 Lite 5G. Mặt sau máy được bố trí Hệ thống camera kép thông minh kèm đèn Aura Light (32MP Chính + 2MP Đo chiều sâu), trong đó camera chính sở hữu thông số 32MP Ultra-Clear, khẩu độ ƒ/1.8, tự động lấy nét PDAF, chống rung điện tử EIS. Ống kính góc siêu rộng (Không có ống kính góc siêu rộng riêng biệt) và ống kính tele (Không trang bị) mang đến khả năng thu phóng quang học và kỹ thuật số ấn tượng (Zoom kỹ thuật số lên đến 10x).\n\nSức mạnh nhiếp ảnh của máy được củng cố bởi công nghệ xử lý hình ảnh Đèn vòng Aura Light Portrait điều chỉnh tông ấm/lạnh thông minh cùng hàng loạt chế độ chụp thông minh: Chân dung Aura Light độc quyền, Chụp đêm Super Night, Chế độ làm đẹp chân dung AI, Panorama, Chụp tài liệu. Về khả năng quay phim, máy hỗ trợ Quay 1080p ở 30/60 fps, 720p ở 30 fps; chống rung EIS; Dual-View Video với khả năng chống rung quang học và điện tử ổn định vượt trội. Ở mặt trước, camera selfie Camera trước 32MP HD Selfie, khẩu độ ƒ/2.45 tích hợp các chế độ Chân dung ban đêm, bộ lọc phong cách chân dung, làm đẹp da AI và quay video Quay 1080p ở 30 fps; gọi video HD, giúp bạn luôn tỏa sáng rạng rỡ trong mọi bức ảnh tự chụp cũng như các cuộc gọi video công việc.",
+    "Thời lượng sử dụng của vivo V60 Lite 5G được bảo chứng bởi viên pin công nghệ cao có dung lượng 6.500 mAh (pin BlueVolt dung lượng lớn). Nhờ vào việc sử dụng vật liệu mật độ năng lượng cao kết hợp thuật toán tối ưu hóa tiêu thụ điện năng của hệ điều hành, máy cho thời gian vận hành bền bỉ: Sử dụng hỗn hợp thông thường lên đến 2,5 ngày; xem video 26 giờ. Người dùng hoàn toàn có thể yên tâm sử dụng máy với cường độ cao mà không phải loay hoay tìm kiếm ổ cắm sạc giữa chừng.\n\nKhi cần tái nạp năng lượng, công nghệ sạc Sạc nhanh FlashCharge 90W: nạp 50% pin trong khoảng 19 phút sẽ phát huy sức mạnh tối đa. Thiết bị có thể nạp phần lớn dung lượng pin chỉ trong thời gian ngắn uống một tách cà phê, sẵn sàng đồng hành cùng bạn suốt cả ngày dài. Bên cạnh đó, máy còn hỗ trợ các chuẩn sạc tiện ích: Không hỗ trợ sạc không dây, mang lại sự tiện nghi cao cấp và bảo đảm tuổi thọ pin an toàn qua hàng nghìn chu kỳ sạc xả.",
+    "vivo V60 Lite 5G xuất xưởng với nền tảng hệ điều hành Android 15 cùng giao diện Funtouch OS 15, và tính đến tháng 11/2026 máy vận hành trên Đã nâng cấp lên Android 16 với Funtouch OS 16. Giao diện người dùng Funtouch OS được thiết kế hiện đại, mượt mà và trực quan, tích hợp sâu các tiện ích trí tuệ nhân tạo Tính năng AI thông minh Funtouch OS (AI Erase, AI Photo) giúp tự động hóa các tác vụ hàng ngày và cá nhân hóa trải nghiệm người dùng.\n\nVề bảo mật và an toàn dữ liệu, thiết bị tích hợp hệ thống Cảm biến vân tay quang học trong màn hình + Mở khóa khuôn mặt cho tốc độ phản hồi gần như tức thì và độ chính xác cực cao. Các phím bấm vật lý cùng tính năng khẩn cấp (Phím nguồn, phím âm lượng; bảo mật sinh trắc học, SOS khẩn cấp) được thiết kế công thái học thuận tiện. Hệ thống kết nối đa dạng gồm Hỗ trợ 5G đa băng tần tốc độ cao; 4G LTE, Wi-Fi 5 (802.11ac) băng tần kép; Bluetooth 5.4, NFC một chạm tiện lợi; GPS, GLONASS, BDS, GALILEO, QZSS, Bản chính hãng Việt Nam: SIM kép (khe cắm kết hợp 2 SIM hoặc 1 SIM + 1 microSD) cùng hệ thống loa Loa kép Stereo âm lượng lớn 300% Audio Booster; Hi-Res Audio tạo nên một không gian làm việc và giải trí trọn vẹn, liền mạch trong hệ sinh thái Vivo.",
+    "vivo V60 Lite 5G là sự lựa chọn lý tưởng dành cho người dùng đang tìm kiếm một chiếc điện thoại thông minh toàn diện, sở hữu ngôn ngữ thiết kế hiện đại, cấu hình mạnh mẽ và độ bền bỉ đáng tin cậy. Sản phẩm đặc biệt phù hợp với người dùng yêu thích nhiếp ảnh di động, học sinh, sinh viên, nhân viên văn phòng và các nhà sáng tạo nội dung số cần một thiết bị có màn hình đẹp, thời lượng pin trâu và camera chất lượng cao phục vụ công việc và giải trí hàng ngày.",
+    "Tổng kết lại, vivo V60 Lite 5G khẳng định vững chắc vị thế dẫn đầu trong phân khúc giá của mình. Với sự kết hợp hoàn hảo giữa phần cứng cao cấp, thuật toán xử lý hình ảnh tiên tiến và chính sách hỗ trợ phần mềm dài hạn từ Vivo, chiếc smartphone này xứng đáng là một trong những khoản đầu tư công nghệ thực dụng và đáng giá nhất trong năm 2026."
+  ],
+  "priceSegment": "midrange"
+}

@@ -1,0 +1,714 @@
+{
+  "id": "galaxy-s26-fe-5g",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "model": "Samsung Galaxy S26 FE 5G",
+  "series": "Galaxy S26 Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "upper-midrange"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Giảm giá",
+      "type": "sale"
+    }
+  ],
+  "overview": {
+    "releaseDate": "Năm 2026",
+    "segment": "Cận cao cấp",
+    "description": "Samsung Galaxy S26 FE 5G tiếp nối truyền thống dòng Fan Edition khi chắt lọc những tính năng đắt giá nhất của dòng Galaxy S26 trong một mức giá dễ tiếp cận: màn hình Dynamic AMOLED 2X 6,7 inch 120Hz, vi xử lý Exynos 2500 tiến trình 3nm, cụm 3 camera 50MP có ống kính Telephoto 3x OIS cùng viên pin lớn 4.900 mAh sạc nhanh 45W và chuẩn kháng nước IP68.",
+    "highlights": [
+      "6,7 inch AMOLED 120Hz",
+      "Exynos 2500 (3nm)",
+      "3 Camera 50MP OIS + Tele 3x",
+      "Pin 4.900 mAh · Sạc 45W"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 14990000,
+    "originalPrice": 18990000,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT015-SSS26FE5G-XANH-DUONG-NHAT-8GB-128GB",
+      "color": "Xanh Dương Nhạt",
+      "colorHex": "#D4E5F7",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 14990000,
+      "originalPrice": 18990000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s26-fe-5g/anh-dai-dien-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-truoc-mat-sau-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-mat-truoc-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/canh-phai-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/canh-trai-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/Galaxy-S26-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/hieu-nang-exynos-2500-3nm-samsung-galaxy-s26-fe-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-man-hinh-120hz-samsung-galaxy-s26-fe-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-noi-bat-samsung-galaxy-s26-fe-5g-xanh-la-xanh-navy.webp"
+      ]
+    },
+    {
+      "sku": "DT015-SSS26FE5G-XANH-DUONG-NHAT-8GB-256GB",
+      "color": "Xanh Dương Nhạt",
+      "colorHex": "#D4E5F7",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 16490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s26-fe-5g/anh-dai-dien-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-truoc-mat-sau-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-mat-truoc-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/canh-phai-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/canh-trai-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/Galaxy-S26-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/hieu-nang-exynos-2500-3nm-samsung-galaxy-s26-fe-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-man-hinh-120hz-samsung-galaxy-s26-fe-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-noi-bat-samsung-galaxy-s26-fe-5g-xanh-la-xanh-navy.webp"
+      ]
+    },
+    {
+      "sku": "DT015-SSS26FE5G-XANH-NAVY-8GB-128GB",
+      "color": "Xanh Navy",
+      "colorHex": "#1E3A8A",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 14990000,
+      "originalPrice": 18990000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s26-fe-5g/anh-dai-dien-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-truoc-mat-sau-galaxy-ai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-mat-truoc-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/canh-phai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/canh-trai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/Galaxy-S26-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/hieu-nang-exynos-2500-3nm-samsung-galaxy-s26-fe-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-man-hinh-120hz-samsung-galaxy-s26-fe-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-noi-bat-samsung-galaxy-s26-fe-5g-xanh-la-xanh-navy.webp"
+      ]
+    },
+    {
+      "sku": "DT015-SSS26FE5G-XANH-NAVY-8GB-256GB",
+      "color": "Xanh Navy",
+      "colorHex": "#1E3A8A",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 16490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s26-fe-5g/anh-dai-dien-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-truoc-mat-sau-galaxy-ai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-mat-truoc-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/canh-phai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/canh-trai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/Galaxy-S26-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/hieu-nang-exynos-2500-3nm-samsung-galaxy-s26-fe-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-man-hinh-120hz-samsung-galaxy-s26-fe-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-noi-bat-samsung-galaxy-s26-fe-5g-xanh-la-xanh-navy.webp"
+      ]
+    },
+    {
+      "sku": "DT015-SSS26FE5G-DEN-8GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 14990000,
+      "originalPrice": 18990000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s26-fe-5g/anh-dai-dien-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-mat-truoc-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/canh-phai-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/canh-trai-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/hieu-nang-exynos-2400-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/Galaxy-S26-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/hieu-nang-exynos-2500-3nm-samsung-galaxy-s26-fe-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-man-hinh-120hz-samsung-galaxy-s26-fe-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-noi-bat-samsung-galaxy-s26-fe-5g-xanh-la-xanh-navy.webp"
+      ]
+    },
+    {
+      "sku": "DT015-SSS26FE5G-DEN-8GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 16490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s26-fe-5g/anh-dai-dien-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-mat-truoc-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/canh-phai-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/canh-trai-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/hieu-nang-exynos-2400-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/Galaxy-S26-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/hieu-nang-exynos-2500-3nm-samsung-galaxy-s26-fe-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-man-hinh-120hz-samsung-galaxy-s26-fe-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-noi-bat-samsung-galaxy-s26-fe-5g-xanh-la-xanh-navy.webp"
+      ]
+    },
+    {
+      "sku": "DT015-SSS26FE5G-TRANG-8GB-128GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 14990000,
+      "originalPrice": 18990000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s26-fe-5g/anh-dai-dien-samsung-galaxy-s26-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-mat-truoc-samsung-galaxy-s26-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-samsung-galaxy-s26-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/canh-phai-samsung-galaxy-s26-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/canh-trai-samsung-galaxy-s26-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/Galaxy-S26-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/hieu-nang-exynos-2500-3nm-samsung-galaxy-s26-fe-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-man-hinh-120hz-samsung-galaxy-s26-fe-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-noi-bat-samsung-galaxy-s26-fe-5g-xanh-la-xanh-navy.webp"
+      ]
+    },
+    {
+      "sku": "DT015-SSS26FE5G-TRANG-8GB-256GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 16490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s26-fe-5g/anh-dai-dien-samsung-galaxy-s26-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-mat-truoc-samsung-galaxy-s26-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-samsung-galaxy-s26-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/canh-phai-samsung-galaxy-s26-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/canh-trai-samsung-galaxy-s26-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/Galaxy-S26-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/hieu-nang-exynos-2500-3nm-samsung-galaxy-s26-fe-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-man-hinh-120hz-samsung-galaxy-s26-fe-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-noi-bat-samsung-galaxy-s26-fe-5g-xanh-la-xanh-navy.webp"
+      ]
+    },
+    {
+      "sku": "DT015-SSS26FE5G-XANH-LA-8GB-128GB",
+      "color": "Xanh Lá",
+      "colorHex": "#228B57",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 14990000,
+      "originalPrice": 18990000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s26-fe-5g/anh-dai-dien-samsung-galaxy-s26-fe-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/he-thong-camera-50mp-samsung-galaxy-s26-fe-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/Galaxy-S26-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/hieu-nang-exynos-2500-3nm-samsung-galaxy-s26-fe-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-man-hinh-120hz-samsung-galaxy-s26-fe-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-noi-bat-samsung-galaxy-s26-fe-5g-xanh-la-xanh-navy.webp"
+      ]
+    },
+    {
+      "sku": "DT015-SSS26FE5G-XANH-LA-8GB-256GB",
+      "color": "Xanh Lá",
+      "colorHex": "#228B57",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 16490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s26-fe-5g/anh-dai-dien-samsung-galaxy-s26-fe-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/he-thong-camera-50mp-samsung-galaxy-s26-fe-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/Galaxy-S26-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/hieu-nang-exynos-2500-3nm-samsung-galaxy-s26-fe-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-man-hinh-120hz-samsung-galaxy-s26-fe-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-noi-bat-samsung-galaxy-s26-fe-5g-xanh-la-xanh-navy.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "Dynamic AMOLED 2X",
+    "size": "6,7 inch",
+    "resolution": "Full HD+ (1080 x 2340 pixel)",
+    "refreshRate": "120Hz",
+    "brightness": "1.900 nit (HBM)",
+    "hdr": "HDR10+",
+    "protection": "Corning Gorilla Glass Victus+",
+    "features": [
+      "Tần số quét 120Hz",
+      "Vision Booster",
+      "Bảo vệ mắt"
+    ]
+  },
+  "performance": {
+    "chipset": "Samsung Exynos 2500 (3nm)",
+    "cpu": "10 nhân (1x 3,3 GHz Cortex-X925 + 7x Cortex-A725 + 2x 1,8 GHz Cortex-A520)",
+    "gpu": "Samsung Xclipse 950",
+    "ram": [
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "operatingSystem": "Android 17, One UI 9",
+    "uiVersion": "One UI 9",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Wide f/1.8 (24mm, Dual Pixel PDAF, OIS)",
+    "ultraWide": "12MP Ultra Wide f/2.2 (13mm, 123°)",
+    "telephoto": "8MP Telephoto f/2.4 (69mm, PDAF, OIS, Zoom quang học 3x)",
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "8K@24/30fps",
+      "4K@30/60/120fps",
+      "1080p@30/60/120/240fps",
+      "HDR10+"
+    ],
+    "aiFeatures": [
+      "ProVisual Engine",
+      "Galaxy AI Photo Assist",
+      "Best Face",
+      "Nightography"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "12MP Wide f/2.2 (23mm)",
+    "features": [
+      "HDR10+"
+    ],
+    "videoRecording": [
+      "4K@30/60fps",
+      "1080p@30/60fps"
+    ]
+  },
+  "battery": {
+    "capacity": "4.900 mAh",
+    "wiredCharging": "Sạc siêu nhanh 45W USB-C PD (69% trong 30 phút)",
+    "wirelessCharging": "Sạc không dây 15W (tương thích Qi2)",
+    "reverseCharging": "Chia sẻ pin không dây",
+    "chargingTechnology": "Super Fast Charging 2.0 (45W)"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM / eSIM kép"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 6E (802.11 a/b/g/n/ac/6e)",
+    "bluetooth": "Bluetooth 5.4 (A2DP, LE)",
+    "gps": [
+      "GPS",
+      "GLONASS",
+      "GALILEO",
+      "BDS"
+    ],
+    "usb": "USB Type-C, OTG",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "161,6 x 76,9 x 7,4 mm",
+    "weight": "193 g",
+    "materials": [
+      "Khung hợp kim nhôm",
+      "Hai mặt kính Corning Gorilla Glass Victus+"
+    ],
+    "waterResistance": "IP68 (1,5m trong 30 phút)",
+    "availableColors": [
+      "Xanh Lá",
+      "Xám"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo",
+    "headphoneJack": null,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "6,7 inch AMOLED 120Hz",
+    "Exynos 2500 (3nm)",
+    "3 Camera 50MP OIS + Tele 3x",
+    "Pin 4.900 mAh · Sạc 45W"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Samsung tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/samsung/galaxy-s26-fe-5g/anh-dai-dien-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/samsung/galaxy-s26-fe-5g/anh-dai-dien-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/anh-dai-dien-samsung-galaxy-s26-fe-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/anh-dai-dien-samsung-galaxy-s26-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/anh-dai-dien-samsung-galaxy-s26-fe-5g-xanh-la.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/anh-dai-dien-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/02-front-back.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/mat-truoc-mat-sau-galaxy-ai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/mat-truoc-mat-sau-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-mat-truoc-samsung-galaxy-s26-fe-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-mat-truoc-samsung-galaxy-s26-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-mat-truoc-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-mat-truoc-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-samsung-galaxy-s26-fe-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-samsung-galaxy-s26-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/canh-phai-samsung-galaxy-s26-fe-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/canh-phai-samsung-galaxy-s26-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/canh-phai-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/canh-phai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/canh-trai-samsung-galaxy-s26-fe-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/canh-trai-samsung-galaxy-s26-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/canh-trai-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/canh-trai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/he-thong-camera-50mp-samsung-galaxy-s26-fe-5g-xanh-la.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/Galaxy-S26-FE-5G.jpg",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/hieu-nang-exynos-2400-samsung-galaxy-s26-fe-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/hieu-nang-exynos-2500-3nm-samsung-galaxy-s26-fe-5g-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-man-hinh-120hz-samsung-galaxy-s26-fe-5g-xanh-la.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-noi-bat-samsung-galaxy-s26-fe-5g-xanh-la-xanh-navy.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/samsung/galaxy-s26-fe-5g/anh-dai-dien-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-mat-truoc-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/canh-phai-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/canh-trai-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/hieu-nang-exynos-2400-samsung-galaxy-s26-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/Galaxy-S26-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/hieu-nang-exynos-2500-3nm-samsung-galaxy-s26-fe-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-man-hinh-120hz-samsung-galaxy-s26-fe-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-noi-bat-samsung-galaxy-s26-fe-5g-xanh-la-xanh-navy.webp"
+      ],
+      "Trắng": [
+        "assets/images/products/samsung/galaxy-s26-fe-5g/anh-dai-dien-samsung-galaxy-s26-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-mat-truoc-samsung-galaxy-s26-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-samsung-galaxy-s26-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/canh-phai-samsung-galaxy-s26-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/canh-trai-samsung-galaxy-s26-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/Galaxy-S26-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/hieu-nang-exynos-2500-3nm-samsung-galaxy-s26-fe-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-man-hinh-120hz-samsung-galaxy-s26-fe-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-noi-bat-samsung-galaxy-s26-fe-5g-xanh-la-xanh-navy.webp"
+      ],
+      "Xanh Dương Nhạt": [
+        "assets/images/products/samsung/galaxy-s26-fe-5g/anh-dai-dien-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-truoc-mat-sau-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-mat-truoc-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/canh-phai-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/canh-trai-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/Galaxy-S26-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/hieu-nang-exynos-2500-3nm-samsung-galaxy-s26-fe-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-man-hinh-120hz-samsung-galaxy-s26-fe-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-noi-bat-samsung-galaxy-s26-fe-5g-xanh-la-xanh-navy.webp"
+      ],
+      "Xanh Lá": [
+        "assets/images/products/samsung/galaxy-s26-fe-5g/anh-dai-dien-samsung-galaxy-s26-fe-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/he-thong-camera-50mp-samsung-galaxy-s26-fe-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/Galaxy-S26-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/hieu-nang-exynos-2500-3nm-samsung-galaxy-s26-fe-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-man-hinh-120hz-samsung-galaxy-s26-fe-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-noi-bat-samsung-galaxy-s26-fe-5g-xanh-la-xanh-navy.webp"
+      ],
+      "Xanh Navy": [
+        "assets/images/products/samsung/galaxy-s26-fe-5g/anh-dai-dien-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-truoc-mat-sau-galaxy-ai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-mat-truoc-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/mat-lung-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/canh-phai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/canh-trai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/Galaxy-S26-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/hieu-nang-exynos-2500-3nm-samsung-galaxy-s26-fe-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-man-hinh-120hz-samsung-galaxy-s26-fe-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-s26-fe-5g/thong-so-noi-bat-samsung-galaxy-s26-fe-5g-xanh-la-xanh-navy.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/samsung/galaxy-s26-fe-5g/mat-truoc-mat-sau-galaxy-ai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+      "screen": "assets/images/products/samsung/galaxy-s26-fe-5g/mat-truoc-mat-sau-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+      "performance": "assets/images/products/samsung/galaxy-s26-fe-5g/hieu-nang-exynos-2400-samsung-galaxy-s26-fe-5g-den.webp",
+      "camera": "assets/images/products/samsung/galaxy-s26-fe-5g/he-thong-camera-50mp-samsung-galaxy-s26-fe-5g-xanh-la.webp",
+      "battery": "assets/images/products/samsung/galaxy-s26-fe-5g/canh-phai-samsung-galaxy-s26-fe-5g-den.webp",
+      "feature": "assets/images/products/samsung/galaxy-s26-fe-5g/anh-dai-dien-samsung-galaxy-s26-fe-5g-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/samsung/galaxy-s26-fe-5g/anh-dai-dien-samsung-galaxy-s26-fe-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/anh-dai-dien-samsung-galaxy-s26-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/anh-dai-dien-samsung-galaxy-s26-fe-5g-xanh-la.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/anh-dai-dien-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/02-front-back.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/mat-truoc-mat-sau-galaxy-ai-samsung-galaxy-s26-fe-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/mat-truoc-mat-sau-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-mat-truoc-samsung-galaxy-s26-fe-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-mat-truoc-samsung-galaxy-s26-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-s26-fe-5g/man-hinh-mat-truoc-samsung-galaxy-s26-fe-5g-xanh-duong-nhat.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.samsung.com/vn/smartphones/",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s26-series",
+      "https://www.samsung.com/vn/smartphones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "verified",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT015-SSS26FE5G",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "Dynamic AMOLED 2X",
+      "Kích thước màn hình": "6,7 inch (tỷ lệ hiển thị ~88,7% mặt trước)",
+      "Độ phân giải màn hình": "Full HD+ (1080 x 2340 pixel, ~385 ppi)",
+      "Tần số quét": "120Hz",
+      "Kiểu màn hình": "Màn hình phẳng Infinity-O, kính Corning Gorilla Glass Victus+",
+      "Tính năng màn hình": "Độ sáng cao 1.900 nit (HBM), HDR10+, Vision Booster, Always-On Display"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera: Chính 50MP (f/1.8, 24mm, Dual Pixel PDAF, OIS) + Góc siêu rộng 12MP (f/2.2, 13mm, 123°) + Telephoto 8MP (f/2.4, 69mm, OIS, Zoom quang học 3x)",
+      "Quay video": "8K@24/30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, HDR10+, chống rung OIS + gyro-EIS",
+      "Tính năng camera": "Zoom quang học 3x, Zoom kỹ thuật số 30x, ProVisual Engine, Best Face, Nightography, Panorama"
+    },
+    "Camera trước": {
+      "Camera trước": "12MP (f/2.2, 23mm); hỗ trợ HDR10+ và quay video 4K@30/60fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Samsung Exynos 2500 (tiến trình 3nm)",
+      "Loại CPU": "10 nhân (1x 3,3 GHz Cortex-X925 + 2x 2,74 GHz Cortex-A725 + 5x 2,36 GHz Cortex-A725 + 2x 1,8 GHz Cortex-A520)",
+      "GPU": "Samsung Xclipse 950 kiến trúc AMD RDNA"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB LPDDR5X",
+      "Bộ nhớ trong": "2 phiên bản: 128GB và 256GB chuẩn UFS 4.0"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "4.900 mAh (Li-Ion)",
+      "Công nghệ sạc": "Sạc siêu nhanh có dây 45W PD (đạt 69% pin trong 30 phút), sạc không dây 15W (tương thích Qi2), chia sẻ pin không dây",
+      "Cổng sạc": "USB Type-C, hỗ trợ OTG và Samsung DeX"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 17, giao diện One UI 9 (hỗ trợ cập nhật 7 thế hệ Android)",
+      "Công nghệ - Tiện ích": "Tích hợp đầy đủ bộ tính năng Galaxy AI, Circle to Search, Live Translate, Photo Assist, Samsung DeX",
+      "Tiện ích khác": "Bảo mật Samsung Knox, cảm biến vân tay quang học dưới màn hình",
+      "Thời điểm ra mắt": "Tháng 09/2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G SA/NSA/Sub6 đa băng tần, LTE-A",
+      "Thẻ SIM": "SIM kép (2 Nano-SIM vật lý hoặc Nano-SIM + eSIM / 2 eSIM)",
+      "Wi-Fi": "Wi-Fi 6E (802.11 a/b/g/n/ac/6e), Wi-Fi Direct",
+      "Bluetooth": "Bluetooth 5.4 (A2DP, LE)",
+      "Công nghệ NFC": "Có hỗ trợ NFC",
+      "GPS": "GPS, GLONASS, GALILEO, BDS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung hợp kim nhôm cứng cáp",
+      "Chất liệu mặt lưng": "Hai mặt kính cường lực Corning Gorilla Glass Victus+",
+      "Kích thước": "161,6 x 76,9 x 7,4 mm",
+      "Trọng lượng": "193 gram",
+      "Chỉ số kháng nước, bụi": "IP68 theo tiêu chuẩn IEC 60529 (kháng nước ở độ sâu 1,5 mét trong 30 phút)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo, hỗ trợ Dolby Atmos",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình",
+      "Các loại cảm biến": "Vân tay dưới màn hình, Gia tốc kế, Con quay hồi chuyển, Cảm biến tiệm cận, La bàn số, Áp kế"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,7 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "Dynamic AMOLED 2X"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "Full HD+ (1080 x 2340 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Samsung Exynos 2500 (3nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB UFS 4.0"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính OIS + 12MP Ultra Wide + 8MP Telephoto 3x OIS"
+    },
+    {
+      "label": "Camera trước",
+      "value": "12MP, khẩu độ f/2.2, quay 4K 60fps"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "4.900 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc có dây 45W, sạc không dây Qi2 15W, sạc ngược không dây"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 17, One UI 9"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 (1,5 mét trong 30 phút)"
+    }
+  ],
+  "verbatimDescription": [
+    "Samsung Galaxy S26 FE 5G là phiên bản Fan Edition thế hệ 2026 được thiết kế dành cho những người dùng muốn trải nghiệm trọn vẹn hệ sinh thái cao cấp của dòng Galaxy S26 với mức chi phí tối ưu nhất. Máy thừa hưởng ngôn ngữ thiết kế thanh lịch độ mỏng chỉ 7,4 mm, màn hình lớn 6,7 inch cùng cam kết hỗ trợ phần mềm lên tới 7 thế hệ Android.",
+    "Thân máy Galaxy S26 FE 5G được hoàn thiện từ khung hợp kim nhôm kết hợp hai mặt kính cường lực Corning Gorilla Glass Victus+ bền bỉ, đạt chuẩn kháng nước và bụi IP68. Màn hình phẳng Dynamic AMOLED 2X kích thước 6,7 inch độ phân giải Full HD+ (1080 x 2340 pixel) mang lại tần số quét mượt mà 120Hz, chuẩn HDR10+ và độ sáng cao 1.900 nit kèm công nghệ Vision Booster giúp hiển thị sống động ngoài trời.",
+    "Trái tim của Galaxy S26 FE 5G là vi xử lý 10 nhân Samsung Exynos 2500 sản xuất trên tiến trình 3nm tiên tiến (nhân chính Cortex-X925 tốc độ 3,3 GHz) kết hợp đồ họa Xclipse 950 kiến trúc AMD RDNA. Đi kèm 8GB RAM LPDDR5X và bộ nhớ trong chuẩn UFS 4.0 (128GB hoặc 256GB), thiết bị đáp ứng mượt mà các tác vụ giải trí, chơi game và xử lý trí tuệ nhân tạo Galaxy AI.",
+    "Khác biệt lớn của dòng S FE so với các mẫu điện thoại cận cao cấp thông thường nằm ở hệ thống 3 camera sau đầy đủ tiêu cự: camera chính 50MP (f/1.8, Dual Pixel PDAF, chống rung quang học OIS), camera góc siêu rộng 12MP (góc nhìn 123°) và ống kính Telephoto 8MP (f/2.4, có OIS, zoom quang học 3x). Máy hỗ trợ quay video lên đến 8K@30fps, 4K@120fps và đi kèm camera selfie 12MP quay 4K@60fps sắc nét.",
+    "Sở hữu viên pin dung lượng 4.900 mAh tương đương bản S26 Plus, Galaxy S26 FE 5G mang lại thời lượng sử dụng ấn tượng suốt ngày dài. Công nghệ sạc siêu nhanh có dây 45W giúp nạp 69% pin chỉ trong 30 phút, bên cạnh sạc không dây 15W tương thích chuẩn Qi2 và tính năng chia sẻ pin không dây.",
+    "Máy được cài sẵn Android 17 và giao diện One UI 9 ngay khi xuất xưởng, tích hợp đầy đủ các công cụ Galaxy AI tiếng Việt, chế độ máy tính Samsung DeX (cả có dây và không dây), kết nối 5G, Wi-Fi 6E, Bluetooth 5.4, NFC và bảo mật Samsung Knox an toàn."
+  ],
+  "priceSegment": "upper-midrange"
+}

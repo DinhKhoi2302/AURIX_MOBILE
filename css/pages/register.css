@@ -1,0 +1,122 @@
+/* AURIX MOBILE — Modern Registration & Circular Avatar Uploader Styles */
+[hidden],
+.tp-register-wrap[hidden] {
+  display: none !important;
+}
+
+.tp-register-wrap {
+  max-width: 1040px;
+  margin: 1.25rem auto 2.5rem;
+  display: grid;
+  grid-template-columns: 0.88fr 1.22fr;
+  background: var(--tp-white);
+  border: 1px solid var(--tp-border);
+  border-radius: 22px;
+  overflow: hidden;
+  box-shadow: 0 20px 50px rgba(16, 35, 71, 0.09);
+}
+
+.tp-register-aside {
+  background: linear-gradient(150deg, #0D1F40 0%, #0666F5 60%, #27C4E8 100%);
+  color: #FFFFFF;
+  padding: 2.75rem 2.35rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+  overflow: hidden;
+}
+
+.tp-auth-feature-list {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+}
+
+.tp-auth-feature-item {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  padding: 0.7rem 0.95rem;
+  border-radius: 12px;
+  font-size: 0.88rem;
+  color: #F0F6FF;
+}
+
+.tp-register-form-box {
+  padding: 2.5rem 2.5rem;
+}
+
+.tp-avatar-uploader {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  padding: 1rem 1.25rem;
+  background: #F4F8FF;
+  border: 1.5px dashed #93C5FD;
+  border-radius: 16px;
+  margin-bottom: 1.35rem;
+}
+
+.tp-avatar-circle {
+  width: 82px;
+  height: 82px;
+  border-radius: 50%;
+  overflow: hidden;
+  flex-shrink: 0;
+  border: 3px solid var(--tp-primary);
+  background: #FFFFFF;
+  box-shadow: 0 6px 16px rgba(6, 102, 245, 0.16);
+}
+
+.tp-avatar-circle img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+}
+
+.tp-strength-meter {
+  height: 6px;
+  background: var(--tp-border);
+  border-radius: var(--tp-radius-pill);
+  overflow: hidden;
+  margin-top: 0.45rem;
+}
+
+.tp-strength-bar {
+  height: 100%;
+  width: 0%;
+  transition: width 0.25s ease, background-color 0.25s ease;
+}
+
+.tp-registered-preview {
+  background: var(--tp-success-soft);
+  border: 1px solid var(--tp-success);
+  border-radius: var(--tp-radius-lg);
+  padding: 1.25rem;
+  margin-top: 1.25rem;
+}
+
+@media (max-width: 991px) {
+  .tp-register-wrap {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 576px) {
+  .tp-register-aside,
+  .tp-register-form-box {
+    padding: 1.5rem;
+  }
+  .tp-avatar-uploader {
+    flex-direction: column;
+    text-align: center;
+  }
+}

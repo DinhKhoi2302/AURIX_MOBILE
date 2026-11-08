@@ -1,0 +1,100 @@
+/* TechPhone — Tablet Responsive Adjustments (<= 1199px & <= 991px) */
+@media (max-width: 1199px) {
+  .tp-product-grid-6 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .tp-product-grid-4 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .tp-benefits-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .tp-sitemap-branches {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 1024px) {
+  .tp-nav-links {
+    gap: 0.9rem;
+  }
+  .tp-cat-trigger {
+    min-width: 190px;
+    padding: 0.55rem 0.9rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .tp-header-top {
+    flex-wrap: wrap;
+    gap: 0.85rem;
+  }
+  .tp-search-bar {
+    order: 3;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .tp-mobile-toggle {
+    display: inline-flex;
+  }
+  .tp-nav-links {
+    display: none;
+    width: 100%;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.25rem;
+    padding: 0.75rem 0;
+  }
+  .tp-nav-links.is-open {
+    display: flex;
+  }
+  .tp-nav-inner {
+    flex-wrap: wrap;
+    padding: 0.45rem 0;
+  }
+  .tp-catalog-layout > *,
+  .tp-hero-layout > *,
+  .tp-detail-top > *,
+  .tp-cart-layout > *,
+  .tp-contact-grid > * {
+    min-width: 0;
+    max-width: 100%;
+  }
+  .tp-hero-layout {
+    grid-template-columns: 1fr;
+  }
+  .tp-sidebar-menu {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.45rem;
+  }
+  .tp-sidebar-item + .tp-sidebar-item {
+    border-top: none;
+  }
+  .tp-promo-grid {
+    grid-template-columns: 1fr;
+  }
+  .tp-catalog-layout,
+  .tp-detail-top,
+  .tp-cart-layout,
+  .tp-auth-wrap,
+  .tp-news-featured,
+  .tp-contact-grid {
+    grid-template-columns: 1fr;
+  }
+  .tp-filter-panel {
+    position: static;
+  }
+  .tp-footer-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .tp-team-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .tp-mega-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .tp-cat-trigger {
+    min-width: auto;
+  }
+}

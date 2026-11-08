@@ -1,0 +1,121 @@
+{
+  "id": "baseus-picogo-45w-usb-c-charger-ccgan45cs",
+  "docCode": "PK-CU006-CCGAN45CS",
+  "model": "Củ Sạc Baseus PicoGo 45W Ultra-Compact GaN CCGAN45CS",
+  "brand": "Baseus",
+  "brandId": "baseus",
+  "parentGroupId": "baseus",
+  "series": "Củ sạc",
+  "subCategory": "cu-sac",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "cu-sac"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Củ sạc",
+    "highlights": [
+      "45W"
+    ],
+    "description": "Với kích thước siêu tí hon chỉ tương đương bao diêm nhờ công nghệ GaN PicoGo đột phá, củ sạc mang lại công suất tới 45W dễ dàng sạc cho cả laptop mỏng nhẹ, iPad Pro hay Samsung S24 Ultra. Tản nhiệt thông minh BCT giúp củ sạc luôn mát mẻ khi hoạt động hết công suất."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 320000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/cu-sac/baseus-picogo-45w-usb-c-charger-ccgan45cs/anh-dai-dien-baseus-picogo-45w-usb-c-charger-ccgan45cs-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/cu-sac/baseus-picogo-45w-usb-c-charger-ccgan45cs/anh-dai-dien-baseus-picogo-45w-usb-c-charger-ccgan45cs-den.webp",
+      "assets/images/products/accessory/cu-sac/baseus-picogo-45w-usb-c-charger-ccgan45cs/cau-truc-linh-kien-chip-gan-ben-trong-den.webp",
+      "assets/images/products/accessory/cu-sac/baseus-picogo-45w-usb-c-charger-ccgan45cs/mat-ben-thiet-ke-nho-gon-den.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/accessory/cu-sac/baseus-picogo-45w-usb-c-charger-ccgan45cs/anh-dai-dien-baseus-picogo-45w-usb-c-charger-ccgan45cs-den.webp",
+        "assets/images/products/accessory/cu-sac/baseus-picogo-45w-usb-c-charger-ccgan45cs/cau-truc-linh-kien-chip-gan-ben-trong-den.webp",
+        "assets/images/products/accessory/cu-sac/baseus-picogo-45w-usb-c-charger-ccgan45cs/mat-ben-thiet-ke-nho-gon-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/cu-sac/baseus-picogo-45w-usb-c-charger-ccgan45cs/mat-ben-thiet-ke-nho-gon-den.webp",
+      "screen": "assets/images/products/accessory/cu-sac/baseus-picogo-45w-usb-c-charger-ccgan45cs/cau-truc-linh-kien-chip-gan-ben-trong-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/cu-sac/baseus-picogo-45w-usb-c-charger-ccgan45cs/cau-truc-linh-kien-chip-gan-ben-trong-den.webp",
+      "assets/images/products/accessory/cu-sac/baseus-picogo-45w-usb-c-charger-ccgan45cs/mat-ben-thiet-ke-nho-gon-den.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Baseus",
+      "Công suất sạc tối đa": "45W",
+      "Số lượng cổng sạc": "1 cổng",
+      "Loại cổng sạc": "USB-C",
+      "Công nghệ sạc": "PD 3.0, QC 4+, PPS, BCT (Baseus Cooling Technology)",
+      "Công nghệ chế tạo": "GaN thế hệ mới siêu thu nhỏ",
+      "Kiểu chân cắm": "Chân tròn",
+      "Màu sắc": "Đen"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Baseus"
+    },
+    {
+      "label": "Công suất sạc tối đa",
+      "value": "45W"
+    },
+    {
+      "label": "Số lượng cổng sạc",
+      "value": "1 cổng"
+    },
+    {
+      "label": "Loại cổng sạc",
+      "value": "USB-C"
+    },
+    {
+      "label": "Công nghệ sạc",
+      "value": "PD 3.0, QC 4+, PPS, BCT (Baseus Cooling Technology)"
+    },
+    {
+      "label": "Công nghệ chế tạo",
+      "value": "GaN thế hệ mới siêu thu nhỏ"
+    },
+    {
+      "label": "Kiểu chân cắm",
+      "value": "Chân tròn"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Đen"
+    }
+  ],
+  "verbatimDescription": [
+    "Với kích thước siêu tí hon chỉ tương đương bao diêm nhờ công nghệ GaN PicoGo đột phá, củ sạc mang lại công suất tới 45W dễ dàng sạc cho cả laptop mỏng nhẹ, iPad Pro hay Samsung S24 Ultra. Tản nhiệt thông minh BCT giúp củ sạc luôn mát mẻ khi hoạt động hết công suất."
+  ],
+  "variants": [
+    {
+      "sku": "PK-CU006-CCGAN45CS-DEN-TIEU-CHUAN",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 320000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/cu-sac/baseus-picogo-45w-usb-c-charger-ccgan45cs/anh-dai-dien-baseus-picogo-45w-usb-c-charger-ccgan45cs-den.webp",
+        "assets/images/products/accessory/cu-sac/baseus-picogo-45w-usb-c-charger-ccgan45cs/cau-truc-linh-kien-chip-gan-ben-trong-den.webp",
+        "assets/images/products/accessory/cu-sac/baseus-picogo-45w-usb-c-charger-ccgan45cs/mat-ben-thiet-ke-nho-gon-den.webp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "xiaomi-120w-usb-pd-charger-combo",
+  "docCode": "PK-CU011-MI120W",
+  "model": "Bộ Củ Sạc Siêu Nhanh Xiaomi 120W Charging Combo",
+  "brand": "Xiaomi",
+  "brandId": "xiaomi",
+  "parentGroupId": "xiaomi",
+  "series": "Củ sạc",
+  "subCategory": "cu-sac",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "cu-sac"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Củ sạc",
+    "highlights": [
+      "120W"
+    ],
+    "description": "Bộ sạc siêu tốc độ 120W chính hãng Xiaomi giúp sạc đầy viên pin 5000mAh từ 0% lên 100% chỉ trong khoảng 19 phút. Tích hợp 10 lớp bảo vệ thông minh kiểm soát quá áp, quá dòng, chống tĩnh điện và bảo vệ đoản mạch tuyệt đối an toàn."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 690000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/anh-dai-dien-xiaomi-120w-usb-pd-charger-combo-trang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/anh-dai-dien-xiaomi-120w-usb-pd-charger-combo-trang.webp",
+      "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/cu-sac-goc-nghieng-phai-trang.webp",
+      "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/cu-sac-goc-nghieng-trai-trang.webp",
+      "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/cam-o-dien-sac-dien-thoai-trang.webp",
+      "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/can-canh-chan-cam-tron-trang.webp",
+      "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/can-canh-cong-sac-usb-trang.webp",
+      "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/cu-sac-120w-thang-dung-trang.webp",
+      "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/cu-sac-dat-tren-ban-trang.webp",
+      "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/cu-sac-kem-cap-dai-100cm-trang.webp",
+      "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/kich-thuoc-cu-sac-120w-trang.webp"
+    ],
+    "byColor": {
+      "Trắng": [
+        "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/anh-dai-dien-xiaomi-120w-usb-pd-charger-combo-trang.webp",
+        "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/cu-sac-goc-nghieng-phai-trang.webp",
+        "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/cu-sac-goc-nghieng-trai-trang.webp",
+        "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/cam-o-dien-sac-dien-thoai-trang.webp",
+        "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/can-canh-chan-cam-tron-trang.webp",
+        "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/can-canh-cong-sac-usb-trang.webp",
+        "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/cu-sac-120w-thang-dung-trang.webp",
+        "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/cu-sac-dat-tren-ban-trang.webp",
+        "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/cu-sac-kem-cap-dai-100cm-trang.webp",
+        "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/kich-thuoc-cu-sac-120w-trang.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/cu-sac-goc-nghieng-phai-trang.webp",
+      "screen": "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/cu-sac-goc-nghieng-trai-trang.webp",
+      "performance": "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/cam-o-dien-sac-dien-thoai-trang.webp",
+      "camera": "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/can-canh-chan-cam-tron-trang.webp",
+      "battery": "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/can-canh-cong-sac-usb-trang.webp",
+      "feature": "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/cu-sac-kem-cap-dai-100cm-trang.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/cu-sac-goc-nghieng-phai-trang.webp",
+      "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/cu-sac-goc-nghieng-trai-trang.webp",
+      "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/cam-o-dien-sac-dien-thoai-trang.webp",
+      "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/can-canh-chan-cam-tron-trang.webp",
+      "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/can-canh-cong-sac-usb-trang.webp",
+      "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/cu-sac-120w-thang-dung-trang.webp",
+      "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/cu-sac-dat-tren-ban-trang.webp",
+      "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/cu-sac-kem-cap-dai-100cm-trang.webp",
+      "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/kich-thuoc-cu-sac-120w-trang.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Xiaomi",
+      "Công suất sạc tối đa": "120W (HyperCharge)",
+      "Số lượng cổng sạc": "1 cổng",
+      "Loại cổng sạc": "USB-A (Chân tiếp xúc cam hỗ trợ chuẩn PD công suất cao)",
+      "Công nghệ sạc": "Xiaomi HyperCharge 120W, QC 3+, PD 3.0",
+      "Công nghệ chế tạo": "Biến áp bán dẫn công suất cao tản nhiệt kép",
+      "Kiểu chân cắm": "Chân dẹt / Chân tròn",
+      "Màu sắc": "Trắng"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Xiaomi"
+    },
+    {
+      "label": "Công suất sạc tối đa",
+      "value": "120W (HyperCharge)"
+    },
+    {
+      "label": "Số lượng cổng sạc",
+      "value": "1 cổng"
+    },
+    {
+      "label": "Loại cổng sạc",
+      "value": "USB-A (Chân tiếp xúc cam hỗ trợ chuẩn PD công suất cao)"
+    },
+    {
+      "label": "Công nghệ sạc",
+      "value": "Xiaomi HyperCharge 120W, QC 3+, PD 3.0"
+    },
+    {
+      "label": "Công nghệ chế tạo",
+      "value": "Biến áp bán dẫn công suất cao tản nhiệt kép"
+    },
+    {
+      "label": "Kiểu chân cắm",
+      "value": "Chân dẹt / Chân tròn"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Trắng"
+    }
+  ],
+  "verbatimDescription": [
+    "Bộ sạc siêu tốc độ 120W chính hãng Xiaomi giúp sạc đầy viên pin 5000mAh từ 0% lên 100% chỉ trong khoảng 19 phút. Tích hợp 10 lớp bảo vệ thông minh kiểm soát quá áp, quá dòng, chống tĩnh điện và bảo vệ đoản mạch tuyệt đối an toàn."
+  ],
+  "variants": [
+    {
+      "sku": "PK-CU011-MI120W-TRANG-TIEU-CHUAN",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/anh-dai-dien-xiaomi-120w-usb-pd-charger-combo-trang.webp",
+        "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/cu-sac-goc-nghieng-phai-trang.webp",
+        "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/cu-sac-goc-nghieng-trai-trang.webp",
+        "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/cam-o-dien-sac-dien-thoai-trang.webp",
+        "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/can-canh-chan-cam-tron-trang.webp",
+        "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/can-canh-cong-sac-usb-trang.webp",
+        "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/cu-sac-120w-thang-dung-trang.webp",
+        "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/cu-sac-dat-tren-ban-trang.webp",
+        "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/cu-sac-kem-cap-dai-100cm-trang.webp",
+        "assets/images/products/accessory/cu-sac/xiaomi-120w-usb-pd-charger-combo/kich-thuoc-cu-sac-120w-trang.webp"
+      ]
+    }
+  ]
+}

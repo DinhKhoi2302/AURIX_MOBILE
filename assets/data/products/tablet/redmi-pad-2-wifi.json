@@ -1,0 +1,295 @@
+{
+  "id": "redmi-pad-2-wifi",
+  "docCode": "TB-MI004-RP2-WF",
+  "model": "Xiaomi Redmi Pad 2 Wi-Fi",
+  "brand": "Redmi",
+  "brandId": "redmi",
+  "parentGroupId": "xiaomi",
+  "series": "Redmi Pad 2 Series",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "10.61 inch",
+      "Helio G99",
+      "Pin 8.000 mAh"
+    ],
+    "description": "Xiaomi Redmi Pad 2 Wi-Fi là chiếc máy tính bảng phổ thông sáng giá hàng đầu phân khúc với thân máy kim loại nguyên khối sang trọng cùng hai gam màu Tím mộng mơ và Xanh lá trẻ trung. Thiết kế viền mỏng cân đối mang lại diện mạo thanh thoát và hiện đại.",
+    "releaseDate": "2024 / 2025"
+  },
+  "performance": {
+    "chipset": "MediaTek Helio G99 (6nm)",
+    "ram": [
+      "4GB",
+      "6GB"
+    ],
+    "storage": [
+      "128GB"
+    ],
+    "operatingSystem": "Xiaomi HyperOS (Android 14)"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 3990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/anh-dai-dien-redmi-pad-2-wifi-tim.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/anh-dai-dien-redmi-pad-2-wifi-tim.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/anh-dai-dien-redmi-pad-2-wifi-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/mat-truoc-sau-tim.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/mat-truoc-dat-tren-ban-tim.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/mat-sau-dat-tren-ban-tim.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/mat-sau-dat-tren-ban-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/canh-ben-trai-phai-tim.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/canh-tren-duoi-loa-cong-sac-tim.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-cum-camera-sau-tim.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-cum-camera-sau-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/cam-tren-tay-man-hinh-tim.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-cong-sac-type-c-va-jack-tai-nghe-tim.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-cong-sac-type-c-va-jack-tai-nghe-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-nut-am-luong-va-camera-tim.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-nut-am-luong-va-camera-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-nut-nguon-va-loa-tim.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-nut-nguon-va-loa-xanh-la.webp"
+    ],
+    "byColor": {
+      "Tím": [
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/anh-dai-dien-redmi-pad-2-wifi-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/mat-truoc-sau-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/mat-truoc-dat-tren-ban-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/mat-sau-dat-tren-ban-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/canh-ben-trai-phai-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/canh-tren-duoi-loa-cong-sac-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-cum-camera-sau-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/cam-tren-tay-man-hinh-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-cong-sac-type-c-va-jack-tai-nghe-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-nut-am-luong-va-camera-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-nut-nguon-va-loa-tim.webp"
+      ],
+      "Xanh Lá": [
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/anh-dai-dien-redmi-pad-2-wifi-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/mat-sau-dat-tren-ban-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-cum-camera-sau-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-cong-sac-type-c-va-jack-tai-nghe-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-nut-am-luong-va-camera-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-nut-nguon-va-loa-xanh-la.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/mat-truoc-sau-tim.webp",
+      "screen": "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/mat-truoc-dat-tren-ban-tim.webp",
+      "performance": "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/cam-tren-tay-man-hinh-tim.webp",
+      "camera": "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-cum-camera-sau-tim.webp",
+      "battery": "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/canh-tren-duoi-loa-cong-sac-tim.webp",
+      "feature": "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/anh-dai-dien-redmi-pad-2-wifi-xanh-la.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/anh-dai-dien-redmi-pad-2-wifi-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/mat-truoc-sau-tim.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/mat-truoc-dat-tren-ban-tim.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/mat-sau-dat-tren-ban-tim.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/mat-sau-dat-tren-ban-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/canh-ben-trai-phai-tim.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/canh-tren-duoi-loa-cong-sac-tim.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-cum-camera-sau-tim.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-cum-camera-sau-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/cam-tren-tay-man-hinh-tim.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "10,61 inch IPS LCD 2K (2000 x 1200 pixel), tần số quét 90Hz, hiển thị hơn 1 tỷ màu (10-bit), độ sáng 400 nit, độ tương phản 1500:1",
+      "Tính năng màn hình": "Đạt chứng nhận bảo vệ mắt phần cứng TÜV Rheinland Low Blue Light và chứng nhận giảm mỏi mắt SGS Low Visual Fatigue"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "MediaTek Helio G99 6nm mát mẻ và ổn định",
+      "CPU & Đồ họa": "Octa-core 2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55, GPU Mali-G57 MC2",
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS phát triển trên nền Android 14"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "4GB / 6GB RAM LPDDR4X",
+      "Bộ nhớ trong": "128GB, hỗ trợ thẻ nhớ ngoài MicroSD lên tới 1TB"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "8MP tự động lấy nét, quay phim 1080p 30fps",
+      "Camera trước": "8MP góc rộng 105 độ với FocusFrame",
+      "Chi tiết hệ thống Camera": "Camera chính sau 8MP AF; Camera trước 8MP góc rộng 105 độ"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "8.000 mAh bền bỉ, hỗ trợ sạc 18W",
+      "Pin và công nghệ sạc": "Pin Lithium Polymer 8.000 mAh, sạc 18W qua cổng Type-C"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Tương thích các dòng bút stylus điện dung",
+      "Hỗ trợ bàn phím rời": "Kết nối bàn phím Bluetooth",
+      "Công nghệ âm thanh": "Dàn 4 loa ngoài stereo công nghệ âm thanh vòm Dolby Atmos",
+      "Thuộc tính đặc biệt": "Màn hình 2K 90Hz 1 tỷ màu, thân kim loại mỏng nhẹ, 4 loa Dolby Atmos"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Wi-Fi 5 (802.11 a/b/g/n/ac) băng tần kép",
+      "Thẻ SIM": "Không hỗ trợ (Bản thuần Wi-Fi)",
+      "Kết nối không dây & Cổng giao tiếp": "Wi-Fi băng tần kép 2.4/5GHz, Bluetooth 5.3, USB-C 2.0",
+      "Công nghệ - Tiện ích": "Tính năng liên kết thông minh HyperOS, chia đôi màn hình ứng dụng"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Độ mỏng 7.05 mm, trọng lượng 465 g",
+      "Bảo mật và độ bền": "Mở khóa khuôn mặt AI Face Unlock, thân kim loại nguyên khối",
+      "Thời điểm ra mắt": "Năm 2024 / 2025"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "10.61 inch IPS LCD 2K sắc nét (2000 x 1200 pixels)"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Tần số quét 90Hz mượt mà, hiển thị 1 tỷ màu, bảo vệ mắt TÜV Rheinland, 400 nits"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Helio G99 (6nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "4GB / 6GB LPDDR4X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB (Mở rộng MicroSD tối đa 1TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "8MP tự động lấy nét, quay phim 1080p 30fps"
+    },
+    {
+      "label": "Camera trước",
+      "value": "8MP góc rộng 105 độ với FocusFrame"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Pin Lithium Polymer 8.000 mAh, sạc 18W qua cổng Type-C"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Wi-Fi 5 (802.11 a/b/g/n/ac) băng tần kép"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Tương thích các dòng bút stylus điện dung"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Kết nối bàn phím Bluetooth"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS (Android 14)"
+    }
+  ],
+  "verbatimDescription": [
+    "Xiaomi Redmi Pad 2 Wi-Fi là chiếc máy tính bảng phổ thông sáng giá hàng đầu phân khúc với thân máy kim loại nguyên khối sang trọng cùng hai gam màu Tím mộng mơ và Xanh lá trẻ trung. Thiết kế viền mỏng cân đối mang lại diện mạo thanh thoát và hiện đại.",
+    "Màn hình 10.61 inch chuẩn 2K hiển thị tới 1 tỷ màu sống động kết hợp tần số quét 90Hz mượt mà giúp từng thước phim và trang sách hiện lên chân thực, bảo vệ mắt tối đa với chứng nhận ánh sáng xanh thấp từ TÜV Rheinland.",
+    "Trang bị vi xử lý Helio G99 ổn định, dàn 4 loa stereo Dolby Atmos to rõ và viên pin lớn 8.000 mAh, chiếc máy tính bảng đáp ứng trọn vẹn mọi nhu cầu học tập, xem video và giải trí của các bạn học sinh, sinh viên.",
+    "Camera trước 8MP góc siêu rộng 105° được đặt ở cạnh ngang và tích hợp tính năng FocusFrame thông minh, tự động theo dõi chuyển động và mở rộng khung hình khi có thêm người tham gia cuộc gọi video.",
+    "Giao diện Xiaomi HyperOS tối ưu hóa thao tác chia đôi màn hình Split Screen và cửa sổ nổi Floating Windows, cho phép người dùng vừa xem video hướng dẫn vừa ghi chú tài liệu một cách mượt mà.",
+    "Thân máy hợp kim nhôm unibody được gia công tỉ mỉ với độ mỏng chỉ 7,05mm và trọng lượng nhẹ 465g, mang lại cảm giác cầm nắm sang trọng và bền bỉ vượt xa các mẫu tablet vỏ nhựa cùng tầm giá."
+  ],
+  "variants": [
+    {
+      "sku": "TB-MI004-RP2-WF-TIM-4GB-128GB-WI-FI",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "4GB",
+      "storage": "4GB/128GB (Wi-Fi)",
+      "rom": "128GB",
+      "price": 3990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/anh-dai-dien-redmi-pad-2-wifi-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/mat-truoc-sau-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/mat-truoc-dat-tren-ban-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/mat-sau-dat-tren-ban-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/canh-ben-trai-phai-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/canh-tren-duoi-loa-cong-sac-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-cum-camera-sau-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/cam-tren-tay-man-hinh-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-cong-sac-type-c-va-jack-tai-nghe-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-nut-am-luong-va-camera-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-nut-nguon-va-loa-tim.webp"
+      ]
+    },
+    {
+      "sku": "TB-MI004-RP2-WF-TIM-6GB-128GB-WI-FI",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "6GB",
+      "storage": "6GB/128GB (Wi-Fi)",
+      "rom": "128GB",
+      "price": 4490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/anh-dai-dien-redmi-pad-2-wifi-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/mat-truoc-sau-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/mat-truoc-dat-tren-ban-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/mat-sau-dat-tren-ban-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/canh-ben-trai-phai-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/canh-tren-duoi-loa-cong-sac-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-cum-camera-sau-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/cam-tren-tay-man-hinh-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-cong-sac-type-c-va-jack-tai-nghe-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-nut-am-luong-va-camera-tim.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-nut-nguon-va-loa-tim.webp"
+      ]
+    },
+    {
+      "sku": "TB-MI004-RP2-WF-XANH-LA-4GB-128GB-WI-FI",
+      "color": "Xanh Lá",
+      "colorHex": "#228B57",
+      "ram": "4GB",
+      "storage": "4GB/128GB (Wi-Fi)",
+      "rom": "128GB",
+      "price": 3990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/anh-dai-dien-redmi-pad-2-wifi-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/mat-sau-dat-tren-ban-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-cum-camera-sau-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-cong-sac-type-c-va-jack-tai-nghe-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-nut-am-luong-va-camera-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-nut-nguon-va-loa-xanh-la.webp"
+      ]
+    },
+    {
+      "sku": "TB-MI004-RP2-WF-XANH-LA-6GB-128GB-WI-FI",
+      "color": "Xanh Lá",
+      "colorHex": "#228B57",
+      "ram": "6GB",
+      "storage": "6GB/128GB (Wi-Fi)",
+      "rom": "128GB",
+      "price": 4490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/anh-dai-dien-redmi-pad-2-wifi-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/mat-sau-dat-tren-ban-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-cum-camera-sau-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-cong-sac-type-c-va-jack-tai-nghe-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-nut-am-luong-va-camera-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-wifi/can-canh-nut-nguon-va-loa-xanh-la.webp"
+      ]
+    }
+  ]
+}

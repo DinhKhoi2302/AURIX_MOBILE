@@ -1,0 +1,473 @@
+{
+  "id": "vivo-y39-5g",
+  "brand": "vivo",
+  "brandId": "vivo",
+  "parentGroupId": "vivo",
+  "model": "vivo Y39 5G",
+  "series": "vivo Y Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "midrange"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Giảm giá",
+      "type": "sale"
+    }
+  ],
+  "overview": {
+    "releaseDate": "08/07/2025",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Chính thức ra mắt vào tháng 05/2026 – Mở bán chính thức tháng 06/2026 tại Việt Nam, vivo Y39 5G là bước tiến quan trọng của thương hiệu Vivo trong chiến lược chinh phục người tiêu dùng hiện đại. Thiết bị sở hữu mã hiệu V2455 / V2455A, được định vị là Chiếc điện thoại 5G toàn năng phân khúc phổ thông – tầm trung, trang bị chip Snapdragon 4 Gen 2 (4nm), pin 6.500 mAh, sạc 44W và kết nối NFC tiện ích. Với mức giá niêm yết tham khảo trong khoảng 5.690.000 VNĐ – 6.290.000 VNĐ, sản phẩm không chỉ mang lại giá trị công nghệ vượt trội mà còn khẳng định ngôn ngữ thiết kế thời thượng, đột phá của Vivo.\n\nTrong bối cảnh thị trường smartphone ngày càng cạnh tranh khốc liệt, vivo Y39 5G nổi lên như một điểm sáng nhờ sự dung hòa hoàn hảo giữa vẻ đẹp thẩm mỹ bên ngoài và sức mạnh phần cứng bên trong. Vivo đã lắng nghe sâu sắc phản hồi của người dùng Việt Nam để tinh chỉnh từng đường nét thiết kế, tối ưu hóa thuật toán phần mềm Funtouch OS và trang bị các linh kiện phần cứng hàng đầu nhằm mang lại trải nghiệm cầm nắm và vận hành bền bỉ qua nhiều năm sử dụng.",
+    "highlights": [
+      "6,68 inch",
+      "Qualcomm Snapdragon 4 Gen 2 5G",
+      "Pin 6.500 mAh"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 5690000,
+    "originalPrice": 7360000,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT013-VVY39-TIM-8GB-128GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 5690000,
+      "originalPrice": 7360000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/vivo/vivo-y39-5g/anh-dai-dien-vivo-y39-5g-tim.webp",
+        "assets/images/products/vivo/vivo-y39-5g/mat-truoc-mat-sau-vivo-y39-5g-tim.webp",
+        "assets/images/products/vivo/vivo-y39-5g/man-hinh-mat-truoc-vivo-y39-5g-tim.webp",
+        "assets/images/products/vivo/vivo-y39-5g/thiet-ke-mat-lung-vivo-y39-5g-tim.webp",
+        "assets/images/products/vivo/vivo-y39-5g/canh-trai-canh-phai-vivo-y39-5g-tim.webp",
+        "assets/images/products/vivo/vivo-y39-5g/canh-tren-canh-duoi-vivo-y39-5g-tim.webp",
+        "assets/images/products/vivo/vivo-y39-5g/goc-nghieng-camera-sau-vivo-y39-5g-tim.webp",
+        "assets/images/products/vivo/vivo-y39-5g/cum-camera-sau-vivo-y39-5g-tim.webp",
+        "assets/images/products/vivo/vivo-y39-5g/vivo-Y39-5G.jpg",
+        "assets/images/products/vivo/vivo-y39-5g/thong-so-noi-bat-vivo-y39-5g-xanh-duong-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT013-VVY39-TIM-8GB-256GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 6290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/vivo/vivo-y39-5g/anh-dai-dien-vivo-y39-5g-tim.webp",
+        "assets/images/products/vivo/vivo-y39-5g/mat-truoc-mat-sau-vivo-y39-5g-tim.webp",
+        "assets/images/products/vivo/vivo-y39-5g/man-hinh-mat-truoc-vivo-y39-5g-tim.webp",
+        "assets/images/products/vivo/vivo-y39-5g/thiet-ke-mat-lung-vivo-y39-5g-tim.webp",
+        "assets/images/products/vivo/vivo-y39-5g/canh-trai-canh-phai-vivo-y39-5g-tim.webp",
+        "assets/images/products/vivo/vivo-y39-5g/canh-tren-canh-duoi-vivo-y39-5g-tim.webp",
+        "assets/images/products/vivo/vivo-y39-5g/goc-nghieng-camera-sau-vivo-y39-5g-tim.webp",
+        "assets/images/products/vivo/vivo-y39-5g/cum-camera-sau-vivo-y39-5g-tim.webp",
+        "assets/images/products/vivo/vivo-y39-5g/vivo-Y39-5G.jpg",
+        "assets/images/products/vivo/vivo-y39-5g/thong-so-noi-bat-vivo-y39-5g-xanh-duong-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT013-VVY39-XANH-DUONG-8GB-128GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 5690000,
+      "originalPrice": 7360000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/vivo/vivo-y39-5g/mat-truoc-mat-sau-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/man-hinh-mat-truoc-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/thiet-ke-mat-lung-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/canh-duoi-cong-sac-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/canh-trai-canh-phai-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/canh-tren-canh-duoi-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/goc-nghieng-camera-sau-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/cum-camera-sau-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/khay-sim-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/tinh-nang-do-ben-quan-doi-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/vivo-Y39-5G.jpg",
+        "assets/images/products/vivo/vivo-y39-5g/thong-so-noi-bat-vivo-y39-5g-xanh-duong-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT013-VVY39-XANH-DUONG-8GB-256GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 6290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/vivo/vivo-y39-5g/mat-truoc-mat-sau-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/man-hinh-mat-truoc-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/thiet-ke-mat-lung-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/canh-duoi-cong-sac-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/canh-trai-canh-phai-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/canh-tren-canh-duoi-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/goc-nghieng-camera-sau-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/cum-camera-sau-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/khay-sim-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/tinh-nang-do-ben-quan-doi-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/vivo-Y39-5G.jpg",
+        "assets/images/products/vivo/vivo-y39-5g/thong-so-noi-bat-vivo-y39-5g-xanh-duong-tim.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "IPS LCD 120Hz, độ sáng 1.000 nit",
+    "size": "6,68 inch",
+    "resolution": "1608 x 720 pixel (HD+, 264 ppi)",
+    "refreshRate": "120Hz",
+    "brightness": "Không hỗ trợ, Độ sáng tiêu chuẩn 600 nit / đỉnh ngoài trời 1.000 nit (HBM), Bộ lọc ánh sáng xanh bảo vệ mắt TÜV Rheinland, chế độ chống mỏi mắt ban đêm",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 4 Gen 2 (tiến trình 4nm tiên tiến)",
+    "cpu": "8 nhân: 2 nhân Kryo hiệu năng cao (Cortex-A78) xung nhịp 2,2 GHz + 6 nhân tiết kiệm điện (Cortex-A55) xung nhịp 2,0 GHz",
+    "gpu": "Adreno 613",
+    "ram": [
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "operatingSystem": "Android 15 (sẵn sàng nâng cấp Android 16) cùng Funtouch OS 15/16",
+    "uiVersion": "Funtouch OS / OriginOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Chính Sony HD (ƒ/1.8, PDAF) + 2MP Xóa phông",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "Quay video 1080p ở tốc độ 30/60 fps, chống rung điện tử EIS"
+    ],
+    "aiFeatures": [
+      "Chụp đêm Siêu sáng Super Night, Chân dung AI Bokeh Flare, Toàn cảnh Panorama, Time-lapse, Chụp văn bản, Zoom: Zoom kỹ thuật số tối đa 10x"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "8MP Selfie (ƒ/2.0)",
+    "features": [
+      "8MP, khẩu độ ƒ/2.05, Quay video: Quay video 1080p ở 30 fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "6.500 mAh (Pin BlueVolt siêu bền)",
+    "wiredCharging": "Sạc nhanh FlashCharge 44W",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc nhanh FlashCharge 44W (nạp 50% trong 34 phút, đầy 100% trong khoảng 72 phút) | Không hỗ trợ sạc không dây"
+  },
+  "connectivity": {
+    "sim": [
+      "Hai Nano-SIM 5G vật lý (khay SIM lai chia sẻ với khe thẻ nhớ)"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép (2.4GHz & 5GHz)",
+    "bluetooth": "Bluetooth 5.1",
+    "gps": [
+      "GPS, GLONASS, Galileo, BeiDou, QZSS"
+    ],
+    "usb": "USB Type-C (USB 2.0), giắc cắm tai nghe 3.5mm tiện dụng",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "165,70 x 76,30 x 8,19 mm",
+    "weight": "206 gram",
+    "materials": [
+      "Khung viền polycarbonate vát phẳng sang trọng",
+      "mặt lưng hiệu ứng ánh sáng gradient chống bám vân tay"
+    ],
+    "waterResistance": "IP64 & Độ bền chuẩn quân đội MIL-STD-810H",
+    "availableColors": [
+      "Tím",
+      "Xanh Dương"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo tích hợp công nghệ khuếch đại âm lượng 300% Audio Booster",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "LCD 6.68 inch"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền vivo tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/vivo/vivo-y39-5g/anh-dai-dien-vivo-y39-5g-tim.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/vivo/vivo-y39-5g/anh-dai-dien-vivo-y39-5g-tim.webp",
+      "assets/images/products/vivo/vivo-y39-5g/mat-truoc-mat-sau-vivo-y39-5g-tim.webp",
+      "assets/images/products/vivo/vivo-y39-5g/mat-truoc-mat-sau-vivo-y39-5g-xanh-duong.webp",
+      "assets/images/products/vivo/vivo-y39-5g/man-hinh-mat-truoc-vivo-y39-5g-tim.webp",
+      "assets/images/products/vivo/vivo-y39-5g/man-hinh-mat-truoc-vivo-y39-5g-xanh-duong.webp",
+      "assets/images/products/vivo/vivo-y39-5g/thiet-ke-mat-lung-vivo-y39-5g-tim.webp",
+      "assets/images/products/vivo/vivo-y39-5g/thiet-ke-mat-lung-vivo-y39-5g-xanh-duong.webp",
+      "assets/images/products/vivo/vivo-y39-5g/canh-duoi-cong-sac-vivo-y39-5g-xanh-duong.webp",
+      "assets/images/products/vivo/vivo-y39-5g/canh-trai-canh-phai-vivo-y39-5g-tim.webp",
+      "assets/images/products/vivo/vivo-y39-5g/canh-trai-canh-phai-vivo-y39-5g-xanh-duong.webp",
+      "assets/images/products/vivo/vivo-y39-5g/canh-tren-canh-duoi-vivo-y39-5g-tim.webp",
+      "assets/images/products/vivo/vivo-y39-5g/canh-tren-canh-duoi-vivo-y39-5g-xanh-duong.webp",
+      "assets/images/products/vivo/vivo-y39-5g/goc-nghieng-camera-sau-vivo-y39-5g-tim.webp",
+      "assets/images/products/vivo/vivo-y39-5g/goc-nghieng-camera-sau-vivo-y39-5g-xanh-duong.webp",
+      "assets/images/products/vivo/vivo-y39-5g/cum-camera-sau-vivo-y39-5g-tim.webp",
+      "assets/images/products/vivo/vivo-y39-5g/cum-camera-sau-vivo-y39-5g-xanh-duong.webp",
+      "assets/images/products/vivo/vivo-y39-5g/khay-sim-vivo-y39-5g-xanh-duong.webp",
+      "assets/images/products/vivo/vivo-y39-5g/tinh-nang-do-ben-quan-doi-vivo-y39-5g-xanh-duong.webp",
+      "assets/images/products/vivo/vivo-y39-5g/vivo-Y39-5G.jpg",
+      "assets/images/products/vivo/vivo-y39-5g/thong-so-noi-bat-vivo-y39-5g-xanh-duong-tim.webp"
+    ],
+    "byColor": {
+      "Tím": [
+        "assets/images/products/vivo/vivo-y39-5g/anh-dai-dien-vivo-y39-5g-tim.webp",
+        "assets/images/products/vivo/vivo-y39-5g/mat-truoc-mat-sau-vivo-y39-5g-tim.webp",
+        "assets/images/products/vivo/vivo-y39-5g/man-hinh-mat-truoc-vivo-y39-5g-tim.webp",
+        "assets/images/products/vivo/vivo-y39-5g/thiet-ke-mat-lung-vivo-y39-5g-tim.webp",
+        "assets/images/products/vivo/vivo-y39-5g/canh-trai-canh-phai-vivo-y39-5g-tim.webp",
+        "assets/images/products/vivo/vivo-y39-5g/canh-tren-canh-duoi-vivo-y39-5g-tim.webp",
+        "assets/images/products/vivo/vivo-y39-5g/goc-nghieng-camera-sau-vivo-y39-5g-tim.webp",
+        "assets/images/products/vivo/vivo-y39-5g/cum-camera-sau-vivo-y39-5g-tim.webp",
+        "assets/images/products/vivo/vivo-y39-5g/vivo-Y39-5G.jpg",
+        "assets/images/products/vivo/vivo-y39-5g/thong-so-noi-bat-vivo-y39-5g-xanh-duong-tim.webp"
+      ],
+      "Xanh Dương": [
+        "assets/images/products/vivo/vivo-y39-5g/mat-truoc-mat-sau-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/man-hinh-mat-truoc-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/thiet-ke-mat-lung-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/canh-duoi-cong-sac-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/canh-trai-canh-phai-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/canh-tren-canh-duoi-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/goc-nghieng-camera-sau-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/cum-camera-sau-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/khay-sim-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/tinh-nang-do-ben-quan-doi-vivo-y39-5g-xanh-duong.webp",
+        "assets/images/products/vivo/vivo-y39-5g/vivo-Y39-5G.jpg",
+        "assets/images/products/vivo/vivo-y39-5g/thong-so-noi-bat-vivo-y39-5g-xanh-duong-tim.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/vivo/vivo-y39-5g/mat-truoc-mat-sau-vivo-y39-5g-tim.webp",
+      "screen": "assets/images/products/vivo/vivo-y39-5g/mat-truoc-mat-sau-vivo-y39-5g-xanh-duong.webp",
+      "performance": "assets/images/products/vivo/vivo-y39-5g/goc-nghieng-camera-sau-vivo-y39-5g-tim.webp",
+      "camera": "assets/images/products/vivo/vivo-y39-5g/goc-nghieng-camera-sau-vivo-y39-5g-xanh-duong.webp",
+      "battery": "assets/images/products/vivo/vivo-y39-5g/canh-duoi-cong-sac-vivo-y39-5g-xanh-duong.webp",
+      "feature": "assets/images/products/vivo/vivo-y39-5g/canh-trai-canh-phai-vivo-y39-5g-tim.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/vivo/vivo-y39-5g/mat-truoc-mat-sau-vivo-y39-5g-tim.webp",
+      "assets/images/products/vivo/vivo-y39-5g/mat-truoc-mat-sau-vivo-y39-5g-xanh-duong.webp",
+      "assets/images/products/vivo/vivo-y39-5g/man-hinh-mat-truoc-vivo-y39-5g-tim.webp",
+      "assets/images/products/vivo/vivo-y39-5g/man-hinh-mat-truoc-vivo-y39-5g-xanh-duong.webp",
+      "assets/images/products/vivo/vivo-y39-5g/thiet-ke-mat-lung-vivo-y39-5g-tim.webp",
+      "assets/images/products/vivo/vivo-y39-5g/thiet-ke-mat-lung-vivo-y39-5g-xanh-duong.webp",
+      "assets/images/products/vivo/vivo-y39-5g/canh-duoi-cong-sac-vivo-y39-5g-xanh-duong.webp",
+      "assets/images/products/vivo/vivo-y39-5g/canh-trai-canh-phai-vivo-y39-5g-tim.webp",
+      "assets/images/products/vivo/vivo-y39-5g/canh-trai-canh-phai-vivo-y39-5g-xanh-duong.webp",
+      "assets/images/products/vivo/vivo-y39-5g/canh-tren-canh-duoi-vivo-y39-5g-tim.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-vivo",
+      "https://www.vivo.com/vn/products"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "partial_retail_listing",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT013-VVY39",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "IPS LCD 16,7 triệu màu, công nghệ Sunlight Display độ sáng cao",
+      "Kích thước màn hình": "6,68 inch theo đường chéo (màn hình phẳng đục lỗ hiện đại)",
+      "Độ phân giải màn hình": "1608 x 720 pixel (chuẩn HD+, tỷ lệ khung hình 20:9)",
+      "Tần số quét": "120Hz mượt mà (tự động điều chỉnh 60Hz - 120Hz)",
+      "Kiểu màn hình": "Màn hình phẳng tràn viền",
+      "Tính năng màn hình": "Không hỗ trợ, Độ sáng tiêu chuẩn 600 nit / đỉnh ngoài trời 1.000 nit (HBM), Bộ lọc ánh sáng xanh bảo vệ mắt TÜV Rheinland, chế độ chống mỏi mắt ban đêm"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 2 camera sau: 50MP Chính + 2MP Chân dung Bokeh - 50MP HD Main Camera, khẩu độ ƒ/1.8, tự động lấy nét PDAF",
+      "Quay video": "Quay video 1080p ở tốc độ 30/60 fps, chống rung điện tử EIS",
+      "Tính năng camera": "Chụp đêm Siêu sáng Super Night, Chân dung AI Bokeh Flare, Toàn cảnh Panorama, Time-lapse, Chụp văn bản, Zoom: Zoom kỹ thuật số tối đa 10x"
+    },
+    "Camera trước": {
+      "Camera trước": "8MP, khẩu độ ƒ/2.05, Quay video: Quay video 1080p ở 30 fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 4 Gen 2 (tiến trình 4nm tiên tiến)",
+      "Loại CPU": "8 nhân: 2 nhân Kryo hiệu năng cao (Cortex-A78) xung nhịp 2,2 GHz + 6 nhân tiết kiệm điện (Cortex-A55) xung nhịp 2,0 GHz",
+      "GPU": "Adreno 613"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB LPDDR4X (mở rộng thêm 8GB RAM ảo)",
+      "Bộ nhớ trong": "128GB chuẩn UFS 3.1 tốc độ truy xuất cực nhanh"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "6.500 mAh (pin BlueVolt siêu bền bỉ) - Thời lượng sử dụng hỗn hợp lên đến 2,5 - 3 ngày; xem video trực tuyến liên tục 23 giờ; chơi game liên tục 10 giờ",
+      "Công nghệ sạc": "Sạc nhanh FlashCharge 44W (nạp 50% trong 34 phút, đầy 100% trong khoảng 72 phút) | Không hỗ trợ sạc không dây",
+      "Cổng sạc": "USB Type-C (USB 2.0), giắc cắm tai nghe 3.5mm tiện dụng"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 15 (sẵn sàng nâng cấp Android 16) cùng Funtouch OS 15/16",
+      "Công nghệ - Tiện ích": "Trợ lý ảo Jovi AI thế hệ mới, tối ưu hóa hệ thống bằng AI Engine, Thiết kế khuyết đỉnh đục lỗ siêu nhỏ (Punch-hole) hiện đại",
+      "Tiện ích khác": "Phím nguồn tích hợp vân tay, phím âm lượng, cuộc gọi khẩn cấp SOS",
+      "Thời điểm ra mắt": "08/07/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "Hỗ trợ 5G băng tần kép SA/NSA tốc độ cao tương thích hoàn toàn mạng 5G Viettel, VinaPhone, MobiFone tại Việt Nam",
+      "Thẻ SIM": "Hai Nano-SIM 5G vật lý (khay SIM lai chia sẻ với khe thẻ nhớ)",
+      "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép (2.4GHz & 5GHz)",
+      "Bluetooth": "Bluetooth 5.1",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa chức năng",
+      "GPS": "GPS, GLONASS, Galileo, BeiDou, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền polycarbonate vát phẳng sang trọng",
+      "Chất liệu mặt lưng": "mặt lưng hiệu ứng ánh sáng gradient chống bám vân tay",
+      "Kích thước": "165,70 x 76,30 x 8,19 mm",
+      "Trọng lượng": "206 gram",
+      "Chỉ số kháng nước, bụi": "IP64 (kháng bụi xâm nhập và kháng nước bắn tóe toàn diện)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa kép Stereo tích hợp công nghệ khuếch đại âm lượng 300% Audio Booster",
+      "Cảm biến vân tay": "Cảm biến vân tay cạnh bên siêu nhanh, Mở khóa bằng khuôn mặt 2D Face Access",
+      "Các loại cảm biến": "Cảm biến vân tay cạnh bên, gia tốc kế, con quay hồi chuyển, cảm biến tiệm cận, la bàn số"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,68 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "IPS LCD 120Hz, độ sáng 1.000 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "1608 x 720 pixel (HD+, 264 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 4 Gen 2 5G (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB LPDDR4X (+8GB RAM mở rộng)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB chuẩn UFS 2.2"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính Sony HD (ƒ/1.8, PDAF) + 2MP Xóa phông"
+    },
+    {
+      "label": "Camera trước",
+      "value": "8MP Selfie (ƒ/2.0)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "6.500 mAh (Pin BlueVolt siêu bền)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh FlashCharge 44W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Funtouch OS 15 (Android 15)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP64 & Độ bền chuẩn quân đội MIL-STD-810H"
+    }
+  ],
+  "verbatimDescription": [
+    "Chính thức ra mắt vào tháng 05/2026 – Mở bán chính thức tháng 06/2026 tại Việt Nam, vivo Y39 5G là bước tiến quan trọng của thương hiệu Vivo trong chiến lược chinh phục người tiêu dùng hiện đại. Thiết bị sở hữu mã hiệu V2455 / V2455A, được định vị là Chiếc điện thoại 5G toàn năng phân khúc phổ thông – tầm trung, trang bị chip Snapdragon 4 Gen 2 (4nm), pin 6.500 mAh, sạc 44W và kết nối NFC tiện ích. Với mức giá niêm yết tham khảo trong khoảng 5.690.000 VNĐ – 6.290.000 VNĐ, sản phẩm không chỉ mang lại giá trị công nghệ vượt trội mà còn khẳng định ngôn ngữ thiết kế thời thượng, đột phá của Vivo.\n\nTrong bối cảnh thị trường smartphone ngày càng cạnh tranh khốc liệt, vivo Y39 5G nổi lên như một điểm sáng nhờ sự dung hòa hoàn hảo giữa vẻ đẹp thẩm mỹ bên ngoài và sức mạnh phần cứng bên trong. Vivo đã lắng nghe sâu sắc phản hồi của người dùng Việt Nam để tinh chỉnh từng đường nét thiết kế, tối ưu hóa thuật toán phần mềm Funtouch OS và trang bị các linh kiện phần cứng hàng đầu nhằm mang lại trải nghiệm cầm nắm và vận hành bền bỉ qua nhiều năm sử dụng.",
+    "Ngoại hình của vivo Y39 5G thu hút mọi ánh nhìn với kích thước chuẩn mực 165,70 x 76,30 x 8,19 mm cùng trọng lượng 206 gram. Thân máy được chế tác từ Khung viền polycarbonate vát phẳng sang trọng, mặt lưng hiệu ứng ánh sáng gradient chống bám vân tay, mang lại cảm giác đầm tay, chắc chắn nhưng vẫn vô cùng êm ái khi sử dụng liên tục trong thời gian dài. Các phiên bản màu sắc chính thức gồm Xanh Rừng Nhiệt Đới (Forest Green), Đen Titan (Titan Black) được xử lý bề mặt tinh xảo, vừa toát lên vẻ sang trọng vừa hạn chế tối đa tình trạng bám dính dấu vân tay và mồ hôi.\n\nMặt trước của máy là không gian hiển thị ấn tượng với kích thước 6,68 inch theo đường chéo (màn hình phẳng đục lỗ hiện đại). Vivo trang bị tấm nền IPS LCD 16,7 triệu màu, công nghệ Sunlight Display độ sáng cao cùng độ phân giải 1608 x 720 pixel (chuẩn HD+, tỷ lệ khung hình 20:9) đạt mật độ điểm ảnh 264 ppi. Tần số quét 120Hz mượt mà (tự động điều chỉnh 60Hz - 120Hz) kết hợp độ sáng Độ sáng tiêu chuẩn 600 nit / đỉnh ngoài trời 1.000 nit (HBM) giúp màn hình hiển thị xuất sắc trong mọi điều kiện ánh sáng, kể cả dưới trời nắng chói chang giữa trưa. Lớp bảo vệ Kính cường lực chống xước và chịu lực Schott Xensation Alpha và chuẩn kháng nước bụi IP64 (kháng bụi xâm nhập và kháng nước bắn tóe toàn diện) đem lại sự an tâm tuyệt đối trước các tác động va đập hay thời tiết khắc nghiệt.",
+    "Ẩn chứa bên trong vivo Y39 5G là sức mạnh của bộ vi xử lý Qualcomm Snapdragon 4 Gen 2 (tiến trình 4nm tiên tiến). Cấu trúc CPU gồm 8 nhân: 2 nhân Kryo hiệu năng cao (Cortex-A78) xung nhịp 2,2 GHz + 6 nhân tiết kiệm điện (Cortex-A55) xung nhịp 2,0 GHz, đi kèm chip đồ họa Adreno 613 và bộ xử lý trí tuệ nhân tạo Qualcomm AI Engine thế hệ mới xử lý đa tác vụ. Sự kết hợp phần cứng đồng bộ này đem lại hiệu năng ấn tượng: Đạt khoảng 420.000 điểm AnTuTu, kết nối mạng 5G siêu nhanh, xử lý mượt mà game online phổ biến và đa nhiệm ổn định.\n\nKhả năng quản lý đa nhiệm của thiết bị được nâng tầm nhờ bộ nhớ RAM 8GB LPDDR4X (mở rộng thêm 8GB RAM ảo). Bộ nhớ trong 128GB chuẩn UFS 3.1 tốc độ truy xuất cực nhanh chuẩn tốc độ cao mang lại không gian lưu trữ rộng rãi cho hàng nghìn bức ảnh, tài liệu và các tựa game nặng. Khả năng hỗ trợ thẻ nhớ (Hỗ trợ thẻ nhớ MicroSD dung lượng lên đến 1TB) đem lại sự linh hoạt tối đa cho người dùng có nhu cầu lưu trữ dữ liệu lớn trong công việc và học tập hàng ngày.",
+    "Hệ thống camera là một trong những niềm tự hào lớn nhất trên vivo Y39 5G. Mặt sau máy được bố trí Hệ thống 2 camera sau: 50MP Chính + 2MP Chân dung Bokeh, trong đó camera chính sở hữu thông số 50MP HD Main Camera, khẩu độ ƒ/1.8, tự động lấy nét PDAF. Ống kính góc siêu rộng (Không trang bị) và ống kính tele (Camera đo độ sâu 2MP hỗ trợ chụp chân dung xóa phông) mang đến khả năng thu phóng quang học và kỹ thuật số ấn tượng (Zoom kỹ thuật số tối đa 10x).\n\nSức mạnh nhiếp ảnh của máy được củng cố bởi công nghệ xử lý hình ảnh Thuật toán xử lý AI Super Night Mode và AI Portrait 2.0 cùng hàng loạt chế độ chụp thông minh: Chụp đêm Siêu sáng Super Night, Chân dung AI Bokeh Flare, Toàn cảnh Panorama, Time-lapse, Chụp văn bản. Về khả năng quay phim, máy hỗ trợ Quay video 1080p ở tốc độ 30/60 fps, chống rung điện tử EIS với khả năng chống rung quang học và điện tử ổn định vượt trội. Ở mặt trước, camera selfie 8MP, khẩu độ ƒ/2.05 tích hợp các chế độ AI Face Beauty, hiệu ứng ánh sáng chân dung đa phong cách, Aura Screen Light và quay video Quay video 1080p ở 30 fps, giúp bạn luôn tỏa sáng rạng rỡ trong mọi bức ảnh tự chụp cũng như các cuộc gọi video công việc.",
+    "Thời lượng sử dụng của vivo Y39 5G được bảo chứng bởi viên pin công nghệ cao có dung lượng 6.500 mAh (pin BlueVolt siêu bền bỉ). Nhờ vào việc sử dụng vật liệu mật độ năng lượng cao kết hợp thuật toán tối ưu hóa tiêu thụ điện năng của hệ điều hành, máy cho thời gian vận hành bền bỉ: Thời lượng sử dụng hỗn hợp lên đến 2,5 - 3 ngày; xem video trực tuyến liên tục 23 giờ; chơi game liên tục 10 giờ. Người dùng hoàn toàn có thể yên tâm sử dụng máy với cường độ cao mà không phải loay hoay tìm kiếm ổ cắm sạc giữa chừng.\n\nKhi cần tái nạp năng lượng, công nghệ sạc Sạc nhanh FlashCharge 44W (nạp 50% trong 34 phút, đầy 100% trong khoảng 72 phút) sẽ phát huy sức mạnh tối đa. Thiết bị có thể nạp phần lớn dung lượng pin chỉ trong thời gian ngắn uống một tách cà phê, sẵn sàng đồng hành cùng bạn suốt cả ngày dài. Bên cạnh đó, máy còn hỗ trợ các chuẩn sạc tiện ích: Không hỗ trợ sạc không dây, mang lại sự tiện nghi cao cấp và bảo đảm tuổi thọ pin an toàn qua hàng nghìn chu kỳ sạc xả.",
+    "vivo Y39 5G xuất xưởng với nền tảng hệ điều hành Android 15 (sẵn sàng nâng cấp Android 16) cùng Funtouch OS 15/16, và tính đến tháng 11/2026 máy vận hành trên Android 16 với 3 năm cập nhật phần mềm và vá bảo mật. Giao diện người dùng Funtouch OS được thiết kế hiện đại, mượt mà và trực quan, tích hợp sâu các tiện ích trí tuệ nhân tạo Trợ lý ảo Jovi AI thế hệ mới, tối ưu hóa hệ thống bằng AI Engine giúp tự động hóa các tác vụ hàng ngày và cá nhân hóa trải nghiệm người dùng.\n\nVề bảo mật và an toàn dữ liệu, thiết bị tích hợp hệ thống Cảm biến vân tay cạnh bên siêu nhanh, Mở khóa bằng khuôn mặt 2D Face Access cho tốc độ phản hồi gần như tức thì và độ chính xác cực cao. Các phím bấm vật lý cùng tính năng khẩn cấp (Phím nguồn tích hợp vân tay, phím âm lượng, cuộc gọi khẩn cấp SOS) được thiết kế công thái học thuận tiện. Hệ thống kết nối đa dạng gồm Hỗ trợ 5G băng tần kép SA/NSA tốc độ cao tương thích hoàn toàn mạng 5G Viettel, VinaPhone, MobiFone tại Việt Nam, Wi-Fi 802.11 a/b/g/n/ac băng tần kép (2.4GHz & 5GHz), Bluetooth 5.1, Hỗ trợ NFC đa chức năng (thanh toán chạm và thẻ thông minh); Định vị vệ tinh đa băng tần GPS, GLONASS, Galileo, BeiDou, QZSS; không hỗ trợ UWB, Hai Nano-SIM 5G vật lý (khay SIM lai chia sẻ với khe thẻ nhớ) cùng hệ thống loa Loa kép Stereo tích hợp công nghệ khuếch đại âm lượng 300% Audio Booster tạo nên một không gian làm việc và giải trí trọn vẹn, liền mạch trong hệ sinh thái Vivo.",
+    "vivo Y39 5G là sự lựa chọn lý tưởng dành cho người dùng đang tìm kiếm một chiếc điện thoại thông minh toàn diện, sở hữu ngôn ngữ thiết kế hiện đại, cấu hình mạnh mẽ và độ bền bỉ đáng tin cậy. Sản phẩm đặc biệt phù hợp với người dùng yêu thích nhiếp ảnh di động, học sinh, sinh viên, nhân viên văn phòng và các nhà sáng tạo nội dung số cần một thiết bị có màn hình đẹp, thời lượng pin trâu và camera chất lượng cao phục vụ công việc và giải trí hàng ngày.",
+    "Tổng kết lại, vivo Y39 5G khẳng định vững chắc vị thế dẫn đầu trong phân khúc giá của mình. Với sự kết hợp hoàn hảo giữa phần cứng cao cấp, thuật toán xử lý hình ảnh tiên tiến và chính sách hỗ trợ phần mềm dài hạn từ Vivo, chiếc smartphone này xứng đáng là một trong những khoản đầu tư công nghệ thực dụng và đáng giá nhất trong năm 2026."
+  ],
+  "priceSegment": "midrange"
+}

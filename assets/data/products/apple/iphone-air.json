@@ -1,0 +1,676 @@
+{
+  "id": "iphone-air",
+  "brand": "Apple",
+  "brandId": "apple",
+  "parentGroupId": "apple",
+  "model": "iPhone Air",
+  "series": "iPhone Air & Duo",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "high-end"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "09/09/2025",
+    "segment": "Cận cao cấp",
+    "description": "Ra mắt vào tháng 9/2025 để thay thế dòng Plus trước đây và tiếp tục được Apple phân phối chính thức trong dải sản phẩm năm 2026–2027, iPhone Air (tên chính thức là 'iPhone Air', không kèm số 17) là một kiệt tác kỹ thuật cơ khí của Apple. Với độ mỏng chỉ 5,64 mm và trọng lượng vỏn vẹn 165 gram nhưng sở hữu màn hình lớn 6,5 inch 120Hz, khung Titanium và cấu hình chip A19 Pro + 12GB RAM, iPhone Air tại AURIX MOBILE hướng tới những khách hàng yêu thích vẻ đẹp thời trang, siêu mỏng nhẹ và sang trọng. (Nguồn tham chiếu chính thức: Apple Tech Specs - iPhone Air).",
+    "highlights": [
+      "6,5 inch",
+      "A19 Pro",
+      "Pin 3.149 mAh"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 23390000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT014-IPAIR-VANG-NHAT-256GB",
+      "color": "Vàng Nhạt",
+      "colorHex": "#F5EBC6",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 23390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-air/anh-dai-dien-iphone-air-vang-nhat.webp",
+        "assets/images/products/apple/iphone-air/mat-truoc-man-hinh-vang-nhat.webp",
+        "assets/images/products/apple/iphone-air/canh-ben-sieu-mong-vang-nhat.webp",
+        "assets/images/products/apple/iphone-air/goc-nghieng-sau-vang-nhat.webp",
+        "assets/images/products/apple/iphone-air/thiet-ke-sieu-mong-nhe-cam-tay-vang-nhat.webp",
+        "assets/images/products/apple/iphone-air/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-air/iPhone-Air.jpg",
+        "assets/images/products/apple/iphone-air/phu-kien-day-deo-cheo-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/phu-kien-pin-sac-du-phong-magsafe-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/4-tuy-chon-mau-sac-xanh-da-troi-vang-nhat-trang-den.webp",
+        "assets/images/products/apple/iphone-air/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ]
+    },
+    {
+      "sku": "DT014-IPAIR-VANG-NHAT-512GB",
+      "color": "Vàng Nhạt",
+      "colorHex": "#F5EBC6",
+      "ram": "12GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 28990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-air/anh-dai-dien-iphone-air-vang-nhat.webp",
+        "assets/images/products/apple/iphone-air/mat-truoc-man-hinh-vang-nhat.webp",
+        "assets/images/products/apple/iphone-air/canh-ben-sieu-mong-vang-nhat.webp",
+        "assets/images/products/apple/iphone-air/goc-nghieng-sau-vang-nhat.webp",
+        "assets/images/products/apple/iphone-air/thiet-ke-sieu-mong-nhe-cam-tay-vang-nhat.webp",
+        "assets/images/products/apple/iphone-air/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-air/iPhone-Air.jpg",
+        "assets/images/products/apple/iphone-air/phu-kien-day-deo-cheo-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/phu-kien-pin-sac-du-phong-magsafe-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/4-tuy-chon-mau-sac-xanh-da-troi-vang-nhat-trang-den.webp",
+        "assets/images/products/apple/iphone-air/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ]
+    },
+    {
+      "sku": "DT014-IPAIR-VANG-NHAT-1TB",
+      "color": "Vàng Nhạt",
+      "colorHex": "#F5EBC6",
+      "ram": "12GB",
+      "storage": "1TB",
+      "rom": "1TB",
+      "price": 34990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-air/anh-dai-dien-iphone-air-vang-nhat.webp",
+        "assets/images/products/apple/iphone-air/mat-truoc-man-hinh-vang-nhat.webp",
+        "assets/images/products/apple/iphone-air/canh-ben-sieu-mong-vang-nhat.webp",
+        "assets/images/products/apple/iphone-air/goc-nghieng-sau-vang-nhat.webp",
+        "assets/images/products/apple/iphone-air/thiet-ke-sieu-mong-nhe-cam-tay-vang-nhat.webp",
+        "assets/images/products/apple/iphone-air/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-air/iPhone-Air.jpg",
+        "assets/images/products/apple/iphone-air/phu-kien-day-deo-cheo-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/phu-kien-pin-sac-du-phong-magsafe-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/4-tuy-chon-mau-sac-xanh-da-troi-vang-nhat-trang-den.webp",
+        "assets/images/products/apple/iphone-air/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ]
+    },
+    {
+      "sku": "DT014-IPAIR-XANH-DA-TROI-256GB",
+      "color": "Xanh Da Trời",
+      "colorHex": "#A7C7E7",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 23390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-air/anh-dai-dien-iphone-air-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/mat-truoc-man-hinh-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/canh-ben-sieu-mong-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/goc-nghieng-sau-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/phu-kien-trong-hop-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-air/iPhone-Air.jpg",
+        "assets/images/products/apple/iphone-air/phu-kien-day-deo-cheo-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/phu-kien-pin-sac-du-phong-magsafe-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/4-tuy-chon-mau-sac-xanh-da-troi-vang-nhat-trang-den.webp",
+        "assets/images/products/apple/iphone-air/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ]
+    },
+    {
+      "sku": "DT014-IPAIR-XANH-DA-TROI-512GB",
+      "color": "Xanh Da Trời",
+      "colorHex": "#A7C7E7",
+      "ram": "12GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 28990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-air/anh-dai-dien-iphone-air-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/mat-truoc-man-hinh-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/canh-ben-sieu-mong-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/goc-nghieng-sau-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/phu-kien-trong-hop-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-air/iPhone-Air.jpg",
+        "assets/images/products/apple/iphone-air/phu-kien-day-deo-cheo-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/phu-kien-pin-sac-du-phong-magsafe-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/4-tuy-chon-mau-sac-xanh-da-troi-vang-nhat-trang-den.webp",
+        "assets/images/products/apple/iphone-air/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ]
+    },
+    {
+      "sku": "DT014-IPAIR-XANH-DA-TROI-1TB",
+      "color": "Xanh Da Trời",
+      "colorHex": "#A7C7E7",
+      "ram": "12GB",
+      "storage": "1TB",
+      "rom": "1TB",
+      "price": 34990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-air/anh-dai-dien-iphone-air-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/mat-truoc-man-hinh-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/canh-ben-sieu-mong-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/goc-nghieng-sau-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/phu-kien-trong-hop-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-air/iPhone-Air.jpg",
+        "assets/images/products/apple/iphone-air/phu-kien-day-deo-cheo-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/phu-kien-pin-sac-du-phong-magsafe-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/4-tuy-chon-mau-sac-xanh-da-troi-vang-nhat-trang-den.webp",
+        "assets/images/products/apple/iphone-air/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ]
+    },
+    {
+      "sku": "DT014-IPAIR-TRANG-256GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 23390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-air/anh-dai-dien-iphone-air-trang.webp",
+        "assets/images/products/apple/iphone-air/mat-truoc-man-hinh-trang.webp",
+        "assets/images/products/apple/iphone-air/canh-ben-sieu-mong-trang.webp",
+        "assets/images/products/apple/iphone-air/goc-nghieng-sau-trang.webp",
+        "assets/images/products/apple/iphone-air/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-air/iPhone-Air.jpg",
+        "assets/images/products/apple/iphone-air/phu-kien-day-deo-cheo-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/phu-kien-pin-sac-du-phong-magsafe-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/4-tuy-chon-mau-sac-xanh-da-troi-vang-nhat-trang-den.webp",
+        "assets/images/products/apple/iphone-air/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ]
+    },
+    {
+      "sku": "DT014-IPAIR-TRANG-512GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "12GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 28990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-air/anh-dai-dien-iphone-air-trang.webp",
+        "assets/images/products/apple/iphone-air/mat-truoc-man-hinh-trang.webp",
+        "assets/images/products/apple/iphone-air/canh-ben-sieu-mong-trang.webp",
+        "assets/images/products/apple/iphone-air/goc-nghieng-sau-trang.webp",
+        "assets/images/products/apple/iphone-air/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-air/iPhone-Air.jpg",
+        "assets/images/products/apple/iphone-air/phu-kien-day-deo-cheo-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/phu-kien-pin-sac-du-phong-magsafe-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/4-tuy-chon-mau-sac-xanh-da-troi-vang-nhat-trang-den.webp",
+        "assets/images/products/apple/iphone-air/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ]
+    },
+    {
+      "sku": "DT014-IPAIR-TRANG-1TB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "12GB",
+      "storage": "1TB",
+      "rom": "1TB",
+      "price": 34990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-air/anh-dai-dien-iphone-air-trang.webp",
+        "assets/images/products/apple/iphone-air/mat-truoc-man-hinh-trang.webp",
+        "assets/images/products/apple/iphone-air/canh-ben-sieu-mong-trang.webp",
+        "assets/images/products/apple/iphone-air/goc-nghieng-sau-trang.webp",
+        "assets/images/products/apple/iphone-air/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-air/iPhone-Air.jpg",
+        "assets/images/products/apple/iphone-air/phu-kien-day-deo-cheo-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/phu-kien-pin-sac-du-phong-magsafe-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/4-tuy-chon-mau-sac-xanh-da-troi-vang-nhat-trang-den.webp",
+        "assets/images/products/apple/iphone-air/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ]
+    },
+    {
+      "sku": "DT014-IPAIR-DEN-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 23390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-air/anh-dai-dien-iphone-air-den.webp",
+        "assets/images/products/apple/iphone-air/mat-truoc-man-hinh-den.webp",
+        "assets/images/products/apple/iphone-air/canh-ben-sieu-mong-den.webp",
+        "assets/images/products/apple/iphone-air/goc-nghieng-sau-den.webp",
+        "assets/images/products/apple/iphone-air/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-air/iPhone-Air.jpg",
+        "assets/images/products/apple/iphone-air/phu-kien-day-deo-cheo-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/phu-kien-pin-sac-du-phong-magsafe-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/4-tuy-chon-mau-sac-xanh-da-troi-vang-nhat-trang-den.webp",
+        "assets/images/products/apple/iphone-air/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ]
+    },
+    {
+      "sku": "DT014-IPAIR-DEN-512GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 28990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-air/anh-dai-dien-iphone-air-den.webp",
+        "assets/images/products/apple/iphone-air/mat-truoc-man-hinh-den.webp",
+        "assets/images/products/apple/iphone-air/canh-ben-sieu-mong-den.webp",
+        "assets/images/products/apple/iphone-air/goc-nghieng-sau-den.webp",
+        "assets/images/products/apple/iphone-air/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-air/iPhone-Air.jpg",
+        "assets/images/products/apple/iphone-air/phu-kien-day-deo-cheo-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/phu-kien-pin-sac-du-phong-magsafe-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/4-tuy-chon-mau-sac-xanh-da-troi-vang-nhat-trang-den.webp",
+        "assets/images/products/apple/iphone-air/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ]
+    },
+    {
+      "sku": "DT014-IPAIR-DEN-1TB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "1TB",
+      "rom": "1TB",
+      "price": 34990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-air/anh-dai-dien-iphone-air-den.webp",
+        "assets/images/products/apple/iphone-air/mat-truoc-man-hinh-den.webp",
+        "assets/images/products/apple/iphone-air/canh-ben-sieu-mong-den.webp",
+        "assets/images/products/apple/iphone-air/goc-nghieng-sau-den.webp",
+        "assets/images/products/apple/iphone-air/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-air/iPhone-Air.jpg",
+        "assets/images/products/apple/iphone-air/phu-kien-day-deo-cheo-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/phu-kien-pin-sac-du-phong-magsafe-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/4-tuy-chon-mau-sac-xanh-da-troi-vang-nhat-trang-den.webp",
+        "assets/images/products/apple/iphone-air/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": null,
+    "size": null,
+    "resolution": null,
+    "refreshRate": null,
+    "brightness": null,
+    "hdr": null,
+    "protection": "Ceramic Shield",
+    "features": []
+  },
+  "performance": {
+    "chipset": "Apple A19 Pro (tiến trình 3nm – phiên bản 5 nhân GPU)",
+    "cpu": null,
+    "gpu": null,
+    "ram": [
+      "12GB"
+    ],
+    "storage": [
+      "1TB",
+      "256GB",
+      "512GB"
+    ],
+    "operatingSystem": "iOS 26 (tháng 09/2025)",
+    "uiVersion": "iOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": null,
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": null,
+    "videoRecording": [],
+    "aiFeatures": []
+  },
+  "frontCamera": {
+    "resolution": null,
+    "features": [],
+    "videoRecording": []
+  },
+  "battery": {
+    "capacity": null,
+    "wiredCharging": null,
+    "wirelessCharging": null,
+    "reverseCharging": null,
+    "chargingTechnology": null
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM / eSIM"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi băng tần kép",
+    "bluetooth": "Bluetooth 5.3+",
+    "gps": [
+      "GPS",
+      "GLONASS",
+      "Galileo",
+      "BDS"
+    ],
+    "usb": "USB Type-C",
+    "nfc": null
+  },
+  "design": {
+    "dimensions": null,
+    "weight": null,
+    "materials": [],
+    "waterResistance": null,
+    "availableColors": [
+      "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo",
+    "headphoneJack": null,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Face ID 3D"
+  ],
+  "specialFeatures": [
+    "iPhone Air Series",
+    "Apple",
+    "Chính hãng VN/A"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Apple tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/apple/iphone-air/anh-dai-dien-iphone-air-vang-nhat.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/apple/iphone-air/anh-dai-dien-iphone-air-vang-nhat.webp",
+      "assets/images/products/apple/iphone-air/anh-dai-dien-iphone-air-den.webp",
+      "assets/images/products/apple/iphone-air/anh-dai-dien-iphone-air-trang.webp",
+      "assets/images/products/apple/iphone-air/anh-dai-dien-iphone-air-xanh-da-troi.webp",
+      "assets/images/products/apple/iphone-air/mat-truoc-man-hinh-den.webp",
+      "assets/images/products/apple/iphone-air/mat-truoc-man-hinh-trang.webp",
+      "assets/images/products/apple/iphone-air/mat-truoc-man-hinh-vang-nhat.webp",
+      "assets/images/products/apple/iphone-air/mat-truoc-man-hinh-xanh-da-troi.webp",
+      "assets/images/products/apple/iphone-air/canh-ben-sieu-mong-den.webp",
+      "assets/images/products/apple/iphone-air/canh-ben-sieu-mong-trang.webp",
+      "assets/images/products/apple/iphone-air/canh-ben-sieu-mong-vang-nhat.webp",
+      "assets/images/products/apple/iphone-air/canh-ben-sieu-mong-xanh-da-troi.webp",
+      "assets/images/products/apple/iphone-air/goc-nghieng-sau-den.webp",
+      "assets/images/products/apple/iphone-air/goc-nghieng-sau-trang.webp",
+      "assets/images/products/apple/iphone-air/goc-nghieng-sau-vang-nhat.webp",
+      "assets/images/products/apple/iphone-air/goc-nghieng-sau-xanh-da-troi.webp",
+      "assets/images/products/apple/iphone-air/dich-vu-bao-hanh-applecare-plus.webp",
+      "assets/images/products/apple/iphone-air/iPhone-Air.jpg",
+      "assets/images/products/apple/iphone-air/phu-kien-day-deo-cheo-xanh-da-troi.webp",
+      "assets/images/products/apple/iphone-air/phu-kien-pin-sac-du-phong-magsafe-xanh-da-troi.webp",
+      "assets/images/products/apple/iphone-air/phu-kien-trong-hop-xanh-da-troi.webp",
+      "assets/images/products/apple/iphone-air/thiet-ke-sieu-mong-nhe-cam-tay-vang-nhat.webp",
+      "assets/images/products/apple/iphone-air/4-tuy-chon-mau-sac-xanh-da-troi-vang-nhat-trang-den.webp",
+      "assets/images/products/apple/iphone-air/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/apple/iphone-air/anh-dai-dien-iphone-air-den.webp",
+        "assets/images/products/apple/iphone-air/mat-truoc-man-hinh-den.webp",
+        "assets/images/products/apple/iphone-air/canh-ben-sieu-mong-den.webp",
+        "assets/images/products/apple/iphone-air/goc-nghieng-sau-den.webp",
+        "assets/images/products/apple/iphone-air/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-air/iPhone-Air.jpg",
+        "assets/images/products/apple/iphone-air/phu-kien-day-deo-cheo-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/phu-kien-pin-sac-du-phong-magsafe-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/4-tuy-chon-mau-sac-xanh-da-troi-vang-nhat-trang-den.webp",
+        "assets/images/products/apple/iphone-air/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ],
+      "Trắng": [
+        "assets/images/products/apple/iphone-air/anh-dai-dien-iphone-air-trang.webp",
+        "assets/images/products/apple/iphone-air/mat-truoc-man-hinh-trang.webp",
+        "assets/images/products/apple/iphone-air/canh-ben-sieu-mong-trang.webp",
+        "assets/images/products/apple/iphone-air/goc-nghieng-sau-trang.webp",
+        "assets/images/products/apple/iphone-air/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-air/iPhone-Air.jpg",
+        "assets/images/products/apple/iphone-air/phu-kien-day-deo-cheo-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/phu-kien-pin-sac-du-phong-magsafe-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/4-tuy-chon-mau-sac-xanh-da-troi-vang-nhat-trang-den.webp",
+        "assets/images/products/apple/iphone-air/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ],
+      "Vàng Nhạt": [
+        "assets/images/products/apple/iphone-air/anh-dai-dien-iphone-air-vang-nhat.webp",
+        "assets/images/products/apple/iphone-air/mat-truoc-man-hinh-vang-nhat.webp",
+        "assets/images/products/apple/iphone-air/canh-ben-sieu-mong-vang-nhat.webp",
+        "assets/images/products/apple/iphone-air/goc-nghieng-sau-vang-nhat.webp",
+        "assets/images/products/apple/iphone-air/thiet-ke-sieu-mong-nhe-cam-tay-vang-nhat.webp",
+        "assets/images/products/apple/iphone-air/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-air/iPhone-Air.jpg",
+        "assets/images/products/apple/iphone-air/phu-kien-day-deo-cheo-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/phu-kien-pin-sac-du-phong-magsafe-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/4-tuy-chon-mau-sac-xanh-da-troi-vang-nhat-trang-den.webp",
+        "assets/images/products/apple/iphone-air/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ],
+      "Xanh Da Trời": [
+        "assets/images/products/apple/iphone-air/anh-dai-dien-iphone-air-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/mat-truoc-man-hinh-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/canh-ben-sieu-mong-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/goc-nghieng-sau-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/phu-kien-trong-hop-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-air/iPhone-Air.jpg",
+        "assets/images/products/apple/iphone-air/phu-kien-day-deo-cheo-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/phu-kien-pin-sac-du-phong-magsafe-xanh-da-troi.webp",
+        "assets/images/products/apple/iphone-air/4-tuy-chon-mau-sac-xanh-da-troi-vang-nhat-trang-den.webp",
+        "assets/images/products/apple/iphone-air/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/apple/iphone-air/canh-ben-sieu-mong-den.webp",
+      "screen": "assets/images/products/apple/iphone-air/mat-truoc-man-hinh-den.webp",
+      "performance": "assets/images/products/apple/iphone-air/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp",
+      "camera": "assets/images/products/apple/iphone-air/anh-dai-dien-iphone-air-den.webp",
+      "battery": "assets/images/products/apple/iphone-air/phu-kien-pin-sac-du-phong-magsafe-xanh-da-troi.webp",
+      "feature": "assets/images/products/apple/iphone-air/anh-dai-dien-iphone-air-trang.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/apple/iphone-air/anh-dai-dien-iphone-air-den.webp",
+      "assets/images/products/apple/iphone-air/anh-dai-dien-iphone-air-trang.webp",
+      "assets/images/products/apple/iphone-air/anh-dai-dien-iphone-air-xanh-da-troi.webp",
+      "assets/images/products/apple/iphone-air/mat-truoc-man-hinh-den.webp",
+      "assets/images/products/apple/iphone-air/mat-truoc-man-hinh-trang.webp",
+      "assets/images/products/apple/iphone-air/mat-truoc-man-hinh-vang-nhat.webp",
+      "assets/images/products/apple/iphone-air/mat-truoc-man-hinh-xanh-da-troi.webp",
+      "assets/images/products/apple/iphone-air/canh-ben-sieu-mong-den.webp",
+      "assets/images/products/apple/iphone-air/canh-ben-sieu-mong-trang.webp",
+      "assets/images/products/apple/iphone-air/canh-ben-sieu-mong-vang-nhat.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-apple-iphone",
+      "https://www.thegioididong.com/dtdd-apple-iphone-18-series",
+      "https://www.apple.com/vn/iphone/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT014-IPAIR",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "LTPO Super Retina XDR OLED",
+      "Kích thước màn hình": "6,5 inch",
+      "Độ phân giải màn hình": "2736 x 1260 pixel (tỷ lệ 19,5:9)",
+      "Tần số quét": "ProMotion thích ứng 1Hz – 120Hz",
+      "Kiểu màn hình": "Màn hình phẳng Dynamic Island",
+      "Tính năng màn hình": "Always-On Display, Dolby Vision, HDR10+/HDR10, HLG, độ sáng 1.000 nit (tiêu chuẩn) / 1.600 nit (HDR) / 3.000 nit (ngoài trời) / tối thiểu 1 nit, True Tone, dải màu P3"
+    },
+    "Camera sau": {
+      "Camera sau": "Camera đơn 48MP Fusion (26mm, ƒ/1.6, chống rung sensor-shift OIS, 100% Focus Pixels), tích hợp Telephoto 2x 12MP chất lượng quang học",
+      "Quay video": "4K Dolby Vision 24/25/30/60fps; Action mode 2,8K 60fps; Ghi Hình Kép (Dual Capture) 4K 30fps; Slo-mo 1080p 120/240fps; Hòa Âm (Audio Mix) và Spatial Audio",
+      "Tính năng camera": "Chân dung thế hệ mới với Focus & Depth Control, Phong Cách Nhiếp Ảnh mới, Night mode, Panorama 63MP; Zoom quang học 1x, 2x và zoom số 10x (ảnh), 6x (video)"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera 18MP Center Stage TrueDepth (ƒ/1.9, cảm biến đa tỷ lệ); quay 4K Dolby Vision 24/25/30/60fps, Dual Capture, Ultra-stabilized video, Slo-mo 1080p 120fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Apple A19 Pro (3nm, bản 5 nhân GPU)",
+      "Loại CPU": "CPU 6 lõi: 2 lõi hiệu năng cao + 4 lõi tiết kiệm điện",
+      "GPU": "Apple GPU 5 lõi tích hợp Neural Accelerators và dò tia phần cứng (Ray Tracing)"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "12GB LPDDR5X",
+      "Bộ nhớ trong": "3 phiên bản: 256GB, 512GB và 1TB chuẩn NVMe"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "3.149 mAh (Li-Ion mật độ cao) – Xem video lên đến 27 giờ, xem trực tuyến 22 giờ",
+      "Công nghệ sạc": "Sạc nhanh USB-C 20W (50% pin trong 30 phút); Sạc không dây MagSafe 20W và Qi2 20W",
+      "Cổng sạc": "USB-C (chuẩn USB 2 tốc độ lên đến 480Mb/s)"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "iOS 26 (tháng 09/2025)",
+      "Công nghệ - Tiện ích": "Hỗ trợ đầy đủ Apple Intelligence tiếng Việt, Siri AI thế hệ mới, Dynamic Island",
+      "Tiện ích khác": "Nút Tác Vụ (Action Button), Nút Điều Khiển Camera (Camera Control), bảo mật MIE, SOS khẩn cấp qua vệ tinh, Phát Hiện Va Chạm",
+      "Thời điểm ra mắt": "09/09/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G sub-6GHz 4x4 MIMO (Modem Apple C1X), Gigabit LTE",
+      "Thẻ SIM": "eSIM kép (hỗ trợ 2 eSIM hoạt động đồng thời, không sử dụng khay SIM vật lý)",
+      "Wi-Fi": "Chip Apple N1 hỗ trợ Wi-Fi 7 (802.11be) 2x2 MIMO, Thread",
+      "Bluetooth": "Bluetooth 6.0",
+      "Công nghệ NFC": "Có hỗ trợ NFC",
+      "GPS": "GPS tần số kép (L1+L5), GLONASS, Galileo, QZSS, BeiDou"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền Titanium (80% titan tái chế) hoàn thiện bóng",
+      "Chất liệu mặt lưng": "Mặt lưng kính Ceramic Shield, mặt trước Ceramic Shield 2",
+      "Kích thước": "156,2 x 74,7 x 5,64 mm (siêu mỏng 5,64 mm)",
+      "Trọng lượng": "165 gram",
+      "Chỉ số kháng nước, bụi": "IP68 theo chuẩn IEC 60529 (tối đa 6 mét trong 30 phút)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài đơn tích hợp phía trên, hỗ trợ Spatial Audio và Dolby Atmos qua tai nghe",
+      "Cảm biến vân tay": "Không trang bị (Bảo mật khuôn mặt Face ID 3D)",
+      "Các loại cảm biến": "Face ID, Áp kế, Con quay hồi chuyển, Gia tốc kế, Cảm biến tiệm cận, Cảm biến ánh sáng kép, Từ kế"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,5 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "LTPO Super Retina XDR OLED"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2736 x 1260 pixel"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Apple A19 Pro"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "3 phiên bản: 256GB, 512GB và 1TB NVMe"
+    },
+    {
+      "label": "Camera sau",
+      "value": "48MP Fusion (tích hợp Telephoto 2x)"
+    },
+    {
+      "label": "Camera trước",
+      "value": "18MP Center Stage TrueDepth, khẩu độ ƒ/1.9"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "3.149 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh USB-C 20W, MagSafe / Qi2 20W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "iOS 26"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G (Modem Apple C1X)"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 (6 mét trong 30 phút)"
+    }
+  ],
+  "verbatimDescription": [
+    "Ra mắt vào tháng 9/2025 để thay thế dòng Plus trước đây và tiếp tục được Apple phân phối chính thức trong dải sản phẩm năm 2026–2027, iPhone Air (tên chính thức là 'iPhone Air', không kèm số 17) là một kiệt tác kỹ thuật cơ khí của Apple. Với độ mỏng chỉ 5,64 mm và trọng lượng vỏn vẹn 165 gram nhưng sở hữu màn hình lớn 6,5 inch 120Hz, khung Titanium và cấu hình chip A19 Pro + 12GB RAM, iPhone Air tại AURIX MOBILE hướng tới những khách hàng yêu thích vẻ đẹp thời trang, siêu mỏng nhẹ và sang trọng. (Nguồn tham chiếu chính thức: Apple Tech Specs - iPhone Air).",
+    "Ấn tượng đầu tiên khi cầm iPhone Air trên tay là sự mỏng nhẹ đáng kinh ngạc: kích thước 156,2 x 74,7 x 5,64 mm và nặng chỉ 165 gram (nhẹ hơn cả chiếc iPhone 16e 6,1 inch dù có màn hình lớn tới 6,5 inch). Để đảm bảo thân máy siêu mỏng không bị uốn cong, Apple sử dụng khung viền bằng hợp kim Titanium (80% tái chế) kết hợp mặt trước Ceramic Shield 2 và mặt lưng Ceramic Shield, đồng thời gom toàn bộ linh kiện bo mạch, chip và cụm camera vào phần gờ nổi (plateau) phía trên. Máy có 4 gam màu thanh lịch: Đen Không Gian (Space Black), Trắng Mây (Cloud White), Vàng Nhạt (Light Gold) và Xanh Da Trời (Sky Blue). Màn hình LTPO Super Retina XDR OLED 6,5 inch (2736 x 1260 pixel, 460 ppi) hỗ trợ đầy đủ ProMotion 1–120Hz, Always-On Display, Dynamic Island, đỉnh sáng 3.000 nit và lớp phủ chống phản chiếu.",
+    "Không giống dòng Plus trước đây chỉ dùng chip bản thường, iPhone Air được trang bị hẳn vi xử lý Apple A19 Pro (CPU 6 nhân, GPU 5 nhân tích hợp Neural Accelerators và Ray Tracing phần cứng) cùng dung lượng RAM lên tới 12GB LPDDR5X (tương đương dòng 17 Pro / 18 Pro) và các tùy chọn bộ nhớ 256GB, 512GB, 1TB. Cấu hình này giúp máy xử lý cực nhanh mọi tác vụ đa nhiệm và hệ thống Apple Intelligence trên iOS 27.",
+    "Để đạt độ mỏng 5,64 mm, iPhone Air trang bị 1 camera đơn 48MP Fusion ở mặt sau (tiêu cự 26mm, khẩu độ ƒ/1.6, chống rung dịch chuyển cảm biến sensor-shift OIS) hỗ trợ chụp ảnh 24MP/48MP và thu phóng Telephoto 2x (52mm) chất lượng quang học. Mặt trước là camera 18MP Center Stage (ƒ/1.9, lấy nét tự động) cho phép xoay khung hình ngang/dọc không cần xoay máy và hỗ trợ quay Ghi Hình Kép (Dual Capture) 4K Dolby Vision 30 fps cùng Action mode 2,8K 60 fps. Máy không có camera góc siêu rộng (0.5x), không chụp Macro và không có Cinematic mode.",
+    "Bên trong thân máy 5,64 mm là viên pin mật độ năng lượng cao dung lượng 3.149 mAh (theo dữ liệu tháo máy Wikipedia/MacRumors). Nhờ sự kết hợp giữa chip A19 Pro, tấm nền LTPO, modem 5G Apple C1X và chip mạng Apple N1 siêu tiết kiệm điện, iPhone Air vẫn đạt thời lượng xem video lên đến 27 giờ (tương đương iPhone 16 Plus và 16 Pro). Khi kết hợp cùng phụ kiện pin dự phòng siêu mỏng iPhone Air MagSafe Battery, thời gian xem video tăng lên tới 40 giờ. Máy hỗ trợ sạc nhanh có dây USB-C (50% trong 30 phút với củ sạc 20W+) và sạc không dây MagSafe / Qi2 tối đa 20W.",
+    "Chạy hệ điều hành iOS 27.2 tính đến tháng 11/2026, iPhone Air tích hợp đầy đủ cả nút Action Button lẫn nút Camera Control, kết nối Wi-Fi 7, Bluetooth 6.0 và GPS tần số kép L1+L5. Lưu ý cực kỳ quan trọng đối với khách hàng tại Việt Nam: iPhone Air là mẫu máy đầu tiên (cùng với iPhone Duo sau đó) chỉ sử dụng eSIM trên toàn thế giới (bao gồm cả mã chính hãng VN/A A3517) và chỉ có 1 loa ngoài đơn (mono speaker) ở cạnh trên."
+  ],
+  "priceSegment": "high-end"
+}

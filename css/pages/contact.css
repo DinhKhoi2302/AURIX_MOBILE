@@ -1,0 +1,17 @@
+/* TechPhone — Contact Page Styles */
+.tp-contact-grid {
+  display: grid;
+  grid-template-columns: 1fr 1.3fr;
+  gap: 1.75rem;
+  margin-bottom: 2.5rem;
+}
+.tp-contact-info-card {
+  background: var(--tp-white);
+  border: 1px solid var(--tp-border);
+  border-radius: var(--tp-radius-lg);
+  padding: 1.25rem;
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}

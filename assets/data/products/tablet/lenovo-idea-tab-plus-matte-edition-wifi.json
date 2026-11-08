@@ -1,0 +1,261 @@
+{
+  "id": "lenovo-idea-tab-plus-matte-edition-wifi",
+  "docCode": "TB-LN001-IDPLUS",
+  "model": "Lenovo Idea Tab Plus Matte Edition Wi-Fi",
+  "brand": "Lenovo",
+  "brandId": "lenovo",
+  "parentGroupId": "lenovo",
+  "series": "Lenovo Idea Tab & Tab Series",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "12.1 inch",
+      "Dimensity 7050",
+      "Pin 10.200 mAh"
+    ],
+    "description": "Lenovo Idea Tab Plus Matte Edition là chiếc máy tính bảng mang tính cách mạng cho người dùng thường xuyên đọc sách, học tập và viết lách kỹ thuật số. Điểm sáng giá nhất trên sản phẩm là màn hình kích thước 12.1 inch độ phân giải 2.5K được phủ lớp kính xử lý quang học nhám mờ AG Matte, giúp triệt tiêu tới 95% ánh sáng chói lóa từ đèn trần hay ánh mặt trời ngoài trời.",
+    "releaseDate": "2024 / 2025"
+  },
+  "performance": {
+    "chipset": "MediaTek Dimensity 7050 (tiến trình 6nm hiệu năng cao)",
+    "ram": [
+      "12GB",
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "operatingSystem": "Android 14 (Giao diện ZUI / Lenovo One Vision)"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 7990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/anh-dai-dien-lenovo-idea-tab-plus-matte-edition-wifi-xam.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/anh-dai-dien-lenovo-idea-tab-plus-matte-edition-wifi-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/mat-truoc-sau-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/mat-truoc-dat-tren-ban-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/mat-sau-dat-tren-ban-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-camera-va-canh-tren-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-khay-the-nho-canh-ben-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/canh-ben-trai-phai-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/canh-tren-duoi-loa-cong-sac-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-cum-camera-sau-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/cam-hai-tay-chup-anh-camera-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-chan-ket-noi-pogo-pin-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-cong-sac-type-c-va-loa-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-nut-nguon-va-loa-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/hop-va-bo-phu-kien-but-cam-ung-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/tong-quan-tinh-nang-man-hinh-12-1-inch-2-5k-matte-xam-hong.webp"
+    ],
+    "byColor": {
+      "Xám": [
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/anh-dai-dien-lenovo-idea-tab-plus-matte-edition-wifi-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/mat-truoc-sau-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/mat-truoc-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/mat-sau-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-camera-va-canh-tren-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-khay-the-nho-canh-ben-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-cum-camera-sau-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/cam-hai-tay-chup-anh-camera-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-chan-ket-noi-pogo-pin-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-cong-sac-type-c-va-loa-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-nut-nguon-va-loa-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/hop-va-bo-phu-kien-but-cam-ung-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/tong-quan-tinh-nang-man-hinh-12-1-inch-2-5k-matte-xam-hong.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/mat-truoc-sau-xam.webp",
+      "screen": "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/mat-truoc-dat-tren-ban-xam.webp",
+      "performance": "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/cam-hai-tay-chup-anh-camera-xam.webp",
+      "camera": "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-camera-va-canh-tren-xam.webp",
+      "battery": "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/canh-tren-duoi-loa-cong-sac-xam.webp",
+      "feature": "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/canh-ben-trai-phai-xam.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/mat-truoc-sau-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/mat-truoc-dat-tren-ban-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/mat-sau-dat-tren-ban-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-camera-va-canh-tren-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-khay-the-nho-canh-ben-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/canh-ben-trai-phai-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/canh-tren-duoi-loa-cong-sac-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-cum-camera-sau-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/cam-hai-tay-chup-anh-camera-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-chan-ket-noi-pogo-pin-xam.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "12,1 inch IPS LCD 2.5K (2560 x 1600 pixel), tỷ lệ 16:10, bề mặt kính khắc nhám AG Matte Paper-like chống chói, tần số quét 90Hz, độ sáng 600 nit, dải màu DCI-P3",
+      "Tính năng màn hình": "Lớp phủ nhám AG Matte triệt tiêu tới 95% ánh sáng phản xạ từ đèn trần và mặt trời, đạt chứng nhận bảo vệ mắt TÜV Rheinland Full Care Display, chế độ đọc sách mô phỏng máy đọc sách E-Ink (Chromatic & Mono)"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "MediaTek Dimensity 7050 8 nhân xử lý tác vụ đồ họa và học tập mạnh mẽ",
+      "CPU & Đồ họa": "Octa-core (2x2.6 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55), GPU Mali-G68 MC4",
+      "Hệ điều hành khi ra mắt": "Android 14 với chế độ PC Mode làm việc đa nhiệm chuyên nghiệp"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "8GB / 12GB LPDDR5 đa nhiệm không giật lag",
+      "Bộ nhớ trong": "128GB / 256GB UFS 3.1 tốc độ đọc ghi vượt trội, hỗ trợ thẻ nhớ MicroSD rời"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "13MP tự động lấy nét, khẩu độ f/2.2, đèn flash LED, quay video 4K 30fps",
+      "Camera trước": "8MP góc rộng 100 độ, hỗ trợ gọi video và mở khóa khuôn mặt",
+      "Chi tiết hệ thống Camera": "Camera chính 13MP AF quay phim 4K; Camera trước 8MP góc rộng tối ưu hội họp trực tuyến"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "10.200 mAh dung lượng lớn, sạc nhanh công suất 45W",
+      "Pin và công nghệ sạc": "Viên pin dung lượng khủng 10.200 mAh, sạc nhanh Turbo Power 45W qua cổng Type-C"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Tương thích bút cảm ứng Lenovo Tab Pen Plus (4.096 mức độ lực nhấn, hỗ trợ nhận diện độ nghiêng, cảnh báo chống thất lạc và độ trễ cực thấp trên bề mặt màn hình nhám)",
+      "Hỗ trợ bàn phím rời": "Tương thích bao da bàn phím thông minh Lenovo Smart Keyboard kết nối trực tiếp qua chấu từ tính Pogo Pin không cần sạc pin hay ghép nối Bluetooth",
+      "Công nghệ âm thanh": "Hệ thống 4 loa stereo thương hiệu JBL tinh chỉnh bởi Dolby Atmos sống động",
+      "Thuộc tính đặc biệt": "Màn hình nhám đọc sách và viết vẽ như trên giấy thật, chân tiếp xúc Pogo Pin, bút Lenovo Tab Pen Plus"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Wi-Fi 6 (802.11ax) 2x2 MIMO băng tần kép",
+      "Thẻ SIM": "Không hỗ trợ (Bản Wi-Fi)",
+      "Kết nối không dây & Cổng giao tiếp": "Wi-Fi 6 siêu tốc, Bluetooth 5.2, cổng kết nối phụ kiện thông minh Pogo Pin, USB-C 2.0",
+      "Công nghệ - Tiện ích": "Chế độ đọc sách mô phỏng giấy điện tử E-Ink, chế độ máy tính để bàn PC Mode đa cửa sổ"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Độ mỏng 6.9 mm, thân kim loại unibody, kích thước 278.8 x 180.1 x 6.9 mm, trọng lượng 590 g",
+      "Bảo mật và độ bền": "Mở khóa khuôn mặt Face Unlock, vỏ hợp kim nhôm hai tông màu cao cấp chống va đập",
+      "Thời điểm ra mắt": "Năm 2024 / 2025"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "12.1 inch IPS LCD 2.5K phủ lớp nhám chống chói AG Matte, độ phân giải 2560 x 1600 pixels"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Lớp kính phủ nhám Matte chống phản xạ 95%, chứng nhận bảo vệ mắt TÜV Full Care, tần số quét 90Hz, độ sáng 600 nits"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 7050 (tiến trình 6nm hiệu năng cao)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB / 12GB LPDDR5"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB UFS 3.1 (Hỗ trợ thẻ nhớ MicroSD tối đa 1TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "13MP tự động lấy nét, khẩu độ f/2.2, đèn flash LED, quay video 4K 30fps"
+    },
+    {
+      "label": "Camera trước",
+      "value": "8MP góc rộng 100 độ, hỗ trợ gọi video và mở khóa khuôn mặt"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Viên pin dung lượng khủng 10.200 mAh, sạc nhanh Turbo Power 45W qua cổng Type-C"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Wi-Fi 6 (802.11ax) 2x2 MIMO băng tần kép"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Tương thích bút cảm ứng lực Lenovo Tab Pen Plus 4096 mức cảm ứng lực"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Hỗ trợ bao da bàn phím thông minh Lenovo thông qua chân tiếp xúc Pogo Pin"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 14 (Giao diện ZUI / Lenovo One Vision)"
+    }
+  ],
+  "verbatimDescription": [
+    "Lenovo Idea Tab Plus Matte Edition là chiếc máy tính bảng mang tính cách mạng cho người dùng thường xuyên đọc sách, học tập và viết lách kỹ thuật số. Điểm sáng giá nhất trên sản phẩm là màn hình kích thước 12.1 inch độ phân giải 2.5K được phủ lớp kính xử lý quang học nhám mờ AG Matte, giúp triệt tiêu tới 95% ánh sáng chói lóa từ đèn trần hay ánh mặt trời ngoài trời.",
+    "Lớp hoàn thiện nhám đặc biệt mang đến độ bám tự nhiên khi sử dụng bút cảm ứng Lenovo Tab Pen Plus, tạo cảm giác ma sát chân thực như đang viết và vẽ trên giấy thật. Màn hình đạt chuẩn bảo vệ mắt nghiêm ngặt từ TÜV Rheinland giúp hạn chế tối đa cảm giác mỏi mắt khi làm việc kéo dài.",
+    "Hiệu năng bên trong vô cùng mạnh mẽ với con chip MediaTek Dimensity 7050 kết hợp dung lượng RAM lên đến 12GB. Máy vận hành mượt mà chế độ giao diện máy tính để bàn PC Mode của Lenovo, cho phép người dùng mở nhiều cửa sổ tài liệu, bảng tính Excel và lướt web cùng một lúc.",
+    "Trải nghiệm giải trí được nâng tầm với hệ thống 4 loa chuyên nghiệp do thương hiệu JBL lừng danh tinh chỉnh, kết hợp công nghệ âm thanh vòm Dolby Atmos tái hiện không gian âm nhạc sống động. Viên pin 10.200 mAh mang lại thời lượng dùng bền bỉ suốt 14 giờ và sạc nhanh 45W giúp nạp đầy năng lượng thần tốc.",
+    "Khả năng làm việc chuyên nghiệp trên Lenovo Idea Tab Plus Matte Edition được nâng tầm nhờ chế độ máy tính để bàn PC Mode tích hợp sẵn. Khi kết nối với bàn phím rời qua chân Pogo Pin, giao diện lập tức chuyển sang dạng thanh tác vụ và các cửa sổ thu phóng linh hoạt tương tự laptop Windows, giúp xử lý bảng tính Excel, trình chiếu PowerPoint và soạn thảo Word nhanh chóng.",
+    "Không chỉ dừng lại ở làm việc độc lập, phần mềm Lenovo Freestyle còn cho phép biến chiếc máy tính bảng 12,1 inch này thành màn hình phụ thứ hai không dây cho máy tính xách tay Windows, hoặc dùng chung chuột và bàn phím để kéo thả tệp tin xuyên suốt giữa hai thiết bị.",
+    "Viên pin dung lượng lớn 10.200 mAh đi kèm sạc nhanh 45W cung cấp nguồn năng lượng bền bỉ suốt cả ngày dài học tập tại giảng đường hay đọc tài liệu nghiên cứu. Sự kết hợp giữa màn hình nhám chống lóa như giấy thật, bút Lenovo Tab Pen Plus và hệ thống 4 loa JBL chuẩn Dolby Atmos biến đây thành thiết bị hoàn hảo cho sinh viên, giáo viên và người yêu đọc sách."
+  ],
+  "variants": [
+    {
+      "sku": "TB-LN001-IDPLUS-XAM-8GB-128GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 7990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/anh-dai-dien-lenovo-idea-tab-plus-matte-edition-wifi-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/mat-truoc-sau-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/mat-truoc-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/mat-sau-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-camera-va-canh-tren-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-khay-the-nho-canh-ben-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-cum-camera-sau-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/cam-hai-tay-chup-anh-camera-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-chan-ket-noi-pogo-pin-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-cong-sac-type-c-va-loa-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-nut-nguon-va-loa-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/hop-va-bo-phu-kien-but-cam-ung-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/tong-quan-tinh-nang-man-hinh-12-1-inch-2-5k-matte-xam-hong.webp"
+      ]
+    },
+    {
+      "sku": "TB-LN001-IDPLUS-XAM-12GB-256GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 9490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/anh-dai-dien-lenovo-idea-tab-plus-matte-edition-wifi-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/mat-truoc-sau-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/mat-truoc-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/mat-sau-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-camera-va-canh-tren-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-khay-the-nho-canh-ben-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-cum-camera-sau-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/cam-hai-tay-chup-anh-camera-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-chan-ket-noi-pogo-pin-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-cong-sac-type-c-va-loa-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/can-canh-nut-nguon-va-loa-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/hop-va-bo-phu-kien-but-cam-ung-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-plus-matte-edition-wifi/tong-quan-tinh-nang-man-hinh-12-1-inch-2-5k-matte-xam-hong.webp"
+      ]
+    }
+  ]
+}

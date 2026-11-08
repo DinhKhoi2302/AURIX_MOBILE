@@ -1,0 +1,456 @@
+{
+  "id": "nubia-air-5g",
+  "brand": "nubia",
+  "brandId": "nubia",
+  "parentGroupId": "nubia",
+  "model": "nubia Air",
+  "series": "nubia Air Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "midrange"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025 – 2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Ra mắt tháng 9/2025 tại IFA, nubia Air 5G tạo nên cơn sốt công nghệ khi sở hữu thân máy siêu mỏng chỉ 6,7 mm và nhẹ vỏn vẹn 172 gram nhưng vẫn tích hợp đầy đủ viên pin 5.000 mAh, màn hình 6,78 inch AMOLED 120Hz, vi xử lý 5G 6nm, bộ nhớ 256GB và chuẩn kháng bụi nước IP68/IP69K. Tại AURIX MOBILE, nubia Air 5G là lựa chọn lý tưởng cho khách hàng yêu thích smartphone siêu mỏng nhẹ thời trang. (Nguồn tham chiếu: nubia Official & GSMArena - ZTE nubia Air 5G).",
+    "highlights": [
+      "Siêu mỏng 6,7mm / 172g",
+      "6,78 inch AMOLED 120Hz",
+      "Pin 5.000 mAh / IP68 & IP69K"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 5490000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT003-NBAIR-VANG-8GB-256GB",
+      "color": "Vàng",
+      "colorHex": "#EAB308",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 5490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-air-5g/anh-dai-dien-nubia-air-vang.webp",
+        "assets/images/products/nubia/nubia-air-5g/mat-truoc-mat-sau-nubia-air-vang.webp",
+        "assets/images/products/nubia/nubia-air-5g/mat-lung-va-phu-kien-nubia-air-vang.webp",
+        "assets/images/products/nubia/nubia-air-5g/canh-trai-canh-phai-nubia-air-vang.webp",
+        "assets/images/products/nubia/nubia-air-5g/canh-tren-canh-duoi-nubia-air-vang.webp",
+        "assets/images/products/nubia/nubia-air-5g/goc-nghieng-camera-sau-nubia-air-vang.webp",
+        "assets/images/products/nubia/nubia-air-5g/cum-camera-sau-nubia-air-vang.webp",
+        "assets/images/products/nubia/nubia-air-5g/man-hinh-va-phu-kien-nubia-air-vang.webp",
+        "assets/images/products/nubia/nubia-air-5g/tren-tay-man-hinh-nubia-air-vang.webp",
+        "assets/images/products/nubia/nubia-air-5g/nubia-Air-5G.jpg"
+      ]
+    },
+    {
+      "sku": "DT003-NBAIR-VANG-12GB-256GB",
+      "color": "Vàng",
+      "colorHex": "#EAB308",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 6290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-air-5g/anh-dai-dien-nubia-air-vang.webp",
+        "assets/images/products/nubia/nubia-air-5g/mat-truoc-mat-sau-nubia-air-vang.webp",
+        "assets/images/products/nubia/nubia-air-5g/mat-lung-va-phu-kien-nubia-air-vang.webp",
+        "assets/images/products/nubia/nubia-air-5g/canh-trai-canh-phai-nubia-air-vang.webp",
+        "assets/images/products/nubia/nubia-air-5g/canh-tren-canh-duoi-nubia-air-vang.webp",
+        "assets/images/products/nubia/nubia-air-5g/goc-nghieng-camera-sau-nubia-air-vang.webp",
+        "assets/images/products/nubia/nubia-air-5g/cum-camera-sau-nubia-air-vang.webp",
+        "assets/images/products/nubia/nubia-air-5g/man-hinh-va-phu-kien-nubia-air-vang.webp",
+        "assets/images/products/nubia/nubia-air-5g/tren-tay-man-hinh-nubia-air-vang.webp",
+        "assets/images/products/nubia/nubia-air-5g/nubia-Air-5G.jpg"
+      ]
+    },
+    {
+      "sku": "DT003-NBAIR-DEN-8GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 5490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-air-5g/mat-truoc-mat-sau-nubia-air-den.webp",
+        "assets/images/products/nubia/nubia-air-5g/canh-trai-canh-phai-nubia-air-den.webp",
+        "assets/images/products/nubia/nubia-air-5g/canh-tren-canh-duoi-nubia-air-den.webp",
+        "assets/images/products/nubia/nubia-air-5g/goc-nghieng-camera-sau-nubia-air-den.webp",
+        "assets/images/products/nubia/nubia-air-5g/cum-camera-sau-nubia-air-den.webp",
+        "assets/images/products/nubia/nubia-air-5g/man-hinh-va-phu-kien-nubia-air-den.webp",
+        "assets/images/products/nubia/nubia-air-5g/trai-nghiem-chup-anh-nubia-air-den.webp",
+        "assets/images/products/nubia/nubia-air-5g/nubia-Air-5G.jpg"
+      ]
+    },
+    {
+      "sku": "DT003-NBAIR-DEN-12GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 6290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-air-5g/mat-truoc-mat-sau-nubia-air-den.webp",
+        "assets/images/products/nubia/nubia-air-5g/canh-trai-canh-phai-nubia-air-den.webp",
+        "assets/images/products/nubia/nubia-air-5g/canh-tren-canh-duoi-nubia-air-den.webp",
+        "assets/images/products/nubia/nubia-air-5g/goc-nghieng-camera-sau-nubia-air-den.webp",
+        "assets/images/products/nubia/nubia-air-5g/cum-camera-sau-nubia-air-den.webp",
+        "assets/images/products/nubia/nubia-air-5g/man-hinh-va-phu-kien-nubia-air-den.webp",
+        "assets/images/products/nubia/nubia-air-5g/trai-nghiem-chup-anh-nubia-air-den.webp",
+        "assets/images/products/nubia/nubia-air-5g/nubia-Air-5G.jpg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "AMOLED 120Hz, độ phân giải 1.5K, độ sáng cao",
+    "size": "6,78 inch",
+    "resolution": "2800 x 1260 pixel / 2400 x 1080 pixel (FHD+ / 1.5K, 440 ppi)",
+    "refreshRate": "120Hz",
+    "brightness": "Tấm nền AMOLED rực rỡ, tần số quét 120Hz, tích hợp Live Island 2.0, bảo vệ mắt chống ánh sáng xanh",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Unisoc T8300 5G (6nm)",
+    "cpu": "CPU 8 nhân 5G: 2 nhân hiệu năng cao Cortex-A78 (2,2 GHz) + 6 nhân Cortex-A55 (2,0 GHz)",
+    "gpu": "ARM Mali-G57 MC2",
+    "ram": [
+      "8GB",
+      "12GB"
+    ],
+    "storage": [
+      "256GB"
+    ],
+    "operatingSystem": "MyOS 15 (Android 15)",
+    "uiVersion": "Android",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Chính AI (ƒ/1.8, PDAF) + Cảm biến chiều sâu",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "Quay video Full HD 1080p ở 30fps kèm chống rung điện tử EIS"
+    ],
+    "aiFeatures": [
+      "Neovision AI, AI Magic Eraser xóa vật thể, Super Night chụp đêm, Chân dung xóa phông, HDR"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "16MP / 20MP AI Selfie, quay 1080p 30fps",
+    "features": [
+      "Camera Selfie 16MP / 20MP đặt trong nốt ruồi nhỏ gọn, hỗ trợ làm đẹp chân dung AI và quay video 1080p@30fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "5.000 mAh (Trong thân máy siêu mỏng 6,7mm)",
+    "wiredCharging": "Sạc nhanh có dây 33W",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc nhanh có dây 33W qua cổng USB Type-C"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM vật lý hỗ trợ 5G kép"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép (2.4GHz & 5GHz)",
+    "bluetooth": "Bluetooth 5.3 / 5.4 hỗ trợ A2DP, LE",
+    "gps": [
+      "GPS, GLONASS, GALILEO, BDS"
+    ],
+    "usb": "USB Type-C 2.0 hỗ trợ OTG",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "164,2 x 76,6 x 6,7 mm",
+    "weight": "172 gram",
+    "materials": [
+      "Khung viền siêu mỏng vát cong công thái học",
+      "Mặt lưng kính cường lực / sợi composite hoàn thiện nhám mờ sang trọng"
+    ],
+    "waterResistance": "IP68 & IP69K kháng bụi nước áp lực cao",
+    "availableColors": [
+      "Vàng",
+      "Đen"
+    ]
+  },
+  "audio": {
+    "speakers": "Hệ thống loa Stereo chuẩn DTS:X Ultra",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "AMOLED 6.78 inch"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền nubia tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/nubia/nubia-air-5g/anh-dai-dien-nubia-air-vang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/nubia/nubia-air-5g/anh-dai-dien-nubia-air-vang.webp",
+      "assets/images/products/nubia/nubia-air-5g/mat-truoc-mat-sau-nubia-air-den.webp",
+      "assets/images/products/nubia/nubia-air-5g/mat-truoc-mat-sau-nubia-air-vang.webp",
+      "assets/images/products/nubia/nubia-air-5g/mat-lung-va-phu-kien-nubia-air-vang.webp",
+      "assets/images/products/nubia/nubia-air-5g/canh-trai-canh-phai-nubia-air-den.webp",
+      "assets/images/products/nubia/nubia-air-5g/canh-trai-canh-phai-nubia-air-vang.webp",
+      "assets/images/products/nubia/nubia-air-5g/canh-tren-canh-duoi-nubia-air-den.webp",
+      "assets/images/products/nubia/nubia-air-5g/canh-tren-canh-duoi-nubia-air-vang.webp",
+      "assets/images/products/nubia/nubia-air-5g/goc-nghieng-camera-sau-nubia-air-den.webp",
+      "assets/images/products/nubia/nubia-air-5g/goc-nghieng-camera-sau-nubia-air-vang.webp",
+      "assets/images/products/nubia/nubia-air-5g/cum-camera-sau-nubia-air-den.webp",
+      "assets/images/products/nubia/nubia-air-5g/cum-camera-sau-nubia-air-vang.webp",
+      "assets/images/products/nubia/nubia-air-5g/man-hinh-va-phu-kien-nubia-air-den.webp",
+      "assets/images/products/nubia/nubia-air-5g/man-hinh-va-phu-kien-nubia-air-vang.webp",
+      "assets/images/products/nubia/nubia-air-5g/nubia-Air-5G.jpg",
+      "assets/images/products/nubia/nubia-air-5g/trai-nghiem-chup-anh-nubia-air-den.webp",
+      "assets/images/products/nubia/nubia-air-5g/tren-tay-man-hinh-nubia-air-vang.webp"
+    ],
+    "byColor": {
+      "Vàng": [
+        "assets/images/products/nubia/nubia-air-5g/anh-dai-dien-nubia-air-vang.webp",
+        "assets/images/products/nubia/nubia-air-5g/mat-truoc-mat-sau-nubia-air-vang.webp",
+        "assets/images/products/nubia/nubia-air-5g/mat-lung-va-phu-kien-nubia-air-vang.webp",
+        "assets/images/products/nubia/nubia-air-5g/canh-trai-canh-phai-nubia-air-vang.webp",
+        "assets/images/products/nubia/nubia-air-5g/canh-tren-canh-duoi-nubia-air-vang.webp",
+        "assets/images/products/nubia/nubia-air-5g/goc-nghieng-camera-sau-nubia-air-vang.webp",
+        "assets/images/products/nubia/nubia-air-5g/cum-camera-sau-nubia-air-vang.webp",
+        "assets/images/products/nubia/nubia-air-5g/man-hinh-va-phu-kien-nubia-air-vang.webp",
+        "assets/images/products/nubia/nubia-air-5g/tren-tay-man-hinh-nubia-air-vang.webp",
+        "assets/images/products/nubia/nubia-air-5g/nubia-Air-5G.jpg"
+      ],
+      "Đen": [
+        "assets/images/products/nubia/nubia-air-5g/mat-truoc-mat-sau-nubia-air-den.webp",
+        "assets/images/products/nubia/nubia-air-5g/canh-trai-canh-phai-nubia-air-den.webp",
+        "assets/images/products/nubia/nubia-air-5g/canh-tren-canh-duoi-nubia-air-den.webp",
+        "assets/images/products/nubia/nubia-air-5g/goc-nghieng-camera-sau-nubia-air-den.webp",
+        "assets/images/products/nubia/nubia-air-5g/cum-camera-sau-nubia-air-den.webp",
+        "assets/images/products/nubia/nubia-air-5g/man-hinh-va-phu-kien-nubia-air-den.webp",
+        "assets/images/products/nubia/nubia-air-5g/trai-nghiem-chup-anh-nubia-air-den.webp",
+        "assets/images/products/nubia/nubia-air-5g/nubia-Air-5G.jpg"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/nubia/nubia-air-5g/mat-truoc-mat-sau-nubia-air-den.webp",
+      "screen": "assets/images/products/nubia/nubia-air-5g/mat-truoc-mat-sau-nubia-air-vang.webp",
+      "performance": "assets/images/products/nubia/nubia-air-5g/goc-nghieng-camera-sau-nubia-air-den.webp",
+      "camera": "assets/images/products/nubia/nubia-air-5g/goc-nghieng-camera-sau-nubia-air-vang.webp",
+      "battery": "assets/images/products/nubia/nubia-air-5g/canh-trai-canh-phai-nubia-air-den.webp",
+      "feature": "assets/images/products/nubia/nubia-air-5g/mat-lung-va-phu-kien-nubia-air-vang.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/nubia/nubia-air-5g/mat-truoc-mat-sau-nubia-air-den.webp",
+      "assets/images/products/nubia/nubia-air-5g/mat-truoc-mat-sau-nubia-air-vang.webp",
+      "assets/images/products/nubia/nubia-air-5g/mat-lung-va-phu-kien-nubia-air-vang.webp",
+      "assets/images/products/nubia/nubia-air-5g/canh-trai-canh-phai-nubia-air-den.webp",
+      "assets/images/products/nubia/nubia-air-5g/canh-trai-canh-phai-nubia-air-vang.webp",
+      "assets/images/products/nubia/nubia-air-5g/canh-tren-canh-duoi-nubia-air-den.webp",
+      "assets/images/products/nubia/nubia-air-5g/canh-tren-canh-duoi-nubia-air-vang.webp",
+      "assets/images/products/nubia/nubia-air-5g/goc-nghieng-camera-sau-nubia-air-den.webp",
+      "assets/images/products/nubia/nubia-air-5g/goc-nghieng-camera-sau-nubia-air-vang.webp",
+      "assets/images/products/nubia/nubia-air-5g/cum-camera-sau-nubia-air-den.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-nubia",
+      "https://www.nubia.com/vn/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "partial_retail_listing",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT003-NBAIR",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "AMOLED 120Hz, độ phân giải 1.5K, độ sáng cao",
+      "Kích thước màn hình": "6,78 inch",
+      "Độ phân giải màn hình": "2800 x 1260 pixel / 2400 x 1080 pixel (FHD+ / 1.5K, 440 ppi)",
+      "Tần số quét": "120Hz",
+      "Kiểu màn hình": "Màn hình phẳng đục lỗ siêu mỏng (thân máy mỏng kỷ lục 6,7 mm)",
+      "Tính năng màn hình": "Tấm nền AMOLED rực rỡ, tần số quét 120Hz, tích hợp Live Island 2.0, bảo vệ mắt chống ánh sáng xanh"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera AI siêu mỏng: Camera chính 50MP (khẩu độ ƒ/1.8, lấy nét theo pha PDAF) kết hợp ống kính phụ đo chiều sâu và thuật toán Neovision AI Photography",
+      "Quay video": "Quay video Full HD 1080p ở 30fps kèm chống rung điện tử EIS",
+      "Tính năng camera": "Neovision AI, AI Magic Eraser xóa vật thể, Super Night chụp đêm, Chân dung xóa phông, HDR"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera Selfie 16MP / 20MP đặt trong nốt ruồi nhỏ gọn, hỗ trợ làm đẹp chân dung AI và quay video 1080p@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Unisoc T8300 5G (6nm)",
+      "Loại CPU": "CPU 8 nhân 5G: 2 nhân hiệu năng cao Cortex-A78 (2,2 GHz) + 6 nhân Cortex-A55 (2,0 GHz)",
+      "GPU": "ARM Mali-G57 MC2"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB / 12GB (+12GB Dynamic RAM mở rộng lên tới 20GB/24GB)",
+      "Bộ nhớ trong": "256GB chuẩn UFS 2.2"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.000 mAh (Pin mật độ năng lượng cao tích hợp trong thân máy mỏng chỉ 6,7 mm)",
+      "Công nghệ sạc": "Sạc nhanh có dây 33W qua cổng USB Type-C",
+      "Cổng sạc": "USB Type-C 2.0 hỗ trợ OTG"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "MyOS 15 (Android 15)",
+      "Công nghệ - Tiện ích": "Hệ thống Neovision AI (AI Translate dịch trực tiếp, AI Magic Photos), Live Island 2.0",
+      "Tiện ích khác": "Thiết kế siêu mỏng nhẹ chỉ 6,7 mm và nặng 172 gram nhưng đạt chuẩn kháng nước bụi cao cấp IP68 / IP69K",
+      "Thời điểm ra mắt": "Tháng 09/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G",
+      "Thẻ SIM": "2 Nano-SIM vật lý hỗ trợ 5G kép",
+      "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép (2.4GHz & 5GHz)",
+      "Bluetooth": "Bluetooth 5.3 / 5.4 hỗ trợ A2DP, LE",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa năng",
+      "GPS": "GPS, GLONASS, GALILEO, BDS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền siêu mỏng vát cong công thái học",
+      "Chất liệu mặt lưng": "Mặt lưng kính cường lực / sợi composite hoàn thiện nhám mờ sang trọng",
+      "Kích thước": "164,2 x 76,6 x 6,7 mm",
+      "Trọng lượng": "172 gram",
+      "Chỉ số kháng nước, bụi": "Đạt chuẩn kháng bụi và chống nước cao cấp IP68 / IP69K"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa Stereo chuẩn DTS:X Ultra",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình + Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Tiệm cận, Ánh sáng môi trường, La bàn số"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,78 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "AMOLED 120Hz, độ phân giải 1.5K, độ sáng cao"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2800 x 1260 pixel / 2400 x 1080 pixel (FHD+ / 1.5K, 440 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Unisoc T8300 5G (6nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB / 12GB (+12GB Dynamic RAM mở rộng lên tới 20GB/24GB)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB chuẩn UFS 2.2"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính AI (ƒ/1.8, PDAF) + Cảm biến chiều sâu"
+    },
+    {
+      "label": "Camera trước",
+      "value": "16MP / 20MP AI Selfie, quay 1080p 30fps"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.000 mAh (Trong thân máy siêu mỏng 6,7mm)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh có dây 33W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "MyOS 15 (Android 15)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 & IP69K kháng bụi nước áp lực cao"
+    }
+  ],
+  "verbatimDescription": [
+    "Ra mắt tháng 9/2025 tại IFA, nubia Air 5G tạo nên cơn sốt công nghệ khi sở hữu thân máy siêu mỏng chỉ 6,7 mm và nhẹ vỏn vẹn 172 gram nhưng vẫn tích hợp đầy đủ viên pin 5.000 mAh, màn hình 6,78 inch AMOLED 120Hz, vi xử lý 5G 6nm, bộ nhớ 256GB và chuẩn kháng bụi nước IP68/IP69K. Tại AURIX MOBILE, nubia Air 5G là lựa chọn lý tưởng cho khách hàng yêu thích smartphone siêu mỏng nhẹ thời trang.",
+    "Với độ dày chỉ 6,7 mm và trọng lượng 172 gram, nubia Air 5G là một trong những mẫu điện thoại 5G mỏng và nhẹ nhất thị trường. Đáng kinh ngạc hơn, cấu trúc thân máy vẫn đạt chuẩn kháng bụi và kháng nước áp lực cao IP68/IP69K.",
+    "Mặt trước của máy là màn hình AMOLED rộng 6,78 inch tần số quét 120Hz mượt mà, tích hợp cảm biến vân tay quang học dưới màn hình và giao diện thông báo động Live Island 2.0.",
+    "Hệ thống camera 50MP Neovision AI phía sau đi kèm công cụ chỉnh sửa ảnh thông minh AI Magic Eraser và chế độ chụp đêm Super Night, kết hợp camera trước 16MP/20MP sắc nét.",
+    "Vi xử lý 5G 8 nhân Unisoc T8300 (6nm, 2 nhân Cortex-A78 2,2 GHz) kết hợp cùng 8GB/12GB RAM vật lý (mở rộng Dynamic RAM lên tới 20GB/24GB) và 256GB bộ nhớ trong mang lại hiệu năng đa nhiệm mượt mà trên Android 15.",
+    "Dù mỏng chỉ 6,7 mm, nubia Air 5G vẫn giữ nguyên viên pin 5.000 mAh kèm sạc nhanh 33W, không bắt người dùng phải đánh đổi thời lượng pin lấy độ mỏng."
+  ],
+  "priceSegment": "midrange"
+}

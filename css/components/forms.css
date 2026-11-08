@@ -1,0 +1,65 @@
+/* TechPhone — Form Elements (Brandkit 06. FORM ELEMENTS) */
+.tp-form-group {
+  margin-bottom: 1.1rem;
+}
+.tp-label {
+  display: block;
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--tp-navy);
+  margin-bottom: 0.4rem;
+}
+.tp-input, .tp-select, .tp-textarea {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding: 0.68rem 0.95rem;
+  font-size: 0.94rem;
+  color: var(--tp-text-main);
+  background: var(--tp-white);
+  border: 1.5px solid var(--tp-border);
+  border-radius: var(--tp-radius-sm);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+textarea,
+.tp-textarea {
+  resize: none !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 100%;
+  overflow-y: auto;
+}
+.tp-input:focus, .tp-select:focus, .tp-textarea:focus {
+  outline: none;
+  border-color: var(--tp-primary);
+  box-shadow: 0 0 0 3.5px rgba(8, 102, 245, 0.14);
+}
+.tp-input.is-invalid, .tp-select.is-invalid, .tp-textarea.is-invalid,
+.tp-input[aria-invalid="true"] {
+  border-color: var(--tp-error);
+  background-color: #FFFBFB;
+}
+.tp-input.is-valid {
+  border-color: var(--tp-success);
+}
+.tp-field-error {
+  display: block;
+  font-size: 0.78rem;
+  color: var(--tp-error);
+  margin-top: 0.3rem;
+  font-weight: 500;
+  min-height: 1.1em;
+}
+.tp-checkbox-label, .tp-radio-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.9rem;
+  color: var(--tp-text-main);
+  cursor: pointer;
+}
+.tp-checkbox-label input, .tp-radio-label input {
+  width: 17px;
+  height: 17px;
+  accent-color: var(--tp-primary);
+}

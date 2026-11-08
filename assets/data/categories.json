@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0.0",
+  "last_verified_at": "2026-11-01",
+  "categories": [
+    {
+      "category_id": "smartphone",
+      "name": "Điện thoại thông minh",
+      "slug": "dien-thoai-thong-minh",
+      "description": "Danh mục gốc cho toàn bộ các dòng điện thoại thông minh tại AURIX MOBILE."
+    },
+    {
+      "category_id": "flagship",
+      "name": "Flagship Cao cấp",
+      "slug": "flagship-cao-cap",
+      "description": "Các dòng điện thoại đầu bảng sở hữu vi xử lý mạnh nhất, hệ thống camera chuyên nghiệp và vật liệu cao cấp (iPhone Pro/Pro Max, Galaxy S Ultra, Xiaomi Ultra, Find X Ultra, vivo X Ultra)."
+    },
+    {
+      "category_id": "foldable",
+      "name": "Điện thoại Màn hình gập",
+      "slug": "dien-thoai-man-hinh-gap",
+      "description": "Các mẫu điện thoại gập ngang và gập vỏ sò (iPhone Duo, Galaxy Z Fold/Flip, HONOR Magic V, Motorola Razr)."
+    },
+    {
+      "category_id": "upper-midrange",
+      "name": "Cận cao cấp & Nhiếp ảnh",
+      "slug": "can-cao-cap-nhiep-anh",
+      "description": "Các dòng điện thoại cận cao cấp tối ưu thiết kế mỏng nhẹ, chân dung AI và hiệu năng cao (Xiaomi T, OPPO Reno, vivo V, HONOR Number, realme Pro, Motorola Edge, Nothing Phone Pro)."
+    },
+    {
+      "category_id": "midrange",
+      "name": "Tầm trung Hiệu năng & Pin lớn",
+      "slug": "tam-trung-hieu-nang",
+      "description": "Các dòng máy tầm trung cân bằng giữa màn hình 120Hz, kết nối 5G và dung lượng pin lớn (Galaxy A3x/A5x, Redmi Note, POCO X/M, HONOR X, TECNO POVA, nubia Air)."
+    },
+    {
+      "category_id": "entry-level",
+      "name": "Phổ thông Bền bỉ",
+      "slug": "pho-thong-ben-bi",
+      "description": "Các dòng smartphone phổ thông dễ tiếp cận, pin lâu cho nhu cầu học tập, liên lạc và di chuyển hằng ngày (Galaxy A0x/A1x, Redmi Number/A/C, POCO C, OPPO A, vivo Y, realme C/Note, TECNO Spark, nubia V/A)."
+    },
+    {
+      "category_id": "5g-ready",
+      "name": "Hỗ trợ mạng 5G",
+      "slug": "ho-tro-5g",
+      "description": "Thiết bị hỗ trợ kết nối di động thế hệ thứ 5 (5G) tốc độ cao."
+    }
+  ]
+}

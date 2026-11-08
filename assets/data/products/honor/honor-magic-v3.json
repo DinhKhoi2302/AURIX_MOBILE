@@ -1,0 +1,534 @@
+{
+  "id": "honor-magic-v3",
+  "brand": "HONOR",
+  "brandId": "honor",
+  "parentGroupId": "honor",
+  "model": "HONOR Magic V3",
+  "series": "HONOR Magic V (Màn gập)",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "foldable",
+    "flagship"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 19,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025 – 2026",
+    "segment": "Màn hình gập",
+    "description": "HONOR Magic V3 là kiệt tác công nghệ khẳng định vị thế dẫn đầu tuyệt đối của HONOR trong phân khúc smartphone màn hình gập cao cấp, được giới thiệu trên toàn cầu tại triển lãm công nghệ IFA Berlin vào tháng 9/2024 và chính thức mở bán tại Việt Nam thông qua các hệ thống bán lẻ hàng đầu như FPT Shop và CellphoneS. Sản phẩm tạo nên cơn địa chấn trong giới công nghệ khi phá vỡ mọi định kiến về smartphone gập: không còn dày cộm, nặng nề hay mỏng manh, mà thanh mảnh và nhẹ hơn cả những chiếc flagship thanh truyền thống. Tại thị trường Việt Nam, HONOR Magic V3 được săn đón nồng nhiệt bởi giới doanh nhân, chuyên gia tài chính và người dùng công nghệ sành điệu, đóng vai trò như một văn phòng di động thu nhỏ với khả năng xử lý đa nhiệm màn hình lớn, thời lượng pin bền bỉ và độ bền vật lý chuẩn mực hàng đầu.",
+    "highlights": [
+      "Chính 7,92 inch / Ngoài 6,43 inch",
+      "Qualcomm Snapdragon 8 Gen 3",
+      "Pin 5.150 mAh"
+    ],
+    "officialDistribution": "Model được bảo lưu từ danh sách trước nhưng chưa đủ bằng chứng đang mở bán chính thức trong lượt đối chiếu ngày 01/11/2026; giữ trạng thái needs_verification để không mất dấu dữ liệu."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 39270000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT007-HNMAGICV3-XANH-LA-12GB-512GB",
+      "color": "Xanh Lá",
+      "colorHex": "#228B57",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 39270000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-magic-v3/mat-truoc-sau-khi-gap-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/man-hinh-ngoai-dat-tren-ban-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/mat-sau-dat-tren-ban-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/mat-sau-va-man-hinh-mo-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/can-canh-ban-le-khi-gap-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/canh-ben-khi-mo-va-gap-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/can-canh-cum-camera-bat-giac-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/cam-hai-tay-chup-anh-man-hinh-mo-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/cam-hai-tay-man-hinh-mo-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/man-hinh-mo-dat-tren-ban-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/tinh-nang-honor-ai-man-hinh-gap-xanh-duong.webp",
+        "assets/images/products/honor/honor-magic-v3/thong-so-do-mong-4-35mm-den-vang.webp",
+        "assets/images/products/honor/honor-magic-v3/thong-so-ong-kinh-tiem-vong-den-xanh.webp",
+        "assets/images/products/honor/honor-magic-v3/tong-quan-tinh-nang-xanh-la.webp"
+      ]
+    },
+    {
+      "sku": "DT007-HNMAGICV3-XANH-LA-16GB-1TB",
+      "color": "Xanh Lá",
+      "colorHex": "#228B57",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 44990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-magic-v3/mat-truoc-sau-khi-gap-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/man-hinh-ngoai-dat-tren-ban-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/mat-sau-dat-tren-ban-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/mat-sau-va-man-hinh-mo-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/can-canh-ban-le-khi-gap-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/canh-ben-khi-mo-va-gap-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/can-canh-cum-camera-bat-giac-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/cam-hai-tay-chup-anh-man-hinh-mo-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/cam-hai-tay-man-hinh-mo-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/man-hinh-mo-dat-tren-ban-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/tinh-nang-honor-ai-man-hinh-gap-xanh-duong.webp",
+        "assets/images/products/honor/honor-magic-v3/thong-so-do-mong-4-35mm-den-vang.webp",
+        "assets/images/products/honor/honor-magic-v3/thong-so-ong-kinh-tiem-vong-den-xanh.webp",
+        "assets/images/products/honor/honor-magic-v3/tong-quan-tinh-nang-xanh-la.webp"
+      ]
+    },
+    {
+      "sku": "DT007-HNMAGICV3-DEN-12GB-512GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 39270000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-magic-v3/mat-truoc-sau-khi-gap-den.webp",
+        "assets/images/products/honor/honor-magic-v3/mat-sau-va-man-hinh-mo-den.webp",
+        "assets/images/products/honor/honor-magic-v3/can-canh-ban-le-khi-gap-den.webp",
+        "assets/images/products/honor/honor-magic-v3/canh-ben-khi-mo-va-gap-den.webp",
+        "assets/images/products/honor/honor-magic-v3/can-canh-cum-camera-bat-giac-den.webp",
+        "assets/images/products/honor/honor-magic-v3/mat-sau-dat-canh-hop-den.webp",
+        "assets/images/products/honor/honor-magic-v3/tinh-nang-honor-ai-man-hinh-gap-xanh-duong.webp",
+        "assets/images/products/honor/honor-magic-v3/thong-so-do-mong-4-35mm-den-vang.webp",
+        "assets/images/products/honor/honor-magic-v3/thong-so-ong-kinh-tiem-vong-den-xanh.webp",
+        "assets/images/products/honor/honor-magic-v3/tong-quan-tinh-nang-xanh-la.webp"
+      ]
+    },
+    {
+      "sku": "DT007-HNMAGICV3-DEN-16GB-1TB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 44990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-magic-v3/mat-truoc-sau-khi-gap-den.webp",
+        "assets/images/products/honor/honor-magic-v3/mat-sau-va-man-hinh-mo-den.webp",
+        "assets/images/products/honor/honor-magic-v3/can-canh-ban-le-khi-gap-den.webp",
+        "assets/images/products/honor/honor-magic-v3/canh-ben-khi-mo-va-gap-den.webp",
+        "assets/images/products/honor/honor-magic-v3/can-canh-cum-camera-bat-giac-den.webp",
+        "assets/images/products/honor/honor-magic-v3/mat-sau-dat-canh-hop-den.webp",
+        "assets/images/products/honor/honor-magic-v3/tinh-nang-honor-ai-man-hinh-gap-xanh-duong.webp",
+        "assets/images/products/honor/honor-magic-v3/thong-so-do-mong-4-35mm-den-vang.webp",
+        "assets/images/products/honor/honor-magic-v3/thong-so-ong-kinh-tiem-vong-den-xanh.webp",
+        "assets/images/products/honor/honor-magic-v3/tong-quan-tinh-nang-xanh-la.webp"
+      ]
+    },
+    {
+      "sku": "DT007-HNMAGICV3-NAU-DO-12GB-512GB",
+      "color": "Nâu Đỏ",
+      "colorHex": "#7C2D12",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 39270000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-magic-v3/mat-truoc-sau-khi-gap-nau-do.webp",
+        "assets/images/products/honor/honor-magic-v3/mat-truoc-sau-va-man-hinh-mo-nau-do.webp",
+        "assets/images/products/honor/honor-magic-v3/man-hinh-mo-goc-nghieng-nau-do.webp",
+        "assets/images/products/honor/honor-magic-v3/tinh-nang-honor-ai-man-hinh-gap-xanh-duong.webp",
+        "assets/images/products/honor/honor-magic-v3/thong-so-do-mong-4-35mm-den-vang.webp",
+        "assets/images/products/honor/honor-magic-v3/thong-so-ong-kinh-tiem-vong-den-xanh.webp",
+        "assets/images/products/honor/honor-magic-v3/tong-quan-tinh-nang-xanh-la.webp"
+      ]
+    },
+    {
+      "sku": "DT007-HNMAGICV3-NAU-DO-16GB-1TB",
+      "color": "Nâu Đỏ",
+      "colorHex": "#7C2D12",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 44990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-magic-v3/mat-truoc-sau-khi-gap-nau-do.webp",
+        "assets/images/products/honor/honor-magic-v3/mat-truoc-sau-va-man-hinh-mo-nau-do.webp",
+        "assets/images/products/honor/honor-magic-v3/man-hinh-mo-goc-nghieng-nau-do.webp",
+        "assets/images/products/honor/honor-magic-v3/tinh-nang-honor-ai-man-hinh-gap-xanh-duong.webp",
+        "assets/images/products/honor/honor-magic-v3/thong-so-do-mong-4-35mm-den-vang.webp",
+        "assets/images/products/honor/honor-magic-v3/thong-so-ong-kinh-tiem-vong-den-xanh.webp",
+        "assets/images/products/honor/honor-magic-v3/tong-quan-tinh-nang-xanh-la.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "Foldable LTPO OLED 120Hz, PWM 4320Hz, 5.000 nit",
+    "size": "Chính 7,92 inch / Ngoài 6,43 inch",
+    "resolution": "Trong 2344 x 2156 / Ngoài 2376 x 1060 pixel",
+    "refreshRate": "1–120Hz LTPO (trên cả 2 màn hình)",
+    "brightness": "Độ sáng trong: 1800 nits (độ sáng đỉnh) | Ngoài: 5000 nits (độ sáng cực đại HDR thách thức ánh sáng gắt); Bảo vệ mắt: Làm mờ PWM tần số siêu cao 3840Hz khử nhấp nháy, lớp phủ chống va đập siêu bền HONOR Super Armored Inner Screen; Kính ngoài: Kính chống trầy xước NanoCrystal Shield 2.0 bền gấp 10 lần kính thông thường, PWM 4320Hz",
+    "hdr": "HDR10+ / HLG",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 8 Gen 3 (SM8650-AB, tiến trình 4nm TSMC)",
+    "cpu": "CPU 8 nhân: 1 nhân Cortex-X4 xung nhịp 3.3 GHz + 3 nhân Cortex-A720 xung nhịp 3.2 GHz + 2 nhân Cortex-A720 xung nhịp 3.0 GHz + 2 nhân Cortex-A520 xung nhịp 2.3 GHz",
+    "gpu": "Qualcomm Adreno 750 (hỗ trợ dò tia phần cứng Ray Tracing siêu mượt mà) | Tản nhiệt: Hệ thống tản nhiệt buồng hơi Titanium VC siêu mỏng chỉ 0.22mm diện tích làm mát cực lớn",
+    "ram": [
+      "12GB",
+      "16GB"
+    ],
+    "storage": [
+      "512GB",
+      "1TB"
+    ],
+    "operatingSystem": "MagicOS 8.0.1 phát triển trên nền tảng Android 14 chính thức",
+    "uiVersion": "MagicOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Chính OIS (ƒ/1.6) + 50MP Tele tiềm vọng 3.5x OIS (100x) + 40MP Siêu rộng AF",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "Quay video 4K ở tốc độ 30/60fps (10-bit LOG), 1080p ở tốc độ 30/60fps; hỗ trợ chống rung kép OIS + gyro-EIS"
+    ],
+    "aiFeatures": [
+      "Các chế độ chụp ảnh: Chụp chuyển động tốc độ cao AI Motion Sensing Capture, Chân dung Harcourt Studio, Chụp đêm AI Falcon, Chụp trăng AI, Chụp tài liệu"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "2 camera 20MP (màn hình trong & ngoài), quay 4K",
+    "features": [
+      "Màn hình ngoài: 20 MP, khẩu độ f/2.2, tiêu cự 21mm, góc rộng 90°, cảm biến 1/2.76\", 0.61µm | Màn hình trong: 20 MP, khẩu độ f/2.2, tiêu cự 21mm, góc rộng 90°, cảm biến 1/2.76\", 0.61µm; Tính năng: Chân dung làm đẹp AI, Nhận diện góc rộng nhóm tự động, Mở khóa khuôn mặt 2D cả trong và ngoài; Quay video: Quay video 4K ở tốc độ 30fps; 1080p ở 30/60fps có chống rung gyro-EIS"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "5.150 mAh (Silicon-Carbon thế hệ 3)",
+    "wiredCharging": "Sạc nhanh có dây 66W, sạc không dây 50W",
+    "wirelessCharging": "Có hỗ trợ sạc không dây",
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": "Sạc nhanh có dây HONOR SuperCharge 66W (11V/6A) | Sạc không dây: Sạc nhanh không dây HONOR SuperCharge 50W | Sạc ngược: Hỗ trợ sạc ngược có dây 5W OTG cho các thiết bị phụ kiện"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM vật lý hoặc 1 Nano-SIM + 1 eSIM tích hợp linh hoạt"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 7 (802.11 a/b/g/n/ac/ax/be, 2.4GHz & 5GHz, 2x2 MIMO, 160MHz)",
+    "bluetooth": "Bluetooth 5.3 (BLE, SBC, AAC, LDAC, aptX, aptX HD)",
+    "gps": [
+      "GPS băng tần kép (L1+L5), AGPS, GLONASS, BeiDou (B1I+B1C+B2a), Galileo (E1+E5a), QZSS"
+    ],
+    "usb": "USB Type-C 3.1 Gen 1 tốc độ cao 5Gbps, hỗ trợ xuất hình DisplayPort 1.2 và chế độ Desktop Mode",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "Khi mở: 156.6 x 145.3 x 4.35 mm (bản màu Đen) hoặc 4.4 mm (các bản màu khác) | Khi gập: 156.6 x 74.0 x 9.2 mm (bản màu Đen) hoặc 9.3 mm (các bản màu khác)",
+    "weight": "Khoảng 226 gram (bản màu Đen) hoặc 230 gram (các màu khác) - nhẹ hơn cả iPhone 16 Pro Max",
+    "materials": [
+      "Bản lề thép siêu bền HONOR Super Steel Hinge chịu lực 2100MPa, khung hợp kim nhôm hàng không 7-series, mặt lưng sợi hàng không vũ trụ",
+      "Bản lề thép siêu bền HONOR Super Steel Hinge chịu lực 2100MPa, khung hợp kim nhôm hàng không 7-series, mặt lưng sợi hàng không vũ trụ"
+    ],
+    "waterResistance": "IPX8 (ngâm nước độ sâu 2,5 mét)",
+    "availableColors": [
+      "Xanh Lá",
+      "Đen",
+      "Nâu Đỏ"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo đối xứng với buồng âm lớn, hiệu ứng âm thanh vòm DTS:X Ultra; m thanh Hi-Res Audio 24-bit/192kHz không gian đa chiều; Jack 3.5mm: Không có (xuất âm qua Type-C)",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "HONOR Magic",
+    "HONOR",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền HONOR tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/honor/honor-magic-v3/mat-truoc-sau-khi-gap-xanh-la.webp",
+    "primaryPriorityLevel": 2,
+    "hasAvatarNamed": false,
+    "gallery": [
+      "assets/images/products/honor/honor-magic-v3/mat-truoc-sau-khi-gap-xanh-la.webp",
+      "assets/images/products/honor/honor-magic-v3/mat-truoc-sau-khi-gap-den.webp",
+      "assets/images/products/honor/honor-magic-v3/mat-truoc-sau-khi-gap-nau-do.webp",
+      "assets/images/products/honor/honor-magic-v3/mat-truoc-sau-va-man-hinh-mo-nau-do.webp",
+      "assets/images/products/honor/honor-magic-v3/man-hinh-ngoai-dat-tren-ban-xanh-la.webp",
+      "assets/images/products/honor/honor-magic-v3/mat-sau-dat-tren-ban-xanh-la.webp",
+      "assets/images/products/honor/honor-magic-v3/mat-sau-va-man-hinh-mo-den.webp",
+      "assets/images/products/honor/honor-magic-v3/mat-sau-va-man-hinh-mo-xanh-la.webp",
+      "assets/images/products/honor/honor-magic-v3/can-canh-ban-le-khi-gap-den.webp",
+      "assets/images/products/honor/honor-magic-v3/can-canh-ban-le-khi-gap-xanh-la.webp",
+      "assets/images/products/honor/honor-magic-v3/canh-ben-khi-mo-va-gap-den.webp",
+      "assets/images/products/honor/honor-magic-v3/canh-ben-khi-mo-va-gap-xanh-la.webp",
+      "assets/images/products/honor/honor-magic-v3/man-hinh-mo-goc-nghieng-nau-do.webp",
+      "assets/images/products/honor/honor-magic-v3/can-canh-cum-camera-bat-giac-den.webp",
+      "assets/images/products/honor/honor-magic-v3/can-canh-cum-camera-bat-giac-xanh-la.webp",
+      "assets/images/products/honor/honor-magic-v3/cam-hai-tay-chup-anh-man-hinh-mo-xanh-la.webp",
+      "assets/images/products/honor/honor-magic-v3/cam-hai-tay-man-hinh-mo-xanh-la.webp",
+      "assets/images/products/honor/honor-magic-v3/man-hinh-mo-dat-tren-ban-xanh-la.webp",
+      "assets/images/products/honor/honor-magic-v3/mat-sau-dat-canh-hop-den.webp",
+      "assets/images/products/honor/honor-magic-v3/tinh-nang-honor-ai-man-hinh-gap-xanh-duong.webp",
+      "assets/images/products/honor/honor-magic-v3/thong-so-do-mong-4-35mm-den-vang.webp",
+      "assets/images/products/honor/honor-magic-v3/thong-so-ong-kinh-tiem-vong-den-xanh.webp",
+      "assets/images/products/honor/honor-magic-v3/tong-quan-tinh-nang-xanh-la.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/honor/honor-magic-v3/mat-truoc-sau-khi-gap-den.webp",
+        "assets/images/products/honor/honor-magic-v3/mat-sau-va-man-hinh-mo-den.webp",
+        "assets/images/products/honor/honor-magic-v3/can-canh-ban-le-khi-gap-den.webp",
+        "assets/images/products/honor/honor-magic-v3/canh-ben-khi-mo-va-gap-den.webp",
+        "assets/images/products/honor/honor-magic-v3/can-canh-cum-camera-bat-giac-den.webp",
+        "assets/images/products/honor/honor-magic-v3/mat-sau-dat-canh-hop-den.webp",
+        "assets/images/products/honor/honor-magic-v3/tinh-nang-honor-ai-man-hinh-gap-xanh-duong.webp",
+        "assets/images/products/honor/honor-magic-v3/thong-so-do-mong-4-35mm-den-vang.webp",
+        "assets/images/products/honor/honor-magic-v3/thong-so-ong-kinh-tiem-vong-den-xanh.webp",
+        "assets/images/products/honor/honor-magic-v3/tong-quan-tinh-nang-xanh-la.webp"
+      ],
+      "Nâu Đỏ": [
+        "assets/images/products/honor/honor-magic-v3/mat-truoc-sau-khi-gap-nau-do.webp",
+        "assets/images/products/honor/honor-magic-v3/mat-truoc-sau-va-man-hinh-mo-nau-do.webp",
+        "assets/images/products/honor/honor-magic-v3/man-hinh-mo-goc-nghieng-nau-do.webp",
+        "assets/images/products/honor/honor-magic-v3/tinh-nang-honor-ai-man-hinh-gap-xanh-duong.webp",
+        "assets/images/products/honor/honor-magic-v3/thong-so-do-mong-4-35mm-den-vang.webp",
+        "assets/images/products/honor/honor-magic-v3/thong-so-ong-kinh-tiem-vong-den-xanh.webp",
+        "assets/images/products/honor/honor-magic-v3/tong-quan-tinh-nang-xanh-la.webp"
+      ],
+      "Xanh Lá": [
+        "assets/images/products/honor/honor-magic-v3/mat-truoc-sau-khi-gap-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/man-hinh-ngoai-dat-tren-ban-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/mat-sau-dat-tren-ban-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/mat-sau-va-man-hinh-mo-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/can-canh-ban-le-khi-gap-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/canh-ben-khi-mo-va-gap-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/can-canh-cum-camera-bat-giac-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/cam-hai-tay-chup-anh-man-hinh-mo-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/cam-hai-tay-man-hinh-mo-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/man-hinh-mo-dat-tren-ban-xanh-la.webp",
+        "assets/images/products/honor/honor-magic-v3/tinh-nang-honor-ai-man-hinh-gap-xanh-duong.webp",
+        "assets/images/products/honor/honor-magic-v3/thong-so-do-mong-4-35mm-den-vang.webp",
+        "assets/images/products/honor/honor-magic-v3/thong-so-ong-kinh-tiem-vong-den-xanh.webp",
+        "assets/images/products/honor/honor-magic-v3/tong-quan-tinh-nang-xanh-la.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/honor/honor-magic-v3/mat-truoc-sau-khi-gap-den.webp",
+      "screen": "assets/images/products/honor/honor-magic-v3/mat-truoc-sau-khi-gap-nau-do.webp",
+      "performance": "assets/images/products/honor/honor-magic-v3/man-hinh-mo-goc-nghieng-nau-do.webp",
+      "camera": "assets/images/products/honor/honor-magic-v3/can-canh-cum-camera-bat-giac-den.webp",
+      "battery": "assets/images/products/honor/honor-magic-v3/can-canh-ban-le-khi-gap-den.webp",
+      "feature": "assets/images/products/honor/honor-magic-v3/man-hinh-ngoai-dat-tren-ban-xanh-la.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/honor/honor-magic-v3/mat-truoc-sau-khi-gap-den.webp",
+      "assets/images/products/honor/honor-magic-v3/mat-truoc-sau-khi-gap-nau-do.webp",
+      "assets/images/products/honor/honor-magic-v3/mat-truoc-sau-va-man-hinh-mo-nau-do.webp",
+      "assets/images/products/honor/honor-magic-v3/man-hinh-ngoai-dat-tren-ban-xanh-la.webp",
+      "assets/images/products/honor/honor-magic-v3/mat-sau-dat-tren-ban-xanh-la.webp",
+      "assets/images/products/honor/honor-magic-v3/mat-sau-va-man-hinh-mo-den.webp",
+      "assets/images/products/honor/honor-magic-v3/mat-sau-va-man-hinh-mo-xanh-la.webp",
+      "assets/images/products/honor/honor-magic-v3/can-canh-ban-le-khi-gap-den.webp",
+      "assets/images/products/honor/honor-magic-v3/can-canh-ban-le-khi-gap-xanh-la.webp",
+      "assets/images/products/honor/honor-magic-v3/canh-ben-khi-mo-va-gap-den.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-honor",
+      "https://www.honor.com/vn/phones/",
+      "https://www.honor.com/vn/phones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "needs_verification",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Cần xác minh thêm",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT007-HNMAGICV3",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "Màn hình gập kép LTPO OLED: Trong (Tấm nền gập Foldable LTPO OLED 7.92 inch, tỷ lệ khung hình 9.78:9, hỗ trợ hiển thị 1.07 tỷ màu (10-bit), 100% DCI-P3, Dolby Vision, HDR10+) | Ngoài (Tấm nền LTPO OLED 6.43 inch, tỷ lệ thân thiện 20:9, 1.07 tỷ màu, Dolby Vision)",
+      "Kích thước màn hình": "Chính 7,92 inch / Ngoài 6,43 inch",
+      "Độ phân giải màn hình": "Màn hình trong: 2344 x 2156 pixels (~402 ppi) | Màn hình ngoài: 2376 x 1060 pixels (~402 ppi)",
+      "Tần số quét": "Màn hình trong: Tần số quét thích ứng 1Hz - 120Hz LTPO mượt mà và tiết kiệm pin | Màn hình ngoài: 1Hz - 120Hz LTPO thích ứng",
+      "Kiểu màn hình": "Thiết kế gập cánh bướm siêu mỏng đục lỗ trên cả 2 màn hình, hỗ trợ bút cảm ứng trên cả màn trong và ngoài",
+      "Tính năng màn hình": "Độ sáng trong: 1800 nits (độ sáng đỉnh) | Ngoài: 5000 nits (độ sáng cực đại HDR thách thức ánh sáng gắt); Bảo vệ mắt: Làm mờ PWM tần số siêu cao 3840Hz khử nhấp nháy, lớp phủ chống va đập siêu bền HONOR Super Armored Inner Screen; Kính ngoài: Kính chống trầy xước NanoCrystal Shield 2.0 bền gấp 10 lần kính thông thường, PWM 4320Hz"
+    },
+    "Camera sau": {
+      "Camera sau": "Số lượng camera: Hệ thống 3 camera đỉnh cao HONOR Falcon đặt trong cụm bát giác Octagon sang trọng | Camera Chính (Wide): 50 MP, khẩu độ f/1.6, tiêu cự 23mm, cảm biến 1/1.56\", 1.0µm, lấy nét tự động theo pha PDAF, chống rung quang học OIS | Camera Telephoto Tiềm Vọng: 50 MP, khẩu độ f/3.0, tiêu cự 90mm, cảm biến 1/2.51\", PDAF, chống rung quang học OIS, zoom quang học 3.5x, zoom kỹ thuật số tối đa 100x | Camera Góc Siêu Rộng & Macro: 40 MP, khẩu độ f/2.2, tiêu cự 16mm, góc nhìn 112°, tự động lấy nét AF hỗ trợ chụp cận cảnh macro 2.5cm | Cảm biến hỗ trợ: Cảm biến lấy nét bằng tia Laser (Laser AF), Cảm biến nhiệt độ màu và cảm biến chống nhấp nháy",
+      "Quay video": "Quay video 4K ở tốc độ 30/60fps (10-bit LOG), 1080p ở tốc độ 30/60fps; hỗ trợ chống rung kép OIS + gyro-EIS",
+      "Tính năng camera": "Các chế độ chụp ảnh: Chụp chuyển động tốc độ cao AI Motion Sensing Capture, Chân dung Harcourt Studio, Chụp đêm AI Falcon, Chụp trăng AI, Chụp tài liệu"
+    },
+    "Camera trước": {
+      "Camera trước": "Màn hình ngoài: 20 MP, khẩu độ f/2.2, tiêu cự 21mm, góc rộng 90°, cảm biến 1/2.76\", 0.61µm | Màn hình trong: 20 MP, khẩu độ f/2.2, tiêu cự 21mm, góc rộng 90°, cảm biến 1/2.76\", 0.61µm; Tính năng: Chân dung làm đẹp AI, Nhận diện góc rộng nhóm tự động, Mở khóa khuôn mặt 2D cả trong và ngoài; Quay video: Quay video 4K ở tốc độ 30fps; 1080p ở 30/60fps có chống rung gyro-EIS"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 8 Gen 3 (SM8650-AB, tiến trình 4nm TSMC)",
+      "Loại CPU": "CPU 8 nhân: 1 nhân Cortex-X4 xung nhịp 3.3 GHz + 3 nhân Cortex-A720 xung nhịp 3.2 GHz + 2 nhân Cortex-A720 xung nhịp 3.0 GHz + 2 nhân Cortex-A520 xung nhịp 2.3 GHz",
+      "GPU": "Qualcomm Adreno 750 (hỗ trợ dò tia phần cứng Ray Tracing siêu mượt mà) | Tản nhiệt: Hệ thống tản nhiệt buồng hơi Titanium VC siêu mỏng chỉ 0.22mm diện tích làm mát cực lớn"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "12GB RAM vật lý LPDDR5X tốc độ cao (HONOR RAM Turbo mở rộng thêm 12GB RAM ảo từ bộ nhớ trong)",
+      "Bộ nhớ trong": "512GB chuẩn UFS 4.0 tốc độ truyền tải cực đại (Không hỗ trợ thẻ nhớ microSD ngoài)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5150 mAh (dung lượng định mức 5050 mAh), pin Silicon-Carbon thế hệ thứ 3 siêu mỏng — Khoảng 45 phút để nạp đầy 100% pin bằng củ sạc 66W chính hãng",
+      "Công nghệ sạc": "Sạc nhanh có dây HONOR SuperCharge 66W (11V/6A) | Sạc không dây: Sạc nhanh không dây HONOR SuperCharge 50W | Sạc ngược: Hỗ trợ sạc ngược có dây 5W OTG cho các thiết bị phụ kiện",
+      "Cổng sạc": "USB Type-C 3.1 Gen 1 tốc độ cao 5Gbps, hỗ trợ xuất hình DisplayPort 1.2 và chế độ Desktop Mode"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "MagicOS 8.0.1 phát triển trên nền tảng Android 14 chính thức",
+      "Công nghệ - Tiện ích": "AI Eraser, AI Deepfake Detection phát hiện cuộc gọi lừa đảo, Dịch trực tiếp 2 màn hình, Magic Portal kéo thả tác vụ",
+      "Tiện ích khác": "Nâng cấp lên MagicOS 9.0 (Android 15) và MagicOS 10 (Android 16); cam kết cập nhật 4-5 bản Android lớn",
+      "Thời điểm ra mắt": "Công bố quốc tế: 05/09/2024 – Mở bán chính hãng tại Việt Nam: Cuối năm 2024"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G NR kép (hỗ trợ đầy đủ băng tần Sub-6GHz tại Việt Nam n1/n3/n28/n41/n77/n78), 4G LTE, 3G WCDMA, 2G GSM",
+      "Thẻ SIM": "2 Nano-SIM vật lý hoặc 1 Nano-SIM + 1 eSIM tích hợp linh hoạt",
+      "Wi-Fi": "Wi-Fi 7 (802.11 a/b/g/n/ac/ax/be, 2.4GHz & 5GHz, 2x2 MIMO, 160MHz)",
+      "Bluetooth": "Bluetooth 5.3 (BLE, SBC, AAC, LDAC, aptX, aptX HD)",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa chức năng (Google Pay, chạm truyền dữ liệu)",
+      "GPS": "GPS băng tần kép (L1+L5), AGPS, GLONASS, BeiDou (B1I+B1C+B2a), Galileo (E1+E5a), QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Bản lề thép siêu bền HONOR Super Steel Hinge chịu lực 2100MPa, khung hợp kim nhôm hàng không 7-series, mặt lưng sợi hàng không vũ trụ",
+      "Chất liệu mặt lưng": "Bản lề thép siêu bền HONOR Super Steel Hinge chịu lực 2100MPa, khung hợp kim nhôm hàng không 7-series, mặt lưng sợi hàng không vũ trụ",
+      "Kích thước": "Khi mở: 156.6 x 145.3 x 4.35 mm (bản màu Đen) hoặc 4.4 mm (các bản màu khác) | Khi gập: 156.6 x 74.0 x 9.2 mm (bản màu Đen) hoặc 9.3 mm (các bản màu khác)",
+      "Trọng lượng": "Khoảng 226 gram (bản màu Đen) hoặc 230 gram (các màu khác) - nhẹ hơn cả iPhone 16 Pro Max",
+      "Chỉ số kháng nước, bụi": "Chuẩn kháng nước IPX8 chính thức (ngâm nước ngọt sâu tới 2.5m trong thời gian 30 phút) (Đạt chứng nhận độ bền gập mở 500.000 lần không hỏng hóc từ tổ chức kiểm định quốc tế SGS)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa kép Stereo đối xứng với buồng âm lớn, hiệu ứng âm thanh vòm DTS:X Ultra; m thanh Hi-Res Audio 24-bit/192kHz không gian đa chiều; Jack 3.5mm: Không có (xuất âm qua Type-C)",
+      "Cảm biến vân tay": "Cảm biến vân tay điện dung siêu mỏng tích hợp vào nút nguồn ở cạnh máy, Mở khóa khuôn mặt 2D",
+      "Các loại cảm biến": "Cảm biến Hall (nhận diện góc gập), Áp kế Barometer, Con quay hồi chuyển, La bàn số, Trọng lực, Cảm biến nhiệt độ màu, Cảm biến ánh sáng môi trường kép, Cảm biến tiệm cận"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "Chính 7,92 inch / Ngoài 6,43 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "Foldable LTPO OLED 120Hz, PWM 4320Hz, 5.000 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "Trong 2344 x 2156 / Ngoài 2376 x 1060 pixel"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "1–120Hz LTPO (trên cả 2 màn hình)"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 8 Gen 3 (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB / 16GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "512GB / 1TB UFS 4.0"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính OIS (ƒ/1.6) + 50MP Tele tiềm vọng 3.5x OIS (100x) + 40MP Siêu rộng AF"
+    },
+    {
+      "label": "Camera trước",
+      "value": "2 camera 20MP (màn hình trong & ngoài), quay 4K"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.150 mAh (Silicon-Carbon thế hệ 3)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh có dây 66W, sạc không dây 50W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "MagicOS 8.0.1 (Android 14)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IPX8 (ngâm nước độ sâu 2,5 mét)"
+    }
+  ],
+  "verbatimDescription": [
+    "HONOR Magic V3 là kiệt tác công nghệ khẳng định vị thế dẫn đầu tuyệt đối của HONOR trong phân khúc smartphone màn hình gập cao cấp, được giới thiệu trên toàn cầu tại triển lãm công nghệ IFA Berlin vào tháng 9/2024 và chính thức mở bán tại Việt Nam thông qua các hệ thống bán lẻ hàng đầu như FPT Shop và CellphoneS. Sản phẩm tạo nên cơn địa chấn trong giới công nghệ khi phá vỡ mọi định kiến về smartphone gập: không còn dày cộm, nặng nề hay mỏng manh, mà thanh mảnh và nhẹ hơn cả những chiếc flagship thanh truyền thống. Tại thị trường Việt Nam, HONOR Magic V3 được săn đón nồng nhiệt bởi giới doanh nhân, chuyên gia tài chính và người dùng công nghệ sành điệu, đóng vai trò như một văn phòng di động thu nhỏ với khả năng xử lý đa nhiệm màn hình lớn, thời lượng pin bền bỉ và độ bền vật lý chuẩn mực hàng đầu.",
+    "Đỉnh cao kỹ nghệ chế tác của HONOR được thể hiện trọn vẹn ở thông số độ dày và trọng lượng không tưởng: khi mở ra, máy chỉ mỏng đúng 4.35 mm (phiên bản màu Đen) và khi gập lại chỉ dày 9.2 mm, trọng lượng chạm mức 226 gram - nhẹ hơn đáng kể so với iPhone 16 Pro Max (227g) hay Galaxy Z Fold6 (239g). Cảm giác cầm nắm HONOR Magic V3 khi gập lại hoàn toàn giống một chiếc điện thoại thanh cao cấp thông thường. Đằng sau kỳ tích này là cơ cấu bản lề thép siêu bền HONOR Super Steel Hinge sử dụng vật liệu thép cường độ cao 2100MPa kết hợp các chi tiết hợp kim titan. Bản lề này đã vượt qua bài kiểm tra gập mở hơn 500.000 lần từ tổ chức SGS Thụy Sĩ mà không hề bị rão hay lỏng lẻo. Hơn thế nữa, máy đạt chuẩn kháng nước IPX8 chính thức, cho phép chịu được độ ngâm sâu tới 2.5m trong nước ngọt suốt 30 phút, đem lại sự an tâm tuyệt đối.",
+    "HONOR Magic V3 sở hữu hệ thống màn hình hiển thị toàn năng. Màn hình phụ bên ngoài có kích thước tiêu chuẩn 6.43 inch, tỷ lệ vàng 20:9 giúp người dùng gõ phím và sử dụng bằng một tay hoàn toàn tự nhiên như điện thoại thường. Tấm nền LTPO 1-120Hz ngoài có độ sáng cực đại lên đến 5000 nits, hiển thị rõ mồn một dưới trời nắng gắt và được bảo vệ bởi kính cường lực chống trầy xước HONOR Anti-scratch NanoCrystal Shield 2.0 với độ cứng và độ bền gấp 10 lần kính thông thường. Khi mở máy ra, người dùng được chiêm ngưỡng không gian hiển thị khổng lồ 7.92 inch với tấm nền Foldable LTPO OLED độ phân giải 2344 x 2156 pixels, tỷ lệ nếp gấp gần như tàng hình nhờ cấu trúc màng bảo vệ Super Armored. Cả hai màn hình đều tích hợp công nghệ làm mờ PWM tần số siêu cao 3840Hz và 4320Hz khử hoàn toàn nhấp nháy, bảo vệ thị lực tuyệt đối và đều hỗ trợ bút cảm ứng stylus HONOR Magic-Pen chuyên nghiệp.",
+    "Cung cấp sức mạnh cho chiếc điện thoại gập đỉnh cao này là vi xử lý Qualcomm Snapdragon 8 Gen 3 sản xuất trên tiến trình 4nm hiện đại. Với nhân Cortex-X4 xung nhịp 3.3 GHz và GPU Adreno 750, máy dễ dàng cân mọi tác vụ nặng nhất từ dựng video 4K đa lớp đến chơi game 3D đồ họa Ray Tracing đỉnh cao. Hệ thống tản nhiệt buồng hơi Titanium VC với độ mỏng kỷ lục chỉ 0.22mm giúp giải nhiệt nhanh chóng mà không làm tăng độ dày của thân máy. Đi cùng dung lượng RAM 12GB LPDDR5X và bộ nhớ trong UFS 4.0 dung lượng lớn 512GB, HONOR Magic V3 mang lại tốc độ truy xuất dữ liệu cực nhanh và khả năng chạy đa nhiệm hơn 40 ứng dụng cùng lúc.",
+    "Khác với nhiều mẫu điện thoại gập thường phải cắt giảm camera vì giới hạn độ mỏng, HONOR Magic V3 trang bị hệ thống nhiếp ảnh hàng đầu gồm camera chính 50MP cảm biến 1/1.56 inch khẩu độ lớn f/1.6 chống rung OIS, camera tele tiềm vọng 50MP zoom quang 3.5x và zoom số 100x, cùng camera góc siêu rộng 40MP góc 112 độ. Cảm biến lấy nét bằng tia Laser (Laser AF) kết hợp thuật toán AI Motion Sensing Capture giúp máy bắt trọn những khoảnh khắc chuyển động siêu tốc của thể thao hay thú cưng một cách sắc nét. Chế độ chụp chân dung Harcourt Studio độc quyền mang lại những bức ảnh nghệ thuật đầy chất điện ảnh. Đặc biệt, nhờ cơ cấu bản lề Hover Mode, máy có thể tự dựng đứng ở góc 90 độ trên bàn để chụp ảnh nhóm hay quay video rảnh tay mà không cần chân đế tripod.",
+    "HONOR đã trang bị viên pin Silicon-Carbon thế hệ thứ 3 với độ mỏng chỉ vài milimet nhưng sở hữu dung lượng lên tới 5150 mAh, giúp máy duy trì thời lượng sử dụng trọn vẹn cả ngày làm việc cường độ cao trên cả hai màn hình. Máy hỗ trợ sạc nhanh có dây 66W SuperCharge và sạc nhanh không dây 50W, nạp đầy pin trong thời gian ngắn ngủi. Giao diện MagicOS được tối ưu hóa xuất sắc cho màn hình gập với tính năng chia đôi màn hình thông minh, kéo thả file giữa các ứng dụng bằng AI Magic Portal, chế độ bảo mật Parallel Space tách biệt hoàn toàn dữ liệu công việc và cá nhân, cùng cổng Type-C chuẩn USB 3.1 Gen 1 hỗ trợ xuất hình Desktop Mode ra màn hình máy tính chuyên nghiệp."
+  ],
+  "priceSegment": "flagship"
+}

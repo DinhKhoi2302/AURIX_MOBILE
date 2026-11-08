@@ -1,0 +1,600 @@
+{
+  "id": "galaxy-a27",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "model": "Samsung Galaxy A27",
+  "series": "Galaxy A Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "midrange"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Giảm giá",
+      "type": "sale"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025 – 2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Samsung Galaxy A27 (Galaxy A27 5G) mang đến diện mạo hiện đại với màn hình đục lỗ Infinity-O Super AMOLED 6,7 inch 120Hz bảo vệ bởi kính Gorilla Glass Victus+, vi xử lý Qualcomm Snapdragon 6 Gen 3 (4nm), cụm 3 camera 50MP có chống rung quang học OIS và viên pin 5.000 mAh kèm lộ trình 6 năm cập nhật Android.",
+    "highlights": [
+      "6,7 inch Super AMOLED 120Hz",
+      "Snapdragon 6 Gen 3 (4nm)",
+      "Camera 50MP OIS + 5MP + 2MP",
+      "Pin 5.000 mAh · Sạc 25W · IP64"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 6290000,
+    "originalPrice": 9090000,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT006-SSA27-DEN-6GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 6290000,
+      "originalPrice": 9090000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a27/anh-dai-dien-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-truoc-mat-sau-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/man-hinh-mat-truoc-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-lung-goc-nghieng-phai-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-lung-goc-nghieng-trai-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-lung-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/canh-phai-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/canh-trai-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/man-hinh-goc-nghieng-phai-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/man-hinh-goc-nghieng-trai-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/he-thong-camera-50mp-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/dung-luong-pin-5000mah-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/hieu-nang-snapdragon-6-gen-3-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a27/Galaxy-A27.jpg",
+        "assets/images/products/samsung/galaxy-a27/thong-so-man-hinh-super-amoled-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/thong-so-noi-bat-samsung-galaxy-a27-xanh-duong-den-hong.webp"
+      ]
+    },
+    {
+      "sku": "DT006-SSA27-DEN-8GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 6990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a27/anh-dai-dien-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-truoc-mat-sau-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/man-hinh-mat-truoc-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-lung-goc-nghieng-phai-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-lung-goc-nghieng-trai-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-lung-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/canh-phai-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/canh-trai-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/man-hinh-goc-nghieng-phai-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/man-hinh-goc-nghieng-trai-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/he-thong-camera-50mp-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/dung-luong-pin-5000mah-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/hieu-nang-snapdragon-6-gen-3-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a27/Galaxy-A27.jpg",
+        "assets/images/products/samsung/galaxy-a27/thong-so-man-hinh-super-amoled-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/thong-so-noi-bat-samsung-galaxy-a27-xanh-duong-den-hong.webp"
+      ]
+    },
+    {
+      "sku": "DT006-SSA27-HONG-6GB-128GB",
+      "color": "Hồng",
+      "colorHex": "#F472B6",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 6290000,
+      "originalPrice": 9090000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a27/anh-dai-dien-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-truoc-mat-sau-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/man-hinh-mat-truoc-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-lung-goc-nghieng-phai-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-lung-goc-nghieng-trai-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-lung-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/canh-phai-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/canh-trai-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/man-hinh-goc-nghieng-phai-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/man-hinh-goc-nghieng-trai-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a27/Galaxy-A27.jpg",
+        "assets/images/products/samsung/galaxy-a27/thong-so-man-hinh-super-amoled-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/thong-so-noi-bat-samsung-galaxy-a27-xanh-duong-den-hong.webp"
+      ]
+    },
+    {
+      "sku": "DT006-SSA27-HONG-8GB-128GB",
+      "color": "Hồng",
+      "colorHex": "#F472B6",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 6990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a27/anh-dai-dien-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-truoc-mat-sau-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/man-hinh-mat-truoc-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-lung-goc-nghieng-phai-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-lung-goc-nghieng-trai-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-lung-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/canh-phai-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/canh-trai-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/man-hinh-goc-nghieng-phai-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/man-hinh-goc-nghieng-trai-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a27/Galaxy-A27.jpg",
+        "assets/images/products/samsung/galaxy-a27/thong-so-man-hinh-super-amoled-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/thong-so-noi-bat-samsung-galaxy-a27-xanh-duong-den-hong.webp"
+      ]
+    },
+    {
+      "sku": "DT006-SSA27-XANH-DUONG-6GB-128GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 6290000,
+      "originalPrice": 9090000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a27/anh-dai-dien-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-truoc-mat-sau-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/man-hinh-mat-truoc-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-lung-goc-nghieng-phai-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-lung-goc-nghieng-trai-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-lung-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/canh-phai-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/canh-trai-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/man-hinh-goc-nghieng-phai-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/man-hinh-goc-nghieng-trai-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a27/Galaxy-A27.jpg",
+        "assets/images/products/samsung/galaxy-a27/thong-so-man-hinh-super-amoled-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/thong-so-noi-bat-samsung-galaxy-a27-xanh-duong-den-hong.webp"
+      ]
+    },
+    {
+      "sku": "DT006-SSA27-XANH-DUONG-8GB-128GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 6990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a27/anh-dai-dien-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-truoc-mat-sau-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/man-hinh-mat-truoc-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-lung-goc-nghieng-phai-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-lung-goc-nghieng-trai-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-lung-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/canh-phai-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/canh-trai-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/man-hinh-goc-nghieng-phai-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/man-hinh-goc-nghieng-trai-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a27/Galaxy-A27.jpg",
+        "assets/images/products/samsung/galaxy-a27/thong-so-man-hinh-super-amoled-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/thong-so-noi-bat-samsung-galaxy-a27-xanh-duong-den-hong.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "Super AMOLED",
+    "size": "6,7 inch",
+    "resolution": "Full HD+ (1080 x 2340 pixel)",
+    "refreshRate": "120Hz",
+    "brightness": "800 nit",
+    "hdr": "HDR",
+    "protection": "Corning Gorilla Glass Victus+",
+    "features": [
+      "Tần số quét 120Hz",
+      "Bảo vệ mắt Eye Comfort Shield"
+    ]
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 6 Gen 3 (4nm)",
+    "cpu": "8 nhân (4x 2,4 GHz Cortex-A78 + 4x 1,8 GHz Cortex-A55)",
+    "gpu": "Adreno 710",
+    "ram": [
+      "6GB",
+      "8GB"
+    ],
+    "storage": [
+      "128GB"
+    ],
+    "operatingSystem": "Android 16, One UI 9",
+    "uiVersion": "One UI 9",
+    "expandableStorage": "Hỗ trợ thẻ nhớ microSDXC"
+  },
+  "rearCamera": {
+    "main": "50MP Wide f/1.8 (27mm, PDAF, OIS)",
+    "ultraWide": "5MP Ultra Wide f/2.2 (16mm)",
+    "telephoto": "2MP Macro",
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "4K@30fps",
+      "1080p@30fps",
+      "gyro-EIS"
+    ],
+    "aiFeatures": [
+      "No Shake Cam OIS",
+      "Object Eraser",
+      "Nightography"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "12MP Wide f/2.2 (25mm)",
+    "features": [
+      "Chân dung AI"
+    ],
+    "videoRecording": [
+      "1080p@30fps"
+    ]
+  },
+  "battery": {
+    "capacity": "5.000 mAh",
+    "wiredCharging": "Sạc nhanh 25W USB-C (45% trong 30 phút)",
+    "wirelessCharging": null,
+    "reverseCharging": null,
+    "chargingTechnology": "Super Fast Charging 25W"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM / Nano-SIM + eSIM"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép",
+    "bluetooth": "Bluetooth 5.1 / 5.3 (A2DP, LE)",
+    "gps": [
+      "GPS",
+      "GALILEO",
+      "GLONASS",
+      "BDS",
+      "QZSS"
+    ],
+    "usb": "USB Type-C 2.0, OTG",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "162,4 x 78,2 x 7,8 mm",
+    "weight": "200 g",
+    "materials": [
+      "Hai mặt kính Corning Gorilla Glass Victus+",
+      "Khung viền phẳng Key Island"
+    ],
+    "waterResistance": "IP64 (kháng bụi hoàn toàn và kháng tia nước bắn)",
+    "availableColors": [
+      "Hồng",
+      "Đen"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa đơn / Stereo tiêu chuẩn",
+    "headphoneJack": null,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "6,7 inch Super AMOLED 120Hz",
+    "Snapdragon 6 Gen 3 (4nm)",
+    "Camera 50MP OIS + 5MP + 2MP",
+    "Pin 5.000 mAh · Sạc 25W · IP64"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Samsung tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/samsung/galaxy-a27/anh-dai-dien-samsung-galaxy-a27-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/samsung/galaxy-a27/anh-dai-dien-samsung-galaxy-a27-den.webp",
+      "assets/images/products/samsung/galaxy-a27/anh-dai-dien-samsung-galaxy-a27-hong.webp",
+      "assets/images/products/samsung/galaxy-a27/anh-dai-dien-samsung-galaxy-a27-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a27/mat-truoc-mat-sau-samsung-galaxy-a27-den.webp",
+      "assets/images/products/samsung/galaxy-a27/mat-truoc-mat-sau-samsung-galaxy-a27-hong.webp",
+      "assets/images/products/samsung/galaxy-a27/mat-truoc-mat-sau-samsung-galaxy-a27-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a27/man-hinh-mat-truoc-samsung-galaxy-a27-den.webp",
+      "assets/images/products/samsung/galaxy-a27/man-hinh-mat-truoc-samsung-galaxy-a27-hong.webp",
+      "assets/images/products/samsung/galaxy-a27/man-hinh-mat-truoc-samsung-galaxy-a27-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a27/mat-lung-goc-nghieng-phai-samsung-galaxy-a27-den.webp",
+      "assets/images/products/samsung/galaxy-a27/mat-lung-goc-nghieng-phai-samsung-galaxy-a27-hong.webp",
+      "assets/images/products/samsung/galaxy-a27/mat-lung-goc-nghieng-phai-samsung-galaxy-a27-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a27/mat-lung-goc-nghieng-trai-samsung-galaxy-a27-den.webp",
+      "assets/images/products/samsung/galaxy-a27/mat-lung-goc-nghieng-trai-samsung-galaxy-a27-hong.webp",
+      "assets/images/products/samsung/galaxy-a27/mat-lung-goc-nghieng-trai-samsung-galaxy-a27-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a27/mat-lung-samsung-galaxy-a27-den.webp",
+      "assets/images/products/samsung/galaxy-a27/mat-lung-samsung-galaxy-a27-hong.webp",
+      "assets/images/products/samsung/galaxy-a27/mat-lung-samsung-galaxy-a27-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a27/canh-phai-samsung-galaxy-a27-den.webp",
+      "assets/images/products/samsung/galaxy-a27/canh-phai-samsung-galaxy-a27-hong.webp",
+      "assets/images/products/samsung/galaxy-a27/canh-phai-samsung-galaxy-a27-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a27/canh-trai-samsung-galaxy-a27-den.webp",
+      "assets/images/products/samsung/galaxy-a27/canh-trai-samsung-galaxy-a27-hong.webp",
+      "assets/images/products/samsung/galaxy-a27/canh-trai-samsung-galaxy-a27-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a27/man-hinh-goc-nghieng-phai-samsung-galaxy-a27-den.webp",
+      "assets/images/products/samsung/galaxy-a27/man-hinh-goc-nghieng-phai-samsung-galaxy-a27-hong.webp",
+      "assets/images/products/samsung/galaxy-a27/man-hinh-goc-nghieng-phai-samsung-galaxy-a27-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a27/man-hinh-goc-nghieng-trai-samsung-galaxy-a27-den.webp",
+      "assets/images/products/samsung/galaxy-a27/man-hinh-goc-nghieng-trai-samsung-galaxy-a27-hong.webp",
+      "assets/images/products/samsung/galaxy-a27/man-hinh-goc-nghieng-trai-samsung-galaxy-a27-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a27/he-thong-camera-50mp-samsung-galaxy-a27-den.webp",
+      "assets/images/products/samsung/galaxy-a27/05-feature.webp",
+      "assets/images/products/samsung/galaxy-a27/Galaxy-A27.jpg",
+      "assets/images/products/samsung/galaxy-a27/dung-luong-pin-5000mah-samsung-galaxy-a27-den.webp",
+      "assets/images/products/samsung/galaxy-a27/hieu-nang-snapdragon-6-gen-3-samsung-galaxy-a27-den.webp",
+      "assets/images/products/samsung/galaxy-a27/thong-so-man-hinh-super-amoled-samsung-galaxy-a27-den.webp",
+      "assets/images/products/samsung/galaxy-a27/thong-so-noi-bat-samsung-galaxy-a27-xanh-duong-den-hong.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/samsung/galaxy-a27/anh-dai-dien-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-truoc-mat-sau-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/man-hinh-mat-truoc-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-lung-goc-nghieng-phai-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-lung-goc-nghieng-trai-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-lung-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/canh-phai-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/canh-trai-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/man-hinh-goc-nghieng-phai-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/man-hinh-goc-nghieng-trai-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/he-thong-camera-50mp-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/dung-luong-pin-5000mah-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/hieu-nang-snapdragon-6-gen-3-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a27/Galaxy-A27.jpg",
+        "assets/images/products/samsung/galaxy-a27/thong-so-man-hinh-super-amoled-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/thong-so-noi-bat-samsung-galaxy-a27-xanh-duong-den-hong.webp"
+      ],
+      "Hồng": [
+        "assets/images/products/samsung/galaxy-a27/anh-dai-dien-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-truoc-mat-sau-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/man-hinh-mat-truoc-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-lung-goc-nghieng-phai-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-lung-goc-nghieng-trai-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-lung-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/canh-phai-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/canh-trai-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/man-hinh-goc-nghieng-phai-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/man-hinh-goc-nghieng-trai-samsung-galaxy-a27-hong.webp",
+        "assets/images/products/samsung/galaxy-a27/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a27/Galaxy-A27.jpg",
+        "assets/images/products/samsung/galaxy-a27/thong-so-man-hinh-super-amoled-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/thong-so-noi-bat-samsung-galaxy-a27-xanh-duong-den-hong.webp"
+      ],
+      "Xanh Dương": [
+        "assets/images/products/samsung/galaxy-a27/anh-dai-dien-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-truoc-mat-sau-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/man-hinh-mat-truoc-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-lung-goc-nghieng-phai-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-lung-goc-nghieng-trai-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/mat-lung-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/canh-phai-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/canh-trai-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/man-hinh-goc-nghieng-phai-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/man-hinh-goc-nghieng-trai-samsung-galaxy-a27-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a27/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a27/Galaxy-A27.jpg",
+        "assets/images/products/samsung/galaxy-a27/thong-so-man-hinh-super-amoled-samsung-galaxy-a27-den.webp",
+        "assets/images/products/samsung/galaxy-a27/thong-so-noi-bat-samsung-galaxy-a27-xanh-duong-den-hong.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/samsung/galaxy-a27/mat-truoc-mat-sau-samsung-galaxy-a27-den.webp",
+      "screen": "assets/images/products/samsung/galaxy-a27/mat-truoc-mat-sau-samsung-galaxy-a27-hong.webp",
+      "performance": "assets/images/products/samsung/galaxy-a27/hieu-nang-snapdragon-6-gen-3-samsung-galaxy-a27-den.webp",
+      "camera": "assets/images/products/samsung/galaxy-a27/he-thong-camera-50mp-samsung-galaxy-a27-den.webp",
+      "battery": "assets/images/products/samsung/galaxy-a27/dung-luong-pin-5000mah-samsung-galaxy-a27-den.webp",
+      "feature": "assets/images/products/samsung/galaxy-a27/anh-dai-dien-samsung-galaxy-a27-hong.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/samsung/galaxy-a27/anh-dai-dien-samsung-galaxy-a27-hong.webp",
+      "assets/images/products/samsung/galaxy-a27/anh-dai-dien-samsung-galaxy-a27-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a27/mat-truoc-mat-sau-samsung-galaxy-a27-den.webp",
+      "assets/images/products/samsung/galaxy-a27/mat-truoc-mat-sau-samsung-galaxy-a27-hong.webp",
+      "assets/images/products/samsung/galaxy-a27/mat-truoc-mat-sau-samsung-galaxy-a27-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a27/man-hinh-mat-truoc-samsung-galaxy-a27-den.webp",
+      "assets/images/products/samsung/galaxy-a27/man-hinh-mat-truoc-samsung-galaxy-a27-hong.webp",
+      "assets/images/products/samsung/galaxy-a27/man-hinh-mat-truoc-samsung-galaxy-a27-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a27/mat-lung-goc-nghieng-phai-samsung-galaxy-a27-den.webp",
+      "assets/images/products/samsung/galaxy-a27/mat-lung-goc-nghieng-phai-samsung-galaxy-a27-hong.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s26-series",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s25-series",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-z",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-a",
+      "https://www.samsung.com/vn/smartphones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "partial_retail_listing",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT006-SSA27",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "Super AMOLED",
+      "Kích thước màn hình": "6,7 inch (tỷ lệ hiển thị ~86,8% mặt trước)",
+      "Độ phân giải màn hình": "Full HD+ (1080 x 2340 pixel, ~385 ppi)",
+      "Tần số quét": "120Hz",
+      "Kiểu màn hình": "Màn hình phẳng đục lỗ Infinity-O (nâng cấp từ màn hình giọt nước thế hệ trước), kính Gorilla Glass Victus+",
+      "Tính năng màn hình": "Độ sáng 800 nit, bảo vệ mắt Eye Comfort Shield"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera: Chính 50MP (f/1.8, 27mm, PDAF, chống rung quang học OIS) + Góc siêu rộng 5MP (f/2.2, 16mm) + Macro 2MP",
+      "Quay video": "4K@30fps, 1080p@30fps, Slo-mo 720p@480fps, chống rung OIS + gyro-EIS",
+      "Tính năng camera": "Chống rung No Shake Cam OIS, Chân dung xóa phông, Chụp đêm, HDR, Panorama"
+    },
+    "Camera trước": {
+      "Camera trước": "12MP (f/2.2, 25mm); hỗ trợ quay video Full HD 1080p@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 6 Gen 3 (tiến trình 4nm)",
+      "Loại CPU": "8 nhân (4 nhân Cortex-A78 2,4 GHz + 4 nhân Cortex-A55 1,8 GHz)",
+      "GPU": "Adreno 710"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "6GB / 8GB",
+      "Bộ nhớ trong": "128GB chuẩn UFS 3.1 (hỗ trợ mở rộng qua khe cắm thẻ nhớ microSDXC)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.000 mAh (Li-Ion)",
+      "Công nghệ sạc": "Sạc nhanh có dây 25W (đạt 45% pin trong 30 phút)",
+      "Cổng sạc": "USB Type-C 2.0, hỗ trợ OTG"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 16, giao diện One UI 9 (hỗ trợ cập nhật 6 thế hệ Android)",
+      "Công nghệ - Tiện ích": "Circle to Search, Quick Share, bảo mật Samsung Knox Vault",
+      "Tiện ích khác": "Hỗ trợ khe cắm thẻ nhớ microSDXC, mở khóa vân tay cạnh bên",
+      "Thời điểm ra mắt": "Tháng 06/2026 (Mở bán tháng 07/2026)"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G SA/NSA/Sub6 đa băng tần, 4G LTE",
+      "Thẻ SIM": "SIM kép (2 Nano-SIM hoặc Nano-SIM + eSIM / microSD)",
+      "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép (2.4GHz & 5GHz), Wi-Fi Direct",
+      "Bluetooth": "Bluetooth 5.1 / 5.3 (A2DP, LE)",
+      "Công nghệ NFC": "Có hỗ trợ NFC",
+      "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền phẳng tích hợp cụm phím nổi Key Island",
+      "Chất liệu mặt lưng": "Hai mặt kính cường lực Corning Gorilla Glass Victus+",
+      "Kích thước": "162,4 x 78,2 x 7,8 mm",
+      "Trọng lượng": "200 gram",
+      "Chỉ số kháng nước, bụi": "IP64 (kháng bụi hoàn toàn và kháng tia nước bắn)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài tích hợp, hỗ trợ Dolby Atmos qua tai nghe",
+      "Cảm biến vân tay": "Cảm biến vân tay tích hợp nút nguồn cạnh bên",
+      "Các loại cảm biến": "Vân tay cạnh bên, Gia tốc kế, Con quay hồi chuyển, Cảm biến tiệm cận ảo, La bàn số"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,7 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "Super AMOLED"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "Full HD+ (1080 x 2340 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 6 Gen 3 (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "6GB / 8GB"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB UFS 3.1 (hỗ trợ microSDXC)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính OIS + 5MP Ultra Wide + 2MP Macro"
+    },
+    {
+      "label": "Camera trước",
+      "value": "12MP, khẩu độ f/2.2"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh có dây 25W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 16, One UI 9"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP64 (kháng bụi & kháng tia nước)"
+    }
+  ],
+  "verbatimDescription": [
+    "Samsung Galaxy A27 (tên thương mại đầy đủ Galaxy A27 5G) đánh dấu bước chuyển mình quan trọng của dòng Galaxy A2x khi loại bỏ thiết kế màn hình giọt nước cũ để chuyển sang màn hình đục lỗ Infinity-O hiện đại, kết hợp viền bezel mỏng hơn và mặt kính cường lực cao cấp Corning Gorilla Glass Victus+ ở cả hai mặt.",
+    "Màn hình Super AMOLED kích thước 6,7 inch của Galaxy A27 đạt độ phân giải sắc nét Full HD+ (1080 x 2340 pixel, ~385 ppi) cùng tần số quét 120Hz mượt mà. Không gian hiển thị rộng rãi và màu sắc sống động giúp trải nghiệm xem phim, lướt mạng xã hội và học tập trực tuyến trở nên cuốn hút hơn.",
+    "Về hiệu năng, Samsung trang bị cho Galaxy A27 vi xử lý Qualcomm Snapdragon 6 Gen 3 sản xuất trên tiến trình 4nm (4 nhân Cortex-A78 2,4 GHz + 4 nhân Cortex-A55 1,8 GHz) cùng GPU Adreno 710. Đi kèm tùy chọn RAM 6GB hoặc 8GB, bộ nhớ trong 128GB chuẩn UFS 3.1 tốc độ cao và vẫn duy trì khe cắm thẻ nhớ microSDXC tiện lợi, máy xử lý mượt mà các tác vụ đa nhiệm và giải trí hàng ngày.",
+    "Cụm 3 camera sau của máy dẫn đầu bởi cảm biến chính 50MP (khẩu độ f/1.8) tích hợp chống rung quang học OIS (No Shake Cam) giúp chụp ảnh thiếu sáng rõ nét và quay video 4K@30fps ổn định, đi kèm camera góc siêu rộng 5MP và camera Macro 2MP. Camera trước cũng được nâng cấp lên 12MP (f/2.2) cho ảnh selfie tự nhiên.",
+    "Viên pin 5.000 mAh trên Galaxy A27 kết hợp con chip 4nm tiết kiệm điện năng mang lại thời lượng sử dụng bền bỉ suốt cả ngày dài, hỗ trợ sạc nhanh có dây 25W qua cổng USB Type-C.",
+    "Cài sẵn Android 16 và giao diện One UI 9 ngay khi ra mắt với cam kết hỗ trợ tới 6 bản cập nhật hệ điều hành lớn, chuẩn kháng bụi/nước IP64, kết nối 5G, eSIM và NFC, Galaxy A27 là lựa chọn đáng tin cậy trong phân khúc tầm trung dễ tiếp cận."
+  ],
+  "priceSegment": "midrange"
+}

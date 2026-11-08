@@ -1,0 +1,123 @@
+{
+  "id": "ugreen-usb-c-to-usb-c-100w-1m-us557-15267",
+  "docCode": "PK-CS007-US557",
+  "model": "Cáp Sạc Ugreen USB-C to USB-C 100W 1m US557 (Mã 15267)",
+  "brand": "Ugreen",
+  "brandId": "ugreen",
+  "parentGroupId": "ugreen",
+  "series": "Cáp sạc",
+  "subCategory": "cap-sac",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "cap-sac"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Cáp sạc",
+    "highlights": [
+      "100W",
+      "USB-C to USB-C",
+      "1.0 m"
+    ],
+    "description": "Cáp sạc chính hãng Ugreen chuẩn 100W với thiết kế tối giản, thanh lịch tông màu trắng sang trọng. Tích hợp chip thông minh bảo vệ pin và kiểm soát nhiệt độ nghiêm ngặt, cho phép sạc đầy MacBook Pro 13 inch chỉ trong khoảng 1.8 giờ. Lớp vỏ TPE mềm mại, đàn hồi tốt và thân thiện với người sử dụng."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 120000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/cap-sac/ugreen-usb-c-to-usb-c-100w-1m-us557-15267/anh-dai-dien-ugreen-usb-c-to-usb-c-100w-1m-us557-15267-trang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/cap-sac/ugreen-usb-c-to-usb-c-100w-1m-us557-15267/anh-dai-dien-ugreen-usb-c-to-usb-c-100w-1m-us557-15267-trang.webp",
+      "assets/images/products/accessory/cap-sac/ugreen-usb-c-to-usb-c-100w-1m-us557-15267/can-canh-dau-cap-type-c-trang.webp",
+      "assets/images/products/accessory/cap-sac/ugreen-usb-c-to-usb-c-100w-1m-us557-15267/sac-nhanh-100w-cho-dien-thoai-trang.webp"
+    ],
+    "byColor": {
+      "Trắng": [
+        "assets/images/products/accessory/cap-sac/ugreen-usb-c-to-usb-c-100w-1m-us557-15267/anh-dai-dien-ugreen-usb-c-to-usb-c-100w-1m-us557-15267-trang.webp",
+        "assets/images/products/accessory/cap-sac/ugreen-usb-c-to-usb-c-100w-1m-us557-15267/can-canh-dau-cap-type-c-trang.webp",
+        "assets/images/products/accessory/cap-sac/ugreen-usb-c-to-usb-c-100w-1m-us557-15267/sac-nhanh-100w-cho-dien-thoai-trang.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/cap-sac/ugreen-usb-c-to-usb-c-100w-1m-us557-15267/can-canh-dau-cap-type-c-trang.webp",
+      "screen": "assets/images/products/accessory/cap-sac/ugreen-usb-c-to-usb-c-100w-1m-us557-15267/sac-nhanh-100w-cho-dien-thoai-trang.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/cap-sac/ugreen-usb-c-to-usb-c-100w-1m-us557-15267/can-canh-dau-cap-type-c-trang.webp",
+      "assets/images/products/accessory/cap-sac/ugreen-usb-c-to-usb-c-100w-1m-us557-15267/sac-nhanh-100w-cho-dien-thoai-trang.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Ugreen",
+      "Loại cáp": "USB-C to USB-C",
+      "Cổng kết nối": "2 đầu USB Type-C mạ niken chống oxy hóa",
+      "Công suất sạc tối đa": "100W (20V/5A, Power Delivery 3.0 / QC 4.0)",
+      "Chiều dài dây": "1.0 m",
+      "Tốc độ truyền dữ liệu": "480 Mbps",
+      "Chất liệu dây": "Nhựa TPE cao cấp dẻo dai nguyên sinh, chống bám bẩn",
+      "Màu sắc": "Trắng"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Ugreen"
+    },
+    {
+      "label": "Loại cáp",
+      "value": "USB-C to USB-C"
+    },
+    {
+      "label": "Cổng kết nối",
+      "value": "2 đầu USB Type-C mạ niken chống oxy hóa"
+    },
+    {
+      "label": "Công suất sạc tối đa",
+      "value": "100W (20V/5A, Power Delivery 3.0 / QC 4.0)"
+    },
+    {
+      "label": "Chiều dài dây",
+      "value": "1.0 m"
+    },
+    {
+      "label": "Tốc độ truyền dữ liệu",
+      "value": "480 Mbps"
+    },
+    {
+      "label": "Chất liệu dây",
+      "value": "Nhựa TPE cao cấp dẻo dai nguyên sinh, chống bám bẩn"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Trắng"
+    }
+  ],
+  "verbatimDescription": [
+    "Cáp sạc chính hãng Ugreen chuẩn 100W với thiết kế tối giản, thanh lịch tông màu trắng sang trọng. Tích hợp chip thông minh bảo vệ pin và kiểm soát nhiệt độ nghiêm ngặt, cho phép sạc đầy MacBook Pro 13 inch chỉ trong khoảng 1.8 giờ. Lớp vỏ TPE mềm mại, đàn hồi tốt và thân thiện với người sử dụng."
+  ],
+  "variants": [
+    {
+      "sku": "PK-CS007-US557-TRANG-TIEU-CHUAN",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 120000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/cap-sac/ugreen-usb-c-to-usb-c-100w-1m-us557-15267/anh-dai-dien-ugreen-usb-c-to-usb-c-100w-1m-us557-15267-trang.webp",
+        "assets/images/products/accessory/cap-sac/ugreen-usb-c-to-usb-c-100w-1m-us557-15267/can-canh-dau-cap-type-c-trang.webp",
+        "assets/images/products/accessory/cap-sac/ugreen-usb-c-to-usb-c-100w-1m-us557-15267/sac-nhanh-100w-cho-dien-thoai-trang.webp"
+      ]
+    }
+  ]
+}

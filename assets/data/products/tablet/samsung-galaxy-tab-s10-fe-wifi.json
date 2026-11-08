@@ -1,0 +1,382 @@
+{
+  "id": "samsung-galaxy-tab-s10-fe-wifi",
+  "docCode": "TB-SS006-S10FE",
+  "model": "Samsung Galaxy Tab S10 FE Wi-Fi",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "series": "Galaxy Tab S10 Series",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "10.9 inch",
+      "Samsung Exynos 1580",
+      "Pin 8.000 mAh"
+    ],
+    "description": "Samsung Galaxy Tab S10 FE Wi-Fi là chiếc máy tính bảng cận cao cấp chuẩn mực đáp ứng hoàn hảo sự cân bằng giữa tính năng, độ bền và mức giá. Khung nhôm Armor Aluminum cứng cáp đạt chuẩn kháng nước và bụi bẩn IP68 giúp máy an tâm hoạt động bền bỉ ngay cả trong điều kiện trời mưa hay môi trường ẩm ướt.",
+    "releaseDate": "2024 / 2025"
+  },
+  "performance": {
+    "chipset": "Samsung Exynos 1580 (tiến trình 4nm)",
+    "ram": [
+      "12GB",
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "operatingSystem": "Android 14 (One UI 6.1)"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 12990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/anh-dai-dien-samsung-galaxy-tab-s10-fe-wifi-xam.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/anh-dai-dien-samsung-galaxy-tab-s10-fe-wifi-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/anh-dai-dien-samsung-galaxy-tab-s10-fe-wifi-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/anh-dai-dien-samsung-galaxy-tab-s10-fe-wifi-xanh-duong.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-sau-kem-but-s-pen-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-dat-tren-ban-kem-but-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-nam-ngang-nghieng-phai-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-nam-ngang-nghieng-phai-xanh-duong.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-nam-ngang-nghieng-trai-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-nam-ngang-nghieng-trai-xanh-duong.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/but-s-pen-dinh-nam-cham-mat-lung-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-sau-dat-tren-ban-kem-but-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/canh-ben-trai-phai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/canh-tren-duoi-loa-cong-sac-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/can-canh-camera-sau-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/but-cam-ung-s-pen-trang-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/can-canh-chan-ket-noi-pogo-pin-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/can-canh-cong-sac-type-c-va-loa-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/can-canh-nut-nguon-va-am-luong-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/tinh-nang-khang-nuoc-va-bui-ip68-xanh-duong.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/viet-but-s-pen-tren-man-hinh-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-camera-13mp-quay-video-4k-xam-xanh.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-chip-exynos-1580-ram-8gb-xam-den.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-pin-8000mah-sac-nhanh-45w-xanh-la.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/tong-quan-tinh-nang-man-hinh-10-9-inch-ip68-pin-8000mah-xanh-duong.webp"
+    ],
+    "byColor": {
+      "Bạc": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/anh-dai-dien-samsung-galaxy-tab-s10-fe-wifi-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-sau-kem-but-s-pen-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-nam-ngang-nghieng-phai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-nam-ngang-nghieng-trai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/but-cam-ung-s-pen-trang-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-camera-13mp-quay-video-4k-xam-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-chip-exynos-1580-ram-8gb-xam-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-pin-8000mah-sac-nhanh-45w-xanh-la.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/tong-quan-tinh-nang-man-hinh-10-9-inch-ip68-pin-8000mah-xanh-duong.webp"
+      ],
+      "Xám": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/anh-dai-dien-samsung-galaxy-tab-s10-fe-wifi-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-dat-tren-ban-kem-but-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/but-s-pen-dinh-nam-cham-mat-lung-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-sau-dat-tren-ban-kem-but-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/can-canh-camera-sau-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/can-canh-chan-ket-noi-pogo-pin-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/can-canh-cong-sac-type-c-va-loa-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/can-canh-nut-nguon-va-am-luong-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/viet-but-s-pen-tren-man-hinh-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/but-cam-ung-s-pen-trang-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-camera-13mp-quay-video-4k-xam-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-chip-exynos-1580-ram-8gb-xam-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-pin-8000mah-sac-nhanh-45w-xanh-la.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/tong-quan-tinh-nang-man-hinh-10-9-inch-ip68-pin-8000mah-xanh-duong.webp"
+      ],
+      "Xanh Dương": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/anh-dai-dien-samsung-galaxy-tab-s10-fe-wifi-xanh-duong.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-nam-ngang-nghieng-phai-xanh-duong.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-nam-ngang-nghieng-trai-xanh-duong.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/tinh-nang-khang-nuoc-va-bui-ip68-xanh-duong.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/but-cam-ung-s-pen-trang-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-camera-13mp-quay-video-4k-xam-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-chip-exynos-1580-ram-8gb-xam-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-pin-8000mah-sac-nhanh-45w-xanh-la.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/tong-quan-tinh-nang-man-hinh-10-9-inch-ip68-pin-8000mah-xanh-duong.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-sau-kem-but-s-pen-bac.webp",
+      "screen": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-dat-tren-ban-kem-but-xam.webp",
+      "performance": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-nam-ngang-nghieng-phai-bac.webp",
+      "camera": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/can-canh-camera-sau-xam.webp",
+      "battery": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/canh-tren-duoi-loa-cong-sac-xam.webp",
+      "feature": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/anh-dai-dien-samsung-galaxy-tab-s10-fe-wifi-bac.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/anh-dai-dien-samsung-galaxy-tab-s10-fe-wifi-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/anh-dai-dien-samsung-galaxy-tab-s10-fe-wifi-xanh-duong.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-sau-kem-but-s-pen-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-dat-tren-ban-kem-but-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-nam-ngang-nghieng-phai-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-nam-ngang-nghieng-phai-xanh-duong.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-nam-ngang-nghieng-trai-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-nam-ngang-nghieng-trai-xanh-duong.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/but-s-pen-dinh-nam-cham-mat-lung-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-sau-dat-tren-ban-kem-but-xam.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "10,9 inch IPS LCD WUXGA+ (2304 x 1440 pixel), tỷ lệ 16:10, tần số quét 90Hz mượt mà, dải màu DCI-P3, công nghệ Vision Booster độ sáng 600 nit",
+      "Tính năng màn hình": "Công nghệ Vision Booster tối ưu hiển thị ngoài trời, giảm phát xạ ánh sáng xanh bảo vệ thị lực chuẩn SGS Eye Care"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "Exynos 1580 4nm tích hợp GPU AMD Xclipse 540",
+      "CPU & Đồ họa": "Octa-core tối đa 2.9 GHz, GPU Xclipse 540 kiến trúc RDNA của AMD",
+      "Hệ điều hành khi ra mắt": "Android 14 One UI 6.1 với các tiện ích Galaxy AI hiện đại"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "8GB / 12GB LPDDR5X",
+      "Bộ nhớ trong": "128GB / 256GB UFS, hỗ trợ khe thẻ MicroSD rời"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "13MP tự động lấy nét, quay video 4K sắc nét",
+      "Camera trước": "12MP Ultra Wide đặt ngang hỗ trợ Auto Framing",
+      "Chi tiết hệ thống Camera": "Camera chính 13MP AF quay 4K; Camera selfie 12MP Ultra Wide góc rộng"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "8.000 mAh bền bỉ, sạc nhanh 45W qua USB-C",
+      "Pin và công nghệ sạc": "Pin Lithium-Polymer 8.000 mAh, hỗ trợ sạc nhanh 45W"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Bút S Pen đi kèm sẵn chuẩn IP68, gắn từ tính sau lưng máy",
+      "Hỗ trợ bàn phím rời": "Tương thích bao da bàn phím Book Cover Keyboard qua Pogo Pin",
+      "Công nghệ âm thanh": "Hệ thống loa kép tinh chỉnh bởi AKG với Dolby Atmos",
+      "Thuộc tính đặc biệt": "Kháng nước bụi IP68, bút S Pen đi kèm hộp, camera 13MP quay 4K, Galaxy AI"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Wi-Fi 6 (802.11ax) băng tần kép",
+      "Thẻ SIM": "Không hỗ trợ (Bản Wi-Fi)",
+      "Kết nối không dây & Cổng giao tiếp": "Wi-Fi 6, Bluetooth 5.3, Type-C USB 2.0, Pogo Pin",
+      "Công nghệ - Tiện ích": "Bộ công cụ Galaxy AI, Samsung DeX biến tablet thành giao diện máy tính"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Thân nhôm Armor Aluminum mỏng 6.5 mm, kích thước 254.3 x 165.8 x 6.5 mm, trọng lượng 523 g",
+      "Bảo mật và độ bền": "Cảm biến vân tay nút nguồn, chuẩn chống nước bụi IP68 toàn diện",
+      "Thời điểm ra mắt": "Năm 2024 / 2025"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "10.9 inch IPS LCD, độ phân giải 2304 x 1440 pixels"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Tần số quét 90Hz mượt mà, công nghệ Vision Booster, độ sáng 600 nits, dải màu DCI-P3"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Samsung Exynos 1580 (tiến trình 4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB / 12GB"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB (Mở rộng thẻ nhớ MicroSD tối đa 1.5TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "13MP tự động lấy nét, quay video 4K sắc nét"
+    },
+    {
+      "label": "Camera trước",
+      "value": "12MP Ultra Wide đặt ngang hỗ trợ Auto Framing"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Pin Lithium-Polymer 8.000 mAh, hỗ trợ sạc nhanh 45W"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Wi-Fi 6 (802.11ax) băng tần kép"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Bút S Pen đi kèm sẵn chuẩn IP68, gắn từ tính sau lưng máy"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Tương thích bao da bàn phím Book Cover Keyboard qua Pogo Pin"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 14 (One UI 6.1)"
+    }
+  ],
+  "verbatimDescription": [
+    "Samsung Galaxy Tab S10 FE Wi-Fi là chiếc máy tính bảng cận cao cấp chuẩn mực đáp ứng hoàn hảo sự cân bằng giữa tính năng, độ bền và mức giá. Khung nhôm Armor Aluminum cứng cáp đạt chuẩn kháng nước và bụi bẩn IP68 giúp máy an tâm hoạt động bền bỉ ngay cả trong điều kiện trời mưa hay môi trường ẩm ướt.",
+    "Màn hình 10.9 inch độ phân giải 2K sắc nét với công nghệ Vision Booster tự động nhận diện ánh sáng ngoài trời để cân chỉnh độ sáng và tương phản tối ưu. Bút S Pen thần thánh đi kèm sẵn trong hộp cho trải nghiệm viết tay, ghi chú và vẽ phác thảo vô cùng nhạy bén với độ trễ tối thiểu.",
+    "Hiệu năng mượt mà đến từ chip Exynos 1580 tiến trình 4nm mới nhất cùng viên pin dung lượng 8.000 mAh hỗ trợ sạc nhanh 45W. Kết hợp với bộ tiện ích Galaxy AI thông minh và loa kép tinh chỉnh bởi AKG, đây chính là sự lựa chọn sáng giá nhất cho người dùng yêu thích sự đa năng và tiện ích.",
+    "Điểm cộng lớn nhất của Samsung Galaxy Tab S10 FE Wi-Fi là bút cảm ứng S Pen đi kèm sẵn trong hộp mà không cần mua rời hay sạc pin để viết vẽ, kết hợp cùng bộ tính năng trí tuệ nhân tạo Galaxy AI như Khoanh tròn để tìm kiếm (Circle to Search), Note Assist và Phác thảo thông minh (Sketch to Image).",
+    "Cả thân máy khung nhôm Armor Aluminum lẫn bút S Pen đều đạt chuẩn kháng bụi và ngâm nước IP68 ở độ sâu 1,5m trong 30 phút – trang bị hiếm hoi trong thế giới máy tính bảng giúp bảo vệ thiết bị tối đa trước các sự cố đổ nước hàng ngày.",
+    "Camera trước 12MP góc siêu rộng 120° đặt ở cạnh ngang tích hợp Auto Framing luôn giữ người dùng ở trung tâm khung hình khi họp trực tuyến, đi kèm hệ thống loa kép AKG Dolby Atmos và chế độ máy tính Samsung DeX chuyên nghiệp."
+  ],
+  "variants": [
+    {
+      "sku": "TB-SS006-S10FE-XAM-8GB-128GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 12990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/anh-dai-dien-samsung-galaxy-tab-s10-fe-wifi-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-dat-tren-ban-kem-but-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/but-s-pen-dinh-nam-cham-mat-lung-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-sau-dat-tren-ban-kem-but-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/can-canh-camera-sau-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/can-canh-chan-ket-noi-pogo-pin-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/can-canh-cong-sac-type-c-va-loa-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/can-canh-nut-nguon-va-am-luong-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/viet-but-s-pen-tren-man-hinh-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/but-cam-ung-s-pen-trang-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-camera-13mp-quay-video-4k-xam-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-chip-exynos-1580-ram-8gb-xam-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-pin-8000mah-sac-nhanh-45w-xanh-la.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/tong-quan-tinh-nang-man-hinh-10-9-inch-ip68-pin-8000mah-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-SS006-S10FE-XAM-12GB-256GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 14990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/anh-dai-dien-samsung-galaxy-tab-s10-fe-wifi-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-dat-tren-ban-kem-but-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/but-s-pen-dinh-nam-cham-mat-lung-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-sau-dat-tren-ban-kem-but-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/can-canh-camera-sau-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/can-canh-chan-ket-noi-pogo-pin-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/can-canh-cong-sac-type-c-va-loa-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/can-canh-nut-nguon-va-am-luong-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/viet-but-s-pen-tren-man-hinh-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/but-cam-ung-s-pen-trang-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-camera-13mp-quay-video-4k-xam-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-chip-exynos-1580-ram-8gb-xam-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-pin-8000mah-sac-nhanh-45w-xanh-la.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/tong-quan-tinh-nang-man-hinh-10-9-inch-ip68-pin-8000mah-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-SS006-S10FE-BAC-8GB-128GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 12990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/anh-dai-dien-samsung-galaxy-tab-s10-fe-wifi-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-sau-kem-but-s-pen-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-nam-ngang-nghieng-phai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-nam-ngang-nghieng-trai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/but-cam-ung-s-pen-trang-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-camera-13mp-quay-video-4k-xam-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-chip-exynos-1580-ram-8gb-xam-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-pin-8000mah-sac-nhanh-45w-xanh-la.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/tong-quan-tinh-nang-man-hinh-10-9-inch-ip68-pin-8000mah-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-SS006-S10FE-BAC-12GB-256GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 14990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/anh-dai-dien-samsung-galaxy-tab-s10-fe-wifi-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-sau-kem-but-s-pen-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-nam-ngang-nghieng-phai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-nam-ngang-nghieng-trai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/but-cam-ung-s-pen-trang-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-camera-13mp-quay-video-4k-xam-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-chip-exynos-1580-ram-8gb-xam-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-pin-8000mah-sac-nhanh-45w-xanh-la.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/tong-quan-tinh-nang-man-hinh-10-9-inch-ip68-pin-8000mah-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-SS006-S10FE-XANH-DUONG-8GB-128GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 12990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/anh-dai-dien-samsung-galaxy-tab-s10-fe-wifi-xanh-duong.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-nam-ngang-nghieng-phai-xanh-duong.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-nam-ngang-nghieng-trai-xanh-duong.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/tinh-nang-khang-nuoc-va-bui-ip68-xanh-duong.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/but-cam-ung-s-pen-trang-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-camera-13mp-quay-video-4k-xam-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-chip-exynos-1580-ram-8gb-xam-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-pin-8000mah-sac-nhanh-45w-xanh-la.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/tong-quan-tinh-nang-man-hinh-10-9-inch-ip68-pin-8000mah-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-SS006-S10FE-XANH-DUONG-12GB-256GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 14990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/anh-dai-dien-samsung-galaxy-tab-s10-fe-wifi-xanh-duong.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-nam-ngang-nghieng-phai-xanh-duong.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/mat-truoc-nam-ngang-nghieng-trai-xanh-duong.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/tinh-nang-khang-nuoc-va-bui-ip68-xanh-duong.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/but-cam-ung-s-pen-trang-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-camera-13mp-quay-video-4k-xam-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-chip-exynos-1580-ram-8gb-xam-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/thong-so-pin-8000mah-sac-nhanh-45w-xanh-la.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-fe-wifi/tong-quan-tinh-nang-man-hinh-10-9-inch-ip68-pin-8000mah-xanh-duong.webp"
+      ]
+    }
+  ]
+}

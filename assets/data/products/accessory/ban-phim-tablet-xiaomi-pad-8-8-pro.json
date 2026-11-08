@@ -1,0 +1,122 @@
+{
+  "id": "ban-phim-tablet-xiaomi-pad-8-8-pro",
+  "docCode": "PK-KB010-MIPAD8",
+  "model": "Bàn Phím Thông Minh Xiaomi Pad 8 / Pad 8 Pro Magnetic Keyboard",
+  "brand": "Xiaomi",
+  "brandId": "xiaomi",
+  "parentGroupId": "xiaomi",
+  "series": "Bàn phím & Bao da",
+  "subCategory": "keyboard",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "keyboard"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Bàn phím & Bao da",
+    "highlights": [
+      "Bàn phím & Bao da",
+      "Xiaomi"
+    ],
+    "description": "Bàn phím chính hãng Xiaomi được thiết kế mỏng nhẹ, phủ lớp giả da cao cấp chống bám vân tay. Hành trình phím sâu 1.3mm cho trải nghiệm gõ êm ái, đính hút từ tính chuẩn xác tự động bật mở màn hình khi mở bao da."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 1490000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/keyboard/ban-phim-tablet-xiaomi-pad-8-8-pro/anh-dai-dien-ban-phim-tablet-xiaomi-pad-8-8-pro-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/keyboard/ban-phim-tablet-xiaomi-pad-8-8-pro/anh-dai-dien-ban-phim-tablet-xiaomi-pad-8-8-pro-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-tablet-xiaomi-pad-8-8-pro/mat-chinh-dien-ban-phim-kem-tablet-den.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/accessory/keyboard/ban-phim-tablet-xiaomi-pad-8-8-pro/anh-dai-dien-ban-phim-tablet-xiaomi-pad-8-8-pro-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-tablet-xiaomi-pad-8-8-pro/mat-chinh-dien-ban-phim-kem-tablet-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/keyboard/ban-phim-tablet-xiaomi-pad-8-8-pro/mat-chinh-dien-ban-phim-kem-tablet-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/keyboard/ban-phim-tablet-xiaomi-pad-8-8-pro/mat-chinh-dien-ban-phim-kem-tablet-den.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Xiaomi",
+      "Loại bàn phím": "Bao da bàn phím từ tính thông minh",
+      "Thiết bị tương thích": "Xiaomi Pad 8, Xiaomi Pad 8 Pro, Pad 7 Series",
+      "Kiểu kết nối": "Cổng tiếp xúc nam châm Pogo Pin (kết nối trực tiếp)",
+      "Ngôn ngữ bàn phím": "Tiếng Anh",
+      "Bàn di chuột (Touchpad)": "Không",
+      "Đèn nền bàn phím": "Không",
+      "Nguồn cấp điện": "Lấy nguồn trực tiếp từ máy tính bảng qua chân Pogo Pin",
+      "Màu sắc": "Đen"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Xiaomi"
+    },
+    {
+      "label": "Loại bàn phím",
+      "value": "Bao da bàn phím từ tính thông minh"
+    },
+    {
+      "label": "Thiết bị tương thích",
+      "value": "Xiaomi Pad 8, Xiaomi Pad 8 Pro, Pad 7 Series"
+    },
+    {
+      "label": "Kiểu kết nối",
+      "value": "Cổng tiếp xúc nam châm Pogo Pin (kết nối trực tiếp)"
+    },
+    {
+      "label": "Ngôn ngữ bàn phím",
+      "value": "Tiếng Anh"
+    },
+    {
+      "label": "Bàn di chuột (Touchpad)",
+      "value": "Không"
+    },
+    {
+      "label": "Đèn nền bàn phím",
+      "value": "Không"
+    },
+    {
+      "label": "Nguồn cấp điện",
+      "value": "Lấy nguồn trực tiếp từ máy tính bảng qua chân Pogo Pin"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Đen"
+    }
+  ],
+  "verbatimDescription": [
+    "Bàn phím chính hãng Xiaomi được thiết kế mỏng nhẹ, phủ lớp giả da cao cấp chống bám vân tay. Hành trình phím sâu 1.3mm cho trải nghiệm gõ êm ái, đính hút từ tính chuẩn xác tự động bật mở màn hình khi mở bao da."
+  ],
+  "variants": [
+    {
+      "sku": "PK-KB010-MIPAD8-DEN-TIEU-CHUAN",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 1490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/keyboard/ban-phim-tablet-xiaomi-pad-8-8-pro/anh-dai-dien-ban-phim-tablet-xiaomi-pad-8-8-pro-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-tablet-xiaomi-pad-8-8-pro/mat-chinh-dien-ban-phim-kem-tablet-den.webp"
+      ]
+    }
+  ]
+}

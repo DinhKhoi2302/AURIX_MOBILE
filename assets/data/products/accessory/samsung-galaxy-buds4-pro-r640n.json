@@ -1,0 +1,172 @@
+{
+  "id": "samsung-galaxy-buds4-pro-r640n",
+  "docCode": "PK-TN008-R640N",
+  "model": "Tai Nghe Cao Cấp Samsung Galaxy Buds4 Pro SM-R640N",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "series": "Tai nghe",
+  "subCategory": "tai-nghe",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "tai-nghe"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Tai nghe",
+    "highlights": [
+      "Tai nghe",
+      "Samsung"
+    ],
+    "description": "Siêu phẩm tai nghe True Wireless đầu bảng của Samsung với thiết kế thanh dẹt công nghệ hiện đại. Tích hợp sâu Galaxy AI hỗ trợ phiên dịch ngôn ngữ theo thời gian thực trực tiếp qua tai nghe, loa 2 chiều cùng bộ khuếch đại kép mang lại âm thanh chuẩn phòng thu 24-bit/96kHz."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 4990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/anh-dai-dien-samsung-galaxy-buds4-pro-r640n-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/anh-dai-dien-samsung-galaxy-buds4-pro-r640n-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/goc-nghieng-phai-hop-sac-mo-nap-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/goc-nghieng-trai-hop-sac-mo-nap-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/can-canh-cong-sac-type-c-hop-sac-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/can-canh-dem-tai-in-ear-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/can-canh-hai-tai-nghe-dat-tren-ban-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/canh-truoc-hop-sac-dong-nap-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/hai-tai-nghe-dat-canh-hop-sac-mo-nap-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/hop-sac-nap-trong-suot-dong-nap-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/hop-sac-tai-nghe-va-bo-dem-tai-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/ket-noi-dien-thoai-samsung-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/kich-thuoc-chi-tiet-tai-nghe-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/mat-day-hop-sac-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/tai-nghe-trong-hop-sac-dat-canh-hop-den.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/anh-dai-dien-samsung-galaxy-buds4-pro-r640n-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/goc-nghieng-phai-hop-sac-mo-nap-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/goc-nghieng-trai-hop-sac-mo-nap-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/can-canh-cong-sac-type-c-hop-sac-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/can-canh-dem-tai-in-ear-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/can-canh-hai-tai-nghe-dat-tren-ban-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/canh-truoc-hop-sac-dong-nap-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/hai-tai-nghe-dat-canh-hop-sac-mo-nap-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/hop-sac-nap-trong-suot-dong-nap-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/hop-sac-tai-nghe-va-bo-dem-tai-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/ket-noi-dien-thoai-samsung-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/kich-thuoc-chi-tiet-tai-nghe-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/mat-day-hop-sac-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/tai-nghe-trong-hop-sac-dat-canh-hop-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/goc-nghieng-phai-hop-sac-mo-nap-den.webp",
+      "screen": "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/goc-nghieng-trai-hop-sac-mo-nap-den.webp",
+      "performance": "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/can-canh-cong-sac-type-c-hop-sac-den.webp",
+      "camera": "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/can-canh-dem-tai-in-ear-den.webp",
+      "battery": "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/canh-truoc-hop-sac-dong-nap-den.webp",
+      "feature": "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/can-canh-hai-tai-nghe-dat-tren-ban-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/goc-nghieng-phai-hop-sac-mo-nap-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/goc-nghieng-trai-hop-sac-mo-nap-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/can-canh-cong-sac-type-c-hop-sac-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/can-canh-dem-tai-in-ear-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/can-canh-hai-tai-nghe-dat-tren-ban-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/canh-truoc-hop-sac-dong-nap-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/hai-tai-nghe-dat-canh-hop-sac-mo-nap-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/hop-sac-nap-trong-suot-dong-nap-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/hop-sac-tai-nghe-va-bo-dem-tai-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/ket-noi-dien-thoai-samsung-den.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Samsung",
+      "Kiểu tai nghe": "In-ear thiết kế dạng thanh Blade thời thượng",
+      "Kết nối": "Bluetooth 5.4, chuẩn âm thanh 24-bit Hi-Fi Ultra High Quality",
+      "Cổng sạc": "USB-C & Sạc không dây Qi",
+      "Chống ồn chủ động (ANC)": "Có (Chống ồn thích ứng Adaptive ANC & Chế độ còi báo Siren Detect)",
+      "Microphone": "Có (Hệ thống micro đa hướng tích hợp Galaxy AI phiên dịch trực tiếp)",
+      "Thời lượng pin": "Lên đến 7 giờ (30 giờ kèm dock sạc)",
+      "Kháng nước, bụi": "IP57 (chống nước ngâm sâu và bụi mịn)",
+      "Màu sắc": "Đen (Titanium / Xám đen)"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Samsung"
+    },
+    {
+      "label": "Kiểu tai nghe",
+      "value": "In-ear thiết kế dạng thanh Blade thời thượng"
+    },
+    {
+      "label": "Kết nối",
+      "value": "Bluetooth 5.4, chuẩn âm thanh 24-bit Hi-Fi Ultra High Quality"
+    },
+    {
+      "label": "Cổng sạc",
+      "value": "USB-C & Sạc không dây Qi"
+    },
+    {
+      "label": "Chống ồn chủ động (ANC)",
+      "value": "Có (Chống ồn thích ứng Adaptive ANC & Chế độ còi báo Siren Detect)"
+    },
+    {
+      "label": "Microphone",
+      "value": "Có (Hệ thống micro đa hướng tích hợp Galaxy AI phiên dịch trực tiếp)"
+    },
+    {
+      "label": "Thời lượng pin",
+      "value": "Lên đến 7 giờ (30 giờ kèm dock sạc)"
+    },
+    {
+      "label": "Kháng nước, bụi",
+      "value": "IP57 (chống nước ngâm sâu và bụi mịn)"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Đen (Titanium / Xám đen)"
+    }
+  ],
+  "verbatimDescription": [
+    "Siêu phẩm tai nghe True Wireless đầu bảng của Samsung với thiết kế thanh dẹt công nghệ hiện đại. Tích hợp sâu Galaxy AI hỗ trợ phiên dịch ngôn ngữ theo thời gian thực trực tiếp qua tai nghe, loa 2 chiều cùng bộ khuếch đại kép mang lại âm thanh chuẩn phòng thu 24-bit/96kHz."
+  ],
+  "variants": [
+    {
+      "sku": "PK-TN008-R640N-DEN-TIEU-CHUAN",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 4990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/anh-dai-dien-samsung-galaxy-buds4-pro-r640n-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/goc-nghieng-phai-hop-sac-mo-nap-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/goc-nghieng-trai-hop-sac-mo-nap-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/can-canh-cong-sac-type-c-hop-sac-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/can-canh-dem-tai-in-ear-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/can-canh-hai-tai-nghe-dat-tren-ban-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/canh-truoc-hop-sac-dong-nap-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/hai-tai-nghe-dat-canh-hop-sac-mo-nap-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/hop-sac-nap-trong-suot-dong-nap-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/hop-sac-tai-nghe-va-bo-dem-tai-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/ket-noi-dien-thoai-samsung-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/kich-thuoc-chi-tiet-tai-nghe-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/mat-day-hop-sac-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds4-pro-r640n/tai-nghe-trong-hop-sac-dat-canh-hop-den.webp"
+      ]
+    }
+  ]
+}

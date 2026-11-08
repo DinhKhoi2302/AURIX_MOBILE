@@ -1,0 +1,36 @@
+/* TechPhone — Toast Notification Stack */
+.tp-toast-container {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  z-index: var(--tp-z-toast);
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+  max-width: 360px;
+  width: calc(100% - 2rem);
+  pointer-events: none;
+}
+.tp-toast {
+  pointer-events: auto;
+  background: var(--tp-navy);
+  color: var(--tp-white);
+  padding: 0.85rem 1.1rem;
+  border-radius: var(--tp-radius-md);
+  box-shadow: var(--tp-shadow-md);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  font-size: 0.88rem;
+  font-weight: 500;
+  border-left: 4px solid var(--tp-primary);
+  animation: tpToastIn 0.25s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+.tp-toast.is-success { border-left-color: var(--tp-success); }
+.tp-toast.is-error { border-left-color: var(--tp-coral); }
+.tp-toast.is-warning { border-left-color: var(--tp-warning); }
+@keyframes tpToastIn {
+  from { opacity: 0; transform: translateY(14px) scale(0.96); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}

@@ -1,0 +1,137 @@
+{
+  "id": "ugreen-10000mah-magnetic-qi2-2-30w-pb773",
+  "docCode": "PK-PB008-PB773",
+  "model": "Pin Sạc Dự Phòng Không Dây Ugreen Magnetic Qi2 10.000mAh 30W PB773",
+  "brand": "Ugreen",
+  "brandId": "ugreen",
+  "parentGroupId": "ugreen",
+  "series": "Pin sạc dự phòng",
+  "subCategory": "pin-sac-du-phong",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "pin-sac-du-phong"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Pin sạc dự phòng",
+    "highlights": [
+      "30W",
+      "10.000 mAh"
+    ],
+    "description": "Ứng dụng chuẩn sạc không dây thế hệ mới Qi2 với lực hút từ tính siêu khỏe 13N, gắn chặt vào mặt lưng iPhone không lo trượt rơi. Thiết kế đệm silicon mềm êm ái bảo vệ mặt kính lưng điện thoại, hỗ trợ sạc nhanh có dây 30W qua cổng Type-C."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 890000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/pin-sac-du-phong/ugreen-10000mah-magnetic-qi2-2-30w-pb773/anh-dai-dien-ugreen-10000mah-magnetic-qi2-2-30w-pb773-trang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/pin-sac-du-phong/ugreen-10000mah-magnetic-qi2-2-30w-pb773/anh-dai-dien-ugreen-10000mah-magnetic-qi2-2-30w-pb773-trang.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/ugreen-10000mah-magnetic-qi2-2-30w-pb773/canh-ben-man-hinh-led-hien-thi-pin-trang.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/ugreen-10000mah-magnetic-qi2-2-30w-pb773/sac-cung-luc-khong-day-va-co-day-trang.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/ugreen-10000mah-magnetic-qi2-2-30w-pb773/sac-khong-day-magsafe-cho-dien-thoai-trang.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/ugreen-10000mah-magnetic-qi2-2-30w-pb773/sac-lai-cho-pin-du-phong-qua-cu-sac-trang.webp"
+    ],
+    "byColor": {
+      "Trắng": [
+        "assets/images/products/accessory/pin-sac-du-phong/ugreen-10000mah-magnetic-qi2-2-30w-pb773/anh-dai-dien-ugreen-10000mah-magnetic-qi2-2-30w-pb773-trang.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/ugreen-10000mah-magnetic-qi2-2-30w-pb773/canh-ben-man-hinh-led-hien-thi-pin-trang.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/ugreen-10000mah-magnetic-qi2-2-30w-pb773/sac-cung-luc-khong-day-va-co-day-trang.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/ugreen-10000mah-magnetic-qi2-2-30w-pb773/sac-khong-day-magsafe-cho-dien-thoai-trang.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/ugreen-10000mah-magnetic-qi2-2-30w-pb773/sac-lai-cho-pin-du-phong-qua-cu-sac-trang.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/pin-sac-du-phong/ugreen-10000mah-magnetic-qi2-2-30w-pb773/canh-ben-man-hinh-led-hien-thi-pin-trang.webp",
+      "screen": "assets/images/products/accessory/pin-sac-du-phong/ugreen-10000mah-magnetic-qi2-2-30w-pb773/sac-cung-luc-khong-day-va-co-day-trang.webp",
+      "performance": "assets/images/products/accessory/pin-sac-du-phong/ugreen-10000mah-magnetic-qi2-2-30w-pb773/sac-khong-day-magsafe-cho-dien-thoai-trang.webp",
+      "camera": "assets/images/products/accessory/pin-sac-du-phong/ugreen-10000mah-magnetic-qi2-2-30w-pb773/sac-lai-cho-pin-du-phong-qua-cu-sac-trang.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/pin-sac-du-phong/ugreen-10000mah-magnetic-qi2-2-30w-pb773/canh-ben-man-hinh-led-hien-thi-pin-trang.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/ugreen-10000mah-magnetic-qi2-2-30w-pb773/sac-cung-luc-khong-day-va-co-day-trang.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/ugreen-10000mah-magnetic-qi2-2-30w-pb773/sac-khong-day-magsafe-cho-dien-thoai-trang.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/ugreen-10000mah-magnetic-qi2-2-30w-pb773/sac-lai-cho-pin-du-phong-qua-cu-sac-trang.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Ugreen",
+      "Dung lượng pin": "10.000 mAh",
+      "Công suất đầu ra tối đa": "30W (Sạc dây 30W, Sạc không dây Qi2 15W)",
+      "Công suất đầu vào": "20W",
+      "Số lượng cổng kết nối": "1 cổng USB-C + 1 mặt sạc từ tính",
+      "Loại cổng kết nối": "USB-C",
+      "Sạc không dây": "Có (Chuẩn Qi2 hít từ tính 15W)",
+      "Công nghệ sạc": "Qi2 Certified 15W, PD 3.0 30W, PPS",
+      "Màu sắc": "Trắng"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Ugreen"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "10.000 mAh"
+    },
+    {
+      "label": "Công suất đầu ra tối đa",
+      "value": "30W (Sạc dây 30W, Sạc không dây Qi2 15W)"
+    },
+    {
+      "label": "Công suất đầu vào",
+      "value": "20W"
+    },
+    {
+      "label": "Số lượng cổng kết nối",
+      "value": "1 cổng USB-C + 1 mặt sạc từ tính"
+    },
+    {
+      "label": "Loại cổng kết nối",
+      "value": "USB-C"
+    },
+    {
+      "label": "Sạc không dây",
+      "value": "Có (Chuẩn Qi2 hít từ tính 15W)"
+    },
+    {
+      "label": "Công nghệ sạc",
+      "value": "Qi2 Certified 15W, PD 3.0 30W, PPS"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Trắng"
+    }
+  ],
+  "verbatimDescription": [
+    "Ứng dụng chuẩn sạc không dây thế hệ mới Qi2 với lực hút từ tính siêu khỏe 13N, gắn chặt vào mặt lưng iPhone không lo trượt rơi. Thiết kế đệm silicon mềm êm ái bảo vệ mặt kính lưng điện thoại, hỗ trợ sạc nhanh có dây 30W qua cổng Type-C."
+  ],
+  "variants": [
+    {
+      "sku": "PK-PB008-PB773-TRANG-TIEU-CHUAN",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 890000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/pin-sac-du-phong/ugreen-10000mah-magnetic-qi2-2-30w-pb773/anh-dai-dien-ugreen-10000mah-magnetic-qi2-2-30w-pb773-trang.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/ugreen-10000mah-magnetic-qi2-2-30w-pb773/canh-ben-man-hinh-led-hien-thi-pin-trang.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/ugreen-10000mah-magnetic-qi2-2-30w-pb773/sac-cung-luc-khong-day-va-co-day-trang.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/ugreen-10000mah-magnetic-qi2-2-30w-pb773/sac-khong-day-magsafe-cho-dien-thoai-trang.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/ugreen-10000mah-magnetic-qi2-2-30w-pb773/sac-lai-cho-pin-du-phong-qua-cu-sac-trang.webp"
+      ]
+    }
+  ]
+}

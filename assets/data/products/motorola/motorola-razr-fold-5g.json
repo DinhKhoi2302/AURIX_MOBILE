@@ -1,0 +1,325 @@
+{
+  "id": "motorola-razr-fold-5g",
+  "brand": "Motorola",
+  "brandId": "motorola",
+  "parentGroupId": "motorola",
+  "model": "Motorola Razr Fold 5G",
+  "series": "Motorola Razr",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "foldable",
+    "flagship",
+    "5g-ready"
+  ],
+  "status": "needs_verification",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.9,
+  "reviewCount": 19,
+  "badges": [
+    {
+      "text": "Bán chạy",
+      "type": "hot"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2026",
+    "segment": "Flagship Cao cấp",
+    "description": "Ra mắt giữa năm 2026, Motorola Razr Fold 5G là mẫu flagship màn hình gập ngang dạng quyển sổ (Book-style Foldable) đầu tiên mở rộng dòng Razr huyền thoại, sở hữu màn hình lớn 8,1 inch LTPO tương thích bút cảm ứng Moto Pen Ultra, màn hình ngoài 6,6 inch, vi xử lý 3nm Snapdragon đầu bảng và bộ 3 camera 50MP chuẩn màu Pantone. (Lưu ý: Model đang ở trạng thái chờ xác minh cấu hình mở bán tại Việt Nam; thông số được đối chiếu từ hồ sơ GSMArena tháng 6/2026).",
+    "highlights": [
+      "Màn gập 8,1\" + Ngoài 6,6\"",
+      "Snapdragon Flagship 3nm",
+      "3 Camera 50MP / Hỗ trợ Moto Pen Ultra"
+    ],
+    "officialDistribution": "Model được bảo lưu từ danh sách trước nhưng chưa đủ bằng chứng đang mở bán chính thức trong lượt đối chiếu ngày 01/11/2026; giữ trạng thái needs_verification để không mất dấu dữ liệu."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": null,
+    "originalPrice": null,
+    "promotionPrice": null,
+    "priceUpdatedAt": "2026-11-01",
+    "priceVerified": false
+  },
+  "variants": [
+    {
+      "sku": "AUR-MOT-RAZR-FOLD-5G-RAM-STD-01",
+      "color": "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)",
+      "colorHex": "#102347",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "price": null,
+      "originalPrice": null,
+      "stockStatus": "needs_verification",
+      "images": [
+        "assets/images/placeholders/placeholder-default.svg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "Foldable LTPO OLED 165Hz (Trong) + LTPO P-OLED 165Hz (Ngoài)",
+    "size": "Chính 8,1 inch / Ngoài 6,6 inch",
+    "resolution": "Trong 2480 x 2200 / Ngoài 2520 x 1080 pixel",
+    "refreshRate": "1–165Hz LTPO thích ứng",
+    "brightness": "Chuẩn màu Pantone Validated, Dolby Vision, HDR10+, độ sáng đỉnh 4.000 nit, hỗ trợ viết vẽ bằng bút Moto Pen Ultra",
+    "hdr": "HDR10+ / HLG",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 8 Elite Gen 5 / Snapdragon 8 Gen 5 (3nm)",
+    "cpu": "CPU 8 nhân kiến trúc Oryon hiệu năng cao xung nhịp lên đến 4,32 GHz",
+    "gpu": "Qualcomm Adreno 840 hỗ trợ Hardware Ray Tracing",
+    "ram": [
+      "12GB"
+    ],
+    "storage": [
+      "512GB"
+    ],
+    "operatingSystem": "Android 16 (Giao diện Hello UI tối ưu màn hình lớn)",
+    "uiVersion": "Android",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "3 camera 50MP: Chính OIS + Tele tiềm vọng 3x OIS + Góc siêu rộng & Macro",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "Quay video 8K ở 30fps, 4K ở 30/60/120fps Dolby Vision HDR"
+    ],
+    "aiFeatures": [
+      "Chứng nhận màu sắc Pantone Validated, chụp ảnh xem trước trên cả 2 màn hình, Moto AI Studio"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "32MP (màn ngoài) + 32MP (màn trong), quay 4K",
+    "features": [
+      "Hệ thống 2 camera Selfie 32MP trên cả màn hình ngoài và màn hình trong, hỗ trợ quay video 4K@30/60fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "5.600 mAh (Pin kép Silicon-Carbon)",
+    "wiredCharging": "Sạc nhanh có dây 68W TurboPower, sạc không dây 30W",
+    "wirelessCharging": "Có hỗ trợ sạc không dây",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc nhanh có dây 68W TurboPower | Sạc nhanh không dây 30W"
+  },
+  "connectivity": {
+    "sim": [
+      "SIM kép (Nano-SIM + eSIM)"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 7 (802.11be) ba băng tần",
+    "bluetooth": "Bluetooth 5.4 / 6.0 hỗ trợ aptX Lossless, LDAC",
+    "gps": [
+      "GPS tần số kép L1+L5, GLONASS, GALILEO, BDS"
+    ],
+    "usb": "USB Type-C chuẩn USB 3.2 hỗ trợ DisplayPort",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "Khi mở: mỏng 4,8 mm | Khi gập: 10,2 mm",
+    "weight": "229 gram",
+    "materials": [
+      "Khung hợp kim nhôm hàng không kết hợp bản lề Titanium",
+      "Mặt lưng da thuần chay Pantone cao cấp"
+    ],
+    "waterResistance": "IPX8 kháng nước sâu 1,5m",
+    "availableColors": [
+      "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)"
+    ]
+  },
+  "audio": {
+    "speakers": "Hệ thống loa Stereo chuẩn Dolby Atmos & Spatial Audio",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Motorola Razr",
+    "Motorola",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Motorola tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/placeholders/placeholder-default.svg",
+    "hasAvatarNamed": false,
+    "gallery": [
+      "assets/images/placeholders/placeholder-default.svg"
+    ],
+    "byColor": {},
+    "bySection": {
+      "performance": "assets/images/placeholders/placeholder-default.svg"
+    }
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-motorola",
+      "https://www.motorola.com/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "needs_verification",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Model bổ sung xuất hiện trong kết quả tra cứu mới — Cần xác minh thêm",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "verbatimDescription": [
+    "Ra mắt giữa năm 2026, Motorola Razr Fold 5G là mẫu flagship màn hình gập ngang dạng quyển sổ (Book-style Foldable) đầu tiên mở rộng dòng Razr huyền thoại, sở hữu màn hình lớn 8,1 inch LTPO tương thích bút cảm ứng Moto Pen Ultra, màn hình ngoài 6,6 inch, vi xử lý 3nm Snapdragon đầu bảng và bộ 3 camera 50MP chuẩn màu Pantone. Tại AURIX MOBILE, hồ sơ sản phẩm được cập nhật từ nguồn công bố quốc tế.",
+    "Motorola Razr Fold 5G gây ấn tượng với thân máy siêu mỏng kết hợp mặt lưng da thuần chay Pantone và bản lề gia cố Titanium đạt chuẩn kháng nước IPX8.",
+    "Không gian làm việc mở rộng lên tới 8,1 inch khi mở ra và 6,6 inch khi gập lại, hỗ trợ tần số quét cao và tương thích bút cảm ứng Moto Pen Ultra phục vụ ghi chú, phác thảo chuyên nghiệp.",
+    "Hệ thống 3 camera 50MP phía sau bao gồm camera chính 50MP OIS, camera Telephoto 50MP zoom quang 3x OIS và camera góc siêu rộng 50MP Macro Vision, mang lại chất lượng ảnh xứng tầm flagship.",
+    "Máy vận hành trên vi xử lý 3nm Qualcomm Snapdragon đầu bảng đi kèm RAM LPDDR5X, bộ nhớ UFS 4.1 và giao diện Hello UI tích hợp Smart Connect và Moto AI.",
+    "Viên pin kép Silicon-Carbon 5.600 mAh kết hợp sạc nhanh 68W TurboPower và sạc không dây 30W đảm bảo năng lượng bền bỉ suốt ngày làm việc."
+  ],
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "Chính 8,1 inch / Ngoài 6,6 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "Foldable LTPO OLED 165Hz (Trong) + LTPO P-OLED 165Hz (Ngoài)"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "Trong 2480 x 2200 / Ngoài 2520 x 1080 pixel"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "1–165Hz LTPO thích ứng"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 8 Elite Gen 5 / Snapdragon 8 Gen 5 (3nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB / 16GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "512GB / 1TB chuẩn UFS 4.1"
+    },
+    {
+      "label": "Camera sau",
+      "value": "3 camera 50MP: Chính OIS + Tele tiềm vọng 3x OIS + Góc siêu rộng & Macro"
+    },
+    {
+      "label": "Camera trước",
+      "value": "32MP (màn ngoài) + 32MP (màn trong), quay 4K"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.600 mAh (Pin kép Silicon-Carbon)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh có dây 68W TurboPower, sạc không dây 30W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 16 (Giao diện Hello UI tối ưu màn hình lớn)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IPX8 kháng nước sâu 1,5m"
+    }
+  ],
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "Foldable LTPO OLED 165Hz (Trong) + LTPO P-OLED 165Hz (Ngoài)",
+      "Kích thước màn hình": "Chính 8,1 inch / Ngoài 6,6 inch",
+      "Độ phân giải màn hình": "Trong 2480 x 2200 / Ngoài 2520 x 1080 pixel",
+      "Tần số quét": "1–165Hz LTPO thích ứng",
+      "Kiểu màn hình": "Màn hình gập ngang dạng quyển sổ (Book-style Foldable), hỗ trợ bút cảm ứng Moto Pen Ultra",
+      "Tính năng màn hình": "Chuẩn màu Pantone Validated, Dolby Vision, HDR10+, độ sáng đỉnh 4.000 nit, hỗ trợ viết vẽ bằng bút Moto Pen Ultra"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera 50MP chuẩn màu Pantone: (1) Camera chính 50MP: cảm biến Sony LYTIA lớn, khẩu độ ƒ/1.6, chống rung quang học OIS; (2) Camera Telephoto 50MP: zoom quang học 3x, chống rung OIS; (3) Camera Góc siêu rộng 50MP: góc nhìn 122°, tích hợp lấy nét AF chụp Macro Vision",
+      "Quay video": "Quay video 8K ở 30fps, 4K ở 30/60/120fps Dolby Vision HDR",
+      "Tính năng camera": "Chứng nhận màu sắc Pantone Validated, chụp ảnh xem trước trên cả 2 màn hình, Moto AI Studio"
+    },
+    "Camera trước": {
+      "Camera trước": "Hệ thống 2 camera Selfie 32MP trên cả màn hình ngoài và màn hình trong, hỗ trợ quay video 4K@30/60fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 8 Elite Gen 5 / Snapdragon 8 Gen 5 (3nm)",
+      "Loại CPU": "CPU 8 nhân kiến trúc Oryon hiệu năng cao xung nhịp lên đến 4,32 GHz",
+      "GPU": "Qualcomm Adreno 840 hỗ trợ Hardware Ray Tracing"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "12GB / 16GB LPDDR5X",
+      "Bộ nhớ trong": "512GB / 1TB chuẩn UFS 4.1"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.600 mAh (Pin kép Silicon-Carbon siêu mỏng mật độ cao)",
+      "Công nghệ sạc": "Sạc nhanh có dây 68W TurboPower | Sạc nhanh không dây 30W",
+      "Cổng sạc": "USB Type-C chuẩn USB 3.2 hỗ trợ DisplayPort"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 16 (Giao diện Hello UI tối ưu màn hình lớn)",
+      "Công nghệ - Tiện ích": "Hệ sinh thái Moto AI, Smart Connect biến điện thoại thành máy trạm Desktop, tương thích bút Moto Pen Ultra",
+      "Tiện ích khác": "Bản lề Titanium siêu bền, hệ thống loa kép Dolby Atmos",
+      "Thời điểm ra mắt": "Tháng 05 – 06/2026 (Đối chiếu thông tin GSMArena)"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G",
+      "Thẻ SIM": "SIM kép (Nano-SIM + eSIM)",
+      "Wi-Fi": "Wi-Fi 7 (802.11be) ba băng tần",
+      "Bluetooth": "Bluetooth 5.4 / 6.0 hỗ trợ aptX Lossless, LDAC",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa năng",
+      "GPS": "GPS tần số kép L1+L5, GLONASS, GALILEO, BDS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung hợp kim nhôm hàng không kết hợp bản lề Titanium",
+      "Chất liệu mặt lưng": "Mặt lưng da thuần chay Pantone cao cấp",
+      "Kích thước": "Khi mở: mỏng 4,8 mm | Khi gập: 10,2 mm",
+      "Trọng lượng": "229 gram",
+      "Chỉ số kháng nước, bụi": "Đạt chuẩn kháng nước IPX8 (ngâm nước độ sâu 1,5 mét trong 30 phút)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa Stereo chuẩn Dolby Atmos & Spatial Audio",
+      "Cảm biến vân tay": "Cảm biến vân tay cạnh bên + Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển kép, Cảm biến Hall, Tiệm cận, Ánh sáng, Áp kế, La bàn số"
+    }
+  }
+}

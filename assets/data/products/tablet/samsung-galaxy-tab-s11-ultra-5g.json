@@ -1,0 +1,269 @@
+{
+  "id": "samsung-galaxy-tab-s11-ultra-5g",
+  "docCode": "TB-SS010-S11U-5G",
+  "model": "Samsung Galaxy Tab S11 Ultra 5G (Siêu Phẩm 14.6 inch)",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "series": "Galaxy Tab S11 / S12 Series",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "14.6 inch",
+      "Dimensity 9400+",
+      "Pin 11.600 mAh"
+    ],
+    "description": "Samsung Galaxy Tab S11 Ultra 5G là đỉnh cao công nghệ máy tính bảng đương đại với màn hình ngoại cỡ 14.6 inch lớn nhất thế giới Android. Sở hữu tấm nền Dynamic AMOLED 2X tuyệt mỹ cùng lớp phủ chống chói quang học Anti-Reflective, thiết bị mang lại không gian thị giác bao la, độ tương phản vô cực và khả năng hiển thị sắc nét như một màn hình máy trạm đồ họa chuyên nghiệp.",
+    "releaseDate": "2024 / 2025"
+  },
+  "performance": {
+    "chipset": "MediaTek Dimensity 9400+ (tiến trình 3nm tiên tiến nhất)",
+    "ram": [
+      "12GB",
+      "16GB"
+    ],
+    "storage": [
+      "1TB",
+      "256GB",
+      "512GB"
+    ],
+    "operatingSystem": "Android 15 (One UI 7.0)"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 32990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/anh-dai-dien-samsung-galaxy-tab-s11-ultra-5g-xam.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/anh-dai-dien-samsung-galaxy-tab-s11-ultra-5g-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/mat-truoc-sau-kem-but-s-pen-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/mat-truoc-nam-ngang-nghieng-phai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/mat-truoc-nam-ngang-nghieng-trai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/canh-ben-phai-nut-bam-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/canh-ben-trai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/but-cam-ung-s-pen-xam-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/thiet-ke-sieu-mong-5-1mm-ip68-xam-xanh.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/thong-so-chip-mediatek-dimensity-9400-plus-xanh-den.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/thong-so-man-hinh-dynamic-amoled-2x-14-6-inch-xam-cam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/tong-quan-tinh-nang-pin-11600mah-dimensity-9400-plus-xam-xanh.webp"
+    ],
+    "byColor": {
+      "Xám": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/anh-dai-dien-samsung-galaxy-tab-s11-ultra-5g-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/mat-truoc-sau-kem-but-s-pen-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/mat-truoc-nam-ngang-nghieng-phai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/mat-truoc-nam-ngang-nghieng-trai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/canh-ben-phai-nut-bam-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/canh-ben-trai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/but-cam-ung-s-pen-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/thiet-ke-sieu-mong-5-1mm-ip68-xam-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/thong-so-chip-mediatek-dimensity-9400-plus-xanh-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/thong-so-man-hinh-dynamic-amoled-2x-14-6-inch-xam-cam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/tong-quan-tinh-nang-pin-11600mah-dimensity-9400-plus-xam-xanh.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/mat-truoc-sau-kem-but-s-pen-xam.webp",
+      "screen": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/mat-truoc-nam-ngang-nghieng-phai-xam.webp",
+      "performance": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/mat-truoc-nam-ngang-nghieng-trai-xam.webp",
+      "camera": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/canh-ben-phai-nut-bam-xam.webp",
+      "battery": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/tong-quan-tinh-nang-pin-11600mah-dimensity-9400-plus-xam-xanh.webp",
+      "feature": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/canh-ben-trai-xam.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/mat-truoc-sau-kem-but-s-pen-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/mat-truoc-nam-ngang-nghieng-phai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/mat-truoc-nam-ngang-nghieng-trai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/canh-ben-phai-nut-bam-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/canh-ben-trai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/but-cam-ung-s-pen-xam-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/thiet-ke-sieu-mong-5-1mm-ip68-xam-xanh.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/thong-so-chip-mediatek-dimensity-9400-plus-xanh-den.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/thong-so-man-hinh-dynamic-amoled-2x-14-6-inch-xam-cam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/tong-quan-tinh-nang-pin-11600mah-dimensity-9400-plus-xam-xanh.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "14,6 inch Dynamic AMOLED 2X khổng lồ (2960 x 1848 pixel, mật độ điểm ảnh 239 ppi), tần số quét thích ứng 120Hz, HDR10+, độ sáng đỉnh 950 nit, lớp phủ chống phản xạ Anti-Reflective",
+      "Tính năng màn hình": "Màn hình chống chói Anti-Reflective giảm phản xạ ánh sáng dưới 2%, công nghệ Vision Booster và không gian đa nhiệm chia 4 cửa sổ ứng dụng độc lập"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "MediaTek Dimensity 9400+ 3nm với NPU AI xử lý các tác vụ phức tạp nhất",
+      "CPU & Đồ họa": "Octa-core 3.63 GHz, GPU Immortalis hỗ trợ Ray Tracing",
+      "Hệ điều hành khi ra mắt": "Android 15 One UI 7.0 tối ưu hóa hoàn hảo cho màn hình máy trạm khổng lồ"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "12GB / 16GB LPDDR5X",
+      "Bộ nhớ trong": "256GB / 512GB / 1TB chuẩn UFS 4.0, hỗ trợ khe thẻ MicroSD rời"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "Cụm camera kép 13MP (chính) + 8MP (góc siêu rộng), quay video 4K 60fps",
+      "Camera trước": "Cụm camera kép trước 12MP (góc rộng) + 12MP (siêu rộng) hỗ trợ hội nghị cao cấp",
+      "Chi tiết hệ thống Camera": "Camera sau kép 13MP + 8MP; Camera trước kép 12MP Wide + 12MP Ultra Wide hỗ trợ 4K"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "11.600 mAh dung lượng cực khủng, công nghệ sạc siêu nhanh 45W",
+      "Pin và công nghệ sạc": "Pin Lithium-Polymer 11.600 mAh cực khủng, sạc nhanh 45W qua Type-C"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Bút S Pen chống nước IP68 độ trễ 2.8ms đi kèm sẵn trong hộp",
+      "Hỗ trợ bàn phím rời": "Hỗ trợ Book Cover Keyboard kích thước đầy đủ có trackpad phủ kính",
+      "Công nghệ âm thanh": "Dàn 4 loa stereo AKG công suất lớn chuẩn Dolby Atmos",
+      "Thuộc tính đặc biệt": "Màn hình cực đại 14.6 inch, chip 3nm Dimensity 9400+, 4 camera, Galaxy AI, IP68"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Mạng di động 5G siêu tốc, Wi-Fi 7",
+      "Thẻ SIM": "1 Nano-SIM + eSIM (Hỗ trợ 5G)",
+      "Kết nối không dây & Cổng giao tiếp": "5G di động, 1 Nano-SIM, eSIM, Wi-Fi 7, Bluetooth 5.4, USB-C 3.2 Gen 1 (DP Out)",
+      "Công nghệ - Tiện ích": "Galaxy AI toàn diện, Samsung DeX đa màn hình, chia 4 cửa sổ ứng dụng cùng lúc"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Độ mỏng kinh ngạc chỉ 5.4 mm, kích thước 326.4 x 208.6 x 5.4 mm, trọng lượng khoảng 730 g",
+      "Bảo mật và độ bền": "Cảm biến vân tay quang học dưới màn hình, chuẩn chống nước bụi IP68",
+      "Thời điểm ra mắt": "Năm 2024 / 2025"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "14.6 inch Dynamic AMOLED 2X khổng lồ, độ phân giải 2960 x 1848 pixels (WQXGA+)"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Lớp phủ chống chói Anti-Reflective, tần số quét 120Hz thích ứng, HDR10+, độ sáng đỉnh 950 nits"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 9400+ (tiến trình 3nm tiên tiến nhất)"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB / 16GB RAM LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB / 512GB / 1TB UFS 4.0 (Hỗ trợ thẻ nhớ MicroSD tối đa 1.5TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "Cụm camera kép 13MP (chính) + 8MP (góc siêu rộng), quay video 4K 60fps"
+    },
+    {
+      "label": "Camera trước",
+      "value": "Cụm camera kép trước 12MP (góc rộng) + 12MP (siêu rộng) hỗ trợ hội nghị cao cấp"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Pin Lithium-Polymer 11.600 mAh cực khủng, sạc nhanh 45W qua Type-C"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Mạng di động 5G siêu tốc, Wi-Fi 7"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Bút S Pen chống nước IP68 độ trễ 2.8ms đi kèm sẵn trong hộp"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Hỗ trợ Book Cover Keyboard kích thước đầy đủ có trackpad phủ kính"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 15 (One UI 7.0)"
+    }
+  ],
+  "verbatimDescription": [
+    "Samsung Galaxy Tab S11 Ultra 5G là đỉnh cao công nghệ máy tính bảng đương đại với màn hình ngoại cỡ 14.6 inch lớn nhất thế giới Android. Sở hữu tấm nền Dynamic AMOLED 2X tuyệt mỹ cùng lớp phủ chống chói quang học Anti-Reflective, thiết bị mang lại không gian thị giác bao la, độ tương phản vô cực và khả năng hiển thị sắc nét như một màn hình máy trạm đồ họa chuyên nghiệp.",
+    "Ẩn chứa bên trong thân máy siêu mỏng chỉ 5.4 mm là con chip 3nm Dimensity 9400+ cực mạnh cùng bộ nhớ RAM lên đến 16GB. Khả năng tính toán AI vượt trội giúp mọi tính năng của hệ sinh thái Galaxy AI – từ dịch thuật cuộc gọi trực tiếp, tóm tắt ghi chú đến chỉnh sửa ảnh đồ họa – diễn ra trong chớp mắt.",
+    "Cụm camera kép cả mặt trước và mặt sau cùng hệ thống 3 micro định hướng studio mang lại chất lượng đàm thoại và ghi hình hội nghị trực tuyến chuẩn 4K đỉnh cao. Kết hợp cùng viên pin khổng lồ 11.600 mAh, sạc nhanh 45W và bút S Pen thần thánh, đây chính là cỗ máy thay thế hoàn hảo cho máy tính xách tay cao cấp.",
+    "Không gian màn hình khổng lồ 14,6 inch Dynamic AMOLED 2X kết hợp lớp phủ chống chói Anti-Reflective biến Samsung Galaxy Tab S11 Ultra 5G thành một bàn vẽ kỹ thuật số và trạm dựng phim di động không đối thủ. Khi gắn vào bao da bàn phím Book Cover Keyboard có bàn di chuột phủ kính và phím tắt Galaxy AI riêng biệt, thiết bị vận hành trong chế độ Samsung DeX y hệt một chiếc laptop 14,6 inch cao cấp.",
+    "Bút S Pen đi kèm sở hữu độ trễ siêu thấp 2,8ms và tích hợp thuật toán dự đoán nét vẽ bằng AI, kết hợp cùng các ứng dụng sáng tạo chuyên nghiệp như Goodnotes, LumaFusion, Clip Studio Paint và bộ công cụ Galaxy AI (Note Assist, Drawing Assist, PDF Overlay Translation).",
+    "Viên pin dung lượng cực đại 11.600 mAh hỗ trợ sạc siêu nhanh 45W cùng kết nối 5G, Wi-Fi 7 và chuẩn kháng nước bụi IP68 trên khung vỏ Armor Aluminum mỏng chỉ 5,4mm khẳng định vị thế đỉnh cao của dòng Galaxy Tab Ultra."
+  ],
+  "variants": [
+    {
+      "sku": "TB-SS010-S11U-5G-XAM-12GB-256GB-5G",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "12GB",
+      "storage": "12GB/256GB (5G)",
+      "rom": "256GB",
+      "price": 32990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/anh-dai-dien-samsung-galaxy-tab-s11-ultra-5g-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/mat-truoc-sau-kem-but-s-pen-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/mat-truoc-nam-ngang-nghieng-phai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/mat-truoc-nam-ngang-nghieng-trai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/canh-ben-phai-nut-bam-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/canh-ben-trai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/but-cam-ung-s-pen-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/thiet-ke-sieu-mong-5-1mm-ip68-xam-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/thong-so-chip-mediatek-dimensity-9400-plus-xanh-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/thong-so-man-hinh-dynamic-amoled-2x-14-6-inch-xam-cam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/tong-quan-tinh-nang-pin-11600mah-dimensity-9400-plus-xam-xanh.webp"
+      ]
+    },
+    {
+      "sku": "TB-SS010-S11U-5G-XAM-12GB-512GB-5G",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "12GB",
+      "storage": "12GB/512GB (5G)",
+      "rom": "512GB",
+      "price": 36990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/anh-dai-dien-samsung-galaxy-tab-s11-ultra-5g-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/mat-truoc-sau-kem-but-s-pen-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/mat-truoc-nam-ngang-nghieng-phai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/mat-truoc-nam-ngang-nghieng-trai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/canh-ben-phai-nut-bam-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/canh-ben-trai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/but-cam-ung-s-pen-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/thiet-ke-sieu-mong-5-1mm-ip68-xam-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/thong-so-chip-mediatek-dimensity-9400-plus-xanh-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/thong-so-man-hinh-dynamic-amoled-2x-14-6-inch-xam-cam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/tong-quan-tinh-nang-pin-11600mah-dimensity-9400-plus-xam-xanh.webp"
+      ]
+    },
+    {
+      "sku": "TB-SS010-S11U-5G-XAM-16GB-1TB-5G",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "16GB",
+      "storage": "16GB/1TB (5G)",
+      "rom": "1TB",
+      "price": 42990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/anh-dai-dien-samsung-galaxy-tab-s11-ultra-5g-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/mat-truoc-sau-kem-but-s-pen-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/mat-truoc-nam-ngang-nghieng-phai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/mat-truoc-nam-ngang-nghieng-trai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/canh-ben-phai-nut-bam-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/canh-ben-trai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/but-cam-ung-s-pen-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/thiet-ke-sieu-mong-5-1mm-ip68-xam-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/thong-so-chip-mediatek-dimensity-9400-plus-xanh-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/thong-so-man-hinh-dynamic-amoled-2x-14-6-inch-xam-cam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-ultra-5g/tong-quan-tinh-nang-pin-11600mah-dimensity-9400-plus-xam-xanh.webp"
+      ]
+    }
+  ]
+}

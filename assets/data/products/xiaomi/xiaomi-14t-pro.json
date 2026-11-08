@@ -1,0 +1,340 @@
+{
+  "id": "xiaomi-14t-pro",
+  "brand": "Xiaomi",
+  "brandId": "xiaomi",
+  "parentGroupId": "xiaomi_group",
+  "model": "Xiaomi 14T Pro",
+  "series": "Xiaomi T Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "upper-midrange"
+  ],
+  "status": "needs_verification",
+  "featuredOrder": 3,
+  "bestseller": true,
+  "rating": 4.8,
+  "reviewCount": 56,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2024",
+    "segment": "Cận cao cấp",
+    "description": "Ra mắt tháng 9/2024, Xiaomi 14T Pro được mệnh danh là 'Bậc thầy ánh sáng' trong phân khúc cận cao cấp khi sở hữu ống kính Leica Summilux kết hợp cảm biến lớn Light Fusion 900 (1/1.31 inch), màn hình 1.5K 144Hz độ sáng 4.000 nit, vi xử lý flagship MediaTek Dimensity 9300+ cùng bộ đôi sạc siêu nhanh có dây 120W (đầy pin trong 19 phút) và sạc không dây 50W. Tại AURIX MOBILE, Xiaomi 14T Pro là lựa chọn hàng đầu cho khách hàng muốn trải nghiệm chất ảnh Leica và hiệu năng đầu bảng với mức chi phí hợp lý. (Nguồn tham chiếu chính thức: Xiaomi Global & GSMArena - Xiaomi 14T Pro).",
+    "highlights": [
+      "6,67 inch 1.5K 144Hz",
+      "Dimensity 9300+",
+      "Camera Leica Light Fusion 900 / Sạc 120W"
+    ],
+    "officialDistribution": "Model được bảo lưu từ danh sách trước nhưng chưa đủ bằng chứng đang mở bán chính thức trong lượt đối chiếu ngày 01/11/2026; giữ trạng thái needs_verification để không mất dấu dữ liệu."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": null,
+    "originalPrice": 19990000,
+    "promotionPrice": 18990000,
+    "priceUpdatedAt": "2026-11-01",
+    "priceVerified": false
+  },
+  "variants": [
+    {
+      "sku": "AUR-XIA-XIAOMI-14T-PRO-12GB-512GB-01",
+      "color": "Xám Titan",
+      "colorHex": "#4B5563",
+      "ram": "12GB",
+      "storage": "512GB",
+      "price": null,
+      "originalPrice": 19990000,
+      "stockStatus": "needs_verification",
+      "images": [
+        "assets/images/placeholders/placeholder-default.svg"
+      ]
+    },
+    {
+      "sku": "AUR-XIA-XIAOMI-14T-PRO-12GB-256GB-02",
+      "color": "Đen Titan",
+      "colorHex": "#18181B",
+      "ram": "12GB",
+      "storage": "256GB",
+      "price": null,
+      "originalPrice": 17990000,
+      "stockStatus": "needs_verification",
+      "images": [
+        "assets/images/placeholders/placeholder-default.svg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "CrystalRes AMOLED (68 tỷ màu), 144Hz, 4.000 nit",
+    "size": "6,67 inch",
+    "resolution": "2712 x 1220 pixel (1.5K, 446 ppi)",
+    "refreshRate": "144Hz",
+    "brightness": "Dolby Vision, HDR10+; Độ sáng HBM 1.600 nit / đỉnh cục bộ 4.000 nit; Làm mờ PWM tần số cực cao 3840Hz chống mỏi mắt, chứng nhận TÜV Rheinland",
+    "hdr": "HDR10+ / HLG",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "MediaTek Dimensity 9300+ (tiến trình 4nm thế hệ thứ 3 TSMC) tích hợp MediaTek NPU 790 xử lý AI tạo sinh",
+    "cpu": "CPU 8 nhân kiến trúc All-Big-Core: 1 nhân Cortex-X4 (3,4 GHz) + 3 nhân Cortex-X4 (2,85 GHz) + 4 nhân Cortex-A720 (2,0 GHz)",
+    "gpu": "ARM Immortalis-G720 MC12 (12 nhân đồ họa) hỗ trợ Hardware Ray Tracing, đi kèm hệ thống tản nhiệt 3D IceLoop diện tích 5.000 mm²",
+    "ram": [
+      "12GB"
+    ],
+    "storage": [
+      "512GB",
+      "256GB"
+    ],
+    "operatingSystem": "Xiaomi HyperOS phát triển trên Android 14 (hỗ trợ nâng cấp lên HyperOS 2 / HyperOS 3)",
+    "uiVersion": "Xiaomi HyperOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "3 camera Leica: 50MP Chính Light Fusion 900 OIS + 50MP Tele 60mm (2.6x) + 12MP Siêu rộng",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "Quay video 8K ở 24/30fps; Quay 4K ở 24/30/60fps (hỗ trợ 10-bit Rec.2020 và HDR10+); Quay 10-bit Log chuyên nghiệp hỗ trợ nhập LUT; Chế độ điện ảnh Movie Mode (tỷ lệ 2.39:1, xóa phông tự động), MasterCinema và Director Mode"
+    ],
+    "aiFeatures": [
+      "2 phong cách ảnh Leica (Authentic Look & Vibrant Look); Hệ thống Leica Master Lens System (35mm, 50mm, 75mm, 90mm); Nền tảng nhiếp ảnh điện toán Xiaomi AISP (FusionLM, ToneLM, ColorLM, PortraitLM)"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "32MP (ƒ/2.0, 25mm), quay 4K 30fps",
+    "features": [
+      "Camera Selfie 32MP (khẩu độ ƒ/2.0, tiêu cự 25mm góc rộng 80,8°); Hỗ trợ chế độ ban đêm Night Mode, HDR, chụp chân dung xóa phông và quay video 4K ở 30fps, 1080p ở 30/60fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "5.000 mAh",
+    "wiredCharging": "Sạc siêu nhanh có dây 120W HyperCharge, sạc không dây 50W",
+    "wirelessCharging": "Có hỗ trợ sạc không dây",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc siêu nhanh có dây 120W HyperCharge (đầy 100% chỉ trong 19 phút) | Sạc nhanh không dây 50W Wireless HyperCharge"
+  },
+  "connectivity": {
+    "sim": [
+      "SIM kép (Nano-SIM + Nano-SIM hoặc Nano-SIM + eSIM hoặc 2 eSIM)"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 7 (802.11be) ba băng tần hỗ trợ Multi-Link Operation (MLO), 2x2 MIMO",
+    "bluetooth": "Bluetooth 5.4 Dual-Bluetooth hỗ trợ AAC, LDAC, LHDC 4.0, ASHA",
+    "gps": [
+      "Định vị vệ tinh đa băng tần: GPS (L1+L5), Galileo (E1+E5a), GLONASS (G1), BeiDou, NavIC"
+    ],
+    "usb": "USB Type-C 2.0 hỗ trợ sạc siêu nhanh và kết nối OTG",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "160,4 x 75,1 x 8,39 mm",
+    "weight": "209 gram",
+    "materials": [
+      "Khung hợp kim nhôm 6M13 độ bền cao (cứng hơn 116% so với thế hệ trước)",
+      "Mặt lưng kính nhám mờ bo cong 3D bốn cạnh êm tay"
+    ],
+    "waterResistance": "IP68 (Chống nước sâu 2m trong 30 phút)",
+    "availableColors": [
+      "Xám Titan",
+      "Đen Titan"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo chuẩn Dolby Atmos, chứng nhận Hi-Res Audio & Hi-Res Wireless",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "MediaTek Dimensity 9300+ (4nm)",
+    "CrystalRes AMOLED 6.67 inch",
+    "Camera 50MP",
+    "Pin 5000 mAh"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Xiaomi tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/placeholders/placeholder-default.svg",
+    "hasAvatarNamed": false,
+    "gallery": [
+      "assets/images/placeholders/placeholder-default.svg"
+    ],
+    "byColor": {},
+    "bySection": {
+      "performance": "assets/images/placeholders/placeholder-default.svg"
+    }
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-xiaomi",
+      "https://www.thegioididong.com/dtdd-xiaomi-mi",
+      "https://www.mi.com/vn/phone/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "needs_verification",
+    "verificationLevel": "verified",
+    "notes": [
+      "Cần xác minh thêm",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "verbatimDescription": [
+    "Ra mắt tháng 9/2024, Xiaomi 14T Pro được mệnh danh là 'Bậc thầy ánh sáng' trong phân khúc cận cao cấp khi sở hữu ống kính Leica Summilux kết hợp cảm biến lớn Light Fusion 900 (1/1.31 inch), màn hình 1.5K 144Hz độ sáng 4.000 nit, vi xử lý flagship MediaTek Dimensity 9300+ cùng bộ đôi sạc siêu nhanh có dây 120W (đầy pin trong 19 phút) và sạc không dây 50W. Tại AURIX MOBILE, Xiaomi 14T Pro là lựa chọn hàng đầu cho khách hàng muốn trải nghiệm chất ảnh Leica và hiệu năng đầu bảng với mức chi phí hợp lý.",
+    "Xiaomi 14T Pro đánh dấu sự lột xác về thiết kế của dòng T-Series với khung hợp kim nhôm 6M13 siêu cứng cáp kết hợp mặt lưng kính nhám mờ bo cong 3D ở 4 cạnh, mang lại cảm giác cầm nắm chắc chắn và sang trọng trên các tông màu Titan (Đen Titan, Xám Titan, Xanh Titan). Máy đạt chuẩn kháng bụi và kháng nước IP68 ở độ sâu lên tới 2 mét trong 30 phút.",
+    "Màn hình phẳng 6,67 inch CrystalRes AI AMOLED của máy có độ phân giải 1.5K (2712 x 1220 pixel, 446 ppi), tần số quét siêu mượt 144Hz và độ sáng đỉnh 4.000 nit. Đặc biệt, công nghệ làm mờ PWM tần số cực cao 3840Hz kết hợp hiển thị 68 tỷ màu chuẩn Dolby Vision, HDR10+ giúp bảo vệ mắt tối đa khi đọc báo và xem phim ban đêm.",
+    "Hệ thống 3 camera Leica VARIO-SUMMILUX trên Xiaomi 14T Pro bao phủ 5 tiêu cự từ 15mm đến 120mm. Camera chính 50MP trang bị cảm biến Light Fusion 900 (1/1.31\", ƒ/1.6, OIS) — tương đương cảm biến trên dòng Xiaomi 15 flagship — thu sáng vượt trội trong bối cảnh thiếu sáng. Đi kèm là ống kính Telephoto 50MP tiêu cự 60mm (ƒ/2.0, zoom quang 2.6x, zoom lossless 5x) chụp chân dung sắc nét và camera góc siêu rộng 12MP (15mm, 120°).",
+    "Sức mạnh phần cứng của Xiaomi 14T Pro đến từ vi xử lý MediaTek Dimensity 9300+ (4nm, kiến trúc 8 nhân All-Big-Core xung nhịp 3,4 GHz) và GPU 12 nhân Immortalis-G720 đi kèm hệ thống tản nhiệt 3D IceLoop 5.000 mm². Kết hợp với 12GB RAM LPDDR5X và bộ nhớ 256GB/512GB UFS 4.0, máy vận hành mượt mà mọi tựa game nặng và bộ công cụ AI (Circle to Search, AI Interpreter, AI Eraser Pro).",
+    "Viên pin 5.000 mAh trên Xiaomi 14T Pro hỗ trợ cả sạc nhanh có dây 120W HyperCharge (nạp đầy 100% chỉ trong 19 phút) lẫn sạc nhanh không dây 50W Wireless HyperCharge, đi kèm chuẩn kết nối Wi-Fi 7 tiên tiến nhất."
+  ],
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,67 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "CrystalRes AMOLED (68 tỷ màu), 144Hz, 4.000 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2712 x 1220 pixel (1.5K, 446 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "144Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 9300+ (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB LPDDR5X (8533 Mbps)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "2 phiên bản: 256GB và 512GB chuẩn UFS 4.0"
+    },
+    {
+      "label": "Camera sau",
+      "value": "3 camera Leica: 50MP Chính Light Fusion 900 OIS + 50MP Tele 60mm (2.6x) + 12MP Siêu rộng"
+    },
+    {
+      "label": "Camera trước",
+      "value": "32MP (ƒ/2.0, 25mm), quay 4K 30fps"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc siêu nhanh có dây 120W HyperCharge, sạc không dây 50W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS (Android 14)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 (Chống nước sâu 2m trong 30 phút)"
+    }
+  ],
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "CrystalRes AI AMOLED hiển thị 68 tỷ màu (12-bit), độ phủ màu 100% DCI-P3, công nghệ Original Color PRO",
+      "Kích thước màn hình": "6,67 inch theo đường chéo (diện tích hiển thị 107,4 cm², chiếm ~89,1% mặt trước)",
+      "Độ phân giải màn hình": "2712 x 1220 pixel (chuẩn 1.5K sắc nét, tỷ lệ 20:9, mật độ điểm ảnh 446 ppi)",
+      "Tần số quét": "144Hz siêu mượt (tự động điều chỉnh 30/60/90/120/144Hz), lấy mẫu cảm ứng tức thì 2160Hz",
+      "Kiểu màn hình": "Màn hình phẳng đục lỗ viền siêu mỏng, bảo vệ bởi kính cường lực Corning Gorilla Glass 5",
+      "Tính năng màn hình": "Dolby Vision, HDR10+; Độ sáng HBM 1.600 nit / đỉnh cục bộ 4.000 nit; Làm mờ PWM tần số cực cao 3840Hz chống mỏi mắt, chứng nhận TÜV Rheinland"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera Leica VARIO-SUMMILUX 1:1.6–2.2/15–60 ASPH: (1) Camera chính 50MP Leica: cảm biến Light Fusion 900 kích thước lớn 1/1.31 inch (điểm ảnh 1.2µm, Super Pixel 2.4µm, dải tương phản 13,5 EV), khẩu độ lớn ƒ/1.6, tiêu cự 23mm, thấu kính 7P, lấy nét PDAF, chống rung quang học OIS; (2) Camera Telephoto 50MP Leica 60mm: cảm biến Samsung JN1 (1/2.88\"), khẩu độ ƒ/2.0, tiêu cự 60mm (zoom quang học 2.6x, zoom chất lượng quang học 5x, zoom số 30x), lấy nét PDAF; (3) Camera Góc siêu rộng 12MP Leica 15mm: cảm biến OmniVision OV13B (1/3.06\"), khẩu độ ƒ/2.2, tiêu cự 15mm (góc nhìn 120°)",
+      "Quay video": "Quay video 8K ở 24/30fps; Quay 4K ở 24/30/60fps (hỗ trợ 10-bit Rec.2020 và HDR10+); Quay 10-bit Log chuyên nghiệp hỗ trợ nhập LUT; Chế độ điện ảnh Movie Mode (tỷ lệ 2.39:1, xóa phông tự động), MasterCinema và Director Mode",
+      "Tính năng camera": "2 phong cách ảnh Leica (Authentic Look & Vibrant Look); Hệ thống Leica Master Lens System (35mm, 50mm, 75mm, 90mm); Nền tảng nhiếp ảnh điện toán Xiaomi AISP (FusionLM, ToneLM, ColorLM, PortraitLM)"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera Selfie 32MP (khẩu độ ƒ/2.0, tiêu cự 25mm góc rộng 80,8°); Hỗ trợ chế độ ban đêm Night Mode, HDR, chụp chân dung xóa phông và quay video 4K ở 30fps, 1080p ở 30/60fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Dimensity 9300+ (tiến trình 4nm thế hệ thứ 3 TSMC) tích hợp MediaTek NPU 790 xử lý AI tạo sinh",
+      "Loại CPU": "CPU 8 nhân kiến trúc All-Big-Core: 1 nhân Cortex-X4 (3,4 GHz) + 3 nhân Cortex-X4 (2,85 GHz) + 4 nhân Cortex-A720 (2,0 GHz)",
+      "GPU": "ARM Immortalis-G720 MC12 (12 nhân đồ họa) hỗ trợ Hardware Ray Tracing, đi kèm hệ thống tản nhiệt 3D IceLoop diện tích 5.000 mm²"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "12GB LPDDR5X tốc độ 8533 Mbps",
+      "Bộ nhớ trong": "2 phiên bản: 256GB và 512GB chuẩn UFS 4.0 tốc độ cao"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.000 mAh (Pin Li-Po bền bỉ giữ trên 80% dung lượng sau 1.600 chu kỳ sạc) kèm chip quản lý Xiaomi Surge P2 & G1",
+      "Công nghệ sạc": "Sạc siêu nhanh có dây 120W HyperCharge (đầy 100% chỉ trong 19 phút) | Sạc nhanh không dây 50W Wireless HyperCharge",
+      "Cổng sạc": "USB Type-C 2.0 hỗ trợ sạc siêu nhanh và kết nối OTG"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS phát triển trên Android 14 (hỗ trợ nâng cấp lên HyperOS 2 / HyperOS 3)",
+      "Công nghệ - Tiện ích": "Bộ tính năng Advanced AI (Khoanh tròn tìm kiếm Circle to Search với Google, Google Gemini, AI Interpreter, AI Notes, AI Recorder, AI Eraser Pro, AI Film)",
+      "Tiện ích khác": "Chip tăng cường thu phát sóng Xiaomi Surge T1, điều khiển hồng ngoại IR Blaster",
+      "Thời điểm ra mắt": "26/09/2024"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G đa băng tần (SA/NSA Sub-6GHz), 4G LTE-A",
+      "Thẻ SIM": "SIM kép (Nano-SIM + Nano-SIM hoặc Nano-SIM + eSIM hoặc 2 eSIM)",
+      "Wi-Fi": "Wi-Fi 7 (802.11be) ba băng tần hỗ trợ Multi-Link Operation (MLO), 2x2 MIMO",
+      "Bluetooth": "Bluetooth 5.4 Dual-Bluetooth hỗ trợ AAC, LDAC, LHDC 4.0, ASHA",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa năng (Google Pay, thẻ từ)",
+      "GPS": "Định vị vệ tinh đa băng tần: GPS (L1+L5), Galileo (E1+E5a), GLONASS (G1), BeiDou, NavIC"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung hợp kim nhôm 6M13 độ bền cao (cứng hơn 116% so với thế hệ trước)",
+      "Chất liệu mặt lưng": "Mặt lưng kính nhám mờ bo cong 3D bốn cạnh êm tay",
+      "Kích thước": "160,4 x 75,1 x 8,39 mm",
+      "Trọng lượng": "209 gram",
+      "Chỉ số kháng nước, bụi": "Đạt chuẩn IP68 kháng bụi và chống nước ở độ sâu tới 2 mét trong 30 phút"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa kép Stereo chuẩn Dolby Atmos, chứng nhận Hi-Res Audio & Hi-Res Wireless",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình + Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Cảm biến Flicker khử nhấp nháy, Cảm biến tiệm cận, Ánh sáng 360°, Gia tốc kế, Con quay hồi chuyển, La bàn số, Hồng ngoại"
+    }
+  }
+}

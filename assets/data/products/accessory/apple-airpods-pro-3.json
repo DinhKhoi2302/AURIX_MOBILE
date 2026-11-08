@@ -1,0 +1,141 @@
+{
+  "id": "apple-airpods-pro-3",
+  "docCode": "PK-TN003-APPRO3",
+  "model": "Tai Nghe Không Dây Apple AirPods Pro 3 Cao Cấp",
+  "brand": "Apple",
+  "brandId": "apple",
+  "parentGroupId": "apple",
+  "series": "Tai nghe",
+  "subCategory": "tai-nghe",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "tai-nghe"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Tai nghe",
+    "highlights": [
+      "In-ear"
+    ],
+    "description": "Đỉnh cao tai nghe chống ồn nhét tai của Apple với khả năng xử lý âm thanh không gian cá nhân hóa, chế độ xuyên âm tự nhiên hoàn hảo và các tính năng theo dõi sức khỏe thính giác tiên tiến."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 6790000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/anh-dai-dien-apple-airpods-pro-3-trang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/anh-dai-dien-apple-airpods-pro-3-trang.webp",
+      "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/tai-nghe-dat-trong-hop-sac-mo-nap-trang.webp",
+      "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/thoi-luong-pin-8-gio-khu-tieng-on-trang-xanh.webp",
+      "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/tich-hop-cam-bien-nhip-tim-trang-den.webp",
+      "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/tinh-nang-chu-dong-khu-tieng-on-trang.webp",
+      "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/tinh-nang-kiem-tra-thinh-giac-va-tro-thinh-trang.webp"
+    ],
+    "byColor": {
+      "Trắng": [
+        "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/anh-dai-dien-apple-airpods-pro-3-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/tai-nghe-dat-trong-hop-sac-mo-nap-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/tinh-nang-chu-dong-khu-tieng-on-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/tinh-nang-kiem-tra-thinh-giac-va-tro-thinh-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/thoi-luong-pin-8-gio-khu-tieng-on-trang-xanh.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/tich-hop-cam-bien-nhip-tim-trang-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/tai-nghe-dat-trong-hop-sac-mo-nap-trang.webp",
+      "screen": "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/thoi-luong-pin-8-gio-khu-tieng-on-trang-xanh.webp",
+      "performance": "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/tich-hop-cam-bien-nhip-tim-trang-den.webp",
+      "camera": "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/tinh-nang-chu-dong-khu-tieng-on-trang.webp",
+      "battery": "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/tinh-nang-kiem-tra-thinh-giac-va-tro-thinh-trang.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/tai-nghe-dat-trong-hop-sac-mo-nap-trang.webp",
+      "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/thoi-luong-pin-8-gio-khu-tieng-on-trang-xanh.webp",
+      "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/tich-hop-cam-bien-nhip-tim-trang-den.webp",
+      "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/tinh-nang-chu-dong-khu-tieng-on-trang.webp",
+      "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/tinh-nang-kiem-tra-thinh-giac-va-tro-thinh-trang.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Apple",
+      "Kiểu tai nghe": "In-ear (nhét tai với nút đệm silicone)",
+      "Kết nối": "Bluetooth 5.4, Chip Apple H3",
+      "Cổng sạc": "USB-C & MagSafe không dây",
+      "Chống ồn chủ động (ANC)": "Có (Công nghệ Chống ồn chủ động thế hệ mới triệt tiêu ồn gấp 2 lần)",
+      "Microphone": "Có (Micro kép thu âm studio + cảm biến nhận diện giọng nói)",
+      "Thời lượng pin": "Lên đến 7 giờ nghe liên tục (36 giờ kèm hộp sạc)",
+      "Kháng nước, bụi": "IP55",
+      "Màu sắc": "Trắng"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Apple"
+    },
+    {
+      "label": "Kiểu tai nghe",
+      "value": "In-ear (nhét tai với nút đệm silicone)"
+    },
+    {
+      "label": "Kết nối",
+      "value": "Bluetooth 5.4, Chip Apple H3"
+    },
+    {
+      "label": "Cổng sạc",
+      "value": "USB-C & MagSafe không dây"
+    },
+    {
+      "label": "Chống ồn chủ động (ANC)",
+      "value": "Có (Công nghệ Chống ồn chủ động thế hệ mới triệt tiêu ồn gấp 2 lần)"
+    },
+    {
+      "label": "Microphone",
+      "value": "Có (Micro kép thu âm studio + cảm biến nhận diện giọng nói)"
+    },
+    {
+      "label": "Thời lượng pin",
+      "value": "Lên đến 7 giờ nghe liên tục (36 giờ kèm hộp sạc)"
+    },
+    {
+      "label": "Kháng nước, bụi",
+      "value": "IP55"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Trắng"
+    }
+  ],
+  "verbatimDescription": [
+    "Đỉnh cao tai nghe chống ồn nhét tai của Apple với khả năng xử lý âm thanh không gian cá nhân hóa, chế độ xuyên âm tự nhiên hoàn hảo và các tính năng theo dõi sức khỏe thính giác tiên tiến."
+  ],
+  "variants": [
+    {
+      "sku": "PK-TN003-APPRO3-TRANG-TIEU-CHUAN",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 6790000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/anh-dai-dien-apple-airpods-pro-3-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/tai-nghe-dat-trong-hop-sac-mo-nap-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/tinh-nang-chu-dong-khu-tieng-on-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/tinh-nang-kiem-tra-thinh-giac-va-tro-thinh-trang.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/thoi-luong-pin-8-gio-khu-tieng-on-trang-xanh.webp",
+        "assets/images/products/accessory/tai-nghe/apple-airpods-pro-3/tich-hop-cam-bien-nhip-tim-trang-den.webp"
+      ]
+    }
+  ]
+}

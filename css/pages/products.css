@@ -1,0 +1,67 @@
+/* TechPhone — Products Catalog Page Styles */
+.tp-catalog-layout {
+  display: grid;
+  grid-template-columns: 280px minmax(0, 1fr);
+  gap: 1.5rem;
+  align-items: start;
+}
+.tp-filter-panel {
+  background: var(--tp-white);
+  border: 1px solid var(--tp-border);
+  border-radius: var(--tp-radius-lg);
+  padding: 1.25rem;
+  position: sticky;
+  top: 90px;
+}
+.tp-filter-group {
+  padding-bottom: 1.1rem;
+  margin-bottom: 1.1rem;
+  border-bottom: 1px solid var(--tp-border);
+}
+.tp-filter-group:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.tp-filter-title {
+  font-size: 0.92rem;
+  font-weight: 800;
+  color: var(--tp-navy);
+  margin-bottom: 0.65rem;
+}
+.tp-chip-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+.tp-filter-chip {
+  padding: 0.38rem 0.75rem;
+  border-radius: var(--tp-radius-sm);
+  border: 1px solid var(--tp-border);
+  background: var(--tp-bg-page);
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--tp-text-main);
+  transition: all 0.18s ease;
+}
+.tp-filter-chip:hover {
+  border-color: var(--tp-primary);
+  color: var(--tp-primary);
+}
+.tp-filter-chip.is-active {
+  background: var(--tp-primary);
+  border-color: var(--tp-primary);
+  color: var(--tp-white);
+}
+.tp-catalog-toolbar {
+  background: var(--tp-white);
+  border: 1px solid var(--tp-border);
+  border-radius: var(--tp-radius-lg);
+  padding: 0.9rem 1.25rem;
+  margin-bottom: 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+}

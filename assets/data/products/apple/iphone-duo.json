@@ -1,0 +1,594 @@
+{
+  "id": "iphone-duo",
+  "brand": "Apple",
+  "brandId": "apple",
+  "parentGroupId": "apple",
+  "model": "iPhone Duo",
+  "series": "iPhone Air & Duo",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "foldable",
+    "flagship"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": true,
+  "rating": 4.9,
+  "reviewCount": 19,
+  "badges": [
+    {
+      "text": "Sắp về",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "09/09/2026",
+    "segment": "Flagship Cao cấp",
+    "description": "Nếu như trước tháng 9/2026, cái tên 'iPhone Duo' từng được nhắc đến như một dự án chưa xác minh, thì vào ngày 09/09/2026, Tổng giám đốc Apple John Ternus đã chính thức trình làng iPhone Duo (mở bán ngày 23/10/2026) — mẫu iPhone màn hình gập đầu tiên trong lịch sử của hãng. Tại AURIX MOBILE, iPhone Duo là kiệt tác công nghệ định vị ở phân khúc siêu cao cấp (Ultra-Flagship), kết hợp sự gọn gàng của một cuốn hộ chiếu khi gập lại với không gian làm việc, giải trí 7,6 inch rộng lớn khi mở ra. (Nguồn tham chiếu chính thức: Apple Tech Specs - iPhone Duo).",
+    "highlights": [
+      "7,6 inch",
+      "A20 Pro",
+      "Pin 4.883 mAh"
+    ],
+    "officialDistribution": "Nguồn tra cứu hiển thị trạng thái Hàng sắp về / Đặt trước tại thời điểm 01/11/2026; không xếp vào hàng có sẵn (in_stock=false)."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 64990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT015-IPDUO-TRANG-256GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 64990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-duo/anh-dai-dien-iphone-duo-trang.webp",
+        "assets/images/products/apple/iphone-duo/man-hinh-ngoai-hien-thi-thong-bao-trang.webp",
+        "assets/images/products/apple/iphone-duo/chup-anh-he-thong-camera-48mp-dual-fusion-trang.webp",
+        "assets/images/products/apple/iphone-duo/da-nhiem-nhieu-ung-dung-man-hinh-mo-rong-trang.webp",
+        "assets/images/products/apple/iphone-duo/phu-kien-trong-hop-trang.webp",
+        "assets/images/products/apple/iphone-duo/cac-che-do-gap-mo-va-dung-may-den-trang.webp",
+        "assets/images/products/apple/iphone-duo/iPhone-Duo.jpg",
+        "assets/images/products/apple/iphone-duo/hai-tuy-chon-mau-sac-den-va-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT015-IPDUO-TRANG-512GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "12GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 71490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-duo/anh-dai-dien-iphone-duo-trang.webp",
+        "assets/images/products/apple/iphone-duo/man-hinh-ngoai-hien-thi-thong-bao-trang.webp",
+        "assets/images/products/apple/iphone-duo/chup-anh-he-thong-camera-48mp-dual-fusion-trang.webp",
+        "assets/images/products/apple/iphone-duo/da-nhiem-nhieu-ung-dung-man-hinh-mo-rong-trang.webp",
+        "assets/images/products/apple/iphone-duo/phu-kien-trong-hop-trang.webp",
+        "assets/images/products/apple/iphone-duo/cac-che-do-gap-mo-va-dung-may-den-trang.webp",
+        "assets/images/products/apple/iphone-duo/iPhone-Duo.jpg",
+        "assets/images/products/apple/iphone-duo/hai-tuy-chon-mau-sac-den-va-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT015-IPDUO-TRANG-1TB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "12GB",
+      "storage": "1TB",
+      "rom": "1TB",
+      "price": 84490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-duo/anh-dai-dien-iphone-duo-trang.webp",
+        "assets/images/products/apple/iphone-duo/man-hinh-ngoai-hien-thi-thong-bao-trang.webp",
+        "assets/images/products/apple/iphone-duo/chup-anh-he-thong-camera-48mp-dual-fusion-trang.webp",
+        "assets/images/products/apple/iphone-duo/da-nhiem-nhieu-ung-dung-man-hinh-mo-rong-trang.webp",
+        "assets/images/products/apple/iphone-duo/phu-kien-trong-hop-trang.webp",
+        "assets/images/products/apple/iphone-duo/cac-che-do-gap-mo-va-dung-may-den-trang.webp",
+        "assets/images/products/apple/iphone-duo/iPhone-Duo.jpg",
+        "assets/images/products/apple/iphone-duo/hai-tuy-chon-mau-sac-den-va-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT015-IPDUO-TRANG-2TB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "12GB",
+      "storage": "2TB",
+      "rom": "2TB",
+      "price": 103990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-duo/anh-dai-dien-iphone-duo-trang.webp",
+        "assets/images/products/apple/iphone-duo/man-hinh-ngoai-hien-thi-thong-bao-trang.webp",
+        "assets/images/products/apple/iphone-duo/chup-anh-he-thong-camera-48mp-dual-fusion-trang.webp",
+        "assets/images/products/apple/iphone-duo/da-nhiem-nhieu-ung-dung-man-hinh-mo-rong-trang.webp",
+        "assets/images/products/apple/iphone-duo/phu-kien-trong-hop-trang.webp",
+        "assets/images/products/apple/iphone-duo/cac-che-do-gap-mo-va-dung-may-den-trang.webp",
+        "assets/images/products/apple/iphone-duo/iPhone-Duo.jpg",
+        "assets/images/products/apple/iphone-duo/hai-tuy-chon-mau-sac-den-va-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT015-IPDUO-DEN-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 64990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-duo/anh-dai-dien-iphone-duo-den.webp",
+        "assets/images/products/apple/iphone-duo/op-lung-kem-chan-de-chong-den.webp",
+        "assets/images/products/apple/iphone-duo/cac-che-do-gap-mo-va-dung-may-den-trang.webp",
+        "assets/images/products/apple/iphone-duo/iPhone-Duo.jpg",
+        "assets/images/products/apple/iphone-duo/hai-tuy-chon-mau-sac-den-va-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT015-IPDUO-DEN-512GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 71490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-duo/anh-dai-dien-iphone-duo-den.webp",
+        "assets/images/products/apple/iphone-duo/op-lung-kem-chan-de-chong-den.webp",
+        "assets/images/products/apple/iphone-duo/cac-che-do-gap-mo-va-dung-may-den-trang.webp",
+        "assets/images/products/apple/iphone-duo/iPhone-Duo.jpg",
+        "assets/images/products/apple/iphone-duo/hai-tuy-chon-mau-sac-den-va-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT015-IPDUO-DEN-1TB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "1TB",
+      "rom": "1TB",
+      "price": 84490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-duo/anh-dai-dien-iphone-duo-den.webp",
+        "assets/images/products/apple/iphone-duo/op-lung-kem-chan-de-chong-den.webp",
+        "assets/images/products/apple/iphone-duo/cac-che-do-gap-mo-va-dung-may-den-trang.webp",
+        "assets/images/products/apple/iphone-duo/iPhone-Duo.jpg",
+        "assets/images/products/apple/iphone-duo/hai-tuy-chon-mau-sac-den-va-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT015-IPDUO-DEN-2TB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "2TB",
+      "rom": "2TB",
+      "price": 103990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-duo/anh-dai-dien-iphone-duo-den.webp",
+        "assets/images/products/apple/iphone-duo/op-lung-kem-chan-de-chong-den.webp",
+        "assets/images/products/apple/iphone-duo/cac-che-do-gap-mo-va-dung-may-den-trang.webp",
+        "assets/images/products/apple/iphone-duo/iPhone-Duo.jpg",
+        "assets/images/products/apple/iphone-duo/hai-tuy-chon-mau-sac-den-va-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT015-IPDUO-TITAN-TRANG-256GB",
+      "color": "Titan Trắng",
+      "colorHex": "#F3F2EE",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 64990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-duo/khung-may-va-ban-le-titan-trang.webp",
+        "assets/images/products/apple/iphone-duo/cac-che-do-gap-mo-va-dung-may-den-trang.webp",
+        "assets/images/products/apple/iphone-duo/iPhone-Duo.jpg",
+        "assets/images/products/apple/iphone-duo/hai-tuy-chon-mau-sac-den-va-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT015-IPDUO-TITAN-TRANG-512GB",
+      "color": "Titan Trắng",
+      "colorHex": "#F3F2EE",
+      "ram": "12GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 71490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-duo/khung-may-va-ban-le-titan-trang.webp",
+        "assets/images/products/apple/iphone-duo/cac-che-do-gap-mo-va-dung-may-den-trang.webp",
+        "assets/images/products/apple/iphone-duo/iPhone-Duo.jpg",
+        "assets/images/products/apple/iphone-duo/hai-tuy-chon-mau-sac-den-va-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT015-IPDUO-TITAN-TRANG-1TB",
+      "color": "Titan Trắng",
+      "colorHex": "#F3F2EE",
+      "ram": "12GB",
+      "storage": "1TB",
+      "rom": "1TB",
+      "price": 84490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-duo/khung-may-va-ban-le-titan-trang.webp",
+        "assets/images/products/apple/iphone-duo/cac-che-do-gap-mo-va-dung-may-den-trang.webp",
+        "assets/images/products/apple/iphone-duo/iPhone-Duo.jpg",
+        "assets/images/products/apple/iphone-duo/hai-tuy-chon-mau-sac-den-va-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT015-IPDUO-TITAN-TRANG-2TB",
+      "color": "Titan Trắng",
+      "colorHex": "#F3F2EE",
+      "ram": "12GB",
+      "storage": "2TB",
+      "rom": "2TB",
+      "price": 103990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-duo/khung-may-va-ban-le-titan-trang.webp",
+        "assets/images/products/apple/iphone-duo/cac-che-do-gap-mo-va-dung-may-den-trang.webp",
+        "assets/images/products/apple/iphone-duo/iPhone-Duo.jpg",
+        "assets/images/products/apple/iphone-duo/hai-tuy-chon-mau-sac-den-va-trang.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "Foldable Super Retina XDR OLED",
+    "size": null,
+    "resolution": null,
+    "refreshRate": "120Hz",
+    "brightness": null,
+    "hdr": "HDR10+ / Dolby Vision",
+    "protection": "Ceramic Shield",
+    "features": [
+      "Tần số quét thích ứng",
+      "Bảo vệ mắt"
+    ]
+  },
+  "performance": {
+    "chipset": "Apple A20 Pro (tiến trình 2nm kết hợp buồng hơi tản nhiệt tùy chỉnh và bộ xử lý hiển thị kép điều khiển đồng thời cả 2 màn hình)",
+    "cpu": "6 nhân",
+    "gpu": "Apple GPU 7 nhân",
+    "ram": [
+      "12GB"
+    ],
+    "storage": [
+      "1TB",
+      "256GB",
+      "2TB",
+      "512GB"
+    ],
+    "operatingSystem": "iOS 27 (cài sẵn iOS 27.1 khi mở bán ngày 23/10/2026 với giao diện tùy biến riêng cho màn hình gập)",
+    "uiVersion": "iOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "48MP Fusion",
+    "ultraWide": "Ultra Wide + Telephoto",
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "4K Dolby Vision"
+    ],
+    "aiFeatures": [
+      "Thiết kế gập đầu tiên của Apple"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "18MP Center Stage",
+    "features": [
+      "Face ID / TrueDepth"
+    ],
+    "videoRecording": [
+      "4K / 1080p"
+    ]
+  },
+  "battery": {
+    "capacity": null,
+    "wiredCharging": null,
+    "wirelessCharging": null,
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": null
+  },
+  "connectivity": {
+    "sim": [
+      "Nano-SIM + eSIM"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 7",
+    "bluetooth": "v5.4",
+    "gps": [
+      "GPS",
+      "GLONASS",
+      "Galileo",
+      "BDS"
+    ],
+    "usb": "USB Type-C",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": null,
+    "weight": null,
+    "materials": [
+      "Bản lề gập cao cấp",
+      "Ceramic Shield"
+    ],
+    "waterResistance": "IP68",
+    "availableColors": [
+      "Đen",
+      "Bạc"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Face ID 3D"
+  ],
+  "specialFeatures": [
+    "Apple A20 Pro (2nm)",
+    "Camera 48MP"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Apple tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/apple/iphone-duo/anh-dai-dien-iphone-duo-trang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/apple/iphone-duo/anh-dai-dien-iphone-duo-trang.webp",
+      "assets/images/products/apple/iphone-duo/anh-dai-dien-iphone-duo-den.webp",
+      "assets/images/products/apple/iphone-duo/man-hinh-ngoai-hien-thi-thong-bao-trang.webp",
+      "assets/images/products/apple/iphone-duo/khung-may-va-ban-le-titan-trang.webp",
+      "assets/images/products/apple/iphone-duo/chup-anh-he-thong-camera-48mp-dual-fusion-trang.webp",
+      "assets/images/products/apple/iphone-duo/cac-che-do-gap-mo-va-dung-may-den-trang.webp",
+      "assets/images/products/apple/iphone-duo/da-nhiem-nhieu-ung-dung-man-hinh-mo-rong-trang.webp",
+      "assets/images/products/apple/iphone-duo/iPhone-Duo.jpg",
+      "assets/images/products/apple/iphone-duo/op-lung-kem-chan-de-chong-den.webp",
+      "assets/images/products/apple/iphone-duo/phu-kien-trong-hop-trang.webp",
+      "assets/images/products/apple/iphone-duo/hai-tuy-chon-mau-sac-den-va-trang.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/apple/iphone-duo/anh-dai-dien-iphone-duo-den.webp",
+        "assets/images/products/apple/iphone-duo/op-lung-kem-chan-de-chong-den.webp",
+        "assets/images/products/apple/iphone-duo/cac-che-do-gap-mo-va-dung-may-den-trang.webp",
+        "assets/images/products/apple/iphone-duo/iPhone-Duo.jpg",
+        "assets/images/products/apple/iphone-duo/hai-tuy-chon-mau-sac-den-va-trang.webp"
+      ],
+      "Trắng": [
+        "assets/images/products/apple/iphone-duo/anh-dai-dien-iphone-duo-trang.webp",
+        "assets/images/products/apple/iphone-duo/man-hinh-ngoai-hien-thi-thong-bao-trang.webp",
+        "assets/images/products/apple/iphone-duo/chup-anh-he-thong-camera-48mp-dual-fusion-trang.webp",
+        "assets/images/products/apple/iphone-duo/da-nhiem-nhieu-ung-dung-man-hinh-mo-rong-trang.webp",
+        "assets/images/products/apple/iphone-duo/phu-kien-trong-hop-trang.webp",
+        "assets/images/products/apple/iphone-duo/cac-che-do-gap-mo-va-dung-may-den-trang.webp",
+        "assets/images/products/apple/iphone-duo/iPhone-Duo.jpg",
+        "assets/images/products/apple/iphone-duo/hai-tuy-chon-mau-sac-den-va-trang.webp"
+      ],
+      "Titan Trắng": [
+        "assets/images/products/apple/iphone-duo/khung-may-va-ban-le-titan-trang.webp",
+        "assets/images/products/apple/iphone-duo/cac-che-do-gap-mo-va-dung-may-den-trang.webp",
+        "assets/images/products/apple/iphone-duo/iPhone-Duo.jpg",
+        "assets/images/products/apple/iphone-duo/hai-tuy-chon-mau-sac-den-va-trang.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/apple/iphone-duo/khung-may-va-ban-le-titan-trang.webp",
+      "screen": "assets/images/products/apple/iphone-duo/man-hinh-ngoai-hien-thi-thong-bao-trang.webp",
+      "performance": "assets/images/products/apple/iphone-duo/cac-che-do-gap-mo-va-dung-may-den-trang.webp",
+      "camera": "assets/images/products/apple/iphone-duo/chup-anh-he-thong-camera-48mp-dual-fusion-trang.webp",
+      "battery": "assets/images/products/apple/iphone-duo/phu-kien-trong-hop-trang.webp",
+      "feature": "assets/images/products/apple/iphone-duo/anh-dai-dien-iphone-duo-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/apple/iphone-duo/anh-dai-dien-iphone-duo-den.webp",
+      "assets/images/products/apple/iphone-duo/man-hinh-ngoai-hien-thi-thong-bao-trang.webp",
+      "assets/images/products/apple/iphone-duo/khung-may-va-ban-le-titan-trang.webp",
+      "assets/images/products/apple/iphone-duo/chup-anh-he-thong-camera-48mp-dual-fusion-trang.webp",
+      "assets/images/products/apple/iphone-duo/cac-che-do-gap-mo-va-dung-may-den-trang.webp",
+      "assets/images/products/apple/iphone-duo/da-nhiem-nhieu-ung-dung-man-hinh-mo-rong-trang.webp",
+      "assets/images/products/apple/iphone-duo/iPhone-Duo.jpg",
+      "assets/images/products/apple/iphone-duo/op-lung-kem-chan-de-chong-den.webp",
+      "assets/images/products/apple/iphone-duo/phu-kien-trong-hop-trang.webp",
+      "assets/images/products/apple/iphone-duo/hai-tuy-chon-mau-sac-den-va-trang.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.apple.com/vn/iphone/",
+      "https://www.thegioididong.com/dtdd-apple-iphone-18-series",
+      "https://www.apple.com/vn/iphone/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "preorder",
+    "verificationLevel": "verified",
+    "notes": [
+      "Hàng sắp về / chưa phải hàng có sẵn",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT015-IPDUO",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "Super Retina XDR OLED (lớp phủ Nano-texture chống chói)",
+      "Kích thước màn hình": "Màn hình gập trong 7,6 inch + Màn hình ngoài 5,4 inch",
+      "Độ phân giải màn hình": "Màn hình trong 1878 x 2670 pixel (430 ppi) / Màn hình ngoài 2556 x 1179 pixel",
+      "Tần số quét": "ProMotion thích ứng 1Hz – 120Hz trên cả 2 màn hình",
+      "Kiểu màn hình": "Màn hình gập trong 7,6 inch kết hợp màn hình ngoài 5,4 inch",
+      "Tính năng màn hình": "HDR10, Dolby Vision, độ sáng 1.000 nit (tiêu chuẩn) / 1.600 nit (HDR) / 3.000 nit (ngoài trời) / tối thiểu 1 nit, True Tone, dải màu P3"
+    },
+    "Camera sau": {
+      "Camera sau": "Camera kép 48MP Dual Fusion: Chính 48MP (26mm, ƒ/1.6, sensor-shift OIS, Hybrid Focus Pixels) + Ultra Wide 48MP, tích hợp Telephoto 2x 12MP",
+      "Quay video": "4K Dolby Vision 24/25/30/60/100/120fps; Cinematic mode 4K 60fps; Action mode 2,8K 60fps; Slo-mo 4K 120fps và 1080p 240fps; Dual Capture 4K 30fps; quay video Macro",
+      "Tính năng camera": "Chân dung, Night mode, Panorama; Zoom quang học 0.5x, 1x, 2x và zoom số 10x (ảnh), 6x (video)"
+    },
+    "Camera trước": {
+      "Camera trước": "12MP TrueDepth, Quay video: 4K Dolby Vision"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Apple A20 Pro (2nm), tản nhiệt buồng hơi và bộ xử lý hiển thị kép",
+      "Loại CPU": "CPU 6 lõi: 2 lõi siêu xử lý (Super cores) + 4 lõi tiết kiệm điện",
+      "GPU": "Apple GPU 7 lõi tích hợp Neural Accelerators và dò tia phần cứng (Ray Tracing)"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "12GB LPDDR5X",
+      "Bộ nhớ trong": "4 phiên bản: 256GB, 512GB, 1TB và 2TB chuẩn NVMe"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "4.883 mAh (pin kép Li-Ion) – Xem video lên đến 44 giờ (màn hình ngoài) / 31 giờ (màn hình trong)",
+      "Công nghệ sạc": "Sạc nhanh USB-C 60W (50% pin trong 20 phút); Sạc không dây MagSafe 25W và Qi2 25W",
+      "Cổng sạc": "USB-C chuẩn USB 3 (tốc độ lên đến 10Gb/s), hỗ trợ xuất hình DisplayPort 4K HDR"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "iOS 27 (tháng 10/2026, tối ưu đa nhiệm màn hình gập)",
+      "Công nghệ - Tiện ích": "Hỗ trợ đầy đủ Apple Intelligence và Siri AI trên màn hình gập, Dynamic Island",
+      "Tiện ích khác": "Nút Điều Khiển Camera (Camera Control), cảm biến vân tay Touch ID nút nguồn, SOS khẩn cấp qua vệ tinh, Phát Hiện Va Chạm",
+      "Thời điểm ra mắt": "09/09/2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G sub-6GHz 4x4 MIMO (Modem Apple C2), Gigabit LTE",
+      "Thẻ SIM": "eSIM kép (hỗ trợ 2 eSIM hoạt động đồng thời, không sử dụng khay SIM vật lý)",
+      "Wi-Fi": "Chip Apple N1 hỗ trợ Wi-Fi 7 (802.11be) 2x2 MIMO, Thread",
+      "Bluetooth": "Bluetooth 6.0",
+      "Công nghệ NFC": "Có hỗ trợ NFC",
+      "GPS": "GPS tần số kép (L1+L5), GLONASS, Galileo, QZSS, BeiDou"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung nhôm hàng không vũ trụ",
+      "Chất liệu mặt lưng": "Mặt lưng kính nhám mờ",
+      "Kích thước": "117,8 x 164,6 x 5,2 mm (khi mở)",
+      "Trọng lượng": "254 gram",
+      "Chỉ số kháng nước, bụi": "IP68 theo chuẩn IEC 60529 (tối đa 6 mét trong 30 phút)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài Stereo, hỗ trợ Spatial Audio, Dolby Atmos, APAC, Apple Lossless, FLAC",
+      "Cảm biến vân tay": "Cảm biến vân tay Touch ID tích hợp nút nguồn cạnh bên",
+      "Các loại cảm biến": "Touch ID nút nguồn, Áp kế, Con quay hồi chuyển, Gia tốc kế, Cảm biến tiệm cận, 4 cảm biến ánh sáng môi trường, Từ kế"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "Màn hình chính 7,6 inch, màn hình ngoài 5,4 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "Super Retina XDR OLED (Màn hình gập)"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "Chính 1878 x 2670 pixel / Ngoài 2556 x 1179 pixel"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz (trên cả 2 màn hình)"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Apple A20 Pro"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "4 phiên bản: 256GB, 512GB, 1TB và 2TB NVMe"
+    },
+    {
+      "label": "Camera sau",
+      "value": "Camera kép 48MP Dual Fusion (Chính + Ultra Wide)"
+    },
+    {
+      "label": "Camera trước",
+      "value": "12MP TrueDepth, quay 4K Dolby Vision"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "4.883 mAh (hệ thống pin kép)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh USB-C 60W, MagSafe / Qi2 25W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "iOS 27"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G (Modem Apple C2)"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 (6 mét trong 30 phút)"
+    }
+  ],
+  "verbatimDescription": [
+    "Nếu như trước tháng 9/2026, cái tên 'iPhone Duo' từng được nhắc đến như một dự án chưa xác minh, thì vào ngày 09/09/2026, Tổng giám đốc Apple John Ternus đã chính thức trình làng iPhone Duo (mở bán ngày 23/10/2026) — mẫu iPhone màn hình gập đầu tiên trong lịch sử của hãng. Tại AURIX MOBILE, iPhone Duo là kiệt tác công nghệ định vị ở phân khúc siêu cao cấp (Ultra-Flagship), kết hợp sự gọn gàng của một cuốn hộ chiếu khi gập lại với không gian làm việc, giải trí 7,6 inch rộng lớn khi mở ra. (Nguồn tham chiếu chính thức: Apple Tech Specs - iPhone Duo).",
+    "Khác với các mẫu điện thoại gập dạng thanh cao và hẹp trên thị trường, iPhone Duo sở hữu tỷ lệ khung hình 1,41:1 lấy cảm hứng từ cuốn hộ chiếu hoặc sổ tay Moleskine: khi gập lại, máy có kích thước 117,8 x 84,1 x 11,3 mm cực kỳ vừa vặn trong lòng bàn tay hoặc túi áo vest; khi mở ra, máy chỉ mỏng 5,2 mm (mỏng hơn cả iPhone Air 5,64 mm) với kích thước 117,8 x 164,6 x 5,2 mm và trọng lượng 254 gram (chỉ nặng hơn 5 gram so với iPhone 18 Pro Max). Khung vỏ được chế tác từ Titanium cấp độ 5 đánh bóng gương sang trọng kết hợp phần che bản lề bằng titan in 3D và đạt chuẩn kháng nước, bụi IP68 (độ sâu 6 mét trong 30 phút) trong 2 màu sắc: Đêm Sao (Night Sky) và Trắng Ánh Sao (Star White). Màn hình ngoài rộng 5,4 inch (1398 x 2034 pixel, 460 ppi, kính Ceramic Shield 2), trong khi màn hình gập bên trong rộng 7,6 inch (1878 x 2670 pixel, 430 ppi) được phủ lớp hoàn thiện Nano-texture giúp triệt tiêu phản xạ ánh sáng và làm mờ tối đa vết hằn nếp gấp. Cả hai màn hình đều đạt ProMotion 1–120Hz, đỉnh sáng 3.000 nit và hỗ trợ bút cảm ứng Apple Pencil (USB-C).",
+    "iPhone Duo được trang bị vi xử lý tiến trình 2nm Apple A20 Pro (CPU 6 nhân với 2 lõi siêu xử lý, GPU 7 nhân tích hợp Neural Accelerators, Bộ đôi Neural Engine 16 nhân) kết hợp bộ xử lý hiển thị kép (Dual Display Engine) điều khiển đồng thời cả hai màn hình ở tần số 120Hz. Đi kèm dung lượng RAM 12GB LPDDR5X và 4 tùy chọn bộ nhớ 256GB, 512GB, 1TB, 2TB, máy xử lý mượt mà việc mở 2 ứng dụng song song (Split View), kéo thả nội dung giữa các cửa sổ và vận hành toàn bộ hệ thống Apple Intelligence trên iOS 27.",
+    "Hệ thống nhiếp ảnh của iPhone Duo khai thác triệt để lợi thế của thiết kế 2 màn hình. Cụm camera sau 48MP Dual Fusion gồm Camera chính 48MP (26mm, ƒ/1.6, sensor-shift OIS, tích hợp Telephoto 2x 52mm) và Camera góc siêu rộng 48MP (13mm, ƒ/2.2, chụp Macro 48MP), hỗ trợ quay 4K 120fps Dolby Vision và Cinematic mode 4K 60fps. Nhờ có màn hình ngoài 5,4 inch, người dùng có thể dùng chính cụm camera sau 48MP để chụp ảnh selfie chất lượng cao, đồng thời kích hoạt các tính năng độc quyền như Duo Preview (hiển thị hình ảnh xem trước trên màn hình ngoài cho người được chụp), Kid Cue (hiển thị hoạt ảnh thu hút sự chú ý của trẻ nhỏ khi chụp ảnh) và Smart Take. Ngoài ra, máy còn có camera trước bên ngoài 12MP (ƒ/2.2) và một camera FaceTime ẩn hoàn toàn dưới màn hình trong (khẩu độ ƒ/1.8, 4MP) hỗ trợ tính năng Duo FaceTime (cho phép hai người ngồi đối diện cùng tham gia cuộc gọi video trên 2 màn hình).",
+    "Bên trong hai nửa thân máy siêu mỏng của iPhone Duo là hệ thống pin kép có tổng dung lượng 4.883 mAh (theo dữ liệu nhãn năng lượng EPREL/Wikipedia). Theo công bố chính thức của Apple, máy đáp ứng trọn vẹn 24 giờ sử dụng hỗn hợp cả hai màn hình, đạt tới 44 giờ xem video khi dùng màn hình ngoài và 31 giờ xem video khi mở màn hình chính 7,6 inch. Thiết bị hỗ trợ sạc nhanh có dây qua cổng USB-C đạt 50% pin trong khoảng 20 phút (với củ sạc 60W trở lên) và sạc không dây MagSafe / Qi2 công suất 25W.",
+    "Xuất xưởng cùng iOS 27.1 và hiện chạy iOS 27.2 tính đến tháng 11/2026, iPhone Duo mang đến trải nghiệm phần mềm độc đáo: khi gập nghiêng máy trên bàn như một chiếc laptop thu nhỏ, giao diện tự động chia nửa trên để xem video/gọi FaceTime và nửa dưới làm bàn điều khiển, hoặc tự động kích hoạt đồng hồ StandBy mà không cần cắm sạc. Thay vì Face ID, Apple trang bị cảm biến vân tay Touch ID trên nút nguồn cạnh bên để mở khóa thuận tiện ở mọi tư thế, đi kèm nút Camera Control, modem 5G Apple C2, chip mạng Apple N1 (Wi-Fi 7, Bluetooth 6.0), cổng USB 3 (10Gb/s) và thiết kế chỉ dùng eSIM trên toàn cầu (kể cả tại Việt Nam)."
+  ],
+  "priceSegment": "flagship"
+}

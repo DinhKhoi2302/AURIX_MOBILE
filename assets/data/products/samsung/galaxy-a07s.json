@@ -1,0 +1,335 @@
+{
+  "id": "galaxy-a07s",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "model": "Galaxy A07s",
+  "series": "Galaxy A",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "entry-level"
+  ],
+  "status": "needs_verification",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Samsung Galaxy A07s là phiên bản nâng cấp nhẹ trong dòng Galaxy A07 phổ thông ra mắt tháng 09/2026, trang bị vi xử lý MediaTek Helio G99+ (6nm) tối ưu xung nhịp, màn hình 6,7 inch 90Hz, camera chính 50MP PDAF, chuẩn kháng bụi/nước IP54 và viên pin 5.000 mAh sạc nhanh 25W.",
+    "highlights": [
+      "6,7 inch 90Hz rộng rãi",
+      "MediaTek Helio G99+ (6nm)",
+      "Camera 50MP PDAF + 2MP",
+      "Pin 5.000 mAh · Sạc 25W · IP54"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": null,
+    "originalPrice": null,
+    "promotionPrice": null,
+    "priceUpdatedAt": "2026-11-01",
+    "priceVerified": false
+  },
+  "variants": [
+    {
+      "sku": "AUR-SAM-A07S-RAM-STD-01",
+      "color": "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)",
+      "colorHex": "#102347",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "price": null,
+      "originalPrice": null,
+      "stockStatus": "needs_verification",
+      "images": [
+        "assets/images/placeholders/placeholder-default.svg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "PLS LCD",
+    "size": "6,7 inch",
+    "resolution": "HD+ (720 x 1600 pixel)",
+    "refreshRate": "90Hz",
+    "brightness": "600 nit",
+    "hdr": null,
+    "protection": "Kính cường lực",
+    "features": [
+      "Tần số quét 90Hz",
+      "Bảo vệ mắt"
+    ]
+  },
+  "performance": {
+    "chipset": "MediaTek Helio G99+ (6nm)",
+    "cpu": "8 nhân (2x 2,2 GHz Cortex-A76 + 6x 2,0 GHz Cortex-A55)",
+    "gpu": "Mali-G57 MC2",
+    "ram": [
+      "4GB",
+      "6GB"
+    ],
+    "storage": [
+      "64GB",
+      "128GB"
+    ],
+    "operatingSystem": "Android 16, One UI 8",
+    "uiVersion": "One UI",
+    "expandableStorage": "Hỗ trợ thẻ nhớ microSDXC (khe độc lập)"
+  },
+  "rearCamera": {
+    "main": "50MP Wide f/1.8 (1/2.76\", PDAF)",
+    "ultraWide": "Cảm biến phụ 2MP xóa phông",
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "1080p@30/60fps"
+    ],
+    "aiFeatures": [
+      "Chân dung xóa phông",
+      "Làm đẹp AI"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "8MP Wide f/2.0",
+    "features": [
+      "Làm đẹp AI"
+    ],
+    "videoRecording": [
+      "1080p@30fps"
+    ]
+  },
+  "battery": {
+    "capacity": "5.000 mAh",
+    "wiredCharging": "Sạc nhanh 25W USB-C",
+    "wirelessCharging": null,
+    "reverseCharging": null,
+    "chargingTechnology": "Fast Charging 25W"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM + 1 khe microSD độc lập"
+    ],
+    "network": [
+      "4G LTE"
+    ],
+    "wifi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép",
+    "bluetooth": "Bluetooth 5.3 (A2DP, LE)",
+    "gps": [
+      "GPS",
+      "GLONASS",
+      "GALILEO",
+      "BDS"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": false
+  },
+  "design": {
+    "dimensions": "167,4 x 77,4 x 7,6 mm",
+    "weight": "188 g",
+    "materials": [
+      "Mặt trước kính cường lực",
+      "Khung và mặt lưng nhựa bền bỉ"
+    ],
+    "waterResistance": "IP54 (kháng bụi & kháng tia nước bắn)",
+    "availableColors": [
+      "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa đơn / Stereo tiêu chuẩn",
+    "headphoneJack": null,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "6,7 inch 90Hz rộng rãi",
+    "MediaTek Helio G99+ (6nm)",
+    "Camera 50MP PDAF + 2MP",
+    "Pin 5.000 mAh · Sạc 25W · IP54"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Samsung tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/placeholders/placeholder-default.svg",
+    "hasAvatarNamed": false,
+    "gallery": [
+      "assets/images/placeholders/placeholder-default.svg"
+    ],
+    "byColor": {},
+    "bySection": {
+      "performance": "assets/images/placeholders/placeholder-default.svg"
+    }
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s26-series",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s25-series",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-z",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-a",
+      "https://www.samsung.com/vn/smartphones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "verbatimDescription": [
+    "Samsung Galaxy A07s bổ sung thêm lựa chọn đáng giá trong phân khúc phổ thông của Samsung cuối năm 2026 với vi xử lý MediaTek Helio G99+ (6nm), hệ điều hành Android 16 cài sẵn và thiết kế mỏng nhẹ chỉ 7,6 mm (trọng lượng 188 gram).",
+    "Mặt trước của máy là màn hình phẳng PLS LCD kích thước lớn 6,7 inch độ phân giải HD+ (720 x 1600 pixel) cùng tần số quét 90Hz giúp thao tác vuốt chạm mượt mà và hiển thị chữ rõ ràng. Thân máy đạt chuẩn kháng bụi và tia nước IP54 bền bỉ cho nhu cầu sử dụng hàng ngày.",
+    "Sức mạnh hiệu năng của Galaxy A07s đến từ con chip 8 nhân MediaTek Helio G99+ (6nm) kết hợp tùy chọn RAM 4GB/6GB và bộ nhớ lưu trữ 64GB/128GB (hỗ trợ mở rộng qua khe cắm thẻ nhớ microSDXC độc lập), đáp ứng ổn định các ứng dụng học tập, làm việc và giải trí cơ bản.",
+    "Hệ thống camera sau bao gồm cảm biến chính 50MP (khẩu độ f/1.8, lấy nét theo pha PDAF) hỗ trợ quay video Full HD 1080p@60fps cùng cảm biến phụ xóa phông và camera selfie 8MP ở mặt trước.",
+    "Viên pin 5.000 mAh kết hợp công nghệ sạc nhanh có dây 25W qua cổng USB Type-C mang lại thời lượng sử dụng thoải mái suốt cả ngày dài.",
+    "Cài sẵn Android 16 với cam kết hỗ trợ tới 6 bản cập nhật hệ điều hành lớn, tích hợp cảm biến vân tay cạnh bên, giắc cắm tai nghe 3.5mm và Wi-Fi băng tần kép, Galaxy A07s là mẫu smartphone phổ thông bền bỉ, thực dụng."
+  ],
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,7 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "PLS LCD"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "HD+ (720 x 1600 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "90Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Helio G99+ (6nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "4GB / 6GB"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "64GB / 128GB (hỗ trợ microSDXC độc lập)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính PDAF + 2MP Cảm biến phụ"
+    },
+    {
+      "label": "Camera trước",
+      "value": "8MP, khẩu độ f/2.0"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh có dây 25W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 16, One UI"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "4G LTE"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP54 (kháng bụi & tia nước)"
+    }
+  ],
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "PLS LCD",
+      "Kích thước màn hình": "6,7 inch (tỷ lệ hiển thị ~83,6% mặt trước)",
+      "Độ phân giải màn hình": "HD+ (720 x 1600 pixel, tỷ lệ 20:9, ~262 ppi)",
+      "Tần số quét": "90Hz",
+      "Kiểu màn hình": "Màn hình phẳng rộng 6,7 inch",
+      "Tính năng màn hình": "Tần số quét 90Hz mượt mà, chế độ bảo vệ mắt"
+    },
+    "Camera sau": {
+      "Camera sau": "Camera kép: Chính 50MP (f/1.8, 1/2.76\", lấy nét theo pha PDAF) + Cảm biến phụ 2MP hỗ trợ xóa phông",
+      "Quay video": "Full HD 1080p@30/60fps",
+      "Tính năng camera": "Chân dung xóa phông, Chụp đêm, Làm đẹp AI, đèn Flash LED"
+    },
+    "Camera trước": {
+      "Camera trước": "8MP (f/2.0); hỗ trợ quay video Full HD 1080p@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Helio G99+ (tiến trình 6nm)",
+      "Loại CPU": "8 nhân (2 nhân Cortex-A76 2,2 GHz + 6 nhân Cortex-A55 2,0 GHz)",
+      "GPU": "Mali-G57 MC2"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "4GB / 6GB (hỗ trợ mở rộng RAM Plus)",
+      "Bộ nhớ trong": "64GB / 128GB (có khe cắm thẻ nhớ microSDXC độc lập)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.000 mAh (Li-Ion)",
+      "Công nghệ sạc": "Sạc nhanh có dây 25W qua cổng USB-C",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 16, giao diện One UI (hỗ trợ cập nhật 6 thế hệ Android)",
+      "Công nghệ - Tiện ích": "Bảo mật Samsung Knox, Thư mục bảo mật, Mở khóa vân tay cạnh bên",
+      "Tiện ích khác": "Giắc cắm tai nghe 3.5mm, đài FM Radio, khe thẻ nhớ microSDXC độc lập",
+      "Thời điểm ra mắt": "Tháng 09/2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "4G LTE đa băng tần tốc độ cao",
+      "Thẻ SIM": "2 Nano-SIM vật lý + 1 khe thẻ nhớ microSDXC độc lập",
+      "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép, Wi-Fi Direct",
+      "Bluetooth": "Bluetooth 5.3 (A2DP, LE)",
+      "Công nghệ NFC": "Không hỗ trợ NFC",
+      "GPS": "GPS, GLONASS, GALILEO, BDS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung nhựa polycarbonate gia cố cứng cáp",
+      "Chất liệu mặt lưng": "Mặt trước kính cường lực, mặt lưng hoàn thiện nhám mờ",
+      "Kích thước": "167,4 x 77,4 x 7,6 mm",
+      "Trọng lượng": "188 gram",
+      "Chỉ số kháng nước, bụi": "IP54 (kháng bụi và kháng tia nước bắn)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài tích hợp, có cổng tai nghe 3.5mm",
+      "Cảm biến vân tay": "Cảm biến vân tay tích hợp nút nguồn cạnh bên",
+      "Các loại cảm biến": "Vân tay cạnh bên, Gia tốc kế, Cảm biến tiệm cận"
+    }
+  }
+}

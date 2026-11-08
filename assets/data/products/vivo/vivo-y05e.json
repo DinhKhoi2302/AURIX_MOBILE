@@ -1,0 +1,389 @@
+{
+  "id": "vivo-y05e",
+  "brand": "vivo",
+  "brandId": "vivo",
+  "parentGroupId": "vivo",
+  "model": "vivo Y05e",
+  "series": "vivo Y Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "entry-level"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Giảm giá",
+      "type": "sale"
+    }
+  ],
+  "overview": {
+    "releaseDate": "24/02/2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Chính thức ra mắt vào tháng 02/2026 – Mở bán chính thức tháng 03/2026 tại Việt Nam, vivo Y05e là bước tiến quan trọng của thương hiệu Vivo trong chiến lược chinh phục người tiêu dùng hiện đại. Thiết bị sở hữu mã hiệu V2441 / V2441A, được định vị là Lựa chọn tiết kiệm tối đa dành cho người dùng phổ thông, học sinh sinh viên cần một chiếc máy nghe gọi bền bỉ, pin 5.150 mAh và kháng nước bụi IP64. Với mức giá niêm yết tham khảo trong khoảng 2.390.000 VNĐ – 2.690.000 VNĐ, sản phẩm không chỉ mang lại giá trị công nghệ vượt trội mà còn khẳng định ngôn ngữ thiết kế thời thượng, đột phá của Vivo.\n\nTrong bối cảnh thị trường smartphone ngày càng cạnh tranh khốc liệt, vivo Y05e nổi lên như một điểm sáng nhờ sự dung hòa hoàn hảo giữa vẻ đẹp thẩm mỹ bên ngoài và sức mạnh phần cứng bên trong. Vivo đã lắng nghe sâu sắc phản hồi của người dùng Việt Nam để tinh chỉnh từng đường nét thiết kế, tối ưu hóa thuật toán phần mềm Funtouch OS và trang bị các linh kiện phần cứng hàng đầu nhằm mang lại trải nghiệm cầm nắm và vận hành bền bỉ qua nhiều năm sử dụng.",
+    "highlights": [
+      "6,74 inch",
+      "Unisoc T7225 8 nhân",
+      "Pin 5.150 mAh"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 2390000,
+    "originalPrice": 4490000,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT010-VVY05E-XANH-4GB-64GB",
+      "color": "Xanh",
+      "colorHex": "#2563EB",
+      "ram": "4GB",
+      "storage": "4GB/64GB",
+      "rom": "64GB",
+      "price": 2390000,
+      "originalPrice": 4490000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/vivo/vivo-y05e/anh-dai-dien-vivo-y05e-xanh.webp",
+        "assets/images/products/vivo/vivo-y05e/vivo-Y05e.jpg"
+      ]
+    },
+    {
+      "sku": "DT010-VVY05E-XANH-4GB-128GB",
+      "color": "Xanh",
+      "colorHex": "#2563EB",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 2690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/vivo/vivo-y05e/anh-dai-dien-vivo-y05e-xanh.webp",
+        "assets/images/products/vivo/vivo-y05e/vivo-Y05e.jpg"
+      ]
+    },
+    {
+      "sku": "DT010-VVY05E-DEN-4GB-64GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "4GB",
+      "storage": "4GB/64GB",
+      "rom": "64GB",
+      "price": 2390000,
+      "originalPrice": 4490000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/vivo/vivo-y05e/anh-dai-dien-vivo-y05e-den.webp",
+        "assets/images/products/vivo/vivo-y05e/vivo-Y05e.jpg"
+      ]
+    },
+    {
+      "sku": "DT010-VVY05E-DEN-4GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 2690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/vivo/vivo-y05e/anh-dai-dien-vivo-y05e-den.webp",
+        "assets/images/products/vivo/vivo-y05e/vivo-Y05e.jpg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "IPS LCD 90Hz, bảo vệ mắt TÜV Rheinland",
+    "size": "6,74 inch",
+    "resolution": "1600 x 720 pixel (HD+, 260 ppi)",
+    "refreshRate": "90Hz",
+    "brightness": "Không hỗ trợ HDR, Độ sáng tiêu chuẩn 450 nit / đỉnh ngoài trời 570 nit (HBM), Bộ lọc ánh sáng xanh bảo vệ mắt ban đêm, chứng nhận TÜV Rheinland",
+    "hdr": "HDR10+ / HLG",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Bộ xử lý 8 nhân Octa-core Unisoc SC9863A / T606 (tiến trình 12nm)",
+    "cpu": "8 nhân: Cortex-A55 tiết kiệm năng lượng xung nhịp lên đến 1,6 GHz",
+    "gpu": "Mali-G57",
+    "ram": [
+      "4GB"
+    ],
+    "storage": [
+      "64GB",
+      "128GB"
+    ],
+    "operatingSystem": "Android 16 cùng giao diện tối ưu Funtouch OS 16",
+    "uiVersion": "Funtouch OS / OriginOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "8MP Chính (ƒ/2.0, AF) kèm đèn flash LED",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "Quay video 1080p ở tốc độ 30 fps"
+    ],
+    "aiFeatures": [
+      "Chụp ảnh tự động, Chân dung thuật toán, Chụp đêm cơ bản, Quét mã QR, Zoom: Zoom kỹ thuật số tối đa 4x"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "5MP Selfie (ƒ/2.2)",
+    "features": [
+      "5MP, khẩu độ ƒ/2.2, Quay video: Quay video 720p/1080p ở 30 fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "5.150 mAh (Độ bền pin 4 năm)",
+    "wiredCharging": "Sạc có dây 15W USB-C",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc 15W qua cổng Type-C; thời gian sạc đầy khoảng 2 giờ 15 phút | Không hỗ trợ sạc không dây"
+  },
+  "connectivity": {
+    "sim": [
+      "Hai SIM Nano vật lý + 1 khe cắm thẻ nhớ microSD chuyên biệt"
+    ],
+    "network": [
+      "4G LTE"
+    ],
+    "wifi": "Wi-Fi 802.11 b/g/n/ac băng tần kép (2.4GHz & 5GHz)",
+    "bluetooth": "Bluetooth 5.0",
+    "gps": [
+      "GPS, GLONASS, Galileo, BeiDou, QZSS"
+    ],
+    "usb": "USB Type-C (USB 2.0), giắc cắm tai nghe 3.5mm tiện dụng",
+    "nfc": false
+  },
+  "design": {
+    "dimensions": "167,30 x 76,95 x 8,19 mm",
+    "weight": "199 gram",
+    "materials": [
+      "Khung viền polycarbonate mờ",
+      "mặt lưng nhựa hoa văn kim cương sang trọng"
+    ],
+    "waterResistance": "IP54 kháng bụi và nước bắn",
+    "availableColors": [
+      "Xanh",
+      "Đen"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa ngoài đơn âm với khuếch đại âm lượng 150%",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "LCD 6.74 inch"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền vivo tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/vivo/vivo-y05e/anh-dai-dien-vivo-y05e-xanh.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/vivo/vivo-y05e/anh-dai-dien-vivo-y05e-xanh.webp",
+      "assets/images/products/vivo/vivo-y05e/anh-dai-dien-vivo-y05e-den.webp",
+      "assets/images/products/vivo/vivo-y05e/vivo-Y05e.jpg"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/vivo/vivo-y05e/anh-dai-dien-vivo-y05e-den.webp",
+        "assets/images/products/vivo/vivo-y05e/vivo-Y05e.jpg"
+      ],
+      "Xanh": [
+        "assets/images/products/vivo/vivo-y05e/anh-dai-dien-vivo-y05e-xanh.webp",
+        "assets/images/products/vivo/vivo-y05e/vivo-Y05e.jpg"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/vivo/vivo-y05e/anh-dai-dien-vivo-y05e-den.webp",
+      "screen": "assets/images/products/vivo/vivo-y05e/vivo-Y05e.jpg"
+    },
+    "descriptionImages": [
+      "assets/images/products/vivo/vivo-y05e/anh-dai-dien-vivo-y05e-den.webp",
+      "assets/images/products/vivo/vivo-y05e/vivo-Y05e.jpg"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-vivo",
+      "https://www.vivo.com/vn/products"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "partial_retail_listing",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT010-VVY05E",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "IPS LCD 16,7 triệu màu, góc nhìn rộng tiêu chuẩn",
+      "Kích thước màn hình": "6,74 inch theo đường chéo (màn hình phẳng viền giọt nước)",
+      "Độ phân giải màn hình": "1600 x 720 pixel (chuẩn HD+, tỷ lệ khung hình 20:9)",
+      "Tần số quét": "90Hz mượt mà (tự động điều chỉnh 60Hz - 90Hz)",
+      "Kiểu màn hình": "Màn hình phẳng tràn viền",
+      "Tính năng màn hình": "Không hỗ trợ HDR, Độ sáng tiêu chuẩn 450 nit / đỉnh ngoài trời 570 nit (HBM), Bộ lọc ánh sáng xanh bảo vệ mắt ban đêm, chứng nhận TÜV Rheinland"
+    },
+    "Camera sau": {
+      "Camera sau": "1 camera sau đơn giản kèm đèn flash LED - 8MP, khẩu độ ƒ/2.0, tự động lấy nét AF",
+      "Quay video": "Quay video 1080p ở tốc độ 30 fps",
+      "Tính năng camera": "Chụp ảnh tự động, Chân dung thuật toán, Chụp đêm cơ bản, Quét mã QR, Zoom: Zoom kỹ thuật số tối đa 4x"
+    },
+    "Camera trước": {
+      "Camera trước": "5MP, khẩu độ ƒ/2.2, Quay video: Quay video 720p/1080p ở 30 fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Bộ xử lý 8 nhân Octa-core Unisoc SC9863A / T606 (tiến trình 12nm)",
+      "Loại CPU": "8 nhân: Cortex-A55 tiết kiệm năng lượng xung nhịp lên đến 1,6 GHz",
+      "GPU": "Mali-G57"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "4GB LPDDR4X (mở rộng thêm 4GB RAM ảo)",
+      "Bộ nhớ trong": "64GB eMMC 5.1"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.150 mAh (pin siêu bền tuổi thọ 4 năm) - Sử dụng liên tục lên đến 2 ngày; xem video 18 giờ; nghe nhạc 60 giờ",
+      "Công nghệ sạc": "Sạc 15W qua cổng Type-C; thời gian sạc đầy khoảng 2 giờ 15 phút | Không hỗ trợ sạc không dây",
+      "Cổng sạc": "USB Type-C (USB 2.0), giắc cắm tai nghe 3.5mm tiện dụng"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 16 cùng giao diện tối ưu Funtouch OS 16",
+      "Công nghệ - Tiện ích": "Trợ lý Jovi AI cơ bản, chế độ tối ưu hóa bộ nhớ RAM thông minh, Thiết kế khuyết đỉnh giọt nước (Waterdrop notch)",
+      "Tiện ích khác": "Phím nguồn kèm vân tay, phím âm lượng, cuộc gọi khẩn cấp SOS",
+      "Thời điểm ra mắt": "24/02/2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "Hỗ trợ mạng 4G LTE chuẩn Cat.4",
+      "Thẻ SIM": "Hai SIM Nano vật lý + 1 khe cắm thẻ nhớ microSD chuyên biệt",
+      "Wi-Fi": "Wi-Fi 802.11 b/g/n/ac băng tần kép (2.4GHz & 5GHz)",
+      "Bluetooth": "Bluetooth 5.0",
+      "Công nghệ NFC": "Không hỗ trợ NFC",
+      "GPS": "GPS, GLONASS, Galileo, BeiDou, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền polycarbonate mờ",
+      "Chất liệu mặt lưng": "mặt lưng nhựa hoa văn kim cương sang trọng",
+      "Kích thước": "167,30 x 76,95 x 8,19 mm",
+      "Trọng lượng": "199 gram",
+      "Chỉ số kháng nước, bụi": "IP64 (kháng bụi xâm nhập và kháng nước bắn tóe toàn diện)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài đơn âm với khuếch đại âm lượng 150%",
+      "Cảm biến vân tay": "Cảm biến vân tay cạnh bên, Mở khóa bằng khuôn mặt 2D",
+      "Các loại cảm biến": "Cảm biến vân tay cạnh bên, gia tốc kế, cảm biến ánh sáng, cảm biến tiệm cận ảo"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,74 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "IPS LCD 90Hz, bảo vệ mắt TÜV Rheinland"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "1600 x 720 pixel (HD+, 260 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "90Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Unisoc T7225 8 nhân (12nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "4GB LPDDR4X (+4GB RAM mở rộng)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "64GB / 128GB (Hỗ trợ MicroSD 1TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "8MP Chính (ƒ/2.0, AF) kèm đèn flash LED"
+    },
+    {
+      "label": "Camera trước",
+      "value": "5MP Selfie (ƒ/2.2)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.150 mAh (Độ bền pin 4 năm)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc có dây 15W USB-C"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Funtouch OS 15 (Android 15)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "4G LTE"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP54 kháng bụi và nước bắn"
+    }
+  ],
+  "verbatimDescription": [
+    "Chính thức ra mắt vào tháng 02/2026 – Mở bán chính thức tháng 03/2026 tại Việt Nam, vivo Y05e là bước tiến quan trọng của thương hiệu Vivo trong chiến lược chinh phục người tiêu dùng hiện đại. Thiết bị sở hữu mã hiệu V2441 / V2441A, được định vị là Lựa chọn tiết kiệm tối đa dành cho người dùng phổ thông, học sinh sinh viên cần một chiếc máy nghe gọi bền bỉ, pin 5.150 mAh và kháng nước bụi IP64. Với mức giá niêm yết tham khảo trong khoảng 2.390.000 VNĐ – 2.690.000 VNĐ, sản phẩm không chỉ mang lại giá trị công nghệ vượt trội mà còn khẳng định ngôn ngữ thiết kế thời thượng, đột phá của Vivo.\n\nTrong bối cảnh thị trường smartphone ngày càng cạnh tranh khốc liệt, vivo Y05e nổi lên như một điểm sáng nhờ sự dung hòa hoàn hảo giữa vẻ đẹp thẩm mỹ bên ngoài và sức mạnh phần cứng bên trong. Vivo đã lắng nghe sâu sắc phản hồi của người dùng Việt Nam để tinh chỉnh từng đường nét thiết kế, tối ưu hóa thuật toán phần mềm Funtouch OS và trang bị các linh kiện phần cứng hàng đầu nhằm mang lại trải nghiệm cầm nắm và vận hành bền bỉ qua nhiều năm sử dụng.",
+    "Ngoại hình của vivo Y05e thu hút mọi ánh nhìn với kích thước chuẩn mực 167,30 x 76,95 x 8,19 mm cùng trọng lượng 199 gram. Thân máy được chế tác từ Khung viền polycarbonate mờ, mặt lưng nhựa hoa văn kim cương sang trọng, mang lại cảm giác đầm tay, chắc chắn nhưng vẫn vô cùng êm ái khi sử dụng liên tục trong thời gian dài. Các phiên bản màu sắc chính thức gồm Xanh Ánh Sao (Starry Blue), Đen Không Gian (Space Black) được xử lý bề mặt tinh xảo, vừa toát lên vẻ sang trọng vừa hạn chế tối đa tình trạng bám dính dấu vân tay và mồ hôi.\n\nMặt trước của máy là không gian hiển thị ấn tượng với kích thước 6,74 inch theo đường chéo (màn hình phẳng viền giọt nước). Vivo trang bị tấm nền IPS LCD 16,7 triệu màu, góc nhìn rộng tiêu chuẩn cùng độ phân giải 1600 x 720 pixel (chuẩn HD+, tỷ lệ khung hình 20:9) đạt mật độ điểm ảnh 260 ppi. Tần số quét 90Hz mượt mà (tự động điều chỉnh 60Hz - 90Hz) kết hợp độ sáng Độ sáng tiêu chuẩn 450 nit / đỉnh ngoài trời 570 nit (HBM) giúp màn hình hiển thị xuất sắc trong mọi điều kiện ánh sáng, kể cả dưới trời nắng chói chang giữa trưa. Lớp bảo vệ Kính cường lực tiêu chuẩn chống trầy xước và chuẩn kháng nước bụi IP64 (kháng bụi xâm nhập và kháng nước bắn tóe toàn diện) đem lại sự an tâm tuyệt đối trước các tác động va đập hay thời tiết khắc nghiệt.",
+    "Ẩn chứa bên trong vivo Y05e là sức mạnh của bộ vi xử lý Bộ xử lý 8 nhân Octa-core Unisoc SC9863A / T606 (tiến trình 12nm). Cấu trúc CPU gồm 8 nhân: Cortex-A55 tiết kiệm năng lượng xung nhịp lên đến 1,6 GHz, đi kèm chip đồ họa Mali-G57 và bộ xử lý trí tuệ nhân tạo Xử lý AI cơ bản trong chip. Sự kết hợp phần cứng đồng bộ này đem lại hiệu năng ấn tượng: Đạt khoảng 210.000 điểm AnTuTu, xử lý tốt các tác vụ cơ bản: nghe gọi, Zalo, lướt web, xem video.\n\nKhả năng quản lý đa nhiệm của thiết bị được nâng tầm nhờ bộ nhớ RAM 4GB LPDDR4X (mở rộng thêm 4GB RAM ảo). Bộ nhớ trong 64GB eMMC 5.1 chuẩn tốc độ cao mang lại không gian lưu trữ rộng rãi cho hàng nghìn bức ảnh, tài liệu và các tựa game nặng. Khả năng hỗ trợ thẻ nhớ (Hỗ trợ thẻ nhớ MicroSD dung lượng lên đến 1TB) đem lại sự linh hoạt tối đa cho người dùng có nhu cầu lưu trữ dữ liệu lớn trong công việc và học tập hàng ngày.",
+    "Hệ thống camera là một trong những niềm tự hào lớn nhất trên vivo Y05e. Mặt sau máy được bố trí 1 camera sau đơn giản kèm đèn flash LED, trong đó camera chính sở hữu thông số 8MP, khẩu độ ƒ/2.0, tự động lấy nét AF. Ống kính góc siêu rộng (Không trang bị) và ống kính tele (Không trang bị) mang đến khả năng thu phóng quang học và kỹ thuật số ấn tượng (Zoom kỹ thuật số tối đa 4x).\n\nSức mạnh nhiếp ảnh của máy được củng cố bởi công nghệ xử lý hình ảnh AI Beautification nâng cao tông màu chân dung cùng hàng loạt chế độ chụp thông minh: Chụp ảnh tự động, Chân dung thuật toán, Chụp đêm cơ bản, Quét mã QR. Về khả năng quay phim, máy hỗ trợ Quay video 1080p ở tốc độ 30 fps với khả năng chống rung quang học và điện tử ổn định vượt trội. Ở mặt trước, camera selfie 5MP, khẩu độ ƒ/2.2 tích hợp các chế độ AI Beauty, bù sáng màn hình Aura Screen Light và quay video Quay video 720p/1080p ở 30 fps, giúp bạn luôn tỏa sáng rạng rỡ trong mọi bức ảnh tự chụp cũng như các cuộc gọi video công việc.",
+    "Thời lượng sử dụng của vivo Y05e được bảo chứng bởi viên pin công nghệ cao có dung lượng 5.150 mAh (pin siêu bền tuổi thọ 4 năm). Nhờ vào việc sử dụng vật liệu mật độ năng lượng cao kết hợp thuật toán tối ưu hóa tiêu thụ điện năng của hệ điều hành, máy cho thời gian vận hành bền bỉ: Sử dụng liên tục lên đến 2 ngày; xem video 18 giờ; nghe nhạc 60 giờ. Người dùng hoàn toàn có thể yên tâm sử dụng máy với cường độ cao mà không phải loay hoay tìm kiếm ổ cắm sạc giữa chừng.\n\nKhi cần tái nạp năng lượng, công nghệ sạc Sạc 15W qua cổng Type-C; thời gian sạc đầy khoảng 2 giờ 15 phút sẽ phát huy sức mạnh tối đa. Thiết bị có thể nạp phần lớn dung lượng pin chỉ trong thời gian ngắn uống một tách cà phê, sẵn sàng đồng hành cùng bạn suốt cả ngày dài. Bên cạnh đó, máy còn hỗ trợ các chuẩn sạc tiện ích: Không hỗ trợ sạc không dây, mang lại sự tiện nghi cao cấp và bảo đảm tuổi thọ pin an toàn qua hàng nghìn chu kỳ sạc xả.",
+    "vivo Y05e xuất xưởng với nền tảng hệ điều hành Android 16 cùng giao diện tối ưu Funtouch OS 16, và tính đến tháng 11/2026 máy vận hành trên Android 16 với các bản vá bảo mật định kỳ. Giao diện người dùng Funtouch OS được thiết kế hiện đại, mượt mà và trực quan, tích hợp sâu các tiện ích trí tuệ nhân tạo Trợ lý Jovi AI cơ bản, chế độ tối ưu hóa bộ nhớ RAM thông minh giúp tự động hóa các tác vụ hàng ngày và cá nhân hóa trải nghiệm người dùng.\n\nVề bảo mật và an toàn dữ liệu, thiết bị tích hợp hệ thống Cảm biến vân tay cạnh bên, Mở khóa bằng khuôn mặt 2D cho tốc độ phản hồi gần như tức thì và độ chính xác cực cao. Các phím bấm vật lý cùng tính năng khẩn cấp (Phím nguồn kèm vân tay, phím âm lượng, cuộc gọi khẩn cấp SOS) được thiết kế công thái học thuận tiện. Hệ thống kết nối đa dạng gồm Hỗ trợ mạng 4G LTE chuẩn Cat.4, Wi-Fi 802.11 b/g/n/ac băng tần kép (2.4GHz & 5GHz), Bluetooth 5.0, Không hỗ trợ NFC; Định vị GPS, GLONASS, BeiDou, Galileo; không hỗ trợ UWB, Hai SIM Nano vật lý + 1 khe cắm thẻ nhớ microSD chuyên biệt cùng hệ thống loa Loa ngoài đơn âm với khuếch đại âm lượng 150% tạo nên một không gian làm việc và giải trí trọn vẹn, liền mạch trong hệ sinh thái Vivo.",
+    "vivo Y05e là sự lựa chọn lý tưởng dành cho người dùng đang tìm kiếm một chiếc điện thoại thông minh toàn diện, sở hữu ngôn ngữ thiết kế hiện đại, cấu hình mạnh mẽ và độ bền bỉ đáng tin cậy. Sản phẩm đặc biệt phù hợp với người dùng yêu thích nhiếp ảnh di động, học sinh, sinh viên, nhân viên văn phòng và các nhà sáng tạo nội dung số cần một thiết bị có màn hình đẹp, thời lượng pin trâu và camera chất lượng cao phục vụ công việc và giải trí hàng ngày.",
+    "Tổng kết lại, vivo Y05e khẳng định vững chắc vị thế dẫn đầu trong phân khúc giá của mình. Với sự kết hợp hoàn hảo giữa phần cứng cao cấp, thuật toán xử lý hình ảnh tiên tiến và chính sách hỗ trợ phần mềm dài hạn từ Vivo, chiếc smartphone này xứng đáng là một trong những khoản đầu tư công nghệ thực dụng và đáng giá nhất trong năm 2026."
+  ],
+  "priceSegment": "entry-level"
+}

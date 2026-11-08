@@ -1,0 +1,375 @@
+{
+  "id": "realme-15-5g",
+  "brand": "realme",
+  "brandId": "realme",
+  "parentGroupId": "realme",
+  "model": "realme 15 5G",
+  "series": "realme Number Series (16 / 15)",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "midrange"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "Năm 2025",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "realme 15 5G tạo dấu ấn mạnh mẽ trong phân khúc tầm trung khi kết hợp viên pin khủng 7.000 mAh cùng sạc nhanh 80W vào thân máy siêu mỏng chỉ 7,69mm và nặng 187g. Máy còn sở hữu màn hình AMOLED 144Hz, camera chính 50MP Sony OIS, camera selfie 50MP quay 4K và chuẩn kháng nước IP68/IP69.",
+    "highlights": [
+      "Viên pin Titan 7.000 mAh sạc nhanh SuperVOOC 80W trong thân máy siêu mỏng 7,69mm (187g)",
+      "Cặp đôi camera 50MP trước và sau: cảm biến chính Sony IMX882 OIS + Selfie 50MP quay video 4K",
+      "Màn hình AMOLED 6,77 inch 144Hz mượt mà, chip Dimensity 7300+ 5G và kháng nước IP68/IP69"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 8690000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT001-RM155G-HONG-8GB-256GB",
+      "color": "Hồng",
+      "colorHex": "#F472B6",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 8690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-15-5g/anh-dai-dien-realme-15-5g-hong.webp",
+        "assets/images/products/realme/realme-15-5g/mat-sau-nghieng-phai-hong.webp",
+        "assets/images/products/realme/realme-15-5g/mat-sau-nghieng-trai-hong.webp",
+        "assets/images/products/realme/realme-15-5g/mat-truoc-nghieng-phai-hong.webp",
+        "assets/images/products/realme/realme-15-5g/mat-truoc-nghieng-trai-hong.webp",
+        "assets/images/products/realme/realme-15-5g/so-do-kich-thuoc-nut-bam-xam-den.webp"
+      ]
+    },
+    {
+      "sku": "DT001-RM155G-HONG-12GB-256GB",
+      "color": "Hồng",
+      "colorHex": "#F472B6",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 9990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-15-5g/anh-dai-dien-realme-15-5g-hong.webp",
+        "assets/images/products/realme/realme-15-5g/mat-sau-nghieng-phai-hong.webp",
+        "assets/images/products/realme/realme-15-5g/mat-sau-nghieng-trai-hong.webp",
+        "assets/images/products/realme/realme-15-5g/mat-truoc-nghieng-phai-hong.webp",
+        "assets/images/products/realme/realme-15-5g/mat-truoc-nghieng-trai-hong.webp",
+        "assets/images/products/realme/realme-15-5g/so-do-kich-thuoc-nut-bam-xam-den.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "AMOLED FHD+ 144Hz",
+    "size": "6,77 inch",
+    "resolution": "FHD+ (2392 x 1080 pixel)",
+    "refreshRate": "144Hz",
+    "brightness": "Độ sáng đỉnh 1.600 nit (HBM) / 4.500 nit (Peak cục bộ), cảm ứng thông minh dưới mưa Rainwater Smart Touch, bảo vệ mắt AI Eye Comfort",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "MediaTek Dimensity 7300+ 5G (tiến trình TSMC 4nm tiết kiệm năng lượng, đi kèm buồng hơi tản nhiệt VC 7000mm²)",
+    "cpu": "CPU 8 nhân (4 nhân hiệu năng cao Cortex-A78 xung nhịp 2.5GHz + 4 nhân tiết kiệm điện Cortex-A55 xung nhịp 2.0GHz)",
+    "gpu": "ARM Mali-G615 MC2 (tích hợp GT Mode tối ưu hóa khung hình game)",
+    "ram": [
+      "8GB",
+      "12GB"
+    ],
+    "storage": [
+      "256GB"
+    ],
+    "operatingSystem": "realme UI 6.0 dựa trên Android 15",
+    "uiVersion": "realme UI",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Sony OIS + 8MP Góc siêu rộng",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "Quay video 4K ở 30 fps; 1080p ở 30/60/120 fps; chống rung kép OIS + EIS"
+    ],
+    "aiFeatures": [
+      "Thuật toán NEXT AI Photography, Chân dung AI Party Mode, Làm nét ảnh mờ AI Ultra Clarity, Xóa vật thể AI Eraser 2.0, Chụp đêm Super Nightscape"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "50MP (Quay 4K)",
+    "features": [
+      "Camera selfie 50MP độ phân giải siêu cao (khẩu độ ƒ/2.0), hỗ trợ chụp chân dung AI, theo dõi ánh mắt AI Eye-tracking và quay video 4K@30fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "7.000 mAh",
+    "wiredCharging": "Sạc nhanh SuperVOOC 80W",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc siêu nhanh SuperVOOC 80W qua cổng USB Type-C, hỗ trợ sạc nhánh Bypass Charging khi chơi game | Không hỗ trợ sạc không dây"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano SIM"
+    ],
+    "network": [
+      "5G Sub-6GHz Dual SIM"
+    ],
+    "wifi": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax, băng tần kép 2.4GHz / 5GHz)",
+    "bluetooth": "Bluetooth 5.4",
+    "gps": [
+      "GPS, GLONASS, Galileo, Beidou, QZSS"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "162,5 x 75,4 x 7,69 mm",
+    "weight": "187 gram",
+    "materials": [
+      "Khung viền hợp chất полиcarbonate gia cường cấu trúc chống sốc ArmorShell",
+      "Mặt lưng sợi thủy tinh / da sinh học mỏng nhẹ chống bám vân tay"
+    ],
+    "waterResistance": "Kháng nước & bụi IP68/IP69",
+    "availableColors": [
+      "Hồng"
+    ]
+  },
+  "audio": {
+    "speakers": "Hệ thống loa kép Stereo hỗ trợ Hi-Res Audio và chế độ siêu âm lượng 300% Ultra Volume",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Number Series",
+    "realme",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền realme tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/realme/realme-15-5g/anh-dai-dien-realme-15-5g-hong-thumb.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/realme/realme-15-5g/anh-dai-dien-realme-15-5g-hong.webp",
+      "assets/images/products/realme/realme-15-5g/mat-sau-nghieng-phai-hong.webp",
+      "assets/images/products/realme/realme-15-5g/mat-sau-nghieng-trai-hong.webp",
+      "assets/images/products/realme/realme-15-5g/mat-truoc-nghieng-phai-hong.webp",
+      "assets/images/products/realme/realme-15-5g/mat-truoc-nghieng-trai-hong.webp",
+      "assets/images/products/realme/realme-15-5g/so-do-kich-thuoc-nut-bam-xam-den.webp"
+    ],
+    "byColor": {
+      "Hồng": [
+        "assets/images/products/realme/realme-15-5g/anh-dai-dien-realme-15-5g-hong.webp",
+        "assets/images/products/realme/realme-15-5g/mat-sau-nghieng-phai-hong.webp",
+        "assets/images/products/realme/realme-15-5g/mat-sau-nghieng-trai-hong.webp",
+        "assets/images/products/realme/realme-15-5g/mat-truoc-nghieng-phai-hong.webp",
+        "assets/images/products/realme/realme-15-5g/mat-truoc-nghieng-trai-hong.webp",
+        "assets/images/products/realme/realme-15-5g/so-do-kich-thuoc-nut-bam-xam-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/realme/realme-15-5g/mat-sau-nghieng-phai-hong.webp",
+      "screen": "assets/images/products/realme/realme-15-5g/mat-truoc-nghieng-phai-hong.webp",
+      "performance": "assets/images/products/realme/realme-15-5g/mat-truoc-nghieng-trai-hong.webp",
+      "camera": "assets/images/products/realme/realme-15-5g/mat-sau-nghieng-trai-hong.webp",
+      "battery": "assets/images/products/realme/realme-15-5g/so-do-kich-thuoc-nut-bam-xam-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/realme/realme-15-5g/mat-sau-nghieng-phai-hong.webp",
+      "assets/images/products/realme/realme-15-5g/mat-sau-nghieng-trai-hong.webp",
+      "assets/images/products/realme/realme-15-5g/mat-truoc-nghieng-phai-hong.webp",
+      "assets/images/products/realme/realme-15-5g/mat-truoc-nghieng-trai-hong.webp",
+      "assets/images/products/realme/realme-15-5g/so-do-kich-thuoc-nut-bam-xam-den.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-realme",
+      "https://www.realme.com/vn/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT001-RM155G",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "AMOLED Esports Display 10-bit (1,07 tỷ màu), dải màu 100% DCI-P3, hỗ trợ HDR10+ và làm mờ PWM bảo vệ mắt",
+      "Kích thước màn hình": "6,77 inch (tỷ lệ hiển thị ~93,5% mặt trước)",
+      "Độ phân giải màn hình": "2392 x 1080 pixel (Full HD+, mật độ điểm ảnh ~388 ppi)",
+      "Tần số quét": "144Hz mượt mà (tần số lấy mẫu cảm ứng tức thời 2000Hz)",
+      "Kiểu màn hình": "Màn hình phẳng đục lỗ viền siêu mỏng, bảo vệ bởi kính cường lực ArmorShell Glass",
+      "Tính năng màn hình": "Độ sáng đỉnh 1.600 nit (HBM) / 4.500 nit (Peak cục bộ), cảm ứng thông minh dưới mưa Rainwater Smart Touch, bảo vệ mắt AI Eye Comfort"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera kép AI: Camera chính 50MP cảm biến Sony IMX882 (kích thước 1/1.95 inch, khẩu độ ƒ/1.8, chống rung quang học OIS, zoom cảm biến 2x) + Camera góc siêu rộng 8MP (khẩu độ ƒ/2.2, góc nhìn 112°)",
+      "Quay video": "Quay video 4K ở 30 fps; 1080p ở 30/60/120 fps; chống rung kép OIS + EIS",
+      "Tính năng camera": "Thuật toán NEXT AI Photography, Chân dung AI Party Mode, Làm nét ảnh mờ AI Ultra Clarity, Xóa vật thể AI Eraser 2.0, Chụp đêm Super Nightscape"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera selfie 50MP độ phân giải siêu cao (khẩu độ ƒ/2.0), hỗ trợ chụp chân dung AI, theo dõi ánh mắt AI Eye-tracking và quay video 4K@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Dimensity 7300+ 5G (tiến trình TSMC 4nm tiết kiệm năng lượng, đi kèm buồng hơi tản nhiệt VC 7000mm²)",
+      "Loại CPU": "CPU 8 nhân (4 nhân hiệu năng cao Cortex-A78 xung nhịp 2.5GHz + 4 nhân tiết kiệm điện Cortex-A55 xung nhịp 2.0GHz)",
+      "GPU": "ARM Mali-G615 MC2 (tích hợp GT Mode tối ưu hóa khung hình game)"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB / 12GB LPDDR4X (hỗ trợ mở rộng RAM động Dynamic RAM thêm tối đa 12GB lên 24GB)",
+      "Bộ nhớ trong": "256GB chuẩn UFS 3.1 tốc độ cao"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "7.000 mAh (Pin Titan Silicon-Carbon mật độ năng lượng cao trong thân máy siêu mỏng)",
+      "Công nghệ sạc": "Sạc siêu nhanh SuperVOOC 80W qua cổng USB Type-C, hỗ trợ sạc nhánh Bypass Charging khi chơi game | Không hỗ trợ sạc không dây",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "realme UI 6.0 dựa trên Android 15",
+      "Công nghệ - Tiện ích": "AI Smart Loop chia sẻ nhanh, AI Edit Genie chỉnh sửa ảnh bằng giọng nói, GT Mode, Cử chỉ không chạm",
+      "Tiện ích khác": "Thiết kế mỏng nhẹ dù mang viên pin 7.000 mAh, kháng nước áp lực cao IP69",
+      "Thời điểm ra mắt": "07/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G Sub-6GHz (SA/NSA), Dual 5G Standby",
+      "Thẻ SIM": "2 Nano SIM",
+      "Wi-Fi": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax, băng tần kép 2.4GHz / 5GHz)",
+      "Bluetooth": "Bluetooth 5.4",
+      "Công nghệ NFC": "Có hỗ trợ (360° NFC)",
+      "GPS": "GPS, GLONASS, Galileo, Beidou, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền hợp chất полиcarbonate gia cường cấu trúc chống sốc ArmorShell",
+      "Chất liệu mặt lưng": "Mặt lưng sợi thủy tinh / da sinh học mỏng nhẹ chống bám vân tay",
+      "Kích thước": "162,5 x 75,4 x 7,69 mm",
+      "Trọng lượng": "187 gram",
+      "Chỉ số kháng nước, bụi": "Chuẩn IP66 / IP68 / IP69 (kháng bụi tuyệt đối, chịu ngâm nước sâu và tia nước nóng áp lực cao)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo hỗ trợ Hi-Res Audio và chế độ siêu âm lượng 300% Ultra Volume",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình & Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Cảm biến ánh sáng, Cảm biến tiệm cận, La bàn điện tử"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,77 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "AMOLED FHD+ 144Hz"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "FHD+ (2392 x 1080 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "144Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 7300+ 5G (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB / 12GB (Mở rộng RAM ảo 12GB)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB UFS 3.1"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Sony OIS + 8MP Góc siêu rộng"
+    },
+    {
+      "label": "Camera trước",
+      "value": "50MP (Quay 4K)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "7.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh SuperVOOC 80W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "realme UI 6.0 (Android 15)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G Sub-6GHz Dual SIM"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "Kháng nước & bụi IP68/IP69"
+    }
+  ],
+  "verbatimDescription": [
+    "realme 15 5G phá vỡ định kiến 'pin lớn thì máy dày nặng' nhờ công nghệ pin Titan Silicon-Carbon mật độ năng lượng cao. Dù mang trong mình viên pin lên tới 7.000 mAh cho phép sử dụng thoải mái sang ngày thứ hai, thiết bị vẫn duy trì độ mỏng ấn tượng chỉ 7,69 mm và trọng lượng nhẹ 187 gram.",
+    "Đi kèm viên pin khủng là công nghệ sạc nhanh SuperVOOC 80W cùng tính năng sạc nhánh Bypass Charging cấp nguồn trực tiếp khi chơi game, giúp máy luôn mát mẻ và bảo vệ tuổi thọ pin lâu dài.",
+    "Về khả năng nhiếp ảnh, realme 15 5G sở hữu bộ đôi camera 50MP ở cả mặt trước và mặt sau. Camera chính 50MP sử dụng cảm biến Sony IMX882 tích hợp chống rung quang học OIS, kết hợp camera góc siêu rộng 8MP và camera selfie 50MP hỗ trợ quay video 4K ở cả hai mặt.",
+    "Không gian giải trí trên máy vô cùng sống động với màn hình AMOLED 6,77 inch tần số quét 144Hz kết hợp vi xử lý MediaTek Dimensity 7300+ 5G (4nm) và hệ thống tản nhiệt buồng hơi VC 7.000mm².",
+    "Bên cạnh đó, cấu trúc bảo vệ ArmorShell cùng chuẩn kháng bụi nước cao cấp nhất IP66/IP68/IP69 giúp realme 15 5G bền bỉ trước mọi thử thách sử dụng hàng ngày."
+  ],
+  "priceSegment": "midrange"
+}

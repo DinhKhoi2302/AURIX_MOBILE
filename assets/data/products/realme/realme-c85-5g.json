@@ -1,0 +1,552 @@
+{
+  "id": "realme-c85-5g",
+  "brand": "realme",
+  "brandId": "realme",
+  "parentGroupId": "realme",
+  "model": "realme C85 5G",
+  "series": "realme C & Note Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "entry-level"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025 – 2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "realme C85 5G là mẫu smartphone 5G siêu bền nổi bật với viên pin Titan 7.000 mAh sạc nhanh 45W, màn hình lớn 6,8 inch tần số quét 144Hz, vi xử lý Dimensity 6300 5G và hệ thống bảo vệ chuẩn quân đội MIL-STD-810H kết hợp kháng nước IP66/IP68/IP69/IP69K.",
+    "highlights": [
+      "Viên pin Titan 7.000 mAh đi kèm sạc nhanh 45W, sạc nhánh Bypass và sạc ngược có dây",
+      "Độ bền đỉnh cao chuẩn quân đội MIL-STD-810H và kháng nước IP66/IP68/IP69/IP69K",
+      "Màn hình 6,8 inch tần số quét 144Hz siêu mượt kết hợp chip MediaTek Dimensity 6300 5G"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 4690000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT008-RMC855G-XANH-NGOC-6GB-128GB",
+      "color": "Xanh Ngọc",
+      "colorHex": "#48B5A3",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 4690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-c85-5g/anh-dai-dien-realme-c85-5g-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/mat-truoc-dat-tren-ban-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/cam-tren-tay-mat-sau-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/mat-sau-dat-tren-ban-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/can-canh-canh-duoi-cong-sac-loa-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/can-canh-khay-sim-canh-trai-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/canh-ben-trai-phai-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/canh-tren-duoi-loa-cong-sac-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/can-canh-cum-camera-sau-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/cam-hai-tay-chup-anh-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/cam-tren-tay-man-hinh-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/can-canh-nut-nguon-va-am-luong-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/thiet-ke-khang-nuoc-ip69-pro-chong-soc-quan-doi-nau-den.webp",
+        "assets/images/products/realme/realme-c85-5g/tinh-nang-camera-sony-50mp-ai-edit-genie-den-xam.webp",
+        "assets/images/products/realme/realme-c85-5g/thong-so-chip-dimensity-6300-5g-google-gemini-den-vang.webp",
+        "assets/images/products/realme/realme-c85-5g/thong-so-man-hinh-ips-lcd-144hz-1200nits-xanh-la.webp",
+        "assets/images/products/realme/realme-c85-5g/thong-so-pin-titan-7000mah-sac-45w-xanh-duong.webp",
+        "assets/images/products/realme/realme-c85-5g/tong-quan-tinh-nang-pin-7000mah-ip69-pro-dimensity-6300-xanh-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT008-RMC855G-XANH-NGOC-8GB-128GB",
+      "color": "Xanh Ngọc",
+      "colorHex": "#48B5A3",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 5190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-c85-5g/anh-dai-dien-realme-c85-5g-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/mat-truoc-dat-tren-ban-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/cam-tren-tay-mat-sau-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/mat-sau-dat-tren-ban-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/can-canh-canh-duoi-cong-sac-loa-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/can-canh-khay-sim-canh-trai-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/canh-ben-trai-phai-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/canh-tren-duoi-loa-cong-sac-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/can-canh-cum-camera-sau-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/cam-hai-tay-chup-anh-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/cam-tren-tay-man-hinh-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/can-canh-nut-nguon-va-am-luong-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/thiet-ke-khang-nuoc-ip69-pro-chong-soc-quan-doi-nau-den.webp",
+        "assets/images/products/realme/realme-c85-5g/tinh-nang-camera-sony-50mp-ai-edit-genie-den-xam.webp",
+        "assets/images/products/realme/realme-c85-5g/thong-so-chip-dimensity-6300-5g-google-gemini-den-vang.webp",
+        "assets/images/products/realme/realme-c85-5g/thong-so-man-hinh-ips-lcd-144hz-1200nits-xanh-la.webp",
+        "assets/images/products/realme/realme-c85-5g/thong-so-pin-titan-7000mah-sac-45w-xanh-duong.webp",
+        "assets/images/products/realme/realme-c85-5g/tong-quan-tinh-nang-pin-7000mah-ip69-pro-dimensity-6300-xanh-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT008-RMC855G-XANH-NGOC-8GB-256GB",
+      "color": "Xanh Ngọc",
+      "colorHex": "#48B5A3",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 5790000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-c85-5g/anh-dai-dien-realme-c85-5g-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/mat-truoc-dat-tren-ban-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/cam-tren-tay-mat-sau-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/mat-sau-dat-tren-ban-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/can-canh-canh-duoi-cong-sac-loa-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/can-canh-khay-sim-canh-trai-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/canh-ben-trai-phai-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/canh-tren-duoi-loa-cong-sac-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/can-canh-cum-camera-sau-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/cam-hai-tay-chup-anh-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/cam-tren-tay-man-hinh-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/can-canh-nut-nguon-va-am-luong-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/thiet-ke-khang-nuoc-ip69-pro-chong-soc-quan-doi-nau-den.webp",
+        "assets/images/products/realme/realme-c85-5g/tinh-nang-camera-sony-50mp-ai-edit-genie-den-xam.webp",
+        "assets/images/products/realme/realme-c85-5g/thong-so-chip-dimensity-6300-5g-google-gemini-den-vang.webp",
+        "assets/images/products/realme/realme-c85-5g/thong-so-man-hinh-ips-lcd-144hz-1200nits-xanh-la.webp",
+        "assets/images/products/realme/realme-c85-5g/thong-so-pin-titan-7000mah-sac-45w-xanh-duong.webp",
+        "assets/images/products/realme/realme-c85-5g/tong-quan-tinh-nang-pin-7000mah-ip69-pro-dimensity-6300-xanh-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT008-RMC855G-TIM-6GB-128GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 4690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-c85-5g/anh-dai-dien-realme-c85-5g-tim.webp",
+        "assets/images/products/realme/realme-c85-5g/mat-sau-nghieng-phai-tim.webp",
+        "assets/images/products/realme/realme-c85-5g/mat-sau-nghieng-trai-tim.webp",
+        "assets/images/products/realme/realme-c85-5g/mat-truoc-nghieng-phai-tim.webp",
+        "assets/images/products/realme/realme-c85-5g/mat-truoc-nghieng-trai-tim.webp",
+        "assets/images/products/realme/realme-c85-5g/thiet-ke-khang-nuoc-ip69-pro-chong-soc-quan-doi-nau-den.webp",
+        "assets/images/products/realme/realme-c85-5g/tinh-nang-camera-sony-50mp-ai-edit-genie-den-xam.webp",
+        "assets/images/products/realme/realme-c85-5g/thong-so-chip-dimensity-6300-5g-google-gemini-den-vang.webp",
+        "assets/images/products/realme/realme-c85-5g/thong-so-man-hinh-ips-lcd-144hz-1200nits-xanh-la.webp",
+        "assets/images/products/realme/realme-c85-5g/thong-so-pin-titan-7000mah-sac-45w-xanh-duong.webp",
+        "assets/images/products/realme/realme-c85-5g/tong-quan-tinh-nang-pin-7000mah-ip69-pro-dimensity-6300-xanh-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT008-RMC855G-TIM-8GB-128GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 5190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-c85-5g/anh-dai-dien-realme-c85-5g-tim.webp",
+        "assets/images/products/realme/realme-c85-5g/mat-sau-nghieng-phai-tim.webp",
+        "assets/images/products/realme/realme-c85-5g/mat-sau-nghieng-trai-tim.webp",
+        "assets/images/products/realme/realme-c85-5g/mat-truoc-nghieng-phai-tim.webp",
+        "assets/images/products/realme/realme-c85-5g/mat-truoc-nghieng-trai-tim.webp",
+        "assets/images/products/realme/realme-c85-5g/thiet-ke-khang-nuoc-ip69-pro-chong-soc-quan-doi-nau-den.webp",
+        "assets/images/products/realme/realme-c85-5g/tinh-nang-camera-sony-50mp-ai-edit-genie-den-xam.webp",
+        "assets/images/products/realme/realme-c85-5g/thong-so-chip-dimensity-6300-5g-google-gemini-den-vang.webp",
+        "assets/images/products/realme/realme-c85-5g/thong-so-man-hinh-ips-lcd-144hz-1200nits-xanh-la.webp",
+        "assets/images/products/realme/realme-c85-5g/thong-so-pin-titan-7000mah-sac-45w-xanh-duong.webp",
+        "assets/images/products/realme/realme-c85-5g/tong-quan-tinh-nang-pin-7000mah-ip69-pro-dimensity-6300-xanh-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT008-RMC855G-TIM-8GB-256GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 5790000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-c85-5g/anh-dai-dien-realme-c85-5g-tim.webp",
+        "assets/images/products/realme/realme-c85-5g/mat-sau-nghieng-phai-tim.webp",
+        "assets/images/products/realme/realme-c85-5g/mat-sau-nghieng-trai-tim.webp",
+        "assets/images/products/realme/realme-c85-5g/mat-truoc-nghieng-phai-tim.webp",
+        "assets/images/products/realme/realme-c85-5g/mat-truoc-nghieng-trai-tim.webp",
+        "assets/images/products/realme/realme-c85-5g/thiet-ke-khang-nuoc-ip69-pro-chong-soc-quan-doi-nau-den.webp",
+        "assets/images/products/realme/realme-c85-5g/tinh-nang-camera-sony-50mp-ai-edit-genie-den-xam.webp",
+        "assets/images/products/realme/realme-c85-5g/thong-so-chip-dimensity-6300-5g-google-gemini-den-vang.webp",
+        "assets/images/products/realme/realme-c85-5g/thong-so-man-hinh-ips-lcd-144hz-1200nits-xanh-la.webp",
+        "assets/images/products/realme/realme-c85-5g/thong-so-pin-titan-7000mah-sac-45w-xanh-duong.webp",
+        "assets/images/products/realme/realme-c85-5g/tong-quan-tinh-nang-pin-7000mah-ip69-pro-dimensity-6300-xanh-tim.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "IPS LCD 144Hz",
+    "size": "6,8 inch",
+    "resolution": "HD+ / FHD+ (1570 x 720 / 2400 x 1080)",
+    "refreshRate": "144Hz",
+    "brightness": "Độ sáng đỉnh 1.200 nit ngoài trời, chế độ bảo vệ mắt AI Eye Comfort",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "MediaTek Dimensity 6300 5G (tiến trình TSMC 6nm, đi kèm tản nhiệt buồng hơi VC 5300mm²)",
+    "cpu": "CPU 8 nhân (2 nhân hiệu năng cao Cortex-A76 xung nhịp 2.4GHz + 6 nhân tiết kiệm điện Cortex-A55 xung nhịp 2.0GHz)",
+    "gpu": "ARM Mali-G57 MC2",
+    "ram": [
+      "6GB",
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "operatingSystem": "realme UI 6.0 dựa trên Android 15",
+    "uiVersion": "realme UI",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Sony IMX852 (ƒ/1.8) + Cảm biến phụ",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "Quay video 1080p Full HD ở 30 fps; 720p ở 30 fps"
+    ],
+    "aiFeatures": [
+      "Chế độ chụp ảnh dưới nước Underwater Mode, Chụp đêm Nightscape, Chân dung AI, Xóa vật thể AI Eraser"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "8MP (ƒ/2.0)",
+    "features": [
+      "Camera trước 8MP (khẩu độ ƒ/2.0), hỗ trợ làm đẹp chân dung AI và quay video 1080p@30fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "7.000 mAh",
+    "wiredCharging": "Sạc nhanh SuperVOOC 45W",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": "Sạc nhanh SuperVOOC 45W qua cổng USB Type-C, hỗ trợ sạc nhánh Bypass Charging và sạc ngược có dây 10W | Không hỗ trợ sạc không dây"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano SIM (hoặc 1 Nano SIM + 1 thẻ nhớ microSD)"
+    ],
+    "network": [
+      "5G Sub-6GHz Dual SIM"
+    ],
+    "wifi": "Wi-Fi 5 (802.11 a/b/g/n/ac, băng tần kép 2.4GHz / 5GHz)",
+    "bluetooth": "Bluetooth 5.3",
+    "gps": [
+      "GPS, GLONASS, Galileo, Beidou, QZSS"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "166,07 x 77,93 x 8,38 mm",
+    "weight": "215 gram",
+    "materials": [
+      "Khung viền ArmorShell hợp kim nhôm cường lực đạt chuẩn quân đội MIL-STD-810H",
+      "Mặt lưng hoàn thiện hiệu ứng lông vũ ánh sáng chống bám vân tay"
+    ],
+    "waterResistance": "Kháng nước & bụi IP68/IP69/IP69K",
+    "availableColors": [
+      "Xanh Ngọc",
+      "Tím"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa ngoài siêu âm lượng UltraBoom 400%",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "realme C",
+    "realme",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền realme tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/realme/realme-c85-5g/anh-dai-dien-realme-c85-5g-xanh-ngoc-thumb.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/realme/realme-c85-5g/anh-dai-dien-realme-c85-5g-xanh-ngoc.webp",
+      "assets/images/products/realme/realme-c85-5g/anh-dai-dien-realme-c85-5g-tim.webp",
+      "assets/images/products/realme/realme-c85-5g/mat-truoc-dat-tren-ban-xanh-ngoc.webp",
+      "assets/images/products/realme/realme-c85-5g/cam-tren-tay-mat-sau-xanh-ngoc.webp",
+      "assets/images/products/realme/realme-c85-5g/mat-sau-dat-tren-ban-xanh-ngoc.webp",
+      "assets/images/products/realme/realme-c85-5g/mat-sau-nghieng-phai-tim.webp",
+      "assets/images/products/realme/realme-c85-5g/mat-sau-nghieng-trai-tim.webp",
+      "assets/images/products/realme/realme-c85-5g/can-canh-canh-duoi-cong-sac-loa-xanh-ngoc.webp",
+      "assets/images/products/realme/realme-c85-5g/can-canh-khay-sim-canh-trai-xanh-ngoc.webp",
+      "assets/images/products/realme/realme-c85-5g/canh-ben-trai-phai-xanh-ngoc.webp",
+      "assets/images/products/realme/realme-c85-5g/canh-tren-duoi-loa-cong-sac-xanh-ngoc.webp",
+      "assets/images/products/realme/realme-c85-5g/mat-truoc-nghieng-phai-tim.webp",
+      "assets/images/products/realme/realme-c85-5g/mat-truoc-nghieng-trai-tim.webp",
+      "assets/images/products/realme/realme-c85-5g/can-canh-cum-camera-sau-xanh-ngoc.webp",
+      "assets/images/products/realme/realme-c85-5g/cam-hai-tay-chup-anh-xanh-ngoc.webp",
+      "assets/images/products/realme/realme-c85-5g/cam-tren-tay-man-hinh-xanh-ngoc.webp",
+      "assets/images/products/realme/realme-c85-5g/can-canh-nut-nguon-va-am-luong-xanh-ngoc.webp",
+      "assets/images/products/realme/realme-c85-5g/thiet-ke-khang-nuoc-ip69-pro-chong-soc-quan-doi-nau-den.webp",
+      "assets/images/products/realme/realme-c85-5g/tinh-nang-camera-sony-50mp-ai-edit-genie-den-xam.webp",
+      "assets/images/products/realme/realme-c85-5g/thong-so-chip-dimensity-6300-5g-google-gemini-den-vang.webp",
+      "assets/images/products/realme/realme-c85-5g/thong-so-man-hinh-ips-lcd-144hz-1200nits-xanh-la.webp",
+      "assets/images/products/realme/realme-c85-5g/thong-so-pin-titan-7000mah-sac-45w-xanh-duong.webp",
+      "assets/images/products/realme/realme-c85-5g/tong-quan-tinh-nang-pin-7000mah-ip69-pro-dimensity-6300-xanh-tim.webp"
+    ],
+    "byColor": {
+      "Tím": [
+        "assets/images/products/realme/realme-c85-5g/anh-dai-dien-realme-c85-5g-tim.webp",
+        "assets/images/products/realme/realme-c85-5g/mat-sau-nghieng-phai-tim.webp",
+        "assets/images/products/realme/realme-c85-5g/mat-sau-nghieng-trai-tim.webp",
+        "assets/images/products/realme/realme-c85-5g/mat-truoc-nghieng-phai-tim.webp",
+        "assets/images/products/realme/realme-c85-5g/mat-truoc-nghieng-trai-tim.webp",
+        "assets/images/products/realme/realme-c85-5g/thiet-ke-khang-nuoc-ip69-pro-chong-soc-quan-doi-nau-den.webp",
+        "assets/images/products/realme/realme-c85-5g/tinh-nang-camera-sony-50mp-ai-edit-genie-den-xam.webp",
+        "assets/images/products/realme/realme-c85-5g/thong-so-chip-dimensity-6300-5g-google-gemini-den-vang.webp",
+        "assets/images/products/realme/realme-c85-5g/thong-so-man-hinh-ips-lcd-144hz-1200nits-xanh-la.webp",
+        "assets/images/products/realme/realme-c85-5g/thong-so-pin-titan-7000mah-sac-45w-xanh-duong.webp",
+        "assets/images/products/realme/realme-c85-5g/tong-quan-tinh-nang-pin-7000mah-ip69-pro-dimensity-6300-xanh-tim.webp"
+      ],
+      "Xanh Ngọc": [
+        "assets/images/products/realme/realme-c85-5g/anh-dai-dien-realme-c85-5g-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/mat-truoc-dat-tren-ban-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/cam-tren-tay-mat-sau-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/mat-sau-dat-tren-ban-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/can-canh-canh-duoi-cong-sac-loa-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/can-canh-khay-sim-canh-trai-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/canh-ben-trai-phai-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/canh-tren-duoi-loa-cong-sac-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/can-canh-cum-camera-sau-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/cam-hai-tay-chup-anh-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/cam-tren-tay-man-hinh-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/can-canh-nut-nguon-va-am-luong-xanh-ngoc.webp",
+        "assets/images/products/realme/realme-c85-5g/thiet-ke-khang-nuoc-ip69-pro-chong-soc-quan-doi-nau-den.webp",
+        "assets/images/products/realme/realme-c85-5g/tinh-nang-camera-sony-50mp-ai-edit-genie-den-xam.webp",
+        "assets/images/products/realme/realme-c85-5g/thong-so-chip-dimensity-6300-5g-google-gemini-den-vang.webp",
+        "assets/images/products/realme/realme-c85-5g/thong-so-man-hinh-ips-lcd-144hz-1200nits-xanh-la.webp",
+        "assets/images/products/realme/realme-c85-5g/thong-so-pin-titan-7000mah-sac-45w-xanh-duong.webp",
+        "assets/images/products/realme/realme-c85-5g/tong-quan-tinh-nang-pin-7000mah-ip69-pro-dimensity-6300-xanh-tim.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/realme/realme-c85-5g/cam-tren-tay-mat-sau-xanh-ngoc.webp",
+      "screen": "assets/images/products/realme/realme-c85-5g/mat-truoc-dat-tren-ban-xanh-ngoc.webp",
+      "performance": "assets/images/products/realme/realme-c85-5g/thong-so-chip-dimensity-6300-5g-google-gemini-den-vang.webp",
+      "camera": "assets/images/products/realme/realme-c85-5g/can-canh-cum-camera-sau-xanh-ngoc.webp",
+      "battery": "assets/images/products/realme/realme-c85-5g/can-canh-canh-duoi-cong-sac-loa-xanh-ngoc.webp",
+      "feature": "assets/images/products/realme/realme-c85-5g/anh-dai-dien-realme-c85-5g-tim.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/realme/realme-c85-5g/anh-dai-dien-realme-c85-5g-tim.webp",
+      "assets/images/products/realme/realme-c85-5g/mat-truoc-dat-tren-ban-xanh-ngoc.webp",
+      "assets/images/products/realme/realme-c85-5g/cam-tren-tay-mat-sau-xanh-ngoc.webp",
+      "assets/images/products/realme/realme-c85-5g/mat-sau-dat-tren-ban-xanh-ngoc.webp",
+      "assets/images/products/realme/realme-c85-5g/mat-sau-nghieng-phai-tim.webp",
+      "assets/images/products/realme/realme-c85-5g/mat-sau-nghieng-trai-tim.webp",
+      "assets/images/products/realme/realme-c85-5g/can-canh-canh-duoi-cong-sac-loa-xanh-ngoc.webp",
+      "assets/images/products/realme/realme-c85-5g/can-canh-khay-sim-canh-trai-xanh-ngoc.webp",
+      "assets/images/products/realme/realme-c85-5g/canh-ben-trai-phai-xanh-ngoc.webp",
+      "assets/images/products/realme/realme-c85-5g/canh-tren-duoi-loa-cong-sac-xanh-ngoc.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-realme",
+      "https://www.realme.com/vn/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT008-RMC855G",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "IPS LCD 144Hz siêu mượt, hỗ trợ DC Dimming và cảm ứng thông minh khi tay ướt hoặc dính dầu mỡ",
+      "Kích thước màn hình": "6,8 inch",
+      "Độ phân giải màn hình": "1570 x 720 pixel / FHD+ tùy thị trường, hiển thị sắc nét và tiết kiệm pin",
+      "Tần số quét": "144Hz (tần số lấy mẫu cảm ứng 240Hz)",
+      "Kiểu màn hình": "Màn hình phẳng đục lỗ viền mỏng, bảo vệ bởi kính cường lực ArmorShell Glass",
+      "Tính năng màn hình": "Độ sáng đỉnh 1.200 nit ngoài trời, chế độ bảo vệ mắt AI Eye Comfort"
+    },
+    "Camera sau": {
+      "Camera sau": "Camera chính 50MP cảm biến Sony IMX852 (khẩu độ ƒ/1.8, thấu kính 5P, PDAF) + Cảm biến phụ hỗ trợ chụp chân dung xóa phông",
+      "Quay video": "Quay video 1080p Full HD ở 30 fps; 720p ở 30 fps",
+      "Tính năng camera": "Chế độ chụp ảnh dưới nước Underwater Mode, Chụp đêm Nightscape, Chân dung AI, Xóa vật thể AI Eraser"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera trước 8MP (khẩu độ ƒ/2.0), hỗ trợ làm đẹp chân dung AI và quay video 1080p@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Dimensity 6300 5G (tiến trình TSMC 6nm, đi kèm tản nhiệt buồng hơi VC 5300mm²)",
+      "Loại CPU": "CPU 8 nhân (2 nhân hiệu năng cao Cortex-A76 xung nhịp 2.4GHz + 6 nhân tiết kiệm điện Cortex-A55 xung nhịp 2.0GHz)",
+      "GPU": "ARM Mali-G57 MC2"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "6GB / 8GB LPDDR4X (hỗ trợ mở rộng RAM động thêm tối đa 16GB)",
+      "Bộ nhớ trong": "128GB / 256GB UFS 2.2 (có khe cắm thẻ nhớ microSD mở rộng)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "7.000 mAh (Pin Titan mật độ cao tuổi thọ bền bỉ 6 năm)",
+      "Công nghệ sạc": "Sạc nhanh SuperVOOC 45W qua cổng USB Type-C, hỗ trợ sạc nhánh Bypass Charging và sạc ngược có dây 10W | Không hỗ trợ sạc không dây",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "realme UI 6.0 dựa trên Android 15",
+      "Công nghệ - Tiện ích": "AI Outdoor Mode tối ưu hiển thị và âm lượng ngoài trời, Đẩy nước khỏi loa SonicWave, Vòng sáng thông báo Pulse Light",
+      "Tiện ích khác": "Đạt chứng nhận độ bền quân đội MIL-STD-810H và kháng nước IP66/IP68/IP69/IP69K",
+      "Thời điểm ra mắt": "11/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G Sub-6GHz (SA/NSA), Dual 5G Standby",
+      "Thẻ SIM": "2 Nano SIM (hoặc 1 Nano SIM + 1 thẻ nhớ microSD)",
+      "Wi-Fi": "Wi-Fi 5 (802.11 a/b/g/n/ac, băng tần kép 2.4GHz / 5GHz)",
+      "Bluetooth": "Bluetooth 5.3",
+      "Công nghệ NFC": "Có hỗ trợ (360° NFC)",
+      "GPS": "GPS, GLONASS, Galileo, Beidou, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền ArmorShell hợp kim nhôm cường lực đạt chuẩn quân đội MIL-STD-810H",
+      "Chất liệu mặt lưng": "Mặt lưng hoàn thiện hiệu ứng lông vũ ánh sáng chống bám vân tay",
+      "Kích thước": "166,07 x 77,93 x 8,38 mm",
+      "Trọng lượng": "215 gram",
+      "Chỉ số kháng nước, bụi": "Chuẩn IP66 / IP68 / IP69 / IP69K (kháng bụi tuyệt đối, chịu ngâm nước sâu 2m và tia nước nóng 80°C áp lực cao)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài siêu âm lượng UltraBoom 400%",
+      "Cảm biến vân tay": "Cảm biến vân tay tích hợp phím nguồn cạnh bên & Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Cảm biến ánh sáng, Cảm biến tiệm cận, La bàn điện tử"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,8 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "IPS LCD 144Hz"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "HD+ / FHD+ (1570 x 720 / 2400 x 1080)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "144Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 6300 5G (6nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "6GB / 8GB (Mở rộng RAM ảo 8GB)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB UFS 2.2"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Sony IMX852 (ƒ/1.8) + Cảm biến phụ"
+    },
+    {
+      "label": "Camera trước",
+      "value": "8MP (ƒ/2.0)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "7.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh SuperVOOC 45W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "realme UI 6.0 (Android 15)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G Sub-6GHz Dual SIM"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "Kháng nước & bụi IP68/IP69/IP69K"
+    }
+  ],
+  "verbatimDescription": [
+    "realme C85 5G định lập kỷ lục mới về độ bền và pin trong phân khúc phổ thông 5G. Máy được trang bị viên pin Titan dung lượng tới 7.000 mAh kết hợp sạc nhanh SuperVOOC 45W, sạc nhánh Bypass Charging khi vừa sạc vừa dùng và khả năng sạc ngược có dây 10W cho thiết bị khác.",
+    "Cấu trúc thân máy ArmorShell đạt chứng nhận độ bền quân đội MIL-STD-810H cùng chuẩn kháng nước bụi cao nhất IP66/IP68/IP69/IP69K, cho phép chịu được cả tia nước nóng áp suất cao và ngâm nước sâu.",
+    "Mặt trước là màn hình đục lỗ 6,8 inch tần số quét lên tới 144Hz và độ sáng đỉnh 1.200 nit, đi kèm chế độ AI Outdoor Mode tự động tăng độ sáng màn hình, âm lượng loa và hiệu suất mạng khi làm việc ngoài trời.",
+    "Vi xử lý MediaTek Dimensity 6300 5G tiến trình 6nm kết hợp buồng hơi tản nhiệt VC 5.300mm² giúp máy xử lý mượt mà các tác vụ đa nhiệm và kết nối 5G mát mẻ.",
+    "Camera chính 50MP cảm biến Sony IMX852 tích hợp chế độ chụp ảnh dưới nước Underwater Mode độc đáo, cho phép người dùng ghi lại những khoảnh khắc sáng tạo ngay dưới hồ bơi."
+  ],
+  "priceSegment": "entry-level"
+}

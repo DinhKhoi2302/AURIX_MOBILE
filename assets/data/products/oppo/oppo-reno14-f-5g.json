@@ -1,0 +1,307 @@
+{
+  "id": "oppo-reno14-f-5g",
+  "brand": "OPPO",
+  "brandId": "oppo",
+  "parentGroupId": "oppo",
+  "model": "OPPO Reno14 F 5G",
+  "series": "Reno",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "upper-midrange",
+    "5g-ready"
+  ],
+  "status": "needs_verification",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025",
+    "segment": "Cận cao cấp",
+    "description": "OPPO Reno14 F 5G sở hữu thiết kế siêu mỏng nhẹ 7,7mm (180g) cùng màn hình AMOLED 6,57 inch FHD+ 120Hz (1,07 tỷ màu), vi xử lý Qualcomm Snapdragon 6 Gen 1 (4nm), cụm 3 camera sau dẫn đầu bởi cảm biến Sony IMX882 50MP OIS + 8MP Góc siêu rộng AF + 2MP Macro, camera selfie 32MP AF và viên pin 6000mAh sạc nhanh 45W SUPERVOOC.",
+    "highlights": [
+      "Thiết kế siêu mỏng 7,7mm và nhẹ chỉ 180g nhưng tích hợp viên pin lớn 6000mAh",
+      "Camera chính 50MP Sony IMX882 OIS + 8MP Góc siêu rộng 112° có AF + 2MP Macro",
+      "Camera trước 32MP hỗ trợ lấy nét tự động AF chân thực",
+      "Màn hình AMOLED 6,57 inch FHD+ 120Hz, độ sáng HBM 1400 nit, kính AGC Dragontrail DT-Star D+",
+      "Vi xử lý Snapdragon 6 Gen 1 (4nm), chuẩn kháng nước bụi IP68/IP69, chụp ảnh dưới nước"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": null,
+    "originalPrice": null,
+    "promotionPrice": 12760000,
+    "priceUpdatedAt": "2026-11-01",
+    "priceVerified": false
+  },
+  "variants": [
+    {
+      "sku": "AUR-OPP-RENO14-F-5G-12GB-512GB-01",
+      "color": "Xanh",
+      "colorHex": "#10B981",
+      "ram": "12GB",
+      "storage": "512GB",
+      "price": null,
+      "originalPrice": null,
+      "stockStatus": "needs_verification",
+      "images": [
+        "assets/images/placeholders/placeholder-default.svg"
+      ]
+    }
+  ],
+  "display": {
+    "size": "6,57 inch",
+    "technology": "AMOLED (1,07 tỷ màu, 100% DCI-P3)",
+    "resolution": "FHD+ (1080 × 2372 Pixels)",
+    "refreshRate": "120Hz",
+    "maxBrightness": "600 nit (tiêu chuẩn) / 1400 nit (HBM)",
+    "protection": "AGC Dragontrail DT-Star D+"
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 6 Gen 1 (4nm)",
+    "cpu": "8 nhân (4×2.2GHz Cortex-A78 + 4×1.8GHz Cortex-A55)",
+    "gpu": "Adreno 710",
+    "ram": "8GB / 12GB LPDDR4X",
+    "internalStorage": "256GB / 512GB UFS 3.1 (Hỗ trợ thẻ nhớ microSDXC)",
+    "os": "Android 15 (ColorOS 15.0)"
+  },
+  "rearCamera": {
+    "mainSensor": "50MP Sony IMX882 (f/1.8, 26mm, cảm biến 1/1.95\", PDAF, chống rung OIS)",
+    "ultraWide": "8MP (f/2.2, 16mm, góc nhìn 112°, hỗ trợ lấy nét tự động AF)",
+    "telephoto": "2MP Macro (f/2.4)",
+    "videoRecording": "4K@30fps, 1080p@30/60/120fps, chống rung OIS + gyro-EIS",
+    "features": [
+      "AI Flash Livephoto",
+      "AI Recompose & AI Perfect Shot",
+      "Chụp ảnh dưới nước (Underwater)",
+      "Cảm biến quang phổ màu",
+      "Chống rung quang học OIS"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "32MP (f/2.0, 22mm, cảm biến 1/2.74\", hỗ trợ lấy nét tự động AF)",
+    "videoRecording": "1080p@30fps",
+    "features": [
+      "Lấy nét tự động AF",
+      "Chân dung AI",
+      "AI Style Transfer",
+      "Panorama"
+    ]
+  },
+  "battery": {
+    "capacity": "6000 mAh",
+    "batteryType": "Pin Li-Ion mật độ năng lượng cao",
+    "chargingPower": "Sạc nhanh 45W SUPERVOOC (44W PPS, PD2, QC2.0)",
+    "wirelessCharging": "Không hỗ trợ"
+  },
+  "connectivity": {
+    "sim": "2 Nano-SIM hoặc 1 Nano-SIM + 1 eSIM (Hỗ trợ thẻ nhớ microSDXC)",
+    "network": "5G SA/NSA đa băng tần & 4G LTE",
+    "wifi": "Wi-Fi 5 (802.11ac), Dual-band",
+    "bluetooth": "Bluetooth 5.1 (LHDC 5.0, aptX HD)",
+    "nfc": "Có hỗ trợ",
+    "usb": "USB Type-C 2.0, OTG"
+  },
+  "design": {
+    "formFactor": "Siêu mỏng nhẹ 7,7mm và 180g, cảm giác cầm nắm thanh thoát",
+    "materials": "Mặt trước kính AGC Dragontrail DT-Star D+, khung và mặt lưng hoàn thiện cao cấp",
+    "dimensionsWeight": "158,1 × 75,0 × 7,7 mm | 180g",
+    "waterResistance": "IP68 / IP69 (Kháng bụi, ngâm nước sâu 2m và tia nước áp lực cao)",
+    "availableColors": [
+      "Xanh"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo",
+    "headphoneJack": null,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Thiết kế siêu mỏng 7,7mm và nhẹ chỉ 180g nhưng tích hợp viên pin lớn 6000mAh",
+    "Camera chính 50MP Sony IMX882 OIS + 8MP Góc siêu rộng 112° có AF + 2MP Macro",
+    "Camera trước 32MP hỗ trợ lấy nét tự động AF chân thực",
+    "Màn hình AMOLED 6,57 inch FHD+ 120Hz, độ sáng HBM 1400 nit, kính AGC Dragontrail DT-Star D+",
+    "Vi xử lý Snapdragon 6 Gen 1 (4nm), chuẩn kháng nước bụi IP68/IP69, chụp ảnh dưới nước"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền OPPO tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/placeholders/placeholder-default.svg",
+    "hasAvatarNamed": false,
+    "gallery": [
+      "assets/images/placeholders/placeholder-default.svg"
+    ],
+    "byColor": {},
+    "bySection": {
+      "performance": "assets/images/placeholders/placeholder-default.svg"
+    }
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-oppo",
+      "https://www.oppo.com/vn/smartphones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "partial_retail_listing",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "verbatimDescription": [
+    "OPPO Reno14 F 5G ghi điểm nhờ thiết kế siêu mỏng 7,7mm và trọng lượng nhẹ chỉ 180g nhưng vẫn chứa đựng viên pin dung lượng lớn 6000mAh. Thân máy đạt chuẩn kháng bụi và nước cao nhất IP68/IP69 (chịu được ngâm nước tới 2m trong 30 phút và tia nước áp lực cao), cho phép người dùng tự tin sáng tạo với chế độ chụp ảnh dưới nước.",
+    "Mặt trước của máy là màn hình AMOLED 6,57 inch độ phân giải FHD+ (1080 × 2372 pixel, 397 PPI), hỗ trợ hiển thị 1,07 tỷ màu và tần số quét 120Hz mượt mà. Với độ sáng HBM 1400 nit, lớp kính bảo vệ AGC Dragontrail DT-Star D+ cùng công nghệ cảm ứng thông minh khi tay ướt hoặc đeo găng tay, màn hình luôn đảm bảo khả năng thao tác chính xác.",
+    "Sức mạnh phần cứng của OPPO Reno14 F 5G đến từ vi xử lý Qualcomm Snapdragon 6 Gen 1 (4nm) 8 nhân cùng nhân đồ họa Adreno 710. Đi kèm RAM lên đến 12GB LPDDR4X và bộ nhớ trong lên đến 512GB chuẩn UFS 3.1 tốc độ cao (có khe cắm thẻ nhớ microSDXC), máy đáp ứng tốt nhu cầu lưu trữ hình ảnh, video 4K và đa nhiệm hàng ngày.",
+    "Hệ thống nhiếp ảnh của máy được trang bị cảm biến chính Sony IMX882 50MP (khẩu độ f/1.8, kích thước 1/1.95 inch, tích hợp chống rung quang học OIS), kết hợp cùng camera góc siêu rộng 8MP (FOV 112° có lấy nét tự động AF kiêm chụp cận cảnh sắc nét) và camera Macro 2MP, hỗ trợ quay video 4K@30fps và loạt tính năng AI Flash Livephoto, AI Recompose, AI Perfect Shot.",
+    "Ở mặt trước, camera selfie 32MP (khẩu độ f/2.0) tích hợp tính năng lấy nét tự động AF hiếm có trong phân khúc, giúp gương mặt luôn sắc nét ở mọi khoảng cách chụp. Viên pin 6000mAh đi kèm công nghệ sạc nhanh 45W SUPERVOOC giúp duy trì năng lượng bền bỉ suốt hai ngày sử dụng thông thường.",
+    "Vận hành trên giao diện ColorOS 15.0 (Android 15), OPPO Reno14 F 5G còn sở hữu cảm biến vân tay quang học dưới màn hình, hệ thống loa kép Stereo sống động, kết nối 5G, eSIM, Bluetooth 5.1 hỗ trợ codec âm thanh chất lượng cao LHDC 5.0 và NFC một chạm."
+  ],
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,57 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "AMOLED (1 tỷ màu, 100% DCI-P3)"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "FHD+ (1080 × 2372 Pixels, 397 PPI)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 6 Gen 1 (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB / 12GB LPDDR4X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB / 512GB UFS 3.1"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính Sony IMX882 OIS + 8MP Góc siêu rộng AF + 2MP Macro"
+    },
+    {
+      "label": "Camera trước",
+      "value": "32MP f/2.0 AF (Quay 1080p@30fps)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "6000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "45W SUPERVOOC (44W PPS)"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 15 (ColorOS 15.0)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G, Wi-Fi 5, Bluetooth 5.1, NFC, eSIM"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 / IP69"
+    }
+  ],
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "AMOLED, 1,07 tỷ màu (10-bit), cảm ứng nhạy ngay cả khi tay ướt",
+      "Kích thước màn hình": "6,57 inch (Tỷ lệ màn hình 88,6%)",
+      "Độ phân giải màn hình": "FHD+ (1080 × 2372 Pixels), 397 PPI",
+      "Tần số quét": "120Hz",
+      "Kiểu màn hình": "Chưa có thông tin trong dữ liệu gốc",
+      "Tính năng màn hình": "Độ sáng tối đa: 600 nit (Tiêu chuẩn) / 1400 nit (HBM); Kính bảo vệ: AGC Dragontrail DT-Star D+"
+    },
+    "Camera sau": {
+      "Camera sau": "Camera chính: 50MP Sony IMX882 (f/1.8, 26mm, cảm biến 1/1.95\", PDAF, chống rung quang học OIS); Camera phụ: 8MP Góc siêu rộng (f/2.2, 16mm, FOV 112°, có lấy nét tự động AF) + 2MP Macro",
+      "Quay video": "4K@30fps, 1080p@30/60/120fps, chống rung OIS + gyro-EIS",
+      "Tính năng camera": "AI Flash Livephoto, AI Recompose, AI Perfect Shot, Chụp dưới nước, Cảm biến quang phổ màu"
+    },
+    "Camera trước": {
+      "Camera trước": "32MP (f/2.0, 22mm, hỗ trợ lấy nét tự động AF); Quay video: 1080p@30fps; Tính năng: Lấy nét tự động AF, Chân dung AI, AI Style Transfer, Panorama"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 6 Gen 1 (Tiến trình 4nm)",
+      "Loại CPU": "8 nhân (4×2.2GHz Cortex-A78 + 4×1.8GHz Cortex-A55)",
+      "GPU": "Adreno 710"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB / 12GB chuẩn LPDDR4X",
+      "Bộ nhớ trong": "256GB / 512GB chuẩn UFS 3.1; Thẻ nhớ ngoài: Hỗ trợ thẻ nhớ microSDXC & USB OTG"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "6000 mAh; Loại pin: Pin Li-Ion mật độ năng lượng cao (1600 chu kỳ sạc)",
+      "Công nghệ sạc": "Sạc có dây: 45W SUPERVOOC (Tương thích 44W PPS, PD2, QC2.0, hỗ trợ sạc ngược có dây); Sạc không dây: Không hỗ trợ",
+      "Cổng sạc": "USB Type-C 2.0, OTG"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "ColorOS 15.0 (Nền tảng Android 15)",
+      "Công nghệ - Tiện ích": "OPPO AI Photography (AI Livephoto, AI Perfect Shot, AI Recompose), Chụp ảnh dưới nước",
+      "Tiện ích khác": "Chưa có thông tin trong dữ liệu gốc",
+      "Thời điểm ra mắt": "2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G SA/NSA & 4G LTE",
+      "Thẻ SIM": "2 Nano-SIM hoặc Nano-SIM + eSIM",
+      "Wi-Fi": "Wi-Fi 5 (802.11ac) băng tần kép",
+      "Bluetooth": "Bluetooth 5.1 BLE (aptX HD, LHDC 5.0)",
+      "Công nghệ NFC": "Hỗ trợ NFC",
+      "GPS": "Chưa có thông tin trong dữ liệu gốc"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Mặt kính cường lực AGC Dragontrail DT-Star D+",
+      "Chất liệu mặt lưng": "Chưa có thông tin trong dữ liệu gốc",
+      "Kích thước": "158,1 × 75,0 × 7,7 mm; Kiểu dáng: Siêu mỏng 7,7mm, trọng lượng nhẹ 180g",
+      "Trọng lượng": "Nặng 180g",
+      "Chỉ số kháng nước, bụi": "Kháng nước và bụi chuẩn IP68 / IP69 (Chịu nước sâu 2m trong 30 phút)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa kép Stereo, hỗ trợ âm thanh Hi-Res LHDC 5.0 & aptX HD",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Tiệm cận, Ánh sáng, La bàn số; Bảo mật: Mở khóa khuôn mặt"
+    }
+  }
+}

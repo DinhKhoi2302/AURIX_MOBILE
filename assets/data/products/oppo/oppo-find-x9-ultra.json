@@ -1,0 +1,633 @@
+{
+  "id": "oppo-find-x9-ultra",
+  "brand": "OPPO",
+  "brandId": "oppo",
+  "parentGroupId": "oppo",
+  "model": "OPPO Find X9 Ultra",
+  "series": "OPPO Find X Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "flagship"
+  ],
+  "status": "active_listing",
+  "featuredOrder": 4,
+  "bestseller": true,
+  "rating": 4.9,
+  "reviewCount": 42,
+  "badges": [
+    {
+      "text": "Trả góp 0%",
+      "type": "installment"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025 – 2026",
+    "segment": "Flagship Cao cấp",
+    "description": "OPPO Find X9 Ultra là tuyệt tác flagship đỉnh cao của OPPO, hội tụ màn hình LTPO AMOLED 6,82 inch QHD+ (3168 × 1440 pixel) tần số quét thích ứng 1–120Hz (tối đa 144Hz), vi xử lý Snapdragon 8 Elite Gen 5 (3nm) cùng hệ thống 4 camera Hasselblad 200MP kép (Chính 200MP OIS + Tele tiềm vọng 3x 200MP OIS + Ultra Tele 10x 50MP OIS + Góc siêu rộng 50MP AF) và viên pin Silicon-Carbon 7050mAh sạc nhanh 100W SUPERVOOC.",
+    "highlights": [
+      "Hệ thống 4 camera Hasselblad: 200MP Chính OIS + 200MP Tele 3x OIS + 50MP Tele 10x OIS + 50MP Ultra Wide AF",
+      "Màn hình LTPO AMOLED 6,82 inch QHD+ (3168 × 1440), 1–120Hz (tối đa 144Hz), độ sáng đỉnh 3600 nit",
+      "Vi xử lý Snapdragon 8 Elite Gen 5 (3nm) kết hợp RAM LPDDR5X và bộ nhớ UFS 4.1",
+      "Pin Silicon-Carbon 7050mAh, sạc siêu nhanh 100W SUPERVOOC & sạc không dây 50W AIRVOOC",
+      "Kháng nước bụi IP68/IP69, kính Gorilla Glass Victus 2, vân tay siêu âm dưới màn hình"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 32990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT009-OPFINDX9ULTRA-DEN-12GB-512GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 32990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-find-x9-ultra/anh-dai-dien-oppo-find-x9-ultra-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/he-thong-camera-hasselblad-oppo-find-x9-ultra-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/dung-luong-pin-7050mah-oppo-find-x9-ultra-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/hieu-nang-snapdragon-8-elite-oppo-find-x9-ultra-do-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thiet-ke-nhiep-anh-oppo-find-x9-ultra-nau-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thong-so-man-hinh-144hz-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thong-so-noi-bat-oppo-find-x9-ultra-cam-nau.webp"
+      ]
+    },
+    {
+      "sku": "DT009-OPFINDX9ULTRA-DEN-16GB-512GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 35490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-find-x9-ultra/anh-dai-dien-oppo-find-x9-ultra-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/he-thong-camera-hasselblad-oppo-find-x9-ultra-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/dung-luong-pin-7050mah-oppo-find-x9-ultra-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/hieu-nang-snapdragon-8-elite-oppo-find-x9-ultra-do-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thiet-ke-nhiep-anh-oppo-find-x9-ultra-nau-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thong-so-man-hinh-144hz-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thong-so-noi-bat-oppo-find-x9-ultra-cam-nau.webp"
+      ]
+    },
+    {
+      "sku": "DT009-OPFINDX9ULTRA-DEN-16GB-1TB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 38990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-find-x9-ultra/anh-dai-dien-oppo-find-x9-ultra-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/he-thong-camera-hasselblad-oppo-find-x9-ultra-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/dung-luong-pin-7050mah-oppo-find-x9-ultra-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/hieu-nang-snapdragon-8-elite-oppo-find-x9-ultra-do-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thiet-ke-nhiep-anh-oppo-find-x9-ultra-nau-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thong-so-man-hinh-144hz-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thong-so-noi-bat-oppo-find-x9-ultra-cam-nau.webp"
+      ]
+    },
+    {
+      "sku": "DT009-OPFINDX9ULTRA-CAM-12GB-512GB",
+      "color": "Cam",
+      "colorHex": "#EA580C",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 32990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-find-x9-ultra/mat-truoc-mat-sau-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/mat-lung-va-phu-kien-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thiet-ke-mat-lung-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-duoi-cong-sac-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-trai-canh-phai-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-tren-canh-duoi-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-tren-va-camera-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/goc-nghieng-camera-sau-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/cum-camera-sau-hasselblad-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/man-hinh-va-phu-kien-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/tinh-nang-tro-ly-ai-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/trai-nghiem-chup-anh-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/tren-tay-man-hinh-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/hieu-nang-snapdragon-8-elite-oppo-find-x9-ultra-do-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thiet-ke-nhiep-anh-oppo-find-x9-ultra-nau-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thong-so-man-hinh-144hz-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thong-so-noi-bat-oppo-find-x9-ultra-cam-nau.webp"
+      ]
+    },
+    {
+      "sku": "DT009-OPFINDX9ULTRA-CAM-16GB-512GB",
+      "color": "Cam",
+      "colorHex": "#EA580C",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 35490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-find-x9-ultra/mat-truoc-mat-sau-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/mat-lung-va-phu-kien-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thiet-ke-mat-lung-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-duoi-cong-sac-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-trai-canh-phai-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-tren-canh-duoi-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-tren-va-camera-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/goc-nghieng-camera-sau-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/cum-camera-sau-hasselblad-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/man-hinh-va-phu-kien-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/tinh-nang-tro-ly-ai-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/trai-nghiem-chup-anh-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/tren-tay-man-hinh-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/hieu-nang-snapdragon-8-elite-oppo-find-x9-ultra-do-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thiet-ke-nhiep-anh-oppo-find-x9-ultra-nau-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thong-so-man-hinh-144hz-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thong-so-noi-bat-oppo-find-x9-ultra-cam-nau.webp"
+      ]
+    },
+    {
+      "sku": "DT009-OPFINDX9ULTRA-CAM-16GB-1TB",
+      "color": "Cam",
+      "colorHex": "#EA580C",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 38990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-find-x9-ultra/mat-truoc-mat-sau-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/mat-lung-va-phu-kien-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thiet-ke-mat-lung-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-duoi-cong-sac-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-trai-canh-phai-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-tren-canh-duoi-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-tren-va-camera-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/goc-nghieng-camera-sau-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/cum-camera-sau-hasselblad-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/man-hinh-va-phu-kien-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/tinh-nang-tro-ly-ai-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/trai-nghiem-chup-anh-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/tren-tay-man-hinh-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/hieu-nang-snapdragon-8-elite-oppo-find-x9-ultra-do-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thiet-ke-nhiep-anh-oppo-find-x9-ultra-nau-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thong-so-man-hinh-144hz-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thong-so-noi-bat-oppo-find-x9-ultra-cam-nau.webp"
+      ]
+    },
+    {
+      "sku": "DT009-OPFINDX9ULTRA-NAU-12GB-512GB",
+      "color": "Nâu",
+      "colorHex": "#78350F",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 32990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-find-x9-ultra/mat-truoc-mat-sau-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/mat-lung-va-phu-kien-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thiet-ke-mat-lung-da-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-duoi-cong-sac-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-trai-canh-phai-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-tren-canh-duoi-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-tren-va-camera-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/goc-nghieng-camera-sau-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/can-canh-ong-kinh-camera-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/cum-camera-sau-hasselblad-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/man-hinh-va-phu-kien-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/trai-nghiem-chup-anh-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/tren-tay-man-hinh-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/hieu-nang-snapdragon-8-elite-oppo-find-x9-ultra-do-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thiet-ke-nhiep-anh-oppo-find-x9-ultra-nau-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thong-so-man-hinh-144hz-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thong-so-noi-bat-oppo-find-x9-ultra-cam-nau.webp"
+      ]
+    },
+    {
+      "sku": "DT009-OPFINDX9ULTRA-NAU-16GB-512GB",
+      "color": "Nâu",
+      "colorHex": "#78350F",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 35490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-find-x9-ultra/mat-truoc-mat-sau-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/mat-lung-va-phu-kien-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thiet-ke-mat-lung-da-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-duoi-cong-sac-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-trai-canh-phai-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-tren-canh-duoi-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-tren-va-camera-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/goc-nghieng-camera-sau-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/can-canh-ong-kinh-camera-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/cum-camera-sau-hasselblad-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/man-hinh-va-phu-kien-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/trai-nghiem-chup-anh-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/tren-tay-man-hinh-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/hieu-nang-snapdragon-8-elite-oppo-find-x9-ultra-do-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thiet-ke-nhiep-anh-oppo-find-x9-ultra-nau-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thong-so-man-hinh-144hz-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thong-so-noi-bat-oppo-find-x9-ultra-cam-nau.webp"
+      ]
+    },
+    {
+      "sku": "DT009-OPFINDX9ULTRA-NAU-16GB-1TB",
+      "color": "Nâu",
+      "colorHex": "#78350F",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 38990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-find-x9-ultra/mat-truoc-mat-sau-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/mat-lung-va-phu-kien-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thiet-ke-mat-lung-da-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-duoi-cong-sac-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-trai-canh-phai-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-tren-canh-duoi-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-tren-va-camera-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/goc-nghieng-camera-sau-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/can-canh-ong-kinh-camera-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/cum-camera-sau-hasselblad-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/man-hinh-va-phu-kien-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/trai-nghiem-chup-anh-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/tren-tay-man-hinh-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/hieu-nang-snapdragon-8-elite-oppo-find-x9-ultra-do-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thiet-ke-nhiep-anh-oppo-find-x9-ultra-nau-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thong-so-man-hinh-144hz-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thong-so-noi-bat-oppo-find-x9-ultra-cam-nau.webp"
+      ]
+    }
+  ],
+  "display": {
+    "size": "6,82 inch",
+    "technology": "LTPO AMOLED (1,07 tỷ màu, Dolby Vision, HDR10+)",
+    "resolution": "QHD+ (3168 × 1440 Pixels)",
+    "refreshRate": "1–120Hz thích ứng (tối đa 144Hz)",
+    "maxBrightness": "800 nit (tiêu chuẩn) / 1800 nit (HBM) / 3600 nit (đỉnh)",
+    "protection": "Corning Gorilla Glass Victus 2"
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 8 Elite Gen 5 (3nm)",
+    "cpu": "8 nhân (2×4.6 GHz Oryon V3 Phoenix L + 6×3.62 GHz Oryon V3 Phoenix M)",
+    "gpu": "Adreno 840 @ 1200MHz",
+    "ram": "12GB / 16GB LPDDR5X",
+    "internalStorage": "512GB / 1TB UFS 4.1",
+    "os": "Android 16 (ColorOS 16.0)"
+  },
+  "rearCamera": {
+    "mainSensor": "200MP (f/1.5, 23mm, 1/1.12\", ống kính 7P, PDAF, OIS 2 trục)",
+    "ultraWide": "50MP (f/2.0, 14mm, góc nhìn 123°, ống kính 6P, AF)",
+    "telephoto": "200MP Tele tiềm vọng 3x (f/2.2, 70mm, 1/1.28\", OIS) + 50MP Ultra Tele 10x (f/3.5, 230mm, OIS) + 3.2MP Đơn sắc",
+    "videoRecording": "8K@30fps, 4K@30/60/120fps (Dolby Vision HDR, 10-bit O-Log2), 1080p@240fps, chống rung OIS + EIS",
+    "features": [
+      "Hiệu chỉnh màu Hasselblad",
+      "Chế độ Master & XPAN",
+      "Chụp dưới nước (Underwater)",
+      "Quay 4K 120fps Dolby Vision",
+      "Cảm biến lấy nét Laser & Quang phổ màu"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "50MP (f/2.4, 21mm, góc nhìn 90°, ống kính 5P, hỗ trợ lấy nét tự động AF)",
+    "videoRecording": "4K@30/60fps, 1080p@30/60fps (EIS, HDR)",
+    "features": [
+      "Hasselblad Hi-Res Selfie",
+      "Chân dung AI",
+      "Pro Video",
+      "Dual-view Video"
+    ]
+  },
+  "battery": {
+    "capacity": "7050 mAh",
+    "batteryType": "Pin Silicon-Carbon (Si/C Li-Ion)",
+    "chargingPower": "Sạc siêu nhanh 100W SUPERVOOC (55W PPS, 18W PD/QC)",
+    "wirelessCharging": "Sạc không dây 50W AIRVOOC, sạc ngược không dây 10W"
+  },
+  "connectivity": {
+    "sim": "2 Nano-SIM hoặc 1 Nano-SIM + 1 eSIM",
+    "network": "5G SA/NSA đa băng tần & 4G LTE",
+    "wifi": "Wi-Fi 7 (802.11be) băng tần 320MHz, 2×2 MIMO",
+    "bluetooth": "Bluetooth 6.0 (LHDC 5.0, LDAC, aptX HD, aptX Adaptive)",
+    "nfc": "Có hỗ trợ",
+    "usb": "USB Type-C 3.2 Gen 1, OTG, Hồng ngoại (IR)"
+  },
+  "design": {
+    "formFactor": "Nguyên khối cao cấp, cụm camera tròn Hasselblad biểu tượng",
+    "materials": "Khung hợp kim nhôm, mặt trước Gorilla Glass Victus 2, mặt lưng sợi thủy tinh / da sinh thái",
+    "dimensionsWeight": "163,16 × 76,97 × 8,65–9,10 mm | 235g–236g",
+    "waterResistance": "IP68 / IP69 (Kháng bụi và tia nước áp lực cao)",
+    "availableColors": [
+      "Đen Titan"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Hệ thống 4 camera Hasselblad: 200MP Chính OIS + 200MP Tele 3x OIS + 50MP Tele 10x OIS + 50MP Ultra Wide AF",
+    "Màn hình LTPO AMOLED 6,82 inch QHD+ (3168 × 1440), 1–120Hz (tối đa 144Hz), độ sáng đỉnh 3600 nit",
+    "Vi xử lý Snapdragon 8 Elite Gen 5 (3nm) kết hợp RAM LPDDR5X và bộ nhớ UFS 4.1",
+    "Pin Silicon-Carbon 7050mAh, sạc siêu nhanh 100W SUPERVOOC & sạc không dây 50W AIRVOOC",
+    "Kháng nước bụi IP68/IP69, kính Gorilla Glass Victus 2, vân tay siêu âm dưới màn hình"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền OPPO tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/oppo/oppo-find-x9-ultra/anh-dai-dien-oppo-find-x9-ultra-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/oppo/oppo-find-x9-ultra/anh-dai-dien-oppo-find-x9-ultra-den.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/mat-truoc-mat-sau-oppo-find-x9-ultra-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/mat-truoc-mat-sau-oppo-find-x9-ultra-nau.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/mat-lung-va-phu-kien-oppo-find-x9-ultra-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/mat-lung-va-phu-kien-oppo-find-x9-ultra-nau.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/thiet-ke-mat-lung-da-oppo-find-x9-ultra-nau.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/thiet-ke-mat-lung-oppo-find-x9-ultra-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/canh-duoi-cong-sac-oppo-find-x9-ultra-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/canh-duoi-cong-sac-oppo-find-x9-ultra-nau.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/canh-trai-canh-phai-oppo-find-x9-ultra-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/canh-trai-canh-phai-oppo-find-x9-ultra-nau.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/canh-tren-canh-duoi-oppo-find-x9-ultra-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/canh-tren-canh-duoi-oppo-find-x9-ultra-nau.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/canh-tren-va-camera-oppo-find-x9-ultra-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/canh-tren-va-camera-oppo-find-x9-ultra-nau.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/goc-nghieng-camera-sau-oppo-find-x9-ultra-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/goc-nghieng-camera-sau-oppo-find-x9-ultra-nau.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/can-canh-ong-kinh-camera-oppo-find-x9-ultra-nau.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/cum-camera-sau-hasselblad-oppo-find-x9-ultra-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/cum-camera-sau-hasselblad-oppo-find-x9-ultra-nau.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/he-thong-camera-hasselblad-oppo-find-x9-ultra-den.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/dung-luong-pin-7050mah-oppo-find-x9-ultra-den.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/hieu-nang-snapdragon-8-elite-oppo-find-x9-ultra-do-den.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/man-hinh-va-phu-kien-oppo-find-x9-ultra-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/man-hinh-va-phu-kien-oppo-find-x9-ultra-nau.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/thiet-ke-nhiep-anh-oppo-find-x9-ultra-nau-den.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/tinh-nang-tro-ly-ai-oppo-find-x9-ultra-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/trai-nghiem-chup-anh-oppo-find-x9-ultra-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/trai-nghiem-chup-anh-oppo-find-x9-ultra-nau.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/tren-tay-man-hinh-oppo-find-x9-ultra-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/tren-tay-man-hinh-oppo-find-x9-ultra-nau.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/thong-so-man-hinh-144hz-oppo-find-x9-ultra-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/thong-so-noi-bat-oppo-find-x9-ultra-cam-nau.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/oppo/oppo-find-x9-ultra/anh-dai-dien-oppo-find-x9-ultra-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/he-thong-camera-hasselblad-oppo-find-x9-ultra-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/dung-luong-pin-7050mah-oppo-find-x9-ultra-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/hieu-nang-snapdragon-8-elite-oppo-find-x9-ultra-do-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thiet-ke-nhiep-anh-oppo-find-x9-ultra-nau-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thong-so-man-hinh-144hz-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thong-so-noi-bat-oppo-find-x9-ultra-cam-nau.webp"
+      ],
+      "Cam": [
+        "assets/images/products/oppo/oppo-find-x9-ultra/mat-truoc-mat-sau-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/mat-lung-va-phu-kien-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thiet-ke-mat-lung-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-duoi-cong-sac-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-trai-canh-phai-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-tren-canh-duoi-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-tren-va-camera-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/goc-nghieng-camera-sau-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/cum-camera-sau-hasselblad-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/man-hinh-va-phu-kien-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/tinh-nang-tro-ly-ai-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/trai-nghiem-chup-anh-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/tren-tay-man-hinh-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/hieu-nang-snapdragon-8-elite-oppo-find-x9-ultra-do-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thiet-ke-nhiep-anh-oppo-find-x9-ultra-nau-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thong-so-man-hinh-144hz-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thong-so-noi-bat-oppo-find-x9-ultra-cam-nau.webp"
+      ],
+      "Nâu": [
+        "assets/images/products/oppo/oppo-find-x9-ultra/mat-truoc-mat-sau-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/mat-lung-va-phu-kien-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thiet-ke-mat-lung-da-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-duoi-cong-sac-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-trai-canh-phai-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-tren-canh-duoi-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/canh-tren-va-camera-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/goc-nghieng-camera-sau-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/can-canh-ong-kinh-camera-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/cum-camera-sau-hasselblad-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/man-hinh-va-phu-kien-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/trai-nghiem-chup-anh-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/tren-tay-man-hinh-oppo-find-x9-ultra-nau.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/hieu-nang-snapdragon-8-elite-oppo-find-x9-ultra-do-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thiet-ke-nhiep-anh-oppo-find-x9-ultra-nau-den.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thong-so-man-hinh-144hz-oppo-find-x9-ultra-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9-ultra/thong-so-noi-bat-oppo-find-x9-ultra-cam-nau.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/oppo/oppo-find-x9-ultra/mat-truoc-mat-sau-oppo-find-x9-ultra-cam.webp",
+      "screen": "assets/images/products/oppo/oppo-find-x9-ultra/mat-truoc-mat-sau-oppo-find-x9-ultra-nau.webp",
+      "performance": "assets/images/products/oppo/oppo-find-x9-ultra/hieu-nang-snapdragon-8-elite-oppo-find-x9-ultra-do-den.webp",
+      "camera": "assets/images/products/oppo/oppo-find-x9-ultra/canh-tren-va-camera-oppo-find-x9-ultra-cam.webp",
+      "battery": "assets/images/products/oppo/oppo-find-x9-ultra/canh-duoi-cong-sac-oppo-find-x9-ultra-cam.webp",
+      "feature": "assets/images/products/oppo/oppo-find-x9-ultra/canh-trai-canh-phai-oppo-find-x9-ultra-cam.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/oppo/oppo-find-x9-ultra/mat-truoc-mat-sau-oppo-find-x9-ultra-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/mat-truoc-mat-sau-oppo-find-x9-ultra-nau.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/mat-lung-va-phu-kien-oppo-find-x9-ultra-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/mat-lung-va-phu-kien-oppo-find-x9-ultra-nau.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/thiet-ke-mat-lung-da-oppo-find-x9-ultra-nau.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/thiet-ke-mat-lung-oppo-find-x9-ultra-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/canh-duoi-cong-sac-oppo-find-x9-ultra-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/canh-duoi-cong-sac-oppo-find-x9-ultra-nau.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/canh-trai-canh-phai-oppo-find-x9-ultra-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9-ultra/canh-trai-canh-phai-oppo-find-x9-ultra-nau.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.oppo.com/vn/smartphones/",
+      "https://www.thegioididong.com/dtdd-oppo",
+      "https://www.oppo.com/vn/smartphones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "verified",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT009-OPFINDX9ULTRA",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "LTPO AMOLED, 1,07 tỷ màu (10-bit), 100% DCI-P3, Dolby Vision, HDR10+",
+      "Kích thước màn hình": "6,82 inch (Tỷ lệ hiển thị 94,6%)",
+      "Độ phân giải màn hình": "QHD+ (3168 × 1440 Pixels), 510 PPI",
+      "Tần số quét": "Tần số quét thích ứng 1–120Hz (Tối đa 144Hz)",
+      "Kiểu màn hình": "Chưa có thông tin trong dữ liệu gốc",
+      "Tính năng màn hình": "Độ sáng tối đa: 800 nit (Tiêu chuẩn) / 1800 nit (HBM) / 3600 nit (Đỉnh); Kính bảo vệ: Corning Gorilla Glass Victus 2"
+    },
+    "Camera sau": {
+      "Camera sau": "Camera chính: 200MP (f/1.5, FOV 84°, cảm biến 1/1.12\", ống kính 7P, lấy nét AF, chống rung OIS 2 trục); Camera phụ: 200MP Tele 3x (f/2.2, 70mm, OIS) + 50MP Ultra Tele 10x (f/3.5, 230mm, OIS) + 50MP Góc siêu rộng (f/2.0, FOV 123°, AF) + 3.2MP Đơn sắc",
+      "Quay video": "8K@30fps, 4K@30/60/120fps Dolby Vision HDR, 10-bit O-Log2, Slow-motion 4K@120fps / 1080p@240fps",
+      "Tính năng camera": "Hasselblad Color Calibration, Chế độ Master, XPAN, Hasselblad Hi-Res, Chụp dưới nước, Lấy nét Laser"
+    },
+    "Camera trước": {
+      "Camera trước": "50MP (f/2.4, FOV 90°, ống kính 5P, lấy nét tự động AF); Quay video: 4K@30/60fps, 1080p@30/60fps (Chống rung EIS, HDR); Tính năng: Hasselblad Hi-Res, Chân dung AI, Đêm, Dual-view Video, Pro Video"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 8 Elite Gen 5 (Tiến trình 3nm)",
+      "Loại CPU": "8 nhân (2 nhân 4.6GHz Oryon V3 Phoenix L + 6 nhân 3.62GHz Oryon V3 Phoenix M)",
+      "GPU": "Adreno 840 @ 1200MHz"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "12GB / 16GB chuẩn LPDDR5X",
+      "Bộ nhớ trong": "512GB / 1TB chuẩn UFS 4.1; Thẻ nhớ ngoài: Không hỗ trợ thẻ nhớ ngoài (Hỗ trợ USB OTG)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "7050 mAh (Điển hình) / 6890 mAh (Định mức); Loại pin: Pin Silicon-Carbon (Si/C Li-Ion) mật độ năng lượng cao",
+      "Công nghệ sạc": "Sạc có dây: 100W SUPERVOOC (Tương thích 55W PPS, 18W PD/QC); Sạc không dây: Sạc nhanh không dây 50W AIRVOOC & Sạc ngược không dây 10W",
+      "Cổng sạc": "USB Type-C 3.2 Gen 1, OTG"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "ColorOS 16.0 (Nền tảng Android 16)",
+      "Công nghệ - Tiện ích": "OPPO AI Studio, AI Eraser, AI Summary, Dịch thuật trực tiếp, Điều khiển hồng ngoại từ xa",
+      "Tiện ích khác": "Chưa có thông tin trong dữ liệu gốc",
+      "Thời điểm ra mắt": "2025 – 2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G SA/NSA đa băng tần & 4G LTE",
+      "Thẻ SIM": "2 Nano-SIM hoặc 1 Nano-SIM + 1 eSIM",
+      "Wi-Fi": "Wi-Fi 7 (802.11be) băng tần kép đồng thời, kênh 320MHz, 2×2 MIMO",
+      "Bluetooth": "Bluetooth 6.0 BLE (SBC, AAC, aptX HD, aptX Adaptive, LDAC, LHDC 5.0)",
+      "Công nghệ NFC": "Hỗ trợ NFC đa năng",
+      "GPS": "Chưa có thông tin trong dữ liệu gốc"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung hợp kim nhôm, mặt kính Gorilla Glass Victus 2, mặt lưng sợi thủy tinh / da sinh thái",
+      "Chất liệu mặt lưng": "mặt lưng sợi thủy tinh / da sinh thái",
+      "Kích thước": "163,16 × 76,97 × 8,65 mm (Cam) / 9,10 mm (Nâu); Kiểu dáng: Nguyên khối sang trọng với cụm ống kính Hasselblad Cosmos Ring",
+      "Trọng lượng": "Nặng 235g–236g",
+      "Chỉ số kháng nước, bụi": "Kháng nước và bụi chuẩn IP68 / IP69"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa kép Stereo, âm thanh Hi-Res Audio & LHDC 5.0",
+      "Cảm biến vân tay": "Cảm biến vân tay siêu âm dưới màn hình",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Tiệm cận, Ánh sáng, La bàn số; Bảo mật: Mở khóa khuôn mặt AI"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,82 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "LTPO AMOLED (1 tỷ màu, Dolby Vision)"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "QHD+ (3168 × 1440 Pixels, 510 PPI)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "1–120Hz thích ứng (Tối đa 144Hz)"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Snapdragon 8 Elite Gen 5 (3nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB / 16GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "512GB / 1TB UFS 4.1"
+    },
+    {
+      "label": "Camera sau",
+      "value": "200MP Chính OIS + 200MP Tele 3x OIS + 50MP Tele 10x OIS + 50MP Góc siêu rộng"
+    },
+    {
+      "label": "Camera trước",
+      "value": "50MP f/2.4 AF (Quay 4K@60fps)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "7050 mAh (Pin Silicon-Carbon)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "100W SUPERVOOC | Không dây 50W AIRVOOC"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 16 (ColorOS 16.0)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G, Wi-Fi 7, Bluetooth 6.0, NFC, eSIM"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 / IP69"
+    }
+  ],
+  "verbatimDescription": [
+    "OPPO Find X9 Ultra khẳng định vị thế flagship nhiếp ảnh hàng đầu của OPPO khi kết hợp hệ thống 4 camera đồng chế tác cùng Hasselblad, vi xử lý Snapdragon 8 Elite Gen 5 (3nm) và viên pin Silicon-Carbon dung lượng 7050mAh. Máy sở hữu diện mạo sang trọng với ngôn ngữ thiết kế Cosmos Ring đặc trưng, khung hợp kim nhôm cứng cáp cùng chuẩn kháng nước, kháng bụi và tia nước áp lực cao IP68/IP69.",
+    "Mặt trước của OPPO Find X9 Ultra là màn hình LTPO AMOLED kích thước 6,82 inch độ phân giải QHD+ (3168 × 1440 pixel, mật độ điểm ảnh 510 PPI), đạt tỷ lệ hiển thị 94,6% diện tích mặt trước. Tấm nền 10-bit hỗ trợ 1,07 tỷ màu, chuẩn hiển thị Dolby Vision và HDR10+, tần số quét thích ứng 1–120Hz (tối đa 144Hz) cùng độ sáng HBM 1800 nit (đỉnh 3600 nit) và lớp kính cường lực Corning Gorilla Glass Victus 2.",
+    "Cung cấp sức mạnh cho thiết bị là nền tảng di động Qualcomm Snapdragon 8 Elite Gen 5 sản xuất trên tiến trình 3nm với xung nhịp tối đa 4.6GHz và nhân đồ họa Adreno 840 @ 1200MHz. Đi kèm chuẩn RAM LPDDR5X (12GB/16GB) và bộ nhớ trong UFS 4.1 (512GB/1TB), máy xử lý mượt mà mọi tác vụ dựng phim 8K, xử lý ảnh RAW Hasselblad cũng như các tựa game đồ họa nặng.",
+    "Hệ thống nhiếp ảnh của OPPO Find X9 Ultra nổi bật với bộ đôi cảm biến 200MP: camera chính góc rộng 200MP (khẩu độ f/1.5, cảm biến lớn 1/1.12 inch, OIS 2 trục) và camera tele tiềm vọng 3x 200MP (khẩu độ f/2.2, tiêu cự 70mm, OIS 2 trục, hỗ trợ chụp tele-macro từ 15cm). Kết hợp cùng camera Ultra Telephoto 10x 50MP (230mm, OIS), camera góc siêu rộng 50MP (FOV 123°, AF) và cảm biến đơn sắc 3.2MP, thiết bị bao phủ trọn vẹn mọi tiêu cự từ 14mm đến 230mm và hỗ trợ quay video 8K@30fps, 4K@120fps Dolby Vision HDR cùng 10-bit O-Log2.",
+    "Camera trước 50MP hỗ trợ lấy nét tự động AF và quay video 4K@60fps sắc nét. Dù sở hữu thân máy mỏng gọn, OPPO Find X9 Ultra vẫn tích hợp viên pin Silicon-Carbon 7050mAh, đi kèm công nghệ sạc siêu nhanh có dây 100W SUPERVOOC, sạc nhanh không dây 50W AIRVOOC và sạc ngược không dây 10W tiện lợi.",
+    "Vận hành trên hệ điều hành ColorOS 16.0 (Android 16) tích hợp trọn bộ công cụ OPPO AI thế hệ mới, OPPO Find X9 Ultra còn trang bị cảm biến vân tay siêu âm dưới màn hình, kết nối Wi-Fi 7 băng thông 320MHz, Bluetooth 6.0 hỗ trợ LHDC 5.0, cổng USB Type-C 3.2 Gen 1, eSIM và cổng hồng ngoại điều khiển thiết bị ngoại vi."
+  ],
+  "priceSegment": "flagship"
+}

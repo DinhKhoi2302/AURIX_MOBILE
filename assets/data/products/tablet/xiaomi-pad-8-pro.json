@@ -1,0 +1,267 @@
+{
+  "id": "xiaomi-pad-8-pro",
+  "docCode": "TB-MI006-PAD8PRO",
+  "model": "Xiaomi Pad 8 Pro Flagship Wi-Fi",
+  "brand": "Xiaomi",
+  "brandId": "xiaomi",
+  "parentGroupId": "xiaomi",
+  "series": "Xiaomi Pad 8 & Mini Series",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "11.2 inch",
+      "Snapdragon 8 Gen 3 / 8 Elite",
+      "Pin 8.850 mAh"
+    ],
+    "description": "Xiaomi Pad 8 Pro là siêu phẩm máy tính bảng flagship đầu bảng của Xiaomi, hội tụ những công nghệ phần cứng đỉnh cao nhất hiện nay. Sở hữu màn hình tỷ lệ 3:2 độ phân giải siêu nét 3.2K cùng tần số quét 144Hz mượt mà, sản phẩm mang lại không gian thị giác chuẩn mực cho cả công việc sáng tạo lẫn giải trí đỉnh cao.",
+    "releaseDate": "2024 / 2025"
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 8 Gen 3 / 8 Elite (tiến trình 3nm / 4nm tối tân)",
+    "ram": [
+      "12GB",
+      "16GB"
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ],
+    "operatingSystem": "Xiaomi HyperOS 2 (Android 15)"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 12990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/anh-dai-dien-xiaomi-pad-8-pro-xam-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/anh-dai-dien-xiaomi-pad-8-pro-xam-den.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/anh-dai-dien-xiaomi-pad-8-pro-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/mat-truoc-sau-xam-den.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/mat-sau-nghieng-phai-xam-den.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/canh-duoi-cong-sac-loa-xam-den.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/canh-duoi-cong-sac-loa-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/canh-tren-loa-xam-den.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/canh-tren-loa-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/mat-truoc-nghieng-phai-xam-den.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/mat-truoc-nghieng-phai-xanh-la.webp"
+    ],
+    "byColor": {
+      "Xám Đen": [
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/anh-dai-dien-xiaomi-pad-8-pro-xam-den.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/mat-truoc-sau-xam-den.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/mat-sau-nghieng-phai-xam-den.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/canh-duoi-cong-sac-loa-xam-den.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/canh-tren-loa-xam-den.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/mat-truoc-nghieng-phai-xam-den.webp"
+      ],
+      "Xanh Lá": [
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/anh-dai-dien-xiaomi-pad-8-pro-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/canh-duoi-cong-sac-loa-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/canh-tren-loa-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/mat-truoc-nghieng-phai-xanh-la.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/mat-truoc-sau-xam-den.webp",
+      "screen": "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/mat-truoc-nghieng-phai-xam-den.webp",
+      "performance": "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/mat-truoc-nghieng-phai-xanh-la.webp",
+      "camera": "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/mat-sau-nghieng-phai-xam-den.webp",
+      "battery": "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/canh-duoi-cong-sac-loa-xam-den.webp",
+      "feature": "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/anh-dai-dien-xiaomi-pad-8-pro-xanh-la.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/anh-dai-dien-xiaomi-pad-8-pro-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/mat-truoc-sau-xam-den.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/mat-sau-nghieng-phai-xam-den.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/canh-duoi-cong-sac-loa-xam-den.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/canh-duoi-cong-sac-loa-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/canh-tren-loa-xam-den.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/canh-tren-loa-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/mat-truoc-nghieng-phai-xam-den.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/mat-truoc-nghieng-phai-xanh-la.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "11,2 inch IPS LCD 3.2K Crystal-Clear (3200 x 2136 pixel, mật độ điểm ảnh siêu cao 345 ppi), tỷ lệ văn phòng 3:2, tần số quét 144Hz thích ứng 7 cấp độ, 68,7 tỷ màu (12-bit), Dolby Vision, độ sáng 800 nit",
+      "Tính năng màn hình": "Cân chỉnh màu sắc chuyên nghiệp Original Color Pro (Delta E < 1) đồng bộ màu với dòng Xiaomi Ultra, đạt 3 chứng nhận bảo vệ mắt TÜV Rheinland và DC Dimming toàn dải"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "Qualcomm Snapdragon 8 Gen 3 tiến trình tối tân với NPU AI xử lý các tác vụ phức tạp",
+      "CPU & Đồ họa": "Octa-core xung nhịp tối đa 3.3 GHz, GPU Adreno 750 hỗ trợ đồ họa Ray Tracing",
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS 2 trên nền Android 15 với bộ công cụ AI thông minh toàn diện"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "12GB / 16GB LPDDR5X tốc độ cao",
+      "Bộ nhớ trong": "256GB / 512GB chuẩn UFS 4.0 siêu tốc độ"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "50MP siêu sắc nét, khẩu độ f/1.8, cảm biến đo độ sâu, quay video 4K 60fps",
+      "Camera trước": "32MP góc rộng độ phân giải cao phục vụ hội nghị và livestream chuyên nghiệp",
+      "Chi tiết hệ thống Camera": "Camera chính sau 50MP f/1.8 quay video 4K 60fps; Camera trước 32MP f/2.2 góc rộng cực nét"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "8.850 mAh, công nghệ sạc siêu nhanh 67W qua USB-C",
+      "Pin và công nghệ sạc": "Pin Lithium Polymer 8.850 mAh, sạc siêu nhanh 67W nạp đầy pin chỉ trong khoảng 40 phút"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Tương thích bút cảm ứng Xiaomi Focus Pen với nút bấm kích hoạt con trỏ laser",
+      "Hỗ trợ bàn phím rời": "Hỗ trợ bàn phím Xiaomi Pad 8 Focus Touchpad Keyboard qua Pogo Pin",
+      "Công nghệ âm thanh": "Dàn 4 loa ngoài stereo công suất lớn hỗ trợ Dolby Atmos và âm thanh Hi-Res Audio",
+      "Thuộc tính đặc biệt": "Cấu hình Snapdragon 8 Gen 3 đỉnh cao, camera sau 50MP, camera trước 32MP, sạc 67W, màn hình 3.2K 144Hz"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Wi-Fi 7 (802.11be) tốc độ cực cao",
+      "Thẻ SIM": "Không hỗ trợ (Bản Wi-Fi)",
+      "Kết nối không dây & Cổng giao tiếp": "Wi-Fi 7 thế hệ mới nhất, Bluetooth 5.4, cổng Type-C USB 3.2 Gen 1 (xuất hình ảnh DisplayPort), Pogo Pin",
+      "Công nghệ - Tiện ích": "Bộ công cụ Xiaomi AI Studio, chế độ máy tính Workstation PC Mode đa màn hình"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Độ mỏng 6.18 mm, kích thước 251.2 x 173.4 x 6.18 mm, trọng lượng khoảng 500 g",
+      "Bảo mật và độ bền": "Cảm biến vân tay nút nguồn, thân kim loại unibody gia công tỉ mỉ",
+      "Thời điểm ra mắt": "Năm 2024 / 2025"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "11.2 inch IPS LCD 3.2K siêu nét (3200 x 2136 pixels), tỷ lệ 3:2"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Tần số quét 144Hz, độ sáng đỉnh 800 nits, hiển thị chuẩn màu chuyên nghiệp calibrated, Dolby Vision, HDR10+"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 8 Gen 3 / 8 Elite (tiến trình 3nm / 4nm tối tân)"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB / 16GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB / 512GB UFS 4.0"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP siêu sắc nét, khẩu độ f/1.8, cảm biến đo độ sâu, quay video 4K 60fps"
+    },
+    {
+      "label": "Camera trước",
+      "value": "32MP góc rộng độ phân giải cao phục vụ hội nghị và livestream chuyên nghiệp"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Pin Lithium Polymer 8.850 mAh, sạc siêu nhanh 67W nạp đầy pin chỉ trong khoảng 40 phút"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Wi-Fi 7 (802.11be) tốc độ cực cao"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Tương thích bút cảm ứng Xiaomi Focus Pen với nút bấm kích hoạt con trỏ laser"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Hỗ trợ bàn phím Xiaomi Pad 8 Focus Touchpad Keyboard qua Pogo Pin"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS 2 (Android 15)"
+    }
+  ],
+  "verbatimDescription": [
+    "Xiaomi Pad 8 Pro là siêu phẩm máy tính bảng flagship đầu bảng của Xiaomi, hội tụ những công nghệ phần cứng đỉnh cao nhất hiện nay. Sở hữu màn hình tỷ lệ 3:2 độ phân giải siêu nét 3.2K cùng tần số quét 144Hz mượt mà, sản phẩm mang lại không gian thị giác chuẩn mực cho cả công việc sáng tạo lẫn giải trí đỉnh cao.",
+    "Cung cấp sức mạnh vô song là con chip đầu bảng Qualcomm Snapdragon 8 Gen 3 đi kèm RAM lên tới 16GB LPDDR5X và bộ nhớ UFS 4.0 siêu tốc độ. Khả năng xử lý đồ họa Ray Tracing cùng công nghệ AI thế hệ mới giúp render video 4K, mô phỏng 3D và chạy đa nhiệm nhiều cửa sổ trên giao diện HyperOS 2 diễn ra trong chớp mắt.",
+    "Hệ thống camera vượt trội với cảm biến chính 50MP phía sau và camera trước 32MP độ phân giải cao mang lại chất lượng hình ảnh sắc nét chuẩn studio cho các cuộc họp trực tuyến hay livestream. Viên pin 8.850 mAh cùng sạc siêu nhanh 67W giúp nạp đầy năng lượng thần tốc, biến Xiaomi Pad 8 Pro thành cỗ máy làm việc di động hoàn hảo.",
+    "Tỷ lệ màn hình 3:2 trên Xiaomi Pad 8 Pro được thiết kế tối ưu cho năng suất công việc: hiển thị nhiều dòng văn bản Word, nhiều hàng bảng tính Excel và diện tích trang sách PDF lớn hơn rõ rệt so với màn hình 16:10 truyền thống. Độ phân giải 3.2K (345 ppi) giúp từng nét chữ và chi tiết đồ họa sắc sảo như bản in.",
+    "Khi kích hoạt chế độ máy trạm Workstation Mode trên Xiaomi HyperOS 2 và kết nối với bàn phím từ tính Focus Touchpad Keyboard cùng bút Xiaomi Focus Pen (8.192 mức lực nhấn, tích hợp phím chiếu laser), người dùng có được trải nghiệm làm việc đa cửa sổ mượt mà không thua kém laptop.",
+    "Viên pin 8.850 mAh đi kèm sạc siêu nhanh 67W giúp nạp đầy năng lượng chỉ trong khoảng 40–45 phút. Kết hợp cùng hệ thống 4 loa Dolby Atmos, Wi-Fi 7 và cổng USB-C 3.2 Gen 1 trong thân máy kim loại mỏng chỉ 6,18mm (500g), Xiaomi Pad 8 Pro là đối thủ nặng ký nhất trong phân khúc tablet flagship."
+  ],
+  "variants": [
+    {
+      "sku": "TB-MI006-PAD8PRO-XAM-DEN-12GB-256GB",
+      "color": "Xám Đen",
+      "colorHex": "#374151",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 12990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/anh-dai-dien-xiaomi-pad-8-pro-xam-den.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/mat-truoc-sau-xam-den.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/mat-sau-nghieng-phai-xam-den.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/canh-duoi-cong-sac-loa-xam-den.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/canh-tren-loa-xam-den.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/mat-truoc-nghieng-phai-xam-den.webp"
+      ]
+    },
+    {
+      "sku": "TB-MI006-PAD8PRO-XAM-DEN-16GB-512GB",
+      "color": "Xám Đen",
+      "colorHex": "#374151",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 15490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/anh-dai-dien-xiaomi-pad-8-pro-xam-den.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/mat-truoc-sau-xam-den.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/mat-sau-nghieng-phai-xam-den.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/canh-duoi-cong-sac-loa-xam-den.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/canh-tren-loa-xam-den.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/mat-truoc-nghieng-phai-xam-den.webp"
+      ]
+    },
+    {
+      "sku": "TB-MI006-PAD8PRO-XANH-LA-12GB-256GB",
+      "color": "Xanh Lá",
+      "colorHex": "#228B57",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 12990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/anh-dai-dien-xiaomi-pad-8-pro-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/canh-duoi-cong-sac-loa-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/canh-tren-loa-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/mat-truoc-nghieng-phai-xanh-la.webp"
+      ]
+    },
+    {
+      "sku": "TB-MI006-PAD8PRO-XANH-LA-16GB-512GB",
+      "color": "Xanh Lá",
+      "colorHex": "#228B57",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 15490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/anh-dai-dien-xiaomi-pad-8-pro-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/canh-duoi-cong-sac-loa-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/canh-tren-loa-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8-pro/mat-truoc-nghieng-phai-xanh-la.webp"
+      ]
+    }
+  ]
+}

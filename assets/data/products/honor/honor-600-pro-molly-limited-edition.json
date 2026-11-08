@@ -1,0 +1,354 @@
+{
+  "id": "honor-600-pro-molly-limited-edition",
+  "brand": "HONOR",
+  "brandId": "honor",
+  "parentGroupId": "honor",
+  "model": "HONOR 600 Pro Molly Limited Edition",
+  "series": "HONOR Number Series (600 / 400)",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "high-end"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Giảm giá",
+      "type": "sale"
+    }
+  ],
+  "overview": {
+    "releaseDate": "Năm 2026",
+    "segment": "Cận cao cấp",
+    "description": "HONOR 600 Pro Molly Limited Edition là dự án hợp tác thế kỷ giữa thương hiệu công nghệ HONOR và hãng đồ chơi nghệ thuật lừng danh thế giới POP MART, lấy cảm hứng từ biểu tượng nghệ thuật kinh điển MOLLY. Ra mắt thị trường toàn cầu và mở bán chính thức tại Việt Nam vào tháng 6/2026 độc quyền qua hệ thống Thế Giới Di Động, sản phẩm nhanh chóng trở thành cơn sốt trong cộng đồng người yêu công nghệ và giới sưu tầm nghệ thuật (Art Toy). Không chỉ đơn thuần là một phiên bản đổi màu vỏ ngoài, HONOR 600 Pro Molly Limited Edition là sự kết hợp nhuần nhuyễn giữa nghệ thuật thị giác đương đại và sức mạnh công nghệ đỉnh cao. Máy sở hữu trọn vẹn nền tảng phần cứng tối thượng của chiếc flagship HONOR 600 Pro với chip Snapdragon 8 Elite 3nm, camera tiềm vọng 120x, pin 7000 mAh cùng bộ quà tặng và giao diện độc quyền đậm chất thời trang.",
+    "highlights": [
+      "6,57 inch",
+      "Qualcomm Snapdragon 8 Elite",
+      "Pin 7.000 mAh"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 24990000,
+    "originalPrice": 27490000,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT005-HN600PROMOLLYLIMITEDEDITION-MOLLY-TRANG-VANG-12GB-512GB",
+      "color": "Molly Trắng Vàng",
+      "colorHex": "#F4E8C1",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 24990000,
+      "originalPrice": 27490000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-600-pro-molly-limited-edition/anh-dai-dien-mat-truoc-sau-molly-trang-vang.webp",
+        "assets/images/products/honor/honor-600-pro-molly-limited-edition/mat-truoc-sau-molly-trang-vang.webp",
+        "assets/images/products/honor/honor-600-pro-molly-limited-edition/mat-sau-nghieng-phai-molly-trang-vang.webp",
+        "assets/images/products/honor/honor-600-pro-molly-limited-edition/mat-sau-nghieng-trai-molly-trang-vang.webp",
+        "assets/images/products/honor/honor-600-pro-molly-limited-edition/mat-truoc-nghieng-phai-molly-trang-vang.webp",
+        "assets/images/products/honor/honor-600-pro-molly-limited-edition/hop-qua-va-phu-kien-molly-trang-vang-do.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "LTPO AMOLED 1,5K, PWM 4320Hz, 8.000 nit",
+    "size": "6,57 inch",
+    "resolution": "2736 x 1264 pixel (1.5K)",
+    "refreshRate": "120Hz",
+    "brightness": "Độ sáng: 800 nits (tiêu chuẩn) / 1800 nits (HBM toàn màn hình) / 8000 nits (đỉnh HDR cực đại); Làm mờ PWM tần số siêu cao 3840Hz khử nhấp nháy, màn hình làm dịu mắt AI Defocus Display, điều chỉnh nhiệt độ màu theo nhịp sinh học Natural Tone Display; Cảm ứng khi tay ướt và dính dầu mỡ (Wet Touch Pro), Chế độ đọc sách bảo vệ mắt e-ink",
+    "hdr": "HDR10+ / HLG",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 8 Elite (SM8750-AB, tiến trình 3nm TSMC tân tiến)",
+    "cpu": "CPU Oryon 8 nhân: 2 nhân Prime Phoenix L xung nhịp 4.32 GHz + 6 nhân Performance Phoenix M xung nhịp 3.53 GHz",
+    "gpu": "Qualcomm Adreno 830 (xung nhịp 1200 MHz), hỗ trợ Ray Tracing phần cứng | Tản nhiệt: Tản nhiệt buồng hơi VC siêu dẫn 8500 mm² kết hợp lớp than chì dẫn nhiệt cao cấp",
+    "ram": [
+      "12GB"
+    ],
+    "storage": [
+      "512GB"
+    ],
+    "operatingSystem": "MagicOS 10 phát triển trên nền tảng Android 16 chính thức",
+    "uiVersion": "MagicOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "200MP Chính OIS + 50MP Tele tiềm vọng 120x + 12MP Siêu rộng (Watermark MOLLY)",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "Quay video 4K ở tốc độ 30/60fps; 1080p ở tốc độ 30/60fps; hỗ trợ chống rung kép OIS + gyro-EIS"
+    ],
+    "aiFeatures": [
+      "Tính năng nhiếp ảnh độc quyền MOLLY: Bộ khung ảnh và Watermark MOLLY độc quyền (MOLLY Paradise, MOLLY's Adventure, MOLLY Planet) | Các chế độ chụp ảnh: Chụp đêm AI Ultra-Night, Chân dung nghệ thuật Harcourt Studio 2.0, Chuyển ảnh thành video AI Image to Video 2.0, Chụp trăng AI SuperMoon 2.0 | Khả năng zoom: Zoom quang học tiềm vọng 3.5x; zoom kỹ thuật số siêu nét lên đến 120x"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "50MP Portrait Selfie (ƒ/2.0), quay 4K 60fps",
+    "features": [
+      "50 MP, khẩu độ f/2.0, tiêu cự 21mm (góc rộng 90°), cảm biến 1/2.88\", 0.61µm; Lấy nét: Lấy nét góc rộng thông minh tự động mở rộng khung hình khi nhận diện nhóm; Tính năng: Chân dung làm đẹp AI Chuyên nghiệp, Tự động kích hoạt HDR ngược sáng, Watermark MOLLY cho ảnh selfie; Quay video: Quay video 4K ở tốc độ 30fps; 1080p ở tốc độ 30/60fps với chống rung điện tử gyro-EIS"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "7.000 mAh (Silicon-Carbon)",
+    "wiredCharging": "Sạc có dây 80W, sạc không dây 50W",
+    "wirelessCharging": "Có hỗ trợ sạc không dây",
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": "Sạc siêu nhanh có dây HONOR SuperCharge 80W (20V/4A) | Sạc không dây: Sạc siêu nhanh không dây HONOR SuperCharge 50W | Sạc ngược: Hỗ trợ sạc ngược có dây công suất cực lớn 27W qua cổng USB-C"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM vật lý hoặc 1 Nano-SIM + 1 eSIM tích hợp linh hoạt"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 7 (802.11 a/b/g/n/ac/ax/be, 2.4GHz / 5GHz / 6GHz, 2x2 MIMO, hỗ trợ băng thông 320MHz)",
+    "bluetooth": "Bluetooth 6.0 tân tiến (hỗ trợ BLE, SBC, AAC, LDAC, aptX, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5.0, LC3)",
+    "gps": [
+      "GPS, AGPS, GLONASS, BeiDou, Galileo, QZSS, NavIC"
+    ],
+    "usb": "USB Type-C chuẩn USB 2.0, hỗ trợ OTG công suất sạc ngược 27W",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "156.0 x 74.7 x 7.8 mm (thân máy siêu mỏng thanh lịch)",
+    "weight": "Khoảng 190g - 200g (phiên bản mặt lưng sợi tổng hợp cao cấp)",
+    "materials": [
+      "Khung nhôm nguyên khối Unibody, mặt lưng sợi tổng hợp cao cấp in họa tiết MOLLY dập nổi 3D",
+      "Khung nhôm nguyên khối Unibody, mặt lưng sợi tổng hợp cao cấp in họa tiết MOLLY dập nổi 3D"
+    ],
+    "waterResistance": "IP68 / IP69 / IP69K & Hộp quà sưu tầm POP MART",
+    "availableColors": [
+      "Molly Trắng Vàng"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo đối xứng, hiệu ứng âm thanh HONOR Sound không gian sống động; Hi-Res Audio và Hi-Res Audio Wireless không dây chất lượng cao; Jack 3.5mm: Không có cổng 3.5mm (sử dụng cổng USB Type-C hoặc kết nối Bluetooth)",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "AMOLED 6.57 inch"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền HONOR tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/honor/honor-600-pro-molly-limited-edition/anh-dai-dien-mat-truoc-sau-molly-trang-vang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/honor/honor-600-pro-molly-limited-edition/anh-dai-dien-mat-truoc-sau-molly-trang-vang.webp",
+      "assets/images/products/honor/honor-600-pro-molly-limited-edition/mat-truoc-sau-molly-trang-vang.webp",
+      "assets/images/products/honor/honor-600-pro-molly-limited-edition/mat-sau-nghieng-phai-molly-trang-vang.webp",
+      "assets/images/products/honor/honor-600-pro-molly-limited-edition/mat-sau-nghieng-trai-molly-trang-vang.webp",
+      "assets/images/products/honor/honor-600-pro-molly-limited-edition/mat-truoc-nghieng-phai-molly-trang-vang.webp",
+      "assets/images/products/honor/honor-600-pro-molly-limited-edition/hop-qua-va-phu-kien-molly-trang-vang-do.webp"
+    ],
+    "byColor": {
+      "Molly Trắng Vàng": [
+        "assets/images/products/honor/honor-600-pro-molly-limited-edition/anh-dai-dien-mat-truoc-sau-molly-trang-vang.webp",
+        "assets/images/products/honor/honor-600-pro-molly-limited-edition/mat-truoc-sau-molly-trang-vang.webp",
+        "assets/images/products/honor/honor-600-pro-molly-limited-edition/mat-sau-nghieng-phai-molly-trang-vang.webp",
+        "assets/images/products/honor/honor-600-pro-molly-limited-edition/mat-sau-nghieng-trai-molly-trang-vang.webp",
+        "assets/images/products/honor/honor-600-pro-molly-limited-edition/mat-truoc-nghieng-phai-molly-trang-vang.webp",
+        "assets/images/products/honor/honor-600-pro-molly-limited-edition/hop-qua-va-phu-kien-molly-trang-vang-do.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/honor/honor-600-pro-molly-limited-edition/mat-truoc-sau-molly-trang-vang.webp",
+      "screen": "assets/images/products/honor/honor-600-pro-molly-limited-edition/mat-truoc-nghieng-phai-molly-trang-vang.webp",
+      "performance": "assets/images/products/honor/honor-600-pro-molly-limited-edition/hop-qua-va-phu-kien-molly-trang-vang-do.webp",
+      "camera": "assets/images/products/honor/honor-600-pro-molly-limited-edition/mat-sau-nghieng-phai-molly-trang-vang.webp",
+      "battery": "assets/images/products/honor/honor-600-pro-molly-limited-edition/mat-sau-nghieng-trai-molly-trang-vang.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/honor/honor-600-pro-molly-limited-edition/mat-truoc-sau-molly-trang-vang.webp",
+      "assets/images/products/honor/honor-600-pro-molly-limited-edition/mat-sau-nghieng-phai-molly-trang-vang.webp",
+      "assets/images/products/honor/honor-600-pro-molly-limited-edition/mat-sau-nghieng-trai-molly-trang-vang.webp",
+      "assets/images/products/honor/honor-600-pro-molly-limited-edition/mat-truoc-nghieng-phai-molly-trang-vang.webp",
+      "assets/images/products/honor/honor-600-pro-molly-limited-edition/hop-qua-va-phu-kien-molly-trang-vang-do.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-honor",
+      "https://www.honor.com/vn/phones/",
+      "https://www.honor.com/vn/phones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "partial_retail_listing",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT005-HN600PROMOLLYLIMITEDEDITION",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "AMOLED 1.07 tỷ màu (10-bit), 100% gam màu DCI-P3, hỗ trợ chuẩn HDR Vivid cao cấp",
+      "Kích thước màn hình": "6.57 inch theo đường chéo (tỷ lệ màn hình so với thân máy đạt 94.8%, viền siêu mỏng 0.98mm)",
+      "Độ phân giải màn hình": "1.5K (2728 x 1264 pixels, tỷ lệ 19.5:9) (458 ppi)",
+      "Tần số quét": "120Hz thích ứng thông minh tự động tối ưu hóa theo nội dung",
+      "Kiểu màn hình": "Đục lỗ nốt ruồi trung tâm siêu nhỏ gọn gàng",
+      "Tính năng màn hình": "Độ sáng: 800 nits (tiêu chuẩn) / 1800 nits (HBM toàn màn hình) / 8000 nits (đỉnh HDR cực đại); Làm mờ PWM tần số siêu cao 3840Hz khử nhấp nháy, màn hình làm dịu mắt AI Defocus Display, điều chỉnh nhiệt độ màu theo nhịp sinh học Natural Tone Display; Cảm ứng khi tay ướt và dính dầu mỡ (Wet Touch Pro), Chế độ đọc sách bảo vệ mắt e-ink"
+    },
+    "Camera sau": {
+      "Camera sau": "Số lượng camera: Hệ thống 3 camera Flagship AI Ultra-Clear kết hợp cảm biến quang phổ màu | Camera Chính (Wide): 200 MP, khẩu độ f/1.9, tiêu cự 24mm, cảm biến 1/1.4\", 0.56µm (gộp 16-in-1 đạt 2.24µm), PDAF, chống rung quang học OIS chuẩn CIPA 6.0 | Camera Telephoto Tiềm Vọng: 50 MP, khẩu độ f/2.8, tiêu cự 80mm, cảm biến 1/2.51\", lấy nét PDAF, chống rung quang học OIS chuẩn CIPA 6.5, zoom quang học 3.5x, zoom kỹ thuật số tối đa 120x | Camera Góc Siêu Rộng & Macro: 12 MP, khẩu độ f/2.2, tiêu cự 16mm, góc nhìn 112°, hỗ trợ AF lấy nét macro 2.5cm | Cảm biến bổ trợ: Cảm biến quang phổ màu (Color Spectrum Sensor) đo chính xác cân bằng trắng và nhiệt độ màu",
+      "Quay video": "Quay video 4K ở tốc độ 30/60fps; 1080p ở tốc độ 30/60fps; hỗ trợ chống rung kép OIS + gyro-EIS",
+      "Tính năng camera": "Tính năng nhiếp ảnh độc quyền MOLLY: Bộ khung ảnh và Watermark MOLLY độc quyền (MOLLY Paradise, MOLLY's Adventure, MOLLY Planet) | Các chế độ chụp ảnh: Chụp đêm AI Ultra-Night, Chân dung nghệ thuật Harcourt Studio 2.0, Chuyển ảnh thành video AI Image to Video 2.0, Chụp trăng AI SuperMoon 2.0 | Khả năng zoom: Zoom quang học tiềm vọng 3.5x; zoom kỹ thuật số siêu nét lên đến 120x"
+    },
+    "Camera trước": {
+      "Camera trước": "50 MP, khẩu độ f/2.0, tiêu cự 21mm (góc rộng 90°), cảm biến 1/2.88\", 0.61µm; Lấy nét: Lấy nét góc rộng thông minh tự động mở rộng khung hình khi nhận diện nhóm; Tính năng: Chân dung làm đẹp AI Chuyên nghiệp, Tự động kích hoạt HDR ngược sáng, Watermark MOLLY cho ảnh selfie; Quay video: Quay video 4K ở tốc độ 30fps; 1080p ở tốc độ 30/60fps với chống rung điện tử gyro-EIS"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 8 Elite (SM8750-AB, tiến trình 3nm TSMC tân tiến)",
+      "Loại CPU": "CPU Oryon 8 nhân: 2 nhân Prime Phoenix L xung nhịp 4.32 GHz + 6 nhân Performance Phoenix M xung nhịp 3.53 GHz",
+      "GPU": "Qualcomm Adreno 830 (xung nhịp 1200 MHz), hỗ trợ Ray Tracing phần cứng | Tản nhiệt: Tản nhiệt buồng hơi VC siêu dẫn 8500 mm² kết hợp lớp than chì dẫn nhiệt cao cấp"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "12GB RAM LPDDR5X tốc độ cao 8533 Mbps (HONOR RAM Turbo cho phép mở rộng thêm 12GB RAM ảo từ bộ nhớ trong)",
+      "Bộ nhớ trong": "512GB chuẩn UFS 4.0 tốc độ đọc ghi cực nhanh (Không hỗ trợ khe cắm thẻ nhớ microSD (đảm bảo tốc độ truy xuất tối đa UFS 4.0))"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "7000 mAh (dung lượng định mức 6850 mAh), pin Silicon-Carbon Lithium Polymer — Khoảng 48 phút sạc có dây 80W để nạp đầy 100% viên pin 7000 mAh",
+      "Công nghệ sạc": "Sạc siêu nhanh có dây HONOR SuperCharge 80W (20V/4A) | Sạc không dây: Sạc siêu nhanh không dây HONOR SuperCharge 50W | Sạc ngược: Hỗ trợ sạc ngược có dây công suất cực lớn 27W qua cổng USB-C",
+      "Cổng sạc": "USB Type-C chuẩn USB 2.0, hỗ trợ OTG công suất sạc ngược 27W"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "MagicOS 10 phát triển trên nền tảng Android 16 chính thức",
+      "Công nghệ - Tiện ích": "AI Chuyển Ảnh Thành Video 2.0, AI Super Zoom 2.0, SuperMoon 2.0, Khoanh tròn tìm kiếm Circle to Search, Tẩy vật thể AI",
+      "Tiện ích khác": "Magic Capsule nâng cấp, Không gian riêng tư Parallel Space, Liên kết thiết bị HONOR Connect",
+      "Thời điểm ra mắt": "Công bố: Tháng 06/2026 – Mở bán chính hãng tại Việt Nam: Tháng 06/2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G NR kép (hỗ trợ đầy đủ băng tần SA/NSA Sub-6GHz tại Việt Nam n1/n3/n28/n41/n77/n78), 4G LTE, 3G WCDMA, 2G GSM",
+      "Thẻ SIM": "2 Nano-SIM vật lý hoặc 1 Nano-SIM + 1 eSIM tích hợp linh hoạt",
+      "Wi-Fi": "Wi-Fi 7 (802.11 a/b/g/n/ac/ax/be, 2.4GHz / 5GHz / 6GHz, 2x2 MIMO, hỗ trợ băng thông 320MHz)",
+      "Bluetooth": "Bluetooth 6.0 tân tiến (hỗ trợ BLE, SBC, AAC, LDAC, aptX, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5.0, LC3)",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa chức năng (Google Pay, chạm truyền file, thẻ thang máy)",
+      "GPS": "GPS, AGPS, GLONASS, BeiDou, Galileo, QZSS, NavIC"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung nhôm nguyên khối Unibody, mặt lưng sợi tổng hợp cao cấp in họa tiết MOLLY dập nổi 3D",
+      "Chất liệu mặt lưng": "Khung nhôm nguyên khối Unibody, mặt lưng sợi tổng hợp cao cấp in họa tiết MOLLY dập nổi 3D",
+      "Kích thước": "156.0 x 74.7 x 7.8 mm (thân máy siêu mỏng thanh lịch)",
+      "Trọng lượng": "Khoảng 190g - 200g (phiên bản mặt lưng sợi tổng hợp cao cấp)",
+      "Chỉ số kháng nước, bụi": "Đạt đồng thời 3 chuẩn kháng bụi và nước cao nhất: IP68, IP69 và IP69K (chống nước áp lực cao và nước nóng) (Đạt chứng nhận chống sốc chống rơi vỡ 5 sao từ tổ chức kiểm định quốc tế SGS)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa kép Stereo đối xứng, hiệu ứng âm thanh HONOR Sound không gian sống động; Hi-Res Audio và Hi-Res Audio Wireless không dây chất lượng cao; Jack 3.5mm: Không có cổng 3.5mm (sử dụng cổng USB Type-C hoặc kết nối Bluetooth)",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học ẩn dưới màn hình, Mở khóa khuôn mặt AI 2D",
+      "Các loại cảm biến": "Cảm biến quang phổ màu, Con quay hồi chuyển, La bàn số, Trọng lực, Ánh sáng môi trường, Tiệm cận siêu âm, Cảm biến nhấp nháy, Cổng hồng ngoại"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,57 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "LTPO AMOLED 1,5K, PWM 4320Hz, 8.000 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2736 x 1264 pixel (1.5K)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 8 Elite (3nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "512GB UFS 4.0 (Phiên bản giới hạn POP MART MOLLY)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "200MP Chính OIS + 50MP Tele tiềm vọng 120x + 12MP Siêu rộng (Watermark MOLLY)"
+    },
+    {
+      "label": "Camera trước",
+      "value": "50MP Portrait Selfie (ƒ/2.0), quay 4K 60fps"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "7.000 mAh (Silicon-Carbon)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc có dây 80W, sạc không dây 50W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "MagicOS 10 (Giao diện độc quyền MOLLY)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 / IP69 / IP69K & Hộp quà sưu tầm POP MART"
+    }
+  ],
+  "verbatimDescription": [
+    "HONOR 600 Pro Molly Limited Edition là dự án hợp tác thế kỷ giữa thương hiệu công nghệ HONOR và hãng đồ chơi nghệ thuật lừng danh thế giới POP MART, lấy cảm hứng từ biểu tượng nghệ thuật kinh điển MOLLY. Ra mắt thị trường toàn cầu và mở bán chính thức tại Việt Nam vào tháng 6/2026 độc quyền qua hệ thống Thế Giới Di Động, sản phẩm nhanh chóng trở thành cơn sốt trong cộng đồng người yêu công nghệ và giới sưu tầm nghệ thuật (Art Toy). Không chỉ đơn thuần là một phiên bản đổi màu vỏ ngoài, HONOR 600 Pro Molly Limited Edition là sự kết hợp nhuần nhuyễn giữa nghệ thuật thị giác đương đại và sức mạnh công nghệ đỉnh cao. Máy sở hữu trọn vẹn nền tảng phần cứng tối thượng của chiếc flagship HONOR 600 Pro với chip Snapdragon 8 Elite 3nm, camera tiềm vọng 120x, pin 7000 mAh cùng bộ quà tặng và giao diện độc quyền đậm chất thời trang.",
+    "Điểm nhấn độc nhất của phiên bản này nằm ở mặt lưng màu Trắng Ánh Kim (Golden White) được chế tác từ sợi tổng hợp cao cấp, ứng dụng công nghệ in khắc vi hạt 3D tái hiện hình tượng MOLLY với đôi mắt to tròn biểu cảm và phong thái tự tin. Khi nghiêng máy dưới các góc ánh sáng khác nhau, mặt lưng sẽ phản chiếu những dải ánh sáng vàng kim lấp lánh như một tác phẩm điêu khắc nghệ thuật. Người sở hữu HONOR 600 Pro Molly Limited Edition sẽ được trải nghiệm bộ hộp quà Exclusive Gift Box được thiết kế riêng biệt vô cùng tinh xảo. Bên trong hộp bao gồm phong bì thư gửi từ MOLLY, thẻ trong suốt có cửa sổ đổi màu nghệ thuật, que lấy SIM kim loại đúc hình nhân vật MOLLY, miếng dán sticker phim độc quyền, dây đeo điện thoại thời trang và một túi xách đựng điện thoại cao cấp được may đo riêng.",
+    "Ẩn sau diện mạo nghệ thuật kiêu sa là sức mạnh phần cứng vô địch của con chip Qualcomm Snapdragon 8 Elite 3nm. Cấu trúc 8 nhân CPU Oryon với 2 nhân Prime đạt xung nhịp 4.32 GHz kết hợp GPU Adreno 830 mang lại hiệu năng xử lý đồ họa và trí tuệ nhân tạo đỉnh cao nhất của ngành công nghiệp di động năm 2026. Tại thị trường Việt Nam, phiên bản giới hạn được trang bị sẵn cấu hình bộ nhớ khủng 12GB RAM LPDDR5X cùng 512GB bộ nhớ trong chuẩn UFS 4.0 siêu tốc. Sự kết hợp này mang lại khả năng lưu trữ không giới hạn hàng nghìn bức ảnh độ phân giải cao và đa nhiệm mượt mà tuyệt đối không một độ trễ.",
+    "Hệ thống camera của máy giữ nguyên vẹn thông số đỉnh cao của bản Pro: Camera chính 200MP cảm biến lớn 1/1.4 inch chống rung OIS chuẩn CIPA 6.0, camera tele tiềm vọng 50MP zoom quang 3.5x và zoom số 120x, cùng camera góc siêu rộng 12MP. Hệ thống thấu kính này cho phép người dùng ghi lại những bức ảnh sắc nét hoàn hảo từ chụp phong cảnh, chụp chân dung đến zoom xa sân khấu ca nhạc. Điểm đặc quyền dành riêng cho chủ nhân phiên bản MOLLY chính là bộ khung ảnh và Watermark MOLLY độc quyền tích hợp trực tiếp trong ứng dụng máy ảnh (gồm các chủ đề MOLLY Paradise, MOLLY's Adventure và MOLLY Planet). Mỗi bức ảnh chụp ra đều được gắn dấu ấn nghệ thuật cá tính, tạo nên phong cách nhiếp ảnh độc bản trên mạng xã hội.",
+    "Tương tự phiên bản Pro tiêu chuẩn, HONOR 600 Pro Molly sở hữu viên pin Silicon-Carbon dung lượng khủng 7000 mAh được thu gọn tinh tế trong thân máy mỏng chỉ 7.8mm. Thời lượng sử dụng kéo dài tới gần 3 ngày giúp người dùng thỏa sức trải nghiệm, chụp ảnh và du lịch mà không cần lo lắng về nguồn sạc. Công nghệ sạc siêu nhanh có dây 80W đi kèm củ sạc chính hãng trong hộp giúp nạp đầy pin chỉ trong 48 phút. Ngoài ra, máy còn hỗ trợ sạc nhanh không dây 50W và sạc ngược có dây công suất cao 27W, hoàn thiện trải nghiệm năng lượng đỉnh cao.",
+    "Hệ điều hành MagicOS 10 trên phiên bản giới hạn được tùy biến chuyên sâu với bộ giao diện Interactive MOLLY Themes. Từ màn hình khóa động tương tác theo chuyển động ngón tay, bộ icon ứng dụng được thiết kế theo phong cách đồ chơi nghệ thuật, cho đến hiệu ứng hoạt họa sạc pin MOLLY ngộ nghĩnh và nhạc chuông độc quyền, tất cả tạo nên một thế giới thần tiên sống động trong lòng bàn tay. Về độ bền, máy thừa hưởng trọn vẹn bộ ba chuẩn kháng bụi nước khắc nghiệt IP68, IP69 và IP69K cùng chứng nhận chống rơi vỡ SGS 5 sao Thụy Sĩ, khẳng định rằng một tác phẩm nghệ thuật giới hạn vẫn sở hữu độ bền bỉ phi thường trước mọi thử thách thời tiết và va đập."
+  ],
+  "priceSegment": "high-end"
+}

@@ -1,0 +1,454 @@
+{
+  "id": "redmi-note-17-pro-max",
+  "model": "Redmi Note 17 Pro Max",
+  "brand": "Redmi",
+  "brandId": "redmi",
+  "parentGroupId": "xiaomi",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "midrange"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "highlights": [
+      "Vi xử lý Snapdragon 7+ Gen 4 (3nm) kết hợp RAM 12GB/16GB LPDDR5X và bộ nhớ UFS 4.0",
+      "Hệ thống 3 camera chuyên nghiệp: 50MP Chính OIS + 50MP Tele tiềm vọng 3.5x OIS + 12MP Siêu rộng",
+      "Pin Silicon-Carbon 6.600 mAh, sạc siêu tốc 100W có dây, sạc không dây 30W và kháng nước IP68/IP69"
+    ],
+    "description": "Redmi Note 17 Pro Max là siêu phẩm cao cấp nhất lịch sử dòng Redmi Note khi hội tụ vi xử lý Snapdragon 7+ Gen 4 (3nm), bộ nhớ LPDDR5X + UFS 4.0, hệ thống camera có ống kính Tele tiềm vọng 50MP 3.5x OIS và viên pin Silicon-Carbon 6.600 mAh hỗ trợ cả sạc nhanh 100W có dây lẫn 30W không dây.",
+    "releaseDate": "Tháng 09/2026"
+  },
+  "display": {
+    "technology": "AMOLED Cong 4 Cạnh 1.5K 144Hz",
+    "size": "6,78 inch",
+    "resolution": "1.5K (2712 x 1220 pixel)",
+    "refreshRate": "144Hz",
+    "brightness": "Độ sáng đỉnh 3.500 nit, cảm ứng dưới mưa Wet Touch 2.0, đạt 3 chứng nhận bảo vệ mắt TÜV Rheinland",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "ram": [
+      "12GB",
+      "16GB"
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ],
+    "chipset": "Qualcomm Snapdragon 7+ Gen 4 (tiến trình TSMC 3nm hiệu năng tiệm cận flagship, đi kèm tản nhiệt 3D IceLoop 5500mm²)",
+    "operatingSystem": "Xiaomi HyperOS 3.0 dựa trên Android 16",
+    "cpu": "CPU 8 nhân kiến trúc hiệu năng cao xung nhịp lên tới 3.0GHz",
+    "gpu": "Qualcomm Adreno GPU thế hệ mới"
+  },
+  "rearCamera": {
+    "main": "50MP Chính OIS + 50MP Tiềm vọng 3.5x OIS + 12MP Siêu rộng",
+    "ultraWide": null,
+    "telephoto": null,
+    "ois": true,
+    "videoRecording": [
+      "Quay video 4K ở 30/60/120 fps; 1080p ở 30/60/120/240 fps; chống rung kép OIS + EIS"
+    ],
+    "aiFeatures": [
+      "Xiaomi AISP 2.0, Chân dung quang học 3.5x, Chụp đêm Ultra Night, AI Erase Pro, AI Film"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "32MP (Quay 4K)",
+    "features": [
+      "Camera trước 32MP (khẩu độ ƒ/2.0), hỗ trợ HDR và quay video 4K@30fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "6.600 mAh",
+    "wiredCharging": "Sạc siêu tốc 100W | Không dây 30W",
+    "wirelessCharging": "Có hỗ trợ sạc không dây",
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": "Sạc siêu tốc 100W có dây | Sạc nhanh không dây 30W | Sạc ngược có dây"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano SIM (hỗ trợ eSIM)"
+    ],
+    "network": [
+      "5G Sub-6GHz Dual SIM"
+    ],
+    "wifi": "Wi-Fi 7 (802.11 a/b/g/n/ac/ax/be)",
+    "bluetooth": "Bluetooth 5.4 / 6.0",
+    "gps": [
+      "Định vị băng tần kép L1+L5 (GPS, GLONASS, Galileo, Beidou, QZSS)"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "163,2 x 75,6 x 8,4 mm",
+    "weight": "212 gram",
+    "materials": [
+      "Khung viền hợp kim nhôm gia cường cấu trúc King Kong",
+      "Mặt lưng kính Dragon Crystal hoặc da sinh học cao cấp (Trắng, Tím, Đen)"
+    ],
+    "waterResistance": "Kháng nước & bụi IP68/IP69",
+    "availableColors": [
+      "Trắng",
+      "Tím",
+      "Đen"
+    ]
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 9490000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/redmi/redmi-note-17-pro-max/anh-dai-dien-xiaomi-redmi-note-17-pro-max-trang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/redmi/redmi-note-17-pro-max/anh-dai-dien-xiaomi-redmi-note-17-pro-max-trang.webp",
+      "assets/images/products/redmi/redmi-note-17-pro-max/anh-dai-dien-xiaomi-redmi-note-17-pro-max-den.webp",
+      "assets/images/products/redmi/redmi-note-17-pro-max/anh-dai-dien-xiaomi-redmi-note-17-pro-max-tim.webp",
+      "assets/images/products/redmi/redmi-note-17-pro-max/mat-truoc-man-hinh-trang.webp",
+      "assets/images/products/redmi/redmi-note-17-pro-max/goc-nghieng-mat-lung-phai-trang.webp",
+      "assets/images/products/redmi/redmi-note-17-pro-max/goc-nghieng-mat-lung-trai-trang.webp",
+      "assets/images/products/redmi/redmi-note-17-pro-max/mat-lung-trang.webp",
+      "assets/images/products/redmi/redmi-note-17-pro-max/canh-duoi-cong-sac-trang.webp",
+      "assets/images/products/redmi/redmi-note-17-pro-max/canh-phai-nut-nguon-trang.webp",
+      "assets/images/products/redmi/redmi-note-17-pro-max/canh-trai-trang.webp",
+      "assets/images/products/redmi/redmi-note-17-pro-max/canh-tren-trang.webp",
+      "assets/images/products/redmi/redmi-note-17-pro-max/goc-nghieng-man-hinh-phai-trang.webp",
+      "assets/images/products/redmi/redmi-note-17-pro-max/goc-nghieng-man-hinh-trai-trang.webp",
+      "assets/images/products/redmi/redmi-note-17-pro-max/he-thong-camera-ai-chup-chan-dung-trang.webp",
+      "assets/images/products/redmi/redmi-note-17-pro-max/chuan-ben-redmi-titan-ip66-ip68-ip69-ip69k-trang.webp",
+      "assets/images/products/redmi/redmi-note-17-pro-max/man-hinh-amoled-6-83-inch-1-5k-120hz-3500-nits.webp",
+      "assets/images/products/redmi/redmi-note-17-pro-max/pin-silicon-carbon-10000mah-sac-nhanh-hypercharge-100w.webp",
+      "assets/images/products/redmi/redmi-note-17-pro-max/vi-xu-ly-snapdragon-6-gen-5-tien-trinh-4nm.webp",
+      "assets/images/products/redmi/redmi-note-17-pro-max/tong-quan-tinh-nang-pin-10000mah-sac-100w-snapdragon-6-gen-5.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/redmi/redmi-note-17-pro-max/anh-dai-dien-xiaomi-redmi-note-17-pro-max-den.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/man-hinh-amoled-6-83-inch-1-5k-120hz-3500-nits.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/pin-silicon-carbon-10000mah-sac-nhanh-hypercharge-100w.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/vi-xu-ly-snapdragon-6-gen-5-tien-trinh-4nm.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/tong-quan-tinh-nang-pin-10000mah-sac-100w-snapdragon-6-gen-5.webp"
+      ],
+      "Tím": [
+        "assets/images/products/redmi/redmi-note-17-pro-max/anh-dai-dien-xiaomi-redmi-note-17-pro-max-tim.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/man-hinh-amoled-6-83-inch-1-5k-120hz-3500-nits.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/pin-silicon-carbon-10000mah-sac-nhanh-hypercharge-100w.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/vi-xu-ly-snapdragon-6-gen-5-tien-trinh-4nm.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/tong-quan-tinh-nang-pin-10000mah-sac-100w-snapdragon-6-gen-5.webp"
+      ],
+      "Trắng": [
+        "assets/images/products/redmi/redmi-note-17-pro-max/anh-dai-dien-xiaomi-redmi-note-17-pro-max-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/mat-truoc-man-hinh-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/goc-nghieng-mat-lung-phai-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/goc-nghieng-mat-lung-trai-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/mat-lung-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/canh-duoi-cong-sac-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/canh-phai-nut-nguon-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/canh-trai-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/canh-tren-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/goc-nghieng-man-hinh-phai-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/goc-nghieng-man-hinh-trai-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/he-thong-camera-ai-chup-chan-dung-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/chuan-ben-redmi-titan-ip66-ip68-ip69-ip69k-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/man-hinh-amoled-6-83-inch-1-5k-120hz-3500-nits.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/pin-silicon-carbon-10000mah-sac-nhanh-hypercharge-100w.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/vi-xu-ly-snapdragon-6-gen-5-tien-trinh-4nm.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/tong-quan-tinh-nang-pin-10000mah-sac-100w-snapdragon-6-gen-5.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/redmi/redmi-note-17-pro-max/goc-nghieng-mat-lung-phai-trang.webp",
+      "screen": "assets/images/products/redmi/redmi-note-17-pro-max/mat-truoc-man-hinh-trang.webp",
+      "performance": "assets/images/products/redmi/redmi-note-17-pro-max/vi-xu-ly-snapdragon-6-gen-5-tien-trinh-4nm.webp",
+      "camera": "assets/images/products/redmi/redmi-note-17-pro-max/he-thong-camera-ai-chup-chan-dung-trang.webp",
+      "battery": "assets/images/products/redmi/redmi-note-17-pro-max/canh-duoi-cong-sac-trang.webp",
+      "feature": "assets/images/products/redmi/redmi-note-17-pro-max/anh-dai-dien-xiaomi-redmi-note-17-pro-max-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/redmi/redmi-note-17-pro-max/anh-dai-dien-xiaomi-redmi-note-17-pro-max-den.webp",
+      "assets/images/products/redmi/redmi-note-17-pro-max/anh-dai-dien-xiaomi-redmi-note-17-pro-max-tim.webp",
+      "assets/images/products/redmi/redmi-note-17-pro-max/mat-truoc-man-hinh-trang.webp",
+      "assets/images/products/redmi/redmi-note-17-pro-max/goc-nghieng-mat-lung-phai-trang.webp",
+      "assets/images/products/redmi/redmi-note-17-pro-max/goc-nghieng-mat-lung-trai-trang.webp",
+      "assets/images/products/redmi/redmi-note-17-pro-max/mat-lung-trang.webp",
+      "assets/images/products/redmi/redmi-note-17-pro-max/canh-duoi-cong-sac-trang.webp",
+      "assets/images/products/redmi/redmi-note-17-pro-max/canh-phai-nut-nguon-trang.webp",
+      "assets/images/products/redmi/redmi-note-17-pro-max/canh-trai-trang.webp",
+      "assets/images/products/redmi/redmi-note-17-pro-max/canh-tren-trang.webp"
+    ]
+  },
+  "variants": [
+    {
+      "sku": "DT027-RN17PM-TRANG-12GB-256GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 9490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-note-17-pro-max/anh-dai-dien-xiaomi-redmi-note-17-pro-max-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/mat-truoc-man-hinh-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/goc-nghieng-mat-lung-phai-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/goc-nghieng-mat-lung-trai-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/mat-lung-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/canh-duoi-cong-sac-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/canh-phai-nut-nguon-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/canh-trai-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/canh-tren-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/goc-nghieng-man-hinh-phai-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/goc-nghieng-man-hinh-trai-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/he-thong-camera-ai-chup-chan-dung-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/chuan-ben-redmi-titan-ip66-ip68-ip69-ip69k-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/man-hinh-amoled-6-83-inch-1-5k-120hz-3500-nits.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/pin-silicon-carbon-10000mah-sac-nhanh-hypercharge-100w.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/vi-xu-ly-snapdragon-6-gen-5-tien-trinh-4nm.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/tong-quan-tinh-nang-pin-10000mah-sac-100w-snapdragon-6-gen-5.webp"
+      ]
+    },
+    {
+      "sku": "DT027-RN17PM-TRANG-16GB-512GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 10990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-note-17-pro-max/anh-dai-dien-xiaomi-redmi-note-17-pro-max-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/mat-truoc-man-hinh-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/goc-nghieng-mat-lung-phai-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/goc-nghieng-mat-lung-trai-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/mat-lung-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/canh-duoi-cong-sac-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/canh-phai-nut-nguon-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/canh-trai-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/canh-tren-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/goc-nghieng-man-hinh-phai-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/goc-nghieng-man-hinh-trai-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/he-thong-camera-ai-chup-chan-dung-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/chuan-ben-redmi-titan-ip66-ip68-ip69-ip69k-trang.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/man-hinh-amoled-6-83-inch-1-5k-120hz-3500-nits.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/pin-silicon-carbon-10000mah-sac-nhanh-hypercharge-100w.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/vi-xu-ly-snapdragon-6-gen-5-tien-trinh-4nm.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/tong-quan-tinh-nang-pin-10000mah-sac-100w-snapdragon-6-gen-5.webp"
+      ]
+    },
+    {
+      "sku": "DT027-RN17PM-TIM-12GB-256GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 9490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-note-17-pro-max/anh-dai-dien-xiaomi-redmi-note-17-pro-max-tim.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/man-hinh-amoled-6-83-inch-1-5k-120hz-3500-nits.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/pin-silicon-carbon-10000mah-sac-nhanh-hypercharge-100w.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/vi-xu-ly-snapdragon-6-gen-5-tien-trinh-4nm.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/tong-quan-tinh-nang-pin-10000mah-sac-100w-snapdragon-6-gen-5.webp"
+      ]
+    },
+    {
+      "sku": "DT027-RN17PM-TIM-16GB-512GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 10990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-note-17-pro-max/anh-dai-dien-xiaomi-redmi-note-17-pro-max-tim.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/man-hinh-amoled-6-83-inch-1-5k-120hz-3500-nits.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/pin-silicon-carbon-10000mah-sac-nhanh-hypercharge-100w.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/vi-xu-ly-snapdragon-6-gen-5-tien-trinh-4nm.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/tong-quan-tinh-nang-pin-10000mah-sac-100w-snapdragon-6-gen-5.webp"
+      ]
+    },
+    {
+      "sku": "DT027-RN17PM-DEN-12GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 9490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-note-17-pro-max/anh-dai-dien-xiaomi-redmi-note-17-pro-max-den.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/man-hinh-amoled-6-83-inch-1-5k-120hz-3500-nits.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/pin-silicon-carbon-10000mah-sac-nhanh-hypercharge-100w.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/vi-xu-ly-snapdragon-6-gen-5-tien-trinh-4nm.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/tong-quan-tinh-nang-pin-10000mah-sac-100w-snapdragon-6-gen-5.webp"
+      ]
+    },
+    {
+      "sku": "DT027-RN17PM-DEN-16GB-512GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 10990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-note-17-pro-max/anh-dai-dien-xiaomi-redmi-note-17-pro-max-den.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/man-hinh-amoled-6-83-inch-1-5k-120hz-3500-nits.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/pin-silicon-carbon-10000mah-sac-nhanh-hypercharge-100w.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/vi-xu-ly-snapdragon-6-gen-5-tien-trinh-4nm.webp",
+        "assets/images/products/redmi/redmi-note-17-pro-max/tong-quan-tinh-nang-pin-10000mah-sac-100w-snapdragon-6-gen-5.webp"
+      ]
+    }
+  ],
+  "docCode": "DT027-RN17PM",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "CrystalRes 1.5K AMOLED cong bốn cạnh, 12-bit (68,7 tỷ màu), hỗ trợ Dolby Vision, HDR10+, làm mờ 3840Hz PWM Dimming",
+      "Kích thước màn hình": "6,78 inch",
+      "Độ phân giải màn hình": "2712 x 1220 pixel (chuẩn 1.5K, mật độ điểm ảnh ~439 ppi)",
+      "Tần số quét": "144Hz",
+      "Kiểu màn hình": "Màn hình cong tràn bốn cạnh đẳng sâu, bảo vệ bởi kính cường lực Xiaomi Dragon Crystal Glass",
+      "Tính năng màn hình": "Độ sáng đỉnh 3.500 nit, cảm ứng dưới mưa Wet Touch 2.0, đạt 3 chứng nhận bảo vệ mắt TÜV Rheinland"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera có ống kính Tiềm vọng: Camera chính 50MP Light Hunter 800 (khẩu độ ƒ/1.6, chống rung quang học OIS) + Camera Tele tiềm vọng 50MP (zoom quang học 3.5x, chống rung OIS, hỗ trợ chụp Tele Macro) + Camera góc siêu rộng 12MP (góc nhìn 120°)",
+      "Quay video": "Quay video 4K ở 30/60/120 fps; 1080p ở 30/60/120/240 fps; chống rung kép OIS + EIS",
+      "Tính năng camera": "Xiaomi AISP 2.0, Chân dung quang học 3.5x, Chụp đêm Ultra Night, AI Erase Pro, AI Film"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera trước 32MP (khẩu độ ƒ/2.0), hỗ trợ HDR và quay video 4K@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 7+ Gen 4 (tiến trình TSMC 3nm hiệu năng tiệm cận flagship, đi kèm tản nhiệt 3D IceLoop 5500mm²)",
+      "Loại CPU": "CPU 8 nhân kiến trúc hiệu năng cao xung nhịp lên tới 3.0GHz",
+      "GPU": "Qualcomm Adreno GPU thế hệ mới"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "12GB / 16GB LPDDR5X",
+      "Bộ nhớ trong": "256GB / 512GB UFS 4.0"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "6.600 mAh (Pin Silicon-Carbon mật độ năng lượng cao kèm chip quản lý Surge P3 & G1)",
+      "Công nghệ sạc": "Sạc siêu tốc 100W có dây | Sạc nhanh không dây 30W | Sạc ngược có dây",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS 3.0 dựa trên Android 16",
+      "Công nghệ - Tiện ích": "Tổ hợp Xiaomi HyperAI, Chip tăng cường sóng Surge T1S, Cổng hồng ngoại IR Blaster",
+      "Tiện ích khác": "Trang bị ống kính Tele tiềm vọng 3.5x OIS và sạc không dây 30W trên dòng Redmi Note",
+      "Thời điểm ra mắt": "2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G Sub-6GHz (SA/NSA), Dual 5G VoNR",
+      "Thẻ SIM": "2 Nano SIM (hỗ trợ eSIM)",
+      "Wi-Fi": "Wi-Fi 7 (802.11 a/b/g/n/ac/ax/be)",
+      "Bluetooth": "Bluetooth 5.4 / 6.0",
+      "Công nghệ NFC": "Có hỗ trợ",
+      "GPS": "Định vị băng tần kép L1+L5 (GPS, GLONASS, Galileo, Beidou, QZSS)"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền hợp kim nhôm gia cường cấu trúc King Kong",
+      "Chất liệu mặt lưng": "Mặt lưng kính Dragon Crystal hoặc da sinh học cao cấp (Trắng, Tím, Đen)",
+      "Kích thước": "163,2 x 75,6 x 8,4 mm",
+      "Trọng lượng": "212 gram",
+      "Chỉ số kháng nước, bụi": "Chuẩn IP68 / IP69 (kháng bụi tuyệt đối, chịu ngâm nước sâu và tia nước áp lực cao)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo đối xứng chuẩn Dolby Atmos, Hi-Res Audio & Hi-Res Wireless",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình & Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Cảm biến ánh sáng 360°, Cảm biến tiệm cận, La bàn điện tử, Hồng ngoại IR"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,78 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "AMOLED Cong 4 Cạnh 1.5K 144Hz"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "1.5K (2712 x 1220 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "144Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Snapdragon 7+ Gen 4 (3nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB / 16GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB / 512GB UFS 4.0"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính OIS + 50MP Tiềm vọng 3.5x OIS + 12MP Siêu rộng"
+    },
+    {
+      "label": "Camera trước",
+      "value": "32MP (Quay 4K)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "6.600 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc siêu tốc 100W | Không dây 30W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS 3.0 (Android 16)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G Sub-6GHz Dual SIM"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "Kháng nước & bụi IP68/IP69"
+    }
+  ],
+  "verbatimDescription": [
+    "Redmi Note 17 Pro Max xóa nhòa ranh giới giữa dòng Redmi Note và dòng Xiaomi T-Series khi được trang bị những vũ khí phần cứng mạnh mẽ nhất. Máy sử dụng vi xử lý Qualcomm Snapdragon 7+ Gen 4 tiến trình 3nm kết hợp RAM LPDDR5X tới 16GB và ổ cứng UFS 4.0.",
+    "Hệ thống nhiếp ảnh đánh dấu bước tiến lịch sử với sự xuất hiện của ống kính Tele tiềm vọng 50MP hỗ trợ zoom quang học 3.5x và chống rung OIS bên cạnh cảm biến chính 50MP Light Hunter 800 OIS và góc siêu rộng 12MP.",
+    "Màn hình cong bốn cạnh 6,78 inch 1.5K AMOLED tần số quét 144Hz đạt độ sáng đỉnh 3.500 nit và được bảo vệ bởi kính cường lực Xiaomi Dragon Crystal Glass siêu bền.",
+    "Viên pin Silicon-Carbon 6.600 mAh không chỉ hỗ trợ sạc siêu tốc 100W có dây mà còn tích hợp sạc nhanh không dây 30W tiện lợi.",
+    "Khung viền hợp kim nhôm cùng chuẩn kháng bụi nước IP68/IP69, Wi-Fi 7 và hệ điều hành Xiaomi HyperOS 3.0 (Android 16) hoàn thiện trải nghiệm flagship trên Redmi Note 17 Pro Max."
+  ],
+  "series": "Redmi Note 17 Series",
+  "priceSegment": "midrange"
+}

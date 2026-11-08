@@ -1,0 +1,799 @@
+{
+  "id": "galaxy-s26-ultra-5g",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "model": "Samsung Galaxy S26 Ultra 5G",
+  "series": "Galaxy S26 Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "flagship"
+  ],
+  "status": "active_listing",
+  "featuredOrder": 2,
+  "bestseller": true,
+  "rating": 4.9,
+  "reviewCount": 98,
+  "badges": [
+    {
+      "text": "Giảm giá",
+      "type": "sale"
+    }
+  ],
+  "overview": {
+    "releaseDate": "Năm 2026",
+    "segment": "Flagship Cao cấp",
+    "description": "Samsung Galaxy S26 Ultra 5G là mẫu flagship đỉnh cao nhất dòng Galaxy S năm 2026, hội tụ màn hình phẳng 6,9 inch Quad HD+ phủ kính chống phản chiếu Gorilla Armor 2, vi xử lý Snapdragon 8 Elite Gen 5 (3nm) xung nhịp 4,74 GHz, hệ thống 4 camera 200MP khẩu độ lớn f/1.4 cùng công nghệ sạc siêu nhanh nâng cấp lên 60W và bút S Pen tích hợp sẵn. Tại AURIX MOBILE, Galaxy S26 Ultra 5G là lựa chọn hàng đầu cho doanh nhân, nhà sáng tạo nội dung và người dùng đam mê công nghệ cao cấp.",
+    "highlights": [
+      "6,9 inch QHD+ 120Hz",
+      "Snapdragon 8 Elite Gen 5",
+      "Camera 200MP Quad Tele",
+      "Pin 5.000 mAh · Sạc 60W"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 30990000,
+    "originalPrice": 40990000,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT017-SSS26ULTRA5G-TIM-12GB-256GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 30990000,
+      "originalPrice": 40990000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/anh-dai-dien-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-truoc-mat-sau-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-va-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-phai-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-trai-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/he-thong-camera-200mp-zoom-100x-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-va-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/04-display.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/Galaxy-S26-Ultra-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/thong-so-man-hinh-6-9-inch-privacy-display-samsung-galaxy-s26-ultra-5g-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT017-SSS26ULTRA5G-TIM-12GB-512GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 35490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/anh-dai-dien-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-truoc-mat-sau-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-va-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-phai-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-trai-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/he-thong-camera-200mp-zoom-100x-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-va-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/04-display.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/Galaxy-S26-Ultra-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/thong-so-man-hinh-6-9-inch-privacy-display-samsung-galaxy-s26-ultra-5g-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT017-SSS26ULTRA5G-TIM-16GB-1TB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 41990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/anh-dai-dien-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-truoc-mat-sau-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-va-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-phai-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-trai-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/he-thong-camera-200mp-zoom-100x-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-va-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/04-display.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/Galaxy-S26-Ultra-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/thong-so-man-hinh-6-9-inch-privacy-display-samsung-galaxy-s26-ultra-5g-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT017-SSS26ULTRA5G-DEN-12GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 30990000,
+      "originalPrice": 40990000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/anh-dai-dien-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-truoc-mat-sau-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-va-but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-phai-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-trai-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/dung-luong-pin-5000mah-sac-60w-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/hieu-nang-snapdragon-8-elite-gen-5-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/04-display.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/Galaxy-S26-Ultra-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/thong-so-man-hinh-6-9-inch-privacy-display-samsung-galaxy-s26-ultra-5g-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT017-SSS26ULTRA5G-DEN-12GB-512GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 35490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/anh-dai-dien-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-truoc-mat-sau-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-va-but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-phai-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-trai-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/dung-luong-pin-5000mah-sac-60w-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/hieu-nang-snapdragon-8-elite-gen-5-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/04-display.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/Galaxy-S26-Ultra-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/thong-so-man-hinh-6-9-inch-privacy-display-samsung-galaxy-s26-ultra-5g-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT017-SSS26ULTRA5G-DEN-16GB-1TB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 41990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/anh-dai-dien-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-truoc-mat-sau-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-va-but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-phai-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-trai-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/dung-luong-pin-5000mah-sac-60w-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/hieu-nang-snapdragon-8-elite-gen-5-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/04-display.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/Galaxy-S26-Ultra-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/thong-so-man-hinh-6-9-inch-privacy-display-samsung-galaxy-s26-ultra-5g-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT017-SSS26ULTRA5G-XANH-DUONG-12GB-256GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 30990000,
+      "originalPrice": 40990000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/anh-dai-dien-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-truoc-mat-sau-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-va-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-phai-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-trai-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-va-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/04-display.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/Galaxy-S26-Ultra-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/thong-so-man-hinh-6-9-inch-privacy-display-samsung-galaxy-s26-ultra-5g-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT017-SSS26ULTRA5G-XANH-DUONG-12GB-512GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 35490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/anh-dai-dien-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-truoc-mat-sau-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-va-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-phai-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-trai-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-va-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/04-display.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/Galaxy-S26-Ultra-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/thong-so-man-hinh-6-9-inch-privacy-display-samsung-galaxy-s26-ultra-5g-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT017-SSS26ULTRA5G-XANH-DUONG-16GB-1TB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 41990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/anh-dai-dien-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-truoc-mat-sau-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-va-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-phai-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-trai-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-va-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/04-display.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/Galaxy-S26-Ultra-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/thong-so-man-hinh-6-9-inch-privacy-display-samsung-galaxy-s26-ultra-5g-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT017-SSS26ULTRA5G-TRANG-12GB-256GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 30990000,
+      "originalPrice": 40990000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/anh-dai-dien-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-truoc-mat-sau-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-va-but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-phai-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-trai-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-va-but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/04-display.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/Galaxy-S26-Ultra-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/thong-so-man-hinh-6-9-inch-privacy-display-samsung-galaxy-s26-ultra-5g-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT017-SSS26ULTRA5G-TRANG-12GB-512GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 35490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/anh-dai-dien-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-truoc-mat-sau-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-va-but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-phai-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-trai-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-va-but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/04-display.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/Galaxy-S26-Ultra-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/thong-so-man-hinh-6-9-inch-privacy-display-samsung-galaxy-s26-ultra-5g-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT017-SSS26ULTRA5G-TRANG-16GB-1TB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 41990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/anh-dai-dien-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-truoc-mat-sau-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-va-but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-phai-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-trai-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-va-but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/04-display.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/Galaxy-S26-Ultra-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/thong-so-man-hinh-6-9-inch-privacy-display-samsung-galaxy-s26-ultra-5g-tim.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "Dynamic LTPO AMOLED 2X",
+    "size": "6,9 inch",
+    "resolution": "Quad HD+ (1440 x 3120 pixel)",
+    "refreshRate": "120Hz thích ứng (1–120Hz)",
+    "brightness": "2.600 nit",
+    "hdr": "HDR10+",
+    "protection": "Corning Gorilla Armor 2 chống phản chiếu DX",
+    "features": [
+      "Tần số quét thích ứng 1–120Hz",
+      "Privacy Display",
+      "Vision Booster",
+      "Always-On Display"
+    ]
+  },
+  "performance": {
+    "chipset": "Snapdragon 8 Elite Gen 5 for Galaxy (3nm)",
+    "cpu": "8 nhân (2x 4,74 GHz Oryon V3 Phoenix L + 6x 3,62 GHz Oryon V3 Phoenix M)",
+    "gpu": "Adreno 840 (1,3 GHz)",
+    "ram": [
+      "12GB",
+      "16GB"
+    ],
+    "storage": [
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "operatingSystem": "Android 16, One UI 9",
+    "uiVersion": "One UI 9",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "200MP Wide f/1.4 (23mm, 1/1.3\", multi-directional PDAF, Laser AF, OIS)",
+    "ultraWide": "50MP Ultra Wide f/1.9 (120°, Dual Pixel PDAF, Super Steady)",
+    "telephoto": "50MP Periscope Telephoto f/2.9 (111mm, OIS, Zoom quang 5x) + 10MP Telephoto f/2.4 (67mm, OIS, Zoom quang 3x)",
+    "otherLenses": [
+      "Cảm biến lấy nét Laser AF"
+    ],
+    "ois": true,
+    "videoRecording": [
+      "8K@24/30fps",
+      "4K@30/60/120fps",
+      "1080p@30/60/120/240fps",
+      "10-bit HDR",
+      "HDR10+",
+      "Galaxy Log"
+    ],
+    "aiFeatures": [
+      "ProVisual Engine AI",
+      "Space Zoom 100x",
+      "Quad Tele System",
+      "Nightography",
+      "Best Face",
+      "Horizon Lock"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "12MP Dual Pixel PDAF f/2.2 (23mm)",
+    "features": [
+      "Auto-HDR",
+      "HDR10+",
+      "Nightography Selfie"
+    ],
+    "videoRecording": [
+      "4K@30/60fps",
+      "1080p@30fps"
+    ]
+  },
+  "battery": {
+    "capacity": "5.000 mAh",
+    "wiredCharging": "Sạc siêu nhanh 60W USB-C PD 3.0 (75% trong 30 phút)",
+    "wirelessCharging": "Sạc không dây 25W (chuẩn Qi2.2)",
+    "reverseCharging": "Chia sẻ pin không dây 4,5W",
+    "chargingTechnology": "Super Fast Charging 60W / USB PD 3.0"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM / eSIM kép"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 7 (802.11be) ba băng tần",
+    "bluetooth": "Bluetooth 6.0 (A2DP, LE)",
+    "gps": [
+      "GPS",
+      "GLONASS",
+      "BDS",
+      "GALILEO",
+      "QZSS"
+    ],
+    "usb": "USB Type-C 3.2, DisplayPort 1.2",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "163,6 x 78,1 x 7,9 mm",
+    "weight": "214 g",
+    "materials": [
+      "Khung Armor Aluminum 2",
+      "Mặt trước Corning Gorilla Armor 2",
+      "Mặt lưng Gorilla Glass Victus 2"
+    ],
+    "waterResistance": "IP68 (1,5m trong 30 phút)",
+    "availableColors": [
+      "Xám Titan",
+      "Đen Titan"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "6,9 inch QHD+ 120Hz",
+    "Snapdragon 8 Elite Gen 5",
+    "Camera 200MP Quad Tele",
+    "Pin 5.000 mAh · Sạc 60W"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Samsung tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/samsung/galaxy-s26-ultra-5g/anh-dai-dien-samsung-galaxy-s26-ultra-5g-tim.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/anh-dai-dien-samsung-galaxy-s26-ultra-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/anh-dai-dien-samsung-galaxy-s26-ultra-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/anh-dai-dien-samsung-galaxy-s26-ultra-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/anh-dai-dien-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/02-front-back.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-truoc-mat-sau-samsung-galaxy-s26-ultra-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-truoc-mat-sau-samsung-galaxy-s26-ultra-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-truoc-mat-sau-samsung-galaxy-s26-ultra-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-truoc-mat-sau-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-va-but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-va-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-va-but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-va-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-phai-samsung-galaxy-s26-ultra-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-phai-samsung-galaxy-s26-ultra-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-phai-samsung-galaxy-s26-ultra-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-phai-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-trai-samsung-galaxy-s26-ultra-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-trai-samsung-galaxy-s26-ultra-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-trai-samsung-galaxy-s26-ultra-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-trai-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/he-thong-camera-200mp-zoom-100x-samsung-galaxy-s26-ultra-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/04-display.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/Galaxy-S26-Ultra-5G.jpg",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/dung-luong-pin-5000mah-sac-60w-samsung-galaxy-s26-ultra-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/hieu-nang-snapdragon-8-elite-gen-5-samsung-galaxy-s26-ultra-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-va-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-va-but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-va-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/thong-so-man-hinh-6-9-inch-privacy-display-samsung-galaxy-s26-ultra-5g-tim.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/anh-dai-dien-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-truoc-mat-sau-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-va-but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-phai-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-trai-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/dung-luong-pin-5000mah-sac-60w-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/hieu-nang-snapdragon-8-elite-gen-5-samsung-galaxy-s26-ultra-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/04-display.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/Galaxy-S26-Ultra-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/thong-so-man-hinh-6-9-inch-privacy-display-samsung-galaxy-s26-ultra-5g-tim.webp"
+      ],
+      "Tím": [
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/anh-dai-dien-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-truoc-mat-sau-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-va-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-phai-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-trai-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/he-thong-camera-200mp-zoom-100x-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-va-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/04-display.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/Galaxy-S26-Ultra-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/thong-so-man-hinh-6-9-inch-privacy-display-samsung-galaxy-s26-ultra-5g-tim.webp"
+      ],
+      "Trắng": [
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/anh-dai-dien-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-truoc-mat-sau-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-va-but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-phai-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-trai-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-va-but-spen-samsung-galaxy-s26-ultra-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/04-display.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/Galaxy-S26-Ultra-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/thong-so-man-hinh-6-9-inch-privacy-display-samsung-galaxy-s26-ultra-5g-tim.webp"
+      ],
+      "Xanh Dương": [
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/anh-dai-dien-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-truoc-mat-sau-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-va-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-phai-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/canh-trai-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-goc-nghieng-trai-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/man-hinh-va-but-spen-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/04-display.webp",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/Galaxy-S26-Ultra-5G.jpg",
+        "assets/images/products/samsung/galaxy-s26-ultra-5g/thong-so-man-hinh-6-9-inch-privacy-display-samsung-galaxy-s26-ultra-5g-tim.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-truoc-mat-sau-samsung-galaxy-s26-ultra-5g-den.webp",
+      "screen": "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-truoc-mat-sau-samsung-galaxy-s26-ultra-5g-tim.webp",
+      "performance": "assets/images/products/samsung/galaxy-s26-ultra-5g/hieu-nang-snapdragon-8-elite-gen-5-samsung-galaxy-s26-ultra-5g-den.webp",
+      "camera": "assets/images/products/samsung/galaxy-s26-ultra-5g/he-thong-camera-200mp-zoom-100x-samsung-galaxy-s26-ultra-5g-tim.webp",
+      "battery": "assets/images/products/samsung/galaxy-s26-ultra-5g/dung-luong-pin-5000mah-sac-60w-samsung-galaxy-s26-ultra-5g-den.webp",
+      "feature": "assets/images/products/samsung/galaxy-s26-ultra-5g/anh-dai-dien-samsung-galaxy-s26-ultra-5g-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/anh-dai-dien-samsung-galaxy-s26-ultra-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/anh-dai-dien-samsung-galaxy-s26-ultra-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/anh-dai-dien-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/02-front-back.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-truoc-mat-sau-samsung-galaxy-s26-ultra-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-truoc-mat-sau-samsung-galaxy-s26-ultra-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-truoc-mat-sau-samsung-galaxy-s26-ultra-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-truoc-mat-sau-samsung-galaxy-s26-ultra-5g-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s26-ultra-5g/mat-lung-goc-nghieng-phai-but-spen-samsung-galaxy-s26-ultra-5g-tim.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.samsung.com/vn/smartphones/",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s26-series",
+      "https://www.samsung.com/vn/smartphones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "verified",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT017-SSS26ULTRA5G",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "Dynamic LTPO AMOLED 2X",
+      "Kích thước màn hình": "6,9 inch (tỷ lệ hiển thị ~90,7% mặt trước)",
+      "Độ phân giải màn hình": "Quad HD+ (1440 x 3120 pixel, ~500 ppi)",
+      "Tần số quét": "Thích ứng tự động 1Hz – 120Hz",
+      "Kiểu màn hình": "Màn hình phẳng Infinity-O kèm kính Corning Gorilla Armor 2 chống phản chiếu DX",
+      "Tính năng màn hình": "Độ sáng đỉnh 2.600 nit, HDR10+, Privacy Display chống nhìn trộm, Vision Booster, Always-On Display"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 4 camera Quad Tele: Chính 200MP (f/1.4, 23mm, 1/1.3\", Laser AF, OIS) + Góc siêu rộng 50MP (f/1.9, 120°, Dual Pixel AF) + Telephoto tiềm vọng 50MP (f/2.9, 111mm, OIS, Zoom quang 5x) + Telephoto 10MP (f/2.4, 67mm, OIS, Zoom quang 3x)",
+      "Quay video": "8K@24/30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, 10-bit HDR, HDR10+, Galaxy Log, chống rung OIS + gyro-EIS, Super Steady",
+      "Tính năng camera": "Zoom quang học 3x & 5x, Zoom chất lượng quang học 2x & 10x, Space Zoom kỹ thuật số 100x, ProVisual Engine AI, Nightography, Expert RAW, Best Face, Horizon Lock"
+    },
+    "Camera trước": {
+      "Camera trước": "12MP (f/2.2, 23mm, 1/3.2\", lấy nét tự động Dual Pixel PDAF); hỗ trợ HDR10+, Chân dung AI và quay video 4K@30/60fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 8 Elite Gen 5 for Galaxy (tiến trình 3nm)",
+      "Loại CPU": "8 nhân (2 nhân Oryon V3 Phoenix L 4,74 GHz + 6 nhân Oryon V3 Phoenix M 3,62 GHz)",
+      "GPU": "Adreno 840 (1,3 GHz) hỗ trợ Ray Tracing phần cứng"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "12GB / 16GB LPDDR5X",
+      "Bộ nhớ trong": "3 phiên bản: 256GB, 512GB (12GB RAM) và 1TB (16GB RAM) chuẩn UFS 4.X"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.000 mAh (Li-Ion) – Thời lượng phát video liên tục lên đến 31 giờ",
+      "Công nghệ sạc": "Sạc siêu nhanh có dây 60W PD 3.0 (đạt 75% pin trong khoảng 30 phút), sạc không dây Qi2.2 25W, chia sẻ pin không dây 4,5W",
+      "Cổng sạc": "USB Type-C 3.2, hỗ trợ xuất hình DisplayPort 1.2 và Samsung DeX"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 16, giao diện One UI 9 (hỗ trợ cập nhật 7 thế hệ Android)",
+      "Công nghệ - Tiện ích": "Tích hợp bút cảm ứng S Pen trong thân máy, trọn bộ Galaxy AI tiếng Việt (Note Assist, Photo Assist, Live Translate, Circle to Search), Samsung DeX",
+      "Tiện ích khác": "Bảo mật phần cứng Samsung Knox Vault, định vị băng tần siêu rộng Ultra Wideband (UWB), màn hình chống nhìn trộm Privacy Display",
+      "Thời điểm ra mắt": "25/02/2026 (Mở bán tháng 03/2026)"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G SA/NSA/Sub6 đa băng tần, LTE-A",
+      "Thẻ SIM": "SIM kép (2 Nano-SIM vật lý hoặc Nano-SIM + eSIM / 2 eSIM hoạt động đồng thời)",
+      "Wi-Fi": "Wi-Fi 7 (802.11 a/b/g/n/ac/6e/7) ba băng tần, Wi-Fi Direct",
+      "Bluetooth": "Bluetooth 6.0 (A2DP, LE)",
+      "Công nghệ NFC": "Có hỗ trợ NFC và Ultra Wideband (UWB)",
+      "GPS": "GPS, GLONASS, BDS, GALILEO, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung hợp kim Armor Aluminum 2 gia cố độ cứng cao, tích hợp khe chứa bút S Pen",
+      "Chất liệu mặt lưng": "Mặt trước kính Corning Gorilla Armor 2 chống phản chiếu DX, mặt lưng kính Gorilla Glass Victus 2 nhám mờ",
+      "Kích thước": "163,6 x 78,1 x 7,9 mm",
+      "Trọng lượng": "214 gram",
+      "Chỉ số kháng nước, bụi": "IP68 theo tiêu chuẩn IEC 60529 (kháng nước ở độ sâu 1,5 mét trong 30 phút)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo tinh chỉnh bởi AKG, hỗ trợ Dolby Atmos và âm thanh Hi-Res",
+      "Cảm biến vân tay": "Cảm biến vân tay siêu âm (Ultrasonic) dưới màn hình và mở khóa khuôn mặt",
+      "Các loại cảm biến": "Vân tay siêu âm, Gia tốc kế, Con quay hồi chuyển, Cảm biến tiệm cận, La bàn số, Áp kế (Barometer)"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,9 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "Dynamic LTPO AMOLED 2X"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "Quad HD+ (1440 x 3120 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz (thích ứng 1–120Hz)"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Snapdragon 8 Elite Gen 5 for Galaxy (3nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB / 16GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB / 512GB / 1TB UFS 4.X"
+    },
+    {
+      "label": "Camera sau",
+      "value": "200MP Chính OIS + 50MP Ultra Wide + 50MP Tele 5x OIS + 10MP Tele 3x OIS"
+    },
+    {
+      "label": "Camera trước",
+      "value": "12MP Dual Pixel AF, khẩu độ f/2.2"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc có dây 60W, sạc không dây Qi2.2 25W, sạc ngược 4,5W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 16, One UI 9"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 (1,5 mét trong 30 phút)"
+    }
+  ],
+  "verbatimDescription": [
+    "Samsung Galaxy S26 Ultra 5G khẳng định vị thế mẫu flagship toàn diện nhất của Samsung trong năm 2026 khi kết hợp thiết kế mỏng nhẹ hơn (độ mỏng chỉ 7,9 mm, trọng lượng 214 gram), bút S Pen đặc trưng và sức mạnh xử lý đột phá từ trí tuệ nhân tạo Galaxy AI trên One UI 9. Đây là thiết bị được chế tác dành cho người dùng chuyên nghiệp cần một trạm làm việc di động, một máy ảnh đa tiêu cự xuất sắc và thời lượng pin bền bỉ suốt ngày dài.",
+    "Về thiết kế và không gian hiển thị, Galaxy S26 Ultra 5G sở hữu khung hợp kim Armor Aluminum 2 bo cong nhẹ ở bốn góc giúp cầm nắm thoải mái hơn hẳn các thế hệ vuông vức trước đây. Mặt trước là tấm nền Dynamic LTPO AMOLED 2X kích thước 6,9 inch độ phân giải Quad HD+ (1440 x 3120 pixel, ~500 ppi), hỗ trợ tần số quét thích ứng 1–120Hz và độ sáng cực đại 2.600 nit. Đặc biệt, lớp kính Corning Gorilla Armor 2 tích hợp lớp phủ quang học DX giúp triệt tiêu hiện tượng lóa sáng ngoài trời, kết hợp tính năng Privacy Display mới giúp bảo vệ nội dung riêng tư ở các góc nhìn nghiêng.",
+    "Sức mạnh hiệu năng của Galaxy S26 Ultra 5G đến từ vi xử lý Qualcomm Snapdragon 8 Elite Gen 5 (tiến trình 3nm) với 2 nhân Oryon V3 Phoenix L đạt xung nhịp lên tới 4,74 GHz cùng GPU Adreno 840. Đi kèm tùy chọn RAM 12GB hoặc 16GB LPDDR5X và bộ nhớ trong UFS 4.X lên đến 1TB, thiết bị xử lý mượt mà mọi tác vụ dựng video 8K, chạy mô hình ngôn ngữ lớn Galaxy AI trực tiếp trên thiết bị và duy trì tốc độ khung hình ổn định trong các tựa game đồ họa Ray Tracing nặng nhất nhờ hệ thống tản nhiệt buồng hơi mở rộng.",
+    "Hệ thống nhiếp ảnh Quad Telephoto trên Galaxy S26 Ultra 5G tiếp tục dẫn đầu phân khúc với cảm biến chính 200MP được nâng cấp khẩu độ mở lớn f/1.4 (kích thước cảm biến 1/1.3\", chống rung OIS và lấy nét Laser AF), giúp thu sáng vượt trội khi chụp đêm Nightography. Cụm camera phụ bao gồm ống kính góc siêu rộng 50MP (f/1.9, 120°, Dual Pixel AF) hỗ trợ chụp Macro sắc nét, ống kính Telephoto tiềm vọng 50MP (f/2.9, OIS, zoom quang học 5x và zoom chất lượng quang học 10x) cùng ống kính Telephoto 10MP (f/2.4, OIS, zoom quang học 3x). Máy hỗ trợ quay phim 8K@30fps, 4K@120fps chuẩn 10-bit HDR và tính năng khóa đường chân trời Horizon Lock.",
+    "Cung cấp năng lượng cho toàn bộ hệ thống là viên pin 5.000 mAh kết hợp bước nhảy vọt về tốc độ nạp năng lượng: hỗ trợ sạc siêu nhanh có dây 60W chuẩn USB PD 3.0 (sạc đầy tới 75% pin chỉ trong khoảng 30 phút) cùng sạc không dây chuẩn Qi2.2 tốc độ 25W và chia sẻ pin không dây 4,5W cho đồng hồ, tai nghe Galaxy.",
+    "Xuất xưởng cùng hệ điều hành Android 16 và giao diện One UI 9 (cam kết cập nhật tới 7 thế hệ hệ điều hành Android), Galaxy S26 Ultra 5G mang đến hệ sinh thái Galaxy AI tiếng Việt toàn diện gồm Note Assist tóm tắt ghi chú với bút S Pen, Photo Assist hậu kỳ ảnh thông minh, Live Translate phiên dịch cuộc gọi trực tiếp và Samsung DeX không dây. Kết nối chuẩn tương lai với Wi-Fi 7 ba băng tần, Bluetooth 6.0, chip định vị UWB và chuẩn kháng nước/bụi IP68 giúp người dùng hoàn toàn an tâm trong mọi điều kiện sử dụng."
+  ],
+  "priceSegment": "flagship"
+}

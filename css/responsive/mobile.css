@@ -1,0 +1,120 @@
+/* AURIX MOBILE — Mobile Responsive Adjustments (<= 767px & <= 420px) */
+@media (max-width: 767px) {
+  .tp-header-top {
+    flex-wrap: wrap;
+    gap: 0.75rem;
+  }
+  .tp-search-bar {
+    order: 3;
+    max-width: 100%;
+    flex: 0 0 100%;
+  }
+  .tp-action-text {
+    display: none;
+  }
+  .tp-mobile-toggle {
+    display: inline-flex;
+  }
+  .tp-nav-links {
+    display: none;
+    width: 100%;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.25rem;
+    padding: 0.75rem 0;
+  }
+  .tp-nav-links.is-open {
+    display: flex;
+  }
+  .tp-nav-inner {
+    flex-wrap: wrap;
+    padding: 0.4rem 0;
+  }
+  .tp-hero-banner {
+    grid-template-columns: 1fr;
+    padding: 1.35rem;
+    text-align: left;
+  }
+  .tp-hero-visual {
+    padding-right: 0;
+    min-height: auto;
+    flex-direction: column;
+    gap: 0.85rem;
+  }
+  .tp-hero-visual img {
+    max-height: 250px;
+  }
+  .tp-hero-tagline-right {
+    position: static;
+    width: 100%;
+    text-align: center;
+    padding: 0.55rem 0.85rem;
+  }
+  .tp-hero-tagline-right br {
+    display: none;
+  }
+  .tp-hero-arrows {
+    position: static;
+    justify-content: center;
+  }
+  .tp-sidebar-menu {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .tp-benefits-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+  .tp-benefit-item + .tp-benefit-item {
+    border-left: none;
+    padding-left: 0.5rem;
+  }
+  .tp-product-grid-6,
+  .tp-product-grid-4,
+  .tp-product-grid-3 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .tp-sitemap-branches,
+  .tp-footer-grid,
+  .tp-team-grid,
+  .tp-mega-grid {
+    grid-template-columns: 1fr;
+  }
+  .tp-cart-item {
+    grid-template-columns: 72px 1fr;
+  }
+  .tp-article-container,
+  .tp-detail-top,
+  .tp-summary-card,
+  .tp-auth-form-box,
+  .tp-auth-aside {
+    padding: 1.15rem;
+  }
+  .tp-brand img {
+    height: 38px;
+    width: auto;
+  }
+  .tp-header-actions {
+    gap: 0.4rem;
+  }
+  .tp-action-item {
+    padding: 0.2rem;
+  }
+  .tp-btn-lg {
+    padding: 0.7rem 1.1rem;
+    font-size: 0.9rem;
+    white-space: normal;
+  }
+}
+
+@media (max-width: 420px) {
+  .tp-sidebar-menu {
+    grid-template-columns: 1fr;
+  }
+  .tp-benefits-grid {
+    grid-template-columns: 1fr;
+  }
+  .tp-product-grid-6,
+  .tp-product-grid-4,
+  .tp-product-grid-3 {
+    grid-template-columns: 1fr;
+  }
+}

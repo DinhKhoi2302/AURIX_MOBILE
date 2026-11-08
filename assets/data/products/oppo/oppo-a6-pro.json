@@ -1,0 +1,551 @@
+{
+  "id": "oppo-a6-pro",
+  "brand": "OPPO",
+  "brandId": "oppo",
+  "parentGroupId": "oppo",
+  "model": "OPPO A6 Pro",
+  "series": "OPPO A Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "midrange"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025 – 2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "OPPO A6 Pro là mẫu smartphone siêu bền bỉ sở hữu viên pin Silicon-Carbon 7000mAh đi kèm sạc siêu nhanh 80W SUPERVOOC trong thân máy mỏng 8,0mm nhẹ 188g, màn hình AMOLED 6,57 inch FHD+ 120Hz (1,07 tỷ màu, độ sáng HBM 1400 nit), vi xử lý MediaTek Helio G100, camera chính 50MP AF và chuẩn kháng nước bụi IP68/IP69.",
+    "highlights": [
+      "Pin Silicon-Carbon 7000mAh kết hợp sạc siêu nhanh 80W SUPERVOOC trong thân máy mỏng 8,0mm, nhẹ 188g",
+      "Kháng nước bụi IP68/IP69 và đạt chuẩn độ bền quân đội MIL-STD-810H",
+      "Màn hình AMOLED 6,57 inch FHD+ 120Hz, 1,07 tỷ màu, độ sáng HBM 1400 nit, kính AGC DT-Star D+",
+      "Vi xử lý MediaTek Helio G100 (6nm) cùng RAM 8GB LPDDR4X & ROM 128GB/256GB UFS 2.2",
+      "Camera sau 50MP AF hỗ trợ chụp dưới nước, loa kép Stereo, vân tay quang học dưới màn hình"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 6990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT002-OPA6PRO-TITAN-XANH-8GB-128GB",
+      "color": "Titan Xanh",
+      "colorHex": "#3B82F6",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 6990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-a6-pro/anh-dai-dien-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/mat-truoc-mat-sau-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/man-hinh-mat-truoc-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thiet-ke-mat-lung-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/canh-duoi-cong-sac-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/canh-trai-canh-phai-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/canh-tren-canh-duoi-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/goc-nghieng-camera-sau-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/cum-camera-sau-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/tren-tay-man-hinh-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/hieu-nang-helio-g100-oppo-a6-pro-den.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thong-so-camera-50mp-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thong-so-man-hinh-120hz-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thong-so-noi-bat-oppo-a6-pro-xanh-duong-hong-titan-xanh.webp"
+      ]
+    },
+    {
+      "sku": "DT002-OPA6PRO-TITAN-XANH-8GB-256GB",
+      "color": "Titan Xanh",
+      "colorHex": "#3B82F6",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 7690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-a6-pro/anh-dai-dien-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/mat-truoc-mat-sau-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/man-hinh-mat-truoc-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thiet-ke-mat-lung-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/canh-duoi-cong-sac-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/canh-trai-canh-phai-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/canh-tren-canh-duoi-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/goc-nghieng-camera-sau-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/cum-camera-sau-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/tren-tay-man-hinh-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/hieu-nang-helio-g100-oppo-a6-pro-den.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thong-so-camera-50mp-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thong-so-man-hinh-120hz-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thong-so-noi-bat-oppo-a6-pro-xanh-duong-hong-titan-xanh.webp"
+      ]
+    },
+    {
+      "sku": "DT002-OPA6PRO-XANH-DUONG-8GB-128GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 6990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-a6-pro/mat-truoc-mat-sau-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/man-hinh-mat-truoc-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thiet-ke-mat-lung-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/canh-duoi-cong-sac-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/canh-trai-canh-phai-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/canh-tren-canh-duoi-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/goc-nghieng-camera-sau-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/cum-camera-sau-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/dung-luong-pin-7000mah-sac-80w-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/tren-tay-man-hinh-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/hieu-nang-helio-g100-oppo-a6-pro-den.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thong-so-camera-50mp-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thong-so-man-hinh-120hz-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thong-so-noi-bat-oppo-a6-pro-xanh-duong-hong-titan-xanh.webp"
+      ]
+    },
+    {
+      "sku": "DT002-OPA6PRO-XANH-DUONG-8GB-256GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 7690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-a6-pro/mat-truoc-mat-sau-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/man-hinh-mat-truoc-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thiet-ke-mat-lung-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/canh-duoi-cong-sac-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/canh-trai-canh-phai-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/canh-tren-canh-duoi-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/goc-nghieng-camera-sau-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/cum-camera-sau-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/dung-luong-pin-7000mah-sac-80w-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/tren-tay-man-hinh-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/hieu-nang-helio-g100-oppo-a6-pro-den.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thong-so-camera-50mp-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thong-so-man-hinh-120hz-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thong-so-noi-bat-oppo-a6-pro-xanh-duong-hong-titan-xanh.webp"
+      ]
+    },
+    {
+      "sku": "DT002-OPA6PRO-HONG-8GB-128GB",
+      "color": "Hồng",
+      "colorHex": "#F472B6",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 6990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-a6-pro/mat-truoc-mat-sau-oppo-a6-pro-hong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/man-hinh-mat-truoc-oppo-a6-pro-hong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thiet-ke-mat-lung-oppo-a6-pro-hong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/canh-duoi-cong-sac-oppo-a6-pro-hong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/canh-trai-canh-phai-oppo-a6-pro-hong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/canh-tren-canh-duoi-oppo-a6-pro-hong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/goc-nghieng-camera-sau-oppo-a6-pro-hong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/cum-camera-sau-oppo-a6-pro-hong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/tren-tay-man-hinh-oppo-a6-pro-hong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/hieu-nang-helio-g100-oppo-a6-pro-den.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thong-so-camera-50mp-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thong-so-man-hinh-120hz-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thong-so-noi-bat-oppo-a6-pro-xanh-duong-hong-titan-xanh.webp"
+      ]
+    },
+    {
+      "sku": "DT002-OPA6PRO-HONG-8GB-256GB",
+      "color": "Hồng",
+      "colorHex": "#F472B6",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 7690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-a6-pro/mat-truoc-mat-sau-oppo-a6-pro-hong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/man-hinh-mat-truoc-oppo-a6-pro-hong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thiet-ke-mat-lung-oppo-a6-pro-hong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/canh-duoi-cong-sac-oppo-a6-pro-hong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/canh-trai-canh-phai-oppo-a6-pro-hong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/canh-tren-canh-duoi-oppo-a6-pro-hong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/goc-nghieng-camera-sau-oppo-a6-pro-hong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/cum-camera-sau-oppo-a6-pro-hong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/tren-tay-man-hinh-oppo-a6-pro-hong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/hieu-nang-helio-g100-oppo-a6-pro-den.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thong-so-camera-50mp-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thong-so-man-hinh-120hz-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thong-so-noi-bat-oppo-a6-pro-xanh-duong-hong-titan-xanh.webp"
+      ]
+    }
+  ],
+  "display": {
+    "size": "6,57 inch",
+    "technology": "AMOLED (1,07 tỷ màu, 100% DCI-P3)",
+    "resolution": "FHD+ (1080 × 2372 Pixels)",
+    "refreshRate": "120Hz",
+    "maxBrightness": "600 nit (tiêu chuẩn) / 1400 nit (HBM)",
+    "protection": "Kính cường lực AGC DT-Star D+"
+  },
+  "performance": {
+    "chipset": "MediaTek Helio G100 (6nm)",
+    "cpu": "8 nhân (2×2.2GHz Cortex-A76 + 6×2.0GHz Cortex-A55)",
+    "gpu": "ARM Mali-G57 MC2 @ 1000MHz",
+    "ram": "8GB LPDDR4X",
+    "internalStorage": "128GB / 256GB UFS 2.2 (Hỗ trợ thẻ nhớ microSDXC)",
+    "os": "Android 15 (ColorOS 15.0)"
+  },
+  "rearCamera": {
+    "mainSensor": "50MP (f/1.8, FOV 76°, ống kính 5P, hỗ trợ lấy nét tự động AF)",
+    "ultraWide": "2MP Đơn sắc (f/2.4, FOV 89°, ống kính 3P)",
+    "telephoto": "Hỗ trợ zoom kỹ thuật số lên đến 10x",
+    "videoRecording": "1080p@30/60fps, 720p@30/60fps, Slow-motion 1080p@120fps",
+    "features": [
+      "Chụp ảnh dưới nước (Underwater)",
+      "Chân dung xóa phông AI",
+      "Độ phân giải cao Hi-Res 50MP",
+      "Dual-view Video",
+      "Chế độ PRO"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "16MP (f/2.4, FOV 85°, ống kính 4P)",
+    "videoRecording": "1080p@30fps, 720p@30fps",
+    "features": [
+      "Chân dung AI",
+      "Chụp đêm",
+      "Dual-view Video",
+      "Time-lapse"
+    ]
+  },
+  "battery": {
+    "capacity": "7000 mAh",
+    "batteryType": "Pin Silicon-Carbon (Si/C Li-Ion)",
+    "chargingPower": "Sạc siêu nhanh 80W SUPERVOOC (33W PPS, 13.5W PD, sạc ngược có dây 5W)",
+    "wirelessCharging": "Không hỗ trợ"
+  },
+  "connectivity": {
+    "sim": "2 Nano-SIM (Hỗ trợ thẻ nhớ microSD)",
+    "network": "4G LTE đa băng tần tốc độ cao",
+    "wifi": "Wi-Fi 5 (802.11ac), Dual-band",
+    "bluetooth": "Bluetooth 5.4 (LDAC, aptX, aptX HD)",
+    "nfc": "Có hỗ trợ",
+    "usb": "USB Type-C 2.0, OTG"
+  },
+  "design": {
+    "formFactor": "Nguyên khối mỏng 8,0mm, nhẹ 188g dù mang viên pin 7000mAh",
+    "materials": "Mặt trước kính AGC DT-Star D+, cấu trúc chống sốc chuẩn MIL-STD-810H",
+    "dimensionsWeight": "158,20 × 75,02 × 8,00 mm | 188g",
+    "waterResistance": "IP68 / IP69 (Kháng bụi, ngâm nước 1,5m và tia nước áp lực cao)",
+    "availableColors": [
+      "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa đơn / Stereo tiêu chuẩn",
+    "headphoneJack": null,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Pin Silicon-Carbon 7000mAh kết hợp sạc siêu nhanh 80W SUPERVOOC trong thân máy mỏng 8,0mm, nhẹ 188g",
+    "Kháng nước bụi IP68/IP69 và đạt chuẩn độ bền quân đội MIL-STD-810H",
+    "Màn hình AMOLED 6,57 inch FHD+ 120Hz, 1,07 tỷ màu, độ sáng HBM 1400 nit, kính AGC DT-Star D+",
+    "Vi xử lý MediaTek Helio G100 (6nm) cùng RAM 8GB LPDDR4X & ROM 128GB/256GB UFS 2.2",
+    "Camera sau 50MP AF hỗ trợ chụp dưới nước, loa kép Stereo, vân tay quang học dưới màn hình"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền OPPO tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/oppo/oppo-a6-pro/anh-dai-dien-oppo-a6-pro-titan-xanh.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/oppo/oppo-a6-pro/anh-dai-dien-oppo-a6-pro-titan-xanh.webp",
+      "assets/images/products/oppo/oppo-a6-pro/mat-truoc-mat-sau-oppo-a6-pro-hong.webp",
+      "assets/images/products/oppo/oppo-a6-pro/mat-truoc-mat-sau-oppo-a6-pro-titan-xanh.webp",
+      "assets/images/products/oppo/oppo-a6-pro/mat-truoc-mat-sau-oppo-a6-pro-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a6-pro/man-hinh-mat-truoc-oppo-a6-pro-hong.webp",
+      "assets/images/products/oppo/oppo-a6-pro/man-hinh-mat-truoc-oppo-a6-pro-titan-xanh.webp",
+      "assets/images/products/oppo/oppo-a6-pro/man-hinh-mat-truoc-oppo-a6-pro-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a6-pro/thiet-ke-mat-lung-oppo-a6-pro-hong.webp",
+      "assets/images/products/oppo/oppo-a6-pro/thiet-ke-mat-lung-oppo-a6-pro-titan-xanh.webp",
+      "assets/images/products/oppo/oppo-a6-pro/thiet-ke-mat-lung-oppo-a6-pro-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a6-pro/canh-duoi-cong-sac-oppo-a6-pro-hong.webp",
+      "assets/images/products/oppo/oppo-a6-pro/canh-duoi-cong-sac-oppo-a6-pro-titan-xanh.webp",
+      "assets/images/products/oppo/oppo-a6-pro/canh-duoi-cong-sac-oppo-a6-pro-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a6-pro/canh-trai-canh-phai-oppo-a6-pro-hong.webp",
+      "assets/images/products/oppo/oppo-a6-pro/canh-trai-canh-phai-oppo-a6-pro-titan-xanh.webp",
+      "assets/images/products/oppo/oppo-a6-pro/canh-trai-canh-phai-oppo-a6-pro-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a6-pro/canh-tren-canh-duoi-oppo-a6-pro-hong.webp",
+      "assets/images/products/oppo/oppo-a6-pro/canh-tren-canh-duoi-oppo-a6-pro-titan-xanh.webp",
+      "assets/images/products/oppo/oppo-a6-pro/canh-tren-canh-duoi-oppo-a6-pro-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a6-pro/goc-nghieng-camera-sau-oppo-a6-pro-hong.webp",
+      "assets/images/products/oppo/oppo-a6-pro/goc-nghieng-camera-sau-oppo-a6-pro-titan-xanh.webp",
+      "assets/images/products/oppo/oppo-a6-pro/goc-nghieng-camera-sau-oppo-a6-pro-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a6-pro/cum-camera-sau-oppo-a6-pro-hong.webp",
+      "assets/images/products/oppo/oppo-a6-pro/cum-camera-sau-oppo-a6-pro-titan-xanh.webp",
+      "assets/images/products/oppo/oppo-a6-pro/cum-camera-sau-oppo-a6-pro-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a6-pro/dung-luong-pin-7000mah-sac-80w-oppo-a6-pro-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a6-pro/hieu-nang-helio-g100-oppo-a6-pro-den.webp",
+      "assets/images/products/oppo/oppo-a6-pro/tren-tay-man-hinh-oppo-a6-pro-hong.webp",
+      "assets/images/products/oppo/oppo-a6-pro/tren-tay-man-hinh-oppo-a6-pro-titan-xanh.webp",
+      "assets/images/products/oppo/oppo-a6-pro/tren-tay-man-hinh-oppo-a6-pro-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a6-pro/thong-so-camera-50mp-oppo-a6-pro-titan-xanh.webp",
+      "assets/images/products/oppo/oppo-a6-pro/thong-so-man-hinh-120hz-oppo-a6-pro-titan-xanh.webp",
+      "assets/images/products/oppo/oppo-a6-pro/thong-so-noi-bat-oppo-a6-pro-xanh-duong-hong-titan-xanh.webp"
+    ],
+    "byColor": {
+      "Titan Xanh": [
+        "assets/images/products/oppo/oppo-a6-pro/anh-dai-dien-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/mat-truoc-mat-sau-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/man-hinh-mat-truoc-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thiet-ke-mat-lung-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/canh-duoi-cong-sac-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/canh-trai-canh-phai-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/canh-tren-canh-duoi-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/goc-nghieng-camera-sau-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/cum-camera-sau-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/tren-tay-man-hinh-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/hieu-nang-helio-g100-oppo-a6-pro-den.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thong-so-camera-50mp-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thong-so-man-hinh-120hz-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thong-so-noi-bat-oppo-a6-pro-xanh-duong-hong-titan-xanh.webp"
+      ],
+      "Hồng": [
+        "assets/images/products/oppo/oppo-a6-pro/mat-truoc-mat-sau-oppo-a6-pro-hong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/man-hinh-mat-truoc-oppo-a6-pro-hong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thiet-ke-mat-lung-oppo-a6-pro-hong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/canh-duoi-cong-sac-oppo-a6-pro-hong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/canh-trai-canh-phai-oppo-a6-pro-hong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/canh-tren-canh-duoi-oppo-a6-pro-hong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/goc-nghieng-camera-sau-oppo-a6-pro-hong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/cum-camera-sau-oppo-a6-pro-hong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/tren-tay-man-hinh-oppo-a6-pro-hong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/hieu-nang-helio-g100-oppo-a6-pro-den.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thong-so-camera-50mp-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thong-so-man-hinh-120hz-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thong-so-noi-bat-oppo-a6-pro-xanh-duong-hong-titan-xanh.webp"
+      ],
+      "Xanh Dương": [
+        "assets/images/products/oppo/oppo-a6-pro/mat-truoc-mat-sau-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/man-hinh-mat-truoc-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thiet-ke-mat-lung-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/canh-duoi-cong-sac-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/canh-trai-canh-phai-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/canh-tren-canh-duoi-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/goc-nghieng-camera-sau-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/cum-camera-sau-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/dung-luong-pin-7000mah-sac-80w-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/tren-tay-man-hinh-oppo-a6-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6-pro/hieu-nang-helio-g100-oppo-a6-pro-den.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thong-so-camera-50mp-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thong-so-man-hinh-120hz-oppo-a6-pro-titan-xanh.webp",
+        "assets/images/products/oppo/oppo-a6-pro/thong-so-noi-bat-oppo-a6-pro-xanh-duong-hong-titan-xanh.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/oppo/oppo-a6-pro/mat-truoc-mat-sau-oppo-a6-pro-hong.webp",
+      "screen": "assets/images/products/oppo/oppo-a6-pro/mat-truoc-mat-sau-oppo-a6-pro-titan-xanh.webp",
+      "performance": "assets/images/products/oppo/oppo-a6-pro/hieu-nang-helio-g100-oppo-a6-pro-den.webp",
+      "camera": "assets/images/products/oppo/oppo-a6-pro/goc-nghieng-camera-sau-oppo-a6-pro-hong.webp",
+      "battery": "assets/images/products/oppo/oppo-a6-pro/canh-duoi-cong-sac-oppo-a6-pro-hong.webp",
+      "feature": "assets/images/products/oppo/oppo-a6-pro/canh-trai-canh-phai-oppo-a6-pro-hong.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/oppo/oppo-a6-pro/mat-truoc-mat-sau-oppo-a6-pro-hong.webp",
+      "assets/images/products/oppo/oppo-a6-pro/mat-truoc-mat-sau-oppo-a6-pro-titan-xanh.webp",
+      "assets/images/products/oppo/oppo-a6-pro/mat-truoc-mat-sau-oppo-a6-pro-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a6-pro/man-hinh-mat-truoc-oppo-a6-pro-hong.webp",
+      "assets/images/products/oppo/oppo-a6-pro/man-hinh-mat-truoc-oppo-a6-pro-titan-xanh.webp",
+      "assets/images/products/oppo/oppo-a6-pro/man-hinh-mat-truoc-oppo-a6-pro-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a6-pro/thiet-ke-mat-lung-oppo-a6-pro-hong.webp",
+      "assets/images/products/oppo/oppo-a6-pro/thiet-ke-mat-lung-oppo-a6-pro-titan-xanh.webp",
+      "assets/images/products/oppo/oppo-a6-pro/thiet-ke-mat-lung-oppo-a6-pro-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a6-pro/canh-duoi-cong-sac-oppo-a6-pro-hong.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-oppo",
+      "https://www.oppo.com/vn/smartphones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT002-OPA6PRO",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "AMOLED, 1,07 tỷ màu (10-bit), 100% DCI-P3",
+      "Kích thước màn hình": "6,57 inch (Tỷ lệ màn hình 93,0%)",
+      "Độ phân giải màn hình": "FHD+ (1080 × 2372 Pixels), 397 PPI",
+      "Tần số quét": "120Hz (Lấy mẫu cảm ứng 240Hz)",
+      "Kiểu màn hình": "Chưa có thông tin trong dữ liệu gốc",
+      "Tính năng màn hình": "Độ sáng tối đa: 600 nit (Tiêu chuẩn) / 1400 nit (HBM); Kính bảo vệ: AGC DT-Star D+"
+    },
+    "Camera sau": {
+      "Camera sau": "Camera chính: 50MP (f/1.8, FOV 76°, ống kính 5P, hỗ trợ lấy nét tự động AF); Camera phụ: 2MP Đơn sắc (f/2.4, FOV 89°, ống kính 3P)",
+      "Quay video": "1080p@30/60fps, 720p@30/60fps, Slow-motion 1080p@120fps",
+      "Tính năng camera": "Chụp dưới nước (Underwater), Chân dung AI, Hi-Res 50MP, Dual-view Video, Chế độ PRO"
+    },
+    "Camera trước": {
+      "Camera trước": "16MP (f/2.4, FOV 85°, ống kính 4P); Quay video: 1080p@30fps, 720p@30fps; Tính năng: Chân dung AI, Cảnh đêm, Dual-view Video, Time-lapse, Hi-Res"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Helio G100 (Tiến trình 6nm)",
+      "Loại CPU": "8 nhân (2×2.2GHz Cortex-A76 + 6×2.0GHz Cortex-A55)",
+      "GPU": "ARM Mali-G57 MC2 @ 1000MHz"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB chuẩn LPDDR4X",
+      "Bộ nhớ trong": "128GB / 256GB chuẩn UFS 2.2; Thẻ nhớ ngoài: Hỗ trợ thẻ nhớ microSDXC & USB OTG"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "7000 mAh (Tiêu chuẩn) / 6830 mAh (Định mức); Loại pin: Pin Silicon-Carbon (Si/C Li-Ion)",
+      "Công nghệ sạc": "Sạc có dây: 80W SUPERVOOC (Tương thích 67W SUPERVOOC, 33W PPS, 13.5W PD, sạc ngược có dây 5W); Sạc không dây: Không hỗ trợ",
+      "Cổng sạc": "USB Type-C 2.0, OTG"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "ColorOS 15.0 (Nền tảng Android 15)",
+      "Công nghệ - Tiện ích": "Chế độ chụp dưới nước, Quay video hiển thị kép, Tối ưu hóa hiệu năng Trinity Engine",
+      "Tiện ích khác": "Chưa có thông tin trong dữ liệu gốc",
+      "Thời điểm ra mắt": "2025 – 2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "4G LTE FDD/TDD đa băng tần",
+      "Thẻ SIM": "2 Nano-SIM",
+      "Wi-Fi": "Wi-Fi 5 (802.11ac), Wi-Fi Display, WLAN Tethering",
+      "Bluetooth": "Bluetooth 5.4 BLE (SBC, AAC, LDAC, aptX, aptX HD)",
+      "Công nghệ NFC": "Hỗ trợ NFC",
+      "GPS": "Chưa có thông tin trong dữ liệu gốc"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Mặt trước kính cường lực AGC DT-Star D+, khung máy gia cố chống va đập",
+      "Chất liệu mặt lưng": "Chưa có thông tin trong dữ liệu gốc",
+      "Kích thước": "158,20 × 75,02 × 8,00 mm; Kiểu dáng: Mỏng gọn 8,0mm, nhẹ 188g, đạt chuẩn độ bền quân đội MIL-STD-810H",
+      "Trọng lượng": "Nặng 188g",
+      "Chỉ số kháng nước, bụi": "Kháng nước và bụi chuẩn IP68 / IP69 & Độ bền MIL-STD-810H"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa kép Stereo, hỗ trợ âm thanh Bluetooth LDAC & aptX HD",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học trong màn hình",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Tiệm cận, Ánh sáng, La bàn số; Bảo mật: Mở khóa khuôn mặt"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,57 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "AMOLED (1 tỷ màu, 100% DCI-P3)"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "FHD+ (1080 × 2372 Pixels, 397 PPI)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Helio G100 (6nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB LPDDR4X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB UFS 2.2"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính f/1.8 AF + 2MP Đơn sắc f/2.4"
+    },
+    {
+      "label": "Camera trước",
+      "value": "16MP f/2.4 (Quay 1080p@30fps)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "7000 mAh (Pin Silicon-Carbon)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "80W SUPERVOOC (33W PPS)"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 15 (ColorOS 15.0)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "4G LTE, Wi-Fi 5, Bluetooth 5.4, NFC"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 / IP69 & MIL-STD-810H"
+    }
+  ],
+  "verbatimDescription": [
+    "OPPO A6 Pro gây ấn tượng mạnh khi tích hợp viên pin Silicon-Carbon dung lượng lên tới 7000mAh vào một thân máy mỏng chỉ 8,00mm và nặng vỏn vẹn 188g. Bên cạnh kiểu dáng thanh thoát, máy được gia cố đạt chuẩn độ bền quân đội MIL-STD-810H cùng khả năng kháng bụi, ngâm nước sâu 1,5m và chịu tia nước áp lực cao IP68/IP69.",
+    "Không gian hiển thị của OPPO A6 Pro là màn hình AMOLED 6,57 inch độ phân giải FHD+ (1080 × 2372 pixel, 397 PPI) với tỷ lệ màn hình trên thân máy đạt 93,0%. Tấm nền 10-bit tái tạo 1,07 tỷ màu chuẩn 100% DCI-P3, tần số quét 120Hz mượt mà, độ sáng HBM 1400 nit và được bảo vệ bởi kính cường lực AGC DT-Star D+.",
+    "Thiết bị vận hành trên vi xử lý 8 nhân MediaTek Helio G100 (6nm) kết hợp nhân đồ họa ARM Mali-G57 MC2. Đi kèm bộ nhớ RAM 8GB LPDDR4X và bộ nhớ trong 128GB/256GB chuẩn UFS 2.2 (hỗ trợ mở rộng qua khe thẻ nhớ microSDXC), máy đáp ứng ổn định nhu cầu giải trí, xem video độ phân giải cao và đa nhiệm mượt mà.",
+    "Về nhiếp ảnh, cụm camera sau gồm cảm biến chính 50MP (khẩu độ f/1.8, ống kính 5P, hỗ trợ lấy nét tự động AF) và cảm biến đơn sắc 2MP đo chiều sâu xóa phông. Máy hỗ trợ quay video 1080p@60fps, quay chậm 1080p@120fps và chế độ chụp ảnh dưới nước Underwater tận dụng lợi thế kháng nước IP68/IP69.",
+    "Camera trước 16MP (khẩu độ f/2.4) hỗ trợ chế độ chân dung AI và quay video hiển thị kép Dual-view. Điểm sáng vượt trội nhất của OPPO A6 Pro là sự kết hợp giữa viên pin khủng 7000mAh và công nghệ sạc siêu nhanh 80W SUPERVOOC, mang lại thời lượng sử dụng bền bỉ nhiều ngày liền chỉ với một lần sạc ngắn.",
+    "Chạy trên hệ điều hành ColorOS 15.0 (Android 15), OPPO A6 Pro còn được trang bị cảm biến vân tay quang học dưới màn hình, hệ thống loa kép Stereo, kết nối Wi-Fi 5, Bluetooth 5.4 hỗ trợ codec âm thanh chất lượng cao LDAC/aptX HD và NFC tiện ích."
+  ],
+  "priceSegment": "midrange"
+}

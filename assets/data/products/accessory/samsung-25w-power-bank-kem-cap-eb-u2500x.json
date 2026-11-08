@@ -1,0 +1,137 @@
+{
+  "id": "samsung-25w-power-bank-kem-cap-eb-u2500x",
+  "docCode": "PK-PB007-EBU2500X",
+  "model": "Pin Sạc Dự Phòng Không Dây Samsung 10.000mAh 25W EB-U2500X",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "series": "Pin sạc dự phòng",
+  "subCategory": "pin-sac-du-phong",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "pin-sac-du-phong"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Pin sạc dự phòng",
+    "highlights": [
+      "25W",
+      "10.000 mAh"
+    ],
+    "description": "Pin dự phòng chính hãng Samsung làm từ vật liệu tái chế thân thiện môi trường. Hỗ trợ sạc siêu nhanh 25W qua cổng cáp và trang bị đế sạc không dây chuyên dụng sạc nhanh cho đồng hồ thông minh Galaxy Watch và tai nghe Galaxy Buds tiện lợi."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/pin-sac-du-phong/samsung-25w-power-bank-kem-cap-eb-u2500x/anh-dai-dien-samsung-25w-power-bank-kem-cap-eb-u2500x-xam.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/pin-sac-du-phong/samsung-25w-power-bank-kem-cap-eb-u2500x/anh-dai-dien-samsung-25w-power-bank-kem-cap-eb-u2500x-xam.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/samsung-25w-power-bank-kem-cap-eb-u2500x/mat-sau-thang-dung-xam.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/samsung-25w-power-bank-kem-cap-eb-u2500x/dung-nghieng-bang-chan-de-xam.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/samsung-25w-power-bank-kem-cap-eb-u2500x/mo-chan-de-goc-nghieng-xam.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/samsung-25w-power-bank-kem-cap-eb-u2500x/mat-truoc-vong-sac-qi2-xam.webp"
+    ],
+    "byColor": {
+      "Xám": [
+        "assets/images/products/accessory/pin-sac-du-phong/samsung-25w-power-bank-kem-cap-eb-u2500x/anh-dai-dien-samsung-25w-power-bank-kem-cap-eb-u2500x-xam.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/samsung-25w-power-bank-kem-cap-eb-u2500x/mat-sau-thang-dung-xam.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/samsung-25w-power-bank-kem-cap-eb-u2500x/dung-nghieng-bang-chan-de-xam.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/samsung-25w-power-bank-kem-cap-eb-u2500x/mo-chan-de-goc-nghieng-xam.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/samsung-25w-power-bank-kem-cap-eb-u2500x/mat-truoc-vong-sac-qi2-xam.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/pin-sac-du-phong/samsung-25w-power-bank-kem-cap-eb-u2500x/mat-sau-thang-dung-xam.webp",
+      "screen": "assets/images/products/accessory/pin-sac-du-phong/samsung-25w-power-bank-kem-cap-eb-u2500x/mat-truoc-vong-sac-qi2-xam.webp",
+      "performance": "assets/images/products/accessory/pin-sac-du-phong/samsung-25w-power-bank-kem-cap-eb-u2500x/dung-nghieng-bang-chan-de-xam.webp",
+      "camera": "assets/images/products/accessory/pin-sac-du-phong/samsung-25w-power-bank-kem-cap-eb-u2500x/mo-chan-de-goc-nghieng-xam.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/pin-sac-du-phong/samsung-25w-power-bank-kem-cap-eb-u2500x/mat-sau-thang-dung-xam.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/samsung-25w-power-bank-kem-cap-eb-u2500x/dung-nghieng-bang-chan-de-xam.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/samsung-25w-power-bank-kem-cap-eb-u2500x/mo-chan-de-goc-nghieng-xam.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/samsung-25w-power-bank-kem-cap-eb-u2500x/mat-truoc-vong-sac-qi2-xam.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Samsung",
+      "Dung lượng pin": "10.000 mAh",
+      "Công suất đầu ra tối đa": "25W (Sạc không dây tối đa 7.5W cho điện thoại/Galaxy Watch)",
+      "Công suất đầu vào": "25W",
+      "Số lượng cổng kết nối": "2 cổng USB-C + 1 đế sạc không dây",
+      "Loại cổng kết nối": "2x USB-C",
+      "Sạc không dây": "Có (Đế sạc chuẩn Qi tối ưu cho Galaxy Watch và điện thoại)",
+      "Công nghệ sạc": "Super Fast Charging 25W, PD 3.0, Qi Wireless",
+      "Màu sắc": "Xám (Beige / Xám thân thiện môi trường)"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Samsung"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "10.000 mAh"
+    },
+    {
+      "label": "Công suất đầu ra tối đa",
+      "value": "25W (Sạc không dây tối đa 7.5W cho điện thoại/Galaxy Watch)"
+    },
+    {
+      "label": "Công suất đầu vào",
+      "value": "25W"
+    },
+    {
+      "label": "Số lượng cổng kết nối",
+      "value": "2 cổng USB-C + 1 đế sạc không dây"
+    },
+    {
+      "label": "Loại cổng kết nối",
+      "value": "2x USB-C"
+    },
+    {
+      "label": "Sạc không dây",
+      "value": "Có (Đế sạc chuẩn Qi tối ưu cho Galaxy Watch và điện thoại)"
+    },
+    {
+      "label": "Công nghệ sạc",
+      "value": "Super Fast Charging 25W, PD 3.0, Qi Wireless"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Xám (Beige / Xám thân thiện môi trường)"
+    }
+  ],
+  "verbatimDescription": [
+    "Pin dự phòng chính hãng Samsung làm từ vật liệu tái chế thân thiện môi trường. Hỗ trợ sạc siêu nhanh 25W qua cổng cáp và trang bị đế sạc không dây chuyên dụng sạc nhanh cho đồng hồ thông minh Galaxy Watch và tai nghe Galaxy Buds tiện lợi."
+  ],
+  "variants": [
+    {
+      "sku": "PK-PB007-EBU2500X-XAM-TIEU-CHUAN",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/pin-sac-du-phong/samsung-25w-power-bank-kem-cap-eb-u2500x/anh-dai-dien-samsung-25w-power-bank-kem-cap-eb-u2500x-xam.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/samsung-25w-power-bank-kem-cap-eb-u2500x/mat-sau-thang-dung-xam.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/samsung-25w-power-bank-kem-cap-eb-u2500x/dung-nghieng-bang-chan-de-xam.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/samsung-25w-power-bank-kem-cap-eb-u2500x/mo-chan-de-goc-nghieng-xam.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/samsung-25w-power-bank-kem-cap-eb-u2500x/mat-truoc-vong-sac-qi2-xam.webp"
+      ]
+    }
+  ]
+}

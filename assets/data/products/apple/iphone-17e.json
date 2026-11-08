@@ -1,0 +1,495 @@
+{
+  "id": "iphone-17e",
+  "brand": "Apple",
+  "brandId": "apple",
+  "parentGroupId": "apple",
+  "model": "iPhone 17e",
+  "series": "iPhone 17 Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "high-end"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "02/03/2026",
+    "segment": "Cận cao cấp",
+    "description": "Ra mắt vào tháng 3/2026, iPhone 17e là phiên bản kế nhiệm trực tiếp của iPhone 16e và hiện là mẫu iPhone mới có mức giá dễ tiếp cận nhất trong dải sản phẩm chính thức năm 2026–2027 của Apple. Lắng nghe phản hồi từ người dùng, Apple đã mang đến cho iPhone 17e những nâng cấp cực kỳ thiết thực: bổ sung vòng sạc từ tính MagSafe / Qi2 15W, nâng gấp đôi bộ nhớ khởi điểm lên 256GB, trang bị chip A19, modem 5G Apple C1X và mặt kính Ceramic Shield 2 chống phản chiếu. (Nguồn tham chiếu chính thức: Apple Tech Specs - iPhone 17e).",
+    "highlights": [
+      "6,1 inch",
+      "A19",
+      "Pin 4.005 mAh"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 20990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT011-IP17E-HONG-NHAT-256GB",
+      "color": "Hồng Nhạt",
+      "colorHex": "#F4D4DC",
+      "ram": "8GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 20990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-17e/anh-dai-dien-iphone-17e-hong-nhat.webp",
+        "assets/images/products/apple/iphone-17e/mat-truoc-man-hinh-hong-nhat.webp",
+        "assets/images/products/apple/iphone-17e/canh-ben-nut-tac-vu-hong-nhat.webp",
+        "assets/images/products/apple/iphone-17e/goc-nghieng-camera-sau-hong-nhat.webp",
+        "assets/images/products/apple/iphone-17e/phu-kien-trong-hop-hong-nhat.webp",
+        "assets/images/products/apple/iphone-17e/iPhone-17e.jpg",
+        "assets/images/products/apple/iphone-17e/phu-kien-op-lung-va-sac-magsafe.webp",
+        "assets/images/products/apple/iphone-17e/3-tuy-chon-mau-sac-den-trang-hong-nhat.webp",
+        "assets/images/products/apple/iphone-17e/tong-quan-tinh-nang-camera-48mp-chip-a19-256gb.webp"
+      ]
+    },
+    {
+      "sku": "DT011-IP17E-HONG-NHAT-512GB",
+      "color": "Hồng Nhạt",
+      "colorHex": "#F4D4DC",
+      "ram": "8GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 26990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-17e/anh-dai-dien-iphone-17e-hong-nhat.webp",
+        "assets/images/products/apple/iphone-17e/mat-truoc-man-hinh-hong-nhat.webp",
+        "assets/images/products/apple/iphone-17e/canh-ben-nut-tac-vu-hong-nhat.webp",
+        "assets/images/products/apple/iphone-17e/goc-nghieng-camera-sau-hong-nhat.webp",
+        "assets/images/products/apple/iphone-17e/phu-kien-trong-hop-hong-nhat.webp",
+        "assets/images/products/apple/iphone-17e/iPhone-17e.jpg",
+        "assets/images/products/apple/iphone-17e/phu-kien-op-lung-va-sac-magsafe.webp",
+        "assets/images/products/apple/iphone-17e/3-tuy-chon-mau-sac-den-trang-hong-nhat.webp",
+        "assets/images/products/apple/iphone-17e/tong-quan-tinh-nang-camera-48mp-chip-a19-256gb.webp"
+      ]
+    },
+    {
+      "sku": "DT011-IP17E-TRANG-256GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "8GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 20990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-17e/anh-dai-dien-iphone-17e-trang.webp",
+        "assets/images/products/apple/iphone-17e/mat-truoc-man-hinh-trang.webp",
+        "assets/images/products/apple/iphone-17e/canh-ben-nut-tac-vu-trang.webp",
+        "assets/images/products/apple/iphone-17e/goc-nghieng-camera-sau-trang.webp",
+        "assets/images/products/apple/iphone-17e/iPhone-17e.jpg",
+        "assets/images/products/apple/iphone-17e/phu-kien-op-lung-va-sac-magsafe.webp",
+        "assets/images/products/apple/iphone-17e/3-tuy-chon-mau-sac-den-trang-hong-nhat.webp",
+        "assets/images/products/apple/iphone-17e/tong-quan-tinh-nang-camera-48mp-chip-a19-256gb.webp"
+      ]
+    },
+    {
+      "sku": "DT011-IP17E-TRANG-512GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "8GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 26990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-17e/anh-dai-dien-iphone-17e-trang.webp",
+        "assets/images/products/apple/iphone-17e/mat-truoc-man-hinh-trang.webp",
+        "assets/images/products/apple/iphone-17e/canh-ben-nut-tac-vu-trang.webp",
+        "assets/images/products/apple/iphone-17e/goc-nghieng-camera-sau-trang.webp",
+        "assets/images/products/apple/iphone-17e/iPhone-17e.jpg",
+        "assets/images/products/apple/iphone-17e/phu-kien-op-lung-va-sac-magsafe.webp",
+        "assets/images/products/apple/iphone-17e/3-tuy-chon-mau-sac-den-trang-hong-nhat.webp",
+        "assets/images/products/apple/iphone-17e/tong-quan-tinh-nang-camera-48mp-chip-a19-256gb.webp"
+      ]
+    },
+    {
+      "sku": "DT011-IP17E-DEN-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 20990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-17e/anh-dai-dien-iphone-17e-den.webp",
+        "assets/images/products/apple/iphone-17e/mat-truoc-man-hinh-den.webp",
+        "assets/images/products/apple/iphone-17e/canh-ben-nut-tac-vu-den.webp",
+        "assets/images/products/apple/iphone-17e/goc-nghieng-camera-sau-den.webp",
+        "assets/images/products/apple/iphone-17e/iPhone-17e.jpg",
+        "assets/images/products/apple/iphone-17e/phu-kien-op-lung-va-sac-magsafe.webp",
+        "assets/images/products/apple/iphone-17e/3-tuy-chon-mau-sac-den-trang-hong-nhat.webp",
+        "assets/images/products/apple/iphone-17e/tong-quan-tinh-nang-camera-48mp-chip-a19-256gb.webp"
+      ]
+    },
+    {
+      "sku": "DT011-IP17E-DEN-512GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 26990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-17e/anh-dai-dien-iphone-17e-den.webp",
+        "assets/images/products/apple/iphone-17e/mat-truoc-man-hinh-den.webp",
+        "assets/images/products/apple/iphone-17e/canh-ben-nut-tac-vu-den.webp",
+        "assets/images/products/apple/iphone-17e/goc-nghieng-camera-sau-den.webp",
+        "assets/images/products/apple/iphone-17e/iPhone-17e.jpg",
+        "assets/images/products/apple/iphone-17e/phu-kien-op-lung-va-sac-magsafe.webp",
+        "assets/images/products/apple/iphone-17e/3-tuy-chon-mau-sac-den-trang-hong-nhat.webp",
+        "assets/images/products/apple/iphone-17e/tong-quan-tinh-nang-camera-48mp-chip-a19-256gb.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": null,
+    "size": null,
+    "resolution": null,
+    "refreshRate": null,
+    "brightness": null,
+    "hdr": null,
+    "protection": "Ceramic Shield",
+    "features": []
+  },
+  "performance": {
+    "chipset": "Apple A19 (tiến trình 3nm thế hệ mới – phiên bản 4 nhân GPU)",
+    "cpu": null,
+    "gpu": null,
+    "ram": [
+      "8GB"
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ],
+    "operatingSystem": "iOS 26 (cài sẵn iOS 26.3 khi mở bán tháng 03/2026)",
+    "uiVersion": "iOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": null,
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": null,
+    "videoRecording": [],
+    "aiFeatures": []
+  },
+  "frontCamera": {
+    "resolution": null,
+    "features": [],
+    "videoRecording": []
+  },
+  "battery": {
+    "capacity": null,
+    "wiredCharging": null,
+    "wirelessCharging": null,
+    "reverseCharging": null,
+    "chargingTechnology": null
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM / eSIM"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi băng tần kép",
+    "bluetooth": "Bluetooth 5.3+",
+    "gps": [
+      "GPS",
+      "GLONASS",
+      "Galileo",
+      "BDS"
+    ],
+    "usb": "USB Type-C",
+    "nfc": null
+  },
+  "design": {
+    "dimensions": null,
+    "weight": null,
+    "materials": [],
+    "waterResistance": null,
+    "availableColors": [
+      "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo",
+    "headphoneJack": null,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Face ID 3D"
+  ],
+  "specialFeatures": [
+    "iPhone 17 Series",
+    "Apple",
+    "Chính hãng VN/A"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Apple tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/apple/iphone-17e/anh-dai-dien-iphone-17e-hong-nhat.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/apple/iphone-17e/anh-dai-dien-iphone-17e-hong-nhat.webp",
+      "assets/images/products/apple/iphone-17e/anh-dai-dien-iphone-17e-den.webp",
+      "assets/images/products/apple/iphone-17e/anh-dai-dien-iphone-17e-trang.webp",
+      "assets/images/products/apple/iphone-17e/mat-truoc-man-hinh-den.webp",
+      "assets/images/products/apple/iphone-17e/mat-truoc-man-hinh-hong-nhat.webp",
+      "assets/images/products/apple/iphone-17e/mat-truoc-man-hinh-trang.webp",
+      "assets/images/products/apple/iphone-17e/canh-ben-nut-tac-vu-den.webp",
+      "assets/images/products/apple/iphone-17e/canh-ben-nut-tac-vu-hong-nhat.webp",
+      "assets/images/products/apple/iphone-17e/canh-ben-nut-tac-vu-trang.webp",
+      "assets/images/products/apple/iphone-17e/goc-nghieng-camera-sau-den.webp",
+      "assets/images/products/apple/iphone-17e/goc-nghieng-camera-sau-hong-nhat.webp",
+      "assets/images/products/apple/iphone-17e/goc-nghieng-camera-sau-trang.webp",
+      "assets/images/products/apple/iphone-17e/iPhone-17e.jpg",
+      "assets/images/products/apple/iphone-17e/phu-kien-op-lung-va-sac-magsafe.webp",
+      "assets/images/products/apple/iphone-17e/phu-kien-trong-hop-hong-nhat.webp",
+      "assets/images/products/apple/iphone-17e/3-tuy-chon-mau-sac-den-trang-hong-nhat.webp",
+      "assets/images/products/apple/iphone-17e/tong-quan-tinh-nang-camera-48mp-chip-a19-256gb.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/apple/iphone-17e/anh-dai-dien-iphone-17e-den.webp",
+        "assets/images/products/apple/iphone-17e/mat-truoc-man-hinh-den.webp",
+        "assets/images/products/apple/iphone-17e/canh-ben-nut-tac-vu-den.webp",
+        "assets/images/products/apple/iphone-17e/goc-nghieng-camera-sau-den.webp",
+        "assets/images/products/apple/iphone-17e/iPhone-17e.jpg",
+        "assets/images/products/apple/iphone-17e/phu-kien-op-lung-va-sac-magsafe.webp",
+        "assets/images/products/apple/iphone-17e/3-tuy-chon-mau-sac-den-trang-hong-nhat.webp",
+        "assets/images/products/apple/iphone-17e/tong-quan-tinh-nang-camera-48mp-chip-a19-256gb.webp"
+      ],
+      "Hồng Nhạt": [
+        "assets/images/products/apple/iphone-17e/anh-dai-dien-iphone-17e-hong-nhat.webp",
+        "assets/images/products/apple/iphone-17e/mat-truoc-man-hinh-hong-nhat.webp",
+        "assets/images/products/apple/iphone-17e/canh-ben-nut-tac-vu-hong-nhat.webp",
+        "assets/images/products/apple/iphone-17e/goc-nghieng-camera-sau-hong-nhat.webp",
+        "assets/images/products/apple/iphone-17e/phu-kien-trong-hop-hong-nhat.webp",
+        "assets/images/products/apple/iphone-17e/iPhone-17e.jpg",
+        "assets/images/products/apple/iphone-17e/phu-kien-op-lung-va-sac-magsafe.webp",
+        "assets/images/products/apple/iphone-17e/3-tuy-chon-mau-sac-den-trang-hong-nhat.webp",
+        "assets/images/products/apple/iphone-17e/tong-quan-tinh-nang-camera-48mp-chip-a19-256gb.webp"
+      ],
+      "Trắng": [
+        "assets/images/products/apple/iphone-17e/anh-dai-dien-iphone-17e-trang.webp",
+        "assets/images/products/apple/iphone-17e/mat-truoc-man-hinh-trang.webp",
+        "assets/images/products/apple/iphone-17e/canh-ben-nut-tac-vu-trang.webp",
+        "assets/images/products/apple/iphone-17e/goc-nghieng-camera-sau-trang.webp",
+        "assets/images/products/apple/iphone-17e/iPhone-17e.jpg",
+        "assets/images/products/apple/iphone-17e/phu-kien-op-lung-va-sac-magsafe.webp",
+        "assets/images/products/apple/iphone-17e/3-tuy-chon-mau-sac-den-trang-hong-nhat.webp",
+        "assets/images/products/apple/iphone-17e/tong-quan-tinh-nang-camera-48mp-chip-a19-256gb.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/apple/iphone-17e/canh-ben-nut-tac-vu-den.webp",
+      "screen": "assets/images/products/apple/iphone-17e/mat-truoc-man-hinh-den.webp",
+      "performance": "assets/images/products/apple/iphone-17e/tong-quan-tinh-nang-camera-48mp-chip-a19-256gb.webp",
+      "camera": "assets/images/products/apple/iphone-17e/goc-nghieng-camera-sau-den.webp",
+      "battery": "assets/images/products/apple/iphone-17e/phu-kien-op-lung-va-sac-magsafe.webp",
+      "feature": "assets/images/products/apple/iphone-17e/anh-dai-dien-iphone-17e-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/apple/iphone-17e/anh-dai-dien-iphone-17e-den.webp",
+      "assets/images/products/apple/iphone-17e/anh-dai-dien-iphone-17e-trang.webp",
+      "assets/images/products/apple/iphone-17e/mat-truoc-man-hinh-den.webp",
+      "assets/images/products/apple/iphone-17e/mat-truoc-man-hinh-hong-nhat.webp",
+      "assets/images/products/apple/iphone-17e/mat-truoc-man-hinh-trang.webp",
+      "assets/images/products/apple/iphone-17e/canh-ben-nut-tac-vu-den.webp",
+      "assets/images/products/apple/iphone-17e/canh-ben-nut-tac-vu-hong-nhat.webp",
+      "assets/images/products/apple/iphone-17e/canh-ben-nut-tac-vu-trang.webp",
+      "assets/images/products/apple/iphone-17e/goc-nghieng-camera-sau-den.webp",
+      "assets/images/products/apple/iphone-17e/goc-nghieng-camera-sau-hong-nhat.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-apple-iphone",
+      "https://www.thegioididong.com/dtdd-apple-iphone-18-series",
+      "https://www.apple.com/vn/iphone/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT011-IP17E",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "Super Retina XDR OLED",
+      "Kích thước màn hình": "6,1 inch",
+      "Độ phân giải màn hình": "2532 x 1170 pixel (tỷ lệ 19,5:9)",
+      "Tần số quét": "60Hz",
+      "Kiểu màn hình": "Màn hình phẳng thiết kế tai thỏ (Notch)",
+      "Tính năng màn hình": "Dolby Vision, HDR10+/HDR10, HLG, độ sáng 800 nit (tiêu chuẩn) / 1.200 nit (HDR), True Tone, dải màu P3, Haptic Touch"
+    },
+    "Camera sau": {
+      "Camera sau": "Camera 2-trong-1 48MP Fusion (26mm, ƒ/1.6, chống rung OIS, Hybrid Focus Pixels), tích hợp Telephoto 2x 12MP chất lượng quang học",
+      "Quay video": "4K Dolby Vision 24/25/30/60fps; 1080p Dolby Vision 25/30/60fps; Slo-mo 1080p 120/240fps; Time-lapse chống rung; thu âm Spatial Audio và Hòa Âm (Audio Mix)",
+      "Tính năng camera": "Chân dung thế hệ mới với Focus & Depth Control, Portrait Lighting, Night mode, Panorama 63MP, Photographic Styles; Zoom quang học 1x, 2x và zoom số 10x"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera TrueDepth 12MP (ƒ/1.9, 23mm, SL 3D); quay 4K Dolby Vision 24/25/30/60fps, Slo-mo 1080p 120fps, Spatial Audio, Hòa Âm, FaceTime HD 1080p"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Apple A19 (3nm)",
+      "Loại CPU": "CPU 6 lõi: 2 lõi hiệu năng cao (4,26 GHz) + 4 lõi tiết kiệm điện (2,60 GHz)",
+      "GPU": "Apple GPU 4 lõi tích hợp Neural Accelerators và dò tia phần cứng (Ray Tracing)"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB LPDDR5X",
+      "Bộ nhớ trong": "2 phiên bản: 256GB và 512GB chuẩn NVMe"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "4.005 mAh (Li-Ion) – Xem video lên đến 26 giờ, xem trực tuyến 21 giờ",
+      "Công nghệ sạc": "Sạc nhanh USB-C 20W (50% pin trong 30 phút); Sạc không dây từ tính MagSafe 15W và Qi2 15W",
+      "Cổng sạc": "USB-C (chuẩn USB 2 tốc độ lên đến 480Mb/s)"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "iOS 26 (tháng 03/2026)",
+      "Công nghệ - Tiện ích": "Hỗ trợ đầy đủ Apple Intelligence tiếng Việt và Siri AI thế hệ mới",
+      "Tiện ích khác": "Nút Tác Vụ (Action Button), bảo mật bộ nhớ MIE, SOS khẩn cấp qua vệ tinh, Phát Hiện Va Chạm",
+      "Thời điểm ra mắt": "02/03/2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G sub-6GHz 4x4 MIMO (Modem Apple C1X), Gigabit LTE",
+      "Thẻ SIM": "SIM kép (1 Nano-SIM + eSIM hoặc 2 eSIM hoạt động đồng thời)",
+      "Wi-Fi": "Wi-Fi 6 (802.11ax) 2x2 MIMO",
+      "Bluetooth": "Bluetooth 5.3",
+      "Công nghệ NFC": "Có hỗ trợ NFC",
+      "GPS": "GPS, GLONASS, Galileo, QZSS, BeiDou"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung nhôm hàng không vũ trụ (85% nhôm tái chế)",
+      "Chất liệu mặt lưng": "Mặt lưng kính nhám mờ, mặt trước Ceramic Shield",
+      "Kích thước": "146,7 x 71,5 x 7,80 mm",
+      "Trọng lượng": "170 gram",
+      "Chỉ số kháng nước, bụi": "IP68 theo chuẩn IEC 60529 (tối đa 6 mét trong 30 phút)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài Stereo, hỗ trợ Spatial Audio, Dolby Atmos, Apple Lossless, FLAC",
+      "Cảm biến vân tay": "Không trang bị (Bảo mật khuôn mặt Face ID 3D)",
+      "Các loại cảm biến": "Face ID, Áp kế, Con quay hồi chuyển, Gia tốc kế, Cảm biến tiệm cận, Cảm biến ánh sáng kép, Từ kế (hỗ trợ MagSafe)"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,1 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "Super Retina XDR OLED"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2532 x 1170 pixel"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "60Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Apple A19"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "2 phiên bản: 256GB và 512GB NVMe"
+    },
+    {
+      "label": "Camera sau",
+      "value": "48MP Fusion 2-trong-1 (tích hợp Telephoto 2x)"
+    },
+    {
+      "label": "Camera trước",
+      "value": "12MP TrueDepth, khẩu độ ƒ/1.9"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "4.005 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh USB-C 20W, MagSafe / Qi2 15W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "iOS 26"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G (Modem Apple C1X)"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 (6 mét trong 30 phút)"
+    }
+  ],
+  "verbatimDescription": [
+    "Ra mắt vào tháng 3/2026, iPhone 17e là phiên bản kế nhiệm trực tiếp của iPhone 16e và hiện là mẫu iPhone mới có mức giá dễ tiếp cận nhất trong dải sản phẩm chính thức năm 2026–2027 của Apple. Lắng nghe phản hồi từ người dùng, Apple đã mang đến cho iPhone 17e những nâng cấp cực kỳ thiết thực: bổ sung vòng sạc từ tính MagSafe / Qi2 15W, nâng gấp đôi bộ nhớ khởi điểm lên 256GB, trang bị chip A19, modem 5G Apple C1X và mặt kính Ceramic Shield 2 chống phản chiếu. (Nguồn tham chiếu chính thức: Apple Tech Specs - iPhone 17e).",
+    "iPhone 17e giữ nguyên kích thước nhỏ gọn 146,7 x 71,5 x 7,80 mm với trọng lượng 170 gram (bản VN có khay SIM) hoặc 169 gram (bản Mỹ eSIM). Bên cạnh hai màu Đen và Trắng truyền thống, máy bổ sung thêm phiên bản màu Hồng Phai (Soft Pink) rất cuốn hút. Mặt trước vẫn là màn hình Super Retina XDR OLED 6,1 inch (2532 x 1170 pixel, 460 ppi, tần số quét 60Hz, độ sáng 800 nit tiêu chuẩn / 1.200 nit HDR) sử dụng thiết kế tai thỏ (Notch), nhưng đã được nâng cấp lên mặt kính Ceramic Shield 2 tích hợp lớp phủ chống phản chiếu (anti-reflective coating) tương tự các đàn anh dòng 17.",
+    "Sức mạnh của iPhone 17e được nâng cấp lên vi xử lý Apple A19 (tiến trình 3nm) với 6 nhân CPU (xung nhịp 4,26 GHz), 4 nhân GPU tích hợp Neural Accelerators cùng Ray Tracing phần cứng, Neural Engine 16 nhân và 8GB RAM LPDDR5X. Điểm cộng rất lớn là Apple đã loại bỏ bản 128GB và đưa mức bộ nhớ 256GB thành tiêu chuẩn khởi điểm (bên cạnh bản 512GB), giúp người dùng thoải mái sử dụng Apple Intelligence và lưu trữ dữ liệu trong nhiều năm.",
+    "Máy trang bị camera đơn 48MP Fusion 2-trong-1 ở mặt sau (tiêu cự 26mm, khẩu độ ƒ/1.6, chống rung quang học OIS) hỗ trợ chụp ảnh 24MP/48MP và thu phóng Telephoto 2x (52mm) chất lượng quang học. Nhờ bộ xử lý hình ảnh mới trên chip A19, iPhone 17e được nâng cấp lên chế độ Ảnh chân dung thế hệ mới (Next-generation portraits with Focus and Depth Control), cho phép tự động thu nhận thông tin chiều sâu và đổi điểm lấy nét sau khi chụp. Mặt trước là camera TrueDepth 12MP (ƒ/1.9) hỗ trợ quay 4K Dolby Vision 60 fps và thu âm Hòa Âm (Audio Mix).",
+    "iPhone 17e tiếp tục sở hữu viên pin lớn 4.005 mAh (theo dữ liệu kỹ thuật GSMArena/Wikipedia), cung cấp thời lượng xem video liên tục lên đến 26 giờ. Đặc biệt, nâng cấp đáng giá nhất so với iPhone 16e là việc iPhone 17e đã được tích hợp đầy đủ vòng nam châm MagSafe và hỗ trợ sạc không dây MagSafe / Qi2 công suất lên đến 15W, bên cạnh sạc nhanh có dây USB-C (50% trong 30 phút với củ sạc 20W+).",
+    "Xuất xưởng với iOS 26.3 vào tháng 3/2026 và hiện đã cập nhật lên iOS 27.2 tính đến tháng 11/2026, iPhone 17e hỗ trợ trọn vẹn Apple Intelligence tiếng Việt và Siri AI thế hệ mới. Máy còn được nâng cấp lên modem di động Apple C1X (nhanh gấp 2 lần modem C1 trên 16e), tích hợp nút Action Button và giữ khay SIM kép (1 Nano-SIM + eSIM) trên bản chính hãng VN/A."
+  ],
+  "priceSegment": "high-end"
+}

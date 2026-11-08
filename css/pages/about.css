@@ -1,0 +1,31 @@
+/* TechPhone — About Page Styles */
+.tp-about-hero {
+  background: linear-gradient(125deg, #102347 0%, #0866F5 100%);
+  color: var(--tp-white);
+  border-radius: var(--tp-radius-xl);
+  padding: 3rem 2.5rem;
+  margin-bottom: 2rem;
+}
+.tp-team-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.25rem;
+}
+.tp-team-card {
+  background: var(--tp-white);
+  border: 1px solid var(--tp-border);
+  border-radius: var(--tp-radius-lg);
+  padding: 1.5rem;
+  text-align: center;
+  transition: transform 0.22s ease, box-shadow 0.22s ease;
+}
+.tp-team-card:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--tp-shadow-md);
+}
+.tp-team-card img {
+  width: 96px;
+  height: 96px;
+  margin: 0 auto 1rem;
+  border-radius: 50%;
+}

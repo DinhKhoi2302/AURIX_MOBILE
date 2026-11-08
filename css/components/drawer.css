@@ -1,0 +1,49 @@
+/* TechPhone — Cart & Mobile Slide-out Drawer */
+.tp-drawer-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(16, 35, 71, 0.48);
+  z-index: var(--tp-z-drawer);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.25s ease, visibility 0.25s ease;
+}
+.tp-drawer-backdrop.is-open {
+  opacity: 1;
+  visibility: visible;
+}
+.tp-drawer {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 100%;
+  max-width: 420px;
+  height: 100vh;
+  background: var(--tp-white);
+  z-index: calc(var(--tp-z-drawer) + 1);
+  box-shadow: -12px 0 36px rgba(16, 35, 71, 0.16);
+  display: flex;
+  flex-direction: column;
+  transform: translateX(100%);
+  transition: transform 0.3s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.tp-drawer.is-open {
+  transform: translateX(0);
+}
+.tp-drawer-header {
+  padding: 1.15rem 1.35rem;
+  border-bottom: 1px solid var(--tp-border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.tp-drawer-body {
+  flex: 1;
+  overflow-y: auto;
+  padding: 1.15rem 1.35rem;
+}
+.tp-drawer-footer {
+  padding: 1.15rem 1.35rem;
+  border-top: 1px solid var(--tp-border);
+  background: var(--tp-bg-page);
+}

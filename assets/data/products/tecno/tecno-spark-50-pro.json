@@ -1,0 +1,442 @@
+{
+  "id": "tecno-spark-50-pro",
+  "brand": "TECNO",
+  "brandId": "tecno",
+  "parentGroupId": "tecno",
+  "model": "TECNO SPARK 50 Pro",
+  "series": "TECNO SPARK Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "entry-level"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025 – 2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Ra mắt giữa năm 2026, TECNO SPARK 50 Pro là mẫu smartphone nổi bật trong dòng SPARK 50 Series nhờ màn hình 6,78 inch AMOLED FHD+ 120Hz, vi xử lý 6nm MediaTek Helio G100 Ultimate, camera selfie 32MP kèm đèn trợ sáng, cảm biến vân tay dưới màn hình, loa kép Dolby Atmos và viên pin lớn 6.000 mAh. (Nguồn tham chiếu: GSMArena - TECNO Spark 50 Pro).",
+    "highlights": [
+      "6,78 inch AMOLED 120Hz",
+      "Helio G100 Ultimate",
+      "Pin 6.000 mAh / Loa Dolby Atmos"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 3490000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT003-TECSPARK50PRO-XAM-4GB-128GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 3490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tecno/tecno-spark-50-pro/anh-dai-dien-tecno-spark-50-pro-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50-pro/mat-truoc-mat-sau-tecno-spark-50-pro-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50-pro/canh-duoi-cong-sac-tecno-spark-50-pro-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50-pro/TECNO-Spark-50-Pro.jpg"
+      ]
+    },
+    {
+      "sku": "DT003-TECSPARK50PRO-XAM-8GB-128GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 3990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tecno/tecno-spark-50-pro/anh-dai-dien-tecno-spark-50-pro-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50-pro/mat-truoc-mat-sau-tecno-spark-50-pro-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50-pro/canh-duoi-cong-sac-tecno-spark-50-pro-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50-pro/TECNO-Spark-50-Pro.jpg"
+      ]
+    },
+    {
+      "sku": "DT003-TECSPARK50PRO-XAM-8GB-256GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 4490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tecno/tecno-spark-50-pro/anh-dai-dien-tecno-spark-50-pro-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50-pro/mat-truoc-mat-sau-tecno-spark-50-pro-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50-pro/canh-duoi-cong-sac-tecno-spark-50-pro-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50-pro/TECNO-Spark-50-Pro.jpg"
+      ]
+    },
+    {
+      "sku": "DT003-TECSPARK50PRO-DEN-4GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 3490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tecno/tecno-spark-50-pro/mat-truoc-mat-sau-tecno-spark-50-pro-den.webp",
+        "assets/images/products/tecno/tecno-spark-50-pro/canh-ben-phim-nguon-tecno-spark-50-pro-den.webp",
+        "assets/images/products/tecno/tecno-spark-50-pro/TECNO-Spark-50-Pro.jpg"
+      ]
+    },
+    {
+      "sku": "DT003-TECSPARK50PRO-DEN-8GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 3990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tecno/tecno-spark-50-pro/mat-truoc-mat-sau-tecno-spark-50-pro-den.webp",
+        "assets/images/products/tecno/tecno-spark-50-pro/canh-ben-phim-nguon-tecno-spark-50-pro-den.webp",
+        "assets/images/products/tecno/tecno-spark-50-pro/TECNO-Spark-50-Pro.jpg"
+      ]
+    },
+    {
+      "sku": "DT003-TECSPARK50PRO-DEN-8GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 4490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tecno/tecno-spark-50-pro/mat-truoc-mat-sau-tecno-spark-50-pro-den.webp",
+        "assets/images/products/tecno/tecno-spark-50-pro/canh-ben-phim-nguon-tecno-spark-50-pro-den.webp",
+        "assets/images/products/tecno/tecno-spark-50-pro/TECNO-Spark-50-Pro.jpg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "AMOLED FHD+ 120Hz, 1,07 tỷ màu, độ sáng đỉnh 1.800 nit",
+    "size": "6,78 inch",
+    "resolution": "2436 x 1080 pixel (FHD+, 393 ppi)",
+    "refreshRate": "120Hz",
+    "brightness": "Tấm nền AMOLED 10-bit rực rỡ, tần số quét 120Hz, làm mờ PWM 2160Hz bảo vệ mắt, cảm ứng khi tay ướt Wet Touch",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "MediaTek Helio G100 Ultimate (6nm)",
+    "cpu": "CPU 8 nhân: 2 nhân Cortex-A76 (2,2 GHz) + 6 nhân Cortex-A55 (2,0 GHz)",
+    "gpu": "ARM Mali-G57 MC2",
+    "ram": [
+      "4GB",
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "operatingSystem": "HiOS 16 (Android 16)",
+    "uiVersion": "Android",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP / 108MP Chính Ultra-Clear (ƒ/1.8, PDAF) + Cảm biến phụ AI",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "Quay video 2K ở 30fps, Full HD 1080p ở 30/60fps"
+    ],
+    "aiFeatures": [
+      "TECNO AI Camera, Super Night chụp đêm, Chân dung xóa phông, AI Eraser xóa vật thể, Dual Video"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "32MP Selfie kèm đèn flash trợ sáng kép",
+    "features": [
+      "Camera Selfie 32MP (khẩu độ ƒ/2.2, góc rộng) kèm đèn flash trợ sáng điều chỉnh nhiệt độ màu, quay video 1080p@30fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "6.000 mAh / 7.750 mAh",
+    "wiredCharging": "Sạc nhanh có dây 33W / 45W Super Charge",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc nhanh có dây 33W / 45W qua cổng USB Type-C, hỗ trợ Sạc nhánh Bypass Charging"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM vật lý + 1 khe thẻ nhớ MicroSD"
+    ],
+    "network": [
+      "4G LTE"
+    ],
+    "wifi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép (2.4GHz & 5GHz)",
+    "bluetooth": "Bluetooth 5.3 hỗ trợ A2DP, LE",
+    "gps": [
+      "GPS, GLONASS, GALILEO, BDS"
+    ],
+    "usb": "USB Type-C 2.0 hỗ trợ OTG",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "164,5 x 75,5 x 7,8 mm",
+    "weight": "192 gram",
+    "materials": [
+      "Khung viền mỏng thanh lịch hoàn thiện kim loại nhám",
+      "Mặt lưng kính hữu cơ / da sinh học chống bám vân tay"
+    ],
+    "waterResistance": "IP64 / IP68 kháng bụi và nước",
+    "availableColors": [
+      "Xám",
+      "Đen"
+    ]
+  },
+  "audio": {
+    "speakers": "Hệ thống loa kép Stereo chuẩn Dolby Atmos, Hi-Res Audio",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Spark",
+    "TECNO",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền TECNO tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/tecno/tecno-spark-50-pro/anh-dai-dien-tecno-spark-50-pro-xam.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tecno/tecno-spark-50-pro/anh-dai-dien-tecno-spark-50-pro-xam.webp",
+      "assets/images/products/tecno/tecno-spark-50-pro/mat-truoc-mat-sau-tecno-spark-50-pro-den.webp",
+      "assets/images/products/tecno/tecno-spark-50-pro/mat-truoc-mat-sau-tecno-spark-50-pro-xam.webp",
+      "assets/images/products/tecno/tecno-spark-50-pro/canh-ben-phim-nguon-tecno-spark-50-pro-den.webp",
+      "assets/images/products/tecno/tecno-spark-50-pro/canh-duoi-cong-sac-tecno-spark-50-pro-xam.webp",
+      "assets/images/products/tecno/tecno-spark-50-pro/TECNO-Spark-50-Pro.jpg"
+    ],
+    "byColor": {
+      "Xám": [
+        "assets/images/products/tecno/tecno-spark-50-pro/anh-dai-dien-tecno-spark-50-pro-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50-pro/mat-truoc-mat-sau-tecno-spark-50-pro-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50-pro/canh-duoi-cong-sac-tecno-spark-50-pro-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50-pro/TECNO-Spark-50-Pro.jpg"
+      ],
+      "Đen": [
+        "assets/images/products/tecno/tecno-spark-50-pro/mat-truoc-mat-sau-tecno-spark-50-pro-den.webp",
+        "assets/images/products/tecno/tecno-spark-50-pro/canh-ben-phim-nguon-tecno-spark-50-pro-den.webp",
+        "assets/images/products/tecno/tecno-spark-50-pro/TECNO-Spark-50-Pro.jpg"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tecno/tecno-spark-50-pro/mat-truoc-mat-sau-tecno-spark-50-pro-den.webp",
+      "screen": "assets/images/products/tecno/tecno-spark-50-pro/mat-truoc-mat-sau-tecno-spark-50-pro-xam.webp",
+      "performance": "assets/images/products/tecno/tecno-spark-50-pro/TECNO-Spark-50-Pro.jpg",
+      "camera": "assets/images/products/tecno/tecno-spark-50-pro/canh-ben-phim-nguon-tecno-spark-50-pro-den.webp",
+      "battery": "assets/images/products/tecno/tecno-spark-50-pro/canh-duoi-cong-sac-tecno-spark-50-pro-xam.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tecno/tecno-spark-50-pro/mat-truoc-mat-sau-tecno-spark-50-pro-den.webp",
+      "assets/images/products/tecno/tecno-spark-50-pro/mat-truoc-mat-sau-tecno-spark-50-pro-xam.webp",
+      "assets/images/products/tecno/tecno-spark-50-pro/canh-ben-phim-nguon-tecno-spark-50-pro-den.webp",
+      "assets/images/products/tecno/tecno-spark-50-pro/canh-duoi-cong-sac-tecno-spark-50-pro-xam.webp",
+      "assets/images/products/tecno/tecno-spark-50-pro/TECNO-Spark-50-Pro.jpg"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-tecno",
+      "https://www.tecno-mobile.com/vn/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT003-TECSPARK50PRO",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "AMOLED FHD+ 120Hz, 1,07 tỷ màu, độ sáng đỉnh 1.800 nit",
+      "Kích thước màn hình": "6,78 inch",
+      "Độ phân giải màn hình": "2436 x 1080 pixel (FHD+, 393 ppi)",
+      "Tần số quét": "120Hz",
+      "Kiểu màn hình": "Màn hình phẳng / cong nhẹ đục lỗ viền siêu mỏng",
+      "Tính năng màn hình": "Tấm nền AMOLED 10-bit rực rỡ, tần số quét 120Hz, làm mờ PWM 2160Hz bảo vệ mắt, cảm ứng khi tay ướt Wet Touch"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera độ phân giải cao: Camera chính 50MP/108MP (khẩu độ ƒ/1.8, lấy nét PDAF, zoom in-sensor 3x) kết hợp ống kính phụ AI và cụm đèn flash LED kép",
+      "Quay video": "Quay video 2K ở 30fps, Full HD 1080p ở 30/60fps",
+      "Tính năng camera": "TECNO AI Camera, Super Night chụp đêm, Chân dung xóa phông, AI Eraser xóa vật thể, Dual Video"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera Selfie 32MP (khẩu độ ƒ/2.2, góc rộng) kèm đèn flash trợ sáng điều chỉnh nhiệt độ màu, quay video 1080p@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Helio G100 Ultimate (6nm)",
+      "Loại CPU": "CPU 8 nhân: 2 nhân Cortex-A76 (2,2 GHz) + 6 nhân Cortex-A55 (2,0 GHz)",
+      "GPU": "ARM Mali-G57 MC2"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "4GB / 8GB LPDDR4X (+8GB Extended RAM)",
+      "Bộ nhớ trong": "2 phiên bản: 128GB và 256GB (Hỗ trợ MicroSD 1TB)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "6.000 mAh (Bản tiêu chuẩn quốc tế, giữ trên 80% dung lượng sau 1.600 chu kỳ sạc)",
+      "Công nghệ sạc": "Sạc nhanh có dây 33W / 45W qua cổng USB Type-C, hỗ trợ Sạc nhánh Bypass Charging",
+      "Cổng sạc": "USB Type-C 2.0 hỗ trợ OTG"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "HiOS 16 (Android 16)",
+      "Công nghệ - Tiện ích": "Trợ lý thông minh Ella AI, Dynamic Port hiển thị thông báo động, dịch thuật và chỉnh sửa ảnh AI",
+      "Tiện ích khác": "Điều khiển hồng ngoại IR Blaster, hệ thống loa kép Stereo Dolby Atmos",
+      "Thời điểm ra mắt": "Tháng 06/2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "4G LTE",
+      "Thẻ SIM": "2 Nano-SIM vật lý + 1 khe thẻ nhớ MicroSD",
+      "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép (2.4GHz & 5GHz)",
+      "Bluetooth": "Bluetooth 5.3 hỗ trợ A2DP, LE",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa năng",
+      "GPS": "GPS, GLONASS, GALILEO, BDS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền mỏng thanh lịch hoàn thiện kim loại nhám",
+      "Chất liệu mặt lưng": "Mặt lưng kính hữu cơ / da sinh học chống bám vân tay",
+      "Kích thước": "164,5 x 75,5 x 7,8 mm",
+      "Trọng lượng": "192 gram",
+      "Chỉ số kháng nước, bụi": "Đạt chuẩn kháng bụi và chống nước cao cấp trong phân khúc phổ thông"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo chuẩn Dolby Atmos, Hi-Res Audio",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình + Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Tiệm cận, Ánh sáng môi trường, La bàn số, Hồng ngoại"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,78 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "AMOLED FHD+ 120Hz, 1,07 tỷ màu, độ sáng đỉnh 1.800 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2436 x 1080 pixel (FHD+, 393 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Helio G100 Ultimate (6nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "4GB / 8GB LPDDR4X (+8GB Extended RAM)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "2 phiên bản: 128GB và 256GB (Hỗ trợ MicroSD 1TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP / 108MP Chính Ultra-Clear (ƒ/1.8, PDAF) + Cảm biến phụ AI"
+    },
+    {
+      "label": "Camera trước",
+      "value": "32MP Selfie kèm đèn flash trợ sáng kép"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "6.000 mAh / 7.750 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh có dây 33W / 45W Super Charge"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "HiOS 16 (Android 16)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "4G LTE"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP64 / IP68 kháng bụi và nước"
+    }
+  ],
+  "verbatimDescription": [
+    "Ra mắt giữa năm 2026, TECNO SPARK 50 Pro là mẫu smartphone nổi bật trong dòng SPARK 50 Series nhờ màn hình 6,78 inch AMOLED FHD+ 120Hz, vi xử lý 6nm MediaTek Helio G100 Ultimate, camera selfie 32MP kèm đèn trợ sáng, cảm biến vân tay dưới màn hình, loa kép Dolby Atmos và viên pin lớn 6.000 mAh. Tại AURIX MOBILE, sản phẩm mang đến trải nghiệm màn hình AMOLED cao cấp ở mức giá dễ tiếp cận.",
+    "TECNO SPARK 50 Pro sở hữu thiết kế hiện đại, mỏng nhẹ với mặt lưng chống bám vân tay cùng khả năng kháng bụi nước bền bỉ.",
+    "Màn hình 6,78 inch AMOLED 10-bit độ phân giải Full HD+ (2436 x 1080 pixel) có tần số quét 120Hz, làm mờ PWM 2160Hz bảo vệ mắt và tích hợp cảm biến vân tay quang học dưới màn hình.",
+    "Cụm camera chính độ phân giải cao kết hợp camera trước 32MP có đèn flash trợ sáng riêng giúp chụp ảnh chân dung và selfie ban đêm luôn rạng rỡ.",
+    "Vi xử lý 6nm MediaTek Helio G100 Ultimate kết hợp RAM lên đến 8GB (+8GB mở rộng) và bộ nhớ 128GB/256GB xử lý mượt mà các tựa game phổ biến và bộ công cụ TECNO AI trên Android 16.",
+    "Viên pin 6.000 mAh đi kèm sạc nhanh Type-C, cổng hồng ngoại IR Blaster, NFC và loa kép Stereo Dolby Atmos hoàn thiện trải nghiệm giải trí toàn diện."
+  ],
+  "priceSegment": "entry-level"
+}

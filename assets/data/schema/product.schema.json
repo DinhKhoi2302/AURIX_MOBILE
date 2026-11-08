@@ -1,0 +1,607 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://aurixmobile.vn/schemas/phone-model.schema.json",
+  "title": "AURIX MOBILE — Phone Model Schema",
+  "description": "Schema chuẩn cho từng model điện thoại trong hệ thống dữ liệu AURIX MOBILE. Không tách model mới theo màu sắc hoặc dung lượng; RAM, ROM, màu, SKU và giá nằm trong mảng variants.",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "product_id",
+    "slug",
+    "brand_id",
+    "brand_name",
+    "parent_group_id",
+    "category_ids",
+    "model_name",
+    "series",
+    "release_year",
+    "listing_status",
+    "in_stock",
+    "distribution_note",
+    "media",
+    "specs",
+    "variants",
+    "price_summary",
+    "provenance"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "1.0.0"
+    },
+    "product_id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "brand_id": {
+      "type": "string",
+      "enum": [
+        "apple",
+        "samsung",
+        "xiaomi",
+        "redmi",
+        "poco",
+        "oppo",
+        "vivo",
+        "realme",
+        "honor",
+        "nothing",
+        "tecno",
+        "nubia",
+        "motorola"
+      ]
+    },
+    "brand_name": {
+      "type": "string"
+    },
+    "parent_group_id": {
+      "type": "string"
+    },
+    "category_ids": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string"
+      }
+    },
+    "model_name": {
+      "type": "string"
+    },
+    "series": {
+      "type": "string"
+    },
+    "release_year": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "listing_status": {
+      "type": "string",
+      "enum": [
+        "active_listing",
+        "preorder",
+        "out_of_stock",
+        "discontinued",
+        "needs_verification"
+      ]
+    },
+    "in_stock": {
+      "type": [
+        "boolean",
+        "null"
+      ],
+      "description": "Không mặc định true. Đặt false cho preorder/out_of_stock/discontinued và null khi cần kiểm tra tồn kho theo chi nhánh."
+    },
+    "distribution_note": {
+      "type": "string"
+    },
+    "media": {
+      "type": "object",
+      "required": [
+        "thumbnail",
+        "gallery",
+        "image_verified"
+      ],
+      "properties": {
+        "thumbnail": {
+          "type": "string"
+        },
+        "gallery": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "image_verified": {
+          "type": "boolean"
+        }
+      }
+    },
+    "specs": {
+      "type": "object",
+      "required": [
+        "verification_level",
+        "display",
+        "performance",
+        "memory_storage",
+        "rear_camera",
+        "front_camera",
+        "battery_charging",
+        "connectivity",
+        "design_durability"
+      ],
+      "properties": {
+        "verification_level": {
+          "type": "string",
+          "enum": [
+            "verified",
+            "partial_retail_listing",
+            "pending_verification"
+          ]
+        },
+        "display": {
+          "type": "object",
+          "required": [
+            "panel_type",
+            "size_inch",
+            "resolution",
+            "refresh_rate_hz",
+            "peak_brightness_nits"
+          ],
+          "properties": {
+            "panel_type": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "size_inch": {
+              "type": [
+                "number",
+                "string",
+                "null"
+              ]
+            },
+            "resolution": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "refresh_rate_hz": {
+              "type": [
+                "integer",
+                "string",
+                "null"
+              ]
+            },
+            "peak_brightness_nits": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            }
+          }
+        },
+        "performance": {
+          "type": "object",
+          "required": [
+            "chipset",
+            "cpu",
+            "gpu",
+            "os"
+          ],
+          "properties": {
+            "chipset": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "cpu": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "gpu": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "os": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          }
+        },
+        "memory_storage": {
+          "type": "object",
+          "required": [
+            "ram_options",
+            "rom_options",
+            "expandable_storage"
+          ],
+          "properties": {
+            "ram_options": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "rom_options": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "expandable_storage": {
+              "type": [
+                "boolean",
+                "null"
+              ]
+            }
+          }
+        },
+        "rear_camera": {
+          "type": "object",
+          "required": [
+            "main_sensor",
+            "secondary_sensors",
+            "video_recording",
+            "features"
+          ],
+          "properties": {
+            "main_sensor": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "secondary_sensors": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "video_recording": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "features": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "front_camera": {
+          "type": "object",
+          "required": [
+            "resolution",
+            "features"
+          ],
+          "properties": {
+            "resolution": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "features": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "battery_charging": {
+          "type": "object",
+          "required": [
+            "capacity_mah",
+            "wired_charging_w",
+            "wireless_charging_w"
+          ],
+          "properties": {
+            "capacity_mah": {
+              "type": [
+                "integer",
+                "string",
+                "null"
+              ]
+            },
+            "wired_charging_w": {
+              "type": [
+                "number",
+                "string",
+                "null"
+              ]
+            },
+            "wireless_charging_w": {
+              "type": [
+                "number",
+                "string",
+                "null"
+              ]
+            }
+          }
+        },
+        "connectivity": {
+          "type": "object",
+          "required": [
+            "network",
+            "sim",
+            "wifi",
+            "bluetooth",
+            "nfc",
+            "usb_port"
+          ],
+          "properties": {
+            "network": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "sim": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "wifi": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "bluetooth": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "nfc": {
+              "type": [
+                "boolean",
+                "null"
+              ]
+            },
+            "usb_port": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          }
+        },
+        "design_durability": {
+          "type": "object",
+          "required": [
+            "frame_material",
+            "back_material",
+            "ip_rating",
+            "dimensions_mm",
+            "weight_g"
+          ],
+          "properties": {
+            "frame_material": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "back_material": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "ip_rating": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "dimensions_mm": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "weight_g": {
+              "type": [
+                "number",
+                "string",
+                "null"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "variants": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "variant_id",
+          "sku",
+          "sku_status",
+          "ram",
+          "rom",
+          "color_name",
+          "color_hex",
+          "price_vnd",
+          "original_price_vnd",
+          "currency",
+          "availability_status",
+          "in_stock",
+          "image"
+        ],
+        "properties": {
+          "variant_id": {
+            "type": "string"
+          },
+          "sku": {
+            "type": "string"
+          },
+          "sku_status": {
+            "type": "string",
+            "enum": [
+              "provisional_retail_sku",
+              "pending_model_code_verification"
+            ]
+          },
+          "ram": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "rom": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "color_name": {
+            "type": "string"
+          },
+          "color_hex": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "price_vnd": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "original_price_vnd": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "currency": {
+            "type": "string",
+            "const": "VND"
+          },
+          "availability_status": {
+            "type": "string",
+            "enum": [
+              "active_listing",
+              "preorder",
+              "out_of_stock",
+              "discontinued",
+              "needs_verification"
+            ]
+          },
+          "in_stock": {
+            "type": [
+              "boolean",
+              "null"
+            ]
+          },
+          "image": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "price_summary": {
+      "type": "object",
+      "required": [
+        "currency",
+        "min_price_vnd",
+        "max_price_vnd",
+        "price_verified",
+        "price_note"
+      ],
+      "properties": {
+        "currency": {
+          "type": "string",
+          "const": "VND"
+        },
+        "min_price_vnd": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "max_price_vnd": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "price_verified": {
+          "type": "boolean"
+        },
+        "price_note": {
+          "type": "string"
+        }
+      }
+    },
+    "provenance": {
+      "type": "object",
+      "required": [
+        "docx_catalog_status",
+        "data_status",
+        "official_brand_url",
+        "retail_reference_urls",
+        "last_verified_at",
+        "checked_at",
+        "verification_notes"
+      ],
+      "properties": {
+        "docx_catalog_status": {
+          "type": "string"
+        },
+        "data_status": {
+          "type": "string",
+          "enum": [
+            "verified_retail_and_specs",
+            "verified_retail_listing",
+            "preorder_announced",
+            "unverified_legacy_candidate"
+          ]
+        },
+        "official_brand_url": {
+          "type": "string"
+        },
+        "retail_reference_urls": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "last_verified_at": {
+          "type": "string"
+        },
+        "checked_at": {
+          "type": "string"
+        },
+        "verification_notes": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": "anker-zolo-30w-usb-c-charger-a2698",
+  "docCode": "PK-CU002-A2698",
+  "model": "Củ Sạc Nhanh Anker Zolo 30W USB-C Charger A2698",
+  "brand": "Anker",
+  "brandId": "anker",
+  "parentGroupId": "anker",
+  "series": "Củ sạc",
+  "subCategory": "cu-sac",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "cu-sac"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Củ sạc",
+    "highlights": [
+      "30W"
+    ],
+    "description": "Thiết kế trẻ trung với tông màu xanh pastel bắt mắt và chân cắm có thể gập gọn bỏ túi dễ dàng. Công suất 30W lý tưởng để sạc nhanh tối đa cho toàn bộ dòng iPhone 15/16 Series cũng như iPad Pro/Air, tích hợp hệ thống an toàn đa lớp bảo vệ chống quá nhiệt và bảo vệ pin hiệu quả."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 280000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/cu-sac/anker-zolo-30w-usb-c-charger-a2698/anh-dai-dien-anker-zolo-30w-usb-c-charger-a2698-xanh-duong.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/cu-sac/anker-zolo-30w-usb-c-charger-a2698/anh-dai-dien-anker-zolo-30w-usb-c-charger-a2698-xanh-duong.webp",
+      "assets/images/products/accessory/cu-sac/anker-zolo-30w-usb-c-charger-a2698/can-canh-cong-type-c-30w-xanh-duong.webp",
+      "assets/images/products/accessory/cu-sac/anker-zolo-30w-usb-c-charger-a2698/chan-cam-gap-gon-xanh-duong.webp"
+    ],
+    "byColor": {
+      "Xanh Dương": [
+        "assets/images/products/accessory/cu-sac/anker-zolo-30w-usb-c-charger-a2698/anh-dai-dien-anker-zolo-30w-usb-c-charger-a2698-xanh-duong.webp",
+        "assets/images/products/accessory/cu-sac/anker-zolo-30w-usb-c-charger-a2698/can-canh-cong-type-c-30w-xanh-duong.webp",
+        "assets/images/products/accessory/cu-sac/anker-zolo-30w-usb-c-charger-a2698/chan-cam-gap-gon-xanh-duong.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/cu-sac/anker-zolo-30w-usb-c-charger-a2698/can-canh-cong-type-c-30w-xanh-duong.webp",
+      "screen": "assets/images/products/accessory/cu-sac/anker-zolo-30w-usb-c-charger-a2698/chan-cam-gap-gon-xanh-duong.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/cu-sac/anker-zolo-30w-usb-c-charger-a2698/can-canh-cong-type-c-30w-xanh-duong.webp",
+      "assets/images/products/accessory/cu-sac/anker-zolo-30w-usb-c-charger-a2698/chan-cam-gap-gon-xanh-duong.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Anker",
+      "Công suất sạc tối đa": "30W",
+      "Số lượng cổng sạc": "1 cổng",
+      "Loại cổng sạc": "USB-C",
+      "Công nghệ sạc": "Power Delivery, PowerIQ 3.0, PPS",
+      "Công nghệ chế tạo": "GaN tiên tiến",
+      "Kiểu chân cắm": "Chân dẹt gập gọn (chuẩn US) tiện lợi",
+      "Màu sắc": "Xanh dương"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Anker"
+    },
+    {
+      "label": "Công suất sạc tối đa",
+      "value": "30W"
+    },
+    {
+      "label": "Số lượng cổng sạc",
+      "value": "1 cổng"
+    },
+    {
+      "label": "Loại cổng sạc",
+      "value": "USB-C"
+    },
+    {
+      "label": "Công nghệ sạc",
+      "value": "Power Delivery, PowerIQ 3.0, PPS"
+    },
+    {
+      "label": "Công nghệ chế tạo",
+      "value": "GaN tiên tiến"
+    },
+    {
+      "label": "Kiểu chân cắm",
+      "value": "Chân dẹt gập gọn (chuẩn US) tiện lợi"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Xanh dương"
+    }
+  ],
+  "verbatimDescription": [
+    "Thiết kế trẻ trung với tông màu xanh pastel bắt mắt và chân cắm có thể gập gọn bỏ túi dễ dàng. Công suất 30W lý tưởng để sạc nhanh tối đa cho toàn bộ dòng iPhone 15/16 Series cũng như iPad Pro/Air, tích hợp hệ thống an toàn đa lớp bảo vệ chống quá nhiệt và bảo vệ pin hiệu quả."
+  ],
+  "variants": [
+    {
+      "sku": "PK-CU002-A2698-XANH-DUONG-TIEU-CHUAN",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 280000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/cu-sac/anker-zolo-30w-usb-c-charger-a2698/anh-dai-dien-anker-zolo-30w-usb-c-charger-a2698-xanh-duong.webp",
+        "assets/images/products/accessory/cu-sac/anker-zolo-30w-usb-c-charger-a2698/can-canh-cong-type-c-30w-xanh-duong.webp",
+        "assets/images/products/accessory/cu-sac/anker-zolo-30w-usb-c-charger-a2698/chan-cam-gap-gon-xanh-duong.webp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+/* TechPhone — Pagination */
+.tp-pagination {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45rem;
+  margin-top: 2rem;
+}
+.tp-page-btn {
+  min-width: 40px;
+  height: 40px;
+  padding: 0 0.75rem;
+  border-radius: var(--tp-radius-sm);
+  border: 1px solid var(--tp-border);
+  background: var(--tp-white);
+  color: var(--tp-navy);
+  font-weight: 700;
+  font-size: 0.88rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+.tp-page-btn:hover:not(:disabled) {
+  border-color: var(--tp-primary);
+  color: var(--tp-primary);
+}
+.tp-page-btn.is-active {
+  background: var(--tp-primary);
+  border-color: var(--tp-primary);
+  color: var(--tp-white);
+  box-shadow: 0 4px 12px rgba(8, 102, 245, 0.25);
+}
+.tp-page-btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}

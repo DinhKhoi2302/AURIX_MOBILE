@@ -1,0 +1,355 @@
+{
+  "id": "xiaomi-18-fold",
+  "model": "Xiaomi 18 Fold",
+  "brand": "Xiaomi",
+  "brandId": "xiaomi",
+  "parentGroupId": "xiaomi",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "foldable",
+    "flagship"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "highlights": [
+      "Màn gập 8,03 inch LTPO",
+      "Chip 3nm Flagship",
+      "4 Camera LeicaTiềm vọng 5x / IPX8"
+    ],
+    "description": "Xiaomi 18 Fold là kiệt tác điện thoại màn hình gập siêu mỏng của Xiaomi, kết hợp độ mỏng chỉ khoảng 5,0 mm khi mở ra với hệ thống 4 camera Leica Summilux (có cả tele nổi 2x/3.2x và tiềm vọng 5x OIS), màn hình kép LTPO 120Hz 3.200 nit, vi xử lý 3nm cùng viên pin kép Silicon-Carbon hỗ trợ sạc không dây 50W và chuẩn kháng nước IPX8. Tại AURIX MOBILE, Xiaomi 18 Fold là biểu tượng đẳng cấp dành cho doanh nhân và giới lãnh đạo. (Nguồn tham chiếu: Xiaomi Global & GSMArena - Xiaomi Fold Series).",
+    "releaseDate": "Tháng 07/2026"
+  },
+  "display": {
+    "technology": "Foldable LTPO AMOLED 1–120Hz, Dolby Vision, 3.200 nit",
+    "size": "Chính 8,03 inch / Ngoài 6,56 inch",
+    "resolution": "Trong 2488 x 2224 / Ngoài 2520 x 1080 pixel",
+    "refreshRate": "1–120Hz LTPO (trên cả 2 màn hình)",
+    "brightness": "Độ sáng đỉnh 3.200 nit; Làm mờ PWM 2160Hz + DC Dimming bảo vệ mắt; Đa nhiệm chia 3–4 cửa sổ linh hoạt trên màn hình lớn",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "ram": [
+      "16GB"
+    ],
+    "storage": [
+      "512GB",
+      "1TB"
+    ],
+    "chipset": "Qualcomm Snapdragon 8 Gen 5 / Elite (tiến trình 3nm TSMC) tối ưu hóa riêng cho thiết bị màn hình gập siêu mỏng",
+    "operatingSystem": "Xiaomi HyperOS 3.0 tối ưu cho màn hình lớn trên nền tảng Android 16",
+    "cpu": "CPU 8 nhân hiệu năng cao xung nhịp lên đến 4,32 GHz",
+    "gpu": "GPU Adreno thế hệ mới hỗ trợ Ray Tracing phần cứng, kết hợp buồng hơi tản nhiệt siêu mỏng diện tích lớn"
+  },
+  "rearCamera": {
+    "main": "4 camera Leica: 50MP Chính OIS + 50MP Tele 3.2x OIS + 50MP Tiềm vọng 5x OIS + 12MP Siêu rộng",
+    "ultraWide": null,
+    "telephoto": null,
+    "ois": true,
+    "videoRecording": [
+      "Quay video 8K ở 24/30fps; Quay 4K ở 24/30/60fps hỗ trợ Dolby Vision HDR 10-bit; Chế độ gập nửa vời Hover Mode quay timelapse và chụp tự sướng bằng camera chính Leica"
+    ],
+    "aiFeatures": [
+      "2 phong cách ảnh Leica Authentic & Vibrant; Leica Master Lens System; Chụp ảnh xem trước đồng thời trên cả màn hình trong và ngoài Dual-Screen Preview"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "2 camera 32MP (màn hình trong & ngoài)",
+    "features": [
+      "Hệ thống 2 camera Selfie 32MP độc lập (1 camera 32MP trên màn hình ngoài + 1 camera 32MP trên màn hình trong); Hỗ trợ HDR, chân dung AI và quay video 1080p@60fps / 4K@30fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "5.100 mAh / 6.000 mAh (Pin kép Silicon-Carbon siêu mỏng)",
+    "wiredCharging": "Sạc nhanh có dây 67W HyperCharge, sạc không dây 50W",
+    "wirelessCharging": "Có hỗ trợ sạc không dây",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc nhanh có dây 67W HyperCharge | Sạc nhanh không dây 50W Wireless HyperCharge"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM vật lý"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 7 (802.11be) ba băng tần, hỗ trợ MLO",
+    "bluetooth": "Bluetooth 5.4 / 6.0 Dual-Bluetooth hỗ trợ aptX Lossless, LDAC, LHDC",
+    "gps": [
+      "Định vị vệ tinh đa băng tần L1+L5: GPS, GLONASS, BeiDou, Galileo"
+    ],
+    "usb": "USB Type-C chuẩn tốc độ cao USB 3.2 Gen 1, hỗ trợ xuất hình DisplayPort",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "Khi mở: 163,8 x 117,8 x 5,0 mm | Khi gập: 10,7 mm (mỏng tương đương điện thoại thanh truyền thống)",
+    "weight": "219 – 226 gram",
+    "materials": [
+      "Khung hợp kim nhôm hàng không kết hợp cơ cấu bản lề thép cường lực 1800MPa và sợi carbon",
+      "Mặt lưng sợi composite siêu bền hoặc kính nhám mờ cao cấp"
+    ],
+    "waterResistance": "IPX8 (Chống nước độ sâu 1,5m trong 30 phút)",
+    "availableColors": [
+      "Trắng",
+      "Xanh Đen",
+      "Đỏ"
+    ]
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 38990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/xiaomi/xiaomi-18-fold/anh-dai-dien-xiaomi-18-fold-trang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/xiaomi/xiaomi-18-fold/anh-dai-dien-xiaomi-18-fold-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-18-fold/anh-dai-dien-xiaomi-18-fold-do.webp",
+      "assets/images/products/xiaomi/xiaomi-18-fold/anh-dai-dien-xiaomi-18-fold-xanh-den.webp"
+    ],
+    "byColor": {
+      "Đỏ": [
+        "assets/images/products/xiaomi/xiaomi-18-fold/anh-dai-dien-xiaomi-18-fold-do.webp"
+      ],
+      "Trắng": [
+        "assets/images/products/xiaomi/xiaomi-18-fold/anh-dai-dien-xiaomi-18-fold-trang.webp"
+      ],
+      "Xanh Đen": [
+        "assets/images/products/xiaomi/xiaomi-18-fold/anh-dai-dien-xiaomi-18-fold-xanh-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/xiaomi/xiaomi-18-fold/anh-dai-dien-xiaomi-18-fold-do.webp",
+      "screen": "assets/images/products/xiaomi/xiaomi-18-fold/anh-dai-dien-xiaomi-18-fold-xanh-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/xiaomi/xiaomi-18-fold/anh-dai-dien-xiaomi-18-fold-do.webp",
+      "assets/images/products/xiaomi/xiaomi-18-fold/anh-dai-dien-xiaomi-18-fold-xanh-den.webp"
+    ]
+  },
+  "variants": [
+    {
+      "sku": "DT009-MI18FOLD-TRANG-16GB-512GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 38990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-18-fold/anh-dai-dien-xiaomi-18-fold-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT009-MI18FOLD-TRANG-16GB-1TB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 43990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-18-fold/anh-dai-dien-xiaomi-18-fold-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT009-MI18FOLD-XANH-DEN-16GB-512GB",
+      "color": "Xanh Đen",
+      "colorHex": "#1E293B",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 38990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-18-fold/anh-dai-dien-xiaomi-18-fold-xanh-den.webp"
+      ]
+    },
+    {
+      "sku": "DT009-MI18FOLD-XANH-DEN-16GB-1TB",
+      "color": "Xanh Đen",
+      "colorHex": "#1E293B",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 43990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-18-fold/anh-dai-dien-xiaomi-18-fold-xanh-den.webp"
+      ]
+    },
+    {
+      "sku": "DT009-MI18FOLD-DO-16GB-512GB",
+      "color": "Đỏ",
+      "colorHex": "#DC2626",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 38990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-18-fold/anh-dai-dien-xiaomi-18-fold-do.webp"
+      ]
+    },
+    {
+      "sku": "DT009-MI18FOLD-DO-16GB-1TB",
+      "color": "Đỏ",
+      "colorHex": "#DC2626",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 43990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-18-fold/anh-dai-dien-xiaomi-18-fold-do.webp"
+      ]
+    }
+  ],
+  "docCode": "DT009-MI18FOLD",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "Màn hình chính Pol-less Plus LTPO OLED (68 tỷ màu) + Màn hình ngoài LTPO AMOLED C8+, hỗ trợ Dolby Vision và HDR10+ trên cả 2 màn hình",
+      "Kích thước màn hình": "Màn hình trong 8,03 inch (hoặc 7,58 inch theo biến thể) / Màn hình ngoài 6,56 inch",
+      "Độ phân giải màn hình": "Màn hình trong: 2488 x 2224 pixel (418 ppi) | Màn hình ngoài: 2520 x 1080 pixel (418 ppi)",
+      "Tần số quét": "Tần số quét thích ứng LTPO 1Hz – 120Hz đồng bộ trên cả màn hình trong và ngoài",
+      "Kiểu màn hình": "Màn hình gập cánh bướm siêu mỏng sử dụng kính siêu mỏng UTG (trong) và Xiaomi Shield Glass (ngoài)",
+      "Tính năng màn hình": "Độ sáng đỉnh 3.200 nit; Làm mờ PWM 2160Hz + DC Dimming bảo vệ mắt; Đa nhiệm chia 3–4 cửa sổ linh hoạt trên màn hình lớn"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 4 camera Leica Summilux siêu mỏng dành cho điện thoại gập: (1) Camera chính 50MP Leica: cảm biến Light Fusion 800 (1/1.55\"), khẩu độ ƒ/1.7, tiêu cự 23mm, chống rung quang học OIS; (2) Camera Telephoto nổi 50MP Leica: khẩu độ ƒ/2.0, tiêu cự 47–75mm (zoom quang 2x/3.2x), chống rung OIS, hỗ trợ chụp chân dung và cận cảnh Tele Macro từ 9cm; (3) Camera Periscope Telephoto 50MP Leica 115mm: khẩu độ ƒ/2.9, tiêu cự 115mm (zoom quang 5x, zoom số 60x), chống rung OIS; (4) Camera Góc siêu rộng 12MP Leica: khẩu độ ƒ/2.2, tiêu cự 15mm (góc nhìn 120°)",
+      "Quay video": "Quay video 8K ở 24/30fps; Quay 4K ở 24/30/60fps hỗ trợ Dolby Vision HDR 10-bit; Chế độ gập nửa vời Hover Mode quay timelapse và chụp tự sướng bằng camera chính Leica",
+      "Tính năng camera": "2 phong cách ảnh Leica Authentic & Vibrant; Leica Master Lens System; Chụp ảnh xem trước đồng thời trên cả màn hình trong và ngoài Dual-Screen Preview"
+    },
+    "Camera trước": {
+      "Camera trước": "Hệ thống 2 camera Selfie 32MP độc lập (1 camera 32MP trên màn hình ngoài + 1 camera 32MP trên màn hình trong); Hỗ trợ HDR, chân dung AI và quay video 1080p@60fps / 4K@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 8 Gen 5 / Elite (tiến trình 3nm TSMC) tối ưu hóa riêng cho thiết bị màn hình gập siêu mỏng",
+      "Loại CPU": "CPU 8 nhân hiệu năng cao xung nhịp lên đến 4,32 GHz",
+      "GPU": "GPU Adreno thế hệ mới hỗ trợ Ray Tracing phần cứng, kết hợp buồng hơi tản nhiệt siêu mỏng diện tích lớn"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "16GB LPDDR5X tốc độ cao",
+      "Bộ nhớ trong": "2 phiên bản: 512GB và 1TB chuẩn UFS 4.1"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.100 mAh / 6.000 mAh (Pin kép Xiaomi Surge Silicon-Carbon thiết kế lập thể 3D siêu mỏng)",
+      "Công nghệ sạc": "Sạc nhanh có dây 67W HyperCharge | Sạc nhanh không dây 50W Wireless HyperCharge",
+      "Cổng sạc": "USB Type-C chuẩn tốc độ cao USB 3.2 Gen 1, hỗ trợ xuất hình DisplayPort"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS 3.0 tối ưu cho màn hình lớn trên nền tảng Android 16",
+      "Công nghệ - Tiện ích": "Hệ sinh thái Xiaomi HyperAI (AI Interpreter dịch thuật song ngữ đối diện trên 2 màn hình, AI Notes, AI Subtitles), chế độ máy trạm đa cửa sổ",
+      "Tiện ích khác": "Bản lề sợi carbon T800H siêu bền chịu được 500.000 lần gập mở, cổng hồng ngoại IR Blaster",
+      "Thời điểm ra mắt": "Tháng 07 – 09/2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G đa băng tần (SA/NSA Sub-6GHz) kèm 4 chip tăng cường sóng Xiaomi Surge T1",
+      "Thẻ SIM": "2 Nano-SIM vật lý",
+      "Wi-Fi": "Wi-Fi 7 (802.11be) ba băng tần, hỗ trợ MLO",
+      "Bluetooth": "Bluetooth 5.4 / 6.0 Dual-Bluetooth hỗ trợ aptX Lossless, LDAC, LHDC",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa năng",
+      "GPS": "Định vị vệ tinh đa băng tần L1+L5: GPS, GLONASS, BeiDou, Galileo"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung hợp kim nhôm hàng không kết hợp cơ cấu bản lề thép cường lực 1800MPa và sợi carbon",
+      "Chất liệu mặt lưng": "Mặt lưng sợi composite siêu bền hoặc kính nhám mờ cao cấp",
+      "Kích thước": "Khi mở: 163,8 x 117,8 x 5,0 mm | Khi gập: 10,7 mm (mỏng tương đương điện thoại thanh truyền thống)",
+      "Trọng lượng": "219 – 226 gram",
+      "Chỉ số kháng nước, bụi": "Đạt chuẩn kháng nước IPX8 (ngâm nước độ sâu 1,5 mét trong 30 phút)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo đối xứng chuẩn Dolby Atmos, Hi-Res Audio & Hi-Res Wireless",
+      "Cảm biến vân tay": "Cảm biến vân tay tích hợp trên phím nguồn cạnh bên siêu mỏng + Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Laser AF, Áp kế, Gia tốc kế, Con quay hồi chuyển kép, Cảm biến Hall, Tiệm cận, Ánh sáng 360°, La bàn số, Hồng ngoại"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "Chính 8,03 inch / Ngoài 6,56 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "Foldable LTPO AMOLED 1–120Hz, Dolby Vision, 3.200 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "Trong 2488 x 2224 / Ngoài 2520 x 1080 pixel"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "1–120Hz LTPO (trên cả 2 màn hình)"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 8 Gen 5 / Xiaomi XRing O3 (3nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "16GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "2 phiên bản: 512GB và 1TB chuẩn UFS 4.1"
+    },
+    {
+      "label": "Camera sau",
+      "value": "4 camera Leica: 50MP Chính OIS + 50MP Tele 3.2x OIS + 50MP Tiềm vọng 5x OIS + 12MP Siêu rộng"
+    },
+    {
+      "label": "Camera trước",
+      "value": "2 camera 32MP (màn hình trong & ngoài)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.100 mAh / 6.000 mAh (Pin kép Silicon-Carbon siêu mỏng)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh có dây 67W HyperCharge, sạc không dây 50W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS 3.0 (Android 16)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IPX8 (Chống nước độ sâu 1,5m trong 30 phút)"
+    }
+  ],
+  "verbatimDescription": [
+    "Xiaomi 18 Fold là kiệt tác điện thoại màn hình gập siêu mỏng của Xiaomi, kết hợp độ mỏng chỉ khoảng 5,0 mm khi mở ra với hệ thống 4 camera Leica Summilux (có cả tele nổi 2x/3.2x và tiềm vọng 5x OIS), màn hình kép LTPO 120Hz 3.200 nit, vi xử lý 3nm cùng viên pin kép Silicon-Carbon hỗ trợ sạc không dây 50W và chuẩn kháng nước IPX8. Tại AURIX MOBILE, Xiaomi 18 Fold là biểu tượng đẳng cấp dành cho doanh nhân và giới lãnh đạo.",
+    "Nhờ kiến trúc bản lề sợi carbon T800H kết hợp thép siêu bền 1800MPa, Xiaomi 18 Fold đạt độ mỏng ấn tượng chỉ khoảng 5,0 mm khi mở ra và trọng lượng ~219–226 gram — nhẹ ngang một chiếc smartphone dạng thanh thông thường. Máy đạt chứng nhận độ bền 500.000 lần gập mở từ TÜV Rheinland cùng chuẩn kháng nước IPX8.",
+    "Cả màn hình chính bên trong (8,03 inch) và màn hình phụ bên ngoài (6,56 inch) đều sử dụng tấm nền LTPO OLED cao cấp với tần số quét thích ứng 1–120Hz, độ sáng đỉnh 3.200 nit và hỗ trợ Dolby Vision, HDR10+, mang lại trải nghiệm đồng nhất tuyệt hảo dù đóng hay mở máy.",
+    "Khác với phần lớn điện thoại gập thường cắt giảm camera, Xiaomi 18 Fold sở hữu hệ thống 4 camera Leica Summilux đầy đủ: camera chính 50MP Light Fusion 800 OIS, camera tele nổi 50MP OIS hỗ trợ chụp Tele Macro 9cm, camera tiềm vọng 50MP zoom quang 5x OIS và camera góc siêu rộng 12MP. Người dùng có thể tận dụng màn hình ngoài để selfie bằng cụm camera chính Leica sắc nét.",
+    "Cung cấp sức mạnh cho máy là vi xử lý 3nm đầu bảng đi kèm 16GB RAM LPDDR5X và bộ nhớ trong 512GB/1TB UFS 4.1. Hệ điều hành Xiaomi HyperOS 3.0 tối ưu hóa đa nhiệm chia 4 cửa sổ và tính năng dịch thuật song ngữ đối diện trên 2 màn hình vô cùng hữu ích khi giao tiếp quốc tế.",
+    "Viên pin kép Silicon-Carbon thiết kế lập thể 3D hỗ trợ sạc nhanh có dây 67W HyperCharge và sạc nhanh không dây 50W, đảm bảo năng lượng bền bỉ suốt ngày làm việc bận rộn."
+  ],
+  "series": "Xiaomi 18 Series",
+  "priceSegment": "flagship"
+}

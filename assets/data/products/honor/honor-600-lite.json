@@ -1,0 +1,510 @@
+{
+  "id": "honor-600-lite",
+  "brand": "HONOR",
+  "brandId": "honor",
+  "parentGroupId": "honor",
+  "model": "HONOR 600 Lite",
+  "series": "HONOR Number Series (600 / 400)",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "midrange"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Giảm giá",
+      "type": "sale"
+    }
+  ],
+  "overview": {
+    "releaseDate": "Năm 2026",
+    "segment": "Cận cao cấp",
+    "description": "HONOR 600 Lite được hãng điện thoại HONOR trình làng vào tháng 3/2026, là phiên bản rút gọn thông minh thuộc dòng sản phẩm Number Series cao cấp nhưng vẫn được trang bị những tính năng phần cứng hàng đầu. Máy hướng trực tiếp đến đối tượng người dùng trẻ tuổi, học sinh sinh viên và nhân viên văn phòng đang tìm kiếm một thiết bị di động có ngoại hình thanh lịch, mỏng nhẹ, pin trâu và camera chụp ảnh ấn tượng trong tầm giá dễ tiếp cận. Tại thị trường Việt Nam, HONOR 600 Lite tạo ấn tượng mạnh mẽ nhờ sự kết hợp đột phá giữa tấm nền AMOLED 1.5K độ sáng đỉnh 6500 nits, viên pin dung lượng lớn 6520 mAh gói gọn trong thân máy mỏng chỉ 7.34mm, cùng phím chụp ảnh Camera AI chuyên dụng mang lại trải nghiệm tiện lợi tựa như trên các máy ảnh du lịch chuyên nghiệp.",
+    "highlights": [
+      "6,6 inch",
+      "MediaTek Dimensity 7100 Elite",
+      "Pin 6.520 mAh"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 8990000,
+    "originalPrice": 10990000,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT003-HN600LITE-VANG-KIM-8GB-256GB",
+      "color": "Vàng Kim",
+      "colorHex": "#E5C687",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 8990000,
+      "originalPrice": 10990000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-600-lite/anh-dai-dien-mat-truoc-sau-vang-kim.webp",
+        "assets/images/products/honor/honor-600-lite/mat-truoc-sau-vang-kim.webp",
+        "assets/images/products/honor/honor-600-lite/mat-sau-nghieng-phai-vang-kim.webp",
+        "assets/images/products/honor/honor-600-lite/mat-sau-nghieng-trai-vang-kim.webp",
+        "assets/images/products/honor/honor-600-lite/canh-ben-phai-nut-bam-vang-kim.webp",
+        "assets/images/products/honor/honor-600-lite/canh-ben-trai-vang-kim.webp",
+        "assets/images/products/honor/honor-600-lite/mat-truoc-nghieng-phai-vang-kim.webp",
+        "assets/images/products/honor/honor-600-lite/mat-truoc-nghieng-trai-vang-kim.webp"
+      ]
+    },
+    {
+      "sku": "DT003-HN600LITE-VANG-KIM-12GB-256GB",
+      "color": "Vàng Kim",
+      "colorHex": "#E5C687",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 10490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-600-lite/anh-dai-dien-mat-truoc-sau-vang-kim.webp",
+        "assets/images/products/honor/honor-600-lite/mat-truoc-sau-vang-kim.webp",
+        "assets/images/products/honor/honor-600-lite/mat-sau-nghieng-phai-vang-kim.webp",
+        "assets/images/products/honor/honor-600-lite/mat-sau-nghieng-trai-vang-kim.webp",
+        "assets/images/products/honor/honor-600-lite/canh-ben-phai-nut-bam-vang-kim.webp",
+        "assets/images/products/honor/honor-600-lite/canh-ben-trai-vang-kim.webp",
+        "assets/images/products/honor/honor-600-lite/mat-truoc-nghieng-phai-vang-kim.webp",
+        "assets/images/products/honor/honor-600-lite/mat-truoc-nghieng-trai-vang-kim.webp"
+      ]
+    },
+    {
+      "sku": "DT003-HN600LITE-DEN-8GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 8990000,
+      "originalPrice": 10990000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-600-lite/mat-truoc-sau-den.webp",
+        "assets/images/products/honor/honor-600-lite/mat-truoc-dat-tren-ban-den.webp",
+        "assets/images/products/honor/honor-600-lite/mat-sau-dat-tren-ban-den.webp",
+        "assets/images/products/honor/honor-600-lite/can-canh-canh-duoi-cong-sac-den.webp",
+        "assets/images/products/honor/honor-600-lite/can-canh-nut-bam-canh-ben-den.webp",
+        "assets/images/products/honor/honor-600-lite/canh-ben-trai-phai-den.webp",
+        "assets/images/products/honor/honor-600-lite/canh-tren-duoi-den.webp",
+        "assets/images/products/honor/honor-600-lite/can-canh-cum-camera-sau-den.webp",
+        "assets/images/products/honor/honor-600-lite/cam-hai-tay-chup-anh-den.webp",
+        "assets/images/products/honor/honor-600-lite/cam-tren-tay-man-hinh-den.webp",
+        "assets/images/products/honor/honor-600-lite/mo-khoa-van-tay-man-hinh-den.webp"
+      ]
+    },
+    {
+      "sku": "DT003-HN600LITE-DEN-12GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 10490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-600-lite/mat-truoc-sau-den.webp",
+        "assets/images/products/honor/honor-600-lite/mat-truoc-dat-tren-ban-den.webp",
+        "assets/images/products/honor/honor-600-lite/mat-sau-dat-tren-ban-den.webp",
+        "assets/images/products/honor/honor-600-lite/can-canh-canh-duoi-cong-sac-den.webp",
+        "assets/images/products/honor/honor-600-lite/can-canh-nut-bam-canh-ben-den.webp",
+        "assets/images/products/honor/honor-600-lite/canh-ben-trai-phai-den.webp",
+        "assets/images/products/honor/honor-600-lite/canh-tren-duoi-den.webp",
+        "assets/images/products/honor/honor-600-lite/can-canh-cum-camera-sau-den.webp",
+        "assets/images/products/honor/honor-600-lite/cam-hai-tay-chup-anh-den.webp",
+        "assets/images/products/honor/honor-600-lite/cam-tren-tay-man-hinh-den.webp",
+        "assets/images/products/honor/honor-600-lite/mo-khoa-van-tay-man-hinh-den.webp"
+      ]
+    },
+    {
+      "sku": "DT003-HN600LITE-XANH-LA-8GB-256GB",
+      "color": "Xanh Lá",
+      "colorHex": "#228B57",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 8990000,
+      "originalPrice": 10990000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-600-lite/mat-truoc-sau-xanh-la.webp",
+        "assets/images/products/honor/honor-600-lite/mat-sau-nghieng-phai-xanh-la.webp",
+        "assets/images/products/honor/honor-600-lite/mat-sau-nghieng-trai-xanh-la.webp",
+        "assets/images/products/honor/honor-600-lite/mat-truoc-nghieng-phai-xanh-la.webp",
+        "assets/images/products/honor/honor-600-lite/mat-truoc-nghieng-trai-xanh-la.webp"
+      ]
+    },
+    {
+      "sku": "DT003-HN600LITE-XANH-LA-12GB-256GB",
+      "color": "Xanh Lá",
+      "colorHex": "#228B57",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 10490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-600-lite/mat-truoc-sau-xanh-la.webp",
+        "assets/images/products/honor/honor-600-lite/mat-sau-nghieng-phai-xanh-la.webp",
+        "assets/images/products/honor/honor-600-lite/mat-sau-nghieng-trai-xanh-la.webp",
+        "assets/images/products/honor/honor-600-lite/mat-truoc-nghieng-phai-xanh-la.webp",
+        "assets/images/products/honor/honor-600-lite/mat-truoc-nghieng-trai-xanh-la.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "AMOLED 1,5K, PWM 3840Hz, 6.500 nit",
+    "size": "6,6 inch",
+    "resolution": "2700 x 1224 pixel (1.5K)",
+    "refreshRate": "120Hz",
+    "brightness": "Độ sáng: 800 nits (tiêu chuẩn) / 2000 nits (HBM) / 6500 nits (đỉnh APL ngoài trời); Làm mờ PWM tần số siêu cao 3840Hz khử nhấp nháy, chứng nhận bảo vệ mắt TÜV Rheinland, kính Aluminosilicate chống trầy; Cảm ứng khi tay ướt, Chế độ đọc sách e-ink bảo vệ mắt, Điều chỉnh độ sáng tự động theo nhịp sinh học",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "MediaTek Dimensity 7100 Elite (tiến trình 6nm tối ưu năng lượng)",
+    "cpu": "CPU 8 nhân: 4 nhân Cortex-A78 xung nhịp 2.4 GHz + 4 nhân Cortex-A55 xung nhịp 2.0 GHz",
+    "gpu": "ARM Mali-G610 MC2 xử lý mượt mà các tác vụ đồ họa và game phổ thông | Tản nhiệt: Tản nhiệt tấm than chì đa tầng diện tích lớn giúp tản nhiệt nhanh chóng",
+    "ram": [
+      "8GB",
+      "12GB"
+    ],
+    "storage": [
+      "256GB"
+    ],
+    "operatingSystem": "MagicOS 10 phát triển trên nền tảng Android 16 chính thức",
+    "uiVersion": "MagicOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "108MP Chính (ƒ/1.75) + 5MP Góc siêu rộng, Nút AI Camera",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "Quay video 1080p ở tốc độ 30fps (1080 x 2520 pixels) với chống rung điện tử gyro-EIS"
+    ],
+    "aiFeatures": [
+      "Các chế độ chụp ảnh: Chụp đêm AI Ultra-Night, Chân dung xóa phông nghệ thuật, Chụp tài liệu thông minh, Chụp HDR tự động, Chế độ Pro chuyên nghiệp | Khả năng zoom: Zoom cảm biến in-sensor 3x lossless từ camera 108MP; zoom kỹ thuật số tối đa 10x | Nút phần cứng đặc biệt: Nút chụp ảnh Camera AI vật lý chuyên dụng ở cạnh máy (chạm mở nhanh camera và chụp tức thì)"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "16MP Selfie kèm đèn trợ sáng",
+    "features": [
+      "16 MP, khẩu độ f/2.45, cảm biến góc rộng; Lấy nét: Lấy nét cố định góc rộng thông minh; Tính năng: Chân dung làm đẹp AI tự nhiên, Chụp đêm selfie, Tự động kích hoạt HDR ngược sáng; Quay video: Quay video 1080p ở tốc độ 30fps (1920 x 1080 pixels)"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "6.520 mAh (Silicon-Carbon)",
+    "wiredCharging": "Sạc nhanh 45W HONOR SuperCharge",
+    "wirelessCharging": "Có hỗ trợ sạc không dây",
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": "Hỗ trợ sạc nhanh có dây HONOR SuperCharge 45W | Sạc không dây: Không hỗ trợ | Sạc ngược: Hỗ trợ sạc ngược có dây OTG công suất 6W tiện lợi"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM vật lý hoặc 1 Nano-SIM + 1 eSIM tích hợp linh hoạt (tùy mã máy)"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 5 (802.11 a/b/g/n/ac, 2.4GHz & 5GHz, Wi-Fi Direct, Hotspot)",
+    "bluetooth": "Bluetooth 6.0 tân tiến (hỗ trợ BLE, SBC, AAC, LDAC, aptX HD, LHDC 5.0)",
+    "gps": [
+      "GPS, AGPS, GLONASS, BeiDou, Galileo"
+    ],
+    "usb": "USB Type-C chuẩn USB 2.0, hỗ trợ OTG truyền tải dữ liệu",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "157.43 x 75.35 x 7.34 mm (thiết kế siêu mỏng nhẹ thanh lịch)",
+    "weight": "Khoảng 180 gram (rất nhẹ nhàng, cầm nắm thoải mái bằng một tay)",
+    "materials": [
+      "Khung nhôm nguyên khối rèn kim loại bền bỉ kết hợp mặt lưng kính mờ",
+      "Khung nhôm nguyên khối rèn kim loại bền bỉ kết hợp mặt lưng kính mờ"
+    ],
+    "waterResistance": "IP66 & Khung nhôm rèn siêu bền",
+    "availableColors": [
+      "Vàng Kim",
+      "Đen",
+      "Xanh Lá"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo hỗ trợ chế độ khuếch đại âm lượng siêu lớn 300%; Hiệu ứng âm thanh HONOR Sound sống động; Jack 3.5mm: Không có cổng 3.5mm (sử dụng cổng Type-C hoặc tai nghe không dây)",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "AMOLED 6.6 inch"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền HONOR tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/honor/honor-600-lite/anh-dai-dien-mat-truoc-sau-vang-kim.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/honor/honor-600-lite/anh-dai-dien-mat-truoc-sau-vang-kim.webp",
+      "assets/images/products/honor/honor-600-lite/mat-truoc-sau-den.webp",
+      "assets/images/products/honor/honor-600-lite/mat-truoc-sau-vang-kim.webp",
+      "assets/images/products/honor/honor-600-lite/mat-truoc-sau-xanh-la.webp",
+      "assets/images/products/honor/honor-600-lite/mat-truoc-dat-tren-ban-den.webp",
+      "assets/images/products/honor/honor-600-lite/mat-sau-dat-tren-ban-den.webp",
+      "assets/images/products/honor/honor-600-lite/mat-sau-nghieng-phai-vang-kim.webp",
+      "assets/images/products/honor/honor-600-lite/mat-sau-nghieng-phai-xanh-la.webp",
+      "assets/images/products/honor/honor-600-lite/mat-sau-nghieng-trai-vang-kim.webp",
+      "assets/images/products/honor/honor-600-lite/mat-sau-nghieng-trai-xanh-la.webp",
+      "assets/images/products/honor/honor-600-lite/can-canh-canh-duoi-cong-sac-den.webp",
+      "assets/images/products/honor/honor-600-lite/can-canh-nut-bam-canh-ben-den.webp",
+      "assets/images/products/honor/honor-600-lite/canh-ben-phai-nut-bam-vang-kim.webp",
+      "assets/images/products/honor/honor-600-lite/canh-ben-trai-phai-den.webp",
+      "assets/images/products/honor/honor-600-lite/canh-ben-trai-vang-kim.webp",
+      "assets/images/products/honor/honor-600-lite/canh-tren-duoi-den.webp",
+      "assets/images/products/honor/honor-600-lite/mat-truoc-nghieng-phai-vang-kim.webp",
+      "assets/images/products/honor/honor-600-lite/mat-truoc-nghieng-phai-xanh-la.webp",
+      "assets/images/products/honor/honor-600-lite/mat-truoc-nghieng-trai-vang-kim.webp",
+      "assets/images/products/honor/honor-600-lite/mat-truoc-nghieng-trai-xanh-la.webp",
+      "assets/images/products/honor/honor-600-lite/can-canh-cum-camera-sau-den.webp",
+      "assets/images/products/honor/honor-600-lite/cam-hai-tay-chup-anh-den.webp",
+      "assets/images/products/honor/honor-600-lite/cam-tren-tay-man-hinh-den.webp",
+      "assets/images/products/honor/honor-600-lite/mo-khoa-van-tay-man-hinh-den.webp"
+    ],
+    "byColor": {
+      "Vàng Kim": [
+        "assets/images/products/honor/honor-600-lite/anh-dai-dien-mat-truoc-sau-vang-kim.webp",
+        "assets/images/products/honor/honor-600-lite/mat-truoc-sau-vang-kim.webp",
+        "assets/images/products/honor/honor-600-lite/mat-sau-nghieng-phai-vang-kim.webp",
+        "assets/images/products/honor/honor-600-lite/mat-sau-nghieng-trai-vang-kim.webp",
+        "assets/images/products/honor/honor-600-lite/canh-ben-phai-nut-bam-vang-kim.webp",
+        "assets/images/products/honor/honor-600-lite/canh-ben-trai-vang-kim.webp",
+        "assets/images/products/honor/honor-600-lite/mat-truoc-nghieng-phai-vang-kim.webp",
+        "assets/images/products/honor/honor-600-lite/mat-truoc-nghieng-trai-vang-kim.webp"
+      ],
+      "Đen": [
+        "assets/images/products/honor/honor-600-lite/mat-truoc-sau-den.webp",
+        "assets/images/products/honor/honor-600-lite/mat-truoc-dat-tren-ban-den.webp",
+        "assets/images/products/honor/honor-600-lite/mat-sau-dat-tren-ban-den.webp",
+        "assets/images/products/honor/honor-600-lite/can-canh-canh-duoi-cong-sac-den.webp",
+        "assets/images/products/honor/honor-600-lite/can-canh-nut-bam-canh-ben-den.webp",
+        "assets/images/products/honor/honor-600-lite/canh-ben-trai-phai-den.webp",
+        "assets/images/products/honor/honor-600-lite/canh-tren-duoi-den.webp",
+        "assets/images/products/honor/honor-600-lite/can-canh-cum-camera-sau-den.webp",
+        "assets/images/products/honor/honor-600-lite/cam-hai-tay-chup-anh-den.webp",
+        "assets/images/products/honor/honor-600-lite/cam-tren-tay-man-hinh-den.webp",
+        "assets/images/products/honor/honor-600-lite/mo-khoa-van-tay-man-hinh-den.webp"
+      ],
+      "Xanh Lá": [
+        "assets/images/products/honor/honor-600-lite/mat-truoc-sau-xanh-la.webp",
+        "assets/images/products/honor/honor-600-lite/mat-sau-nghieng-phai-xanh-la.webp",
+        "assets/images/products/honor/honor-600-lite/mat-sau-nghieng-trai-xanh-la.webp",
+        "assets/images/products/honor/honor-600-lite/mat-truoc-nghieng-phai-xanh-la.webp",
+        "assets/images/products/honor/honor-600-lite/mat-truoc-nghieng-trai-xanh-la.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/honor/honor-600-lite/mat-truoc-sau-den.webp",
+      "screen": "assets/images/products/honor/honor-600-lite/mat-truoc-sau-vang-kim.webp",
+      "performance": "assets/images/products/honor/honor-600-lite/mat-truoc-nghieng-phai-vang-kim.webp",
+      "camera": "assets/images/products/honor/honor-600-lite/can-canh-cum-camera-sau-den.webp",
+      "battery": "assets/images/products/honor/honor-600-lite/can-canh-canh-duoi-cong-sac-den.webp",
+      "feature": "assets/images/products/honor/honor-600-lite/mat-sau-nghieng-phai-vang-kim.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/honor/honor-600-lite/mat-truoc-sau-den.webp",
+      "assets/images/products/honor/honor-600-lite/mat-truoc-sau-vang-kim.webp",
+      "assets/images/products/honor/honor-600-lite/mat-truoc-sau-xanh-la.webp",
+      "assets/images/products/honor/honor-600-lite/mat-truoc-dat-tren-ban-den.webp",
+      "assets/images/products/honor/honor-600-lite/mat-sau-dat-tren-ban-den.webp",
+      "assets/images/products/honor/honor-600-lite/mat-sau-nghieng-phai-vang-kim.webp",
+      "assets/images/products/honor/honor-600-lite/mat-sau-nghieng-phai-xanh-la.webp",
+      "assets/images/products/honor/honor-600-lite/mat-sau-nghieng-trai-vang-kim.webp",
+      "assets/images/products/honor/honor-600-lite/mat-sau-nghieng-trai-xanh-la.webp",
+      "assets/images/products/honor/honor-600-lite/can-canh-canh-duoi-cong-sac-den.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-honor",
+      "https://www.honor.com/vn/phones/",
+      "https://www.honor.com/vn/phones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "partial_retail_listing",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT003-HN600LITE",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "AMOLED 1.07 tỷ màu (10-bit), 100% gam màu DCI-P3",
+      "Kích thước màn hình": "6.6 inch theo đường chéo (tỷ lệ màn hình so với thân máy đạt 93.5%)",
+      "Độ phân giải màn hình": "1.5K (1200 x 2600 pixels, tỷ lệ 19.5:9) (434 ppi)",
+      "Tần số quét": "120Hz mượt mà thích ứng",
+      "Kiểu màn hình": "Đục lỗ dạng viên thuốc (Pill-shaped notch) tích hợp Magic Capsule",
+      "Tính năng màn hình": "Độ sáng: 800 nits (tiêu chuẩn) / 2000 nits (HBM) / 6500 nits (đỉnh APL ngoài trời); Làm mờ PWM tần số siêu cao 3840Hz khử nhấp nháy, chứng nhận bảo vệ mắt TÜV Rheinland, kính Aluminosilicate chống trầy; Cảm ứng khi tay ướt, Chế độ đọc sách e-ink bảo vệ mắt, Điều chỉnh độ sáng tự động theo nhịp sinh học"
+    },
+    "Camera sau": {
+      "Camera sau": "Số lượng camera: Cụm camera kép AI Ultra-Clear bố trí module bo tròn hiện đại | Camera Chính (Wide): 108 MP, khẩu độ f/1.75, cảm biến 1/1.67\", lấy nét theo pha PDAF, kích thước điểm ảnh gộp 9-in-1 đạt 1.92µm | Camera Góc Siêu Rộng & Chiều Sâu: 5 MP, khẩu độ f/2.2, góc nhìn siêu rộng 110° hỗ trợ chụp phong cảnh và xóa phông",
+      "Quay video": "Quay video 1080p ở tốc độ 30fps (1080 x 2520 pixels) với chống rung điện tử gyro-EIS",
+      "Tính năng camera": "Các chế độ chụp ảnh: Chụp đêm AI Ultra-Night, Chân dung xóa phông nghệ thuật, Chụp tài liệu thông minh, Chụp HDR tự động, Chế độ Pro chuyên nghiệp | Khả năng zoom: Zoom cảm biến in-sensor 3x lossless từ camera 108MP; zoom kỹ thuật số tối đa 10x | Nút phần cứng đặc biệt: Nút chụp ảnh Camera AI vật lý chuyên dụng ở cạnh máy (chạm mở nhanh camera và chụp tức thì)"
+    },
+    "Camera trước": {
+      "Camera trước": "16 MP, khẩu độ f/2.45, cảm biến góc rộng; Lấy nét: Lấy nét cố định góc rộng thông minh; Tính năng: Chân dung làm đẹp AI tự nhiên, Chụp đêm selfie, Tự động kích hoạt HDR ngược sáng; Quay video: Quay video 1080p ở tốc độ 30fps (1920 x 1080 pixels)"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Dimensity 7100 Elite (tiến trình 6nm tối ưu năng lượng)",
+      "Loại CPU": "CPU 8 nhân: 4 nhân Cortex-A78 xung nhịp 2.4 GHz + 4 nhân Cortex-A55 xung nhịp 2.0 GHz",
+      "GPU": "ARM Mali-G610 MC2 xử lý mượt mà các tác vụ đồ họa và game phổ thông | Tản nhiệt: Tản nhiệt tấm than chì đa tầng diện tích lớn giúp tản nhiệt nhanh chóng"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB RAM vật lý chuẩn LPDDR4X (HONOR RAM Turbo mở rộng thêm 8GB RAM ảo (tổng cộng 16GB đa nhiệm))",
+      "Bộ nhớ trong": "256GB tốc độ cao chuẩn UFS 2.2 (Không hỗ trợ khe cắm thẻ nhớ microSD ngoài)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "6520 mAh (dung lượng định mức 6320 mAh), pin Li-ion Polymer mật độ cao bền bỉ — Khoảng 65 phút để nạp đầy 100% dung lượng pin 6520 mAh",
+      "Công nghệ sạc": "Hỗ trợ sạc nhanh có dây HONOR SuperCharge 45W | Sạc không dây: Không hỗ trợ | Sạc ngược: Hỗ trợ sạc ngược có dây OTG công suất 6W tiện lợi",
+      "Cổng sạc": "USB Type-C chuẩn USB 2.0, hỗ trợ OTG truyền tải dữ liệu"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "MagicOS 10 phát triển trên nền tảng Android 16 chính thức",
+      "Công nghệ - Tiện ích": "Khoanh tròn tìm kiếm (Circle to Search), AI Magic Portal, Magic Capsule tương tác động",
+      "Tiện ích khác": "Chụp ảnh màn hình bằng khớp ngón tay Knuckle Gestures, Cửa sổ đa nhiệm thông minh | Cam kết hỗ trợ lên đến 6 bản cập nhật hệ điều hành Android lớn",
+      "Thời điểm ra mắt": "Công bố: 05/03/2026 – Mở bán tại Việt Nam: Tháng 03/2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G NR kép (SA/NSA Sub-6GHz), 4G LTE, 3G WCDMA, 2G GSM",
+      "Thẻ SIM": "2 Nano-SIM vật lý hoặc 1 Nano-SIM + 1 eSIM tích hợp linh hoạt (tùy mã máy)",
+      "Wi-Fi": "Wi-Fi 5 (802.11 a/b/g/n/ac, 2.4GHz & 5GHz, Wi-Fi Direct, Hotspot)",
+      "Bluetooth": "Bluetooth 6.0 tân tiến (hỗ trợ BLE, SBC, AAC, LDAC, aptX HD, LHDC 5.0)",
+      "Công nghệ NFC": "Có hỗ trợ NFC thanh toán Google Pay tiện lợi",
+      "GPS": "GPS, AGPS, GLONASS, BeiDou, Galileo"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung nhôm nguyên khối rèn kim loại bền bỉ kết hợp mặt lưng kính mờ",
+      "Chất liệu mặt lưng": "Khung nhôm nguyên khối rèn kim loại bền bỉ kết hợp mặt lưng kính mờ",
+      "Kích thước": "157.43 x 75.35 x 7.34 mm (thiết kế siêu mỏng nhẹ thanh lịch)",
+      "Trọng lượng": "Khoảng 180 gram (rất nhẹ nhàng, cầm nắm thoải mái bằng một tay)",
+      "Chỉ số kháng nước, bụi": "Kháng bụi và nước chuẩn IP66 chính thức (an toàn trước mưa lớn và bụi bẩn) (Thiết kế bền bỉ chuẩn HONOR)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa kép Stereo hỗ trợ chế độ khuếch đại âm lượng siêu lớn 300%; Hiệu ứng âm thanh HONOR Sound sống động; Jack 3.5mm: Không có cổng 3.5mm (sử dụng cổng Type-C hoặc tai nghe không dây)",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học ẩn dưới màn hình, Mở khóa khuôn mặt 2D",
+      "Các loại cảm biến": "Cảm biến trọng lực, La bàn số, Cảm biến ánh sáng môi trường, Cảm biến tiệm cận siêu âm"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,6 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "AMOLED 1,5K, PWM 3840Hz, 6.500 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2700 x 1224 pixel (1.5K)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 7100 Elite (6nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB / 12GB LPDDR4X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB UFS 2.2"
+    },
+    {
+      "label": "Camera sau",
+      "value": "108MP Chính (ƒ/1.75) + 5MP Góc siêu rộng, Nút AI Camera"
+    },
+    {
+      "label": "Camera trước",
+      "value": "16MP Selfie kèm đèn trợ sáng"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "6.520 mAh (Silicon-Carbon)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh 45W HONOR SuperCharge"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "MagicOS 9.0 (Android 15)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP66 & Khung nhôm rèn siêu bền"
+    }
+  ],
+  "verbatimDescription": [
+    "HONOR 600 Lite được hãng điện thoại HONOR trình làng vào tháng 3/2026, là phiên bản rút gọn thông minh thuộc dòng sản phẩm Number Series cao cấp nhưng vẫn được trang bị những tính năng phần cứng hàng đầu. Máy hướng trực tiếp đến đối tượng người dùng trẻ tuổi, học sinh sinh viên và nhân viên văn phòng đang tìm kiếm một thiết bị di động có ngoại hình thanh lịch, mỏng nhẹ, pin trâu và camera chụp ảnh ấn tượng trong tầm giá dễ tiếp cận. Tại thị trường Việt Nam, HONOR 600 Lite tạo ấn tượng mạnh mẽ nhờ sự kết hợp đột phá giữa tấm nền AMOLED 1.5K độ sáng đỉnh 6500 nits, viên pin dung lượng lớn 6520 mAh gói gọn trong thân máy mỏng chỉ 7.34mm, cùng phím chụp ảnh Camera AI chuyên dụng mang lại trải nghiệm tiện lợi tựa như trên các máy ảnh du lịch chuyên nghiệp.",
+    "HONOR 600 Lite thu hút ánh nhìn ngay từ lần đầu chạm mắt nhờ độ mỏng ấn tượng chỉ 7.34 mm và trọng lượng siêu nhẹ 180 gram. Khung viền kim loại được rèn gia công tinh xảo, tạo cảm giác cầm nắm vô cùng đầm chắc và thoải mái. Máy có 4 phiên bản màu sắc trẻ trung gồm Vàng Sa Mạc, Xanh Thanh Xuân, Xám Ánh Bạc và Đen Huyền Bí, phù hợp với mọi phong cách cá nhân. Mặt trước của máy là màn hình AMOLED kích thước 6.6 inch độ phân giải 1.5K (1200 x 2600 pixels) sắc nét, tần số quét 120Hz mượt mà cùng độ sáng đỉnh ngoài trời lên đến 6500 nits. Màn hình máy còn sở hữu công nghệ PWM Dimming tần số 3840Hz khử hoàn toàn nhấp nháy ở độ sáng thấp, giúp người dùng lướt web, đọc sách hay xem phim hàng giờ trong bóng tối mà không hề gặp phải cảm giác cay hay mỏi mắt.",
+    "Bên trong HONOR 600 Lite là vi xử lý MediaTek Dimensity 7100 Elite sản xuất trên tiến trình 6nm tiết kiệm năng lượng. Chipset gồm 8 nhân với 4 nhân Cortex-A78 hiệu năng cao đạt xung nhịp 2.4 GHz và 4 nhân Cortex-A55 tiết kiệm điện 2.0 GHz, phối hợp cùng GPU ARM Mali-G610 MC2 mang đến tốc độ xử lý nhanh chóng cho mọi tác vụ hàng ngày và chơi mượt các tựa game eSports thông dụng. Máy sở hữu bộ nhớ RAM 8GB LPDDR4X tích hợp công nghệ HONOR RAM Turbo mở rộng thêm 8GB ảo thành 16GB, cùng bộ nhớ trong 256GB tha hồ lưu trữ hình ảnh, tài liệu và ứng dụng mà không lo cạn kiệt dung lượng.",
+    "Về khả năng nhiếp ảnh, HONOR 600 Lite được trang bị camera chính độ phân giải cực cao 108MP cảm biến 1/1.67 inch, khẩu độ lớn f/1.75 thu sáng vượt trội. Công nghệ gộp 9 điểm ảnh thành 1 siêu điểm ảnh giúp ảnh chụp đêm luôn sắc nét, trong trẻo và hạn chế nhiễu hạt tối đa. Máy cũng hỗ trợ zoom cảm biến 3x lossless giúp chụp chân dung và vật thể ở xa mà vẫn giữ được trọn vẹn chi tiết. Đặc biệt, máy được tích hợp một phím bấm Camera AI vật lý riêng biệt ở cạnh bên. Người dùng có thể nhấn phím để khởi động tức thì camera ngay cả khi màn hình đang khóa và chụp ngay những khoảnh khắc đời thường chớp nhoáng mà không lo bỏ lỡ. Phía trước là camera selfie 16MP thiết kế dạng viên thuốc tích hợp Magic Capsule hiển thị thông báo sinh động.",
+    "Dù thân máy chỉ mỏng 7.34mm, HONOR 600 Lite vẫn xuất sắc chứa đựng viên pin dung lượng lớn 6520 mAh. Nhờ sự tối ưu phần cứng của con chip 6nm và giao diện MagicOS 10, máy có thể hoạt động bền bỉ từ 2 đến 2.5 ngày sử dụng hỗn hợp, đáp ứng hoàn hảo nhu cầu xem phim, gọi video và lướt mạng xã hội liên tục. Công nghệ sạc nhanh HONOR SuperCharge công suất 45W đi kèm củ sạc chính hãng trong hộp máy giúp sạc nhanh từ 0 lên 50% chỉ sau khoảng 28 phút và nạp đầy hoàn toàn trong 65 phút, đảm bảo người dùng luôn sẵn sàng cho mọi hành trình dài ngày.",
+    "Trải nghiệm giải trí đa phương tiện trên máy được nâng cấp toàn diện với hệ thống loa kép Stereo hỗ trợ chế độ khuếch đại âm lượng lên đến 300%, giúp nghe rõ nhạc và chuông cuộc gọi ngay cả trong môi trường ngoài trời ồn ào. Máy đạt chuẩn kháng bụi và nước IP66 chính thức, cho phép chịu được các tia nước bắn mạnh và mưa giông bất chợt. HONOR 600 Lite chạy giao diện MagicOS 10 trên nền Android 16 với cam kết cập nhật 6 bản Android lớn. Máy hỗ trợ kết nối Bluetooth 6.0 tân tiến nhất, tích hợp đầy đủ kết nối 5G, NFC thanh toán tiện lợi và cảm biến vân tay quang học ẩn dưới màn hình thời thượng."
+  ],
+  "priceSegment": "midrange"
+}

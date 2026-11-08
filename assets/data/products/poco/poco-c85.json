@@ -1,0 +1,322 @@
+{
+  "id": "poco-c85",
+  "brand": "POCO",
+  "brandId": "poco",
+  "parentGroupId": "xiaomi_group",
+  "model": "POCO C85",
+  "series": "POCO C",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "entry-level"
+  ],
+  "status": "needs_verification",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 19,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "POCO C85 mang đến sự kết hợp thực dụng giữa màn hình cực đại 6,9 inch 120Hz, viên pin khủng 6.000 mAh hỗ trợ sạc nhanh 33W và camera chính 50MP AI sắc nét. Được trang bị vi xử lý Helio G81-Ultra cùng chuẩn kháng nước IP54 bền bỉ, đây là thiết bị lý tưởng cho người dùng ưu tiên thời lượng pin dài lâu và không gian hiển thị rộng lớn.",
+    "highlights": [
+      "Viên pin 6.000 mAh siêu bền bỉ đi kèm sạc nhanh 33W rút ngắn thời gian chờ",
+      "Màn hình lớn 6,9 inch tần số quét 120Hz mượt mà, hỗ trợ cảm ứng khi tay ướt",
+      "Camera chính 50MP AI khẩu độ f/1.8 sắc nét và vi xử lý Helio G81-Ultra ổn định"
+    ],
+    "officialDistribution": "Model được bảo lưu từ danh sách trước nhưng chưa đủ bằng chứng đang mở bán chính thức trong lượt đối chiếu ngày 01/11/2026; giữ trạng thái needs_verification để không mất dấu dữ liệu."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": null,
+    "originalPrice": null,
+    "promotionPrice": null,
+    "priceUpdatedAt": "2026-11-01",
+    "priceVerified": false
+  },
+  "variants": [
+    {
+      "sku": "AUR-POC-C85-RAM-STD-01",
+      "color": "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)",
+      "colorHex": "#102347",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "price": null,
+      "originalPrice": null,
+      "stockStatus": "needs_verification",
+      "images": [
+        "assets/images/placeholders/placeholder-default.svg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "IPS LCD 120Hz",
+    "size": "6,9 inch",
+    "resolution": "HD+ (1600 x 720 pixel)",
+    "refreshRate": "120Hz",
+    "brightness": "Độ sáng tối đa 700 nit (HBM), chế độ hiển thị rõ ngoài nắng (Sunlight Display), chế độ Đọc sách",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "MediaTek Helio G81-Ultra (tiến trình 12nm tối ưu hiệu năng đa nhiệm và tiết kiệm pin)",
+    "cpu": "CPU 8 nhân (2 nhân Cortex-A75 xung nhịp lên tới 2.0GHz + 6 nhân Cortex-A55 xung nhịp 1.8GHz)",
+    "gpu": "ARM Mali-G52 MC2",
+    "ram": [
+      "6GB"
+    ],
+    "storage": [
+      "128GB"
+    ],
+    "operatingSystem": "Xiaomi HyperOS 2.0 dựa trên Android 15",
+    "uiVersion": "Xiaomi HyperOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Chính AI (ƒ/1.8) + Cảm biến phụ",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "Quay video 1080p Full HD ở 30 fps; 720p HD ở 30 fps; Time-lapse"
+    ],
+    "aiFeatures": [
+      "Chế độ siêu độ phân giải 50MP, Chụp đêm (Night Mode), Chân dung xóa phông AI, HDR, Bộ lọc filmCamera, Chụp tài liệu rõ nét"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "8MP (ƒ/2.0)",
+    "features": [
+      "Camera trước 8MP (khẩu độ ƒ/2.0), hỗ trợ vòng sáng màn hình Soft-light Ring, làm đẹp chân dung AI và quay video 1080p@30fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "6.000 mAh",
+    "wiredCharging": "Sạc nhanh 33W USB-C",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc nhanh 33W qua cổng USB Type-C | Không hỗ trợ sạc không dây"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano SIM + 1 khe thẻ nhớ microSD độc lập"
+    ],
+    "network": [
+      "4G LTE Dual SIM"
+    ],
+    "wifi": "Wi-Fi 5 (802.11 a/b/g/n/ac, băng tần kép 2.4GHz & 5GHz)",
+    "bluetooth": "Bluetooth 5.4",
+    "gps": [
+      "GPS, GLONASS, Galileo, BDS"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "171,9 x 77,8 x 8,4 mm",
+    "weight": "208 gram",
+    "materials": [
+      "Khung viền phẳng nhựa composite gia cường góc chống va đập",
+      "Mặt lưng nhám mờ hạn chế bám mồ hôi và dấu vân tay với cụm camera tròn cân đối"
+    ],
+    "waterResistance": "Kháng nước & bụi IP54",
+    "availableColors": [
+      "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa ngoài siêu âm lượng 200%, cổng tai nghe 3.5mm",
+    "headphoneJack": true,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "POCO C",
+    "POCO",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền POCO tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/placeholders/placeholder-default.svg",
+    "hasAvatarNamed": false,
+    "gallery": [
+      "assets/images/placeholders/placeholder-default.svg"
+    ],
+    "byColor": {},
+    "bySection": {
+      "performance": "assets/images/placeholders/placeholder-default.svg"
+    }
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-xiaomi-poco",
+      "https://www.po.co/global/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "needs_verification",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Cần xác minh thêm",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "verbatimDescription": [
+    "POCO C85 được thiết kế hướng tới nhóm người dùng cần một chiếc smartphone pin trâu, màn hình lớn để làm việc và giải trí liên tục suốt cả ngày dài. Điểm nhấn ấn tượng nhất trên thiết bị là viên pin dung lượng lên tới 6.000 mAh kết hợp cùng công nghệ sạc nhanh 33W, xóa bỏ hoàn toàn nỗi lo gián đoạn liên lạc.",
+    "Mặt trước của máy là tấm nền IPS LCD kích thước lên tới 6,9 inch cùng tần số quét 120Hz AdaptiveSync. Kích thước hiển thị tiệm cận một chiếc máy tính bảng mini giúp phông chữ, bản đồ giao hàng và các bộ phim hiển thị to rõ, đi kèm độ sáng 700 nit và tính năng Wet Touch hỗ trợ thao tác chính xác ngay cả khi tay ướt.",
+    "Trái tim của POCO C85 là con chip MediaTek Helio G81-Ultra 8 nhân phối hợp cùng bộ nhớ RAM 6GB/8GB (mở rộng tối đa 16GB qua RAM ảo) và giao diện Xiaomi HyperOS 2.0 trên nền Android 15. Sự kết hợp này đảm bảo khả năng chuyển đổi mượt mà giữa các ứng dụng mạng xã hội, gọi video và chơi các tựa game phổ biến.",
+    "Hệ thống camera sau 50MP khẩu độ lớn f/1.8 ứng dụng thuật toán gộp điểm ảnh 4-trong-1 giúp ghi lại những bức ảnh sáng rõ, giàu chi tiết từ ban ngày cho tới buổi tối. Chế độ chụp tài liệu và HDR tự động hỗ trợ đắc lực cho nhu cầu học tập và lưu trữ thông tin công việc hàng ngày.",
+    "Thiết kế khung viền phẳng cứng cáp đạt chuẩn kháng bụi và nước bắn IP54 giúp máy bền bỉ hơn trước các điều kiện thời tiết thất thường. Ngoài ra, loa ngoài tăng cường âm lượng 200% cùng cổng tai nghe 3.5mm và khe thẻ nhớ microSD 1TB mang lại sự tiện lợi tối đa cho người sử dụng."
+  ],
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,9 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "IPS LCD 120Hz"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "HD+ (1600 x 720 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Helio G81-Ultra (12nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "6GB / 8GB (Mở rộng RAM ảo 8GB)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB (Hỗ trợ thẻ nhớ 1TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính AI (ƒ/1.8) + Cảm biến phụ"
+    },
+    {
+      "label": "Camera trước",
+      "value": "8MP (ƒ/2.0)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "6.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh 33W USB-C"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS 2.0 (Android 15)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "4G LTE Dual SIM"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "Kháng nước & bụi IP54"
+    }
+  ],
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "IPS LCD thế hệ mới, hỗ trợ DC Dimming toàn dải và chứng nhận bảo vệ mắt TÜV Rheinland Low Blue Light",
+      "Kích thước màn hình": "6,9 inch (không gian hiển thị cực đại cho nhu cầu giải trí và công việc ngoài trời)",
+      "Độ phân giải màn hình": "1600 x 720 pixel (HD+, mật độ điểm ảnh ~254 ppi)",
+      "Tần số quét": "120Hz AdaptiveSync (tự động chuyển đổi linh hoạt 60Hz / 90Hz / 120Hz)",
+      "Kiểu màn hình": "Màn hình đục lỗ hiện đại, hỗ trợ cảm ứng nhạy khi tay ướt hoặc dính mưa nhẹ (Wet Touch)",
+      "Tính năng màn hình": "Độ sáng tối đa 700 nit (HBM), chế độ hiển thị rõ ngoài nắng (Sunlight Display), chế độ Đọc sách"
+    },
+    "Camera sau": {
+      "Camera sau": "Camera kép AI: Camera chính 50MP (khẩu độ ƒ/1.8, thấu kính 5P, gộp điểm ảnh 4-trong-1, PDAF) + Cảm biến phụ hỗ trợ đo chiều sâu",
+      "Quay video": "Quay video 1080p Full HD ở 30 fps; 720p HD ở 30 fps; Time-lapse",
+      "Tính năng camera": "Chế độ siêu độ phân giải 50MP, Chụp đêm (Night Mode), Chân dung xóa phông AI, HDR, Bộ lọc filmCamera, Chụp tài liệu rõ nét"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera trước 8MP (khẩu độ ƒ/2.0), hỗ trợ vòng sáng màn hình Soft-light Ring, làm đẹp chân dung AI và quay video 1080p@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Helio G81-Ultra (tiến trình 12nm tối ưu hiệu năng đa nhiệm và tiết kiệm pin)",
+      "Loại CPU": "CPU 8 nhân (2 nhân Cortex-A75 xung nhịp lên tới 2.0GHz + 6 nhân Cortex-A55 xung nhịp 1.8GHz)",
+      "GPU": "ARM Mali-G52 MC2"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "6GB / 8GB LPDDR4X (hỗ trợ mở rộng RAM ảo thêm tối đa 8GB lên tổng 16GB RAM)",
+      "Bộ nhớ trong": "128GB / 256GB eMMC 5.1 (hỗ trợ mở rộng qua khe thẻ nhớ microSD độc lập lên đến 1TB)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "6.000 mAh (Pin dung lượng lớn đáp ứng đến 2,5 ngày sử dụng liên tục)",
+      "Công nghệ sạc": "Sạc nhanh 33W qua cổng USB Type-C | Không hỗ trợ sạc không dây",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS 2.0 dựa trên Android 15",
+      "Công nghệ - Tiện ích": "Mở rộng RAM 3.0, Cửa sổ nổi đa nhiệm, Chế độ tăng cường âm lượng loa 200%, Đài FM Radio",
+      "Tiện ích khác": "Giắc cắm tai nghe 3.5mm, chuẩn kháng nước bắn IP54, cảm ứng tay ướt",
+      "Thời điểm ra mắt": "2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "4G LTE Dual VoLTE",
+      "Thẻ SIM": "2 Nano SIM + 1 khe thẻ nhớ microSD độc lập",
+      "Wi-Fi": "Wi-Fi 5 (802.11 a/b/g/n/ac, băng tần kép 2.4GHz & 5GHz)",
+      "Bluetooth": "Bluetooth 5.4",
+      "Công nghệ NFC": "Có hỗ trợ (tùy thị trường)",
+      "GPS": "GPS, GLONASS, Galileo, BDS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền phẳng nhựa composite gia cường góc chống va đập",
+      "Chất liệu mặt lưng": "Mặt lưng nhám mờ hạn chế bám mồ hôi và dấu vân tay với cụm camera tròn cân đối",
+      "Kích thước": "171,9 x 77,8 x 8,4 mm",
+      "Trọng lượng": "208 gram",
+      "Chỉ số kháng nước, bụi": "Chuẩn IP54 (kháng bụi và tia nước bắn từ mọi hướng)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài siêu âm lượng 200%, cổng tai nghe 3.5mm",
+      "Cảm biến vân tay": "Cảm biến vân tay cạnh bên tích hợp nút nguồn & Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến ánh sáng, Cảm biến tiệm cận, La bàn điện tử"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+/* TechPhone — Breadcrumb Navigation */
+.tp-breadcrumb {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  font-size: 0.85rem;
+  color: var(--tp-text-secondary);
+  margin-bottom: 1.25rem;
+}
+.tp-breadcrumb a {
+  color: var(--tp-text-secondary);
+  font-weight: 500;
+}
+.tp-breadcrumb a:hover {
+  color: var(--tp-primary);
+}
+.tp-breadcrumb .is-current {
+  color: var(--tp-navy);
+  font-weight: 700;
+}

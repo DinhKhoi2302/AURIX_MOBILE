@@ -1,0 +1,136 @@
+{
+  "id": "samsung-65w-3-port-power-adapter-ep-t6530",
+  "docCode": "PK-CU009-EPT6530",
+  "model": "Củ Sạc Đa Năng 3 Cổng Samsung Trio 65W EP-T6530",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "series": "Củ sạc",
+  "subCategory": "cu-sac",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "cu-sac"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Củ sạc",
+    "highlights": [
+      "65W"
+    ],
+    "description": "Củ sạc 3 cổng mạnh mẽ của Samsung đáp ứng trọn vẹn không gian làm việc với khả năng sạc cùng lúc 3 thiết bị. Cổng chính Type-C1 công suất 65W có thể sạc tốt cho Galaxy Book, MacBook trong khi 2 cổng phụ sạc nhanh cho điện thoại và đồng hồ thông minh."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 1150000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/anh-dai-dien-samsung-65w-3-port-power-adapter-ep-t6530-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/anh-dai-dien-samsung-65w-3-port-power-adapter-ep-t6530-den.webp",
+      "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/goc-nghieng-dat-tren-ban-den.webp",
+      "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/cam-o-dien-sac-cung-luc-3-thiet-bi-den.webp",
+      "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/can-canh-3-cong-sac-dat-canh-hop-den.webp",
+      "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/can-canh-chan-cam-tron-den.webp",
+      "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/thong-so-in-tren-than-sac-den.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/anh-dai-dien-samsung-65w-3-port-power-adapter-ep-t6530-den.webp",
+        "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/goc-nghieng-dat-tren-ban-den.webp",
+        "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/cam-o-dien-sac-cung-luc-3-thiet-bi-den.webp",
+        "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/can-canh-3-cong-sac-dat-canh-hop-den.webp",
+        "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/can-canh-chan-cam-tron-den.webp",
+        "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/thong-so-in-tren-than-sac-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/goc-nghieng-dat-tren-ban-den.webp",
+      "screen": "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/cam-o-dien-sac-cung-luc-3-thiet-bi-den.webp",
+      "performance": "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/can-canh-3-cong-sac-dat-canh-hop-den.webp",
+      "camera": "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/can-canh-chan-cam-tron-den.webp",
+      "battery": "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/thong-so-in-tren-than-sac-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/goc-nghieng-dat-tren-ban-den.webp",
+      "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/cam-o-dien-sac-cung-luc-3-thiet-bi-den.webp",
+      "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/can-canh-3-cong-sac-dat-canh-hop-den.webp",
+      "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/can-canh-chan-cam-tron-den.webp",
+      "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/thong-so-in-tren-than-sac-den.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Samsung",
+      "Công suất sạc tối đa": "65W",
+      "Số lượng cổng sạc": "3 cổng (2 USB-C + 1 USB-A)",
+      "Loại cổng sạc": "2x USB-C (Cổng 1 max 65W, Cổng 2 max 25W), 1x USB-A (max 15W)",
+      "Công nghệ sạc": "PD 3.0 PPS, Super Fast Charging, AFC, QC",
+      "Công nghệ chế tạo": "Bán dẫn công suất cao tản nhiệt tối ưu",
+      "Kiểu chân cắm": "Chân tròn cố định",
+      "Màu sắc": "Đen"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Samsung"
+    },
+    {
+      "label": "Công suất sạc tối đa",
+      "value": "65W"
+    },
+    {
+      "label": "Số lượng cổng sạc",
+      "value": "3 cổng (2 USB-C + 1 USB-A)"
+    },
+    {
+      "label": "Loại cổng sạc",
+      "value": "2x USB-C (Cổng 1 max 65W, Cổng 2 max 25W), 1x USB-A (max 15W)"
+    },
+    {
+      "label": "Công nghệ sạc",
+      "value": "PD 3.0 PPS, Super Fast Charging, AFC, QC"
+    },
+    {
+      "label": "Công nghệ chế tạo",
+      "value": "Bán dẫn công suất cao tản nhiệt tối ưu"
+    },
+    {
+      "label": "Kiểu chân cắm",
+      "value": "Chân tròn cố định"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Đen"
+    }
+  ],
+  "verbatimDescription": [
+    "Củ sạc 3 cổng mạnh mẽ của Samsung đáp ứng trọn vẹn không gian làm việc với khả năng sạc cùng lúc 3 thiết bị. Cổng chính Type-C1 công suất 65W có thể sạc tốt cho Galaxy Book, MacBook trong khi 2 cổng phụ sạc nhanh cho điện thoại và đồng hồ thông minh."
+  ],
+  "variants": [
+    {
+      "sku": "PK-CU009-EPT6530-DEN-TIEU-CHUAN",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 1150000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/anh-dai-dien-samsung-65w-3-port-power-adapter-ep-t6530-den.webp",
+        "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/goc-nghieng-dat-tren-ban-den.webp",
+        "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/cam-o-dien-sac-cung-luc-3-thiet-bi-den.webp",
+        "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/can-canh-3-cong-sac-dat-canh-hop-den.webp",
+        "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/can-canh-chan-cam-tron-den.webp",
+        "assets/images/products/accessory/cu-sac/samsung-65w-3-port-power-adapter-ep-t6530/thong-so-in-tren-than-sac-den.webp"
+      ]
+    }
+  ]
+}

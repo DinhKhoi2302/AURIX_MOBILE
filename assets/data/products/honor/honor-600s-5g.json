@@ -1,0 +1,528 @@
+{
+  "id": "honor-600s-5g",
+  "brand": "HONOR",
+  "brandId": "honor",
+  "parentGroupId": "honor",
+  "model": "HONOR 600s 5G",
+  "series": "HONOR Number Series (600 / 400)",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "midrange"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "Năm 2026",
+    "segment": "Cận cao cấp",
+    "description": "HONOR 600s 5G được công bố ra thị trường vào ngày 21/09/2026 và chính thức mở bán tại thị trường Việt Nam vào tháng 10/2026 thông qua hệ thống Thế Giới Di Động, CellphoneS và FPT Shop. Chiếc smartphone này được thiết kế để trở thành 'ông vua pin trâu kiêm pháo đài bền bỉ' trong phân khúc phổ thông - tầm trung, đánh trúng tâm lý của nhóm người dùng đề cao sự thực dụng, pin dùng cả tuần và độ bền va đập tuyệt đối. Tại Việt Nam, máy nhanh chóng tạo lập chỗ đứng vững chắc nhờ viên pin dung lượng khổng lồ 8100 mAh, bộ ba tiêu chuẩn chống nước IP68/IP69/IP69K hiếm có trong tầm giá dưới 6 triệu đồng, loa kép âm lượng 400% cùng kết nối 5G tốc độ cao đón đầu xu hướng mạng di động tương lai.",
+    "highlights": [
+      "6,87 inch",
+      "Qualcomm Snapdragon 4 Gen 4",
+      "Pin 8.100 mAh"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 6690000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT006-HN600S5G-TIM-6GB-128GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 6690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-600s-5g/anh-dai-dien-mat-truoc-sau-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-sau-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-dat-tren-ban-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-sau-dat-tren-ban-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/can-canh-canh-ben-camera-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/can-canh-canh-duoi-cong-sac-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/canh-ben-trai-phai-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/canh-tren-duoi-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/can-canh-cum-camera-sau-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/cam-hai-tay-chup-anh-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/so-do-kich-thuoc-nut-bam-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/hop-va-bo-phu-kien-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT006-HN600S5G-TIM-8GB-256GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 7690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-600s-5g/anh-dai-dien-mat-truoc-sau-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-sau-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-dat-tren-ban-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-sau-dat-tren-ban-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/can-canh-canh-ben-camera-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/can-canh-canh-duoi-cong-sac-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/canh-ben-trai-phai-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/canh-tren-duoi-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/can-canh-cum-camera-sau-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/cam-hai-tay-chup-anh-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/so-do-kich-thuoc-nut-bam-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/hop-va-bo-phu-kien-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT006-HN600S5G-VANG-6GB-128GB",
+      "color": "Vàng",
+      "colorHex": "#EAB308",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 6690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-sau-vang.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-nam-ngang-vang.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-sau-nghieng-phai-vang.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-sau-nghieng-trai-vang.webp",
+        "assets/images/products/honor/honor-600s-5g/canh-ben-nut-bam-vang.webp",
+        "assets/images/products/honor/honor-600s-5g/canh-duoi-cong-sac-khay-sim-vang.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-nghieng-phai-vang.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-nghieng-trai-vang.webp",
+        "assets/images/products/honor/honor-600s-5g/hop-va-bo-phu-kien-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT006-HN600S5G-VANG-8GB-256GB",
+      "color": "Vàng",
+      "colorHex": "#EAB308",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 7690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-sau-vang.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-nam-ngang-vang.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-sau-nghieng-phai-vang.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-sau-nghieng-trai-vang.webp",
+        "assets/images/products/honor/honor-600s-5g/canh-ben-nut-bam-vang.webp",
+        "assets/images/products/honor/honor-600s-5g/canh-duoi-cong-sac-khay-sim-vang.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-nghieng-phai-vang.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-nghieng-trai-vang.webp",
+        "assets/images/products/honor/honor-600s-5g/hop-va-bo-phu-kien-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT006-HN600S5G-DEN-6GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 6690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-sau-den.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-nam-ngang-den.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-sau-nghieng-phai-den.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-sau-nghieng-trai-den.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-nghieng-phai-den.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-nghieng-trai-den.webp",
+        "assets/images/products/honor/honor-600s-5g/hop-va-bo-phu-kien-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT006-HN600S5G-DEN-8GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 7690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-sau-den.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-nam-ngang-den.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-sau-nghieng-phai-den.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-sau-nghieng-trai-den.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-nghieng-phai-den.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-nghieng-trai-den.webp",
+        "assets/images/products/honor/honor-600s-5g/hop-va-bo-phu-kien-trang.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "TFT LCD 120Hz, độ sáng 1.020 nit",
+    "size": "6,87 inch",
+    "resolution": "1604 x 720 pixel (HD+)",
+    "refreshRate": "120Hz",
+    "brightness": "Độ sáng: 860 nits (tiêu chuẩn) / 1020 nits (HBM chế độ ánh sáng mặt trời Sunlight Enhancement); Chế độ làm dịu mắt, Làm mờ động Dynamic Dimming bảo vệ mắt khi dùng lâu, kính cường lực bảo vệ; Cảm ứng khi tay ướt, Chế độ đọc sách e-ink bảo vệ mắt ban đêm",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 4 Gen 4 (SM4450-AF, tiến trình 4nm hiện đại)",
+    "cpu": "CPU 8 nhân: 2 nhân Cortex-A78 xung nhịp 2.3 GHz + 6 nhân Cortex-A55 xung nhịp 1.95 GHz",
+    "gpu": "Qualcomm Adreno 613 mượt mà trong các tác vụ giải trí và lướt mạng xã hội | Tản nhiệt: Tản nhiệt than chì diện tích lớn giúp máy duy trì nhiệt độ mát mẻ",
+    "ram": [
+      "6GB",
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "operatingSystem": "MagicOS 10 phát triển trên nền tảng Android 16 chính thức",
+    "uiVersion": "MagicOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP AI Main Camera (ƒ/1.8) + Cảm biến chiều sâu",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "Quay video 1080p ở tốc độ 30fps (1920 x 1080 pixels)"
+    ],
+    "aiFeatures": [
+      "Các chế độ chụp ảnh: Chụp đêm AI, Chân dung xóa phông, Chụp tài liệu thông minh, Chụp chuyên nghiệp Pro, Panorama | Khả năng zoom: Zoom kỹ thuật số tối đa 8x | Đèn flash: Đèn flash LED đơn trợ sáng"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "5MP Selfie (ƒ/2.2)",
+    "features": [
+      "5 MP, khẩu độ f/2.2, góc nhìn rộng; Lấy nét: Lấy nét cố định thông minh; Tính năng: Chân dung làm đẹp AI tự nhiên, Chụp HDR tự động, Mở khóa khuôn mặt 2D; Quay video: Quay video 1080p ở tốc độ 30fps (1920 x 1080 pixels)"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "8.100 mAh (Pin khủng Silicon-Carbon)",
+    "wiredCharging": "Sạc nhanh 45W, sạc ngược có dây 7,5W",
+    "wirelessCharging": "Có hỗ trợ sạc không dây",
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": "Sạc nhanh có dây HONOR SuperCharge 45W | Sạc không dây: Không hỗ trợ | Sạc ngược: Hỗ trợ sạc ngược có dây OTG công suất 7.5W (5V/1.5A) sạc cho điện thoại khác"
+  },
+  "connectivity": {
+    "sim": [
+      "2 khe Nano-SIM vật lý riêng biệt"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 5 (802.11 a/b/g/n/ac, 2.4GHz & 5GHz, Wi-Fi Direct, Hotspot)",
+    "bluetooth": "Bluetooth 5.1 (hỗ trợ BLE, SBC, AAC, LDAC, aptX, aptX HD)",
+    "gps": [
+      "GPS (L1), BeiDou (B1I+B1C), GLONASS (G1), Galileo (E1), A-GNSS"
+    ],
+    "usb": "USB Type-C chuẩn USB 2.0, hỗ trợ OTG truyền tải dữ liệu và sạc ngược",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "168.3 x 78.54 x 8.30 mm (thiết kế cứng cáp, đầm chắc)",
+    "weight": "Khoảng 216.5 gram (cân bằng hoàn hảo với viên pin siêu khủng 8100 mAh)",
+    "materials": [
+      "Mặt trước kính cường lực, khung viền và mặt lưng polymer gia cường chống va đập",
+      "Mặt trước kính cường lực, khung viền và mặt lưng polymer gia cường chống va đập"
+    ],
+    "waterResistance": "IP68 / IP69 / IP69K & Chống rơi 2,5m SGS",
+    "availableColors": [
+      "Tím",
+      "Vàng",
+      "Đen"
+    ]
+  },
+  "audio": {
+    "speakers": "Hệ thống loa kép Stereo hỗ trợ chế độ khuếch đại âm lượng siêu lớn 400%; Hiệu ứng âm thanh HONOR Sound 7.3 không gian đa chiều sống động; Jack 3.5mm: Không có jack 3.5mm (sử dụng cổng Type-C hoặc tai nghe không dây)",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "HONOR Number",
+    "HONOR",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền HONOR tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/honor/honor-600s-5g/anh-dai-dien-mat-truoc-sau-tim.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/honor/honor-600s-5g/anh-dai-dien-mat-truoc-sau-tim.webp",
+      "assets/images/products/honor/honor-600s-5g/mat-truoc-sau-den.webp",
+      "assets/images/products/honor/honor-600s-5g/mat-truoc-sau-tim.webp",
+      "assets/images/products/honor/honor-600s-5g/mat-truoc-sau-vang.webp",
+      "assets/images/products/honor/honor-600s-5g/mat-truoc-dat-tren-ban-tim.webp",
+      "assets/images/products/honor/honor-600s-5g/mat-truoc-nam-ngang-den.webp",
+      "assets/images/products/honor/honor-600s-5g/mat-truoc-nam-ngang-vang.webp",
+      "assets/images/products/honor/honor-600s-5g/mat-sau-dat-tren-ban-tim.webp",
+      "assets/images/products/honor/honor-600s-5g/mat-sau-nghieng-phai-den.webp",
+      "assets/images/products/honor/honor-600s-5g/mat-sau-nghieng-phai-vang.webp",
+      "assets/images/products/honor/honor-600s-5g/mat-sau-nghieng-trai-den.webp",
+      "assets/images/products/honor/honor-600s-5g/mat-sau-nghieng-trai-vang.webp",
+      "assets/images/products/honor/honor-600s-5g/can-canh-canh-ben-camera-tim.webp",
+      "assets/images/products/honor/honor-600s-5g/can-canh-canh-duoi-cong-sac-tim.webp",
+      "assets/images/products/honor/honor-600s-5g/canh-ben-nut-bam-vang.webp",
+      "assets/images/products/honor/honor-600s-5g/canh-ben-trai-phai-tim.webp",
+      "assets/images/products/honor/honor-600s-5g/canh-duoi-cong-sac-khay-sim-vang.webp",
+      "assets/images/products/honor/honor-600s-5g/canh-tren-duoi-tim.webp",
+      "assets/images/products/honor/honor-600s-5g/mat-truoc-nghieng-phai-den.webp",
+      "assets/images/products/honor/honor-600s-5g/mat-truoc-nghieng-phai-vang.webp",
+      "assets/images/products/honor/honor-600s-5g/mat-truoc-nghieng-trai-den.webp",
+      "assets/images/products/honor/honor-600s-5g/mat-truoc-nghieng-trai-vang.webp",
+      "assets/images/products/honor/honor-600s-5g/can-canh-cum-camera-sau-tim.webp",
+      "assets/images/products/honor/honor-600s-5g/cam-hai-tay-chup-anh-tim.webp",
+      "assets/images/products/honor/honor-600s-5g/hop-va-bo-phu-kien-trang.webp",
+      "assets/images/products/honor/honor-600s-5g/so-do-kich-thuoc-nut-bam-tim.webp"
+    ],
+    "byColor": {
+      "Tím": [
+        "assets/images/products/honor/honor-600s-5g/anh-dai-dien-mat-truoc-sau-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-sau-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-dat-tren-ban-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-sau-dat-tren-ban-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/can-canh-canh-ben-camera-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/can-canh-canh-duoi-cong-sac-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/canh-ben-trai-phai-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/canh-tren-duoi-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/can-canh-cum-camera-sau-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/cam-hai-tay-chup-anh-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/so-do-kich-thuoc-nut-bam-tim.webp",
+        "assets/images/products/honor/honor-600s-5g/hop-va-bo-phu-kien-trang.webp"
+      ],
+      "Đen": [
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-sau-den.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-nam-ngang-den.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-sau-nghieng-phai-den.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-sau-nghieng-trai-den.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-nghieng-phai-den.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-nghieng-trai-den.webp",
+        "assets/images/products/honor/honor-600s-5g/hop-va-bo-phu-kien-trang.webp"
+      ],
+      "Vàng": [
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-sau-vang.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-nam-ngang-vang.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-sau-nghieng-phai-vang.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-sau-nghieng-trai-vang.webp",
+        "assets/images/products/honor/honor-600s-5g/canh-ben-nut-bam-vang.webp",
+        "assets/images/products/honor/honor-600s-5g/canh-duoi-cong-sac-khay-sim-vang.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-nghieng-phai-vang.webp",
+        "assets/images/products/honor/honor-600s-5g/mat-truoc-nghieng-trai-vang.webp",
+        "assets/images/products/honor/honor-600s-5g/hop-va-bo-phu-kien-trang.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/honor/honor-600s-5g/mat-truoc-sau-den.webp",
+      "screen": "assets/images/products/honor/honor-600s-5g/mat-truoc-sau-tim.webp",
+      "performance": "assets/images/products/honor/honor-600s-5g/mat-truoc-nam-ngang-den.webp",
+      "camera": "assets/images/products/honor/honor-600s-5g/can-canh-canh-ben-camera-tim.webp",
+      "battery": "assets/images/products/honor/honor-600s-5g/can-canh-canh-duoi-cong-sac-tim.webp",
+      "feature": "assets/images/products/honor/honor-600s-5g/mat-sau-nghieng-phai-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/honor/honor-600s-5g/mat-truoc-sau-den.webp",
+      "assets/images/products/honor/honor-600s-5g/mat-truoc-sau-tim.webp",
+      "assets/images/products/honor/honor-600s-5g/mat-truoc-sau-vang.webp",
+      "assets/images/products/honor/honor-600s-5g/mat-truoc-dat-tren-ban-tim.webp",
+      "assets/images/products/honor/honor-600s-5g/mat-truoc-nam-ngang-den.webp",
+      "assets/images/products/honor/honor-600s-5g/mat-truoc-nam-ngang-vang.webp",
+      "assets/images/products/honor/honor-600s-5g/mat-sau-dat-tren-ban-tim.webp",
+      "assets/images/products/honor/honor-600s-5g/mat-sau-nghieng-phai-den.webp",
+      "assets/images/products/honor/honor-600s-5g/mat-sau-nghieng-phai-vang.webp",
+      "assets/images/products/honor/honor-600s-5g/mat-sau-nghieng-trai-den.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-honor",
+      "https://www.honor.com/vn/phones/",
+      "https://www.honor.com/vn/phones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT006-HN600S5G",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "TFT LCD 16.7 triệu màu (đạt 85% dải màu điện ảnh NTSC)",
+      "Kích thước màn hình": "6.872 inch theo đường chéo (tấm nền siêu lớn hiển thị rộng rãi)",
+      "Độ phân giải màn hình": "HD+ (1592 x 720 pixels, tỷ lệ 20:9) (254 ppi)",
+      "Tần số quét": "120Hz siêu mượt mà",
+      "Kiểu màn hình": "Đục lỗ nốt ruồi trung tâm gọn gàng",
+      "Tính năng màn hình": "Độ sáng: 860 nits (tiêu chuẩn) / 1020 nits (HBM chế độ ánh sáng mặt trời Sunlight Enhancement); Chế độ làm dịu mắt, Làm mờ động Dynamic Dimming bảo vệ mắt khi dùng lâu, kính cường lực bảo vệ; Cảm ứng khi tay ướt, Chế độ đọc sách e-ink bảo vệ mắt ban đêm"
+    },
+    "Camera sau": {
+      "Camera sau": "Số lượng camera: Cụm camera kép AI thiết kế module hình tròn đối xứng mạnh mẽ | Camera Chính (Wide): 50 MP, khẩu độ f/1.8, lấy nét tự động theo pha PDAF, hỗ trợ chụp đêm AI | Camera Phụ: 0.08 MP, khẩu độ f/3.0 đo chiều sâu và hỗ trợ xóa phông chân dung",
+      "Quay video": "Quay video 1080p ở tốc độ 30fps (1920 x 1080 pixels)",
+      "Tính năng camera": "Các chế độ chụp ảnh: Chụp đêm AI, Chân dung xóa phông, Chụp tài liệu thông minh, Chụp chuyên nghiệp Pro, Panorama | Khả năng zoom: Zoom kỹ thuật số tối đa 8x | Đèn flash: Đèn flash LED đơn trợ sáng"
+    },
+    "Camera trước": {
+      "Camera trước": "5 MP, khẩu độ f/2.2, góc nhìn rộng; Lấy nét: Lấy nét cố định thông minh; Tính năng: Chân dung làm đẹp AI tự nhiên, Chụp HDR tự động, Mở khóa khuôn mặt 2D; Quay video: Quay video 1080p ở tốc độ 30fps (1920 x 1080 pixels)"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 4 Gen 4 (SM4450-AF, tiến trình 4nm hiện đại)",
+      "Loại CPU": "CPU 8 nhân: 2 nhân Cortex-A78 xung nhịp 2.3 GHz + 6 nhân Cortex-A55 xung nhịp 1.95 GHz",
+      "GPU": "Qualcomm Adreno 613 mượt mà trong các tác vụ giải trí và lướt mạng xã hội | Tản nhiệt: Tản nhiệt than chì diện tích lớn giúp máy duy trì nhiệt độ mát mẻ"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "6GB hoặc 8GB RAM vật lý chuẩn LPDDR4X (HONOR RAM Turbo cho phép mở rộng thêm 8GB RAM ảo từ bộ nhớ trong)",
+      "Bộ nhớ trong": "128GB hoặc 256GB tốc độ cao chuẩn UFS 2.2 (Không hỗ trợ khe cắm thẻ nhớ microSD ngoài)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "8100 mAh (dung lượng định mức 7900 mAh), pin Silicon-Carbon Lithium-ion Polymer siêu bền — Lên đến 3.5 - 4 ngày sử dụng thông thường; hơn 30 giờ xem video liên tục",
+      "Công nghệ sạc": "Sạc nhanh có dây HONOR SuperCharge 45W | Sạc không dây: Không hỗ trợ | Sạc ngược: Hỗ trợ sạc ngược có dây OTG công suất 7.5W (5V/1.5A) sạc cho điện thoại khác",
+      "Cổng sạc": "USB Type-C chuẩn USB 2.0, hỗ trợ OTG truyền tải dữ liệu và sạc ngược"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "MagicOS 10 phát triển trên nền tảng Android 16 chính thức",
+      "Công nghệ - Tiện ích": "Nút AI Button vật lý kích hoạt tức thì, Khoanh tròn tìm kiếm Circle to Search, Ghi nhớ AI, Tóm tắt AI, Tẩy vật thể AI, Chuyển ảnh thành video AI",
+      "Tiện ích khác": "Magic Capsule hiển thị trạng thái sinh động, Cửa sổ đa nhiệm thông minh | Hỗ trợ các bản cập nhật phần mềm và vá bảo mật định kỳ lâu dài",
+      "Thời điểm ra mắt": "Công bố: 21/09/2026 – Mở bán tại Việt Nam: Tháng 10/2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G NR kép (hỗ trợ các băng tần SA/NSA Sub-6GHz tại Việt Nam), 4G LTE, 3G WCDMA, 2G GSM",
+      "Thẻ SIM": "2 khe Nano-SIM vật lý riêng biệt",
+      "Wi-Fi": "Wi-Fi 5 (802.11 a/b/g/n/ac, 2.4GHz & 5GHz, Wi-Fi Direct, Hotspot)",
+      "Bluetooth": "Bluetooth 5.1 (hỗ trợ BLE, SBC, AAC, LDAC, aptX, aptX HD)",
+      "Công nghệ NFC": "Có hỗ trợ NFC thanh toán Google Pay tiện lợi",
+      "GPS": "GPS (L1), BeiDou (B1I+B1C), GLONASS (G1), Galileo (E1), A-GNSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Mặt trước kính cường lực, khung viền và mặt lưng polymer gia cường chống va đập",
+      "Chất liệu mặt lưng": "Mặt trước kính cường lực, khung viền và mặt lưng polymer gia cường chống va đập",
+      "Kích thước": "168.3 x 78.54 x 8.30 mm (thiết kế cứng cáp, đầm chắc)",
+      "Trọng lượng": "Khoảng 216.5 gram (cân bằng hoàn hảo với viên pin siêu khủng 8100 mAh)",
+      "Chỉ số kháng nước, bụi": "Đạt đồng thời 3 chuẩn kháng bụi và nước cao nhất: IP68, IP69 và IP69K (chống nước áp lực cao và nước nóng) (Đạt chuẩn chống sốc chống rơi vỡ từ độ cao 2.5m chuẩn 5 sao từ tổ chức SGS Thụy Sĩ)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo hỗ trợ chế độ khuếch đại âm lượng siêu lớn 400%; Hiệu ứng âm thanh HONOR Sound 7.3 không gian đa chiều sống động; Jack 3.5mm: Không có jack 3.5mm (sử dụng cổng Type-C hoặc tai nghe không dây)",
+      "Cảm biến vân tay": "Cảm biến vân tay tích hợp nút nguồn ở cạnh bên cực nhạy, Mở khóa khuôn mặt 2D",
+      "Các loại cảm biến": "Cảm biến trọng lực, Cảm biến gia tốc, La bàn số, Cảm biến ánh sáng môi trường, Cảm biến tiệm cận"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,87 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "TFT LCD 120Hz, độ sáng 1.020 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "1604 x 720 pixel (HD+)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 4 Gen 4 (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "6GB / 8GB LPDDR4X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB UFS 2.2"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP AI Main Camera (ƒ/1.8) + Cảm biến chiều sâu"
+    },
+    {
+      "label": "Camera trước",
+      "value": "5MP Selfie (ƒ/2.2)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "8.100 mAh (Pin khủng Silicon-Carbon)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh 45W, sạc ngược có dây 7,5W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "MagicOS 10 (Android 16)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 / IP69 / IP69K & Chống rơi 2,5m SGS"
+    }
+  ],
+  "verbatimDescription": [
+    "HONOR 600s 5G được công bố ra thị trường vào ngày 21/09/2026 và chính thức mở bán tại thị trường Việt Nam vào tháng 10/2026 thông qua hệ thống Thế Giới Di Động, CellphoneS và FPT Shop. Chiếc smartphone này được thiết kế để trở thành 'ông vua pin trâu kiêm pháo đài bền bỉ' trong phân khúc phổ thông - tầm trung, đánh trúng tâm lý của nhóm người dùng đề cao sự thực dụng, pin dùng cả tuần và độ bền va đập tuyệt đối. Tại Việt Nam, máy nhanh chóng tạo lập chỗ đứng vững chắc nhờ viên pin dung lượng khổng lồ 8100 mAh, bộ ba tiêu chuẩn chống nước IP68/IP69/IP69K hiếm có trong tầm giá dưới 6 triệu đồng, loa kép âm lượng 400% cùng kết nối 5G tốc độ cao đón đầu xu hướng mạng di động tương lai.",
+    "HONOR 600s 5G sở hữu độ bền cơ học phi thường mà hiếm có chiếc smartphone phổ thông nào có thể sánh kịp. Toàn bộ thân máy được bao bọc bởi cấu trúc giảm chấn đa tầng với khung viền polymer gia cường, giúp máy vượt qua bài kiểm tra rơi tự do từ độ cao 2.5m xuống sàn bê tông mà không hề bị nứt vỡ màn hình, vinh dự nhận chứng nhận 5 sao từ tổ chức kiểm định quốc tế SGS Thụy Sĩ. Đặc biệt, máy đạt cùng lúc 3 tiêu chuẩn kháng nước bụi cao nhất thế giới hiện nay gồm IP68 (ngâm nước sâu), IP69 (chống tia nước áp lực cực mạnh) và IP69K (chống nước nóng lên tới 80 độ C). Người dùng có thể hoàn toàn yên tâm sử dụng máy dưới những cơn mưa bão lớn, môi trường bùn đất công trường hay rửa máy trực tiếp dưới vòi nước mà không sợ hư hỏng.",
+    "Trái tim năng lượng của HONOR 600s 5G là viên pin Silicon-Carbon mật độ cao dung lượng lên tới 8100 mAh. Trong các bài thử nghiệm thực tế của các kênh công nghệ tại Việt Nam, máy cho thời lượng xem video liên tục hơn 30 giờ, đàm thoại liên tục hơn 50 giờ và có thể duy trì hoạt động từ 3 đến 4 ngày sau một lần sạc đầy với các tác vụ thông thường. Máy đi kèm củ sạc nhanh HONOR SuperCharge 45W trong hộp giúp rút ngắn thời gian sạc cho viên pin khổng lồ. Hơn thế nữa, tính năng sạc ngược có dây công suất 7.5W cho phép người dùng biến chiếc điện thoại thành nguồn pin dự phòng cứu cánh để sạc pin cho điện thoại bạn bè, tai nghe không dây hoặc đồng hồ thông minh trong những chuyến phượt dài ngày.",
+    "Mặt trước của máy được trang bị màn hình kích thước cực lớn 6.872 inch, tần số quét 120Hz mượt mà mang lại không gian thao tác vô cùng thoải mái cho người lớn tuổi đọc báo hay tài xế công nghệ xem bản đồ chỉ đường. Công nghệ tăng cường ánh sáng ngoài trời Sunlight Enhancement giúp độ sáng đẩy lên 1020 nits, đảm bảo mọi chi tiết hiển thị rõ ràng dưới trời nắng gắt ban trưa. Trải nghiệm giải trí và đàm thoại trên máy vô cùng ấn tượng nhờ hệ thống loa kép Stereo kết hợp thuật toán khuếch đại âm lượng lên tới 400%. m lượng phát ra cực lớn, trong trẻo và không bị rè, giúp người dùng không bao giờ bỏ lỡ bất kỳ cuộc gọi hay thông báo đơn hàng nào ngay cả khi đang chạy xe máy giữa dòng xe cộ ồn ào.",
+    "Cung cấp sức mạnh cho máy là vi xử lý Qualcomm Snapdragon 4 Gen 4 sản xuất trên tiến trình 4nm hiện đại. Với 8 nhân CPU gồm 2 nhân Cortex-A78 xung nhịp 2.3 GHz và GPU Adreno 613, máy xử lý mượt mà mọi tác vụ hàng ngày như lướt TikTok, Facebook, xem YouTube độ phân giải cao và chơi tốt các tựa game như Liên Quân Mobile hay Free Fire ở mức 60fps ổn định. Máy được phân phối với các tùy chọn RAM 6GB hoặc 8GB, hỗ trợ công nghệ mở rộng RAM ảo HONOR RAM Turbo thêm 8GB, cùng bộ nhớ lưu trữ 128GB hoặc 256GB tha hồ lưu trữ dữ liệu cá nhân.",
+    "HONOR 600s 5G được trang bị một phím bấm vật lý riêng biệt mang tên Instant AI Button ở cạnh máy. Phím bấm này có thể tùy biến linh hoạt để kích hoạt các tính năng trí tuệ nhân tạo như Circle to Search, mở nhanh đèn pin, ghi âm cuộc gọi hoặc khởi động nhanh ứng dụng giao hàng chỉ bằng một cú bấm đúp tiện lợi. Máy cài sẵn giao diện MagicOS 10 trên nền Android 16 với các tính năng thông minh như Magic Capsule, Tẩy vật thể AI, Tóm tắt văn bản AI và kết nối 5G kép tốc độ cao, đem lại trải nghiệm sử dụng hiện đại và bền bỉ trong nhiều năm."
+  ],
+  "priceSegment": "midrange"
+}

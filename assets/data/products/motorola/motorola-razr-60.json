@@ -1,0 +1,463 @@
+{
+  "id": "motorola-razr-60",
+  "brand": "Motorola",
+  "brandId": "motorola",
+  "parentGroupId": "motorola",
+  "model": "Motorola Razr 60",
+  "series": "Motorola Razr (Màn gập)",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "foldable",
+    "high-end"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 19,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025 – 2026",
+    "segment": "Màn hình gập",
+    "description": "Ra mắt tháng 4/2025, Motorola Razr 60 là mẫu điện thoại gập vỏ sò thời thượng kết hợp màn hình ngoài 3,6 inch đa năng với màn hình chính 6,9 inch LTPO 120Hz (3.000 nit), bản lề gia cố tấm Titanium đạt chuẩn kháng bụi nước IP48, vi xử lý MediaTek Dimensity 7400X và viên pin nâng lên 4.500 mAh hỗ trợ cả sạc nhanh 30W lẫn sạc không dây 15W. Tại AURIX MOBILE, Motorola Razr 60 là phụ kiện công nghệ đẳng cấp dành cho người dùng yêu thích phong cách thời trang độc bản. (Nguồn tham chiếu: GSMArena - Motorola Razr 60).",
+    "highlights": [
+      "Gập 6,9\" + Màn ngoài 3,6\"",
+      "Dimensity 7400X",
+      "Bản lề Titanium / IP48 / Sạc không dây"
+    ],
+    "officialDistribution": "Model được bảo lưu từ danh sách trước nhưng chưa đủ bằng chứng đang mở bán chính thức trong lượt đối chiếu ngày 01/11/2026; giữ trạng thái needs_verification để không mất dấu dữ liệu."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 15490000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT005-MOTORAZR60-TRANG-KEM-8GB-256GB",
+      "color": "Trắng Kem",
+      "colorHex": "#FEF9C3",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 15490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/motorola/motorola-razr-60/anh-dai-dien-motorola-razr-60-trang-kem.webp",
+        "assets/images/products/motorola/motorola-razr-60/mat-truoc-mat-sau-motorola-razr-60-trang-kem.webp",
+        "assets/images/products/motorola/motorola-razr-60/goc-nghieng-mat-lung-motorola-razr-60-trang-kem.webp",
+        "assets/images/products/motorola/motorola-razr-60/man-hinh-phu-khi-gap-motorola-razr-60-trang-kem.webp",
+        "assets/images/products/motorola/motorola-razr-60/Motorola-Razr-60.jpg",
+        "assets/images/products/motorola/motorola-razr-60/thong-so-noi-bat-motorola-razr-60-trang-kem-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "DT005-MOTORAZR60-TRANG-KEM-12GB-512GB",
+      "color": "Trắng Kem",
+      "colorHex": "#FEF9C3",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 18990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/motorola/motorola-razr-60/anh-dai-dien-motorola-razr-60-trang-kem.webp",
+        "assets/images/products/motorola/motorola-razr-60/mat-truoc-mat-sau-motorola-razr-60-trang-kem.webp",
+        "assets/images/products/motorola/motorola-razr-60/goc-nghieng-mat-lung-motorola-razr-60-trang-kem.webp",
+        "assets/images/products/motorola/motorola-razr-60/man-hinh-phu-khi-gap-motorola-razr-60-trang-kem.webp",
+        "assets/images/products/motorola/motorola-razr-60/Motorola-Razr-60.jpg",
+        "assets/images/products/motorola/motorola-razr-60/thong-so-noi-bat-motorola-razr-60-trang-kem-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "DT005-MOTORAZR60-XANH-DUONG-8GB-256GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 15490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/motorola/motorola-razr-60/mat-truoc-mat-sau-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/man-hinh-chinh-mat-truoc-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/thiet-ke-mat-lung-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/canh-duoi-cong-sac-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/canh-trai-canh-phai-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/canh-tren-canh-duoi-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/can-canh-man-hinh-phu-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/hieu-nang-dimensity-7400x-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/man-hinh-phu-khi-gap-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/trai-nghiem-chup-anh-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/tren-tay-khi-gap-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/Motorola-Razr-60.jpg",
+        "assets/images/products/motorola/motorola-razr-60/thong-so-noi-bat-motorola-razr-60-trang-kem-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "DT005-MOTORAZR60-XANH-DUONG-12GB-512GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 18990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/motorola/motorola-razr-60/mat-truoc-mat-sau-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/man-hinh-chinh-mat-truoc-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/thiet-ke-mat-lung-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/canh-duoi-cong-sac-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/canh-trai-canh-phai-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/canh-tren-canh-duoi-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/can-canh-man-hinh-phu-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/hieu-nang-dimensity-7400x-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/man-hinh-phu-khi-gap-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/trai-nghiem-chup-anh-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/tren-tay-khi-gap-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/Motorola-Razr-60.jpg",
+        "assets/images/products/motorola/motorola-razr-60/thong-so-noi-bat-motorola-razr-60-trang-kem-xanh-duong.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "Foldable LTPO AMOLED 120Hz (Trong) + AMOLED 90Hz (Ngoài)",
+    "size": "Chính 6,9 inch / Ngoài 3,6 inch",
+    "resolution": "Trong 2640 x 1080 (413 ppi) / Ngoài 1056 x 1066 pixel (413 ppi)",
+    "refreshRate": "Trong 1–120Hz LTPO / Ngoài 90Hz",
+    "brightness": "Chuẩn màu Pantone Validated, HDR10+, độ sáng đỉnh màn trong 3.000 nit / màn ngoài 1.700 nit, sử dụng đầy đủ ứng dụng ngay trên màn hình ngoài 3,6 inch",
+    "hdr": "HDR10+ / HLG",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "MediaTek Dimensity 7400X (4nm)",
+    "cpu": "CPU 8 nhân: 4 nhân Cortex-A78 (2,6 GHz) + 4 nhân Cortex-A55 (2,0 GHz)",
+    "gpu": "ARM Mali-G615 MC2",
+    "ram": [
+      "8GB",
+      "12GB"
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ],
+    "operatingSystem": "Android 15 (Giao diện Hello UI)",
+    "uiVersion": "Android",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Chính OIS (ƒ/1.7) + 13MP Góc siêu rộng 120° & Macro",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "Quay video 4K UHD ở 30fps, 1080p ở 30/60fps; Chế độ quay Camcorder cầm ngang như máy quay cổ điển khi gập máy 90 độ"
+    ],
+    "aiFeatures": [
+      "Chụp selfie bằng camera chính 50MP qua màn hình ngoài 3,6 inch, Flex View đặt máy tự đứng trên mặt bàn, Moto AI Photo Enhancement, Night Vision"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "32MP (ƒ/2.4), quay 4K 30fps",
+    "features": [
+      "Camera Selfie màn hình trong 32MP (khẩu độ ƒ/2.4, công nghệ Quad Pixel); Quay video 4K@30fps và 1080p@30/60fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "4.500 mAh",
+    "wiredCharging": "Sạc nhanh có dây 30W TurboPower, sạc không dây 15W",
+    "wirelessCharging": "Có hỗ trợ sạc không dây",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc nhanh có dây 30W TurboPower | Hỗ trợ sạc không dây 15W tiện lợi"
+  },
+  "connectivity": {
+    "sim": [
+      "SIM kép (Nano-SIM + eSIM)"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 6E / Wi-Fi 6 ba băng tần",
+    "bluetooth": "Bluetooth 5.4 hỗ trợ A2DP, LE",
+    "gps": [
+      "GPS, GLONASS, GALILEO, BDS, QZSS"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "Khi mở: 171,3 x 74,0 x 7,25 mm | Khi gập: 88,1 x 74,0 x 15,85 mm",
+    "weight": "188 gram",
+    "materials": [
+      "Khung hợp kim nhôm 6000-series kết hợp bản lề tấm Titanium",
+      "Mặt lưng da thuần chay hoặc hoàn thiện vân đá cẩm thạch/axetat Pantone độc bản"
+    ],
+    "waterResistance": "IP48 kháng bụi và chống nước ngâm sâu 1,5m",
+    "availableColors": [
+      "Trắng Kem",
+      "Xanh Dương"
+    ]
+  },
+  "audio": {
+    "speakers": "Hệ thống loa kép Stereo chuẩn Dolby Atmos & Spatial Audio, 3 micro lọc ồn",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Motorola Razr",
+    "Motorola",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Motorola tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/motorola/motorola-razr-60/anh-dai-dien-motorola-razr-60-trang-kem.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/motorola/motorola-razr-60/anh-dai-dien-motorola-razr-60-trang-kem.webp",
+      "assets/images/products/motorola/motorola-razr-60/mat-truoc-mat-sau-motorola-razr-60-trang-kem.webp",
+      "assets/images/products/motorola/motorola-razr-60/mat-truoc-mat-sau-motorola-razr-60-xanh-duong.webp",
+      "assets/images/products/motorola/motorola-razr-60/man-hinh-chinh-mat-truoc-motorola-razr-60-xanh-duong.webp",
+      "assets/images/products/motorola/motorola-razr-60/goc-nghieng-mat-lung-motorola-razr-60-trang-kem.webp",
+      "assets/images/products/motorola/motorola-razr-60/thiet-ke-mat-lung-motorola-razr-60-xanh-duong.webp",
+      "assets/images/products/motorola/motorola-razr-60/canh-duoi-cong-sac-motorola-razr-60-xanh-duong.webp",
+      "assets/images/products/motorola/motorola-razr-60/canh-trai-canh-phai-motorola-razr-60-xanh-duong.webp",
+      "assets/images/products/motorola/motorola-razr-60/canh-tren-canh-duoi-motorola-razr-60-xanh-duong.webp",
+      "assets/images/products/motorola/motorola-razr-60/Motorola-Razr-60.jpg",
+      "assets/images/products/motorola/motorola-razr-60/can-canh-man-hinh-phu-motorola-razr-60-xanh-duong.webp",
+      "assets/images/products/motorola/motorola-razr-60/hieu-nang-dimensity-7400x-motorola-razr-60-xanh-duong.webp",
+      "assets/images/products/motorola/motorola-razr-60/man-hinh-phu-khi-gap-motorola-razr-60-trang-kem.webp",
+      "assets/images/products/motorola/motorola-razr-60/man-hinh-phu-khi-gap-motorola-razr-60-xanh-duong.webp",
+      "assets/images/products/motorola/motorola-razr-60/trai-nghiem-chup-anh-motorola-razr-60-xanh-duong.webp",
+      "assets/images/products/motorola/motorola-razr-60/tren-tay-khi-gap-motorola-razr-60-xanh-duong.webp",
+      "assets/images/products/motorola/motorola-razr-60/thong-so-noi-bat-motorola-razr-60-trang-kem-xanh-duong.webp"
+    ],
+    "byColor": {
+      "Trắng Kem": [
+        "assets/images/products/motorola/motorola-razr-60/anh-dai-dien-motorola-razr-60-trang-kem.webp",
+        "assets/images/products/motorola/motorola-razr-60/mat-truoc-mat-sau-motorola-razr-60-trang-kem.webp",
+        "assets/images/products/motorola/motorola-razr-60/goc-nghieng-mat-lung-motorola-razr-60-trang-kem.webp",
+        "assets/images/products/motorola/motorola-razr-60/man-hinh-phu-khi-gap-motorola-razr-60-trang-kem.webp",
+        "assets/images/products/motorola/motorola-razr-60/Motorola-Razr-60.jpg",
+        "assets/images/products/motorola/motorola-razr-60/thong-so-noi-bat-motorola-razr-60-trang-kem-xanh-duong.webp"
+      ],
+      "Xanh Dương": [
+        "assets/images/products/motorola/motorola-razr-60/mat-truoc-mat-sau-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/man-hinh-chinh-mat-truoc-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/thiet-ke-mat-lung-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/canh-duoi-cong-sac-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/canh-trai-canh-phai-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/canh-tren-canh-duoi-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/can-canh-man-hinh-phu-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/hieu-nang-dimensity-7400x-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/man-hinh-phu-khi-gap-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/trai-nghiem-chup-anh-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/tren-tay-khi-gap-motorola-razr-60-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-razr-60/Motorola-Razr-60.jpg",
+        "assets/images/products/motorola/motorola-razr-60/thong-so-noi-bat-motorola-razr-60-trang-kem-xanh-duong.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/motorola/motorola-razr-60/mat-truoc-mat-sau-motorola-razr-60-trang-kem.webp",
+      "screen": "assets/images/products/motorola/motorola-razr-60/mat-truoc-mat-sau-motorola-razr-60-xanh-duong.webp",
+      "performance": "assets/images/products/motorola/motorola-razr-60/hieu-nang-dimensity-7400x-motorola-razr-60-xanh-duong.webp",
+      "camera": "assets/images/products/motorola/motorola-razr-60/trai-nghiem-chup-anh-motorola-razr-60-xanh-duong.webp",
+      "battery": "assets/images/products/motorola/motorola-razr-60/canh-duoi-cong-sac-motorola-razr-60-xanh-duong.webp",
+      "feature": "assets/images/products/motorola/motorola-razr-60/canh-trai-canh-phai-motorola-razr-60-xanh-duong.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/motorola/motorola-razr-60/mat-truoc-mat-sau-motorola-razr-60-trang-kem.webp",
+      "assets/images/products/motorola/motorola-razr-60/mat-truoc-mat-sau-motorola-razr-60-xanh-duong.webp",
+      "assets/images/products/motorola/motorola-razr-60/man-hinh-chinh-mat-truoc-motorola-razr-60-xanh-duong.webp",
+      "assets/images/products/motorola/motorola-razr-60/goc-nghieng-mat-lung-motorola-razr-60-trang-kem.webp",
+      "assets/images/products/motorola/motorola-razr-60/thiet-ke-mat-lung-motorola-razr-60-xanh-duong.webp",
+      "assets/images/products/motorola/motorola-razr-60/canh-duoi-cong-sac-motorola-razr-60-xanh-duong.webp",
+      "assets/images/products/motorola/motorola-razr-60/canh-trai-canh-phai-motorola-razr-60-xanh-duong.webp",
+      "assets/images/products/motorola/motorola-razr-60/canh-tren-canh-duoi-motorola-razr-60-xanh-duong.webp",
+      "assets/images/products/motorola/motorola-razr-60/Motorola-Razr-60.jpg",
+      "assets/images/products/motorola/motorola-razr-60/can-canh-man-hinh-phu-motorola-razr-60-xanh-duong.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-motorola",
+      "https://www.motorola.com/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "needs_verification",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Cần xác minh thêm",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT005-MOTORAZR60",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "Foldable LTPO AMOLED 120Hz (Trong) + AMOLED 90Hz (Ngoài)",
+      "Kích thước màn hình": "Chính 6,9 inch / Ngoài 3,6 inch",
+      "Độ phân giải màn hình": "Trong 2640 x 1080 (413 ppi) / Ngoài 1056 x 1066 pixel (413 ppi)",
+      "Tần số quét": "Trong 1–120Hz LTPO / Ngoài 90Hz",
+      "Kiểu màn hình": "Màn hình gập vỏ sò thời trang, màn ngoài bảo vệ bởi kính Corning Gorilla Glass Victus",
+      "Tính năng màn hình": "Chuẩn màu Pantone Validated, HDR10+, độ sáng đỉnh màn trong 3.000 nit / màn ngoài 1.700 nit, sử dụng đầy đủ ứng dụng ngay trên màn hình ngoài 3,6 inch"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera kép chuẩn màu Pantone: (1) Camera chính 50MP: khẩu độ lớn ƒ/1.7, công nghệ Ultra Pixel, lấy nét Dual Pixel PDAF, chống rung quang học OIS; (2) Camera Góc siêu rộng & Macro 13MP: khẩu độ ƒ/2.2, góc nhìn 120°, tích hợp lấy nét tự động AF chụp cận cảnh Macro Vision",
+      "Quay video": "Quay video 4K UHD ở 30fps, 1080p ở 30/60fps; Chế độ quay Camcorder cầm ngang như máy quay cổ điển khi gập máy 90 độ",
+      "Tính năng camera": "Chụp selfie bằng camera chính 50MP qua màn hình ngoài 3,6 inch, Flex View đặt máy tự đứng trên mặt bàn, Moto AI Photo Enhancement, Night Vision"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera Selfie màn hình trong 32MP (khẩu độ ƒ/2.4, công nghệ Quad Pixel); Quay video 4K@30fps và 1080p@30/60fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Dimensity 7400X (4nm)",
+      "Loại CPU": "CPU 8 nhân: 4 nhân Cortex-A78 (2,6 GHz) + 4 nhân Cortex-A55 (2,0 GHz)",
+      "GPU": "ARM Mali-G615 MC2"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB / 12GB LPDDR4X",
+      "Bộ nhớ trong": "256GB / 512GB chuẩn UFS 2.2"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "4.500 mAh (Pin kép mật độ cao nâng cấp thêm 300 mAh so với thế hệ trước)",
+      "Công nghệ sạc": "Sạc nhanh có dây 30W TurboPower | Hỗ trợ sạc không dây 15W tiện lợi",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 15 (Giao diện Hello UI)",
+      "Công nghệ - Tiện ích": "Tích hợp Moto AI chuyên biệt cho điện thoại gập, Google Gemini ngay trên màn hình ngoài, Circle to Search",
+      "Tiện ích khác": "Bản lề giọt nước gia cố bằng tấm Titanium bền gấp 4 lần thép phẫu thuật, hạn chế tối đa nếp gấp màn hình",
+      "Thời điểm ra mắt": "Tháng 04/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G",
+      "Thẻ SIM": "SIM kép (Nano-SIM + eSIM)",
+      "Wi-Fi": "Wi-Fi 6E / Wi-Fi 6 ba băng tần",
+      "Bluetooth": "Bluetooth 5.4 hỗ trợ A2DP, LE",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa năng",
+      "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung hợp kim nhôm 6000-series kết hợp bản lề tấm Titanium",
+      "Chất liệu mặt lưng": "Mặt lưng da thuần chay hoặc hoàn thiện vân đá cẩm thạch/axetat Pantone độc bản",
+      "Kích thước": "Khi mở: 171,3 x 74,0 x 7,25 mm | Khi gập: 88,1 x 74,0 x 15,85 mm",
+      "Trọng lượng": "188 gram",
+      "Chỉ số kháng nước, bụi": "Đạt chuẩn IP48 (chống vật thể rắn >1mm và chống ngâm nước ở độ sâu 1,5 mét trong 30 phút)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo chuẩn Dolby Atmos & Spatial Audio, 3 micro lọc ồn",
+      "Cảm biến vân tay": "Cảm biến vân tay tích hợp phím nguồn cạnh bên + Mở khóa khuôn mặt",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Tiệm cận, Ánh sáng môi trường, Cảm biến Hall, La bàn số"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "Chính 6,9 inch / Ngoài 3,6 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "Foldable LTPO AMOLED 120Hz (Trong) + AMOLED 90Hz (Ngoài)"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "Trong 2640 x 1080 (413 ppi) / Ngoài 1056 x 1066 pixel (413 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "Trong 1–120Hz LTPO / Ngoài 90Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 7400X (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB / 12GB LPDDR4X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB / 512GB chuẩn UFS 2.2"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính OIS (ƒ/1.7) + 13MP Góc siêu rộng 120° & Macro"
+    },
+    {
+      "label": "Camera trước",
+      "value": "32MP (ƒ/2.4), quay 4K 30fps"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "4.500 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh có dây 30W TurboPower, sạc không dây 15W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 15 (Giao diện Hello UI)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP48 kháng bụi và chống nước ngâm sâu 1,5m"
+    }
+  ],
+  "verbatimDescription": [
+    "Ra mắt tháng 4/2025, Motorola Razr 60 là mẫu điện thoại gập vỏ sò thời thượng kết hợp màn hình ngoài 3,6 inch đa năng với màn hình chính 6,9 inch LTPO 120Hz (3.000 nit), bản lề gia cố tấm Titanium đạt chuẩn kháng bụi nước IP48, vi xử lý MediaTek Dimensity 7400X và viên pin nâng lên 4.500 mAh hỗ trợ cả sạc nhanh 30W lẫn sạc không dây 15W. Tại AURIX MOBILE, Motorola Razr 60 là phụ kiện công nghệ đẳng cấp dành cho người dùng yêu thích phong cách thời trang độc bản.",
+    "Motorola Razr 60 sở hữu ngoại hình cuốn hút với chất liệu mặt lưng da thuần chay phối màu Pantone và bản lề gia cố bằng tấm Titanium siêu bền. Máy đạt chuẩn IP48 giúp bảo vệ an toàn cả trước hạt bụi >1mm lẫn ngâm nước ở độ sâu 1,5 mét trong 30 phút.",
+    "Khi gập lại, màn hình ngoài 3,6 inch AMOLED (1056 x 1066 pixel, 90Hz, 1.700 nit, kính Gorilla Glass Victus) cho phép người dùng trả lời tin nhắn, xem bản đồ, nghe nhạc và gọi trợ lý Google Gemini mà không cần mở máy. Khi mở ra là màn hình lớn 6,9 inch LTPO AMOLED 1–120Hz đạt độ sáng đỉnh 3.000 nit phẳng mịn.",
+    "Hệ thống camera sau gồm camera chính 50MP OIS (ƒ/1.7) và camera góc siêu rộng & Macro 13MP (120°). Nhờ cơ chế gập Flex View linh hoạt, người dùng có thể đặt máy tự đứng trên mặt bàn để chụp ảnh nhóm hoặc cầm ngang máy ở góc 90 độ để tự động kích hoạt chế độ quay phim Camcorder cổ điển.",
+    "Vi xử lý 4nm MediaTek Dimensity 7400X được tinh chỉnh riêng cho tác vụ màn hình kép đi kèm 8GB/12GB RAM và bộ nhớ 256GB/512GB trên nền tảng Android 15 tích hợp Moto AI.",
+    "Viên pin 4.500 mAh đi kèm sạc nhanh có dây 30W TurboPower và sạc không dây 15W giúp Motorola Razr 60 hoạt động bền bỉ suốt cả ngày dài."
+  ],
+  "priceSegment": "high-end"
+}

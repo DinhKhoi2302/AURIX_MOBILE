@@ -1,0 +1,322 @@
+{
+  "id": "redmi-a5",
+  "brand": "Redmi",
+  "brandId": "redmi",
+  "parentGroupId": "xiaomi_group",
+  "model": "Redmi A5",
+  "series": "Redmi A/C",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "entry-level"
+  ],
+  "status": "needs_verification",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 19,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Redmi A5 là mẫu smartphone khởi đầu giá rẻ nổi bật với màn hình cực lớn 6,88 inch tần số quét 120Hz mượt mà, camera chính nâng cấp lên 32MP AI, viên pin 5.200 mAh và hệ điều hành Android 15 mới nhất.",
+    "highlights": [
+      "Màn hình giải trí 6,88 inch rộng rãi kết hợp tần số quét 120Hz bảo vệ mắt TÜV Rheinland",
+      "Camera chính nâng cấp lên 32MP AI sắc nét đi kèm camera trước 8MP có vòng sáng mềm",
+      "Viên pin 5.200 mAh bền bỉ, vi xử lý 8 nhân Unisoc T7250 và cài sẵn Android 15"
+    ],
+    "officialDistribution": "Model được bảo lưu từ danh sách trước nhưng chưa đủ bằng chứng đang mở bán chính thức trong lượt đối chiếu ngày 01/11/2026; giữ trạng thái needs_verification để không mất dấu dữ liệu."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": null,
+    "originalPrice": null,
+    "promotionPrice": null,
+    "priceUpdatedAt": "2026-11-01",
+    "priceVerified": false
+  },
+  "variants": [
+    {
+      "sku": "AUR-RED-A5-RAM-STD-01",
+      "color": "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)",
+      "colorHex": "#102347",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "price": null,
+      "originalPrice": null,
+      "stockStatus": "needs_verification",
+      "images": [
+        "assets/images/placeholders/placeholder-default.svg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "IPS LCD 120Hz",
+    "size": "6,88 inch",
+    "resolution": "HD+ (1640 x 720 pixel)",
+    "refreshRate": "120Hz",
+    "brightness": "Độ sáng tối đa 600 nit, chế độ Đọc sách bảo vệ thị lực",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Unisoc T7250 (tiến trình 12nm tiết kiệm điện năng)",
+    "cpu": "CPU 8 nhân (2 nhân Cortex-A75 xung nhịp 1.8GHz + 6 nhân Cortex-A55 xung nhịp 1.6GHz)",
+    "gpu": "ARM Mali-G57 MP1",
+    "ram": [
+      "3GB"
+    ],
+    "storage": [
+      "64GB"
+    ],
+    "operatingSystem": "Android 15 (Go Edition tối ưu hóa mượt mà cho phần cứng phổ thông)",
+    "uiVersion": "Xiaomi HyperOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "32MP Chính AI (ƒ/2.0) + Cảm biến phụ",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "Quay video 1080p Full HD ở 30 fps; 720p HD ở 30 fps"
+    ],
+    "aiFeatures": [
+      "Chế độ chụp đêm Night Mode, HDR, Chân dung xóa phông AI, filmCamera"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "8MP (ƒ/2.0, Vòng sáng mềm)",
+    "features": [
+      "Camera trước 8MP (khẩu độ ƒ/2.0), tích hợp vòng sáng màn hình Soft-light Ring và quay video 1080p@30fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "5.200 mAh",
+    "wiredCharging": "Sạc nhanh 15W USB-C",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc 15W qua cổng USB Type-C | Không hỗ trợ sạc không dây"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano SIM + 1 khe thẻ nhớ microSD độc lập"
+    ],
+    "network": [
+      "4G LTE Dual SIM"
+    ],
+    "wifi": "Wi-Fi 5 băng tần kép (2.4GHz / 5GHz)",
+    "bluetooth": "Bluetooth 5.2",
+    "gps": [
+      "GPS, GLONASS, Galileo, BDS"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": false
+  },
+  "design": {
+    "dimensions": "171,7 x 77,8 x 8,26 mm",
+    "weight": "193 gram",
+    "materials": [
+      "Khung viền phẳng nhựa polycarbonate",
+      "Mặt lưng phẳng hoàn thiện vân nhám mịn với cụm camera hình bầu dục thanh lịch"
+    ],
+    "waterResistance": "Kháng nước nhẹ IP52",
+    "availableColors": [
+      "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa ngoài tăng âm lượng 150%, cổng tai nghe 3.5mm",
+    "headphoneJack": true,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Redmi A/C",
+    "Redmi",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Redmi tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/placeholders/placeholder-default.svg",
+    "hasAvatarNamed": false,
+    "gallery": [
+      "assets/images/placeholders/placeholder-default.svg"
+    ],
+    "byColor": {},
+    "bySection": {
+      "performance": "assets/images/placeholders/placeholder-default.svg"
+    }
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-xiaomi",
+      "https://www.mi.com/vn/phone/#redmi"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "needs_verification",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Cần xác minh thêm",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "verbatimDescription": [
+    "Redmi A5 mang lại bước tiến lớn cho dòng smartphone giá rẻ Redmi A-Series khi nâng kích thước màn hình lên tới 6,88 inch cùng tần số quét 120Hz. Người dùng phổ thông và người lớn tuổi có thể dễ dàng đọc chữ to rõ, xem tin tức và giải trí mượt mà.",
+    "Hệ thống camera được nâng cấp gấp 4 lần độ phân giải so với thế hệ A3 trước đây với cảm biến chính 32MP AI, giúp ghi lại hình ảnh đời thường, chụp hóa đơn và tài liệu rõ nét hơn hẳn.",
+    "Sức mạnh bên trong đến từ vi xử lý 8 nhân Unisoc T7250 kết hợp hệ điều hành Android 15 (Go Edition) tinh gọn, tiêu tốn ít tài nguyên và đảm bảo khả năng phản hồi ổn định.",
+    "Viên pin 5.200 mAh đi kèm cổng sạc USB Type-C 15W cung cấp thời lượng sử dụng lên tới 2 ngày liên tục với các nhu cầu nghe gọi, nhắn tin Zalo và xem YouTube.",
+    "Thiết bị vẫn trang bị cảm biến vân tay một chạm ở nút nguồn cạnh bên, giắc cắm tai nghe 3.5mm và khe thẻ nhớ microSD độc lập mở rộng tới 1TB."
+  ],
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,88 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "IPS LCD 120Hz"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "HD+ (1640 x 720 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Unisoc T7250 8 nhân (12nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "3GB / 4GB (Mở rộng RAM ảo 4GB)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "64GB / 128GB (Hỗ trợ thẻ nhớ 1TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "32MP Chính AI (ƒ/2.0) + Cảm biến phụ"
+    },
+    {
+      "label": "Camera trước",
+      "value": "8MP (ƒ/2.0, Vòng sáng mềm)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.200 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh 15W USB-C"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 15 (Go Edition)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "4G LTE Dual SIM"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "Kháng nước nhẹ IP52"
+    }
+  ],
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "IPS LCD hỗ trợ DC Dimming và đạt bộ đôi chứng nhận bảo vệ mắt TÜV Rheinland (Low Blue Light & Flicker Free)",
+      "Kích thước màn hình": "6,88 inch",
+      "Độ phân giải màn hình": "1640 x 720 pixel (HD+, mật độ điểm ảnh ~260 ppi)",
+      "Tần số quét": "120Hz AdaptiveSync",
+      "Kiểu màn hình": "Màn hình giọt nước, hỗ trợ cảm ứng khi tay ướt Wet Touch",
+      "Tính năng màn hình": "Độ sáng tối đa 600 nit, chế độ Đọc sách bảo vệ thị lực"
+    },
+    "Camera sau": {
+      "Camera sau": "Camera kép AI: Camera chính 32MP (khẩu độ ƒ/2.0, lấy nét tự động AF) + Cảm biến phụ đo độ sâu xóa phông",
+      "Quay video": "Quay video 1080p Full HD ở 30 fps; 720p HD ở 30 fps",
+      "Tính năng camera": "Chế độ chụp đêm Night Mode, HDR, Chân dung xóa phông AI, filmCamera"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera trước 8MP (khẩu độ ƒ/2.0), tích hợp vòng sáng màn hình Soft-light Ring và quay video 1080p@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Unisoc T7250 (tiến trình 12nm tiết kiệm điện năng)",
+      "Loại CPU": "CPU 8 nhân (2 nhân Cortex-A75 xung nhịp 1.8GHz + 6 nhân Cortex-A55 xung nhịp 1.6GHz)",
+      "GPU": "ARM Mali-G57 MP1"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "3GB / 4GB LPDDR4X (hỗ trợ mở rộng RAM ảo thêm tối đa 4GB)",
+      "Bộ nhớ trong": "64GB / 128GB eMMC 5.1 (có khe thẻ nhớ microSD độc lập lên đến 1TB)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.200 mAh (Pin Li-Po bền bỉ 1.000 chu kỳ sạc)",
+      "Công nghệ sạc": "Sạc 15W qua cổng USB Type-C | Không hỗ trợ sạc không dây",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 15 (Go Edition tối ưu hóa mượt mà cho phần cứng phổ thông)",
+      "Công nghệ - Tiện ích": "Mở rộng RAM ảo, Đài FM Radio, Tăng âm lượng loa 150%",
+      "Tiện ích khác": "Giữ lại cổng tai nghe 3.5mm và khe cắm 2 SIM + 1 thẻ nhớ độc lập",
+      "Thời điểm ra mắt": "03/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "4G LTE Dual VoLTE",
+      "Thẻ SIM": "2 Nano SIM + 1 khe thẻ nhớ microSD độc lập",
+      "Wi-Fi": "Wi-Fi 5 băng tần kép (2.4GHz / 5GHz)",
+      "Bluetooth": "Bluetooth 5.2",
+      "Công nghệ NFC": "Không hỗ trợ",
+      "GPS": "GPS, GLONASS, Galileo, BDS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền phẳng nhựa polycarbonate",
+      "Chất liệu mặt lưng": "Mặt lưng phẳng hoàn thiện vân nhám mịn với cụm camera hình bầu dục thanh lịch",
+      "Kích thước": "171,7 x 77,8 x 8,26 mm",
+      "Trọng lượng": "193 gram",
+      "Chỉ số kháng nước, bụi": "Chuẩn IP52 (kháng bụi và tia nước bắn nhẹ)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài tăng âm lượng 150%, cổng tai nghe 3.5mm",
+      "Cảm biến vân tay": "Cảm biến vân tay tích hợp phím nguồn cạnh bên & Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Cảm biến ánh sáng ảo, Cảm biến tiệm cận ảo"
+    }
+  }
+}

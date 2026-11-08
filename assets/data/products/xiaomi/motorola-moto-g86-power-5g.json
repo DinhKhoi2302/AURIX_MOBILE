@@ -1,0 +1,419 @@
+{
+  "id": "motorola-moto-g86-power-5g",
+  "model": "Motorola moto g86 power 5G",
+  "brand": "Xiaomi",
+  "brandId": "xiaomi",
+  "parentGroupId": "xiaomi",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "midrange"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "highlights": [
+      "6,67 inch P-OLED 1.5K",
+      "Dimensity 7300 (4nm)",
+      "Pin 6.720 mAh / IP68 & IP69"
+    ],
+    "description": "Ra mắt tháng 5/2025, Motorola moto g86 power 5G là mẫu điện thoại tầm trung hội tụ hàng loạt thông số vượt cấp: viên pin khủng 6.720 mAh trong thân máy nặng chỉ 198g, màn hình phẳng 6,67 inch P-OLED 1.5K độ sáng đỉnh 4.500 nit, vi xử lý 4nm MediaTek Dimensity 7300, camera 50MP Sony LYTIA 600 OIS và đặc biệt là chuẩn kháng nước bụi kép IP68/IP69 kết hợp độ bền quân đội MIL-STD-810H. (Nguồn tham chiếu: GSMArena - Motorola Moto G86 Power 5G).",
+    "releaseDate": "2025 – 2026"
+  },
+  "display": {
+    "technology": "P-OLED 1 tỷ màu (10-bit), 120Hz, HDR10+, 4.500 nit",
+    "size": "6,67 inch",
+    "resolution": "2712 x 1220 pixel (1.5K Super HD, 446 ppi)",
+    "refreshRate": "120Hz",
+    "brightness": "Độ phân giải 1.5K Super HD, độ sáng đỉnh 4.500 nit, HDR10+, 100% DCI-P3, cảm ứng khi tay ướt Water Touch",
+    "hdr": "HDR10+ / HLG",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "ram": [
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "chipset": "MediaTek Dimensity 7300 (4nm)",
+    "operatingSystem": "Android 15 (Giao diện Hello UI)",
+    "cpu": "CPU 8 nhân: 4 nhân Cortex-A78 (2,5 GHz) + 4 nhân Cortex-A55 (2,0 GHz)",
+    "gpu": "ARM Mali-G615 MC2"
+  },
+  "rearCamera": {
+    "main": "50MP Chính Sony LYT-600 OIS + 8MP Góc siêu rộng 118° & Macro (Quay 4K)",
+    "ultraWide": null,
+    "telephoto": null,
+    "ois": true,
+    "videoRecording": [
+      "Quay video 4K UHD ở 30fps, Full HD 1080p ở 30/60fps kèm chống rung OIS + gyro-EIS"
+    ],
+    "aiFeatures": [
+      "Moto AI xử lý ảnh, Night Vision chụp đêm, Chân dung xóa phông, Macro Vision, Dual Capture"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "32MP (ƒ/2.2, Quad Pixel), quay 4K 30fps",
+    "features": [
+      "Camera Selfie 32MP (khẩu độ ƒ/2.2, công nghệ Quad Pixel); Hỗ trợ HDR và quay video 4K@30fps, 1080p@30fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "6.720 mAh (Pin khủng Silicon-Carbon)",
+    "wiredCharging": "Sạc nhanh có dây 30W / 33W TurboPower",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc nhanh có dây 30W / 33W TurboPower qua cổng USB Type-C"
+  },
+  "connectivity": {
+    "sim": [
+      "SIM kép (Nano-SIM + eSIM hoặc 2 Nano-SIM)"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) băng tần kép",
+    "bluetooth": "Bluetooth 5.4 hỗ trợ A2DP, LE, aptX HD",
+    "gps": [
+      "GPS, GLONASS, GALILEO, BDS, QZSS"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "161,2 x 74,7 x 8,65 mm",
+    "weight": "198 gram",
+    "materials": [
+      "Khung viền phẳng siêu bền đạt chuẩn quân đội",
+      "Mặt lưng da thuần chay (Eco-leather) phối màu Pantone sang trọng"
+    ],
+    "waterResistance": "IP68 & IP69 + Độ bền quân đội MIL-STD-810H",
+    "availableColors": [
+      "Xanh Tím",
+      "Xanh Đen"
+    ]
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 6390000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/motorola/motorola-moto-g86-power-5g/anh-dai-dien-motorola-g86-power-xanh-tim.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/anh-dai-dien-motorola-g86-power-xanh-tim.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/mat-truoc-mat-sau-motorola-g86-power-xanh-den.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/mat-truoc-mat-sau-motorola-g86-power-xanh-tim.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/man-hinh-mat-truoc-motorola-g86-power-xanh-den.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/thiet-ke-mat-lung-motorola-g86-power-xanh-den.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/thiet-ke-mat-lung-motorola-g86-power-xanh-tim.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/tren-tay-mat-lung-motorola-g86-power-xanh-tim.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/canh-trai-canh-phai-motorola-g86-power-xanh-den.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/canh-trai-canh-phai-motorola-g86-power-xanh-tim.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/canh-tren-canh-duoi-motorola-g86-power-xanh-den.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/canh-tren-canh-duoi-motorola-g86-power-xanh-tim.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/canh-tren-dolby-atmos-motorola-g86-power-xanh-den.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/khung-vien-canh-ben-motorola-g86-power-xanh-tim.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/goc-nghieng-phim-nguon-motorola-g86-power-xanh-den.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/can-canh-cum-camera-motorola-g86-power-xanh-tim.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/cum-camera-sau-motorola-g86-power-xanh-den.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/dung-luong-pin-6720mah-motorola-g86-power-xanh-tim.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/hop-va-man-hinh-motorola-g86-power-xanh-tim.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/khay-sim-motorola-g86-power-xanh-den.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/man-hinh-hien-thi-sac-net-motorola-g86-power-xanh-tim.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/tren-tay-man-hinh-motorola-g86-power-xanh-den.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/thong-so-noi-bat-motorola-g86-power-xanh-tim-xanh-den.webp"
+    ],
+    "byColor": {
+      "Xanh Tím": [
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/anh-dai-dien-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/mat-truoc-mat-sau-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/thiet-ke-mat-lung-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/tren-tay-mat-lung-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/canh-trai-canh-phai-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/canh-tren-canh-duoi-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/khung-vien-canh-ben-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/can-canh-cum-camera-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/dung-luong-pin-6720mah-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/hop-va-man-hinh-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/man-hinh-hien-thi-sac-net-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/thiet-ke-mat-lung-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/thong-so-noi-bat-motorola-g86-power-xanh-tim-xanh-den.webp"
+      ],
+      "Xanh Đen": [
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/mat-truoc-mat-sau-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/man-hinh-mat-truoc-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/canh-trai-canh-phai-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/canh-tren-canh-duoi-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/canh-tren-dolby-atmos-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/goc-nghieng-phim-nguon-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/cum-camera-sau-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/khay-sim-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/tren-tay-man-hinh-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/thiet-ke-mat-lung-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/thong-so-noi-bat-motorola-g86-power-xanh-tim-xanh-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/motorola/motorola-moto-g86-power-5g/mat-truoc-mat-sau-motorola-g86-power-xanh-den.webp",
+      "screen": "assets/images/products/motorola/motorola-moto-g86-power-5g/mat-truoc-mat-sau-motorola-g86-power-xanh-tim.webp",
+      "performance": "assets/images/products/motorola/motorola-moto-g86-power-5g/goc-nghieng-phim-nguon-motorola-g86-power-xanh-den.webp",
+      "camera": "assets/images/products/motorola/motorola-moto-g86-power-5g/can-canh-cum-camera-motorola-g86-power-xanh-tim.webp",
+      "battery": "assets/images/products/motorola/motorola-moto-g86-power-5g/dung-luong-pin-6720mah-motorola-g86-power-xanh-tim.webp",
+      "feature": "assets/images/products/motorola/motorola-moto-g86-power-5g/canh-trai-canh-phai-motorola-g86-power-xanh-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/mat-truoc-mat-sau-motorola-g86-power-xanh-den.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/mat-truoc-mat-sau-motorola-g86-power-xanh-tim.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/man-hinh-mat-truoc-motorola-g86-power-xanh-den.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/thiet-ke-mat-lung-motorola-g86-power-xanh-den.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/thiet-ke-mat-lung-motorola-g86-power-xanh-tim.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/tren-tay-mat-lung-motorola-g86-power-xanh-tim.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/canh-trai-canh-phai-motorola-g86-power-xanh-den.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/canh-trai-canh-phai-motorola-g86-power-xanh-tim.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/canh-tren-canh-duoi-motorola-g86-power-xanh-den.webp",
+      "assets/images/products/motorola/motorola-moto-g86-power-5g/canh-tren-canh-duoi-motorola-g86-power-xanh-tim.webp"
+    ]
+  },
+  "variants": [
+    {
+      "sku": "DT004-MOTOG86POWER5G-XANH-TIM-8GB-128GB",
+      "color": "Xanh Tím",
+      "colorHex": "#4F46E5",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 6390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/anh-dai-dien-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/mat-truoc-mat-sau-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/thiet-ke-mat-lung-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/tren-tay-mat-lung-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/canh-trai-canh-phai-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/canh-tren-canh-duoi-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/khung-vien-canh-ben-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/can-canh-cum-camera-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/dung-luong-pin-6720mah-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/hop-va-man-hinh-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/man-hinh-hien-thi-sac-net-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/thiet-ke-mat-lung-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/thong-so-noi-bat-motorola-g86-power-xanh-tim-xanh-den.webp"
+      ]
+    },
+    {
+      "sku": "DT004-MOTOG86POWER5G-XANH-TIM-8GB-256GB",
+      "color": "Xanh Tím",
+      "colorHex": "#4F46E5",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 7190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/anh-dai-dien-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/mat-truoc-mat-sau-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/thiet-ke-mat-lung-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/tren-tay-mat-lung-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/canh-trai-canh-phai-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/canh-tren-canh-duoi-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/khung-vien-canh-ben-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/can-canh-cum-camera-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/dung-luong-pin-6720mah-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/hop-va-man-hinh-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/man-hinh-hien-thi-sac-net-motorola-g86-power-xanh-tim.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/thiet-ke-mat-lung-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/thong-so-noi-bat-motorola-g86-power-xanh-tim-xanh-den.webp"
+      ]
+    },
+    {
+      "sku": "DT004-MOTOG86POWER5G-XANH-DEN-8GB-128GB",
+      "color": "Xanh Đen",
+      "colorHex": "#1E293B",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 6390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/mat-truoc-mat-sau-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/man-hinh-mat-truoc-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/canh-trai-canh-phai-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/canh-tren-canh-duoi-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/canh-tren-dolby-atmos-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/goc-nghieng-phim-nguon-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/cum-camera-sau-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/khay-sim-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/tren-tay-man-hinh-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/thiet-ke-mat-lung-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/thong-so-noi-bat-motorola-g86-power-xanh-tim-xanh-den.webp"
+      ]
+    },
+    {
+      "sku": "DT004-MOTOG86POWER5G-XANH-DEN-8GB-256GB",
+      "color": "Xanh Đen",
+      "colorHex": "#1E293B",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 7190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/mat-truoc-mat-sau-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/man-hinh-mat-truoc-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/canh-trai-canh-phai-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/canh-tren-canh-duoi-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/canh-tren-dolby-atmos-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/goc-nghieng-phim-nguon-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/cum-camera-sau-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/khay-sim-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/tren-tay-man-hinh-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/thiet-ke-mat-lung-motorola-g86-power-xanh-den.webp",
+        "assets/images/products/motorola/motorola-moto-g86-power-5g/thong-so-noi-bat-motorola-g86-power-xanh-tim-xanh-den.webp"
+      ]
+    }
+  ],
+  "docCode": "DT004-MOTOG86POWER5G",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "P-OLED 1 tỷ màu (10-bit), 120Hz, HDR10+, 4.500 nit",
+      "Kích thước màn hình": "6,67 inch",
+      "Độ phân giải màn hình": "2712 x 1220 pixel (1.5K Super HD, 446 ppi)",
+      "Tần số quét": "120Hz",
+      "Kiểu màn hình": "Màn hình phẳng viền siêu mỏng, bảo vệ bởi kính Corning Gorilla Glass 7i",
+      "Tính năng màn hình": "Độ phân giải 1.5K Super HD, độ sáng đỉnh 4.500 nit, HDR10+, 100% DCI-P3, cảm ứng khi tay ướt Water Touch"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera kép chống rung quang học: (1) Camera chính 50MP: cảm biến Sony LYTIA 600 (1/1.95\"), khẩu độ ƒ/1.88, lấy nét PDAF, chống rung quang học OIS; (2) Camera Góc siêu rộng & Macro 8MP: khẩu độ ƒ/2.2, góc nhìn 118°, tích hợp lấy nét tự động AF chụp cận cảnh Macro Vision",
+      "Quay video": "Quay video 4K UHD ở 30fps, Full HD 1080p ở 30/60fps kèm chống rung OIS + gyro-EIS",
+      "Tính năng camera": "Moto AI xử lý ảnh, Night Vision chụp đêm, Chân dung xóa phông, Macro Vision, Dual Capture"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera Selfie 32MP (khẩu độ ƒ/2.2, công nghệ Quad Pixel); Hỗ trợ HDR và quay video 4K@30fps, 1080p@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Dimensity 7300 (4nm)",
+      "Loại CPU": "CPU 8 nhân: 4 nhân Cortex-A78 (2,5 GHz) + 4 nhân Cortex-A55 (2,0 GHz)",
+      "GPU": "ARM Mali-G615 MC2"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB / 12GB LPDDR4X",
+      "Bộ nhớ trong": "128GB / 256GB / 512GB (Hỗ trợ thẻ nhớ MicroSD)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "6.720 mAh (Pin dung lượng cực lớn đáp ứng hơn 2,5 ngày sử dụng liên tục)",
+      "Công nghệ sạc": "Sạc nhanh có dây 30W / 33W TurboPower qua cổng USB Type-C",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 15 (Giao diện Hello UI)",
+      "Công nghệ - Tiện ích": "Tích hợp Moto AI, Smart Connect kết nối đa màn hình, Moto Secure, Family Space",
+      "Tiện ích khác": "Đạt độ bền chuẩn quân đội MIL-STD-810H và kháng nước kép IP68 & IP69",
+      "Thời điểm ra mắt": "Tháng 05/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G",
+      "Thẻ SIM": "SIM kép (Nano-SIM + eSIM hoặc 2 Nano-SIM)",
+      "Wi-Fi": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) băng tần kép",
+      "Bluetooth": "Bluetooth 5.4 hỗ trợ A2DP, LE, aptX HD",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa năng",
+      "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền phẳng siêu bền đạt chuẩn quân đội",
+      "Chất liệu mặt lưng": "Mặt lưng da thuần chay (Eco-leather) phối màu Pantone sang trọng",
+      "Kích thước": "161,2 x 74,7 x 8,65 mm",
+      "Trọng lượng": "198 gram",
+      "Chỉ số kháng nước, bụi": "Đạt đồng thời chuẩn kháng bụi nước cao nhất IP68, IP69 và chứng nhận độ bền quân đội MIL-STD-810H"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo chuẩn Dolby Atmos, chứng nhận Hi-Res Audio",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình + Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Tiệm cận, Ánh sáng môi trường, La bàn số"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,67 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "P-OLED 1 tỷ màu (10-bit), 120Hz, HDR10+, 4.500 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2712 x 1220 pixel (1.5K Super HD, 446 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 7300 (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB / 12GB LPDDR4X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB / 512GB (Hỗ trợ thẻ nhớ MicroSD)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính Sony LYT-600 OIS + 8MP Góc siêu rộng 118° & Macro (Quay 4K)"
+    },
+    {
+      "label": "Camera trước",
+      "value": "32MP (ƒ/2.2, Quad Pixel), quay 4K 30fps"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "6.720 mAh (Pin khủng Silicon-Carbon)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh có dây 30W / 33W TurboPower"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 15 (Giao diện Hello UI)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 & IP69 + Độ bền quân đội MIL-STD-810H"
+    }
+  ],
+  "verbatimDescription": [
+    "Ra mắt tháng 5/2025, Motorola moto g86 power 5G là mẫu điện thoại tầm trung hội tụ hàng loạt thông số vượt cấp: viên pin khủng 6.720 mAh trong thân máy nặng chỉ 198g, màn hình phẳng 6,67 inch P-OLED 1.5K độ sáng đỉnh 4.500 nit, vi xử lý 4nm MediaTek Dimensity 7300, camera 50MP Sony LYTIA 600 OIS và đặc biệt là chuẩn kháng nước bụi kép IP68/IP69 kết hợp độ bền quân đội MIL-STD-810H. Tại AURIX MOBILE, đây là một trong những mẫu máy tầm trung toàn diệnและ bền bỉ nhất.",
+    "Dù sở hữu viên pin 6.720 mAh, moto g86 power 5G chỉ dày 8,65 mm và nặng 198 gram. Thân máy bọc da thuần chay Pantone kết hợp mặt kính Corning Gorilla Glass 7i, đạt chuẩn chống nước sâu IP68, chống tia nước nóng áp lực cao IP69 và vượt qua các bài thử nghiệm quân đội MIL-STD-810H.",
+    "Màn hình phẳng 6,67 inch P-OLED 10-bit có độ phân giải 1.5K Super HD (2712 x 1220 pixel, 446 ppi), tần số quét 120Hz và độ sáng đỉnh lên tới 4.500 nit, hiển thị rực rỡ ngay dưới nắng trưa.",
+    "Hệ thống camera gồm cảm biến chính 50MP Sony LYTIA 600 có chống rung quang học OIS, camera góc siêu rộng 8MP (118°) tích hợp chụp Macro Vision và camera trước 32MP, hỗ trợ quay video 4K@30fps sắc nét trên cả camera trước và sau.",
+    "Vi xử lý 4nm MediaTek Dimensity 7300 kết hợp 8GB/12GB RAM và bộ nhớ 128GB/256GB mang lại hiệu suất mượt mà và tiết kiệm pin tối ưu trên nền tảng Android 15 (Hello UI).",
+    "Viên pin 6.720 mAh kết hợp sạc nhanh 30W/33W TurboPower và loa kép Stereo Dolby Atmos giúp người dùng thoải mái làm việc và giải trí suốt gần 3 ngày."
+  ],
+  "series": "Xiaomi 14 Series",
+  "priceSegment": "midrange"
+}

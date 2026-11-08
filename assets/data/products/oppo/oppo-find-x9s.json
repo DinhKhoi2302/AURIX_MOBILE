@@ -1,0 +1,493 @@
+{
+  "id": "oppo-find-x9s",
+  "brand": "OPPO",
+  "brandId": "oppo",
+  "parentGroupId": "oppo",
+  "model": "OPPO Find X9s",
+  "series": "OPPO Find X Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "high-end"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025 – 2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "OPPO Find X9s là mẫu flagship nhỏ gọn hiệu năng cao thuộc dòng Find X9 Series, sở hữu màn hình AMOLED 6,59 inch 1.5K (2760 × 1256 pixel) 120Hz viền siêu mỏng 95,4%, vi xử lý MediaTek Dimensity 9500s (3nm), hệ thống 3 camera sau đồng đều 50MP hiệu chỉnh màu Hasselblad (Chính 50MP OIS + Tele 3x 50MP OIS + Góc siêu rộng 50MP AF) cùng viên pin Silicon-Carbon 7025mAh sạc nhanh 80W SUPERVOOC.",
+    "highlights": [
+      "Hệ thống 3 camera 50MP Hasselblad: 50MP Chính OIS + 50MP Tele 3x OIS + 50MP Góc siêu rộng 120° AF",
+      "Màn hình AMOLED 6,59 inch 1.5K (2760 × 1256), 120Hz, 3840Hz PWM, tỷ lệ hiển thị 95,4%",
+      "Chipset flagship MediaTek Dimensity 9500s (3nm) cùng RAM 12GB LPDDR5X & ROM UFS 4.1",
+      "Pin Silicon-Carbon 7025mAh trong thân máy mỏng 7,99mm nhẹ 202g, sạc nhanh 80W SUPERVOOC",
+      "Kháng nước bụi IP68/IP69, vân tay siêu âm dưới màn hình, Wi-Fi 7 & Bluetooth 6.1"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 21990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT010-OPFINDX9S-CAM-12GB-256GB",
+      "color": "Cam",
+      "colorHex": "#EA580C",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 21990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-find-x9s/anh-dai-dien-oppo-find-x9s-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/mat-truoc-mat-sau-oppo-find-x9s-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-phai-oppo-find-x9s-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-trai-oppo-find-x9s-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/man-hinh-goc-nghieng-phai-oppo-find-x9s-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/man-hinh-goc-nghieng-trai-oppo-find-x9s-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/thiet-ke-mong-nhe-ben-bi-oppo-find-x9s-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/tinh-nang-tro-ly-ai-oppo-find-x9s-trang.webp",
+        "assets/images/products/oppo/oppo-find-x9s/thong-so-noi-bat-oppo-find-x9s-cam-tim-xam.webp"
+      ]
+    },
+    {
+      "sku": "DT010-OPFINDX9S-CAM-12GB-512GB",
+      "color": "Cam",
+      "colorHex": "#EA580C",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 24490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-find-x9s/anh-dai-dien-oppo-find-x9s-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/mat-truoc-mat-sau-oppo-find-x9s-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-phai-oppo-find-x9s-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-trai-oppo-find-x9s-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/man-hinh-goc-nghieng-phai-oppo-find-x9s-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/man-hinh-goc-nghieng-trai-oppo-find-x9s-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/thiet-ke-mong-nhe-ben-bi-oppo-find-x9s-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/tinh-nang-tro-ly-ai-oppo-find-x9s-trang.webp",
+        "assets/images/products/oppo/oppo-find-x9s/thong-so-noi-bat-oppo-find-x9s-cam-tim-xam.webp"
+      ]
+    },
+    {
+      "sku": "DT010-OPFINDX9S-TIM-12GB-256GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 21990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-find-x9s/mat-truoc-mat-sau-oppo-find-x9s-tim.webp",
+        "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-phai-oppo-find-x9s-tim.webp",
+        "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-trai-oppo-find-x9s-tim.webp",
+        "assets/images/products/oppo/oppo-find-x9s/man-hinh-goc-nghieng-phai-oppo-find-x9s-tim.webp",
+        "assets/images/products/oppo/oppo-find-x9s/man-hinh-goc-nghieng-trai-oppo-find-x9s-tim.webp",
+        "assets/images/products/oppo/oppo-find-x9s/dung-luong-pin-7025mah-oppo-find-x9s-tim.webp",
+        "assets/images/products/oppo/oppo-find-x9s/tinh-nang-tro-ly-ai-oppo-find-x9s-trang.webp",
+        "assets/images/products/oppo/oppo-find-x9s/thong-so-noi-bat-oppo-find-x9s-cam-tim-xam.webp"
+      ]
+    },
+    {
+      "sku": "DT010-OPFINDX9S-TIM-12GB-512GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 24490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-find-x9s/mat-truoc-mat-sau-oppo-find-x9s-tim.webp",
+        "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-phai-oppo-find-x9s-tim.webp",
+        "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-trai-oppo-find-x9s-tim.webp",
+        "assets/images/products/oppo/oppo-find-x9s/man-hinh-goc-nghieng-phai-oppo-find-x9s-tim.webp",
+        "assets/images/products/oppo/oppo-find-x9s/man-hinh-goc-nghieng-trai-oppo-find-x9s-tim.webp",
+        "assets/images/products/oppo/oppo-find-x9s/dung-luong-pin-7025mah-oppo-find-x9s-tim.webp",
+        "assets/images/products/oppo/oppo-find-x9s/tinh-nang-tro-ly-ai-oppo-find-x9s-trang.webp",
+        "assets/images/products/oppo/oppo-find-x9s/thong-so-noi-bat-oppo-find-x9s-cam-tim-xam.webp"
+      ]
+    },
+    {
+      "sku": "DT010-OPFINDX9S-XAM-12GB-256GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 21990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-find-x9s/mat-truoc-mat-sau-oppo-find-x9s-xam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-phai-oppo-find-x9s-xam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-trai-oppo-find-x9s-xam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/man-hinh-goc-nghieng-phai-oppo-find-x9s-xam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/man-hinh-goc-nghieng-trai-oppo-find-x9s-xam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/he-thong-camera-hasselblad-oppo-find-x9s-xam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/tinh-nang-tro-ly-ai-oppo-find-x9s-trang.webp",
+        "assets/images/products/oppo/oppo-find-x9s/thong-so-noi-bat-oppo-find-x9s-cam-tim-xam.webp"
+      ]
+    },
+    {
+      "sku": "DT010-OPFINDX9S-XAM-12GB-512GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 24490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-find-x9s/mat-truoc-mat-sau-oppo-find-x9s-xam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-phai-oppo-find-x9s-xam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-trai-oppo-find-x9s-xam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/man-hinh-goc-nghieng-phai-oppo-find-x9s-xam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/man-hinh-goc-nghieng-trai-oppo-find-x9s-xam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/he-thong-camera-hasselblad-oppo-find-x9s-xam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/tinh-nang-tro-ly-ai-oppo-find-x9s-trang.webp",
+        "assets/images/products/oppo/oppo-find-x9s/thong-so-noi-bat-oppo-find-x9s-cam-tim-xam.webp"
+      ]
+    }
+  ],
+  "display": {
+    "size": "6,59 inch",
+    "technology": "AMOLED (1,07 tỷ màu, 100% DCI-P3, Dolby Vision, 3840Hz PWM)",
+    "resolution": "1.5K (2760 × 1256 Pixels)",
+    "refreshRate": "120Hz",
+    "maxBrightness": "800 nit (tiêu chuẩn) / 1800 nit (HBM) / 3600 nit (đỉnh)",
+    "protection": "Corning Gorilla Glass 7i"
+  },
+  "performance": {
+    "chipset": "MediaTek Dimensity 9500s (3nm)",
+    "cpu": "8 nhân (1×3.73GHz Cortex-X925 + 3×3.3GHz Cortex-X4 + 4×2.4GHz Cortex-A720)",
+    "gpu": "Immortalis-G925 MC12 @ 1612MHz",
+    "ram": "12GB LPDDR5X",
+    "internalStorage": "256GB / 512GB UFS 4.1",
+    "os": "Android 16 (ColorOS 16.0)"
+  },
+  "rearCamera": {
+    "mainSensor": "50MP (f/1.8, 24mm, cảm biến 1/1.56\", ống kính 6P, AF, chống rung OIS 2 trục)",
+    "ultraWide": "50MP (f/2.0, 15mm, góc nhìn 120°, ống kính 6P, hỗ trợ lấy nét tự động AF)",
+    "telephoto": "50MP Tele 3x (f/2.6, 73mm, ống kính 1G3P, AF, chống rung OIS 2 trục, zoom số 18x)",
+    "videoRecording": "4K@30/60fps, 1080p@30/60fps, Slow-motion 1080p@240fps, chống rung OIS + EIS, Dolby Vision HDR",
+    "features": [
+      "Hiệu chỉnh màu Hasselblad",
+      "Chế độ Master & XPAN",
+      "Cảm biến lấy nét Laser & Quang phổ màu",
+      "Chụp dưới nước (Underwater)",
+      "Video điện ảnh Cinematic"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "32MP (f/2.4, 21mm, góc nhìn 90°, ống kính 5P)",
+    "videoRecording": "4K@30/60fps, 1080p@30/60fps (EIS, HDR)",
+    "features": [
+      "Chân dung AI",
+      "Chụp đêm",
+      "Dual-view Video",
+      "Time-lapse"
+    ]
+  },
+  "battery": {
+    "capacity": "7025 mAh",
+    "batteryType": "Pin Silicon-Carbon (Si/C Li-Ion)",
+    "chargingPower": "Sạc siêu nhanh 80W SUPERVOOC (55W PPS, 13.5W PD)",
+    "wirelessCharging": "Không hỗ trợ"
+  },
+  "connectivity": {
+    "sim": "2 Nano-SIM hoặc 1 Nano-SIM + 1 eSIM",
+    "network": "5G SA/NSA đa băng tần & 4G LTE",
+    "wifi": "Wi-Fi 7 (802.11be) băng thông 320MHz, 2×2 MIMO",
+    "bluetooth": "Bluetooth 6.1 (LHDC 5.0, LDAC, aptX HD)",
+    "nfc": "Có hỗ trợ",
+    "usb": "USB Type-C, OTG, Hồng ngoại (IR)"
+  },
+  "design": {
+    "formFactor": "Nguyên khối gọn gàng, viền màn hình siêu mỏng đối xứng",
+    "materials": "Khung hợp kim nhôm, mặt kính Corning Gorilla Glass 7i",
+    "dimensionsWeight": "156,98 × 73,93 × 7,99 mm | 202g",
+    "waterResistance": "IP68 / IP69 (Kháng bụi, ngâm nước 1,5m và tia nước áp lực cao)",
+    "availableColors": [
+      "Đen",
+      "Trắng"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa đơn / Stereo tiêu chuẩn",
+    "headphoneJack": null,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Hệ thống 3 camera 50MP Hasselblad: 50MP Chính OIS + 50MP Tele 3x OIS + 50MP Góc siêu rộng 120° AF",
+    "Màn hình AMOLED 6,59 inch 1.5K (2760 × 1256), 120Hz, 3840Hz PWM, tỷ lệ hiển thị 95,4%",
+    "Chipset flagship MediaTek Dimensity 9500s (3nm) cùng RAM 12GB LPDDR5X & ROM UFS 4.1",
+    "Pin Silicon-Carbon 7025mAh trong thân máy mỏng 7,99mm nhẹ 202g, sạc nhanh 80W SUPERVOOC",
+    "Kháng nước bụi IP68/IP69, vân tay siêu âm dưới màn hình, Wi-Fi 7 & Bluetooth 6.1"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền OPPO tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/oppo/oppo-find-x9s/anh-dai-dien-oppo-find-x9s-cam.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/oppo/oppo-find-x9s/anh-dai-dien-oppo-find-x9s-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9s/mat-truoc-mat-sau-oppo-find-x9s-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9s/mat-truoc-mat-sau-oppo-find-x9s-tim.webp",
+      "assets/images/products/oppo/oppo-find-x9s/mat-truoc-mat-sau-oppo-find-x9s-xam.webp",
+      "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-phai-oppo-find-x9s-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-phai-oppo-find-x9s-tim.webp",
+      "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-phai-oppo-find-x9s-xam.webp",
+      "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-trai-oppo-find-x9s-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-trai-oppo-find-x9s-tim.webp",
+      "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-trai-oppo-find-x9s-xam.webp",
+      "assets/images/products/oppo/oppo-find-x9s/man-hinh-goc-nghieng-phai-oppo-find-x9s-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9s/man-hinh-goc-nghieng-phai-oppo-find-x9s-tim.webp",
+      "assets/images/products/oppo/oppo-find-x9s/man-hinh-goc-nghieng-phai-oppo-find-x9s-xam.webp",
+      "assets/images/products/oppo/oppo-find-x9s/man-hinh-goc-nghieng-trai-oppo-find-x9s-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9s/man-hinh-goc-nghieng-trai-oppo-find-x9s-tim.webp",
+      "assets/images/products/oppo/oppo-find-x9s/man-hinh-goc-nghieng-trai-oppo-find-x9s-xam.webp",
+      "assets/images/products/oppo/oppo-find-x9s/he-thong-camera-hasselblad-oppo-find-x9s-xam.webp",
+      "assets/images/products/oppo/oppo-find-x9s/dung-luong-pin-7025mah-oppo-find-x9s-tim.webp",
+      "assets/images/products/oppo/oppo-find-x9s/thiet-ke-mong-nhe-ben-bi-oppo-find-x9s-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9s/tinh-nang-tro-ly-ai-oppo-find-x9s-trang.webp",
+      "assets/images/products/oppo/oppo-find-x9s/thong-so-noi-bat-oppo-find-x9s-cam-tim-xam.webp"
+    ],
+    "byColor": {
+      "Cam": [
+        "assets/images/products/oppo/oppo-find-x9s/anh-dai-dien-oppo-find-x9s-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/mat-truoc-mat-sau-oppo-find-x9s-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-phai-oppo-find-x9s-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-trai-oppo-find-x9s-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/man-hinh-goc-nghieng-phai-oppo-find-x9s-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/man-hinh-goc-nghieng-trai-oppo-find-x9s-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/thiet-ke-mong-nhe-ben-bi-oppo-find-x9s-cam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/tinh-nang-tro-ly-ai-oppo-find-x9s-trang.webp",
+        "assets/images/products/oppo/oppo-find-x9s/thong-so-noi-bat-oppo-find-x9s-cam-tim-xam.webp"
+      ],
+      "Tím": [
+        "assets/images/products/oppo/oppo-find-x9s/mat-truoc-mat-sau-oppo-find-x9s-tim.webp",
+        "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-phai-oppo-find-x9s-tim.webp",
+        "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-trai-oppo-find-x9s-tim.webp",
+        "assets/images/products/oppo/oppo-find-x9s/man-hinh-goc-nghieng-phai-oppo-find-x9s-tim.webp",
+        "assets/images/products/oppo/oppo-find-x9s/man-hinh-goc-nghieng-trai-oppo-find-x9s-tim.webp",
+        "assets/images/products/oppo/oppo-find-x9s/dung-luong-pin-7025mah-oppo-find-x9s-tim.webp",
+        "assets/images/products/oppo/oppo-find-x9s/tinh-nang-tro-ly-ai-oppo-find-x9s-trang.webp",
+        "assets/images/products/oppo/oppo-find-x9s/thong-so-noi-bat-oppo-find-x9s-cam-tim-xam.webp"
+      ],
+      "Xám": [
+        "assets/images/products/oppo/oppo-find-x9s/mat-truoc-mat-sau-oppo-find-x9s-xam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-phai-oppo-find-x9s-xam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-trai-oppo-find-x9s-xam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/man-hinh-goc-nghieng-phai-oppo-find-x9s-xam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/man-hinh-goc-nghieng-trai-oppo-find-x9s-xam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/he-thong-camera-hasselblad-oppo-find-x9s-xam.webp",
+        "assets/images/products/oppo/oppo-find-x9s/tinh-nang-tro-ly-ai-oppo-find-x9s-trang.webp",
+        "assets/images/products/oppo/oppo-find-x9s/thong-so-noi-bat-oppo-find-x9s-cam-tim-xam.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/oppo/oppo-find-x9s/mat-truoc-mat-sau-oppo-find-x9s-cam.webp",
+      "screen": "assets/images/products/oppo/oppo-find-x9s/mat-truoc-mat-sau-oppo-find-x9s-tim.webp",
+      "performance": "assets/images/products/oppo/oppo-find-x9s/man-hinh-goc-nghieng-phai-oppo-find-x9s-cam.webp",
+      "camera": "assets/images/products/oppo/oppo-find-x9s/he-thong-camera-hasselblad-oppo-find-x9s-xam.webp",
+      "battery": "assets/images/products/oppo/oppo-find-x9s/dung-luong-pin-7025mah-oppo-find-x9s-tim.webp",
+      "feature": "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-phai-oppo-find-x9s-cam.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/oppo/oppo-find-x9s/mat-truoc-mat-sau-oppo-find-x9s-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9s/mat-truoc-mat-sau-oppo-find-x9s-tim.webp",
+      "assets/images/products/oppo/oppo-find-x9s/mat-truoc-mat-sau-oppo-find-x9s-xam.webp",
+      "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-phai-oppo-find-x9s-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-phai-oppo-find-x9s-tim.webp",
+      "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-phai-oppo-find-x9s-xam.webp",
+      "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-trai-oppo-find-x9s-cam.webp",
+      "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-trai-oppo-find-x9s-tim.webp",
+      "assets/images/products/oppo/oppo-find-x9s/mat-lung-goc-nghieng-trai-oppo-find-x9s-xam.webp",
+      "assets/images/products/oppo/oppo-find-x9s/man-hinh-goc-nghieng-phai-oppo-find-x9s-cam.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-oppo",
+      "https://www.oppo.com/vn/smartphones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "partial_retail_listing",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT010-OPFINDX9S",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "AMOLED, 1,07 tỷ màu (10-bit), 100% DCI-P3, Dolby Vision, 3840Hz PWM",
+      "Kích thước màn hình": "6,59 inch (Tỷ lệ màn hình 95,4%)",
+      "Độ phân giải màn hình": "1.5K (2760 × 1256 Pixels), 460 PPI",
+      "Tần số quét": "120Hz (Lấy mẫu cảm ứng 240Hz)",
+      "Kiểu màn hình": "Chưa có thông tin trong dữ liệu gốc",
+      "Tính năng màn hình": "Độ sáng tối đa: 800 nit (Tiêu chuẩn) / 1800 nit (HBM) / 3600 nit (Đỉnh); Kính bảo vệ: Corning Gorilla Glass 7i"
+    },
+    "Camera sau": {
+      "Camera sau": "Camera chính: 50MP (f/1.8, FOV 84°, cảm biến 1/1.56\", ống kính 6P, lấy nét AF, chống rung OIS 2 trục); Camera phụ: 50MP Tele 3x (f/2.6, 73mm, FOV 33°, ống kính 1G3P, AF, OIS 2 trục) + 50MP Góc siêu rộng (f/2.0, FOV 120°, ống kính 6P, AF)",
+      "Quay video": "4K@30/60fps, 1080p@30/60fps, Slow-motion 1080p@240fps / 720p@480fps, chống rung OIS + EIS",
+      "Tính năng camera": "Hiệu chỉnh màu Hasselblad, Chế độ Master, XPAN, Chụp dưới nước, Lấy nét Laser & Cảm biến quang phổ màu"
+    },
+    "Camera trước": {
+      "Camera trước": "32MP (f/2.4, FOV 90°, ống kính 5P); Quay video: 4K@30/60fps, 1080p@30/60fps (Chống rung EIS, HDR); Tính năng: Chân dung AI, Ban đêm, Toàn cảnh, Video hiển thị kép (Dual-view), Time-lapse"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Dimensity 9500s (Tiến trình 3nm)",
+      "Loại CPU": "8 nhân (1×3.73GHz Cortex-X925 + 3×3.3GHz Cortex-X4 + 4×2.4GHz Cortex-A720)",
+      "GPU": "Immortalis-G925 MC12 @ 1612MHz"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "12GB chuẩn LPDDR5X",
+      "Bộ nhớ trong": "256GB / 512GB chuẩn UFS 4.1; Thẻ nhớ ngoài: Không hỗ trợ thẻ nhớ ngoài (Hỗ trợ USB OTG)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "7025 mAh (Điển hình) / 6840 mAh (Định mức); Loại pin: Pin Silicon-Carbon (Si/C Li-Ion)",
+      "Công nghệ sạc": "Sạc có dây: 80W SUPERVOOC (Tương thích 67W SUPERVOOC, 55W PPS, 13.5W PD); Sạc không dây: Không hỗ trợ",
+      "Cổng sạc": "USB Type-C, OTG"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "ColorOS 16.0 (Nền tảng Android 16)",
+      "Công nghệ - Tiện ích": "OPPO AI, Chế độ chụp dưới nước, Quét tài liệu thông minh, Điều khiển hồng ngoại từ xa",
+      "Tiện ích khác": "Chưa có thông tin trong dữ liệu gốc",
+      "Thời điểm ra mắt": "2025 – 2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G SA/NSA & 4G LTE",
+      "Thẻ SIM": "2 Nano-SIM hoặc 1 Nano-SIM + 1 eSIM",
+      "Wi-Fi": "Wi-Fi 7 (802.11be), Wi-Fi 6, kênh 320MHz, 2×2 MIMO",
+      "Bluetooth": "Bluetooth 6.1 BLE (SBC, AAC, LDAC, aptX, aptX HD, LHDC 5.0)",
+      "Công nghệ NFC": "Hỗ trợ NFC",
+      "GPS": "Chưa có thông tin trong dữ liệu gốc"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung hợp kim nhôm, mặt kính Corning Gorilla Glass 7i",
+      "Chất liệu mặt lưng": "Chưa có thông tin trong dữ liệu gốc",
+      "Kích thước": "156,98 × 73,93 × 7,99 mm; Kiểu dáng: Nguyên khối thanh lịch, mỏng 7,99mm vừa vặn trong lòng bàn tay",
+      "Trọng lượng": "Nặng 202g",
+      "Chỉ số kháng nước, bụi": "Kháng nước và bụi chuẩn IP68 / IP69"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa kép Stereo, hỗ trợ âm thanh độ phân giải cao LHDC 5.0 / LDAC",
+      "Cảm biến vân tay": "Cảm biến vân tay siêu âm dưới màn hình",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Tiệm cận, Ánh sáng, La bàn số; Bảo mật: Mở khóa khuôn mặt"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,59 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "AMOLED (1 tỷ màu, Dolby Vision, 3840Hz PWM)"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "1.5K (2760 × 1256 Pixels, 460 PPI)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 9500s (3nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB / 512GB UFS 4.1"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính OIS + 50MP Tele 3x OIS + 50MP Góc siêu rộng 120° AF"
+    },
+    {
+      "label": "Camera trước",
+      "value": "32MP f/2.4 (Quay 4K@60fps)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "7025 mAh (Pin Silicon-Carbon)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "80W SUPERVOOC (55W PPS)"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 16 (ColorOS 16.0)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G, Wi-Fi 7, Bluetooth 6.1, NFC, eSIM"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 / IP69"
+    }
+  ],
+  "verbatimDescription": [
+    "OPPO Find X9s mang sức mạnh flagship đỉnh cao vào một thiết kế gọn gàng với độ mỏng chỉ 7,99mm và trọng lượng 202g. Máy được hoàn thiện từ khung hợp kim nhôm cứng cáp kết hợp kính cường lực Corning Gorilla Glass 7i và đạt chuẩn kháng nước, kháng bụi IP68/IP69 bền bỉ.",
+    "Không gian hiển thị của OPPO Find X9s nổi bật nhờ màn hình AMOLED 6,59 inch độ phân giải 1.5K (2760 × 1256 pixel, mật độ điểm ảnh 460 PPI) với viền siêu mỏng đạt tỷ lệ màn hình trên thân máy tới 95,4%. Tấm nền 10-bit (1,07 tỷ màu) hỗ trợ tần số quét 120Hz, công nghệ làm mờ 3840Hz PWM bảo vệ mắt, chuẩn Dolby Vision và độ sáng HBM 1800 nit (đỉnh 3600 nit).",
+    "Trái tim của OPPO Find X9s là vi xử lý MediaTek Dimensity 9500s sản xuất trên tiến trình 3nm với nhân siêu hiệu năng Cortex-X925 xung nhịp 3.73GHz và GPU Immortalis-G925 MC12. Kết hợp cùng bộ nhớ RAM 12GB LPDDR5X và lưu trữ chuẩn UFS 4.1 tốc độ cao, máy đáp ứng mượt mà các tác vụ đa nhiệm chuyên sâu và xử lý AI tức thời.",
+    "Hệ thống nhiếp ảnh của máy trang bị bộ ba ống kính đồng độ phân giải 50MP tích hợp thuật toán màu Hasselblad cùng cảm biến lấy nét Laser và cảm biến quang phổ màu. Cụm camera gồm ống kính chính 50MP (f/1.8, cảm biến 1/1.56 inch, OIS 2 trục), ống kính Telephoto 3x 50MP (f/2.6, tiêu cự 73mm, ống kính 1G3P, OIS 2 trục) và ống kính góc siêu rộng 50MP (FOV 120°, lấy nét tự động AF), hỗ trợ chế độ Master, XPAN và quay video 4K@60fps.",
+    "Camera trước 32MP khẩu độ f/2.4 hỗ trợ quay video 4K@60fps sắc nét cùng tính năng chống rung điện tử EIS. Điểm ấn tượng bậc nhất trên OPPO Find X9s là viên pin Silicon-Carbon dung lượng lên tới 7025mAh nằm gọn trong thân máy 7,99mm, đi kèm sạc siêu nhanh 80W SUPERVOOC giúp nạp đầy năng lượng nhanh chóng.",
+    "Máy được cài đặt sẵn giao diện ColorOS 16.0 trên nền Android 16, tích hợp cảm biến vân tay siêu âm dưới màn hình nhạy bén, kết nối Wi-Fi 7 băng thông 320MHz, Bluetooth 6.1 thế hệ mới, eSIM, NFC và mắt thần hồng ngoại điều khiển thiết bị gia dụng."
+  ],
+  "priceSegment": "high-end"
+}

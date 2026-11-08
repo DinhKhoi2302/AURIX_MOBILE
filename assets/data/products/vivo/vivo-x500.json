@@ -1,0 +1,323 @@
+{
+  "id": "vivo-x500",
+  "brand": "vivo",
+  "brandId": "vivo",
+  "parentGroupId": "vivo",
+  "model": "vivo X500",
+  "series": "vivo X",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "entry-level"
+  ],
+  "status": "needs_verification",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 19,
+  "badges": [
+    {
+      "text": "Sắp về",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Ra mắt vào tháng 9/2026, vivo X500 tiếp nối sự thành công của dòng flagship nhỏ gọn khi trang bị màn hình phẳng 6,36 inch LTPO 144Hz, vi xử lý 2nm MediaTek Dimensity 9600 Pro, hệ thống 3 camera ZEISS có ống kính tiềm vọng 64MP 85mm OIS và viên pin BlueVolt nâng lên tới 6.510 mAh. (Lưu ý: Model đang ở trạng thái chờ xác minh cấu hình màu/bộ nhớ mở bán chính thức tại Việt Nam; thông số kỹ thuật được đối chiếu từ hồ sơ công bố tháng 9/2026 trên GSMArena).",
+    "highlights": [
+      "6,36 inch 1.5K 144Hz",
+      "Dimensity 9600 Pro (2nm)",
+      "Pin 6.510 mAh / Camera ZEISS"
+    ],
+    "officialDistribution": "Nguồn tra cứu hiển thị trạng thái Hàng sắp về / Đặt trước tại thời điểm 01/11/2026; không xếp vào hàng có sẵn (in_stock=false)."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": null,
+    "originalPrice": null,
+    "promotionPrice": null,
+    "priceUpdatedAt": "2026-11-01",
+    "priceVerified": false
+  },
+  "variants": [
+    {
+      "sku": "AUR-VIV-X500-RAM-STD-01",
+      "color": "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)",
+      "colorHex": "#102347",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "price": null,
+      "originalPrice": null,
+      "stockStatus": "needs_verification",
+      "images": [
+        "assets/images/placeholders/placeholder-default.svg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "LTPO AMOLED 1,07 tỷ màu, 1–144Hz, 4.500 nit",
+    "size": "6,36 inch (Compact Flagship)",
+    "resolution": "2660 x 1216 pixel (1.5K, 459 ppi)",
+    "refreshRate": "1–144Hz LTPO thích ứng",
+    "brightness": "Dolby Vision, HDR10+; Độ sáng HBM 2.000 nit / đỉnh ngoài trời 4.500 nit; Làm mờ PWM 2160Hz bảo vệ mắt",
+    "hdr": "HDR10+ / HLG",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "MediaTek Dimensity 9600 Pro (tiến trình 2nm tiên tiến)",
+    "cpu": "CPU 8 nhân kiến trúc All-Big-Core thế hệ mới xung nhịp cao",
+    "gpu": "GPU Immortalis thế hệ mới hỗ trợ Ray Tracing phần cứng",
+    "ram": [
+      "12GB"
+    ],
+    "storage": [
+      "256GB"
+    ],
+    "operatingSystem": "Android 17 cùng giao diện OriginOS 7 / Funtouch OS 17 (cam kết 5 bản cập nhật Android lớn)",
+    "uiVersion": "Funtouch OS / OriginOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Chính 1/1.28\" OIS + 64MP Tele tiềm vọng ZEISS 3.5x OIS + 50MP Siêu rộng AF",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "Quay video 8K ở 30fps, 4K ở 30/60/120/240fps; Hỗ trợ 17 EV TrueDynamic Log, Dolby Vision HDR, 4K 120fps 10-bit Log và 10-bit 4:2:2 APV"
+    ],
+    "aiFeatures": [
+      "Chân dung đa tiêu cự ZEISS (24mm, 35mm, 50mm, 85mm, 135mm), hiệu ứng bokeh ZEISS kinh điển, chụp cận cảnh Tele Macro, Super Night Mode"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "50MP AF (ƒ/2.0, 20mm), quay 4K 60fps",
+    "features": [
+      "Camera Selfie 50MP (cảm biến 1/2.76\", khẩu độ ƒ/2.0, tiêu cự 20mm góc rộng, tự động lấy nét AF); Quay video 4K ở 30/60fps và 1080p ở 30/60fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "6.510 mAh (Pin BlueVolt Silicon-Carbon)",
+    "wiredCharging": "Sạc nhanh có dây 90W FlashCharge, sạc không dây 40W",
+    "wirelessCharging": "Có hỗ trợ sạc không dây",
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": "Sạc nhanh có dây 90W FlashCharge | Sạc nhanh không dây 40W | Hỗ trợ sạc ngược không dây và có dây"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM vật lý + hỗ trợ eSIM"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 7 (802.11be) ba băng tần",
+    "bluetooth": "Bluetooth 5.4 / 6.0 hỗ trợ aptX HD, LHDC 5.0",
+    "gps": [
+      "Định vị vệ tinh đa băng tần L1+L5: GPS, GLONASS, Galileo, BeiDou, QZSS"
+    ],
+    "usb": "USB Type-C chuẩn tốc độ cao USB 3.2 Gen 1",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "151,8 x 71,9 x 8,0 mm",
+    "weight": "192 gram",
+    "materials": [
+      "Khung hợp kim nhôm hàng không vát phẳng",
+      "Mặt lưng kính cường lực nhám mờ AG, mặt trước kính Armor Glass"
+    ],
+    "waterResistance": "IP68 & IP69",
+    "availableColors": [
+      "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo chất lượng cao Hi-Res Audio",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "vivo X",
+    "vivo",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền vivo tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/placeholders/placeholder-default.svg",
+    "hasAvatarNamed": false,
+    "gallery": [
+      "assets/images/placeholders/placeholder-default.svg"
+    ],
+    "byColor": {},
+    "bySection": {
+      "performance": "assets/images/placeholders/placeholder-default.svg"
+    }
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-vivo",
+      "https://www.vivo.com/vn/products"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "preorder",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Model bổ sung hiển thị Hàng sắp về trong ghi chú đối chiếu & gói ảnh",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "verbatimDescription": [
+    "Ra mắt vào tháng 9/2026, vivo X500 tiếp nối sự thành công của dòng flagship nhỏ gọn khi trang bị màn hình phẳng 6,36 inch LTPO 144Hz, vi xử lý 2nm MediaTek Dimensity 9600 Pro, hệ thống 3 camera ZEISS có ống kính tiềm vọng 64MP 85mm OIS và viên pin BlueVolt nâng lên tới 6.510 mAh. Tại AURIX MOBILE, hồ sơ sản phẩm được cập nhật chi tiết từ nguồn công bố chính thức để khách hàng dễ dàng tham khảo.",
+    "Sở hữu kích thước nhỏ gọn chỉ 151,8 x 71,9 x 8,0 mm và trọng lượng khoảng 192 gram, vivo X500 nằm gọn trong lòng bàn tay nhưng mang kết cấu vô cùng bền bỉ với khung nhôm hàng không, kính cường lực Armor Glass và chuẩn kháng nước bụi kép IP68 & IP69.",
+    "Màn hình phẳng 6,36 inch sử dụng tấm nền LTPO AMOLED độ phân giải 1.5K (2660 x 1216 pixel, 459 ppi) hỗ trợ tần số quét thích ứng 1–144Hz, độ sáng HBM 2.000 nit và đỉnh cục bộ 4.500 nit, hiển thị sắc nét và chuẩn màu dưới mọi điều kiện ánh sáng.",
+    "Về nhiếp ảnh, vivo X500 trang bị cụm 3 camera ZEISS phủ lớp T* gồm camera chính 50MP cảm biến lớn 1/1.28 inch (ƒ/1.6, 24mm, OIS), camera góc siêu rộng 50MP AF (15mm, ƒ/2.0) và ống kính Telephoto tiềm vọng 64MP (tiêu cự 85mm, zoom quang 3.5x, OIS, hỗ trợ chụp Tele Macro từ 18cm). Máy hỗ trợ quay video 8K@30fps, 4K@240fps và chuẩn 17 EV TrueDynamic Log.",
+    "Cung cấp sức mạnh cho máy là vi xử lý 2nm MediaTek Dimensity 9600 Pro kết hợp RAM LPDDR5X và bộ nhớ UFS 4.1 trên nền tảng Android 17 (OriginOS 7 / Funtouch OS 17).",
+    "Viên pin BlueVolt Silicon-Carbon 6.510 mAh đi kèm sạc nhanh có dây 90W, sạc không dây 40W và cảm biến vân tay siêu âm dưới màn hình giúp vivo X500 trở thành một trong những mẫu điện thoại 6,36 inch có thời lượng pin ấn tượng nhất thị trường."
+  ],
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,36 inch (Compact Flagship)"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "LTPO AMOLED 1,07 tỷ màu, 1–144Hz, 4.500 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2660 x 1216 pixel (1.5K, 459 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "1–144Hz LTPO thích ứng"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 9600 Pro (2nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB / 16GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB / 512GB / 1TB chuẩn UFS 4.1"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính 1/1.28\" OIS + 64MP Tele tiềm vọng ZEISS 3.5x OIS + 50MP Siêu rộng AF"
+    },
+    {
+      "label": "Camera trước",
+      "value": "50MP AF (ƒ/2.0, 20mm), quay 4K 60fps"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "6.510 mAh (Pin BlueVolt Silicon-Carbon)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh có dây 90W FlashCharge, sạc không dây 40W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "OriginOS 7 / Funtouch OS 17 (Android 17)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 & IP69"
+    }
+  ],
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "LTPO AMOLED hiển thị 1,07 tỷ màu (10-bit), độ phủ màu 100% DCI-P3, hỗ trợ Ultra HDR",
+      "Kích thước màn hình": "6,36 inch theo đường chéo (thiết kế nhỏ gọn cầm nắm một tay dễ dàng)",
+      "Độ phân giải màn hình": "2660 x 1216 pixel (chuẩn 1.5K sắc nét, tỷ lệ 19,69:9, mật độ điểm ảnh 459 ppi)",
+      "Tần số quét": "Công nghệ LTPO thích ứng từ 1Hz đến 144Hz",
+      "Kiểu màn hình": "Màn hình phẳng đục lỗ viền siêu mỏng đều 4 cạnh, kính bảo vệ Armor Glass",
+      "Tính năng màn hình": "Dolby Vision, HDR10+; Độ sáng HBM 2.000 nit / đỉnh ngoài trời 4.500 nit; Làm mờ PWM 2160Hz bảo vệ mắt"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera ZEISS T* nhỏ gọn chuyên nghiệp: (1) Camera chính 50MP: cảm biến lớn 1/1.28 inch (điểm ảnh 1.22µm), khẩu độ lớn ƒ/1.6, tiêu cự 24mm, lấy nét PDAF, chống rung quang học OIS; (2) Camera Telephoto tiềm vọng 64MP ZEISS: cảm biến 1/2.0 inch, khẩu độ ƒ/2.5, tiêu cự 85mm (zoom quang học 3.5x, lấy nét Telephoto Macro từ 18cm), chống rung OIS; (3) Camera Góc siêu rộng 50MP: cảm biến 1/2.75 inch, khẩu độ ƒ/2.0, tiêu cự 15mm (119°), có tự động lấy nét AF",
+      "Quay video": "Quay video 8K ở 30fps, 4K ở 30/60/120/240fps; Hỗ trợ 17 EV TrueDynamic Log, Dolby Vision HDR, 4K 120fps 10-bit Log và 10-bit 4:2:2 APV",
+      "Tính năng camera": "Chân dung đa tiêu cự ZEISS (24mm, 35mm, 50mm, 85mm, 135mm), hiệu ứng bokeh ZEISS kinh điển, chụp cận cảnh Tele Macro, Super Night Mode"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera Selfie 50MP (cảm biến 1/2.76\", khẩu độ ƒ/2.0, tiêu cự 20mm góc rộng, tự động lấy nét AF); Quay video 4K ở 30/60fps và 1080p ở 30/60fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Dimensity 9600 Pro (tiến trình 2nm tiên tiến)",
+      "Loại CPU": "CPU 8 nhân kiến trúc All-Big-Core thế hệ mới xung nhịp cao",
+      "GPU": "GPU Immortalis thế hệ mới hỗ trợ Ray Tracing phần cứng"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "12GB hoặc 16GB LPDDR5X tốc độ cao",
+      "Bộ nhớ trong": "256GB / 512GB / 1TB chuẩn UFS 4.1 (Đang chờ xác minh phiên bản phân phối chính thức tại Việt Nam)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "6.510 mAh (Pin BlueVolt Silicon-Carbon dung lượng cực lớn trong thân máy 6,36 inch)",
+      "Công nghệ sạc": "Sạc nhanh có dây 90W FlashCharge | Sạc nhanh không dây 40W | Hỗ trợ sạc ngược không dây và có dây",
+      "Cổng sạc": "USB Type-C chuẩn tốc độ cao USB 3.2 Gen 1"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 17 cùng giao diện OriginOS 7 / Funtouch OS 17 (cam kết 5 bản cập nhật Android lớn)",
+      "Công nghệ - Tiện ích": "Hệ sinh thái Vivo AI thế hệ mới, trợ lý thông minh, chỉnh sửa ảnh AI",
+      "Tiện ích khác": "Cảm biến vân tay siêu âm dưới màn hình, cổng hồng ngoại IR Blaster",
+      "Thời điểm ra mắt": "Tháng 09/2026 (Công bố quốc tế, chờ xác minh lịch mở bán chính hãng VN)"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G đa băng tần (SA/NSA Sub-6GHz), 4G LTE-A",
+      "Thẻ SIM": "2 Nano-SIM vật lý + hỗ trợ eSIM",
+      "Wi-Fi": "Wi-Fi 7 (802.11be) ba băng tần",
+      "Bluetooth": "Bluetooth 5.4 / 6.0 hỗ trợ aptX HD, LHDC 5.0",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa năng",
+      "GPS": "Định vị vệ tinh đa băng tần L1+L5: GPS, GLONASS, Galileo, BeiDou, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung hợp kim nhôm hàng không vát phẳng",
+      "Chất liệu mặt lưng": "Mặt lưng kính cường lực nhám mờ AG, mặt trước kính Armor Glass",
+      "Kích thước": "151,8 x 71,9 x 8,0 mm",
+      "Trọng lượng": "192 gram",
+      "Chỉ số kháng nước, bụi": "Đạt chuẩn kháng nước và bụi kép IP68 & IP69"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa kép Stereo chất lượng cao Hi-Res Audio",
+      "Cảm biến vân tay": "Cảm biến vân tay siêu âm dưới màn hình + Nhận diện khuôn mặt AI",
+      "Các loại cảm biến": "Vân tay siêu âm, Laser AF, Cảm biến phổ màu, Gia tốc kế, Con quay hồi chuyển, Tiệm cận, Ánh sáng kép, La bàn số, Hồng ngoại"
+    }
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "id": "motorola-g06-power",
+  "brand": "Motorola",
+  "brandId": "motorola",
+  "parentGroupId": "motorola",
+  "model": "Motorola moto g06 power",
+  "series": "Motorola Moto G Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "entry-level"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 19,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025 – 2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Ra mắt tháng 9/2025, Motorola moto g06 power là mẫu smartphone phổ thông chuyên trị thời lượng pin với viên pin khổng lồ 7.000 mAh, màn hình lớn 6,88 inch 120Hz, loa kép Stereo Dolby Atmos, mặt lưng da thuần chay sang trọng và camera chính 50MP Quad Pixel. Tại AURIX MOBILE, moto g06 power là lựa chọn bền bỉ hàng đầu cho người dùng cần một chiếc điện thoại pin 3 ngày và giải trí màn hình lớn. (Nguồn tham chiếu: GSMArena - Motorola Moto G06 Power).",
+    "highlights": [
+      "6,88 inch 120Hz",
+      "Helio G81 Ultra",
+      "Pin 7.000 mAh / Loa Dolby Atmos"
+    ],
+    "officialDistribution": "Model được bảo lưu từ danh sách trước nhưng chưa đủ bằng chứng đang mở bán chính thức trong lượt đối chiếu ngày 01/11/2026; giữ trạng thái needs_verification để không mất dấu dữ liệu."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 2890000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT002-MOTOG06POWER-XANH-DUONG-4GB-64GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "4GB",
+      "storage": "4GB/64GB",
+      "rom": "64GB",
+      "price": 2890000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/motorola/motorola-g06-power/anh-dai-dien-motorola-g06-power-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-g06-power/mat-truoc-mat-sau-motorola-g06-power-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-g06-power/thiet-ke-mat-lung-motorola-g06-power-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-g06-power/canh-trai-canh-phai-motorola-g06-power-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-g06-power/canh-tren-canh-duoi-motorola-g06-power-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-g06-power/goc-nghieng-camera-sau-motorola-g06-power-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-g06-power/cum-camera-sau-motorola-g06-power-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-g06-power/hieu-nang-helio-g81-extreme-motorola-g06-power-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-g06-power/Motorola-G06-Power.jpg"
+      ]
+    },
+    {
+      "sku": "DT002-MOTOG06POWER-XANH-DUONG-4GB-128GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 3290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/motorola/motorola-g06-power/anh-dai-dien-motorola-g06-power-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-g06-power/mat-truoc-mat-sau-motorola-g06-power-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-g06-power/thiet-ke-mat-lung-motorola-g06-power-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-g06-power/canh-trai-canh-phai-motorola-g06-power-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-g06-power/canh-tren-canh-duoi-motorola-g06-power-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-g06-power/goc-nghieng-camera-sau-motorola-g06-power-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-g06-power/cum-camera-sau-motorola-g06-power-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-g06-power/hieu-nang-helio-g81-extreme-motorola-g06-power-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-g06-power/Motorola-G06-Power.jpg"
+      ]
+    },
+    {
+      "sku": "DT002-MOTOG06POWER-NAU-4GB-64GB",
+      "color": "Nâu",
+      "colorHex": "#78350F",
+      "ram": "4GB",
+      "storage": "4GB/64GB",
+      "rom": "64GB",
+      "price": 2890000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/motorola/motorola-g06-power/mat-truoc-mat-sau-motorola-g06-power-nau.webp",
+        "assets/images/products/motorola/motorola-g06-power/man-hinh-mat-truoc-motorola-g06-power-nau.webp",
+        "assets/images/products/motorola/motorola-g06-power/thiet-ke-mat-lung-motorola-g06-power-nau.webp",
+        "assets/images/products/motorola/motorola-g06-power/canh-trai-canh-phai-motorola-g06-power-nau.webp",
+        "assets/images/products/motorola/motorola-g06-power/canh-tren-canh-duoi-motorola-g06-power-nau.webp",
+        "assets/images/products/motorola/motorola-g06-power/goc-nghieng-camera-sau-motorola-g06-power-nau.webp",
+        "assets/images/products/motorola/motorola-g06-power/cum-camera-sau-motorola-g06-power-nau.webp",
+        "assets/images/products/motorola/motorola-g06-power/Motorola-G06-Power.jpg"
+      ]
+    },
+    {
+      "sku": "DT002-MOTOG06POWER-NAU-4GB-128GB",
+      "color": "Nâu",
+      "colorHex": "#78350F",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 3290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/motorola/motorola-g06-power/mat-truoc-mat-sau-motorola-g06-power-nau.webp",
+        "assets/images/products/motorola/motorola-g06-power/man-hinh-mat-truoc-motorola-g06-power-nau.webp",
+        "assets/images/products/motorola/motorola-g06-power/thiet-ke-mat-lung-motorola-g06-power-nau.webp",
+        "assets/images/products/motorola/motorola-g06-power/canh-trai-canh-phai-motorola-g06-power-nau.webp",
+        "assets/images/products/motorola/motorola-g06-power/canh-tren-canh-duoi-motorola-g06-power-nau.webp",
+        "assets/images/products/motorola/motorola-g06-power/goc-nghieng-camera-sau-motorola-g06-power-nau.webp",
+        "assets/images/products/motorola/motorola-g06-power/cum-camera-sau-motorola-g06-power-nau.webp",
+        "assets/images/products/motorola/motorola-g06-power/Motorola-G06-Power.jpg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "IPS LCD 120Hz, độ sáng HBM 600 nit",
+    "size": "6,88 inch",
+    "resolution": "1640 x 720 pixel (HD+, 260 ppi)",
+    "refreshRate": "120Hz",
+    "brightness": "Tần số quét 120Hz mượt mà, cảm ứng khi tay ướt Water Touch, chế độ bảo vệ mắt ban đêm",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "MediaTek Helio G81 Ultra (12nm)",
+    "cpu": "CPU 8 nhân: 2 nhân Cortex-A75 (2,0 GHz) + 6 nhân Cortex-A55 (1,8 GHz)",
+    "gpu": "ARM Mali-G52 MC2",
+    "ram": [
+      "4GB"
+    ],
+    "storage": [
+      "64GB",
+      "128GB"
+    ],
+    "operatingSystem": "Android 15 (Giao diện My UX / Hello UI nhẹ nhàng)",
+    "uiVersion": "Android",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Chính Quad Pixel (ƒ/1.8, PDAF) kèm đèn flash LED",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "Quay video Full HD 1080p ở 30fps, HD 720p ở 30fps"
+    ],
+    "aiFeatures": [
+      "Chế độ chụp đêm Night Vision, Chân dung xóa phông Portrait, HDR, Panorama, Quét tài liệu"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "8MP (ƒ/2.0), quay 1080p 30fps",
+    "features": [
+      "Camera Selfie 8MP (khẩu độ ƒ/2.0, góc rộng), hỗ trợ làm đẹp khuôn mặt Face Retouch và quay video 1080p@30fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "7.000 mAh (Pin khủng Siêu bền)",
+    "wiredCharging": "Sạc nhanh có dây 18W / 20W TurboPower",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc nhanh có dây 18W / 20W qua cổng USB Type-C"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM vật lý + 1 khe thẻ nhớ MicroSD độc lập"
+    ],
+    "network": [
+      "4G LTE"
+    ],
+    "wifi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép (2.4GHz & 5GHz)",
+    "bluetooth": "Bluetooth 5.3 hỗ trợ A2DP, LE",
+    "gps": [
+      "GPS, GLONASS, GALILEO"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "171,4 x 77,5 x 8,8 mm",
+    "weight": "220 gram",
+    "materials": [
+      "Khung polycarbonate cứng cáp hoàn thiện nhám mờ",
+      "Mặt lưng da thuần chay (Eco-leather) chống bám mồ hôi và vân tay"
+    ],
+    "waterResistance": "IP54 kháng bụi và nước bắn",
+    "availableColors": [
+      "Xanh Dương",
+      "Nâu"
+    ]
+  },
+  "audio": {
+    "speakers": "Hệ thống loa kép Stereo chuẩn Dolby Atmos, tích hợp giắc tai nghe 3.5mm",
+    "headphoneJack": true,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Moto G",
+    "Motorola",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Motorola tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/motorola/motorola-g06-power/anh-dai-dien-motorola-g06-power-xanh-duong.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/motorola/motorola-g06-power/anh-dai-dien-motorola-g06-power-xanh-duong.webp",
+      "assets/images/products/motorola/motorola-g06-power/mat-truoc-mat-sau-motorola-g06-power-nau.webp",
+      "assets/images/products/motorola/motorola-g06-power/mat-truoc-mat-sau-motorola-g06-power-xanh-duong.webp",
+      "assets/images/products/motorola/motorola-g06-power/man-hinh-mat-truoc-motorola-g06-power-nau.webp",
+      "assets/images/products/motorola/motorola-g06-power/thiet-ke-mat-lung-motorola-g06-power-nau.webp",
+      "assets/images/products/motorola/motorola-g06-power/thiet-ke-mat-lung-motorola-g06-power-xanh-duong.webp",
+      "assets/images/products/motorola/motorola-g06-power/canh-trai-canh-phai-motorola-g06-power-nau.webp",
+      "assets/images/products/motorola/motorola-g06-power/canh-trai-canh-phai-motorola-g06-power-xanh-duong.webp",
+      "assets/images/products/motorola/motorola-g06-power/canh-tren-canh-duoi-motorola-g06-power-nau.webp",
+      "assets/images/products/motorola/motorola-g06-power/canh-tren-canh-duoi-motorola-g06-power-xanh-duong.webp",
+      "assets/images/products/motorola/motorola-g06-power/goc-nghieng-camera-sau-motorola-g06-power-nau.webp",
+      "assets/images/products/motorola/motorola-g06-power/goc-nghieng-camera-sau-motorola-g06-power-xanh-duong.webp",
+      "assets/images/products/motorola/motorola-g06-power/cum-camera-sau-motorola-g06-power-nau.webp",
+      "assets/images/products/motorola/motorola-g06-power/cum-camera-sau-motorola-g06-power-xanh-duong.webp",
+      "assets/images/products/motorola/motorola-g06-power/Motorola-G06-Power.jpg",
+      "assets/images/products/motorola/motorola-g06-power/hieu-nang-helio-g81-extreme-motorola-g06-power-xanh-duong.webp"
+    ],
+    "byColor": {
+      "Xanh Dương": [
+        "assets/images/products/motorola/motorola-g06-power/anh-dai-dien-motorola-g06-power-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-g06-power/mat-truoc-mat-sau-motorola-g06-power-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-g06-power/thiet-ke-mat-lung-motorola-g06-power-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-g06-power/canh-trai-canh-phai-motorola-g06-power-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-g06-power/canh-tren-canh-duoi-motorola-g06-power-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-g06-power/goc-nghieng-camera-sau-motorola-g06-power-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-g06-power/cum-camera-sau-motorola-g06-power-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-g06-power/hieu-nang-helio-g81-extreme-motorola-g06-power-xanh-duong.webp",
+        "assets/images/products/motorola/motorola-g06-power/Motorola-G06-Power.jpg"
+      ],
+      "Nâu": [
+        "assets/images/products/motorola/motorola-g06-power/mat-truoc-mat-sau-motorola-g06-power-nau.webp",
+        "assets/images/products/motorola/motorola-g06-power/man-hinh-mat-truoc-motorola-g06-power-nau.webp",
+        "assets/images/products/motorola/motorola-g06-power/thiet-ke-mat-lung-motorola-g06-power-nau.webp",
+        "assets/images/products/motorola/motorola-g06-power/canh-trai-canh-phai-motorola-g06-power-nau.webp",
+        "assets/images/products/motorola/motorola-g06-power/canh-tren-canh-duoi-motorola-g06-power-nau.webp",
+        "assets/images/products/motorola/motorola-g06-power/goc-nghieng-camera-sau-motorola-g06-power-nau.webp",
+        "assets/images/products/motorola/motorola-g06-power/cum-camera-sau-motorola-g06-power-nau.webp",
+        "assets/images/products/motorola/motorola-g06-power/Motorola-G06-Power.jpg"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/motorola/motorola-g06-power/mat-truoc-mat-sau-motorola-g06-power-nau.webp",
+      "screen": "assets/images/products/motorola/motorola-g06-power/mat-truoc-mat-sau-motorola-g06-power-xanh-duong.webp",
+      "performance": "assets/images/products/motorola/motorola-g06-power/hieu-nang-helio-g81-extreme-motorola-g06-power-xanh-duong.webp",
+      "camera": "assets/images/products/motorola/motorola-g06-power/goc-nghieng-camera-sau-motorola-g06-power-nau.webp",
+      "battery": "assets/images/products/motorola/motorola-g06-power/canh-trai-canh-phai-motorola-g06-power-nau.webp",
+      "feature": "assets/images/products/motorola/motorola-g06-power/canh-trai-canh-phai-motorola-g06-power-xanh-duong.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/motorola/motorola-g06-power/mat-truoc-mat-sau-motorola-g06-power-nau.webp",
+      "assets/images/products/motorola/motorola-g06-power/mat-truoc-mat-sau-motorola-g06-power-xanh-duong.webp",
+      "assets/images/products/motorola/motorola-g06-power/man-hinh-mat-truoc-motorola-g06-power-nau.webp",
+      "assets/images/products/motorola/motorola-g06-power/thiet-ke-mat-lung-motorola-g06-power-nau.webp",
+      "assets/images/products/motorola/motorola-g06-power/thiet-ke-mat-lung-motorola-g06-power-xanh-duong.webp",
+      "assets/images/products/motorola/motorola-g06-power/canh-trai-canh-phai-motorola-g06-power-nau.webp",
+      "assets/images/products/motorola/motorola-g06-power/canh-trai-canh-phai-motorola-g06-power-xanh-duong.webp",
+      "assets/images/products/motorola/motorola-g06-power/canh-tren-canh-duoi-motorola-g06-power-nau.webp",
+      "assets/images/products/motorola/motorola-g06-power/canh-tren-canh-duoi-motorola-g06-power-xanh-duong.webp",
+      "assets/images/products/motorola/motorola-g06-power/goc-nghieng-camera-sau-motorola-g06-power-nau.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-motorola",
+      "https://www.motorola.com/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "needs_verification",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Cần xác minh thêm",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT002-MOTOG06POWER",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "IPS LCD 120Hz, độ sáng HBM 600 nit",
+      "Kích thước màn hình": "6,88 inch",
+      "Độ phân giải màn hình": "1640 x 720 pixel (HD+, 260 ppi)",
+      "Tần số quét": "120Hz",
+      "Kiểu màn hình": "Màn hình phẳng đục lỗ rộng rãi, kính bảo vệ Corning Gorilla Glass 3",
+      "Tính năng màn hình": "Tần số quét 120Hz mượt mà, cảm ứng khi tay ướt Water Touch, chế độ bảo vệ mắt ban đêm"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera AI 50MP: Cảm biến chính 50MP (khẩu độ ƒ/1.8, công nghệ gộp điểm ảnh Quad Pixel 1.28µm, lấy nét theo pha PDAF) hỗ trợ chụp ảnh thiếu sáng rõ nét",
+      "Quay video": "Quay video Full HD 1080p ở 30fps, HD 720p ở 30fps",
+      "Tính năng camera": "Chế độ chụp đêm Night Vision, Chân dung xóa phông Portrait, HDR, Panorama, Quét tài liệu"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera Selfie 8MP (khẩu độ ƒ/2.0, góc rộng), hỗ trợ làm đẹp khuôn mặt Face Retouch và quay video 1080p@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Helio G81 Ultra (12nm)",
+      "Loại CPU": "CPU 8 nhân: 2 nhân Cortex-A75 (2,0 GHz) + 6 nhân Cortex-A55 (1,8 GHz)",
+      "GPU": "ARM Mali-G52 MC2"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "4GB LPDDR4X (+4GB RAM Boost)",
+      "Bộ nhớ trong": "2 phiên bản: 64GB và 128GB (Hỗ trợ thẻ nhớ MicroSD 1TB)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "7.000 mAh (Pin Lithium-Polymer dung lượng cực lớn) – Đáp ứng lên tới 3 ngày sử dụng liên tục",
+      "Công nghệ sạc": "Sạc nhanh có dây 18W / 20W qua cổng USB Type-C",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 15 (Giao diện My UX / Hello UI nhẹ nhàng)",
+      "Công nghệ - Tiện ích": "Tích hợp RAM Boost mở rộng bộ nhớ, cử chỉ thông minh Moto Actions (lắc bật đèn pin, chạm 3 ngón chụp màn hình)",
+      "Tiện ích khác": "Giữ lại giắc cắm tai nghe 3.5mm và đài FM Radio, khay SIM 3-trong-1 (2 Nano-SIM + 1 MicroSD)",
+      "Thời điểm ra mắt": "Tháng 09/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "4G LTE",
+      "Thẻ SIM": "2 Nano-SIM vật lý + 1 khe thẻ nhớ MicroSD độc lập",
+      "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép (2.4GHz & 5GHz)",
+      "Bluetooth": "Bluetooth 5.3 hỗ trợ A2DP, LE",
+      "Công nghệ NFC": "Có hỗ trợ NFC (tùy thị trường)",
+      "GPS": "GPS, GLONASS, GALILEO"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung polycarbonate cứng cáp hoàn thiện nhám mờ",
+      "Chất liệu mặt lưng": "Mặt lưng da thuần chay (Eco-leather) chống bám mồ hôi và vân tay",
+      "Kích thước": "171,4 x 77,5 x 8,8 mm",
+      "Trọng lượng": "220 gram",
+      "Chỉ số kháng nước, bụi": "Thiết kế kháng bụi và tia nước bắn chuẩn IP54 sinh hoạt hàng ngày"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo chuẩn Dolby Atmos, tích hợp giắc tai nghe 3.5mm",
+      "Cảm biến vân tay": "Cảm biến vân tay tích hợp phím nguồn cạnh bên + Mở khóa khuôn mặt",
+      "Các loại cảm biến": "Gia tốc kế, Cảm biến tiệm cận, Cảm biến ánh sáng môi trường"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,88 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "IPS LCD 120Hz, độ sáng HBM 600 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "1640 x 720 pixel (HD+, 260 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Helio G81 Ultra (12nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "4GB LPDDR4X (+4GB RAM Boost)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "2 phiên bản: 64GB và 128GB (Hỗ trợ thẻ nhớ MicroSD 1TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính Quad Pixel (ƒ/1.8, PDAF) kèm đèn flash LED"
+    },
+    {
+      "label": "Camera trước",
+      "value": "8MP (ƒ/2.0), quay 1080p 30fps"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "7.000 mAh (Pin khủng Siêu bền)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh có dây 18W / 20W TurboPower"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 15 (Giao diện My UX / Hello UI nhẹ nhàng)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "4G LTE"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP54 kháng bụi và nước bắn"
+    }
+  ],
+  "verbatimDescription": [
+    "Ra mắt tháng 9/2025, Motorola moto g06 power là mẫu smartphone phổ thông chuyên trị thời lượng pin với viên pin khổng lồ 7.000 mAh, màn hình lớn 6,88 inch 120Hz, loa kép Stereo Dolby Atmos, mặt lưng da thuần chay sang trọng và camera chính 50MP Quad Pixel. Tại AURIX MOBILE, moto g06 power là lựa chọn bền bỉ hàng đầu cho người dùng cần một chiếc điện thoại pin 3 ngày và giải trí màn hình lớn.",
+    "Mặc dù tích hợp viên pin 7.000 mAh, moto g06 power vẫn giữ độ dày hợp lý 8,8 mm và trọng lượng 220 gram cùng mặt lưng bọc da thuần chay Eco-leather êm tay, kháng nước nhẹ chuẩn IP54.",
+    "Màn hình IPS LCD rộng tới 6,88 inch (1640 x 720 pixel) hỗ trợ tần số quét 120Hz mượt mà, tính năng cảm ứng khi tay ướt Water Touch và kính bảo vệ Gorilla Glass 3.",
+    "Camera chính 50MP (ƒ/1.8, PDAF) ứng dụng công nghệ gộp điểm ảnh Quad Pixel giúp thu sáng tốt hơn gấp 4 lần, đi kèm chế độ chụp đêm Night Vision và camera selfie 8MP.",
+    "Vi xử lý 8 nhân MediaTek Helio G81 Ultra kết hợp 4GB RAM (+4GB RAM Boost), bộ nhớ 64GB/128GB và hệ điều hành Android 15 nguyên bản nhẹ nhàng giúp máy vận hành ổn định mọi tác vụ hàng ngày.",
+    "Viên pin 7.000 mAh kết hợp sạc nhanh Type-C, loa kép Stereo Dolby Atmos và giắc tai nghe 3.5mm biến moto g06 power thành cỗ máy giải trí và liên lạc bền bỉ suốt 3 ngày liền."
+  ],
+  "priceSegment": "entry-level"
+}

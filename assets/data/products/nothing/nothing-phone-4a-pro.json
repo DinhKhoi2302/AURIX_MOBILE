@@ -1,0 +1,489 @@
+{
+  "id": "nothing-phone-4a-pro",
+  "brand": "Nothing",
+  "brandId": "nothing",
+  "parentGroupId": "nothing",
+  "model": "Nothing Phone (4a) Pro",
+  "series": "Nothing Phone (4a / 4b)",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "upper-midrange"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025 – 2026",
+    "segment": "Cận cao cấp",
+    "description": "Ra mắt tháng 3/2026, Nothing Phone (4a) Pro khẳng định cá tính công nghệ độc bản từ London với mặt lưng kính trong suốt tích hợp hệ thống đèn LED Glyph Interface, khung viền hợp kim nhôm, màn hình 6,83 inch AMOLED 144Hz bảo vệ bởi kính Gorilla Glass 7i, vi xử lý Snapdragon 7s Gen 4 và đặc biệt là hệ thống 3 camera có ống kính Telephoto tiềm vọng 50MP zoom quang 3x OIS cùng camera trước 50MP. Tại AURIX MOBILE, Nothing Phone (4a) Pro là lựa chọn hàng đầu cho những tín đồ công nghệ yêu thích thiết kế khác biệt và hệ điều hành Nothing OS mượt mà. (Nguồn tham chiếu: GSMArena Review - Nothing Phone (4a) Pro).",
+    "highlights": [
+      "6,83 inch AMOLED 144Hz",
+      "Snapdragon 7s Gen 4",
+      "Tiềm vọng 50MP 3x OIS / Đèn Glyph"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 12190000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT002-NOT4APRO-TRANG-8GB-256GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 12190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nothing/nothing-phone-4a-pro/anh-dai-dien-nothing-phone-4a-pro-trang.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/mat-truoc-mat-sau-nothing-phone-4a-pro-trang.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-mat-lung-nothing-phone-4a-pro-trang.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-man-hinh-phai-nothing-phone-4a-pro-trang.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-man-hinh-trai-nothing-phone-4a-pro-trang.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/Nothing-Phone-4a-Pro.jpg"
+      ]
+    },
+    {
+      "sku": "DT002-NOT4APRO-TRANG-12GB-256GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 13390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nothing/nothing-phone-4a-pro/anh-dai-dien-nothing-phone-4a-pro-trang.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/mat-truoc-mat-sau-nothing-phone-4a-pro-trang.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-mat-lung-nothing-phone-4a-pro-trang.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-man-hinh-phai-nothing-phone-4a-pro-trang.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-man-hinh-trai-nothing-phone-4a-pro-trang.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/Nothing-Phone-4a-Pro.jpg"
+      ]
+    },
+    {
+      "sku": "DT002-NOT4APRO-HONG-8GB-256GB",
+      "color": "Hồng",
+      "colorHex": "#F472B6",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 12190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nothing/nothing-phone-4a-pro/mat-truoc-mat-sau-nothing-phone-4a-pro-hong.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-mat-lung-nothing-phone-4a-pro-hong.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/canh-trai-canh-phai-nothing-phone-4a-pro-hong.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-man-hinh-phai-nothing-phone-4a-pro-hong.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-man-hinh-trai-nothing-phone-4a-pro-hong.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/Nothing-Phone-4a-Pro.jpg"
+      ]
+    },
+    {
+      "sku": "DT002-NOT4APRO-HONG-12GB-256GB",
+      "color": "Hồng",
+      "colorHex": "#F472B6",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 13390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nothing/nothing-phone-4a-pro/mat-truoc-mat-sau-nothing-phone-4a-pro-hong.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-mat-lung-nothing-phone-4a-pro-hong.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/canh-trai-canh-phai-nothing-phone-4a-pro-hong.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-man-hinh-phai-nothing-phone-4a-pro-hong.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-man-hinh-trai-nothing-phone-4a-pro-hong.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/Nothing-Phone-4a-Pro.jpg"
+      ]
+    },
+    {
+      "sku": "DT002-NOT4APRO-DEN-8GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 12190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nothing/nothing-phone-4a-pro/mat-truoc-mat-sau-nothing-phone-4a-pro-den.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-mat-lung-nothing-phone-4a-pro-den.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/canh-trai-canh-phai-nothing-phone-4a-pro-den.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-man-hinh-phai-nothing-phone-4a-pro-den.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-man-hinh-trai-nothing-phone-4a-pro-den.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/Nothing-Phone-4a-Pro.jpg"
+      ]
+    },
+    {
+      "sku": "DT002-NOT4APRO-DEN-12GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 13390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nothing/nothing-phone-4a-pro/mat-truoc-mat-sau-nothing-phone-4a-pro-den.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-mat-lung-nothing-phone-4a-pro-den.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/canh-trai-canh-phai-nothing-phone-4a-pro-den.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-man-hinh-phai-nothing-phone-4a-pro-den.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-man-hinh-trai-nothing-phone-4a-pro-den.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/Nothing-Phone-4a-Pro.jpg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "AMOLED 1,07 tỷ màu (10-bit), 144Hz, HDR10+, 1.600 nit",
+    "size": "6,83 inch",
+    "resolution": "2400 x 1080 pixel (FHD+, 385 ppi)",
+    "refreshRate": "144Hz",
+    "brightness": "Tần số quét 144Hz siêu mượt, làm mờ PWM 2160Hz, HDR10+, độ sáng tiêu chuẩn 800 nit / HBM 1.600 nit, đỉnh cục bộ 3.000 nit",
+    "hdr": "HDR10+ / HLG",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 7s Gen 4 (4nm)",
+    "cpu": "CPU 8 nhân hiệu năng cao tối ưu hóa đa nhiệm và tiết kiệm năng lượng",
+    "gpu": "Qualcomm Adreno GPU",
+    "ram": [
+      "8GB",
+      "12GB"
+    ],
+    "storage": [
+      "256GB"
+    ],
+    "operatingSystem": "Nothing OS 3.5 / 4.0 (Android 16)",
+    "uiVersion": "Nothing OS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Chính OIS + 50MP Tele tiềm vọng 3x OIS + 8MP Góc siêu rộng",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "Quay video 4K ở 30/60fps, 1080p ở 30/60/120fps kèm chống rung OIS + EIS"
+    ],
+    "aiFeatures": [
+      "TrueLens Engine 3.0 xử lý ảnh điện toán AI, Ultra XDR (hợp tác cùng Google), Chế độ chân dung đa tiêu cự, đèn Glyph Fill Light trợ sáng mềm mại khi chụp đêm"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "50MP (ƒ/2.2, 24mm), quay 4K 30fps",
+    "features": [
+      "Camera Selfie 50MP (khẩu độ ƒ/2.2, tiêu cự 24mm góc rộng); Hỗ trợ quay video 4K@30fps và 1080p@60fps sắc nét"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "5.400 mAh",
+    "wiredCharging": "Sạc nhanh 50W PD / PPS (50% trong 19 phút)",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": "Sạc nhanh có dây 50W (nạp 50% pin trong 19 phút, đầy 100% trong 56 phút) | Hỗ trợ sạc ngược có dây 7,5W"
+  },
+  "connectivity": {
+    "sim": [
+      "SIM kép (2 Nano-SIM hoặc Nano-SIM + eSIM)"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) băng tần kép, 2x2 MIMO",
+    "bluetooth": "Bluetooth 5.4 hỗ trợ A2DP, LE, AAC, LDAC",
+    "gps": [
+      "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS"
+    ],
+    "usb": "USB Type-C 2.0 hỗ trợ OTG",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "163,7 x 76,6 x 8,0 mm",
+    "weight": "210 gram",
+    "materials": [
+      "Khung hợp kim nhôm phẳng cứng cáp tích hợp nút Essential Key",
+      "Mặt lưng kính trong suốt (Transparent Back) lộ cấu trúc cơ khí và dải đèn LED Glyph"
+    ],
+    "waterResistance": "IP65 kháng bụi và tia nước",
+    "availableColors": [
+      "Trắng",
+      "Hồng",
+      "Đen"
+    ]
+  },
+  "audio": {
+    "speakers": "Hệ thống loa kép Stereo sống động, 2 micro độ nét cao",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Qualcomm Snapdragon 7-series",
+    "AMOLED 6.83 inch",
+    "Camera 50MP",
+    "Pin 5080 mAh"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Nothing tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/nothing/nothing-phone-4a-pro/anh-dai-dien-nothing-phone-4a-pro-trang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/nothing/nothing-phone-4a-pro/anh-dai-dien-nothing-phone-4a-pro-trang.webp",
+      "assets/images/products/nothing/nothing-phone-4a-pro/mat-truoc-mat-sau-nothing-phone-4a-pro-den.webp",
+      "assets/images/products/nothing/nothing-phone-4a-pro/mat-truoc-mat-sau-nothing-phone-4a-pro-hong.webp",
+      "assets/images/products/nothing/nothing-phone-4a-pro/mat-truoc-mat-sau-nothing-phone-4a-pro-trang.webp",
+      "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-mat-lung-nothing-phone-4a-pro-den.webp",
+      "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-mat-lung-nothing-phone-4a-pro-hong.webp",
+      "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-mat-lung-nothing-phone-4a-pro-trang.webp",
+      "assets/images/products/nothing/nothing-phone-4a-pro/canh-trai-canh-phai-nothing-phone-4a-pro-den.webp",
+      "assets/images/products/nothing/nothing-phone-4a-pro/canh-trai-canh-phai-nothing-phone-4a-pro-hong.webp",
+      "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-man-hinh-phai-nothing-phone-4a-pro-den.webp",
+      "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-man-hinh-phai-nothing-phone-4a-pro-hong.webp",
+      "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-man-hinh-phai-nothing-phone-4a-pro-trang.webp",
+      "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-man-hinh-trai-nothing-phone-4a-pro-den.webp",
+      "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-man-hinh-trai-nothing-phone-4a-pro-hong.webp",
+      "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-man-hinh-trai-nothing-phone-4a-pro-trang.webp",
+      "assets/images/products/nothing/nothing-phone-4a-pro/Nothing-Phone-4a-Pro.jpg"
+    ],
+    "byColor": {
+      "Trắng": [
+        "assets/images/products/nothing/nothing-phone-4a-pro/anh-dai-dien-nothing-phone-4a-pro-trang.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/mat-truoc-mat-sau-nothing-phone-4a-pro-trang.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-mat-lung-nothing-phone-4a-pro-trang.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-man-hinh-phai-nothing-phone-4a-pro-trang.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-man-hinh-trai-nothing-phone-4a-pro-trang.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/Nothing-Phone-4a-Pro.jpg"
+      ],
+      "Đen": [
+        "assets/images/products/nothing/nothing-phone-4a-pro/mat-truoc-mat-sau-nothing-phone-4a-pro-den.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-mat-lung-nothing-phone-4a-pro-den.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/canh-trai-canh-phai-nothing-phone-4a-pro-den.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-man-hinh-phai-nothing-phone-4a-pro-den.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-man-hinh-trai-nothing-phone-4a-pro-den.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/Nothing-Phone-4a-Pro.jpg"
+      ],
+      "Hồng": [
+        "assets/images/products/nothing/nothing-phone-4a-pro/mat-truoc-mat-sau-nothing-phone-4a-pro-hong.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-mat-lung-nothing-phone-4a-pro-hong.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/canh-trai-canh-phai-nothing-phone-4a-pro-hong.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-man-hinh-phai-nothing-phone-4a-pro-hong.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-man-hinh-trai-nothing-phone-4a-pro-hong.webp",
+        "assets/images/products/nothing/nothing-phone-4a-pro/Nothing-Phone-4a-Pro.jpg"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/nothing/nothing-phone-4a-pro/mat-truoc-mat-sau-nothing-phone-4a-pro-den.webp",
+      "screen": "assets/images/products/nothing/nothing-phone-4a-pro/mat-truoc-mat-sau-nothing-phone-4a-pro-hong.webp",
+      "performance": "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-man-hinh-phai-nothing-phone-4a-pro-den.webp",
+      "camera": "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-mat-lung-nothing-phone-4a-pro-den.webp",
+      "battery": "assets/images/products/nothing/nothing-phone-4a-pro/canh-trai-canh-phai-nothing-phone-4a-pro-den.webp",
+      "feature": "assets/images/products/nothing/nothing-phone-4a-pro/canh-trai-canh-phai-nothing-phone-4a-pro-hong.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/nothing/nothing-phone-4a-pro/mat-truoc-mat-sau-nothing-phone-4a-pro-den.webp",
+      "assets/images/products/nothing/nothing-phone-4a-pro/mat-truoc-mat-sau-nothing-phone-4a-pro-hong.webp",
+      "assets/images/products/nothing/nothing-phone-4a-pro/mat-truoc-mat-sau-nothing-phone-4a-pro-trang.webp",
+      "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-mat-lung-nothing-phone-4a-pro-den.webp",
+      "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-mat-lung-nothing-phone-4a-pro-hong.webp",
+      "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-mat-lung-nothing-phone-4a-pro-trang.webp",
+      "assets/images/products/nothing/nothing-phone-4a-pro/canh-trai-canh-phai-nothing-phone-4a-pro-den.webp",
+      "assets/images/products/nothing/nothing-phone-4a-pro/canh-trai-canh-phai-nothing-phone-4a-pro-hong.webp",
+      "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-man-hinh-phai-nothing-phone-4a-pro-den.webp",
+      "assets/images/products/nothing/nothing-phone-4a-pro/goc-nghieng-man-hinh-phai-nothing-phone-4a-pro-hong.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://nothing.tech/",
+      "https://www.thegioididong.com/dtdd-nothing-phone",
+      "https://www.thegioididong.com/hoi-dap/so-sanh-nothing-phone-4a-vs-4a-pro-1597369",
+      "https://nothing.tech/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "verified",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT002-NOT4APRO",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "AMOLED 1,07 tỷ màu (10-bit), 144Hz, HDR10+, 1.600 nit",
+      "Kích thước màn hình": "6,83 inch",
+      "Độ phân giải màn hình": "2400 x 1080 pixel (FHD+, 385 ppi)",
+      "Tần số quét": "144Hz",
+      "Kiểu màn hình": "Màn hình phẳng viền mỏng đối xứng 4 cạnh, kính Corning Gorilla Glass 7i",
+      "Tính năng màn hình": "Tần số quét 144Hz siêu mượt, làm mờ PWM 2160Hz, HDR10+, độ sáng tiêu chuẩn 800 nit / HBM 1.600 nit, đỉnh cục bộ 3.000 nit"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera chuyên nghiệp kèm ống kính tiềm vọng: (1) Camera chính 50MP: cảm biến lớn 1/1.56 inch, khẩu độ ƒ/1.88, tiêu cự 24mm, lấy nét Dual Pixel PDAF, chống rung quang học OIS; (2) Camera Periscope Telephoto 50MP: cảm biến Sony 1/1.95 inch, khẩu độ ƒ/2.65, tiêu cự 70mm (zoom quang học 3x, zoom in-sensor 6x, Ultra Zoom 60x), chống rung OIS, hỗ trợ chụp Telephoto Macro; (3) Camera Góc siêu rộng 8MP: khẩu độ ƒ/2.2, tiêu cự 15mm (góc nhìn 120°)",
+      "Quay video": "Quay video 4K ở 30/60fps, 1080p ở 30/60/120fps kèm chống rung OIS + EIS",
+      "Tính năng camera": "TrueLens Engine 3.0 xử lý ảnh điện toán AI, Ultra XDR (hợp tác cùng Google), Chế độ chân dung đa tiêu cự, đèn Glyph Fill Light trợ sáng mềm mại khi chụp đêm"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera Selfie 50MP (khẩu độ ƒ/2.2, tiêu cự 24mm góc rộng); Hỗ trợ quay video 4K@30fps và 1080p@60fps sắc nét"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 7s Gen 4 (4nm)",
+      "Loại CPU": "CPU 8 nhân hiệu năng cao tối ưu hóa đa nhiệm và tiết kiệm năng lượng",
+      "GPU": "Qualcomm Adreno GPU"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB / 12GB LPDDR5",
+      "Bộ nhớ trong": "256GB chuẩn UFS 3.1"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.400 mAh (Pin Li-Po mật độ cao giữ trên 90% dung lượng sau 1.200 chu kỳ sạc)",
+      "Công nghệ sạc": "Sạc nhanh có dây 50W (nạp 50% pin trong 19 phút, đầy 100% trong 56 phút) | Hỗ trợ sạc ngược có dây 7,5W",
+      "Cổng sạc": "USB Type-C 2.0 hỗ trợ OTG"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Nothing OS 3.5 / 4.0 (Android 16)",
+      "Công nghệ - Tiện ích": "Phím vật lý Essential Key truy cập nhanh không gian AI Essential Space (ghi chú giọng nói, phân loại ảnh chụp màn hình và nhắc việc bằng AI), hệ thống đèn LED Glyph Interface ở mặt lưng",
+      "Tiện ích khác": "Giao diện Dot-Matrix độc bản của Nothing, hỗ trợ eSIM, cam kết 3 năm cập nhật Android và 6 năm bản vá bảo mật",
+      "Thời điểm ra mắt": "05/03/2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G",
+      "Thẻ SIM": "SIM kép (2 Nano-SIM hoặc Nano-SIM + eSIM)",
+      "Wi-Fi": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax) băng tần kép, 2x2 MIMO",
+      "Bluetooth": "Bluetooth 5.4 hỗ trợ A2DP, LE, AAC, LDAC",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa năng (Google Pay)",
+      "GPS": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung hợp kim nhôm phẳng cứng cáp tích hợp nút Essential Key",
+      "Chất liệu mặt lưng": "Mặt lưng kính trong suốt (Transparent Back) lộ cấu trúc cơ khí và dải đèn LED Glyph",
+      "Kích thước": "163,7 x 76,6 x 8,0 mm",
+      "Trọng lượng": "210 gram",
+      "Chỉ số kháng nước, bụi": "Đạt chuẩn kháng bụi hoàn toàn và chống tia nước phun IP65"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo sống động, 2 micro độ nét cao",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình + Mở khóa khuôn mặt",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Cảm biến tiệm cận, Ánh sáng môi trường, La bàn điện tử"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,83 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "AMOLED 1,07 tỷ màu (10-bit), 144Hz, HDR10+, 1.600 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2400 x 1080 pixel (FHD+, 385 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "144Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 7s Gen 4 (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB / 12GB LPDDR5"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB chuẩn UFS 3.1"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính OIS + 50MP Tele tiềm vọng 3x OIS + 8MP Góc siêu rộng"
+    },
+    {
+      "label": "Camera trước",
+      "value": "50MP (ƒ/2.2, 24mm), quay 4K 30fps"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.400 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh 50W PD / PPS (50% trong 19 phút)"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Nothing OS 3.5 / 4.0 (Android 16)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP65 kháng bụi và tia nước"
+    }
+  ],
+  "verbatimDescription": [
+    "Ra mắt tháng 3/2026, Nothing Phone (4a) Pro khẳng định cá tính công nghệ độc bản từ London với mặt lưng kính trong suốt tích hợp hệ thống đèn LED Glyph Interface, khung viền hợp kim nhôm, màn hình 6,83 inch AMOLED 144Hz bảo vệ bởi kính Gorilla Glass 7i, vi xử lý Snapdragon 7s Gen 4 và đặc biệt là hệ thống 3 camera có ống kính Telephoto tiềm vọng 50MP zoom quang 3x OIS cùng camera trước 50MP. Tại AURIX MOBILE, Nothing Phone (4a) Pro là lựa chọn hàng đầu cho những tín đồ công nghệ yêu thích thiết kế khác biệt và hệ điều hành Nothing OS mượt mà.",
+    "Nothing Phone (4a) Pro sở hữu ngôn ngữ thiết kế công nghiệp trong suốt (Transparent Design) không thể trộn lẫn, kết hợp khung viền nhôm phẳng 8,0 mm và kính cường lực Corning Gorilla Glass 7i đạt chuẩn kháng bụi nước IP65. Hệ thống đèn LED Glyph ở mặt lưng vừa hiển thị thông báo trực quan, tiến trình giao hàng, đồng hồ đếm ngược, vừa đóng vai trò là đèn vòng trợ sáng mềm mại khi chụp ảnh chân dung đêm.",
+    "Màn hình phẳng 6,83 inch AMOLED 10-bit có viền bezel mỏng đều 4 cạnh, tần số quét nâng lên 144Hz, làm mờ PWM 2160Hz và độ sáng HBM 1.600 nit (đỉnh 3.000 nit).",
+    "Điểm nhấn nhiếp ảnh vượt trội của bản Pro là cụm 3 camera sau gồm camera chính 50MP OIS (1/1.56\"), ống kính Periscope Telephoto 50MP zoom quang học 3x OIS (zoom in-sensor 6x, Ultra Zoom 60x, chụp Telephoto Macro sắc nét) và camera góc siêu rộng 8MP, đi kèm camera Selfie 50MP hỗ trợ quay video 4K.",
+    "Máy vận hành trên vi xử lý 4nm Qualcomm Snapdragon 7s Gen 4 đi kèm 8GB/12GB RAM và 256GB ROM. Nút bấm vật lý Essential Key ở cạnh máy giúp kích hoạt nhanh không gian AI Essential Space trên Nothing OS (Android 16) để ghi chú và tổng hợp thông tin thông minh.",
+    "Viên pin 5.400 mAh kết hợp sạc nhanh 50W nạp 50% dung lượng chỉ trong 19 phút, mang lại trải nghiệm sử dụng bền bỉ suốt gần 2 ngày."
+  ],
+  "priceSegment": "upper-midrange"
+}

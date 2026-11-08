@@ -1,0 +1,307 @@
+{
+  "id": "redmi-note-14-pro",
+  "model": "Redmi Note 14 Pro",
+  "brand": "Redmi",
+  "brandId": "redmi",
+  "parentGroupId": "xiaomi",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "midrange"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "highlights": [
+      "Màn hình cong 6,67 inch 1.5K AMOLED 120Hz độ sáng đỉnh 3.000 nit và kính Gorilla Glass Victus 2",
+      "Camera chính 50MP Sony LYT-600 khẩu độ cực lớn f/1.5 tích hợp chống rung quang học OIS",
+      "Vi xử lý Dimensity 7300-Ultra (4nm), viên pin 5.500 mAh sạc nhanh 45W và chuẩn kháng nước IP68"
+    ],
+    "description": "Redmi Note 14 Pro mang thiết kế màn hình cong 1.5K AMOLED độ sáng 3.000 nit, kính cường lực Gorilla Glass Victus 2 và chuẩn kháng nước IP68 xuống tầm giá dễ tiếp cận, kết hợp cùng vi xử lý Dimensity 7300-Ultra (4nm), camera 50MP Sony LYT-600 khẩu độ f/1.5 OIS và viên pin 5.500 mAh.",
+    "releaseDate": "Tháng 09/2024"
+  },
+  "display": {
+    "technology": "CrystalRes 1.5K AMOLED Cong 68 tỷ màu",
+    "size": "6,67 inch",
+    "resolution": "1.5K (2712 x 1220 pixel)",
+    "refreshRate": "120Hz",
+    "brightness": "Độ sáng đỉnh 3.000 nit, cảm ứng thông minh khi tay ướt Wet Touch 2.0, đạt 3 chứng nhận bảo vệ mắt TÜV Rheinland",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "ram": [
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "chipset": "MediaTek Dimensity 7300-Ultra (tiến trình TSMC 4nm tiết kiệm năng lượng)",
+    "operatingSystem": "Xiaomi HyperOS (Android 14, nâng cấp Android 15)",
+    "cpu": "CPU 8 nhân (4 nhân hiệu năng cao Cortex-A78 xung nhịp 2.5GHz + 4 nhân tiết kiệm điện Cortex-A55 xung nhịp 2.0GHz)",
+    "gpu": "ARM Mali-G615 MC2"
+  },
+  "rearCamera": {
+    "main": "50MP Sony LYT-600 (ƒ/1.5, OIS) + 8MP Siêu rộng + 2MP Macro",
+    "ultraWide": null,
+    "telephoto": null,
+    "ois": true,
+    "videoRecording": [
+      "Quay video 4K ở 24/30 fps; 1080p ở 30/60/120 fps; chống rung kép OIS + EIS"
+    ],
+    "aiFeatures": [
+      "Xiaomi Imaging Engine, Chụp đêm RAW Night Mode, Chân dung AI, AI Erase Pro, AI Image Expansion, Live Photo"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "20MP (ƒ/2.2)",
+    "features": [
+      "Camera selfie 20MP (khẩu độ ƒ/2.2, tự động chuyển góc rộng 0.8x khi chụp nhóm), quay video 1080p@30/60fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "5.500 mAh",
+    "wiredCharging": "Sạc nhanh Turbo 45W",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc nhanh Turbo 45W qua cổng USB Type-C | Không hỗ trợ sạc không dây"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano SIM (hỗ trợ eSIM tùy thị trường)"
+    ],
+    "network": [
+      "5G Sub-6GHz Dual SIM"
+    ],
+    "wifi": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax, 2x2 MIMO)",
+    "bluetooth": "Bluetooth 5.4",
+    "gps": [
+      "GPS, GLONASS, Galileo, BDS, QZSS"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "162,33 x 74,42 x 8,4 mm",
+    "weight": "190 gram",
+    "materials": [
+      "Khung viền composite gia cường kèm cấu trúc đệm giảm chấn",
+      "Mặt lưng bo cong 3D hoàn thiện kính nhám hoặc da sinh học cao cấp"
+    ],
+    "waterResistance": "Kháng nước & bụi IP68",
+    "availableColors": [
+      "Xanh Ngọc"
+    ]
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 6290000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/redmi/redmi-note-14-pro/anh-dai-dien-xiaomi-redmi-note-14-pro-xanh-ngoc.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/redmi/redmi-note-14-pro/anh-dai-dien-xiaomi-redmi-note-14-pro-xanh-ngoc.webp",
+      "assets/images/products/redmi/redmi-note-14-pro/goc-nghieng-mat-lung-phai-xanh-ngoc.webp",
+      "assets/images/products/redmi/redmi-note-14-pro/goc-nghieng-mat-lung-trai-xanh-ngoc.webp",
+      "assets/images/products/redmi/redmi-note-14-pro/goc-nghieng-man-hinh-phai-xanh-ngoc.webp",
+      "assets/images/products/redmi/redmi-note-14-pro/goc-nghieng-man-hinh-trai-xanh-ngoc.webp"
+    ],
+    "byColor": {
+      "Xanh Ngọc": [
+        "assets/images/products/redmi/redmi-note-14-pro/anh-dai-dien-xiaomi-redmi-note-14-pro-xanh-ngoc.webp",
+        "assets/images/products/redmi/redmi-note-14-pro/goc-nghieng-mat-lung-phai-xanh-ngoc.webp",
+        "assets/images/products/redmi/redmi-note-14-pro/goc-nghieng-mat-lung-trai-xanh-ngoc.webp",
+        "assets/images/products/redmi/redmi-note-14-pro/goc-nghieng-man-hinh-phai-xanh-ngoc.webp",
+        "assets/images/products/redmi/redmi-note-14-pro/goc-nghieng-man-hinh-trai-xanh-ngoc.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/redmi/redmi-note-14-pro/goc-nghieng-mat-lung-phai-xanh-ngoc.webp",
+      "screen": "assets/images/products/redmi/redmi-note-14-pro/goc-nghieng-man-hinh-phai-xanh-ngoc.webp",
+      "performance": "assets/images/products/redmi/redmi-note-14-pro/goc-nghieng-man-hinh-trai-xanh-ngoc.webp",
+      "camera": "assets/images/products/redmi/redmi-note-14-pro/goc-nghieng-mat-lung-trai-xanh-ngoc.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/redmi/redmi-note-14-pro/goc-nghieng-mat-lung-phai-xanh-ngoc.webp",
+      "assets/images/products/redmi/redmi-note-14-pro/goc-nghieng-mat-lung-trai-xanh-ngoc.webp",
+      "assets/images/products/redmi/redmi-note-14-pro/goc-nghieng-man-hinh-phai-xanh-ngoc.webp",
+      "assets/images/products/redmi/redmi-note-14-pro/goc-nghieng-man-hinh-trai-xanh-ngoc.webp"
+    ]
+  },
+  "variants": [
+    {
+      "sku": "DT021-RN14P-XANH-NGOC-8GB-128GB",
+      "color": "Xanh Ngọc",
+      "colorHex": "#48B5A3",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 6290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-note-14-pro/anh-dai-dien-xiaomi-redmi-note-14-pro-xanh-ngoc.webp",
+        "assets/images/products/redmi/redmi-note-14-pro/goc-nghieng-mat-lung-phai-xanh-ngoc.webp",
+        "assets/images/products/redmi/redmi-note-14-pro/goc-nghieng-mat-lung-trai-xanh-ngoc.webp",
+        "assets/images/products/redmi/redmi-note-14-pro/goc-nghieng-man-hinh-phai-xanh-ngoc.webp",
+        "assets/images/products/redmi/redmi-note-14-pro/goc-nghieng-man-hinh-trai-xanh-ngoc.webp"
+      ]
+    },
+    {
+      "sku": "DT021-RN14P-XANH-NGOC-8GB-256GB",
+      "color": "Xanh Ngọc",
+      "colorHex": "#48B5A3",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 6990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-note-14-pro/anh-dai-dien-xiaomi-redmi-note-14-pro-xanh-ngoc.webp",
+        "assets/images/products/redmi/redmi-note-14-pro/goc-nghieng-mat-lung-phai-xanh-ngoc.webp",
+        "assets/images/products/redmi/redmi-note-14-pro/goc-nghieng-mat-lung-trai-xanh-ngoc.webp",
+        "assets/images/products/redmi/redmi-note-14-pro/goc-nghieng-man-hinh-phai-xanh-ngoc.webp",
+        "assets/images/products/redmi/redmi-note-14-pro/goc-nghieng-man-hinh-trai-xanh-ngoc.webp"
+      ]
+    }
+  ],
+  "docCode": "DT021-RN14P",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "CrystalRes 1.5K AMOLED cong 3D, 12-bit (68,7 tỷ màu), hỗ trợ Dolby Vision, HDR10+, làm mờ 1920Hz PWM Dimming",
+      "Kích thước màn hình": "6,67 inch",
+      "Độ phân giải màn hình": "2712 x 1220 pixel (chuẩn 1.5K, mật độ điểm ảnh 446 ppi)",
+      "Tần số quét": "120Hz (tần số lấy mẫu cảm ứng tức thời 2560Hz)",
+      "Kiểu màn hình": "Màn hình cong tràn cạnh виền siêu mỏng, bảo vệ bởi kính cường lực Corning Gorilla Glass Victus 2",
+      "Tính năng màn hình": "Độ sáng đỉnh 3.000 nit, cảm ứng thông minh khi tay ướt Wet Touch 2.0, đạt 3 chứng nhận bảo vệ mắt TÜV Rheinland"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera: Camera chính 50MP cảm biến Sony LYT-600 (kích thước 1/1.95 inch, khẩu độ lớn ƒ/1.5, chống rung quang học OIS + EIS, zoom cảm biến 2x) + Camera góc siêu rộng 8MP (khẩu độ ƒ/2.2, góc nhìn 120°) + Camera Macro 2MP (khẩu độ ƒ/2.4)",
+      "Quay video": "Quay video 4K ở 24/30 fps; 1080p ở 30/60/120 fps; chống rung kép OIS + EIS",
+      "Tính năng camera": "Xiaomi Imaging Engine, Chụp đêm RAW Night Mode, Chân dung AI, AI Erase Pro, AI Image Expansion, Live Photo"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera selfie 20MP (khẩu độ ƒ/2.2, tự động chuyển góc rộng 0.8x khi chụp nhóm), quay video 1080p@30/60fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Dimensity 7300-Ultra (tiến trình TSMC 4nm tiết kiệm năng lượng)",
+      "Loại CPU": "CPU 8 nhân (4 nhân hiệu năng cao Cortex-A78 xung nhịp 2.5GHz + 4 nhân tiết kiệm điện Cortex-A55 xung nhịp 2.0GHz)",
+      "GPU": "ARM Mali-G615 MC2"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB / 12GB LPDDR4X (hỗ trợ mở rộng RAM ảo thêm tối đa 12GB)",
+      "Bộ nhớ trong": "128GB / 256GB / 512GB chuẩn UFS 2.2"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.500 mAh (Pin điện phân rắn hoạt động tốt ở -20°C và bền bỉ 1.600 chu kỳ sạc)",
+      "Công nghệ sạc": "Sạc nhanh Turbo 45W qua cổng USB Type-C | Không hỗ trợ sạc không dây",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS (Android 14, nâng cấp Android 15)",
+      "Công nghệ - Tiện ích": "Circle to Search, Google Gemini, AI Erase Pro, Cổng hồng ngoại IR Blaster",
+      "Tiện ích khác": "Thiết kế mỏng nhẹ 190g với kính Gorilla Glass Victus 2 và chuẩn kháng nước IP68",
+      "Thời điểm ra mắt": "09/2024 - 01/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G Sub-6GHz (SA/NSA), Dual 5G Standby",
+      "Thẻ SIM": "2 Nano SIM (hỗ trợ eSIM tùy thị trường)",
+      "Wi-Fi": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax, 2x2 MIMO)",
+      "Bluetooth": "Bluetooth 5.4",
+      "Công nghệ NFC": "Có hỗ trợ đầy đủ",
+      "GPS": "GPS, GLONASS, Galileo, BDS, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền composite gia cường kèm cấu trúc đệm giảm chấn",
+      "Chất liệu mặt lưng": "Mặt lưng bo cong 3D hoàn thiện kính nhám hoặc da sinh học cao cấp",
+      "Kích thước": "162,33 x 74,42 x 8,4 mm",
+      "Trọng lượng": "190 gram",
+      "Chỉ số kháng nước, bụi": "Chuẩn IP68 (kháng bụi tuyệt đối và chịu ngâm nước ở độ sâu 1,5m trong 30 phút)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo hỗ trợ Dolby Atmos, Hi-Res Audio",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình & Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Cảm biến ánh sáng, Cảm biến tiệm cận, La bàn điện tử, Hồng ngoại IR"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,67 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "CrystalRes 1.5K AMOLED Cong 68 tỷ màu"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "1.5K (2712 x 1220 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 7300-Ultra (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB / 12GB LPDDR4X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB / 512GB UFS 2.2"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Sony LYT-600 (ƒ/1.5, OIS) + 8MP Siêu rộng + 2MP Macro"
+    },
+    {
+      "label": "Camera trước",
+      "value": "20MP (ƒ/2.2)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.500 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh Turbo 45W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS (Android 14/15)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G Sub-6GHz Dual SIM"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "Kháng nước & bụi IP68"
+    }
+  ],
+  "verbatimDescription": [
+    "Redmi Note 14 Pro là mẫu máy cân bằng nhất trong dòng Redmi Note 14 khi thừa hưởng trọn vẹn màn hình cong 3D 1.5K CrystalRes AMOLED độ sáng 3.000 nit và độ bền chuẩn IP68 từ đàn anh Pro Plus nhưng có trọng lượng nhẹ nhàng hơn chỉ 190 gram.",
+    "Mặt kính Corning Gorilla Glass Victus 2 kết hợp khung sườn hấp thụ xung lực giúp bảo vệ màn hình tối đa trước những va chạm bất ngờ trong quá trình sử dụng.",
+    "Hệ thống camera sau nổi bật với cảm biến chính 50MP Sony LYT-600 sở hữu khẩu độ siêu lớn f/1.5 cùng chống rung quang học OIS. Khẩu độ f/1.5 giúp thu sáng vượt trội khi chụp thiếu sáng và tạo hiệu ứng xóa phông tự nhiên, đi kèm camera góc siêu rộng 8MP và Macro 2MP.",
+    "Vi xử lý MediaTek Dimensity 7300-Ultra tiến trình 4nm TSMC mang lại hiệu suất 5G mượt mà và tiết kiệm điện năng, phối hợp hoàn hảo cùng viên pin 5.500 mAh và sạc nhanh 45W.",
+    "Thiết bị còn tích hợp loa kép Stereo chuẩn Dolby Atmos, cảm biến vân tay dưới màn hình, cổng hồng ngoại IR, NFC và các tính năng AI thông minh trên Xiaomi HyperOS."
+  ],
+  "series": "Redmi Note 14 Series",
+  "priceSegment": "midrange"
+}

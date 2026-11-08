@@ -1,0 +1,142 @@
+{
+  "id": "ugreen-20000mah-pd-30w-pb532",
+  "docCode": "PK-PB010-PB532",
+  "model": "Pin Sạc Dự Phòng Ugreen 20.000mAh PD 30W Dung Lượng Lớn PB532",
+  "brand": "Ugreen",
+  "brandId": "ugreen",
+  "parentGroupId": "ugreen",
+  "series": "Pin sạc dự phòng",
+  "subCategory": "pin-sac-du-phong",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "pin-sac-du-phong"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Pin sạc dự phòng",
+    "highlights": [
+      "30W",
+      "20.000 mAh"
+    ],
+    "description": "Nguồn pin dự trữ dồi dào 20.000mAh với 3 cổng sạc đầu ra linh hoạt, cho phép nạp điện song song cho 3 thiết bị cùng lúc. Vỏ ngoài phủ lớp chống trầy vân nhám cao cấp, quản lý nhiệt độ thông minh giúp sạc mát mẻ và an toàn."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 690000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/anh-dai-dien-ugreen-20000mah-pd-30w-pb532-xam-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/anh-dai-dien-ugreen-20000mah-pd-30w-pb532-xam-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/goc-nghieng-kem-cap-sac-type-c-xam-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/che-do-sac-dong-thap-cho-tai-nghe-dong-ho-xam-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/man-hinh-led-hien-thi-phan-tram-pin-xam-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/sac-cung-luc-3-thiet-bi-xam-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/thong-so-dung-luong-20000mah-xam-den.webp"
+    ],
+    "byColor": {
+      "Xám Đen": [
+        "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/anh-dai-dien-ugreen-20000mah-pd-30w-pb532-xam-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/goc-nghieng-kem-cap-sac-type-c-xam-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/che-do-sac-dong-thap-cho-tai-nghe-dong-ho-xam-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/man-hinh-led-hien-thi-phan-tram-pin-xam-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/sac-cung-luc-3-thiet-bi-xam-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/thong-so-dung-luong-20000mah-xam-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/goc-nghieng-kem-cap-sac-type-c-xam-den.webp",
+      "screen": "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/man-hinh-led-hien-thi-phan-tram-pin-xam-den.webp",
+      "performance": "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/che-do-sac-dong-thap-cho-tai-nghe-dong-ho-xam-den.webp",
+      "camera": "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/sac-cung-luc-3-thiet-bi-xam-den.webp",
+      "battery": "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/thong-so-dung-luong-20000mah-xam-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/goc-nghieng-kem-cap-sac-type-c-xam-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/che-do-sac-dong-thap-cho-tai-nghe-dong-ho-xam-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/man-hinh-led-hien-thi-phan-tram-pin-xam-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/sac-cung-luc-3-thiet-bi-xam-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/thong-so-dung-luong-20000mah-xam-den.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Ugreen",
+      "Dung lượng pin": "20.000 mAh",
+      "Công suất đầu ra tối đa": "30W",
+      "Công suất đầu vào": "20W",
+      "Số lượng cổng kết nối": "3 cổng (2 USB-C + 1 USB-A)",
+      "Loại cổng kết nối": "2x USB-C, 1x USB-A",
+      "Sạc không dây": "Không",
+      "Công nghệ sạc": "PD 30W, QC 3.0, PPS",
+      "Màu sắc": "Xám đen"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Ugreen"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "20.000 mAh"
+    },
+    {
+      "label": "Công suất đầu ra tối đa",
+      "value": "30W"
+    },
+    {
+      "label": "Công suất đầu vào",
+      "value": "20W"
+    },
+    {
+      "label": "Số lượng cổng kết nối",
+      "value": "3 cổng (2 USB-C + 1 USB-A)"
+    },
+    {
+      "label": "Loại cổng kết nối",
+      "value": "2x USB-C, 1x USB-A"
+    },
+    {
+      "label": "Sạc không dây",
+      "value": "Không"
+    },
+    {
+      "label": "Công nghệ sạc",
+      "value": "PD 30W, QC 3.0, PPS"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Xám đen"
+    }
+  ],
+  "verbatimDescription": [
+    "Nguồn pin dự trữ dồi dào 20.000mAh với 3 cổng sạc đầu ra linh hoạt, cho phép nạp điện song song cho 3 thiết bị cùng lúc. Vỏ ngoài phủ lớp chống trầy vân nhám cao cấp, quản lý nhiệt độ thông minh giúp sạc mát mẻ và an toàn."
+  ],
+  "variants": [
+    {
+      "sku": "PK-PB010-PB532-XAM-DEN-TIEU-CHUAN",
+      "color": "Xám Đen",
+      "colorHex": "#374151",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/anh-dai-dien-ugreen-20000mah-pd-30w-pb532-xam-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/goc-nghieng-kem-cap-sac-type-c-xam-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/che-do-sac-dong-thap-cho-tai-nghe-dong-ho-xam-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/man-hinh-led-hien-thi-phan-tram-pin-xam-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/sac-cung-luc-3-thiet-bi-xam-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/ugreen-20000mah-pd-30w-pb532/thong-so-dung-luong-20000mah-xam-den.webp"
+      ]
+    }
+  ]
+}

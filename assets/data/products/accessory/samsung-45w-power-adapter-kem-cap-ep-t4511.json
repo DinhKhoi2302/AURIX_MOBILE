@@ -1,0 +1,126 @@
+{
+  "id": "samsung-45w-power-adapter-kem-cap-ep-t4511",
+  "docCode": "PK-CU008-EPT4511",
+  "model": "Bộ Củ Sạc Kèm Cáp Samsung 45W Power Adapter EP-T4511",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "series": "Củ sạc",
+  "subCategory": "cu-sac",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "cu-sac"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Củ sạc",
+    "highlights": [
+      "45W"
+    ],
+    "description": "Bộ sạc đỉnh cao của Samsung bao gồm củ sạc GaN 45W và sợi cáp Type-C to Type-C chuẩn 5A đi kèm trong hộp. Hỗ trợ sạc siêu nhanh 2.0 (Super Fast Charging 2.0) tối ưu cho Galaxy S24+/Ultra, Galaxy Tab S9 Series, giảm đáng kể thời gian chờ đợi nạp pin."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 890000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/cu-sac/samsung-45w-power-adapter-kem-cap-ep-t4511/anh-dai-dien-samsung-45w-power-adapter-kem-cap-ep-t4511-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/cu-sac/samsung-45w-power-adapter-kem-cap-ep-t4511/anh-dai-dien-samsung-45w-power-adapter-kem-cap-ep-t4511-den.webp",
+      "assets/images/products/accessory/cu-sac/samsung-45w-power-adapter-kem-cap-ep-t4511/cu-sac-goc-nghieng-den.webp",
+      "assets/images/products/accessory/cu-sac/samsung-45w-power-adapter-kem-cap-ep-t4511/can-canh-cong-sac-type-c-den.webp",
+      "assets/images/products/accessory/cu-sac/samsung-45w-power-adapter-kem-cap-ep-t4511/cu-sac-thang-dung-den.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/accessory/cu-sac/samsung-45w-power-adapter-kem-cap-ep-t4511/anh-dai-dien-samsung-45w-power-adapter-kem-cap-ep-t4511-den.webp",
+        "assets/images/products/accessory/cu-sac/samsung-45w-power-adapter-kem-cap-ep-t4511/cu-sac-goc-nghieng-den.webp",
+        "assets/images/products/accessory/cu-sac/samsung-45w-power-adapter-kem-cap-ep-t4511/can-canh-cong-sac-type-c-den.webp",
+        "assets/images/products/accessory/cu-sac/samsung-45w-power-adapter-kem-cap-ep-t4511/cu-sac-thang-dung-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/cu-sac/samsung-45w-power-adapter-kem-cap-ep-t4511/cu-sac-goc-nghieng-den.webp",
+      "screen": "assets/images/products/accessory/cu-sac/samsung-45w-power-adapter-kem-cap-ep-t4511/can-canh-cong-sac-type-c-den.webp",
+      "performance": "assets/images/products/accessory/cu-sac/samsung-45w-power-adapter-kem-cap-ep-t4511/cu-sac-thang-dung-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/cu-sac/samsung-45w-power-adapter-kem-cap-ep-t4511/cu-sac-goc-nghieng-den.webp",
+      "assets/images/products/accessory/cu-sac/samsung-45w-power-adapter-kem-cap-ep-t4511/can-canh-cong-sac-type-c-den.webp",
+      "assets/images/products/accessory/cu-sac/samsung-45w-power-adapter-kem-cap-ep-t4511/cu-sac-thang-dung-den.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Samsung",
+      "Công suất sạc tối đa": "45W (Super Fast Charging 2.0)",
+      "Số lượng cổng sạc": "1 cổng",
+      "Loại cổng sạc": "USB-C",
+      "Công nghệ sạc": "Super Fast Charging 2.0, PD 3.0 PPS lên tới 45W",
+      "Công nghệ chế tạo": "GaN tiên tiến",
+      "Kiểu chân cắm": "Chân tròn",
+      "Màu sắc": "Đen"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Samsung"
+    },
+    {
+      "label": "Công suất sạc tối đa",
+      "value": "45W (Super Fast Charging 2.0)"
+    },
+    {
+      "label": "Số lượng cổng sạc",
+      "value": "1 cổng"
+    },
+    {
+      "label": "Loại cổng sạc",
+      "value": "USB-C"
+    },
+    {
+      "label": "Công nghệ sạc",
+      "value": "Super Fast Charging 2.0, PD 3.0 PPS lên tới 45W"
+    },
+    {
+      "label": "Công nghệ chế tạo",
+      "value": "GaN tiên tiến"
+    },
+    {
+      "label": "Kiểu chân cắm",
+      "value": "Chân tròn"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Đen"
+    }
+  ],
+  "verbatimDescription": [
+    "Bộ sạc đỉnh cao của Samsung bao gồm củ sạc GaN 45W và sợi cáp Type-C to Type-C chuẩn 5A đi kèm trong hộp. Hỗ trợ sạc siêu nhanh 2.0 (Super Fast Charging 2.0) tối ưu cho Galaxy S24+/Ultra, Galaxy Tab S9 Series, giảm đáng kể thời gian chờ đợi nạp pin."
+  ],
+  "variants": [
+    {
+      "sku": "PK-CU008-EPT4511-DEN-TIEU-CHUAN",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 890000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/cu-sac/samsung-45w-power-adapter-kem-cap-ep-t4511/anh-dai-dien-samsung-45w-power-adapter-kem-cap-ep-t4511-den.webp",
+        "assets/images/products/accessory/cu-sac/samsung-45w-power-adapter-kem-cap-ep-t4511/cu-sac-goc-nghieng-den.webp",
+        "assets/images/products/accessory/cu-sac/samsung-45w-power-adapter-kem-cap-ep-t4511/can-canh-cong-sac-type-c-den.webp",
+        "assets/images/products/accessory/cu-sac/samsung-45w-power-adapter-kem-cap-ep-t4511/cu-sac-thang-dung-den.webp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,577 @@
+{
+  "id": "xiaomi-15-ultra",
+  "brand": "Xiaomi",
+  "brandId": "xiaomi",
+  "parentGroupId": "xiaomi_group",
+  "model": "Xiaomi 15 Ultra",
+  "series": "Xiaomi 15 & 15T Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "flagship"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.9,
+  "reviewCount": 19,
+  "badges": [
+    {
+      "text": "Bán chạy",
+      "type": "hot"
+    }
+  ],
+  "overview": {
+    "releaseDate": "Tháng 02/2025",
+    "segment": "Flagship Cao cấp",
+    "description": "Ra mắt toàn cầu vào đầu năm 2025, Xiaomi 15 Ultra định nghĩa lại đỉnh cao nhiếp ảnh di động ban đêm nhờ sự kết hợp giữa cảm biến chính 1 inch Sony LYT-900 và siêu ống kính tiềm vọng 200MP Leica 100mm (cảm biến 1/1.4 inch ISOCELL HP9). Được trang bị vi xử lý 3nm Qualcomm Snapdragon 8 Elite, bộ nhớ UFS 4.1, màn hình 2K+ 3.200 nit bảo vệ bởi kính Xiaomi Shield Glass 2.0, cảm biến vân tay siêu âm 3D và kết nối Bluetooth 6.0 / Wi-Fi 7, Xiaomi 15 Ultra tại AURIX MOBILE là mẫu flagship toàn diện bậc nhất dành cho người yêu nhiếp ảnh chuyên nghiệp. (Nguồn tham chiếu chính thức: Xiaomi Global Specs - Xiaomi 15 Ultra).",
+    "highlights": [
+      "6,73 inch 2K+ 3200 nit",
+      "Snapdragon 8 Elite",
+      "Leica 1-inch + Tiềm vọng 200MP"
+    ],
+    "officialDistribution": "Model được bảo lưu từ danh sách trước nhưng chưa đủ bằng chứng đang mở bán chính thức trong lượt đối chiếu ngày 01/11/2026; giữ trạng thái needs_verification để không mất dấu dữ liệu."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 29990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT003-MI15U-BAC-ANH-KIM-16GB-512GB",
+      "color": "Bạc Ánh Kim",
+      "colorHex": "#D4D4D8",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 29990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-15-ultra/anh-dai-dien-xiaomi-15-ultra-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/mat-truoc-sau-ngang-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-mat-lung-da-va-kinh-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/canh-tren-va-canh-duoi-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/hai-canh-ben-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/goc-nghieng-truoc-sau-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-can-canh-cum-camera-leica-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-do-day-cum-camera-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/he-thong-4-camera-leica-200mp-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-cam-tay-man-hinh-chinh-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-giao-dien-chup-anh-ngang-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-khay-sim-va-cong-usb-c-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-man-hinh-ung-dung-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-mat-truoc-tren-ban-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/man-hinh-wqhd-plus-amoled-6-73-inch-3200-nits.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/pin-xiaomi-surge-5410mah-dung-luong-lon.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/vi-xu-ly-snapdragon-8-elite-hieu-suat-vuot-troi.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/tong-quan-tinh-nang-ip68-snapdragon-8-elite-pin-5410mah.webp"
+      ]
+    },
+    {
+      "sku": "DT003-MI15U-BAC-ANH-KIM-16GB-1TB",
+      "color": "Bạc Ánh Kim",
+      "colorHex": "#D4D4D8",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 33990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-15-ultra/anh-dai-dien-xiaomi-15-ultra-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/mat-truoc-sau-ngang-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-mat-lung-da-va-kinh-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/canh-tren-va-canh-duoi-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/hai-canh-ben-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/goc-nghieng-truoc-sau-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-can-canh-cum-camera-leica-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-do-day-cum-camera-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/he-thong-4-camera-leica-200mp-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-cam-tay-man-hinh-chinh-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-giao-dien-chup-anh-ngang-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-khay-sim-va-cong-usb-c-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-man-hinh-ung-dung-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-mat-truoc-tren-ban-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/man-hinh-wqhd-plus-amoled-6-73-inch-3200-nits.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/pin-xiaomi-surge-5410mah-dung-luong-lon.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/vi-xu-ly-snapdragon-8-elite-hieu-suat-vuot-troi.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/tong-quan-tinh-nang-ip68-snapdragon-8-elite-pin-5410mah.webp"
+      ]
+    },
+    {
+      "sku": "DT003-MI15U-TRANG-16GB-512GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 29990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-15-ultra/anh-dai-dien-xiaomi-15-ultra-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/mat-truoc-sau-ngang-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-mat-lung-hoa-tiet-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-phan-duoi-mat-lung-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/canh-tren-va-canh-duoi-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/hai-canh-ben-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-can-canh-cum-camera-leica-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-do-day-cum-camera-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-man-hinh-ung-dung-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-mat-truoc-tren-ban-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/man-hinh-wqhd-plus-amoled-6-73-inch-3200-nits.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/pin-xiaomi-surge-5410mah-dung-luong-lon.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/vi-xu-ly-snapdragon-8-elite-hieu-suat-vuot-troi.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/tong-quan-tinh-nang-ip68-snapdragon-8-elite-pin-5410mah.webp"
+      ]
+    },
+    {
+      "sku": "DT003-MI15U-TRANG-16GB-1TB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 33990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-15-ultra/anh-dai-dien-xiaomi-15-ultra-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/mat-truoc-sau-ngang-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-mat-lung-hoa-tiet-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-phan-duoi-mat-lung-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/canh-tren-va-canh-duoi-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/hai-canh-ben-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-can-canh-cum-camera-leica-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-do-day-cum-camera-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-man-hinh-ung-dung-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-mat-truoc-tren-ban-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/man-hinh-wqhd-plus-amoled-6-73-inch-3200-nits.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/pin-xiaomi-surge-5410mah-dung-luong-lon.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/vi-xu-ly-snapdragon-8-elite-hieu-suat-vuot-troi.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/tong-quan-tinh-nang-ip68-snapdragon-8-elite-pin-5410mah.webp"
+      ]
+    },
+    {
+      "sku": "DT003-MI15U-DEN-16GB-512GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 29990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-15-ultra/anh-dai-dien-xiaomi-15-ultra-den.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-phan-duoi-mat-lung-nham-den.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/canh-tren-va-canh-duoi-den.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/hai-canh-ben-den.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-can-canh-cum-camera-leica-den.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-cam-tay-mat-truoc-den.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/man-hinh-wqhd-plus-amoled-6-73-inch-3200-nits.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/pin-xiaomi-surge-5410mah-dung-luong-lon.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/vi-xu-ly-snapdragon-8-elite-hieu-suat-vuot-troi.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/tong-quan-tinh-nang-ip68-snapdragon-8-elite-pin-5410mah.webp"
+      ]
+    },
+    {
+      "sku": "DT003-MI15U-DEN-16GB-1TB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 33990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-15-ultra/anh-dai-dien-xiaomi-15-ultra-den.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-phan-duoi-mat-lung-nham-den.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/canh-tren-va-canh-duoi-den.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/hai-canh-ben-den.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-can-canh-cum-camera-leica-den.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-cam-tay-mat-truoc-den.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/man-hinh-wqhd-plus-amoled-6-73-inch-3200-nits.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/pin-xiaomi-surge-5410mah-dung-luong-lon.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/vi-xu-ly-snapdragon-8-elite-hieu-suat-vuot-troi.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/tong-quan-tinh-nang-ip68-snapdragon-8-elite-pin-5410mah.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "LTPO AMOLED 2K+ (68 tỷ màu), 1–120Hz, 3.200 nit",
+    "size": "6,73 inch",
+    "resolution": "3200 x 1440 pixel (WQHD+, 522 ppi)",
+    "refreshRate": "1–120Hz LTPO thích ứng",
+    "brightness": "Dolby Vision, HDR10+, Pro HDR; Độ sáng đỉnh đa kịch bản 3.200 nit; Làm mờ 1920Hz PWM + DC Dimming, 3 chứng nhận bảo vệ mắt TÜV Rheinland, cảm ứng khi tay ướt Wet Touch",
+    "hdr": "HDR10+ / HLG",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 8 Elite (tiến trình 3nm thế hệ thứ 2 TSMC N3E) kèm Qualcomm AI Engine",
+    "cpu": "CPU 8 nhân kiến trúc Oryon: 2 nhân Prime (xung nhịp lên tới 4,32 GHz) + 6 nhân Performance (xung nhịp lên tới 3,53 GHz)",
+    "gpu": "Qualcomm Adreno 830 hỗ trợ dò tia phần cứng Ray Tracing, kết hợp hệ thống tản nhiệt 3D Dual-channel IceLoop cánh bướm diện tích lớn",
+    "ram": [
+      "16GB"
+    ],
+    "storage": [
+      "512GB",
+      "1TB"
+    ],
+    "operatingSystem": "Xiaomi HyperOS 2.0 trên nền tảng Android 15 (hỗ trợ nâng cấp lên HyperOS 3 / Android 16)",
+    "uiVersion": "Xiaomi HyperOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "4 camera Leica: 50MP 1-inch LYT-900 OIS + 200MP Tiềm vọng 100mm (1/1.4\") OIS + 50MP Tele 70mm OIS + 50MP Siêu rộng",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "Quay video 8K ở 30fps; Quay 4K ở 24/30/60/120fps trên cả camera chính 23mm và camera tiềm vọng 200MP 100mm; Quay 4K 60fps Dolby Vision HDR 10-bit và 10-bit Log chuẩn hệ màu điện ảnh ACES trên toàn bộ tiêu cự; Chống rung điện ảnh UIS + OIS 4 trục; Hệ thống 4 micro thu âm định hướng chuẩn phòng thu"
+    ],
+    "aiFeatures": [
+      "2 phong cách màu Leica (Leica Authentic & Leica Vibrant); Gói ống kính chân dung Leica Master Lens System (23mm, 28mm, 35mm, 50mm, 70mm, 85mm, 100mm, 135mm, 200mm); Nền tảng nhiếp ảnh điện toán Xiaomi AISP 2.0; Chế độ chụp nhanh đường phố Leica Fastshot, UltraRAW 16-bit, chụp đêm siêu теле 100mm/200mm"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "32MP (ƒ/2.0, 21mm), quay 4K 60fps",
+    "features": [
+      "Camera Selfie 32MP (cảm biến OmniVision OV32B 1/3.14\", khẩu độ ƒ/2.0, tiêu cự 21mm góc rộng 90°); Hỗ trợ Dolby Vision HDR, chân dung xóa phông ban đêm, quay video 4K ở 30/60fps kèm chống rung EIS"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "5.410 mAh (Bản Quốc tế / VN) / 6.000 mAh (Silicon-Carbon)",
+    "wiredCharging": "Sạc nhanh có dây 90W HyperCharge, sạc không dây 80W, sạc ngược 10W",
+    "wirelessCharging": "Có hỗ trợ sạc không dây",
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": "Sạc siêu nhanh có dây 90W HyperCharge | Sạc nhanh không dây 80W Wireless HyperCharge | Sạc ngược không dây 10W"
+  },
+  "connectivity": {
+    "sim": [
+      "SIM kép (2 Nano-SIM hoặc Nano-SIM + eSIM hoặc 2 eSIM hoạt động đồng thời)"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 7 (802.11be) ba băng tần hỗ trợ Multi-Link Operation (MLO), 2x2 MIMO",
+    "bluetooth": "Bluetooth 6.0 Dual-Bluetooth hỗ trợ Qualcomm aptX Lossless, aptX Adaptive, LDAC, LHDC 5.0",
+    "gps": [
+      "Định vị vệ tinh đa băng tần: GPS (L1+L5), GLONASS (G1), BeiDou, Galileo (E1+E5a), QZSS, NavIC"
+    ],
+    "usb": "USB Type-C chuẩn tốc độ cao USB 3.2 Gen 2 (10Gbps), hỗ trợ xuất hình DisplayPort 4K",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "161,3 x 75,3 x 9,35 mm (bản Đen/Trắng) hoặc 9,48 mm (bản Silver Chrome)",
+    "weight": "226 gram (Đen/Trắng) hoặc 229 gram (Silver Chrome)",
+    "materials": [
+      "Khung nhôm nguyên khối độ bền cao Xiaomi Guardian Structure bo cong 4 góc",
+      "Mặt lưng sợi thủy tinh hàng không hoặc phối da thuần chay + kính Chrome cổ điển lấy cảm hứng từ máy ảnh Leica"
+    ],
+    "waterResistance": "IP68 (Chống nước sâu 1,5m trong 30 phút)",
+    "availableColors": [
+      "Bạc Ánh Kim",
+      "Trắng",
+      "Đen"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo Dolby Atmos, Hi-Res Audio & Hi-Res Wireless, cụm 4 micro thu âm định hướng",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Xiaomi Number Series",
+    "Xiaomi",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Xiaomi tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/xiaomi/xiaomi-15-ultra/anh-dai-dien-xiaomi-15-ultra-bac-anh-kim.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/xiaomi/xiaomi-15-ultra/anh-dai-dien-xiaomi-15-ultra-bac-anh-kim.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/anh-dai-dien-xiaomi-15-ultra-den.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/anh-dai-dien-xiaomi-15-ultra-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/mat-truoc-sau-ngang-bac-anh-kim.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/mat-truoc-sau-ngang-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-mat-lung-da-va-kinh-bac-anh-kim.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-mat-lung-hoa-tiet-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-phan-duoi-mat-lung-nham-den.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-phan-duoi-mat-lung-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/canh-tren-va-canh-duoi-bac-anh-kim.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/canh-tren-va-canh-duoi-den.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/canh-tren-va-canh-duoi-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/hai-canh-ben-bac-anh-kim.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/hai-canh-ben-den.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/hai-canh-ben-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/goc-nghieng-truoc-sau-bac-anh-kim.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-can-canh-cum-camera-leica-bac-anh-kim.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-can-canh-cum-camera-leica-den.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-can-canh-cum-camera-leica-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-do-day-cum-camera-bac-anh-kim.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-do-day-cum-camera-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/he-thong-4-camera-leica-200mp-bac-anh-kim.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/man-hinh-wqhd-plus-amoled-6-73-inch-3200-nits.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/pin-xiaomi-surge-5410mah-dung-luong-lon.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-cam-tay-man-hinh-chinh-bac-anh-kim.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-cam-tay-mat-truoc-den.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-giao-dien-chup-anh-ngang-bac-anh-kim.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-khay-sim-va-cong-usb-c-bac-anh-kim.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-man-hinh-ung-dung-bac-anh-kim.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-man-hinh-ung-dung-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-mat-truoc-tren-ban-bac-anh-kim.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-mat-truoc-tren-ban-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/vi-xu-ly-snapdragon-8-elite-hieu-suat-vuot-troi.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/tong-quan-tinh-nang-ip68-snapdragon-8-elite-pin-5410mah.webp"
+    ],
+    "byColor": {
+      "Bạc Ánh Kim": [
+        "assets/images/products/xiaomi/xiaomi-15-ultra/anh-dai-dien-xiaomi-15-ultra-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/mat-truoc-sau-ngang-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-mat-lung-da-va-kinh-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/canh-tren-va-canh-duoi-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/hai-canh-ben-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/goc-nghieng-truoc-sau-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-can-canh-cum-camera-leica-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-do-day-cum-camera-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/he-thong-4-camera-leica-200mp-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-cam-tay-man-hinh-chinh-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-giao-dien-chup-anh-ngang-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-khay-sim-va-cong-usb-c-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-man-hinh-ung-dung-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-mat-truoc-tren-ban-bac-anh-kim.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/man-hinh-wqhd-plus-amoled-6-73-inch-3200-nits.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/pin-xiaomi-surge-5410mah-dung-luong-lon.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/vi-xu-ly-snapdragon-8-elite-hieu-suat-vuot-troi.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/tong-quan-tinh-nang-ip68-snapdragon-8-elite-pin-5410mah.webp"
+      ],
+      "Đen": [
+        "assets/images/products/xiaomi/xiaomi-15-ultra/anh-dai-dien-xiaomi-15-ultra-den.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-phan-duoi-mat-lung-nham-den.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/canh-tren-va-canh-duoi-den.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/hai-canh-ben-den.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-can-canh-cum-camera-leica-den.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-cam-tay-mat-truoc-den.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/man-hinh-wqhd-plus-amoled-6-73-inch-3200-nits.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/pin-xiaomi-surge-5410mah-dung-luong-lon.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/vi-xu-ly-snapdragon-8-elite-hieu-suat-vuot-troi.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/tong-quan-tinh-nang-ip68-snapdragon-8-elite-pin-5410mah.webp"
+      ],
+      "Trắng": [
+        "assets/images/products/xiaomi/xiaomi-15-ultra/anh-dai-dien-xiaomi-15-ultra-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/mat-truoc-sau-ngang-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-mat-lung-hoa-tiet-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-phan-duoi-mat-lung-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/canh-tren-va-canh-duoi-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/hai-canh-ben-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-can-canh-cum-camera-leica-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-do-day-cum-camera-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-man-hinh-ung-dung-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-mat-truoc-tren-ban-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/man-hinh-wqhd-plus-amoled-6-73-inch-3200-nits.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/pin-xiaomi-surge-5410mah-dung-luong-lon.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/vi-xu-ly-snapdragon-8-elite-hieu-suat-vuot-troi.webp",
+        "assets/images/products/xiaomi/xiaomi-15-ultra/tong-quan-tinh-nang-ip68-snapdragon-8-elite-pin-5410mah.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/xiaomi/xiaomi-15-ultra/mat-truoc-sau-ngang-bac-anh-kim.webp",
+      "screen": "assets/images/products/xiaomi/xiaomi-15-ultra/mat-truoc-sau-ngang-trang.webp",
+      "performance": "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-giao-dien-chup-anh-ngang-bac-anh-kim.webp",
+      "camera": "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-can-canh-cum-camera-leica-bac-anh-kim.webp",
+      "battery": "assets/images/products/xiaomi/xiaomi-15-ultra/pin-xiaomi-surge-5410mah-dung-luong-lon.webp",
+      "feature": "assets/images/products/xiaomi/xiaomi-15-ultra/anh-dai-dien-xiaomi-15-ultra-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/xiaomi/xiaomi-15-ultra/anh-dai-dien-xiaomi-15-ultra-den.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/anh-dai-dien-xiaomi-15-ultra-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/mat-truoc-sau-ngang-bac-anh-kim.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/mat-truoc-sau-ngang-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-mat-lung-da-va-kinh-bac-anh-kim.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-mat-lung-hoa-tiet-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-phan-duoi-mat-lung-nham-den.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/thuc-te-phan-duoi-mat-lung-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/canh-tren-va-canh-duoi-bac-anh-kim.webp",
+      "assets/images/products/xiaomi/xiaomi-15-ultra/canh-tren-va-canh-duoi-den.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-xiaomi",
+      "https://www.thegioididong.com/dtdd-xiaomi-mi",
+      "https://www.mi.com/vn/phone/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "needs_verification",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Cần xác minh thêm",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT003-MI15U",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "All Around Liquid LTPO AMOLED hiển thị 68 tỷ màu (12-bit), độ phủ màu DCI-P3, chuẩn màu chuyên nghiệp Original Color PRO",
+      "Kích thước màn hình": "6,73 inch theo đường chéo (diện tích hiển thị ~89,8% mặt trước)",
+      "Độ phân giải màn hình": "3200 x 1440 pixel (WQHD+ 2K+, tỷ lệ 20:9, mật độ điểm ảnh 522 ppi)",
+      "Tần số quét": "Tần số quét thích ứng LTPO từ 1Hz đến 120Hz, tốc độ lấy mẫu cảm ứng tối đa 300Hz",
+      "Kiểu màn hình": "Màn hình cong viền đồng đều 4 cạnh nhẹ nhàng, bảo vệ bởi kính cường lực Xiaomi Shield Glass 2.0",
+      "Tính năng màn hình": "Dolby Vision, HDR10+, Pro HDR; Độ sáng đỉnh đa kịch bản 3.200 nit; Làm mờ 1920Hz PWM + DC Dimming, 3 chứng nhận bảo vệ mắt TÜV Rheinland, cảm ứng khi tay ướt Wet Touch"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 4 camera Leica VARIO-SUMMILUX 1:1.63–2.6/14–100 ASPH thế hệ mới: (1) Camera chính 50MP Leica 1-inch: cảm biến Sony LYT-900 kích thước 1.0 inch (điểm ảnh 1.6µm, Super Pixel 3.2µm), khẩu độ lớn ƒ/1.63, tiêu cự 23mm, thấu kính 8P phủ lớp chống phản xạ siêu thấp, lấy nét Dual Pixel PDAF + Laser AF, chống rung quang học OIS; (2) Camera Periscope Telephoto 200MP Leica 100mm: cảm biến Samsung ISOCELL HP9 kích thước lớn 1/1.4 inch (điểm ảnh 0.56µm, gộp 16-in-1 đạt 2.24µm), khẩu độ ƒ/2.6, tiêu cự 100mm (zoom quang học 4.3x, zoom in-sensor lossless 8.6x/200mm và 400mm, zoom số 120x), thu sáng nhiều hơn 136% so với thế hệ trước, chống rung OIS; (3) Camera Telephoto nổi 50MP Leica 70mm: cảm biến Sony IMX858 (1/2.51\"), khẩu độ ƒ/1.8, tiêu cự 70mm (zoom quang 3x), chống rung OIS, hỗ trợ chụp chân dung và Telephoto Macro cự ly gần 10cm; (4) Camera Góc siêu rộng 50MP Leica 14mm: cảm biến Samsung JN5 (1/2.76\"), khẩu độ ƒ/2.2, tiêu cự 14mm (góc nhìn 115°), Dual Pixel PDAF hỗ trợ chụp Macro 5cm",
+      "Quay video": "Quay video 8K ở 30fps; Quay 4K ở 24/30/60/120fps trên cả camera chính 23mm và camera tiềm vọng 200MP 100mm; Quay 4K 60fps Dolby Vision HDR 10-bit và 10-bit Log chuẩn hệ màu điện ảnh ACES trên toàn bộ tiêu cự; Chống rung điện ảnh UIS + OIS 4 trục; Hệ thống 4 micro thu âm định hướng chuẩn phòng thu",
+      "Tính năng camera": "2 phong cách màu Leica (Leica Authentic & Leica Vibrant); Gói ống kính chân dung Leica Master Lens System (23mm, 28mm, 35mm, 50mm, 70mm, 85mm, 100mm, 135mm, 200mm); Nền tảng nhiếp ảnh điện toán Xiaomi AISP 2.0; Chế độ chụp nhanh đường phố Leica Fastshot, UltraRAW 16-bit, chụp đêm siêu теле 100mm/200mm"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera Selfie 32MP (cảm biến OmniVision OV32B 1/3.14\", khẩu độ ƒ/2.0, tiêu cự 21mm góc rộng 90°); Hỗ trợ Dolby Vision HDR, chân dung xóa phông ban đêm, quay video 4K ở 30/60fps kèm chống rung EIS"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 8 Elite (tiến trình 3nm thế hệ thứ 2 TSMC N3E) kèm Qualcomm AI Engine",
+      "Loại CPU": "CPU 8 nhân kiến trúc Oryon: 2 nhân Prime (xung nhịp lên tới 4,32 GHz) + 6 nhân Performance (xung nhịp lên tới 3,53 GHz)",
+      "GPU": "Qualcomm Adreno 830 hỗ trợ dò tia phần cứng Ray Tracing, kết hợp hệ thống tản nhiệt 3D Dual-channel IceLoop cánh bướm diện tích lớn"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "16GB LPDDR5X tốc độ cao 8533 Mbps",
+      "Bộ nhớ trong": "2 phiên bản: 512GB và 1TB chuẩn UFS 4.1 tốc độ đọc ghi siêu tốc"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.410 mAh (Phiên bản Quốc tế / chính hãng Việt Nam) / 6.000 mAh (Bản nội địa) sử dụng công nghệ pin Xiaomi Surge Silicon-Carbon (tỷ lệ SiC 10%)",
+      "Công nghệ sạc": "Sạc siêu nhanh có dây 90W HyperCharge | Sạc nhanh không dây 80W Wireless HyperCharge | Sạc ngược không dây 10W",
+      "Cổng sạc": "USB Type-C chuẩn tốc độ cao USB 3.2 Gen 2 (10Gbps), hỗ trợ xuất hình DisplayPort 4K"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS 2.0 trên nền tảng Android 15 (hỗ trợ nâng cấp lên HyperOS 3 / Android 16)",
+      "Công nghệ - Tiện ích": "Hệ sinh thái Xiaomi HyperAI (AI Writing, AI Interpreter dịch thuật, AI Creativity Assistant xóa vật thể phản chiếu kính, mở rộng ảnh), Google Gemini và Circle to Search",
+      "Tiện ích khác": "Tương thích bộ phụ kiện nhiếp ảnh Xiaomi 15 Ultra Photography Kit Legend Edition (tích hợp pin 2.000 mAh), cổng hồng ngoại IR Blaster",
+      "Thời điểm ra mắt": "Tháng 02/2025 (Công bố toàn cầu ngày 02/03/2025 tại MWC Barcelona)"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G đa băng tần (SA/NSA Sub-6GHz), 4G LTE-A",
+      "Thẻ SIM": "SIM kép (2 Nano-SIM hoặc Nano-SIM + eSIM hoặc 2 eSIM hoạt động đồng thời)",
+      "Wi-Fi": "Wi-Fi 7 (802.11be) ba băng tần hỗ trợ Multi-Link Operation (MLO), 2x2 MIMO",
+      "Bluetooth": "Bluetooth 6.0 Dual-Bluetooth hỗ trợ Qualcomm aptX Lossless, aptX Adaptive, LDAC, LHDC 5.0",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa năng",
+      "GPS": "Định vị vệ tinh đa băng tần: GPS (L1+L5), GLONASS (G1), BeiDou, Galileo (E1+E5a), QZSS, NavIC"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung nhôm nguyên khối độ bền cao Xiaomi Guardian Structure bo cong 4 góc",
+      "Chất liệu mặt lưng": "Mặt lưng sợi thủy tinh hàng không hoặc phối da thuần chay + kính Chrome cổ điển lấy cảm hứng từ máy ảnh Leica",
+      "Kích thước": "161,3 x 75,3 x 9,35 mm (bản Đen/Trắng) hoặc 9,48 mm (bản Silver Chrome)",
+      "Trọng lượng": "226 gram (Đen/Trắng) hoặc 229 gram (Silver Chrome)",
+      "Chỉ số kháng nước, bụi": "Đạt chuẩn IP68 kháng bụi và chống nước ở độ sâu 1,5 mét trong 30 phút"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa kép Stereo Dolby Atmos, Hi-Res Audio & Hi-Res Wireless, cụm 4 micro thu âm định hướng",
+      "Cảm biến vân tay": "Cảm biến vân tay siêu âm 3D dưới màn hình (nhận diện cực nhanh kể cả khi tay ướt) + Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Vân tay siêu âm 3D, Laser dToF, Cảm biến phổ màu, Áp kế, Gia tốc kế, Con quay hồi chuyển, Tiệm cận, Ánh sáng môi trường, La bàn điện tử, Hồng ngoại"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,73 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "LTPO AMOLED 2K+ (68 tỷ màu), 1–120Hz, 3.200 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "3200 x 1440 pixel (WQHD+, 522 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "1–120Hz LTPO thích ứng"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 8 Elite (3nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "16GB LPDDR5X (8533 Mbps)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "2 phiên bản: 512GB và 1TB chuẩn UFS 4.1"
+    },
+    {
+      "label": "Camera sau",
+      "value": "4 camera Leica: 50MP 1-inch LYT-900 OIS + 200MP Tiềm vọng 100mm (1/1.4\") OIS + 50MP Tele 70mm OIS + 50MP Siêu rộng"
+    },
+    {
+      "label": "Camera trước",
+      "value": "32MP (ƒ/2.0, 21mm), quay 4K 60fps"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.410 mAh (Bản Quốc tế / VN) / 6.000 mAh (Silicon-Carbon)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh có dây 90W HyperCharge, sạc không dây 80W, sạc ngược 10W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS 2.0 (Android 15)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 (Chống nước sâu 1,5m trong 30 phút)"
+    }
+  ],
+  "verbatimDescription": [
+    "Ra mắt toàn cầu vào đầu năm 2025, Xiaomi 15 Ultra định nghĩa lại đỉnh cao nhiếp ảnh di động ban đêm nhờ sự kết hợp giữa cảm biến chính 1 inch Sony LYT-900 và siêu ống kính tiềm vọng 200MP Leica 100mm (cảm biến 1/1.4 inch ISOCELL HP9). Được trang bị vi xử lý 3nm Qualcomm Snapdragon 8 Elite, bộ nhớ UFS 4.1, màn hình 2K+ 3.200 nit bảo vệ bởi kính Xiaomi Shield Glass 2.0, cảm biến vân tay siêu âm 3D và kết nối Bluetooth 6.0 / Wi-Fi 7, Xiaomi 15 Ultra tại AURIX MOBILE là mẫu flagship toàn diện bậc nhất dành cho người yêu nhiếp ảnh chuyên nghiệp.",
+    "Xiaomi 15 Ultra sở hữu vẻ đẹp vượt thời gian với phiên bản phối hai tông màu Bạc Chrome và da đen cổ điển gợi nhớ trực tiếp đến dòng máy ảnh Leica M huyền thoại. Khung máy chế tác từ nhôm nguyên khối Guardian Structure kết hợp kính cường lực Xiaomi Shield Glass 2.0 có khả năng chịu va đập vượt trội và đạt chuẩn kháng bụi nước IP68.",
+    "Màn hình All Around Liquid AMOLED 6,73 inch (3200 x 1440 pixel, 522 ppi) của máy hỗ trợ hiển thị 68 tỷ màu, tần số quét thích ứng LTPO 1–120Hz và nâng độ sáng đỉnh lên tới 3.200 nit. Đặc biệt, Xiaomi đã nâng cấp cảm biến vân tay lên công nghệ siêu âm 3D dưới màn hình, cho tốc độ mở khóa nhanh hơn 50% và hoạt động chính xác ngay cả khi ngón tay ướt hoặc trong đêm tối mà không cần phát sáng chói mắt.",
+    "Nâng cấp đắt giá nhất trên Xiaomi 15 Ultra nằm ở hệ thống 4 camera Leica VARIO-SUMMILUX 14–100mm. Bên cạnh camera chính 50MP cảm biến 1 inch Sony LYT-900 (23mm, ƒ/1.63, OIS) và camera tele nổi 50MP 70mm (ƒ/1.8, OIS, chụp Tele Macro 10cm), Xiaomi đã trang bị ống kính Periscope Telephoto 200MP tiêu cự 100mm sử dụng cảm biến lớn 1/1.4 inch (ƒ/2.6, OIS). Nhờ lượng thu sáng tăng 136%, ống kính tiềm vọng 200MP này mang lại những bức ảnh chụp chân dung đêm và ảnh chụp sân khấu ở tiêu cự 100mm (4.3x), 200mm (8.6x) và 400mm (17.2x) sắc nét và trong trẻo đáng kinh ngạc.",
+    "Khả năng quay dựng phim trên Xiaomi 15 Ultra đạt chuẩn điện ảnh chuyên nghiệp với khả năng quay 4K 120fps trên cả camera chính 23mm và camera tiềm vọng 100mm, hỗ trợ quay 4K 60fps Dolby Vision HDR và 10-bit Log chuẩn màu ACES trên toàn bộ 4 ống kính.",
+    "Sức mạnh phần cứng của máy dẫn đầu thế giới Android với vi xử lý Qualcomm Snapdragon 8 Elite (3nm, xung nhịp 4,32 GHz), 16GB RAM LPDDR5X và bộ nhớ trong 512GB/1TB chuẩn UFS 4.1 mới nhất. Đi kèm viên pin Silicon-Carbon dung lượng lớn (5.410 mAh trên bản Quốc tế), sạc nhanh có dây 90W, sạc không dây 80W và hệ sinh thái Xiaomi HyperAI trên HyperOS 2.0, Xiaomi 15 Ultra đáp ứng trọn vẹn mọi nhu cầu khắt khe nhất của người dùng cao cấp."
+  ],
+  "priceSegment": "flagship"
+}

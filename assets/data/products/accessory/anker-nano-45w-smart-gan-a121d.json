@@ -1,0 +1,121 @@
+{
+  "id": "anker-nano-45w-smart-gan-a121d",
+  "docCode": "PK-CU001-A121D",
+  "model": "Củ Sạc Anker Nano 45W Smart Display GaN A121D",
+  "brand": "Anker",
+  "brandId": "anker",
+  "parentGroupId": "anker",
+  "series": "Củ sạc",
+  "subCategory": "cu-sac",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "cu-sac"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Củ sạc",
+    "highlights": [
+      "45W"
+    ],
+    "description": "Củ sạc thế hệ mới của Anker gây ấn tượng với màn hình thông minh hiển thị công suất sạc trực tiếp thời gian thực. Trang bị chip GaN tối ưu nhiệt lượng và kích thước siêu nhỏ gọn, hỗ trợ công nghệ PPS sạc siêu nhanh 45W cho Samsung Galaxy S24 Ultra và sạc tối ưu cho iPhone, iPad cũng như MacBook Air."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 490000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/cu-sac/anker-nano-45w-smart-gan-a121d/anh-dai-dien-anker-nano-45w-smart-gan-a121d-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/cu-sac/anker-nano-45w-smart-gan-a121d/anh-dai-dien-anker-nano-45w-smart-gan-a121d-den.webp",
+      "assets/images/products/accessory/cu-sac/anker-nano-45w-smart-gan-a121d/man-hinh-thong-minh-hien-thi-cong-suat-den.webp",
+      "assets/images/products/accessory/cu-sac/anker-nano-45w-smart-gan-a121d/tong-quan-tinh-nang-man-hinh-smart-display-trang-cam-den.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/accessory/cu-sac/anker-nano-45w-smart-gan-a121d/anh-dai-dien-anker-nano-45w-smart-gan-a121d-den.webp",
+        "assets/images/products/accessory/cu-sac/anker-nano-45w-smart-gan-a121d/man-hinh-thong-minh-hien-thi-cong-suat-den.webp",
+        "assets/images/products/accessory/cu-sac/anker-nano-45w-smart-gan-a121d/tong-quan-tinh-nang-man-hinh-smart-display-trang-cam-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/cu-sac/anker-nano-45w-smart-gan-a121d/man-hinh-thong-minh-hien-thi-cong-suat-den.webp",
+      "screen": "assets/images/products/accessory/cu-sac/anker-nano-45w-smart-gan-a121d/tong-quan-tinh-nang-man-hinh-smart-display-trang-cam-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/cu-sac/anker-nano-45w-smart-gan-a121d/man-hinh-thong-minh-hien-thi-cong-suat-den.webp",
+      "assets/images/products/accessory/cu-sac/anker-nano-45w-smart-gan-a121d/tong-quan-tinh-nang-man-hinh-smart-display-trang-cam-den.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Anker",
+      "Công suất sạc tối đa": "45W",
+      "Số lượng cổng sạc": "1 cổng",
+      "Loại cổng sạc": "USB-C",
+      "Công nghệ sạc": "Power Delivery 3.0, PPS, ActiveShield 2.0",
+      "Công nghệ chế tạo": "GaN (Gallium Nitride) thông minh với màn hình hiển thị công suất",
+      "Kiểu chân cắm": "Chân tròn (chuẩn EU) cố định",
+      "Màu sắc": "Đen"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Anker"
+    },
+    {
+      "label": "Công suất sạc tối đa",
+      "value": "45W"
+    },
+    {
+      "label": "Số lượng cổng sạc",
+      "value": "1 cổng"
+    },
+    {
+      "label": "Loại cổng sạc",
+      "value": "USB-C"
+    },
+    {
+      "label": "Công nghệ sạc",
+      "value": "Power Delivery 3.0, PPS, ActiveShield 2.0"
+    },
+    {
+      "label": "Công nghệ chế tạo",
+      "value": "GaN (Gallium Nitride) thông minh với màn hình hiển thị công suất"
+    },
+    {
+      "label": "Kiểu chân cắm",
+      "value": "Chân tròn (chuẩn EU) cố định"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Đen"
+    }
+  ],
+  "verbatimDescription": [
+    "Củ sạc thế hệ mới của Anker gây ấn tượng với màn hình thông minh hiển thị công suất sạc trực tiếp thời gian thực. Trang bị chip GaN tối ưu nhiệt lượng và kích thước siêu nhỏ gọn, hỗ trợ công nghệ PPS sạc siêu nhanh 45W cho Samsung Galaxy S24 Ultra và sạc tối ưu cho iPhone, iPad cũng như MacBook Air."
+  ],
+  "variants": [
+    {
+      "sku": "PK-CU001-A121D-DEN-TIEU-CHUAN",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/cu-sac/anker-nano-45w-smart-gan-a121d/anh-dai-dien-anker-nano-45w-smart-gan-a121d-den.webp",
+        "assets/images/products/accessory/cu-sac/anker-nano-45w-smart-gan-a121d/man-hinh-thong-minh-hien-thi-cong-suat-den.webp",
+        "assets/images/products/accessory/cu-sac/anker-nano-45w-smart-gan-a121d/tong-quan-tinh-nang-man-hinh-smart-display-trang-cam-den.webp"
+      ]
+    }
+  ]
+}

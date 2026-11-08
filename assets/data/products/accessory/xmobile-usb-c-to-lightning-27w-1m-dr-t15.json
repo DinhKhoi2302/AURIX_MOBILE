@@ -1,0 +1,147 @@
+{
+  "id": "xmobile-usb-c-to-lightning-27w-1m-dr-t15",
+  "docCode": "PK-CS008-DRT15",
+  "model": "Cáp Sạc Xmobile USB-C to Lightning 27W 1m DR-T15",
+  "brand": "Xmobile",
+  "brandId": "xmobile",
+  "parentGroupId": "xmobile",
+  "series": "Cáp sạc",
+  "subCategory": "cap-sac",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "cap-sac"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Cáp sạc",
+    "highlights": [
+      "27W",
+      "USB-C to Lightning",
+      "1.0 m"
+    ],
+    "description": "Cáp sạc chuyên biệt dành cho các thiết bị iPhone và iPad sử dụng cổng Lightning. Hỗ trợ sạc nhanh chuẩn PD lên đến 27W, tối ưu tốc độ nạp đầy 50% pin cho iPhone chỉ sau 30 phút cắm sạc. Lớp vỏ dù bện dày dặn giúp chống xoắn rối khi để trong balo và chịu được cường độ uốn gập cao trong quá trình sử dụng thường ngày."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 150000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/anh-dai-dien-xmobile-usb-c-to-lightning-27w-1m-dr-t15-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/anh-dai-dien-xmobile-usb-c-to-lightning-27w-1m-dr-t15-den.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/can-canh-dau-cam-lightning-den.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/can-canh-dau-cam-type-c-den.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/cuon-cap-gon-gang-chieu-dai-1m-den.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/dau-cap-lightning-thang-dung-den.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/dau-cap-type-c-thang-dung-den.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/ket-noi-laptop-voi-dien-thoai-den.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/ket-noi-pin-sac-du-phong-voi-dien-thoai-den.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/anh-dai-dien-xmobile-usb-c-to-lightning-27w-1m-dr-t15-den.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/can-canh-dau-cam-lightning-den.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/can-canh-dau-cam-type-c-den.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/cuon-cap-gon-gang-chieu-dai-1m-den.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/dau-cap-lightning-thang-dung-den.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/dau-cap-type-c-thang-dung-den.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/ket-noi-laptop-voi-dien-thoai-den.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/ket-noi-pin-sac-du-phong-voi-dien-thoai-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/can-canh-dau-cam-lightning-den.webp",
+      "screen": "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/can-canh-dau-cam-type-c-den.webp",
+      "performance": "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/cuon-cap-gon-gang-chieu-dai-1m-den.webp",
+      "camera": "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/dau-cap-lightning-thang-dung-den.webp",
+      "battery": "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/ket-noi-pin-sac-du-phong-voi-dien-thoai-den.webp",
+      "feature": "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/ket-noi-laptop-voi-dien-thoai-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/can-canh-dau-cam-lightning-den.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/can-canh-dau-cam-type-c-den.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/cuon-cap-gon-gang-chieu-dai-1m-den.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/dau-cap-lightning-thang-dung-den.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/dau-cap-type-c-thang-dung-den.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/ket-noi-laptop-voi-dien-thoai-den.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/ket-noi-pin-sac-du-phong-voi-dien-thoai-den.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Xmobile",
+      "Loại cáp": "USB-C to Lightning",
+      "Cổng kết nối": "USB-C sang Lightning",
+      "Công suất sạc tối đa": "27W (Hỗ trợ Power Delivery Fast Charging)",
+      "Chiều dài dây": "1.0 m",
+      "Tốc độ truyền dữ liệu": "480 Mbps",
+      "Chất liệu dây": "Vỏ ngoài bọc sợi dù bện chắc chắn, cổ cáp bọc cao su chống đứt",
+      "Màu sắc": "Đen"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Xmobile"
+    },
+    {
+      "label": "Loại cáp",
+      "value": "USB-C to Lightning"
+    },
+    {
+      "label": "Cổng kết nối",
+      "value": "USB-C sang Lightning"
+    },
+    {
+      "label": "Công suất sạc tối đa",
+      "value": "27W (Hỗ trợ Power Delivery Fast Charging)"
+    },
+    {
+      "label": "Chiều dài dây",
+      "value": "1.0 m"
+    },
+    {
+      "label": "Tốc độ truyền dữ liệu",
+      "value": "480 Mbps"
+    },
+    {
+      "label": "Chất liệu dây",
+      "value": "Vỏ ngoài bọc sợi dù bện chắc chắn, cổ cáp bọc cao su chống đứt"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Đen"
+    }
+  ],
+  "verbatimDescription": [
+    "Cáp sạc chuyên biệt dành cho các thiết bị iPhone và iPad sử dụng cổng Lightning. Hỗ trợ sạc nhanh chuẩn PD lên đến 27W, tối ưu tốc độ nạp đầy 50% pin cho iPhone chỉ sau 30 phút cắm sạc. Lớp vỏ dù bện dày dặn giúp chống xoắn rối khi để trong balo và chịu được cường độ uốn gập cao trong quá trình sử dụng thường ngày."
+  ],
+  "variants": [
+    {
+      "sku": "PK-CS008-DRT15-DEN-TIEU-CHUAN",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 150000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/anh-dai-dien-xmobile-usb-c-to-lightning-27w-1m-dr-t15-den.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/can-canh-dau-cam-lightning-den.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/can-canh-dau-cam-type-c-den.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/cuon-cap-gon-gang-chieu-dai-1m-den.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/dau-cap-lightning-thang-dung-den.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/dau-cap-type-c-thang-dung-den.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/ket-noi-laptop-voi-dien-thoai-den.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-lightning-27w-1m-dr-t15/ket-noi-pin-sac-du-phong-voi-dien-thoai-den.webp"
+      ]
+    }
+  ]
+}

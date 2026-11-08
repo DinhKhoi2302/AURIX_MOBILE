@@ -1,0 +1,141 @@
+{
+  "id": "samsung-galaxy-buds-core-r410n",
+  "docCode": "PK-TN007-R410N",
+  "model": "Tai Nghe Không Dây Samsung Galaxy Buds Core SM-R410N",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "series": "Tai nghe",
+  "subCategory": "tai-nghe",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "tai-nghe"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Tai nghe",
+    "highlights": [
+      "In-ear có cánh gài cố định"
+    ],
+    "description": "Thiết kế cánh gài wing-tip độc đáo giúp tai nghe bám cực chắc vào vành tai khi vận động thể thao hoặc chạy bộ. Âm thanh tinh chỉnh bởi AKG với dải bass sâu lắng, tính năng chống ồn ANC hiệu quả và chuyển đổi kết nối tức thì giữa điện thoại và máy tính bảng Samsung."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 1590000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/anh-dai-dien-samsung-galaxy-buds-core-r410n-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/anh-dai-dien-samsung-galaxy-buds-core-r410n-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/hai-tai-nghe-goc-nghieng-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/hai-tai-nghe-mat-trong-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/hai-tai-nghe-mat-truoc-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/hai-tai-nghe-nhin-ngang-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/hop-sac-dong-nap-den.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/anh-dai-dien-samsung-galaxy-buds-core-r410n-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/hai-tai-nghe-goc-nghieng-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/hai-tai-nghe-mat-trong-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/hai-tai-nghe-mat-truoc-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/hai-tai-nghe-nhin-ngang-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/hop-sac-dong-nap-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/hai-tai-nghe-goc-nghieng-den.webp",
+      "screen": "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/hai-tai-nghe-mat-truoc-den.webp",
+      "performance": "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/hai-tai-nghe-nhin-ngang-den.webp",
+      "camera": "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/hai-tai-nghe-mat-trong-den.webp",
+      "battery": "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/hop-sac-dong-nap-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/hai-tai-nghe-goc-nghieng-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/hai-tai-nghe-mat-trong-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/hai-tai-nghe-mat-truoc-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/hai-tai-nghe-nhin-ngang-den.webp",
+      "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/hop-sac-dong-nap-den.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Samsung",
+      "Kiểu tai nghe": "In-ear có cánh gài cố định (Wing-tip)",
+      "Kết nối": "Bluetooth 5.3, Auto Switch trong hệ sinh thái Galaxy",
+      "Cổng sạc": "USB-C",
+      "Chống ồn chủ động (ANC)": "Có (Chống ồn chủ động thông minh)",
+      "Microphone": "Có (Hệ thống 3 micro tích hợp AI lọc giọng)",
+      "Thời lượng pin": "Lên đến 6 giờ bật ANC (21 giờ kèm hộp sạc)",
+      "Kháng nước, bụi": "IPX2",
+      "Màu sắc": "Đen"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Samsung"
+    },
+    {
+      "label": "Kiểu tai nghe",
+      "value": "In-ear có cánh gài cố định (Wing-tip)"
+    },
+    {
+      "label": "Kết nối",
+      "value": "Bluetooth 5.3, Auto Switch trong hệ sinh thái Galaxy"
+    },
+    {
+      "label": "Cổng sạc",
+      "value": "USB-C"
+    },
+    {
+      "label": "Chống ồn chủ động (ANC)",
+      "value": "Có (Chống ồn chủ động thông minh)"
+    },
+    {
+      "label": "Microphone",
+      "value": "Có (Hệ thống 3 micro tích hợp AI lọc giọng)"
+    },
+    {
+      "label": "Thời lượng pin",
+      "value": "Lên đến 6 giờ bật ANC (21 giờ kèm hộp sạc)"
+    },
+    {
+      "label": "Kháng nước, bụi",
+      "value": "IPX2"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Đen"
+    }
+  ],
+  "verbatimDescription": [
+    "Thiết kế cánh gài wing-tip độc đáo giúp tai nghe bám cực chắc vào vành tai khi vận động thể thao hoặc chạy bộ. Âm thanh tinh chỉnh bởi AKG với dải bass sâu lắng, tính năng chống ồn ANC hiệu quả và chuyển đổi kết nối tức thì giữa điện thoại và máy tính bảng Samsung."
+  ],
+  "variants": [
+    {
+      "sku": "PK-TN007-R410N-DEN-TIEU-CHUAN",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 1590000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/anh-dai-dien-samsung-galaxy-buds-core-r410n-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/hai-tai-nghe-goc-nghieng-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/hai-tai-nghe-mat-trong-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/hai-tai-nghe-mat-truoc-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/hai-tai-nghe-nhin-ngang-den.webp",
+        "assets/images/products/accessory/tai-nghe/samsung-galaxy-buds-core-r410n/hop-sac-dong-nap-den.webp"
+      ]
+    }
+  ]
+}

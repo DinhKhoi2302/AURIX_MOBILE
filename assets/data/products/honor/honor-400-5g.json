@@ -1,0 +1,405 @@
+{
+  "id": "honor-400-5g",
+  "brand": "HONOR",
+  "brandId": "honor",
+  "parentGroupId": "honor",
+  "model": "HONOR 400 5G",
+  "series": "HONOR Number Series (600 / 400)",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "upper-midrange"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Giảm giá",
+      "type": "sale"
+    }
+  ],
+  "overview": {
+    "releaseDate": "Năm 2025",
+    "segment": "Cận cao cấp",
+    "description": "HONOR 400 5G là đại diện xuất sắc của dòng sản phẩm Number Series trứ danh từ thương hiệu HONOR, ra mắt thị trường quốc tế vào tháng 5/2025 và chính thức đổ bộ thị trường Việt Nam vào tháng 6/2025 qua các chuỗi bán lẻ hàng đầu như Thế Giới Di Động và CellphoneS. Sản phẩm được định vị ở phân khúc cận cao cấp, mang sứ mệnh định nghĩa lại tiêu chuẩn nhiếp ảnh di động và công nghệ màn hình bảo vệ mắt trong tầm giá dưới 13 triệu đồng. Điểm đột phá lớn nhất của HONOR 400 5G chính là sự dung hòa hoàn hảo giữa phong cách thiết kế thời trang siêu mỏng nhẹ chỉ 7.3mm và một cấu hình phần cứng cực kỳ mạnh mẽ. Máy sở hữu viên pin Silicon-Carbon dung lượng khủng 6000 mAh, hệ thống camera 200MP chống rung quang học OIS và vi xử lý Qualcomm Snapdragon 7 Gen 3, tạo nên một cỗ máy toàn năng phục vụ trọn vẹn cả nhu cầu sáng tạo nội dung lẫn giải trí cường độ cao của thế hệ người dùng trẻ hiện đại.",
+    "highlights": [
+      "6,55 inch",
+      "Qualcomm Snapdragon 7 Gen 3",
+      "Pin 6.000 mAh"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 12250000,
+    "originalPrice": 13250000,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT001-HN4005G-VANG-12GB-256GB",
+      "color": "Vàng",
+      "colorHex": "#EAB308",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 12250000,
+      "originalPrice": 13250000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-400-5g/anh-dai-dien-vang.webp",
+        "assets/images/products/honor/honor-400-5g/mat-truoc-sau-vang.webp",
+        "assets/images/products/honor/honor-400-5g/mat-sau-nghieng-phai-vang.webp",
+        "assets/images/products/honor/honor-400-5g/canh-ben-nam-ngang-vang.webp",
+        "assets/images/products/honor/honor-400-5g/mat-truoc-nghieng-phai-vang.webp",
+        "assets/images/products/honor/honor-400-5g/mat-truoc-nghieng-trai-vang.webp",
+        "assets/images/products/honor/honor-400-5g/tinh-nang-ai-thong-minh-den-vang.webp",
+        "assets/images/products/honor/honor-400-5g/thong-so-camera-200mp-vang.webp",
+        "assets/images/products/honor/honor-400-5g/thong-so-chip-snapdragon-7-gen-3-den-do.webp",
+        "assets/images/products/honor/honor-400-5g/thong-so-man-hinh-amoled-5000nits-xanh-vang.webp",
+        "assets/images/products/honor/honor-400-5g/thong-so-pin-6000mah-sac-80w-xanh-duong.webp",
+        "assets/images/products/honor/honor-400-5g/tong-quan-tinh-nang-vang.webp"
+      ]
+    },
+    {
+      "sku": "DT001-HN4005G-VANG-12GB-512GB",
+      "color": "Vàng",
+      "colorHex": "#EAB308",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 13490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-400-5g/anh-dai-dien-vang.webp",
+        "assets/images/products/honor/honor-400-5g/mat-truoc-sau-vang.webp",
+        "assets/images/products/honor/honor-400-5g/mat-sau-nghieng-phai-vang.webp",
+        "assets/images/products/honor/honor-400-5g/canh-ben-nam-ngang-vang.webp",
+        "assets/images/products/honor/honor-400-5g/mat-truoc-nghieng-phai-vang.webp",
+        "assets/images/products/honor/honor-400-5g/mat-truoc-nghieng-trai-vang.webp",
+        "assets/images/products/honor/honor-400-5g/tinh-nang-ai-thong-minh-den-vang.webp",
+        "assets/images/products/honor/honor-400-5g/thong-so-camera-200mp-vang.webp",
+        "assets/images/products/honor/honor-400-5g/thong-so-chip-snapdragon-7-gen-3-den-do.webp",
+        "assets/images/products/honor/honor-400-5g/thong-so-man-hinh-amoled-5000nits-xanh-vang.webp",
+        "assets/images/products/honor/honor-400-5g/thong-so-pin-6000mah-sac-80w-xanh-duong.webp",
+        "assets/images/products/honor/honor-400-5g/tong-quan-tinh-nang-vang.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "AMOLED 1,07 tỷ màu, 120Hz, 5.000 nit",
+    "size": "6,55 inch",
+    "resolution": "2736 x 1264 pixel (1.5K)",
+    "refreshRate": "120Hz",
+    "brightness": "Độ sáng: 800 nits (tiêu chuẩn) / 1600 nits (HBM toàn màn hình) / 5000 nits (đỉnh ngoài trời); Làm mờ PWM tần số siêu cao 3840Hz khử nhấp nháy, chứng nhận TÜV Rheinland không nhấp nháy, kính cường lực bảo vệ chống trầy xước; Cảm ứng khi tay ướt (Wet Touch), Chế độ ban đêm bảo vệ mắt, Điều chỉnh nhiệt độ màu theo nhịp sinh học",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 7 Gen 3 (SM7550-AB, tiến trình 4nm TSMC tiết kiệm điện)",
+    "cpu": "CPU 8 nhân: 1 nhân Cortex-A715 xung nhịp 2.63 GHz + 3 nhân Cortex-A715 xung nhịp 2.4 GHz + 4 nhân Cortex-A510 xung nhịp 1.8 GHz",
+    "gpu": "Qualcomm Adreno 720 hiệu suất đồ họa tăng 50% so với thế hệ trước | Tản nhiệt: Tản nhiệt buồng hơi sinh học Bio-mimetic VC diện tích lớn 7000 mm² kèm các tấm graphite dẫn nhiệt cao",
+    "ram": [
+      "12GB"
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ],
+    "operatingSystem": "MagicOS 9.0 phát triển trên nền tảng Android 15 nguyên bản với đầy đủ chứng nhận Google GMS",
+    "uiVersion": "MagicOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "200MP Chính OIS (1/1.4\") + 12MP Góc siêu rộng & Macro",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "Quay video 4K ở tốc độ 30fps; 1080p ở tốc độ 30/60fps; Slo-mo 1080p 120fps; hỗ trợ chống rung gyro-EIS và quay hiển thị kép Dual-View"
+    ],
+    "aiFeatures": [
+      "Công nghệ xử lý hình ảnh: Động cơ xử lý ảnh AI RAW Domain Engine, Chống rung kép OIS + EIS, Thuật toán tái tạo chân dung chuyên sâu | Các chế độ chụp ảnh: Chụp đêm AI, Chân dung nghệ thuật Harcourt Studio, Siêu Macro 12MP, Chế độ chụp thể thao AI Motion Sensing, Chụp ảnh tài liệu, Chụp trăng AI, Panorama | Khả năng zoom: Zoom quang học cảm biến 2x/4x; zoom kỹ thuật số lên đến 30x"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "50MP Portrait Selfie (ƒ/2.0), quay 4K",
+    "features": [
+      "50 MP, khẩu độ f/2.0, tiêu cự 21mm (góc rộng 90°), cảm biến 1/2.76\", 0.64µm; Lấy nét: Lấy nét cố định góc rộng thông minh tự động mở rộng khung hình khi nhận diện nhóm; Tính năng: Chân dung làm đẹp AI, Chụp đêm selfie, Tự động kích hoạt HDR ngược sáng, Bộ lọc màu điện ảnh, Nhận diện cử chỉ chụp ảnh; Quay video: Quay video 4K ở tốc độ 30fps; 1080p ở 30/60fps có chống rung điện tử EIS"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "6.000 mAh (Silicon-Carbon)",
+    "wiredCharging": "Sạc nhanh HONOR SuperCharge 80W",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": "Hỗ trợ sạc nhanh có dây HONOR SuperCharge 80W (20V/4A) | Sạc không dây: Không hỗ trợ sạc không dây | Sạc ngược: Hỗ trợ sạc ngược có dây OTG công suất 5W (5V/1A) tiện lợi cho tai nghe và đồng hồ thông minh"
+  },
+  "connectivity": {
+    "sim": [
+      "2 khe Nano-SIM vật lý hoặc 1 Nano-SIM + 1 eSIM tích hợp linh hoạt"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax, 2.4GHz & 5GHz, 2x2 MIMO, hỗ trợ HE160)",
+    "bluetooth": "Bluetooth 5.4, hỗ trợ đầy đủ các codec âm thanh cao cấp BLE, SBC, AAC, LDAC, aptX HD",
+    "gps": [
+      "GPS (L1), AGPS, GLONASS, BeiDou (B1I+B1C), Galileo (E1), QZSS"
+    ],
+    "usb": "USB Type-C chuẩn USB 2.0, hỗ trợ OTG truyền tải dữ liệu và cắm tai nghe kỹ thuật số",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "156.5 x 74.6 x 7.3 mm (thiết kế siêu mỏng nhẹ chỉ 7.3mm)",
+    "weight": "Khoảng 184 gram (phân bổ trọng lượng đồng đều, cầm đầm tay không mỏi)",
+    "materials": [
+      "Khung viền hợp kim gia cường xử lý mạ nhám tinh xảo, mặt lưng kính mờ nhám chống bám vân tay",
+      "Khung viền hợp kim gia cường xử lý mạ nhám tinh xảo, mặt lưng kính mờ nhám chống bám vân tay"
+    ],
+    "waterResistance": "IP66 & Chứng nhận chống rơi vỡ 5 sao SGS",
+    "availableColors": [
+      "Vàng"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo đối xứng với buồng âm lớn, hỗ trợ chế độ tăng âm lượng siêu lớn 200%; Hiệu ứng âm thanh HONOR Sound không gian đa chiều, âm thanh độ phân giải cao Hi-Res Audio; Jack 3.5mm: Không có cổng 3.5mm truyền thống (hỗ trợ xuất âm thanh qua cổng USB-C và tai nghe Bluetooth)",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "AMOLED 6.55 inch"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền HONOR tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/honor/honor-400-5g/anh-dai-dien-vang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/honor/honor-400-5g/anh-dai-dien-vang.webp",
+      "assets/images/products/honor/honor-400-5g/mat-truoc-sau-vang.webp",
+      "assets/images/products/honor/honor-400-5g/mat-sau-nghieng-phai-vang.webp",
+      "assets/images/products/honor/honor-400-5g/canh-ben-nam-ngang-vang.webp",
+      "assets/images/products/honor/honor-400-5g/mat-truoc-nghieng-phai-vang.webp",
+      "assets/images/products/honor/honor-400-5g/mat-truoc-nghieng-trai-vang.webp",
+      "assets/images/products/honor/honor-400-5g/tinh-nang-ai-thong-minh-den-vang.webp",
+      "assets/images/products/honor/honor-400-5g/thong-so-camera-200mp-vang.webp",
+      "assets/images/products/honor/honor-400-5g/thong-so-chip-snapdragon-7-gen-3-den-do.webp",
+      "assets/images/products/honor/honor-400-5g/thong-so-man-hinh-amoled-5000nits-xanh-vang.webp",
+      "assets/images/products/honor/honor-400-5g/thong-so-pin-6000mah-sac-80w-xanh-duong.webp",
+      "assets/images/products/honor/honor-400-5g/tong-quan-tinh-nang-vang.webp"
+    ],
+    "byColor": {
+      "Vàng": [
+        "assets/images/products/honor/honor-400-5g/anh-dai-dien-vang.webp",
+        "assets/images/products/honor/honor-400-5g/mat-truoc-sau-vang.webp",
+        "assets/images/products/honor/honor-400-5g/mat-sau-nghieng-phai-vang.webp",
+        "assets/images/products/honor/honor-400-5g/canh-ben-nam-ngang-vang.webp",
+        "assets/images/products/honor/honor-400-5g/mat-truoc-nghieng-phai-vang.webp",
+        "assets/images/products/honor/honor-400-5g/mat-truoc-nghieng-trai-vang.webp",
+        "assets/images/products/honor/honor-400-5g/tinh-nang-ai-thong-minh-den-vang.webp",
+        "assets/images/products/honor/honor-400-5g/thong-so-camera-200mp-vang.webp",
+        "assets/images/products/honor/honor-400-5g/thong-so-chip-snapdragon-7-gen-3-den-do.webp",
+        "assets/images/products/honor/honor-400-5g/thong-so-man-hinh-amoled-5000nits-xanh-vang.webp",
+        "assets/images/products/honor/honor-400-5g/thong-so-pin-6000mah-sac-80w-xanh-duong.webp",
+        "assets/images/products/honor/honor-400-5g/tong-quan-tinh-nang-vang.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/honor/honor-400-5g/mat-truoc-sau-vang.webp",
+      "screen": "assets/images/products/honor/honor-400-5g/mat-truoc-nghieng-phai-vang.webp",
+      "performance": "assets/images/products/honor/honor-400-5g/canh-ben-nam-ngang-vang.webp",
+      "camera": "assets/images/products/honor/honor-400-5g/thong-so-camera-200mp-vang.webp",
+      "battery": "assets/images/products/honor/honor-400-5g/thong-so-pin-6000mah-sac-80w-xanh-duong.webp",
+      "feature": "assets/images/products/honor/honor-400-5g/mat-sau-nghieng-phai-vang.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/honor/honor-400-5g/mat-truoc-sau-vang.webp",
+      "assets/images/products/honor/honor-400-5g/mat-sau-nghieng-phai-vang.webp",
+      "assets/images/products/honor/honor-400-5g/canh-ben-nam-ngang-vang.webp",
+      "assets/images/products/honor/honor-400-5g/mat-truoc-nghieng-phai-vang.webp",
+      "assets/images/products/honor/honor-400-5g/mat-truoc-nghieng-trai-vang.webp",
+      "assets/images/products/honor/honor-400-5g/tinh-nang-ai-thong-minh-den-vang.webp",
+      "assets/images/products/honor/honor-400-5g/thong-so-camera-200mp-vang.webp",
+      "assets/images/products/honor/honor-400-5g/thong-so-chip-snapdragon-7-gen-3-den-do.webp",
+      "assets/images/products/honor/honor-400-5g/thong-so-man-hinh-amoled-5000nits-xanh-vang.webp",
+      "assets/images/products/honor/honor-400-5g/thong-so-pin-6000mah-sac-80w-xanh-duong.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-honor",
+      "https://www.honor.com/vn/phones/",
+      "https://www.honor.com/vn/phones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "partial_retail_listing",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT001-HN4005G",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "AMOLED 1.07 tỷ màu (10-bit), 100% gam màu DCI-P3, hỗ trợ HDR",
+      "Kích thước màn hình": "6.55 inch theo đường chéo (tỷ lệ màn hình so với thân máy đạt 94%)",
+      "Độ phân giải màn hình": "1.5K (2736 x 1264 pixels, tỷ lệ 19.5:9) (460 ppi)",
+      "Tần số quét": "120Hz thích ứng thông minh",
+      "Kiểu màn hình": "Đục lỗ nốt ruồi trung tâm siêu nhỏ gọn gàng",
+      "Tính năng màn hình": "Độ sáng: 800 nits (tiêu chuẩn) / 1600 nits (HBM toàn màn hình) / 5000 nits (đỉnh ngoài trời); Làm mờ PWM tần số siêu cao 3840Hz khử nhấp nháy, chứng nhận TÜV Rheinland không nhấp nháy, kính cường lực bảo vệ chống trầy xước; Cảm ứng khi tay ướt (Wet Touch), Chế độ ban đêm bảo vệ mắt, Điều chỉnh nhiệt độ màu theo nhịp sinh học"
+    },
+    "Camera sau": {
+      "Camera sau": "Số lượng camera: Cụm camera kép AI Ultra-Clear bố trí dọc tinh tế kèm đèn flash LED | Camera Chính (Wide): 200 MP, khẩu độ f/1.9, tiêu cự 24mm, cảm biến lớn 1/1.4\", kích thước điểm ảnh 0.56µm (gộp 16-in-1 đạt 2.24µm), lấy nét tự động PDAF, chống rung quang học OIS | Chế độ Telephoto tích hợp: Zoom cảm biến in-sensor lossless 2x và 4x chất lượng quang học cắt từ cảm biến 200MP | Camera Góc Siêu Rộng & Macro: 12 MP, khẩu độ f/2.2, góc nhìn siêu rộng 112°, tự động lấy nét AF hỗ trợ chụp cận cảnh macro 2.5cm",
+      "Quay video": "Quay video 4K ở tốc độ 30fps; 1080p ở tốc độ 30/60fps; Slo-mo 1080p 120fps; hỗ trợ chống rung gyro-EIS và quay hiển thị kép Dual-View",
+      "Tính năng camera": "Công nghệ xử lý hình ảnh: Động cơ xử lý ảnh AI RAW Domain Engine, Chống rung kép OIS + EIS, Thuật toán tái tạo chân dung chuyên sâu | Các chế độ chụp ảnh: Chụp đêm AI, Chân dung nghệ thuật Harcourt Studio, Siêu Macro 12MP, Chế độ chụp thể thao AI Motion Sensing, Chụp ảnh tài liệu, Chụp trăng AI, Panorama | Khả năng zoom: Zoom quang học cảm biến 2x/4x; zoom kỹ thuật số lên đến 30x"
+    },
+    "Camera trước": {
+      "Camera trước": "50 MP, khẩu độ f/2.0, tiêu cự 21mm (góc rộng 90°), cảm biến 1/2.76\", 0.64µm; Lấy nét: Lấy nét cố định góc rộng thông minh tự động mở rộng khung hình khi nhận diện nhóm; Tính năng: Chân dung làm đẹp AI, Chụp đêm selfie, Tự động kích hoạt HDR ngược sáng, Bộ lọc màu điện ảnh, Nhận diện cử chỉ chụp ảnh; Quay video: Quay video 4K ở tốc độ 30fps; 1080p ở 30/60fps có chống rung điện tử EIS"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 7 Gen 3 (SM7550-AB, tiến trình 4nm TSMC tiết kiệm điện)",
+      "Loại CPU": "CPU 8 nhân: 1 nhân Cortex-A715 xung nhịp 2.63 GHz + 3 nhân Cortex-A715 xung nhịp 2.4 GHz + 4 nhân Cortex-A510 xung nhịp 1.8 GHz",
+      "GPU": "Qualcomm Adreno 720 hiệu suất đồ họa tăng 50% so với thế hệ trước | Tản nhiệt: Tản nhiệt buồng hơi sinh học Bio-mimetic VC diện tích lớn 7000 mm² kèm các tấm graphite dẫn nhiệt cao"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "12GB RAM vật lý chuẩn LPDDR5 tốc độ cao (HONOR RAM Turbo mở rộng thêm 12GB RAM ảo từ bộ nhớ lưu trữ (tổng cộng 24GB trải nghiệm))",
+      "Bộ nhớ trong": "256GB hoặc 512GB chuẩn UFS 3.1 tốc độ đọc ghi cao (Không hỗ trợ khe cắm thẻ nhớ microSD ngoài (tối ưu tốc độ truy xuất UFS))"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "6000 mAh (dung lượng định mức 5900 mAh), sử dụng công nghệ pin Silicon-Carbon tiên tiến — Khoảng 43 phút để sạc từ 1% lên 100% bằng củ sạc HONOR SuperCharge chính hãng",
+      "Công nghệ sạc": "Hỗ trợ sạc nhanh có dây HONOR SuperCharge 80W (20V/4A) | Sạc không dây: Không hỗ trợ sạc không dây | Sạc ngược: Hỗ trợ sạc ngược có dây OTG công suất 5W (5V/1A) tiện lợi cho tai nghe và đồng hồ thông minh",
+      "Cổng sạc": "USB Type-C chuẩn USB 2.0, hỗ trợ OTG truyền tải dữ liệu và cắm tai nghe kỹ thuật số"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "MagicOS 9.0 phát triển trên nền tảng Android 15 nguyên bản với đầy đủ chứng nhận Google GMS",
+      "Công nghệ - Tiện ích": "Khoanh tròn tìm kiếm (Circle to Search), AI Magic Portal chuyển đổi tác vụ thông minh, Tẩy vật thể AI Eraser, Ghi chú thông minh AI Notes, Dịch trực tiếp cuộc gọi",
+      "Tiện ích khác": "Magic Capsule (viên thuốc thông minh hiển thị trạng thái), Cửa sổ đa nhiệm thông minh, Không gian riêng tư bảo mật Parallel Space | Hỗ trợ nâng cấp lên MagicOS 10 (Android 16); cam kết cập nhật 4 năm hệ điều hành và 5 năm bản vá bảo mật",
+      "Thời điểm ra mắt": "Công bố: 22/05/2025 – Mở bán tại Việt Nam: Tháng 06/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G NR kép (hỗ trợ đầy đủ băng tần SA/NSA Sub-6GHz tại Việt Nam n1/n3/n28/n41/n77/n78), 4G LTE, 3G WCDMA, 2G GSM",
+      "Thẻ SIM": "2 khe Nano-SIM vật lý hoặc 1 Nano-SIM + 1 eSIM tích hợp linh hoạt",
+      "Wi-Fi": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax, 2.4GHz & 5GHz, 2x2 MIMO, hỗ trợ HE160)",
+      "Bluetooth": "Bluetooth 5.4, hỗ trợ đầy đủ các codec âm thanh cao cấp BLE, SBC, AAC, LDAC, aptX HD",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa năng (Thanh toán Google Pay, một chạm, mô phỏng thẻ từ)",
+      "GPS": "GPS (L1), AGPS, GLONASS, BeiDou (B1I+B1C), Galileo (E1), QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền hợp kim gia cường xử lý mạ nhám tinh xảo, mặt lưng kính mờ nhám chống bám vân tay",
+      "Chất liệu mặt lưng": "Khung viền hợp kim gia cường xử lý mạ nhám tinh xảo, mặt lưng kính mờ nhám chống bám vân tay",
+      "Kích thước": "156.5 x 74.6 x 7.3 mm (thiết kế siêu mỏng nhẹ chỉ 7.3mm)",
+      "Trọng lượng": "Khoảng 184 gram (phân bổ trọng lượng đồng đều, cầm đầm tay không mỏi)",
+      "Chỉ số kháng nước, bụi": "Kháng bụi và nước chuẩn IP66 chính thức (bảo vệ tuyệt đối trước mưa lớn và tia nước áp lực mạnh) (Đạt chuẩn chống sốc chống rơi vỡ 5 sao từ tổ chức kiểm định quốc tế SGS Thụy Sĩ)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa kép Stereo đối xứng với buồng âm lớn, hỗ trợ chế độ tăng âm lượng siêu lớn 200%; Hiệu ứng âm thanh HONOR Sound không gian đa chiều, âm thanh độ phân giải cao Hi-Res Audio; Jack 3.5mm: Không có cổng 3.5mm truyền thống (hỗ trợ xuất âm thanh qua cổng USB-C và tai nghe Bluetooth)",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học ẩn dưới màn hình tốc độ mở khóa siêu nhanh 0.2s, Mở khóa khuôn mặt 2D",
+      "Các loại cảm biến": "Cảm biến trọng lực, Con quay hồi chuyển, La bàn số điện tử, Cảm biến ánh sáng môi trường, Cảm biến tiệm cận siêu âm"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,55 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "AMOLED 1,07 tỷ màu, 120Hz, 5.000 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2736 x 1264 pixel (1.5K)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 7 Gen 3 (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB LPDDR5 (+12GB HONOR RAM Turbo)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB / 512GB UFS 3.1"
+    },
+    {
+      "label": "Camera sau",
+      "value": "200MP Chính OIS (1/1.4\") + 12MP Góc siêu rộng & Macro"
+    },
+    {
+      "label": "Camera trước",
+      "value": "50MP Portrait Selfie (ƒ/2.0), quay 4K"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "6.000 mAh (Silicon-Carbon)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh HONOR SuperCharge 80W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "MagicOS 9.0 (Android 15)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP66 & Chứng nhận chống rơi vỡ 5 sao SGS"
+    }
+  ],
+  "verbatimDescription": [
+    "HONOR 400 5G là đại diện xuất sắc của dòng sản phẩm Number Series trứ danh từ thương hiệu HONOR, ra mắt thị trường quốc tế vào tháng 5/2025 và chính thức đổ bộ thị trường Việt Nam vào tháng 6/2025 qua các chuỗi bán lẻ hàng đầu như Thế Giới Di Động và CellphoneS. Sản phẩm được định vị ở phân khúc cận cao cấp, mang sứ mệnh định nghĩa lại tiêu chuẩn nhiếp ảnh di động và công nghệ màn hình bảo vệ mắt trong tầm giá dưới 13 triệu đồng. Điểm đột phá lớn nhất của HONOR 400 5G chính là sự dung hòa hoàn hảo giữa phong cách thiết kế thời trang siêu mỏng nhẹ chỉ 7.3mm và một cấu hình phần cứng cực kỳ mạnh mẽ. Máy sở hữu viên pin Silicon-Carbon dung lượng khủng 6000 mAh, hệ thống camera 200MP chống rung quang học OIS và vi xử lý Qualcomm Snapdragon 7 Gen 3, tạo nên một cỗ máy toàn năng phục vụ trọn vẹn cả nhu cầu sáng tạo nội dung lẫn giải trí cường độ cao của thế hệ người dùng trẻ hiện đại.",
+    "Về thiết kế ngoại quan, HONOR 400 5G thể hiện tay nghề chế tác đỉnh cao với các đường cong mềm mại ôm sát lòng bàn tay. Khung viền kim loại được hoàn thiện dạng nhám mờ tinh xảo, kết hợp cùng mặt lưng kính nhám xử lý quang học đa lớp giúp chống bám mồ hôi và dấu vân tay triệt để. Tại thị trường Việt Nam, sản phẩm được phân phối với ba tùy chọn màu sắc đậm chất nghệ thuật: Vàng Sa Mạc (Desert Gold) quý phái, Xanh Thủy Triều (Tidal Blue) trẻ trung và Đen Huyền Bí (Midnight Black) lịch lãm. Mặt trước của máy là không gian hiển thị choáng ngợp với tấm nền AMOLED kích thước 6.55 inch, viền màn hình siêu mỏng gần như biến mất đưa tỷ lệ diện tích hiển thị đạt mức 94%. Độ phân giải 1.5K (2736 x 1264 pixels) cùng mật độ điểm ảnh 460 ppi mang lại độ mịn màng sắc nét tuyệt đối. Đặc biệt, màn hình sở hữu độ sáng đỉnh ngoài trời lên tới 5000 nits, đảm bảo khả năng hiển thị rõ ràng dưới ánh nắng gay gắt ban trưa. Công nghệ khử nhấp nháy PWM Dimming tần số siêu cao 3840Hz độc quyền của HONOR giúp loại bỏ hiện tượng mỏi mắt khi sử dụng trong bóng tối, đạt chứng nhận bảo vệ mắt toàn diện từ tổ chức TÜV Rheinland.",
+    "Ẩn bên trong thân máy siêu mỏng là sức mạnh đáng gờm của vi xử lý Qualcomm Snapdragon 7 Gen 3 (SM7550-AB) được sản xuất trên tiến trình 4nm tiên tiến của TSMC. Chipset sở hữu cấu trúc 8 nhân với nhân hiệu năng cao Cortex-A715 đạt xung nhịp 2.63 GHz, kết hợp cùng GPU Adreno 720 mang lại khả năng xử lý đồ họa mượt mà trên mọi tựa game phổ biến như Liên Quân Mobile, PUBG Mobile hay Genshin Impact ở mức thiết lập đồ họa cao. Để đảm bảo hiệu năng được duy trì ổn định không bị hạ xung khi tải nặng, HONOR đã trang bị cho máy hệ thống tản nhiệt buồng hơi VC sinh học với diện tích tản nhiệt lên đến 7000 mm². Đi kèm với đó là bộ nhớ RAM 12GB LPDDR5 vật lý tích hợp công nghệ HONOR RAM Turbo cho phép mở rộng thêm 12GB RAM ảo, giúp máy đa nhiệm đồng thời hơn 30 ứng dụng mà không hề xảy ra hiện tượng tải lại trang hay giật lag.",
+    "Hệ thống camera là điểm nhấn sáng giá nhất khẳng định vị thế dẫn đầu của HONOR 400 5G. Camera chính trang bị cảm biến độ phân giải siêu cao 200MP kích thước 1/1.4 inch, khẩu độ lớn f/1.9 cùng công nghệ chống rung quang học OIS. Nhờ thuật toán gộp điểm ảnh 16-in-1, máy thu nhận lượng ánh sáng vượt trội, mang lại những bức ảnh đêm trong trẻo, giàu chi tiết và không bị nhiễu hạt. Độ phân giải lớn cũng cho phép máy thực hiện zoom cảm biến in-sensor 2x và 4x với chất lượng quang học không suy giảm. Đặc biệt, sự hợp tác chiến lược giữa HONOR và studio nhiếp ảnh huyền thoại Paris - Studio Harcourt đã mang đến chế độ Chân dung Harcourt độc quyền. Thuật toán phân tích ánh sáng và bóng đổ AI chuyên sâu tái hiện những bức ảnh chân dung đen trắng và có màu mang đậm chất điện ảnh cổ điển. Bổ trợ cho camera chính là ống kính góc siêu rộng 12MP (112 độ) kiêm tính năng chụp cận cảnh Siêu Macro 2.5cm, cùng camera trước 50MP chuyên dụng hỗ trợ quay video 4K sắc nét cho các nhà sáng tạo nội dung vlog.",
+    "Một trong những thách thức lớn nhất của ngành công nghiệp smartphone là việc dung hòa giữa độ mỏng thân máy và dung lượng pin. HONOR 400 5G đã giải quyết triệt để bài toán này bằng việc ứng dụng công nghệ pin Silicon-Carbon thế hệ mới với mật độ năng lượng cực cao, tích hợp thành công viên pin 6000 mAh vào thân máy mỏng chỉ 7.3mm. Trong các bài kiểm tra thực tế, máy có thể hoạt động bền bỉ hơn 22 giờ xem video liên tục hoặc 2 ngày làm việc với các tác vụ văn phòng hỗn hợp. Không chỉ bền bỉ, máy còn hỗ trợ công nghệ sạc nhanh HONOR SuperCharge 80W có dây. Tại thị trường Việt Nam, khách hàng nhận được củ sạc HONOR SuperCharge công suất lên tới 100W đi kèm sẵn trong hộp máy, cho phép nạp từ 1% lên 50% chỉ sau 18 phút và sạc đầy hoàn toàn 100% pin trong khoảng 43 phút, xua tan hoàn toàn nỗi lo gián đoạn liên lạc.",
+    "HONOR 400 5G được xuất xưởng với giao diện MagicOS 9.0 dựa trên hệ điều hành Android 15, hỗ trợ đầy đủ các dịch vụ Google (Google Play, Gmail, YouTube, Google Drive). Tính năng AI Magic Portal cho phép người dùng kéo thả hình ảnh, văn bản hoặc địa chỉ trực tiếp sang các ứng dụng nhắn tin hoặc bản đồ chỉ bằng một cử chỉ vuốt ngón tay đơn giản. Tính năng Khoanh tròn tìm kiếm (Circle to Search) của Google cũng được tích hợp sâu, giúp tra cứu mọi thông tin hiển thị trên màn hình tức thì. Về độ bền, máy đạt chuẩn kháng nước và bụi IP66 chính thức, cho phép chịu được các tia nước bắn áp lực cao và môi trường mưa bão khắc nghiệt. Toàn bộ thân máy và màn hình được bảo vệ bởi cấu trúc giảm chấn đa tầng đạt chứng nhận chống sốc rơi vỡ 5 sao từ SGS Thụy Sĩ, mang lại sự an tâm tuyệt đối cho người dùng trong suốt vòng đời sử dụng lâu dài."
+  ],
+  "priceSegment": "upper-midrange"
+}

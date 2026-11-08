@@ -1,0 +1,511 @@
+{
+  "id": "galaxy-z-flip7-fe-5g",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "model": "Samsung Galaxy Z Flip7 FE 5G",
+  "series": "Galaxy Z (Màn hình gập)",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "foldable",
+    "upper-midrange"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Giảm giá",
+      "type": "sale"
+    }
+  ],
+  "overview": {
+    "releaseDate": "Năm 2025",
+    "segment": "Màn hình gập",
+    "description": "Samsung Galaxy Z Flip7 FE 5G là mẫu điện thoại gập vỏ sò Fan Edition đầu tiên của Samsung, mang trải nghiệm gập mở thời thượng, màn hình chính 6,7 inch LTPO 120Hz kết hợp màn hình phụ FlexWindow 3,4 inch, camera chính 50MP OIS và chip 10 nhân Exynos 2400 (4nm) đến gần hơn với đông đảo người dùng trẻ.",
+    "highlights": [
+      "Gập 6,7\" 120Hz & Phụ 3,4\"",
+      "Exynos 2400 (4nm) · 8GB RAM",
+      "Camera kép 50MP OIS + 12MP",
+      "Pin 4.000 mAh · IP48"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 14490000,
+    "originalPrice": 22990000,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT019-SSZFLIP7FE5G-TRANG-8GB-128GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 14490000,
+      "originalPrice": 22990000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/anh-dai-dien-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/mat-truoc-mat-sau-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/man-hinh-phu-va-mat-lung-khi-gap-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/mat-lung-khi-mo-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/tren-tay-mat-lung-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/can-canh-ban-le-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/canh-duoi-cong-sac-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/canh-trai-canh-phai-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/canh-tren-canh-duoi-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/hieu-nang-exynos-2400-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/khay-sim-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/man-hinh-chinh-khi-mo-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/man-hinh-phu-flexwindow-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/thiet-ke-khi-gap-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/tinh-nang-galaxy-ai-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/trai-nghiem-chup-anh-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/tren-tay-man-hinh-chinh-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/Galaxy-Z-Flip7-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/thiet-ke-gon-gang-khang-nuoc-ip48-samsung-galaxy-z-flip7-fe-5g-den-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/thong-so-man-hinh-chinh-va-phu-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/thong-so-noi-bat-samsung-galaxy-z-flip7-fe-5g-trang-den.webp"
+      ]
+    },
+    {
+      "sku": "DT019-SSZFLIP7FE5G-TRANG-8GB-256GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 15990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/anh-dai-dien-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/mat-truoc-mat-sau-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/man-hinh-phu-va-mat-lung-khi-gap-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/mat-lung-khi-mo-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/tren-tay-mat-lung-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/can-canh-ban-le-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/canh-duoi-cong-sac-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/canh-trai-canh-phai-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/canh-tren-canh-duoi-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/hieu-nang-exynos-2400-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/khay-sim-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/man-hinh-chinh-khi-mo-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/man-hinh-phu-flexwindow-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/thiet-ke-khi-gap-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/tinh-nang-galaxy-ai-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/trai-nghiem-chup-anh-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/tren-tay-man-hinh-chinh-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/Galaxy-Z-Flip7-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/thiet-ke-gon-gang-khang-nuoc-ip48-samsung-galaxy-z-flip7-fe-5g-den-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/thong-so-man-hinh-chinh-va-phu-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/thong-so-noi-bat-samsung-galaxy-z-flip7-fe-5g-trang-den.webp"
+      ]
+    },
+    {
+      "sku": "DT019-SSZFLIP7FE5G-DEN-8GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 14490000,
+      "originalPrice": 22990000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/mat-truoc-mat-sau-samsung-galaxy-z-flip7-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/he-thong-camera-50mp-flexcam-samsung-galaxy-z-flip7-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/dung-luong-pin-4000mah-samsung-galaxy-z-flip7-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/Galaxy-Z-Flip7-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/thiet-ke-gon-gang-khang-nuoc-ip48-samsung-galaxy-z-flip7-fe-5g-den-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/thong-so-man-hinh-chinh-va-phu-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/thong-so-noi-bat-samsung-galaxy-z-flip7-fe-5g-trang-den.webp"
+      ]
+    },
+    {
+      "sku": "DT019-SSZFLIP7FE5G-DEN-8GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 15990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/mat-truoc-mat-sau-samsung-galaxy-z-flip7-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/he-thong-camera-50mp-flexcam-samsung-galaxy-z-flip7-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/dung-luong-pin-4000mah-samsung-galaxy-z-flip7-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/Galaxy-Z-Flip7-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/thiet-ke-gon-gang-khang-nuoc-ip48-samsung-galaxy-z-flip7-fe-5g-den-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/thong-so-man-hinh-chinh-va-phu-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/thong-so-noi-bat-samsung-galaxy-z-flip7-fe-5g-trang-den.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "Foldable Dynamic LTPO AMOLED 2X (Chính 6,7\" & Phụ 3,4\")",
+    "size": "Chính 6,7 inch & Phụ 3,4 inch",
+    "resolution": "Chính Full HD+ (1080 x 2640 pixel) | Phụ 720 x 748 pixel",
+    "refreshRate": "Chính 120Hz (LTPO) | Phụ 60Hz",
+    "brightness": "2.600 nit",
+    "hdr": "HDR10+",
+    "protection": "Ultra Thin Glass + Corning Gorilla Glass Victus 2",
+    "features": [
+      "Tần số quét thích ứng 1–120Hz",
+      "Màn hình phụ FlexWindow 3,4 inch",
+      "Vision Booster"
+    ]
+  },
+  "performance": {
+    "chipset": "Samsung Exynos 2400 (4nm)",
+    "cpu": "10 nhân (1x 3,2 GHz Cortex-X4 + 2x 2,9 GHz + 3x 2,6 GHz + 4x 1,95 GHz)",
+    "gpu": "Samsung Xclipse 940",
+    "ram": [
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "operatingSystem": "Android 16, One UI 8 (Nâng cấp One UI 9)",
+    "uiVersion": "One UI",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Wide f/1.8 (23mm, 1/1.57\", Dual Pixel PDAF, OIS)",
+    "ultraWide": "12MP Ultra Wide f/2.2 (13mm, 123°)",
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "4K@30/60fps",
+      "1080p@60/120/240fps",
+      "HDR10+"
+    ],
+    "aiFeatures": [
+      "FlexCam Auto Zoom",
+      "ProVisual Engine",
+      "Nightography"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "10MP Wide f/2.2 (23mm)",
+    "features": [
+      "HDR"
+    ],
+    "videoRecording": [
+      "4K@30/60fps"
+    ]
+  },
+  "battery": {
+    "capacity": "4.000 mAh",
+    "wiredCharging": "Sạc nhanh 25W USB-C (50% trong 30 phút)",
+    "wirelessCharging": "Sạc không dây 15W",
+    "reverseCharging": "Chia sẻ pin không dây 4,5W",
+    "chargingTechnology": "Super Fast Charging 25W"
+  },
+  "connectivity": {
+    "sim": [
+      "Nano-SIM + eSIM kép"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 6E (802.11 a/b/g/n/ac/6e) ba băng tần",
+    "bluetooth": "Bluetooth 5.4 (A2DP, LE)",
+    "gps": [
+      "GPS",
+      "GALILEO",
+      "GLONASS",
+      "BDS",
+      "QZSS"
+    ],
+    "usb": "USB Type-C 3.2",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "Mở: 165,1 x 71,9 x 6,9 mm | Gập: 85,1 x 71,9 x 14,9 mm",
+    "weight": "187 g",
+    "materials": [
+      "Khung Armor Aluminum",
+      "Mặt lưng kính Corning Gorilla Glass Victus 2"
+    ],
+    "waterResistance": "IP48 (kháng nước 1,5m trong 30 phút & kháng bụi > 1mm)",
+    "availableColors": [
+      "Trắng",
+      "Đen"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa đơn / Stereo tiêu chuẩn",
+    "headphoneJack": null,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Gập 6,7\" 120Hz & Phụ 3,4\"",
+    "Exynos 2400 (4nm) · 8GB RAM",
+    "Camera kép 50MP OIS + 12MP",
+    "Pin 4.000 mAh · IP48"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Samsung tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/samsung/galaxy-z-flip7-fe-5g/anh-dai-dien-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/anh-dai-dien-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/mat-truoc-mat-sau-samsung-galaxy-z-flip7-fe-5g-den.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/mat-truoc-mat-sau-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/man-hinh-phu-va-mat-lung-khi-gap-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/mat-lung-khi-mo-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/tren-tay-mat-lung-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/can-canh-ban-le-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/canh-duoi-cong-sac-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/canh-trai-canh-phai-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/canh-tren-canh-duoi-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/he-thong-camera-50mp-flexcam-samsung-galaxy-z-flip7-fe-5g-den.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/Galaxy-Z-Flip7-FE-5G.jpg",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/dung-luong-pin-4000mah-samsung-galaxy-z-flip7-fe-5g-den.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/hieu-nang-exynos-2400-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/khay-sim-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/man-hinh-chinh-khi-mo-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/man-hinh-phu-flexwindow-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/thiet-ke-gon-gang-khang-nuoc-ip48-samsung-galaxy-z-flip7-fe-5g-den-trang.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/thiet-ke-khi-gap-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/tinh-nang-galaxy-ai-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/trai-nghiem-chup-anh-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/tren-tay-man-hinh-chinh-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/thong-so-man-hinh-chinh-va-phu-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/thong-so-noi-bat-samsung-galaxy-z-flip7-fe-5g-trang-den.webp"
+    ],
+    "byColor": {
+      "Trắng": [
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/anh-dai-dien-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/mat-truoc-mat-sau-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/man-hinh-phu-va-mat-lung-khi-gap-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/mat-lung-khi-mo-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/tren-tay-mat-lung-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/can-canh-ban-le-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/canh-duoi-cong-sac-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/canh-trai-canh-phai-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/canh-tren-canh-duoi-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/hieu-nang-exynos-2400-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/khay-sim-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/man-hinh-chinh-khi-mo-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/man-hinh-phu-flexwindow-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/thiet-ke-khi-gap-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/tinh-nang-galaxy-ai-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/trai-nghiem-chup-anh-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/tren-tay-man-hinh-chinh-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/Galaxy-Z-Flip7-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/thiet-ke-gon-gang-khang-nuoc-ip48-samsung-galaxy-z-flip7-fe-5g-den-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/thong-so-man-hinh-chinh-va-phu-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/thong-so-noi-bat-samsung-galaxy-z-flip7-fe-5g-trang-den.webp"
+      ],
+      "Đen": [
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/mat-truoc-mat-sau-samsung-galaxy-z-flip7-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/he-thong-camera-50mp-flexcam-samsung-galaxy-z-flip7-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/dung-luong-pin-4000mah-samsung-galaxy-z-flip7-fe-5g-den.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/Galaxy-Z-Flip7-FE-5G.jpg",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/thiet-ke-gon-gang-khang-nuoc-ip48-samsung-galaxy-z-flip7-fe-5g-den-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/thong-so-man-hinh-chinh-va-phu-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-z-flip7-fe-5g/thong-so-noi-bat-samsung-galaxy-z-flip7-fe-5g-trang-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/samsung/galaxy-z-flip7-fe-5g/mat-truoc-mat-sau-samsung-galaxy-z-flip7-fe-5g-den.webp",
+      "screen": "assets/images/products/samsung/galaxy-z-flip7-fe-5g/mat-truoc-mat-sau-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "performance": "assets/images/products/samsung/galaxy-z-flip7-fe-5g/hieu-nang-exynos-2400-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "camera": "assets/images/products/samsung/galaxy-z-flip7-fe-5g/he-thong-camera-50mp-flexcam-samsung-galaxy-z-flip7-fe-5g-den.webp",
+      "battery": "assets/images/products/samsung/galaxy-z-flip7-fe-5g/canh-duoi-cong-sac-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "feature": "assets/images/products/samsung/galaxy-z-flip7-fe-5g/canh-trai-canh-phai-samsung-galaxy-z-flip7-fe-5g-trang.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/mat-truoc-mat-sau-samsung-galaxy-z-flip7-fe-5g-den.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/mat-truoc-mat-sau-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/man-hinh-phu-va-mat-lung-khi-gap-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/mat-lung-khi-mo-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/tren-tay-mat-lung-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/can-canh-ban-le-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/canh-duoi-cong-sac-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/canh-trai-canh-phai-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/canh-tren-canh-duoi-samsung-galaxy-z-flip7-fe-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-z-flip7-fe-5g/he-thong-camera-50mp-flexcam-samsung-galaxy-z-flip7-fe-5g-den.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s26-series",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s25-series",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-z",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-a",
+      "https://www.samsung.com/vn/smartphones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "partial_retail_listing",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT019-SSZFLIP7FE5G",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "Màn hình chính Foldable Dynamic LTPO AMOLED 2X + Màn hình ngoài Super AMOLED",
+      "Kích thước màn hình": "Màn hình chính 6,7 inch + Màn hình phụ FlexWindow 3,4 inch",
+      "Độ phân giải màn hình": "Màn hình chính Full HD+ (1080 x 2640 pixel, ~426 ppi) | Màn hình phụ 720 x 748 pixel (~306 ppi)",
+      "Tần số quét": "Màn hình chính 120Hz thích ứng (1–120Hz) | Màn hình phụ 60Hz",
+      "Kiểu màn hình": "Màn hình gập vỏ sò kết hợp màn hình ngoài bảo vệ bởi kính Gorilla Glass Victus 2",
+      "Tính năng màn hình": "Độ sáng đỉnh 2.600 nit trên cả hai màn hình, HDR10+, tương tác Widget nhanh ngoài màn hình phụ"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera kép: Chính 50MP (f/1.8, 23mm, 1/1.57\", Dual Pixel PDAF, chống rung OIS, Zoom chất lượng quang học 2x) + Góc siêu rộng 12MP (f/2.2, 13mm, 123°)",
+      "Quay video": "4K@30/60fps, 1080p@60/120/240fps, HDR10+",
+      "Tính năng camera": "FlexCam Auto Zoom, chụp ảnh selfie bằng camera sau 50MP qua màn hình phụ, Nightography"
+    },
+    "Camera trước": {
+      "Camera trước": "10MP (f/2.2, 23mm); hỗ trợ HDR và quay video 4K@30/60fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Samsung Exynos 2400 (tiến trình 4nm)",
+      "Loại CPU": "10 nhân (1x 3,2 GHz Cortex-X4 + 2x 2,9 GHz Cortex-A720 + 3x 2,6 GHz Cortex-A720 + 4x 1,95 GHz Cortex-A520)",
+      "GPU": "Samsung Xclipse 940 hỗ trợ Ray Tracing"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB LPDDR5X",
+      "Bộ nhớ trong": "2 phiên bản: 128GB và 256GB chuẩn UFS 4.0"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "4.000 mAh (pin kép Li-Ion)",
+      "Công nghệ sạc": "Sạc nhanh có dây 25W (đạt 50% pin trong 30 phút), sạc không dây 15W, chia sẻ pin không dây 4,5W",
+      "Cổng sạc": "USB Type-C 3.2"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 16, One UI 8 (hỗ trợ cập nhật 7 thế hệ Android, đã có One UI 9)",
+      "Công nghệ - Tiện ích": "Tích hợp đầy đủ bộ tính năng Galaxy AI, Circle to Search, Live Translate, Photo Assist",
+      "Tiện ích khác": "Bảo mật phần cứng Samsung Knox Vault, cảm biến vân tay cạnh bên",
+      "Thời điểm ra mắt": "09/07/2025 (Mở bán 25/07/2025)"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G SA/NSA/Sub6 đa băng tần, LTE-A",
+      "Thẻ SIM": "SIM kép (Nano-SIM + eSIM)",
+      "Wi-Fi": "Wi-Fi 6E (802.11 a/b/g/n/ac/6e) ba băng tần, Wi-Fi Direct",
+      "Bluetooth": "Bluetooth 5.4 (A2DP, LE)",
+      "Công nghệ NFC": "Có hỗ trợ NFC",
+      "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung hợp kim Armor Aluminum và bản lề FlexHinge",
+      "Chất liệu mặt lưng": "Mặt ngoài kính cường lực Corning Gorilla Glass Victus 2",
+      "Kích thước": "Khi mở: 165,1 x 71,9 x 6,9 mm | Khi gập: 85,1 x 71,9 x 14,9 mm",
+      "Trọng lượng": "187 gram",
+      "Chỉ số kháng nước, bụi": "IP48 (kháng nước ở độ sâu 1,5 mét trong 30 phút và kháng bụi > 1mm)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo, hỗ trợ Dolby Atmos",
+      "Cảm biến vân tay": "Cảm biến vân tay điện dung tích hợp nút nguồn cạnh bên",
+      "Các loại cảm biến": "Vân tay cạnh bên, Gia tốc kế, Con quay hồi chuyển, Cảm biến tiệm cận, La bàn số, Áp kế"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "Chính 6,7 inch & Phụ 3,4 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "Foldable Dynamic LTPO AMOLED 2X"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "Chính 1080 x 2640 pixel | Phụ 720 x 748 pixel"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "Chính 120Hz (LTPO) | Phụ 60Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Samsung Exynos 2400 (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB UFS 4.0"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính OIS + 12MP Ultra Wide 123°"
+    },
+    {
+      "label": "Camera trước",
+      "value": "10MP, khẩu độ f/2.2, quay 4K 60fps"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "4.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc có dây 25W, sạc không dây 15W, sạc ngược 4,5W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 16, One UI 8 (hỗ trợ One UI 9)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP48 (kháng nước 1,5m trong 30 phút & bụi > 1mm)"
+    }
+  ],
+  "verbatimDescription": [
+    "Samsung Galaxy Z Flip7 FE 5G đánh dấu cột mốc lần đầu tiên Samsung đưa dòng Fan Edition vào thế giới smartphone màn hình gập. Với mức giá dễ tiếp cận hơn đáng kể nhưng vẫn giữ trọn kiểu dáng gập vỏ sò sành điệu, khung Armor Aluminum và chuẩn kháng nước/bụi IP48, đây là lựa chọn lý tưởng cho những ai muốn bước chân vào trải nghiệm điện thoại gập cao cấp.",
+    "Thiết bị sở hữu màn hình chính Foldable Dynamic LTPO AMOLED 2X rộng 6,7 inch độ phân giải Full HD+ (1080 x 2640 pixel, tần số quét thích ứng 1–120Hz) và màn hình ngoài Super AMOLED 3,4 inch (720 x 748 pixel) bảo vệ bởi kính Gorilla Glass Victus 2. Cả hai màn hình đều đạt độ sáng cực đại 2.600 nit, giúp xem thông báo, điều khiển nhạc và chụp ảnh selfie rõ nét ngay dưới ánh nắng ngoài trời.",
+    "Về hiệu năng, Galaxy Z Flip7 FE 5G trang bị vi xử lý 10 nhân Samsung Exynos 2400 (4nm) kết hợp GPU Xclipse 940, RAM 8GB LPDDR5X và bộ nhớ trong chuẩn UFS 4.0 (128GB hoặc 256GB). Sức mạnh này đảm bảo máy vận hành trơn tru giao diện One UI cùng trọn bộ tính năng trí tuệ nhân tạo Galaxy AI.",
+    "Cụm camera kép phía sau của Galaxy Z Flip7 FE 5G thừa hưởng cảm biến chính 50MP (f/1.8, Dual Pixel PDAF, chống rung quang học OIS, hỗ trợ zoom chất lượng quang học 2x) đi kèm camera góc siêu rộng 12MP (123°) và camera trước 10MP. Tính năng FlexCam cùng Auto Zoom giúp người dùng tự do sáng tạo góc chụp rảnh tay độc đáo và quay video 4K@60fps HDR10+.",
+    "Viên pin 4.000 mAh trên máy hỗ trợ sạc nhanh có dây 25W (nạp 50% pin trong 30 phút), sạc không dây 15W và chia sẻ pin không dây 4,5W cho phụ kiện.",
+    "Cài sẵn Android 16 và One UI 8 khi ra mắt (hỗ trợ nâng cấp lên tới 7 thế hệ Android), kèm kết nối 5G, Wi-Fi 6E ba băng tần, Bluetooth 5.4, cổng USB-C 3.2 và NFC, Galaxy Z Flip7 FE 5G là chiếc điện thoại gập cân bằng hoàn hảo giữa phong cách và chi phí."
+  ],
+  "priceSegment": "upper-midrange"
+}

@@ -1,0 +1,322 @@
+{
+  "id": "poco-c71",
+  "brand": "POCO",
+  "brandId": "poco",
+  "parentGroupId": "xiaomi_group",
+  "model": "POCO C71",
+  "series": "POCO C",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "entry-level"
+  ],
+  "status": "needs_verification",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "POCO C71 là mẫu smartphone phổ thông nổi bật với màn hình siêu lớn 6,88 inch tần số quét 120Hz mượt mà, viên pin bền bỉ 5.200 mAh cùng camera chính 32MP AI sắc nét. Chạy trên nền tảng Android 15 mới mẻ kết hợp thiết kế mặt lưng hai tông màu cá tính, thiết bị mang đến lựa chọn kinh tế, ổn định cho học sinh, sinh viên và người dùng cần một chiếc máy phụ pin khỏe.",
+    "highlights": [
+      "Màn hình giải trí 6,88 inch rộng rãi, tần số quét 120Hz đạt chuẩn bảo vệ mắt TÜV Rheinland",
+      "Camera chính 32MP AI (f/1.8) sắc nét đi kèm camera selfie 8MP có vòng sáng trợ sáng",
+      "Viên pin lớn 5.200 mAh bền bỉ 1.000 chu kỳ sạc và cài sẵn hệ điều hành Android 15"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": null,
+    "originalPrice": null,
+    "promotionPrice": null,
+    "priceUpdatedAt": "2026-11-01",
+    "priceVerified": false
+  },
+  "variants": [
+    {
+      "sku": "AUR-POC-C71-RAM-STD-01",
+      "color": "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)",
+      "colorHex": "#102347",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "price": null,
+      "originalPrice": null,
+      "stockStatus": "needs_verification",
+      "images": [
+        "assets/images/placeholders/placeholder-default.svg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "IPS LCD DotDrop",
+    "size": "6,88 inch",
+    "resolution": "HD+ (1640 x 720 pixel)",
+    "refreshRate": "120Hz",
+    "brightness": "Độ sáng tối đa 600 nit (HBM), độ tương phản 1500:1, chế độ Đọc sách (Reading Mode) bảo vệ thị lực ban đêm",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Unisoc T7250 (tiến trình 12nm tối ưu điện năng ổn định cho tác vụ hàng ngày)",
+    "cpu": "CPU 8 nhân 64-bit (2 nhân hiệu năng Cortex-A75 xung nhịp tối đa 1.8GHz + 6 nhân tiết kiệm điện Cortex-A55 xung nhịp 1.6GHz)",
+    "gpu": "ARM Mali-G57 MP1",
+    "ram": [
+      "4GB"
+    ],
+    "storage": [
+      "64GB"
+    ],
+    "operatingSystem": "Android 15 (giao diện nhẹ mượt trên nền tảng Xiaomi HyperOS)",
+    "uiVersion": "Xiaomi HyperOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "32MP Chính AI (ƒ/1.8) + Cảm biến phụ",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "Quay video 1080p Full HD ở 30 fps; 720p HD ở 30 fps; hỗ trợ chế độ tua nhanh thời gian Time-lapse"
+    ],
+    "aiFeatures": [
+      "Chế độ chụp đêm (Night Mode), HDR tự động, Chụp chân dung xóa phông AI, Bộ lọc màu phim cổ điển (filmCamera), Chụp hẹn giờ và nhận diện khuôn mặt"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "8MP (ƒ/2.0, Vòng sáng mềm)",
+    "features": [
+      "Camera selfie 8MP (khẩu độ ƒ/2.0), tích hợp vòng sáng màn hình dịu nhẹ (Soft-light Ring) giúp chụp ảnh tự sướng sáng rõ trong bóng tối, hỗ trợ làm đẹp AI và mở khóa khuôn mặt"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "5.200 mAh",
+    "wiredCharging": "Sạc nhanh 15W USB-C",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc nhanh 15W qua cổng USB Type-C | Không hỗ trợ sạc không dây"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano SIM + 1 khe thẻ nhớ microSD độc lập"
+    ],
+    "network": [
+      "4G LTE Dual SIM"
+    ],
+    "wifi": "Wi-Fi 802.11 a/b/g/n/ac (băng tần kép 2.4GHz / 5GHz)",
+    "bluetooth": "Bluetooth 5.2 (hỗ trợ A2DP, LE)",
+    "gps": [
+      "GPS, GLONASS, Galileo, BDS"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": false
+  },
+  "design": {
+    "dimensions": "171,79 x 77,8 x 8,26 mm",
+    "weight": "193 gram",
+    "materials": [
+      "Khung viền phẳng hợp chất polycarbonate cứng cáp chống bám vân tay",
+      "Mặt lưng hoàn thiện hai tông màu trẻ trung với cụm camera viền ánh kim nổi bật"
+    ],
+    "waterResistance": "Kháng nước nhẹ IP52",
+    "availableColors": [
+      "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa ngoài công suất lớn tăng cường âm lượng 150%, tích hợp cổng âm thanh 3.5mm",
+    "headphoneJack": true,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "POCO C",
+    "POCO",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền POCO tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/placeholders/placeholder-default.svg",
+    "hasAvatarNamed": false,
+    "gallery": [
+      "assets/images/placeholders/placeholder-default.svg"
+    ],
+    "byColor": {},
+    "bySection": {
+      "performance": "assets/images/placeholders/placeholder-default.svg"
+    }
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-xiaomi-poco",
+      "https://www.po.co/global/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "verbatimDescription": [
+    "POCO C71 định hình lại chuẩn mực hiển thị ở phân khúc phổ thông khi sở hữu màn hình lớn tới 6,88 inch cùng tần số quét 120Hz. Không gian hiển thị rộng rãi giúp việc đọc báo, xem video YouTube, học trực tuyến hay theo dõi bản đồ điều hướng trở nên rõ ràng và thoải mái hơn hẳn các màn hình 6,5 inch truyền thống.",
+    "Nhờ công nghệ AdaptiveSync tự động điều chỉnh tần số quét lên đến 120Hz, mọi thao tác cuộn lướt trang mạng xã hội đều diễn ra trơn tru. Tấm nền còn đạt chứng nhận kép từ tổ chức TÜV Rheinland về giảm ánh sáng xanh phần cứng và chống nhấp nháy, bảo vệ thị lực hiệu quả khi sử dụng lâu dài vào buổi tối.",
+    "Sức mạnh xử lý của máy đến từ vi xử lý 8 nhân Unisoc T7250 kết hợp cùng tính năng mở rộng RAM ảo lên tới tổng cộng 12GB (trên bản 6GB vật lý). Cấu hình này phối hợp cùng hệ điều hành Android 15 tinh gọn giúp máy phản hồi ổn định các ứng dụng nhắn tin, ngân hàng số, mua sắm trực tuyến và giải trí nhẹ nhàng.",
+    "Về khả năng nhiếp ảnh, POCO C71 được nâng cấp lên cảm biến chính 32MP khẩu độ lớn f/1.8, thu sáng tốt hơn thế hệ tiền nhiệm để tạo ra những bức ảnh chụp tài liệu, phong cảnh hay khoảnh khắc đời thường rõ nét. Phía trước là camera selfie 8MP tích hợp vòng sáng màn hình dịu nhẹ giúp khuôn mặt luôn tươi tắn ngay cả trong điều kiện thiếu sáng.",
+    "Viên pin 5.200 mAh cung cấp thời lượng sử dụng trọn vẹn từ 1,5 đến 2 ngày với các tác vụ thông thường, đồng thời được chế tạo với cell pin tuổi thọ cao giữ trên 80% dung lượng sau 1.000 chu kỳ sạc. Máy cũng giữ lại đầy đủ giắc cắm tai nghe 3.5mm, khe cắm thẻ nhớ microSD độc lập và cảm biến vân tay cạnh bên tiện lợi."
+  ],
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,88 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "IPS LCD DotDrop"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "HD+ (1640 x 720 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Unisoc T7250 8 nhân (12nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "4GB / 6GB (Mở rộng RAM ảo 6GB)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "64GB / 128GB (Hỗ trợ thẻ nhớ 1TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "32MP Chính AI (ƒ/1.8) + Cảm biến phụ"
+    },
+    {
+      "label": "Camera trước",
+      "value": "8MP (ƒ/2.0, Vòng sáng mềm)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.200 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh 15W USB-C"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 15 (Xiaomi HyperOS)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "4G LTE Dual SIM"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "Kháng nước nhẹ IP52"
+    }
+  ],
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "IPS LCD cấp độ hiển thị rộng, hỗ trợ DC Dimming chống nhấp nháy và đạt bộ đôi chứng nhận bảo vệ mắt TÜV Rheinland (Low Blue Light & Flicker Free)",
+      "Kích thước màn hình": "6,88 inch (tỷ lệ hiển thị ~89,7% diện tích mặt trước)",
+      "Độ phân giải màn hình": "1640 x 720 pixel (HD+, mật độ điểm ảnh ~260 ppi)",
+      "Tần số quét": "120Hz thích ứng (AdaptiveSync tự động điều chỉnh 60Hz/90Hz/120Hz giúp tiết kiệm năng lượng)",
+      "Kiểu màn hình": "Màn hình giọt nước (DotDrop Display), hỗ trợ cảm ứng ổn định ngay cả khi tay ướt (Wet Touch)",
+      "Tính năng màn hình": "Độ sáng tối đa 600 nit (HBM), độ tương phản 1500:1, chế độ Đọc sách (Reading Mode) bảo vệ thị lực ban đêm"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera kép AI: Camera chính 32MP (khẩu độ ƒ/1.8, thấu kính 4P, lấy nét tự động AF) + Cảm biến phụ hỗ trợ đo chiều sâu xóa phông chân dung",
+      "Quay video": "Quay video 1080p Full HD ở 30 fps; 720p HD ở 30 fps; hỗ trợ chế độ tua nhanh thời gian Time-lapse",
+      "Tính năng camera": "Chế độ chụp đêm (Night Mode), HDR tự động, Chụp chân dung xóa phông AI, Bộ lọc màu phim cổ điển (filmCamera), Chụp hẹn giờ và nhận diện khuôn mặt"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera selfie 8MP (khẩu độ ƒ/2.0), tích hợp vòng sáng màn hình dịu nhẹ (Soft-light Ring) giúp chụp ảnh tự sướng sáng rõ trong bóng tối, hỗ trợ làm đẹp AI và mở khóa khuôn mặt"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Unisoc T7250 (tiến trình 12nm tối ưu điện năng ổn định cho tác vụ hàng ngày)",
+      "Loại CPU": "CPU 8 nhân 64-bit (2 nhân hiệu năng Cortex-A75 xung nhịp tối đa 1.8GHz + 6 nhân tiết kiệm điện Cortex-A55 xung nhịp 1.6GHz)",
+      "GPU": "ARM Mali-G57 MP1"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "4GB / 6GB LPDDR4X (hỗ trợ công nghệ mở rộng RAM ảo thêm tối đa 6GB lên tổng cộng 12GB RAM khả dụng)",
+      "Bộ nhớ trong": "64GB / 128GB eMMC 5.1 (có khe cắm thẻ nhớ microSD độc lập mở rộng lên tới 1TB)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.200 mAh (Pin Li-Po tuổi thọ cao, duy trì trên 80% dung lượng sau 1.000 chu kỳ sạc xả)",
+      "Công nghệ sạc": "Sạc nhanh 15W qua cổng USB Type-C | Không hỗ trợ sạc không dây",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 15 (giao diện nhẹ mượt trên nền tảng Xiaomi HyperOS)",
+      "Công nghệ - Tiện ích": "Mở rộng bộ nhớ RAM ảo, Chế độ đơn giản cho người lớn tuổi, Đài FM Radio (khi cắm tai nghe), Chia đôi màn hình",
+      "Tiện ích khác": "Giữ lại giắc cắm tai nghe 3.5mm truyền thống, khe thẻ nhớ 3 trong 1 (2 Nano SIM + 1 microSD)",
+      "Thời điểm ra mắt": "04/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "4G LTE Cat.4 (hỗ trợ cuộc gọi chất lượng cao VoLTE trên cả 2 SIM)",
+      "Thẻ SIM": "2 Nano SIM + 1 khe thẻ nhớ microSD độc lập",
+      "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac (băng tần kép 2.4GHz / 5GHz)",
+      "Bluetooth": "Bluetooth 5.2 (hỗ trợ A2DP, LE)",
+      "Công nghệ NFC": "Tùy thị trường phân phối",
+      "GPS": "GPS, GLONASS, Galileo, BDS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền phẳng hợp chất polycarbonate cứng cáp chống bám vân tay",
+      "Chất liệu mặt lưng": "Mặt lưng hoàn thiện hai tông màu trẻ trung với cụm camera viền ánh kim nổi bật",
+      "Kích thước": "171,79 x 77,8 x 8,26 mm",
+      "Trọng lượng": "193 gram",
+      "Chỉ số kháng nước, bụi": "Chuẩn IP52 (kháng bụi và tia nước bắn nhẹ hàng ngày)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài công suất lớn tăng cường âm lượng 150%, tích hợp cổng âm thanh 3.5mm",
+      "Cảm biến vân tay": "Cảm biến vân tay một chạm tích hợp ngay trên phím nguồn cạnh bên & Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Cảm biến gia tốc, Cảm biến ánh sáng ảo, Cảm biến tiệm cận ảo, La bàn điện tử"
+    }
+  }
+}

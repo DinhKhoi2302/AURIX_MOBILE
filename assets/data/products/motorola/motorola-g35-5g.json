@@ -1,0 +1,324 @@
+{
+  "id": "motorola-g35-5g",
+  "brand": "Motorola",
+  "brandId": "motorola",
+  "parentGroupId": "motorola",
+  "model": "Motorola G35 5G",
+  "series": "Moto G",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "entry-level",
+    "5g-ready"
+  ],
+  "status": "needs_verification",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 19,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2024",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Motorola moto g35 5G là mẫu smartphone 5G phổ thông nổi bật nhờ sở hữu màn hình 6,72 inch độ phân giải Full HD+ sắc nét (120Hz, 1.000 nit), cụm camera kép 50MP + 8MP góc siêu rộng hỗ trợ quay video 4K UHD, loa kép Dolby Atmos và thiết kế mặt lưng da thuần chay mỏng nhẹ chỉ 7,79 mm. (Nguồn tham chiếu: GSMArena - Motorola Moto G35 5G).",
+    "highlights": [
+      "6,72 inch FHD+ 120Hz",
+      "5G / Quay video 4K",
+      "Camera 50MP + 8MP Siêu rộng"
+    ],
+    "officialDistribution": "Model được bảo lưu từ danh sách trước nhưng chưa đủ bằng chứng đang mở bán chính thức trong lượt đối chiếu ngày 01/11/2026; giữ trạng thái needs_verification để không mất dấu dữ liệu."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": null,
+    "originalPrice": null,
+    "promotionPrice": null,
+    "priceUpdatedAt": "2026-11-01",
+    "priceVerified": false
+  },
+  "variants": [
+    {
+      "sku": "AUR-MOT-G35-5G-RAM-STD-01",
+      "color": "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)",
+      "colorHex": "#102347",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "price": null,
+      "originalPrice": null,
+      "stockStatus": "needs_verification",
+      "images": [
+        "assets/images/placeholders/placeholder-default.svg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "IPS LCD FHD+ 120Hz, HDR10, độ sáng đỉnh 1.000 nit",
+    "size": "6,72 inch",
+    "resolution": "2400 x 1080 pixel (FHD+, 392 ppi)",
+    "refreshRate": "120Hz",
+    "brightness": "Độ phân giải Full HD+ sắc nét, độ sáng đỉnh 1.000 nit ngoài trời, hỗ trợ HDR10, cảm ứng khi tay ướt Water Touch",
+    "hdr": "HDR10+ / HLG",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Unisoc T760 5G (6nm)",
+    "cpu": "CPU 8 nhân: 4 nhân hiệu năng cao Cortex-A76 (2,2 GHz) + 4 nhân Cortex-A55 (2,0 GHz)",
+    "gpu": "ARM Mali-G57 MC4",
+    "ram": [
+      "4GB"
+    ],
+    "storage": [
+      "128GB"
+    ],
+    "operatingSystem": "Android 14 / Android 15 (Giao diện My UX)",
+    "uiVersion": "Android",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Chính Quad Pixel (ƒ/1.8) + 8MP Góc siêu rộng 120° (Quay video 4K)",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "Quay video 4K UHD ở 30fps, Full HD 1080p ở 30fps kèm chống rung điện tử gyro-EIS"
+    ],
+    "aiFeatures": [
+      "Night Vision chụp đêm, Chân dung xóa phông, Dual Capture quay đồng thời 2 camera, HDR, Panorama"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "16MP (ƒ/2.45), quay 1080p 30fps",
+    "features": [
+      "Camera Selfie 16MP (khẩu độ ƒ/2.45, điểm ảnh 1.0µm), hỗ trợ làm đẹp chân dung AI và quay video Full HD 1080p@30fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "5.000 mAh",
+    "wiredCharging": "Sạc nhanh có dây 18W TurboPower",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc nhanh có dây 18W qua cổng USB Type-C"
+  },
+  "connectivity": {
+    "sim": [
+      "SIM kép (Nano-SIM + eSIM hoặc 2 Nano-SIM)"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép (2.4GHz & 5GHz)",
+    "bluetooth": "Bluetooth 5.0 hỗ trợ A2DP, LE",
+    "gps": [
+      "GPS, GLONASS, GALILEO, BDS, QZSS"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "166,3 x 76,0 x 7,79 mm",
+    "weight": "188 gram (bản PMMA) / 191 gram (bản da)",
+    "materials": [
+      "Khung viền phẳng mỏng nhẹ chỉ 7,79 mm",
+      "Mặt lưng da thuần chay (Vegan Leather) hoặc PMMA hoàn thiện nhám mờ"
+    ],
+    "waterResistance": "IP52 kháng nước bắn",
+    "availableColors": [
+      "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)"
+    ]
+  },
+  "audio": {
+    "speakers": "Hệ thống loa kép Stereo chuẩn Dolby Atmos, giữ lại giắc tai nghe 3.5mm",
+    "headphoneJack": true,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Moto G",
+    "Motorola",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Motorola tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/placeholders/placeholder-default.svg",
+    "hasAvatarNamed": false,
+    "gallery": [
+      "assets/images/placeholders/placeholder-default.svg"
+    ],
+    "byColor": {},
+    "bySection": {
+      "performance": "assets/images/placeholders/placeholder-default.svg"
+    }
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-motorola",
+      "https://www.motorola.com/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "needs_verification",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Cần xác minh thêm",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "verbatimDescription": [
+    "Motorola moto g35 5G là mẫu smartphone 5G phổ thông nổi bật nhờ sở hữu màn hình 6,72 inch độ phân giải Full HD+ sắc nét (120Hz, 1.000 nit), cụm camera kép 50MP + 8MP góc siêu rộng hỗ trợ quay video 4K UHD, loa kép Dolby Atmos và thiết kế mặt lưng da thuần chay mỏng nhẹ chỉ 7,79 mm. Tại AURIX MOBILE, moto g35 5G mang đến trải nghiệm 5G toàn diện với mức chi phí vô cùng hợp lý.",
+    "Thân máy moto g35 5G có độ mỏng ấn tượng 7,79 mm và nặng khoảng 188–191 gram với tùy chọn mặt lưng da thuần chay cao cấp, bảo vệ mặt trước bằng kính Corning Gorilla Glass 3.",
+    "Khác với nhiều đối thủ cùng tầm giá chỉ dùng màn hình HD+, moto g35 5G trang bị màn hình 6,72 inch độ phân giải Full HD+ (2400 x 1080 pixel, 392 ppi) tần số quét 120Hz và độ sáng đỉnh 1.000 nit hiển thị rõ nét ngoài trời.",
+    "Hệ thống nhiếp ảnh của máy vượt trội trong phân khúc phổ thông khi giữ đầy đủ camera chính 50MP Quad Pixel và camera góc siêu rộng 8MP (120°), đồng thời hỗ trợ quay video độ phân giải 4K@30fps sắc nét.",
+    "Vi xử lý 8 nhân 5G tiến trình 6nm (4 nhân Cortex-A76) kết hợp RAM 4GB/8GB và bộ nhớ 128GB/256GB UFS 2.2 mang lại kết nối 5G tốc độ cao và khả năng vận hành mượt mà trên giao diện Android thuần khiết của Motorola.",
+    "Viên pin 5.000 mAh đi kèm sạc nhanh 18W, hệ thống loa kép Stereo Dolby Atmos, NFC và giắc cắm tai nghe 3.5mm đáp ứng trọn vẹn nhu cầu học tập, làm việc và giải trí hàng ngày."
+  ],
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,72 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "IPS LCD FHD+ 120Hz, HDR10, độ sáng đỉnh 1.000 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2400 x 1080 pixel (FHD+, 392 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Unisoc T760 5G (6nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "4GB / 8GB LPDDR4X (+8GB RAM Boost)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB chuẩn UFS 2.2 (Hỗ trợ MicroSD 1TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính Quad Pixel (ƒ/1.8) + 8MP Góc siêu rộng 120° (Quay video 4K)"
+    },
+    {
+      "label": "Camera trước",
+      "value": "16MP (ƒ/2.45), quay 1080p 30fps"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh có dây 18W TurboPower"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 14 / Android 15 (Giao diện My UX)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP52 kháng nước bắn"
+    }
+  ],
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "IPS LCD FHD+ 120Hz, HDR10, độ sáng đỉnh 1.000 nit",
+      "Kích thước màn hình": "6,72 inch",
+      "Độ phân giải màn hình": "2400 x 1080 pixel (FHD+, 392 ppi)",
+      "Tần số quét": "120Hz",
+      "Kiểu màn hình": "Màn hình phẳng đục lỗ sắc nét, bảo vệ bởi kính Corning Gorilla Glass 3",
+      "Tính năng màn hình": "Độ phân giải Full HD+ sắc nét, độ sáng đỉnh 1.000 nit ngoài trời, hỗ trợ HDR10, cảm ứng khi tay ướt Water Touch"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera kép hỗ trợ quay 4K hiếm có trong phân khúc: (1) Camera chính 50MP: khẩu độ ƒ/1.8, kích thước 1/2.76\", công nghệ Quad Pixel 1.28µm, lấy nét theo pha PDAF; (2) Camera Góc siêu rộng 8MP: khẩu độ ƒ/2.2, góc nhìn rộng 120°",
+      "Quay video": "Quay video 4K UHD ở 30fps, Full HD 1080p ở 30fps kèm chống rung điện tử gyro-EIS",
+      "Tính năng camera": "Night Vision chụp đêm, Chân dung xóa phông, Dual Capture quay đồng thời 2 camera, HDR, Panorama"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera Selfie 16MP (khẩu độ ƒ/2.45, điểm ảnh 1.0µm), hỗ trợ làm đẹp chân dung AI và quay video Full HD 1080p@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Unisoc T760 5G (6nm)",
+      "Loại CPU": "CPU 8 nhân: 4 nhân hiệu năng cao Cortex-A76 (2,2 GHz) + 4 nhân Cortex-A55 (2,0 GHz)",
+      "GPU": "ARM Mali-G57 MC4"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "4GB / 8GB LPDDR4X (+8GB RAM Boost)",
+      "Bộ nhớ trong": "128GB / 256GB chuẩn UFS 2.2 (Hỗ trợ MicroSD 1TB)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.000 mAh (Pin Li-Po bền bỉ đáp ứng trọn vẹn gần 2 ngày sử dụng)",
+      "Công nghệ sạc": "Sạc nhanh có dây 18W qua cổng USB Type-C",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 14 / Android 15 (Giao diện My UX)",
+      "Công nghệ - Tiện ích": "RAM Boost mở rộng bộ nhớ, cử chỉ thông minh Moto Actions, không gian bảo mật Moto Secure",
+      "Tiện ích khác": "Loa kép Stereo Dolby Atmos, giắc cắm tai nghe 3.5mm truyền thống",
+      "Thời điểm ra mắt": "Tháng 09/2024"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G",
+      "Thẻ SIM": "SIM kép (Nano-SIM + eSIM hoặc 2 Nano-SIM)",
+      "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép (2.4GHz & 5GHz)",
+      "Bluetooth": "Bluetooth 5.0 hỗ trợ A2DP, LE",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa năng",
+      "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền phẳng mỏng nhẹ chỉ 7,79 mm",
+      "Chất liệu mặt lưng": "Mặt lưng da thuần chay (Vegan Leather) hoặc PMMA hoàn thiện nhám mờ",
+      "Kích thước": "166,3 x 76,0 x 7,79 mm",
+      "Trọng lượng": "188 gram (bản PMMA) / 191 gram (bản da)",
+      "Chỉ số kháng nước, bụi": "Thiết kế phủ lớp kháng nước bắn sinh hoạt chuẩn IP52"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo chuẩn Dolby Atmos, giữ lại giắc tai nghe 3.5mm",
+      "Cảm biến vân tay": "Cảm biến vân tay tích hợp phím nguồn cạnh bên + Mở khóa khuôn mặt",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Cảm biến tiệm cận, Ánh sáng môi trường, La bàn số"
+    }
+  }
+}

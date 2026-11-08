@@ -1,0 +1,121 @@
+{
+  "id": "apple-usb-c-power-adapter-20w-a2305",
+  "docCode": "PK-CU005-A2305",
+  "model": "Củ Sạc Nhanh Apple 20W USB-C Power Adapter A2305",
+  "brand": "Apple",
+  "brandId": "apple",
+  "parentGroupId": "apple",
+  "series": "Củ sạc",
+  "subCategory": "cu-sac",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "cu-sac"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Củ sạc",
+    "highlights": [
+      "20W"
+    ],
+    "description": "Củ sạc 20W tiêu chuẩn toàn cầu dành cho iPhone và iPad. Đảm bảo tốc độ sạc nhanh an toàn 50% pin trong 30 phút, bảo vệ tuổi thọ viên pin tối đa và tương thích 100% với các thiết bị hỗ trợ cổng Type-C."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 520000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/cu-sac/apple-usb-c-power-adapter-20w-a2305/anh-dai-dien-apple-usb-c-power-adapter-20w-a2305-trang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/cu-sac/apple-usb-c-power-adapter-20w-a2305/anh-dai-dien-apple-usb-c-power-adapter-20w-a2305-trang.webp",
+      "assets/images/products/accessory/cu-sac/apple-usb-c-power-adapter-20w-a2305/mat-sau-chan-cam-tron-trang.webp",
+      "assets/images/products/accessory/cu-sac/apple-usb-c-power-adapter-20w-a2305/can-canh-cong-sac-type-c-trang.webp"
+    ],
+    "byColor": {
+      "Trắng": [
+        "assets/images/products/accessory/cu-sac/apple-usb-c-power-adapter-20w-a2305/anh-dai-dien-apple-usb-c-power-adapter-20w-a2305-trang.webp",
+        "assets/images/products/accessory/cu-sac/apple-usb-c-power-adapter-20w-a2305/mat-sau-chan-cam-tron-trang.webp",
+        "assets/images/products/accessory/cu-sac/apple-usb-c-power-adapter-20w-a2305/can-canh-cong-sac-type-c-trang.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/cu-sac/apple-usb-c-power-adapter-20w-a2305/mat-sau-chan-cam-tron-trang.webp",
+      "screen": "assets/images/products/accessory/cu-sac/apple-usb-c-power-adapter-20w-a2305/can-canh-cong-sac-type-c-trang.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/cu-sac/apple-usb-c-power-adapter-20w-a2305/mat-sau-chan-cam-tron-trang.webp",
+      "assets/images/products/accessory/cu-sac/apple-usb-c-power-adapter-20w-a2305/can-canh-cong-sac-type-c-trang.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Apple",
+      "Công suất sạc tối đa": "20W",
+      "Số lượng cổng sạc": "1 cổng",
+      "Loại cổng sạc": "USB-C",
+      "Công nghệ sạc": "USB-C Power Delivery 3.0",
+      "Công nghệ chế tạo": "Tiêu chuẩn bán dẫn cao cấp từ Apple",
+      "Kiểu chân cắm": "Chân tròn 2 chấu",
+      "Màu sắc": "Trắng"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Apple"
+    },
+    {
+      "label": "Công suất sạc tối đa",
+      "value": "20W"
+    },
+    {
+      "label": "Số lượng cổng sạc",
+      "value": "1 cổng"
+    },
+    {
+      "label": "Loại cổng sạc",
+      "value": "USB-C"
+    },
+    {
+      "label": "Công nghệ sạc",
+      "value": "USB-C Power Delivery 3.0"
+    },
+    {
+      "label": "Công nghệ chế tạo",
+      "value": "Tiêu chuẩn bán dẫn cao cấp từ Apple"
+    },
+    {
+      "label": "Kiểu chân cắm",
+      "value": "Chân tròn 2 chấu"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Trắng"
+    }
+  ],
+  "verbatimDescription": [
+    "Củ sạc 20W tiêu chuẩn toàn cầu dành cho iPhone và iPad. Đảm bảo tốc độ sạc nhanh an toàn 50% pin trong 30 phút, bảo vệ tuổi thọ viên pin tối đa và tương thích 100% với các thiết bị hỗ trợ cổng Type-C."
+  ],
+  "variants": [
+    {
+      "sku": "PK-CU005-A2305-TRANG-TIEU-CHUAN",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 520000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/cu-sac/apple-usb-c-power-adapter-20w-a2305/anh-dai-dien-apple-usb-c-power-adapter-20w-a2305-trang.webp",
+        "assets/images/products/accessory/cu-sac/apple-usb-c-power-adapter-20w-a2305/mat-sau-chan-cam-tron-trang.webp",
+        "assets/images/products/accessory/cu-sac/apple-usb-c-power-adapter-20w-a2305/can-canh-cong-sac-type-c-trang.webp"
+      ]
+    }
+  ]
+}

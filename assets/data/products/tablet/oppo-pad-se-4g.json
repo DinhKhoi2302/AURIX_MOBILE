@@ -1,0 +1,243 @@
+{
+  "id": "oppo-pad-se-4g",
+  "docCode": "TB-OP004-SE4G",
+  "model": "OPPO Pad SE 4G",
+  "brand": "OPPO",
+  "brandId": "oppo",
+  "parentGroupId": "oppo",
+  "series": "OPPO Pad Series",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "11.0 inch",
+      "Snapdragon 680",
+      "Pin 8.000 mAh"
+    ],
+    "description": "OPPO Pad SE 4G là sự kết hợp hoàn hảo giữa tính di động cao và mức giá hợp lý trong phân khúc máy tính bảng phổ thông. Nhờ trang bị khe cắm Nano-SIM 4G LTE, máy giúp người dùng duy trì kết nối mạng thông suốt mọi lúc mọi nơi, giải quyết nhanh chóng các công việc phát sinh ngay cả khi đang di chuyển trên đường.",
+    "releaseDate": "2024 / 2025"
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 680 (tiến trình 6nm tiết kiệm pin)",
+    "ram": [
+      "6GB",
+      "8GB"
+    ],
+    "storage": [
+      "128GB"
+    ],
+    "operatingSystem": "ColorOS 14 for Pad (Android 14)"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 5490000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/oppo/oppo-pad-se-4g/anh-dai-dien-oppo-pad-se-4g-bac.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/oppo/oppo-pad-se-4g/anh-dai-dien-oppo-pad-se-4g-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-4g/mat-truoc-sau-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-4g/mat-truoc-dat-tren-ban-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-4g/mat-sau-dat-tren-ban-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-4g/can-canh-nut-am-luong-canh-ben-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-4g/canh-ben-trai-phai-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-4g/canh-tren-duoi-loa-cong-sac-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-4g/can-canh-cum-camera-sau-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-4g/cam-tren-tay-man-hinh-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-4g/can-canh-cong-sac-type-c-va-loa-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-4g/can-canh-nut-nguon-va-loa-bac.webp"
+    ],
+    "byColor": {
+      "Bạc": [
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/anh-dai-dien-oppo-pad-se-4g-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/mat-truoc-sau-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/mat-truoc-dat-tren-ban-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/mat-sau-dat-tren-ban-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/can-canh-nut-am-luong-canh-ben-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/canh-ben-trai-phai-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/canh-tren-duoi-loa-cong-sac-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/can-canh-cum-camera-sau-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/cam-tren-tay-man-hinh-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/can-canh-cong-sac-type-c-va-loa-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/can-canh-nut-nguon-va-loa-bac.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/oppo/oppo-pad-se-4g/mat-truoc-sau-bac.webp",
+      "screen": "assets/images/products/tablet/oppo/oppo-pad-se-4g/mat-truoc-dat-tren-ban-bac.webp",
+      "performance": "assets/images/products/tablet/oppo/oppo-pad-se-4g/cam-tren-tay-man-hinh-bac.webp",
+      "camera": "assets/images/products/tablet/oppo/oppo-pad-se-4g/can-canh-cum-camera-sau-bac.webp",
+      "battery": "assets/images/products/tablet/oppo/oppo-pad-se-4g/canh-tren-duoi-loa-cong-sac-bac.webp",
+      "feature": "assets/images/products/tablet/oppo/oppo-pad-se-4g/canh-ben-trai-phai-bac.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/oppo/oppo-pad-se-4g/mat-truoc-sau-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-4g/mat-truoc-dat-tren-ban-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-4g/mat-sau-dat-tren-ban-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-4g/can-canh-nut-am-luong-canh-ben-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-4g/canh-ben-trai-phai-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-4g/canh-tren-duoi-loa-cong-sac-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-4g/can-canh-cum-camera-sau-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-4g/cam-tren-tay-man-hinh-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-4g/can-canh-cong-sac-type-c-va-loa-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-4g/can-canh-nut-nguon-va-loa-bac.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "11,0 inch IPS LCD WUXGA (1920 x 1200 pixel), tỷ lệ 16:10, tần số quét 90Hz mượt mà, hiển thị 16,7 triệu màu, độ sáng 400 nit",
+      "Tính năng màn hình": "Chứng nhận bảo vệ mắt TÜV Rheinland Low Blue Light giảm mỏi mắt khi học tập lâu dài, chế độ hiển thị ngoài trời và chế độ Đọc sách"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "Qualcomm Snapdragon 680 tiến trình 6nm tối ưu hóa thời lượng sử dụng pin",
+      "CPU & Đồ họa": "Octa-core 4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver, GPU Adreno 610",
+      "Hệ điều hành khi ra mắt": "ColorOS 14 for Pad trên nền tảng Android 14 tối ưu hóa cho máy tính bảng"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "6GB / 8GB RAM LPDDR4X",
+      "Bộ nhớ trong": "128GB bộ nhớ trong, có khay cắm thẻ MicroSD mở rộng tối đa 1TB"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "8MP tự động lấy nét, khẩu độ f/2.0, quay video 1080p 30fps",
+      "Camera trước": "5MP góc rộng phục vụ học tập trực tuyến và gọi thoại video",
+      "Chi tiết hệ thống Camera": "Camera sau 8MP f/2.0 có AF; Camera trước 5MP f/2.2 hỗ trợ mở khóa khuôn mặt"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "8.000 mAh dung lượng lớn, sạc nhanh SuperVOOC 33W",
+      "Pin và công nghệ sạc": "Pin Lithium Polymer 8.000 mAh, sạc nhanh 33W qua cổng kết nối USB-C"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Tương thích các dòng bút cảm ứng stylus điện dung",
+      "Hỗ trợ bàn phím rời": "Kết nối dễ dàng với bàn phím Bluetooth",
+      "Công nghệ âm thanh": "Hệ thống 4 loa stereo âm thanh vòm sống động tích hợp Dolby Atmos",
+      "Thuộc tính đặc biệt": "Kết nối di động 4G LTE tiện lợi, màn hình 90Hz mượt mà, thân máy kim loại mỏng nhẹ"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Mạng di động 4G LTE đa băng tần, Wi-Fi 5 băng tần kép",
+      "Thẻ SIM": "1 Nano-SIM (Hỗ trợ data 4G tốc độ cao)",
+      "Kết nối không dây & Cổng giao tiếp": "4G LTE di động, 1 Nano-SIM, Wi-Fi băng tần kép, Bluetooth 5.1, cổng Type-C 2.0",
+      "Công nghệ - Tiện ích": "Tính năng chia đôi màn hình thông minh, liên kết đồng bộ không dây thiết bị OPPO"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Độ mỏng 7.1 mm, kích thước 255.4 x 167.0 x 7.1 mm, trọng lượng khoảng 510 g",
+      "Bảo mật và độ bền": "Mở khóa khuôn mặt AI Face Unlock, thân máy hợp kim nhôm nguyên khối bền chắc",
+      "Thời điểm ra mắt": "Năm 2024 / 2025"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "11.0 inch IPS LCD, độ phân giải sắc nét Full HD+ (1920 x 1200 pixels)"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Tần số quét 90Hz mượt mà, độ sáng 400 nits, chứng nhận bảo vệ mắt TÜV Rheinland"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 680 (tiến trình 6nm tiết kiệm pin)"
+    },
+    {
+      "label": "RAM",
+      "value": "6GB / 8GB LPDDR4X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB (Hỗ trợ thẻ nhớ MicroSD tối đa 1TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "8MP tự động lấy nét, khẩu độ f/2.0, quay video 1080p 30fps"
+    },
+    {
+      "label": "Camera trước",
+      "value": "5MP góc rộng phục vụ học tập trực tuyến và gọi thoại video"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Pin Lithium Polymer 8.000 mAh, sạc nhanh 33W qua cổng kết nối USB-C"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Mạng di động 4G LTE đa băng tần, Wi-Fi 5 băng tần kép"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Tương thích các dòng bút cảm ứng stylus điện dung"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Kết nối dễ dàng với bàn phím Bluetooth"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "ColorOS 14 for Pad (Android 14)"
+    }
+  ],
+  "verbatimDescription": [
+    "OPPO Pad SE 4G là sự kết hợp hoàn hảo giữa tính di động cao và mức giá hợp lý trong phân khúc máy tính bảng phổ thông. Nhờ trang bị khe cắm Nano-SIM 4G LTE, máy giúp người dùng duy trì kết nối mạng thông suốt mọi lúc mọi nơi, giải quyết nhanh chóng các công việc phát sinh ngay cả khi đang di chuyển trên đường.",
+    "Màn hình 11 inch Full HD+ với tần số quét 90Hz đem đến cảm giác mượt mà trong từng thao tác chạm lướt và xem phim. Lớp phủ chống lóa cùng chứng nhận bảo vệ mắt TÜV Rheinland giúp hạn chế tình trạng mỏi mắt khi học tập hoặc làm việc trực tuyến trong nhiều giờ liên tục.",
+    "Cấu hình sử dụng chip Snapdragon 680 tiến trình 6nm tiết kiệm điện năng của Qualcomm, kết hợp cùng hệ thống 4 loa stereo chuẩn Dolby Atmos to rõ, mang lại trải nghiệm nghe nhạc và xem video chân thực. Viên pin 8.000 mAh cùng sạc nhanh 33W là điểm tựa năng lượng vững chắc cho cả ngày hoạt động bền bỉ.",
+    "Khả năng kết nối di động 4G LTE tích hợp sẵn giúp OPPO Pad SE 4G duy trì liên lạc, tra cứu tài liệu và tham gia các lớp học trực tuyến ở bất kỳ đâu mà không phụ thuộc vào mạng Wi-Fi cố định.",
+    "Giao diện ColorOS 14 for Pad mang đến thao tác vuốt hai ngón tay từ cạnh trên để chia đôi màn hình cực kỳ tiện lợi, cho phép vừa xem video bài giảng vừa ghi chú văn bản. Hệ thống 4 loa Stereo hỗ trợ Dolby Atmos tạo âm thanh to rõ, hỗ trợ đắc lực cho việc học ngoại ngữ và giải trí gia đình.",
+    "Viên pin lớn 8.000 mAh kết hợp công nghệ sạc nhanh SuperVOOC 33W hiếm có trong tầm giá phổ thông giúp nạp lại năng lượng nhanh chóng, gói gọn trong thân máy kim loại mỏng nhẹ chỉ 7,1mm."
+  ],
+  "variants": [
+    {
+      "sku": "TB-OP004-SE4G-BAC-6GB-128GB-4G",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "6GB",
+      "storage": "6GB/128GB (4G)",
+      "rom": "128GB",
+      "price": 5490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/anh-dai-dien-oppo-pad-se-4g-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/mat-truoc-sau-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/mat-truoc-dat-tren-ban-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/mat-sau-dat-tren-ban-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/can-canh-nut-am-luong-canh-ben-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/canh-ben-trai-phai-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/canh-tren-duoi-loa-cong-sac-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/can-canh-cum-camera-sau-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/cam-tren-tay-man-hinh-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/can-canh-cong-sac-type-c-va-loa-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/can-canh-nut-nguon-va-loa-bac.webp"
+      ]
+    },
+    {
+      "sku": "TB-OP004-SE4G-BAC-8GB-128GB-4G",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "8GB",
+      "storage": "8GB/128GB (4G)",
+      "rom": "128GB",
+      "price": 6190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/anh-dai-dien-oppo-pad-se-4g-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/mat-truoc-sau-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/mat-truoc-dat-tren-ban-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/mat-sau-dat-tren-ban-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/can-canh-nut-am-luong-canh-ben-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/canh-ben-trai-phai-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/canh-tren-duoi-loa-cong-sac-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/can-canh-cum-camera-sau-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/cam-tren-tay-man-hinh-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/can-canh-cong-sac-type-c-va-loa-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-4g/can-canh-nut-nguon-va-loa-bac.webp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,531 @@
+{
+  "id": "ipad-air-m4-13-inch-wifi",
+  "docCode": "TB-AP003-AIRM4-13",
+  "model": "iPad Air 13 inch M4 Wi-Fi",
+  "brand": "Apple",
+  "brandId": "apple",
+  "parentGroupId": "apple",
+  "series": "iPad Air M4",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "13.0 inch",
+      "M4",
+      "Pin 36.59 Wh"
+    ],
+    "description": "Lần đầu tiên trong lịch sử, Apple mang kích thước màn hình cực đại 13 inch lên dòng iPad Air, đem đến một không gian làm việc và sáng tạo rộng lớn chưa từng có ở mức giá vô cùng hợp lý. Với kiểu dáng thanh mảnh chỉ 6.1 mm và bốn tông màu Tím, Vàng ánh sao, Xám và Xanh dương, iPad Air 13 inch M4 là biểu tượng của sự chuyên nghiệp và phóng khoáng.",
+    "releaseDate": "2024 / 2025"
+  },
+  "performance": {
+    "chipset": "Apple M4 (tiến trình 3nm thế hệ mới)",
+    "ram": [
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "1TB",
+      "256GB",
+      "512GB"
+    ],
+    "operatingSystem": "iPadOS 18"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 22490000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-xanh-duong.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-xanh-duong.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-tim.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-vang-anh-sao.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-xam.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-tim.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-vang-anh-sao.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-xam.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-xanh-duong.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/cam-tren-tay-goi-video-ngoai-troi-xanh-duong.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/hieu-nang-chip-m4-va-ipados-xanh-duong.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/phu-kien-trong-hop-xanh-duong.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/su-dung-kem-but-apple-pencil-pro-xanh-duong.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/tinh-nang-apple-intelligence-xanh-duong.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+    ],
+    "byColor": {
+      "Tím": [
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-tim.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-tim.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ],
+      "Vàng Ánh Sao": [
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-vang-anh-sao.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-vang-anh-sao.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ],
+      "Xám": [
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ],
+      "Xanh Dương": [
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/cam-tren-tay-goi-video-ngoai-troi-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/hieu-nang-chip-m4-va-ipados-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/phu-kien-trong-hop-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/su-dung-kem-but-apple-pencil-pro-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/tinh-nang-apple-intelligence-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-tim.webp",
+      "screen": "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-vang-anh-sao.webp",
+      "performance": "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-tim.webp",
+      "camera": "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-vang-anh-sao.webp",
+      "battery": "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/phu-kien-trong-hop-xanh-duong.webp",
+      "feature": "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-xam.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-tim.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-vang-anh-sao.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-xam.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-tim.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-vang-anh-sao.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-xam.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-xanh-duong.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/cam-tren-tay-goi-video-ngoai-troi-xanh-duong.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/hieu-nang-chip-m4-va-ipados-xanh-duong.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "13 inch Liquid Retina, độ phân giải 2732 x 2048 pixels, dải màu DCI-P3, True Tone, độ sáng nâng cao 600 nits",
+      "Tính năng màn hình": "Độ sáng nâng cấp 600 nits, DCI-P3, True Tone, chống chói lóa chuyên nghiệp"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "Apple M4 tiến trình 3nm thế hệ 2, 16-core Neural Engine đạt 38 TOPS",
+      "CPU & Đồ họa": "8 nhân CPU thế hệ mới, GPU 10 nhân hỗ trợ Mesh Shading và Ray Tracing bằng phần cứng",
+      "Hệ điều hành khi ra mắt": "iPadOS 18 hỗ trợ tối ưu không gian màn hình lớn với Stage Manager"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "8GB Unified Memory tốc độ truyền 120 GB/s",
+      "Bộ nhớ trong": "128GB / 256GB / 512GB / 1TB NVMe tốc độ cao"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "12MP Wide, khẩu độ f/1.8, tự động lấy nét Focus Pixels, quay 4K 60fps",
+      "Camera trước": "12MP Ultra Wide đặt ngang, hỗ trợ tính năng Center Stage",
+      "Chi tiết hệ thống Camera": "Camera sau 12MP f/1.8 quay 4K; Camera trước 12MP Ultra Wide nằm ngang với Center Stage"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "36.59 Wh (~9.650 mAh), thời lượng sử dụng lên đến 10 giờ, sạc nhanh 30W",
+      "Pin và công nghệ sạc": "Pin Lithium-Polymer 36.59 Wh dung lượng lớn, sạc nhanh qua cổng USB-C 30W"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Tương thích Apple Pencil Pro và Apple Pencil USB-C",
+      "Hỗ trợ bàn phím rời": "Tương thích Magic Keyboard cho iPad Air 13 inch qua Smart Connector",
+      "Công nghệ âm thanh": "Hệ thống loa kép stereo nằm ngang với dải trầm sâu gấp 2 lần bản 11 inch",
+      "Thuộc tính đặc biệt": "Màn hình cực đại 13 inch, hỗ trợ Apple Pencil Pro, Magic Keyboard 13 inch"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Wi-Fi 6E (802.11ax), 2x2 MIMO băng tần kép",
+      "Thẻ SIM": "Không hỗ trợ (Bản Wi-Fi)",
+      "Kết nối không dây & Cổng giao tiếp": "Wi-Fi 6E băng tần kép, Bluetooth 5.3, cổng USB-C 3.1 Gen 2 (10Gbps)",
+      "Công nghệ - Tiện ích": "Stage Manager mở nhiều cửa sổ cùng lúc, Apple Intelligence, xuất màn hình 6K"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Độ mỏng ấn tượng chỉ 6.1 mm, kích thước 280.6 x 214.9 x 6.1 mm, trọng lượng 617 g",
+      "Bảo mật và độ bền": "Cảm biến Touch ID tích hợp phím nguồn, thân nhôm unibody siêu bền",
+      "Thời điểm ra mắt": "Năm 2024 / 2025"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "13.0 inch Liquid Retina IPS LCD, độ phân giải 2732 x 2048 pixels (264 ppi)"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Độ sáng nâng cấp 600 nits, DCI-P3, True Tone, chống chói lóa chuyên nghiệp"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Apple M4 (tiến trình 3nm thế hệ mới)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB RAM Unified Memory"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB, 256GB, 512GB, 1TB"
+    },
+    {
+      "label": "Camera sau",
+      "value": "12MP Wide, khẩu độ f/1.8, tự động lấy nét Focus Pixels, quay 4K 60fps"
+    },
+    {
+      "label": "Camera trước",
+      "value": "12MP Ultra Wide đặt ngang, hỗ trợ tính năng Center Stage"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Pin Lithium-Polymer 36.59 Wh dung lượng lớn, sạc nhanh qua cổng USB-C 30W"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Wi-Fi 6E (802.11ax), 2x2 MIMO băng tần kép"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Tương thích Apple Pencil Pro và Apple Pencil USB-C"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Tương thích Magic Keyboard cho iPad Air 13 inch qua Smart Connector"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "iPadOS 18"
+    }
+  ],
+  "verbatimDescription": [
+    "Lần đầu tiên trong lịch sử, Apple mang kích thước màn hình cực đại 13 inch lên dòng iPad Air, đem đến một không gian làm việc và sáng tạo rộng lớn chưa từng có ở mức giá vô cùng hợp lý. Với kiểu dáng thanh mảnh chỉ 6.1 mm và bốn tông màu Tím, Vàng ánh sao, Xám và Xanh dương, iPad Air 13 inch M4 là biểu tượng của sự chuyên nghiệp và phóng khoáng.",
+    "Không gian hiển thị của màn hình Liquid Retina 13 inch lớn hơn tới 30% so với phiên bản 11 inch, mở ra diện tích vô cùng thoáng đãng để người dùng mở song song hai ứng dụng tài liệu, ghi chú đồ họa hay biên tập timeline video dài trên các phần mềm chuyên nghiệp như Final Cut Pro và Logic Pro.",
+    "Độ sáng màn hình được tăng cường lên mức 600 nits kết hợp cùng dải màu rộng DCI-P3 và công nghệ True Tone, giúp từng khung hình, bức ảnh chụp và thước phim điện ảnh hiện lên sống động, chuẩn xác về màu sắc đến từng chi tiết nhỏ nhất.",
+    "Ẩn chứa bên trong là nguồn sức mạnh khổng lồ từ chip Apple M4 với 8 nhân CPU và 10 nhân GPU hỗ trợ công nghệ Ray Tracing tân tiến. Khả năng tính toán của Neural Engine 16 nhân đạt tới 38 nghìn tỷ phép tính mỗi giây, sẵn sàng đón đầu các tính năng thông minh của hệ thống Apple Intelligence như tự động tóm tắt văn bản, chỉnh sửa ảnh thông minh và xử lý ngôn ngữ tự nhiên.",
+    "Hệ thống âm thanh trên iPad Air 13 inch được Apple nâng cấp đặc biệt với hai cụm loa stereo nằm ngang cho chất âm trầm (bass) sâu hơn gấp 2 lần bản 11 inch, mang lại trải nghiệm xem phim bom tấn, nghe nhạc chất lượng cao hay gọi thoại trực tuyến cực kỳ chân thực và sống động.",
+    "Camera trước 12MP góc siêu rộng đặt ở cạnh ngang cùng tính năng Center Stage giúp bạn luôn giữ vị trí trung tâm trong các cuộc gọi hội nghị, kết hợp cùng cụm micro thu âm định hướng loại bỏ tạp âm môi trường hiệu quả.",
+    "Sự kết hợp giữa màn hình 13 inch siêu rộng cùng bút cảm ứng Apple Pencil Pro và bàn phím Magic Keyboard biến chiếc iPad Air 13 inch trở thành một cỗ máy thay thế laptop hoàn hảo, đáp ứng trọn vẹn mọi nhu cầu khắt khe của giới sáng tạo nội dung, kiến trúc sư và sinh viên chuyên ngành."
+  ],
+  "variants": [
+    {
+      "sku": "TB-AP003-AIRM4-13-XANH-DUONG-128GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "8GB",
+      "storage": "128GB",
+      "rom": "128GB",
+      "price": 22490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/cam-tren-tay-goi-video-ngoai-troi-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/hieu-nang-chip-m4-va-ipados-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/phu-kien-trong-hop-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/su-dung-kem-but-apple-pencil-pro-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/tinh-nang-apple-intelligence-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP003-AIRM4-13-XANH-DUONG-256GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "8GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 24990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/cam-tren-tay-goi-video-ngoai-troi-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/hieu-nang-chip-m4-va-ipados-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/phu-kien-trong-hop-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/su-dung-kem-but-apple-pencil-pro-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/tinh-nang-apple-intelligence-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP003-AIRM4-13-XANH-DUONG-512GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "8GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 30490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/cam-tren-tay-goi-video-ngoai-troi-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/hieu-nang-chip-m4-va-ipados-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/phu-kien-trong-hop-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/su-dung-kem-but-apple-pencil-pro-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/tinh-nang-apple-intelligence-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP003-AIRM4-13-XANH-DUONG-1TB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "8GB",
+      "storage": "1TB",
+      "rom": "1TB",
+      "price": 35990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/cam-tren-tay-goi-video-ngoai-troi-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/hieu-nang-chip-m4-va-ipados-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/phu-kien-trong-hop-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/su-dung-kem-but-apple-pencil-pro-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/tinh-nang-apple-intelligence-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP003-AIRM4-13-TIM-128GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "8GB",
+      "storage": "128GB",
+      "rom": "128GB",
+      "price": 22490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-tim.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-tim.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP003-AIRM4-13-TIM-256GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "8GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 24990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-tim.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-tim.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP003-AIRM4-13-TIM-512GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "8GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 30490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-tim.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-tim.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP003-AIRM4-13-TIM-1TB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "8GB",
+      "storage": "1TB",
+      "rom": "1TB",
+      "price": 35990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-tim.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-tim.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP003-AIRM4-13-VANG-ANH-SAO-128GB",
+      "color": "Vàng Ánh Sao",
+      "colorHex": "#F0E5D3",
+      "ram": "8GB",
+      "storage": "128GB",
+      "rom": "128GB",
+      "price": 22490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-vang-anh-sao.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-vang-anh-sao.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP003-AIRM4-13-VANG-ANH-SAO-256GB",
+      "color": "Vàng Ánh Sao",
+      "colorHex": "#F0E5D3",
+      "ram": "8GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 24990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-vang-anh-sao.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-vang-anh-sao.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP003-AIRM4-13-VANG-ANH-SAO-512GB",
+      "color": "Vàng Ánh Sao",
+      "colorHex": "#F0E5D3",
+      "ram": "8GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 30490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-vang-anh-sao.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-vang-anh-sao.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP003-AIRM4-13-VANG-ANH-SAO-1TB",
+      "color": "Vàng Ánh Sao",
+      "colorHex": "#F0E5D3",
+      "ram": "8GB",
+      "storage": "1TB",
+      "rom": "1TB",
+      "price": 35990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-vang-anh-sao.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-vang-anh-sao.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP003-AIRM4-13-XAM-128GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "128GB",
+      "rom": "128GB",
+      "price": 22490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP003-AIRM4-13-XAM-256GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 24990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP003-AIRM4-13-XAM-512GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 30490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP003-AIRM4-13-XAM-1TB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "1TB",
+      "rom": "1TB",
+      "price": 35990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/anh-dai-dien-ipad-air-m4-13-inch-wifi-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/goc-nghieng-mat-truoc-sau-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-13-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    }
+  ]
+}

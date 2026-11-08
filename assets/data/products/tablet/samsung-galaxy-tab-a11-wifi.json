@@ -1,0 +1,299 @@
+{
+  "id": "samsung-galaxy-tab-a11-wifi",
+  "docCode": "TB-SS004-A11-WF",
+  "model": "Samsung Galaxy Tab A11 Wi-Fi",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "series": "Galaxy Tab A11 Series",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "8.7 inch",
+      "Helio G99",
+      "Pin 5.100 mAh"
+    ],
+    "description": "Samsung Galaxy Tab A11 Wi-Fi là chiếc máy tính bảng phổ thông cỡ nhỏ đáng sở hữu nhất hiện nay với mức giá cực kỳ dễ tiếp cận. Thiết kế nguyên khối bằng kim loại với trọng lượng siêu nhẹ chỉ 330g giúp bạn dễ dàng cầm một tay đọc tin tức, lướt web hay xem video trên giường mà không mỏi tay.",
+    "releaseDate": "2024 / 2025"
+  },
+  "performance": {
+    "chipset": "MediaTek Helio G99 (6nm)",
+    "ram": [
+      "4GB",
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "64GB"
+    ],
+    "operatingSystem": "Android 14 (One UI 6.1)"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 3490000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/anh-dai-dien-samsung-galaxy-tab-a11-wifi-bac.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/anh-dai-dien-samsung-galaxy-tab-a11-wifi-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/anh-dai-dien-samsung-galaxy-tab-a11-wifi-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/mat-truoc-sau-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/canh-ben-phai-nut-bam-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/canh-ben-trai-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/mat-truoc-nghieng-phai-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/mat-truoc-nghieng-phai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/mat-truoc-nghieng-trai-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/mat-truoc-nghieng-trai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/he-thong-loa-kep-dolby-atmos-xanh-den.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/thiet-ke-mong-8mm-nhe-335g-xam-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/thong-so-chip-mediatek-helio-g99-xanh-la.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/thong-so-pin-5100mah-sac-15w-xanh-la.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/tong-quan-tinh-nang-man-hinh-8-7-inch-90hz-pin-5100mah-xam-xanh.webp"
+    ],
+    "byColor": {
+      "Bạc": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/anh-dai-dien-samsung-galaxy-tab-a11-wifi-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/mat-truoc-sau-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/canh-ben-phai-nut-bam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/canh-ben-trai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/mat-truoc-nghieng-phai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/mat-truoc-nghieng-trai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/he-thong-loa-kep-dolby-atmos-xanh-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/thiet-ke-mong-8mm-nhe-335g-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/thong-so-chip-mediatek-helio-g99-xanh-la.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/thong-so-pin-5100mah-sac-15w-xanh-la.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/tong-quan-tinh-nang-man-hinh-8-7-inch-90hz-pin-5100mah-xam-xanh.webp"
+      ],
+      "Xám": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/anh-dai-dien-samsung-galaxy-tab-a11-wifi-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/mat-truoc-nghieng-phai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/mat-truoc-nghieng-trai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/he-thong-loa-kep-dolby-atmos-xanh-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/thiet-ke-mong-8mm-nhe-335g-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/thong-so-chip-mediatek-helio-g99-xanh-la.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/thong-so-pin-5100mah-sac-15w-xanh-la.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/tong-quan-tinh-nang-man-hinh-8-7-inch-90hz-pin-5100mah-xam-xanh.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/mat-truoc-sau-bac.webp",
+      "screen": "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/mat-truoc-nghieng-phai-bac.webp",
+      "performance": "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/thong-so-chip-mediatek-helio-g99-xanh-la.webp",
+      "camera": "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/anh-dai-dien-samsung-galaxy-tab-a11-wifi-xam.webp",
+      "battery": "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/thong-so-pin-5100mah-sac-15w-xanh-la.webp",
+      "feature": "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/canh-ben-phai-nut-bam-bac.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/anh-dai-dien-samsung-galaxy-tab-a11-wifi-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/mat-truoc-sau-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/canh-ben-phai-nut-bam-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/canh-ben-trai-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/mat-truoc-nghieng-phai-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/mat-truoc-nghieng-phai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/mat-truoc-nghieng-trai-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/mat-truoc-nghieng-trai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/he-thong-loa-kep-dolby-atmos-xanh-den.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/thiet-ke-mong-8mm-nhe-335g-xam-bac.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "8,7 inch WXGA+ LCD (1340 x 800 pixel), tỷ lệ 5:3 gọn gàng vừa lòng bàn tay, tần số quét 90Hz mượt mà, độ sáng 450 nit",
+      "Tính năng màn hình": "Tần số quét 90Hz nâng cấp, chế độ bảo vệ mắt Eye Comfort Shield giúp đọc sách điện tử lâu dài không mỏi mắt"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "MediaTek Helio G99 6nm mát mẻ và tối ưu pin",
+      "CPU & Đồ họa": "Octa-core 2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55, GPU Mali-G57 MC2",
+      "Hệ điều hành khi ra mắt": "Android 14 One UI 6.1 trực quan"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "4GB / 8GB RAM LPDDR4X",
+      "Bộ nhớ trong": "64GB / 128GB, hỗ trợ thẻ nhớ ngoài MicroSD lên tới 1TB"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "8MP tự động lấy nét, khẩu độ f/2.0, quay video 1080p",
+      "Camera trước": "2MP phục vụ gọi video",
+      "Chi tiết hệ thống Camera": "Camera chính sau 8MP AF; Camera trước 2MP f/2.2"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "5.100 mAh, sạc 15W qua cổng USB-C",
+      "Pin và công nghệ sạc": "Pin Lithium-Polymer 5.100 mAh, sạc nhanh 15W qua cổng Type-C"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Tương thích các dòng bút stylus điện dung",
+      "Hỗ trợ bàn phím rời": "Hỗ trợ kết nối bàn phím Bluetooth",
+      "Công nghệ âm thanh": "Loa kép Dual Speakers tích hợp công nghệ âm thanh vòm Dolby Atmos",
+      "Thuộc tính đặc biệt": "Thiết kế mini 8.7 inch cầm vừa lòng bàn tay, màn hình 90Hz, loa kép Dolby Atmos"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Wi-Fi 5 (802.11 a/b/g/n/ac) băng tần kép",
+      "Thẻ SIM": "Không hỗ trợ (Bản thuần Wi-Fi)",
+      "Kết nối không dây & Cổng giao tiếp": "Wi-Fi băng tần kép 2.4/5GHz, Bluetooth 5.3, GPS, cổng USB-C 2.0, jack 3.5mm",
+      "Công nghệ - Tiện ích": "Tính năng Samsung Kids, chế độ đa nhiệm chia đôi màn hình tiện lợi"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Độ mỏng 8.0 mm, trọng lượng siêu nhẹ 330 g",
+      "Bảo mật và độ bền": "Mở khóa khuôn mặt Face Unlock, thân kim loại nguyên khối",
+      "Thời điểm ra mắt": "Năm 2024 / 2025"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "8.7 inch TFT LCD, độ phân giải 1340 x 800 pixels"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Tần số quét 90Hz mượt mà, độ sáng 450 nits, kích thước bỏ túi nhỏ gọn"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Helio G99 (6nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "4GB / 8GB"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "64GB / 128GB (Hỗ trợ thẻ nhớ MicroSD tối đa 1TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "8MP tự động lấy nét, khẩu độ f/2.0, quay video 1080p"
+    },
+    {
+      "label": "Camera trước",
+      "value": "2MP phục vụ gọi video"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Pin Lithium-Polymer 5.100 mAh, sạc nhanh 15W qua cổng Type-C"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Wi-Fi 5 (802.11 a/b/g/n/ac) băng tần kép"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Tương thích các dòng bút stylus điện dung"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Hỗ trợ kết nối bàn phím Bluetooth"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 14 (One UI 6.1)"
+    }
+  ],
+  "verbatimDescription": [
+    "Samsung Galaxy Tab A11 Wi-Fi là chiếc máy tính bảng phổ thông cỡ nhỏ đáng sở hữu nhất hiện nay với mức giá cực kỳ dễ tiếp cận. Thiết kế nguyên khối bằng kim loại với trọng lượng siêu nhẹ chỉ 330g giúp bạn dễ dàng cầm một tay đọc tin tức, lướt web hay xem video trên giường mà không mỏi tay.",
+    "Màn hình 8.7 inch được nâng cấp tần số quét lên 90Hz giúp trải nghiệm vuốt chạm và hiệu ứng chuyển cảnh mượt mà rõ nét. Điểm cộng lớn của máy là hệ thống loa kép stereo Dolby Atmos mang lại âm thanh to rõ, thỏa mãn nhu cầu giải trí và học tập của các bạn học sinh nhỏ tuổi.",
+    "Sở hữu vi xử lý Helio G99 bền bỉ cùng viên pin 5.100 mAh, chiếc tablet mang lại thời lượng sử dụng dài lâu suốt cả ngày, đi kèm chế độ Samsung Kids kiểm duyệt an toàn, là món quà công nghệ ý nghĩa dành tặng cho các con.",
+    "Nhờ kích thước nhỏ gọn 8,7 inch và trọng lượng siêu nhẹ chỉ 330 gram, người dùng có thể dễ dàng bỏ Samsung Galaxy Tab A11 Wi-Fi vào túi xách nhỏ hoặc cầm bằng một tay để đọc sách eBook, xem công thức nấu ăn hay chơi game giải trí trên ghế sofa.",
+    "Hệ thống loa kép Stereo hỗ trợ Dolby Atmos kết hợp giắc cắm tai nghe 3.5mm và ứng dụng Samsung Kids giúp phụ huynh yên tâm giao máy cho con trẻ học tập ngoại ngữ và khám phá các trò chơi giáo dục an toàn.",
+    "Giao diện One UI mượt mà trên nền Android 14 cùng khả năng mở rộng bộ nhớ qua thẻ microSD lên đến 1TB đảm bảo không gian lưu trữ dồi dào cho phim ảnh và tài liệu."
+  ],
+  "variants": [
+    {
+      "sku": "TB-SS004-A11-WF-BAC-4GB-64GB-WI-FI",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "4GB",
+      "storage": "4GB/64GB (Wi-Fi)",
+      "rom": "64GB",
+      "price": 3490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/anh-dai-dien-samsung-galaxy-tab-a11-wifi-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/mat-truoc-sau-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/canh-ben-phai-nut-bam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/canh-ben-trai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/mat-truoc-nghieng-phai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/mat-truoc-nghieng-trai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/he-thong-loa-kep-dolby-atmos-xanh-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/thiet-ke-mong-8mm-nhe-335g-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/thong-so-chip-mediatek-helio-g99-xanh-la.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/thong-so-pin-5100mah-sac-15w-xanh-la.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/tong-quan-tinh-nang-man-hinh-8-7-inch-90hz-pin-5100mah-xam-xanh.webp"
+      ]
+    },
+    {
+      "sku": "TB-SS004-A11-WF-BAC-8GB-128GB-WI-FI",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "8GB",
+      "storage": "8GB/128GB (Wi-Fi)",
+      "rom": "128GB",
+      "price": 4190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/anh-dai-dien-samsung-galaxy-tab-a11-wifi-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/mat-truoc-sau-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/canh-ben-phai-nut-bam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/canh-ben-trai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/mat-truoc-nghieng-phai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/mat-truoc-nghieng-trai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/he-thong-loa-kep-dolby-atmos-xanh-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/thiet-ke-mong-8mm-nhe-335g-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/thong-so-chip-mediatek-helio-g99-xanh-la.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/thong-so-pin-5100mah-sac-15w-xanh-la.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/tong-quan-tinh-nang-man-hinh-8-7-inch-90hz-pin-5100mah-xam-xanh.webp"
+      ]
+    },
+    {
+      "sku": "TB-SS004-A11-WF-XAM-4GB-64GB-WI-FI",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "4GB",
+      "storage": "4GB/64GB (Wi-Fi)",
+      "rom": "64GB",
+      "price": 3490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/anh-dai-dien-samsung-galaxy-tab-a11-wifi-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/mat-truoc-nghieng-phai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/mat-truoc-nghieng-trai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/he-thong-loa-kep-dolby-atmos-xanh-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/thiet-ke-mong-8mm-nhe-335g-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/thong-so-chip-mediatek-helio-g99-xanh-la.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/thong-so-pin-5100mah-sac-15w-xanh-la.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/tong-quan-tinh-nang-man-hinh-8-7-inch-90hz-pin-5100mah-xam-xanh.webp"
+      ]
+    },
+    {
+      "sku": "TB-SS004-A11-WF-XAM-8GB-128GB-WI-FI",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "8GB/128GB (Wi-Fi)",
+      "rom": "128GB",
+      "price": 4190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/anh-dai-dien-samsung-galaxy-tab-a11-wifi-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/mat-truoc-nghieng-phai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/mat-truoc-nghieng-trai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/he-thong-loa-kep-dolby-atmos-xanh-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/thiet-ke-mong-8mm-nhe-335g-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/thong-so-chip-mediatek-helio-g99-xanh-la.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/thong-so-pin-5100mah-sac-15w-xanh-la.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-wifi/tong-quan-tinh-nang-man-hinh-8-7-inch-90hz-pin-5100mah-xam-xanh.webp"
+      ]
+    }
+  ]
+}

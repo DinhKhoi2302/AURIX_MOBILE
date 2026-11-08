@@ -1,0 +1,656 @@
+{
+  "id": "galaxy-a17-5g",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "model": "Samsung Galaxy A17 5G",
+  "series": "Galaxy A Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "entry-level"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Giảm giá",
+      "type": "sale"
+    }
+  ],
+  "overview": {
+    "releaseDate": "Năm 2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Samsung Galaxy A17 5G là mẫu smartphone 5G phổ thông nổi bật của Samsung khi được trang bị camera chính 50MP có chống rung quang học OIS, màn hình Super AMOLED 6,7 inch Full HD+ 90Hz bảo vệ bởi kính Gorilla Glass Victus, vi xử lý Exynos 1330 (5nm) cùng viên pin 5.000 mAh sạc nhanh 25W trong thân máy mỏng 7,5 mm.",
+    "highlights": [
+      "6,7 inch Super AMOLED 90Hz",
+      "Exynos 1330 (5nm) · 5G",
+      "Camera 50MP OIS + 5MP + 2MP",
+      "Pin 5.000 mAh · Sạc 25W · IP54"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 4990000,
+    "originalPrice": 8790000,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT004-SSA175G-DEN-6GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 4990000,
+      "originalPrice": 8790000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a17-5g/anh-dai-dien-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-mat-truoc-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/canh-phai-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/canh-trai-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/he-thong-camera-50mp-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/dung-luong-pin-5000mah-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/Galaxy-A17-5G.jpg",
+        "assets/images/products/samsung/galaxy-a17-5g/thong-so-man-hinh-90hz-gorilla-glass-7-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/thong-so-noi-bat-samsung-galaxy-a17-5g-xam-xanh-duong-den.webp"
+      ]
+    },
+    {
+      "sku": "DT004-SSA175G-DEN-8GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 5490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a17-5g/anh-dai-dien-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-mat-truoc-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/canh-phai-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/canh-trai-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/he-thong-camera-50mp-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/dung-luong-pin-5000mah-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/Galaxy-A17-5G.jpg",
+        "assets/images/products/samsung/galaxy-a17-5g/thong-so-man-hinh-90hz-gorilla-glass-7-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/thong-so-noi-bat-samsung-galaxy-a17-5g-xam-xanh-duong-den.webp"
+      ]
+    },
+    {
+      "sku": "DT004-SSA175G-DEN-8GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 6190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a17-5g/anh-dai-dien-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-mat-truoc-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/canh-phai-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/canh-trai-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/he-thong-camera-50mp-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/dung-luong-pin-5000mah-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/Galaxy-A17-5G.jpg",
+        "assets/images/products/samsung/galaxy-a17-5g/thong-so-man-hinh-90hz-gorilla-glass-7-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/thong-so-noi-bat-samsung-galaxy-a17-5g-xam-xanh-duong-den.webp"
+      ]
+    },
+    {
+      "sku": "DT004-SSA175G-XANH-DUONG-6GB-128GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 4990000,
+      "originalPrice": 8790000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a17-5g/anh-dai-dien-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-mat-truoc-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/canh-phai-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/canh-trai-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/hieu-nang-exynos-1330-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/Galaxy-A17-5G.jpg",
+        "assets/images/products/samsung/galaxy-a17-5g/thong-so-man-hinh-90hz-gorilla-glass-7-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/thong-so-noi-bat-samsung-galaxy-a17-5g-xam-xanh-duong-den.webp"
+      ]
+    },
+    {
+      "sku": "DT004-SSA175G-XANH-DUONG-8GB-128GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 5490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a17-5g/anh-dai-dien-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-mat-truoc-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/canh-phai-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/canh-trai-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/hieu-nang-exynos-1330-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/Galaxy-A17-5G.jpg",
+        "assets/images/products/samsung/galaxy-a17-5g/thong-so-man-hinh-90hz-gorilla-glass-7-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/thong-so-noi-bat-samsung-galaxy-a17-5g-xam-xanh-duong-den.webp"
+      ]
+    },
+    {
+      "sku": "DT004-SSA175G-XANH-DUONG-8GB-256GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 6190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a17-5g/anh-dai-dien-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-mat-truoc-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/canh-phai-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/canh-trai-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/hieu-nang-exynos-1330-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/Galaxy-A17-5G.jpg",
+        "assets/images/products/samsung/galaxy-a17-5g/thong-so-man-hinh-90hz-gorilla-glass-7-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/thong-so-noi-bat-samsung-galaxy-a17-5g-xam-xanh-duong-den.webp"
+      ]
+    },
+    {
+      "sku": "DT004-SSA175G-XAM-6GB-128GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 4990000,
+      "originalPrice": 8790000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a17-5g/anh-dai-dien-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-mat-truoc-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/canh-phai-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/canh-trai-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/Galaxy-A17-5G.jpg",
+        "assets/images/products/samsung/galaxy-a17-5g/thong-so-man-hinh-90hz-gorilla-glass-7-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/thong-so-noi-bat-samsung-galaxy-a17-5g-xam-xanh-duong-den.webp"
+      ]
+    },
+    {
+      "sku": "DT004-SSA175G-XAM-8GB-128GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 5490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a17-5g/anh-dai-dien-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-mat-truoc-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/canh-phai-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/canh-trai-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/Galaxy-A17-5G.jpg",
+        "assets/images/products/samsung/galaxy-a17-5g/thong-so-man-hinh-90hz-gorilla-glass-7-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/thong-so-noi-bat-samsung-galaxy-a17-5g-xam-xanh-duong-den.webp"
+      ]
+    },
+    {
+      "sku": "DT004-SSA175G-XAM-8GB-256GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 6190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a17-5g/anh-dai-dien-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-mat-truoc-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/canh-phai-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/canh-trai-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/Galaxy-A17-5G.jpg",
+        "assets/images/products/samsung/galaxy-a17-5g/thong-so-man-hinh-90hz-gorilla-glass-7-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/thong-so-noi-bat-samsung-galaxy-a17-5g-xam-xanh-duong-den.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "Super AMOLED",
+    "size": "6,7 inch",
+    "resolution": "Full HD+ (1080 x 2340 pixel)",
+    "refreshRate": "90Hz",
+    "brightness": "800 nit (HBM)",
+    "hdr": null,
+    "protection": "Corning Gorilla Glass Victus",
+    "features": [
+      "Tần số quét 90Hz",
+      "Bảo vệ mắt Eye Comfort Shield"
+    ]
+  },
+  "performance": {
+    "chipset": "Samsung Exynos 1330 (5nm)",
+    "cpu": "8 nhân (2x 2,4 GHz Cortex-A78 + 6x 2,0 GHz Cortex-A55)",
+    "gpu": "Mali-G68 MP2",
+    "ram": [
+      "6GB",
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "operatingSystem": "Android 15, One UI 7 (Nâng cấp One UI 8.5)",
+    "uiVersion": "One UI",
+    "expandableStorage": "Hỗ trợ thẻ nhớ microSDXC"
+  },
+  "rearCamera": {
+    "main": "50MP Wide f/1.8 (1/2.76\", AF, OIS)",
+    "ultraWide": "5MP Ultra Wide f/2.2",
+    "telephoto": "2MP Macro f/2.4",
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "1080p@30fps",
+      "gyro-EIS"
+    ],
+    "aiFeatures": [
+      "Chống rung quang học OIS",
+      "Chân dung xóa phông"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "13MP Wide f/2.0",
+    "features": [
+      "Làm đẹp AI"
+    ],
+    "videoRecording": [
+      "1080p@30fps"
+    ]
+  },
+  "battery": {
+    "capacity": "5.000 mAh",
+    "wiredCharging": "Sạc nhanh 25W USB-C",
+    "wirelessCharging": null,
+    "reverseCharging": null,
+    "chargingTechnology": "Super Fast Charging 25W"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM / Nano-SIM + eSIM"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép",
+    "bluetooth": "Bluetooth 5.3 (A2DP, LE)",
+    "gps": [
+      "GPS",
+      "GALILEO",
+      "GLONASS",
+      "BDS",
+      "QZSS"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "164,4 x 77,9 x 7,5 mm",
+    "weight": "192 g",
+    "materials": [
+      "Mặt trước kính Corning Gorilla Glass Victus",
+      "Mặt lưng nhựa gia cố sợi thủy tinh"
+    ],
+    "waterResistance": "IP54 (kháng bụi & kháng tia nước bắn)",
+    "availableColors": [
+      "Đen",
+      "Xanh"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa đơn / Stereo tiêu chuẩn",
+    "headphoneJack": null,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "6,7 inch Super AMOLED 90Hz",
+    "Exynos 1330 (5nm) · 5G",
+    "Camera 50MP OIS + 5MP + 2MP",
+    "Pin 5.000 mAh · Sạc 25W · IP54"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Samsung tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/samsung/galaxy-a17-5g/anh-dai-dien-samsung-galaxy-a17-5g-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/samsung/galaxy-a17-5g/anh-dai-dien-samsung-galaxy-a17-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/anh-dai-dien-samsung-galaxy-a17-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/anh-dai-dien-samsung-galaxy-a17-5g-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/man-hinh-mat-truoc-samsung-galaxy-a17-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/man-hinh-mat-truoc-samsung-galaxy-a17-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/man-hinh-mat-truoc-samsung-galaxy-a17-5g-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a17-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a17-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a17-5g-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a17-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a17-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a17-5g-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/mat-lung-samsung-galaxy-a17-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/mat-lung-samsung-galaxy-a17-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/mat-lung-samsung-galaxy-a17-5g-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/canh-phai-samsung-galaxy-a17-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/canh-phai-samsung-galaxy-a17-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/canh-phai-samsung-galaxy-a17-5g-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/canh-trai-samsung-galaxy-a17-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/canh-trai-samsung-galaxy-a17-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/canh-trai-samsung-galaxy-a17-5g-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a17-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a17-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a17-5g-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a17-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a17-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a17-5g-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/he-thong-camera-50mp-samsung-galaxy-a17-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/Galaxy-A17-5G.jpg",
+      "assets/images/products/samsung/galaxy-a17-5g/dung-luong-pin-5000mah-samsung-galaxy-a17-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/hieu-nang-exynos-1330-samsung-galaxy-a17-5g-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/thong-so-man-hinh-90hz-gorilla-glass-7-samsung-galaxy-a17-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/thong-so-noi-bat-samsung-galaxy-a17-5g-xam-xanh-duong-den.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/samsung/galaxy-a17-5g/anh-dai-dien-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-mat-truoc-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/canh-phai-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/canh-trai-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/he-thong-camera-50mp-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/dung-luong-pin-5000mah-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/Galaxy-A17-5G.jpg",
+        "assets/images/products/samsung/galaxy-a17-5g/thong-so-man-hinh-90hz-gorilla-glass-7-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/thong-so-noi-bat-samsung-galaxy-a17-5g-xam-xanh-duong-den.webp"
+      ],
+      "Xám": [
+        "assets/images/products/samsung/galaxy-a17-5g/anh-dai-dien-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-mat-truoc-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/canh-phai-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/canh-trai-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a17-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/Galaxy-A17-5G.jpg",
+        "assets/images/products/samsung/galaxy-a17-5g/thong-so-man-hinh-90hz-gorilla-glass-7-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/thong-so-noi-bat-samsung-galaxy-a17-5g-xam-xanh-duong-den.webp"
+      ],
+      "Xanh Dương": [
+        "assets/images/products/samsung/galaxy-a17-5g/anh-dai-dien-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-mat-truoc-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/mat-lung-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/canh-phai-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/canh-trai-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/hieu-nang-exynos-1330-samsung-galaxy-a17-5g-xanh-duong.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/Galaxy-A17-5G.jpg",
+        "assets/images/products/samsung/galaxy-a17-5g/thong-so-man-hinh-90hz-gorilla-glass-7-samsung-galaxy-a17-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a17-5g/thong-so-noi-bat-samsung-galaxy-a17-5g-xam-xanh-duong-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a17-5g-den.webp",
+      "screen": "assets/images/products/samsung/galaxy-a17-5g/man-hinh-mat-truoc-samsung-galaxy-a17-5g-den.webp",
+      "performance": "assets/images/products/samsung/galaxy-a17-5g/hieu-nang-exynos-1330-samsung-galaxy-a17-5g-xanh-duong.webp",
+      "camera": "assets/images/products/samsung/galaxy-a17-5g/he-thong-camera-50mp-samsung-galaxy-a17-5g-den.webp",
+      "battery": "assets/images/products/samsung/galaxy-a17-5g/dung-luong-pin-5000mah-samsung-galaxy-a17-5g-den.webp",
+      "feature": "assets/images/products/samsung/galaxy-a17-5g/anh-dai-dien-samsung-galaxy-a17-5g-xam.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/samsung/galaxy-a17-5g/anh-dai-dien-samsung-galaxy-a17-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/anh-dai-dien-samsung-galaxy-a17-5g-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/man-hinh-mat-truoc-samsung-galaxy-a17-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/man-hinh-mat-truoc-samsung-galaxy-a17-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/man-hinh-mat-truoc-samsung-galaxy-a17-5g-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a17-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a17-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a17-5g-xanh-duong.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a17-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a17-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a17-5g-xam.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s26-series",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s25-series",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-z",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-a",
+      "https://www.samsung.com/vn/smartphones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "partial_retail_listing",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT004-SSA175G",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "Super AMOLED",
+      "Kích thước màn hình": "6,7 inch (tỷ lệ hiển thị ~86,0% mặt trước)",
+      "Độ phân giải màn hình": "Full HD+ (1080 x 2340 pixel, ~385 ppi)",
+      "Tần số quét": "90Hz",
+      "Kiểu màn hình": "Màn hình phẳng bảo vệ bởi kính cường lực Corning Gorilla Glass Victus",
+      "Tính năng màn hình": "Độ sáng cao 800 nit (HBM), bảo vệ mắt Eye Comfort Shield"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera: Chính 50MP (f/1.8, lấy nét tự động AF, chống rung quang học OIS) + Góc siêu rộng 5MP (f/2.2) + Macro 2MP (f/2.4)",
+      "Quay video": "Full HD 1080p@30fps, chống rung quang học OIS kết hợp điện tử gyro-EIS",
+      "Tính năng camera": "Chống rung quang học OIS chụp thiếu sáng, Chân dung xóa phông, HDR, Panorama"
+    },
+    "Camera trước": {
+      "Camera trước": "13MP (f/2.0); hỗ trợ quay video Full HD 1080p@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Samsung Exynos 1330 (tiến trình 5nm)",
+      "Loại CPU": "8 nhân (2 nhân Cortex-A78 2,4 GHz + 6 nhân Cortex-A55 2,0 GHz)",
+      "GPU": "Mali-G68 MP2"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "6GB / 8GB",
+      "Bộ nhớ trong": "128GB / 256GB (hỗ trợ thẻ nhớ microSDXC)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.000 mAh (Li-Ion)",
+      "Công nghệ sạc": "Sạc nhanh có dây 25W qua cổng USB-C",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 15, One UI 7 (hỗ trợ cập nhật 6 thế hệ Android, đã có One UI 8.5)",
+      "Công nghệ - Tiện ích": "Bảo mật phần cứng Samsung Knox Vault, Quick Share, Thư mục bảo mật",
+      "Tiện ích khác": "Hỗ trợ thẻ nhớ microSDXC, cảm biến vân tay tích hợp nút nguồn cạnh bên",
+      "Thời điểm ra mắt": "Tháng 08/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G SA/NSA/Sub6 đa băng tần, 4G LTE",
+      "Thẻ SIM": "SIM kép (2 Nano-SIM hoặc Nano-SIM + eSIM / microSDXC)",
+      "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép, Wi-Fi Direct",
+      "Bluetooth": "Bluetooth 5.3 (A2DP, LE)",
+      "Công nghệ NFC": "Có hỗ trợ NFC",
+      "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền phẳng tích hợp cụm phím nổi Key Island",
+      "Chất liệu mặt lưng": "Mặt trước kính Corning Gorilla Glass Victus, mặt lưng полиme gia cố sợi thủy tinh",
+      "Kích thước": "164,4 x 77,9 x 7,5 mm",
+      "Trọng lượng": "192 gram",
+      "Chỉ số kháng nước, bụi": "IP54 (kháng bụi và kháng tia nước bắn)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài tích hợp, hỗ trợ Dolby Atmos qua tai nghe",
+      "Cảm biến vân tay": "Cảm biến vân tay tích hợp nút nguồn cạnh bên",
+      "Các loại cảm biến": "Vân tay cạnh bên, Gia tốc kế, Con quay hồi chuyển, Cảm biến tiệm cận ảo, La bàn số"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,7 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "Super AMOLED"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "Full HD+ (1080 x 2340 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "90Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Samsung Exynos 1330 (5nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "6GB / 8GB"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB (hỗ trợ microSDXC)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính OIS + 5MP Ultra Wide + 2MP Macro"
+    },
+    {
+      "label": "Camera trước",
+      "value": "13MP, khẩu độ f/2.0"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh có dây 25W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 15, One UI 7 (hỗ trợ One UI 8.5)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP54 (kháng bụi & tia nước)"
+    }
+  ],
+  "verbatimDescription": [
+    "Samsung Galaxy A17 5G mang kết nối 5G tốc độ cao và công nghệ chống rung quang học OIS xuống phân khúc 5 triệu đồng. Máy được tinh chỉnh mỏng hơn thế hệ trước với độ dày chỉ 7,5 mm và trọng lượng 192 gram, kết hợp mặt kính cường lực cao cấp Corning Gorilla Glass Victus ở phía trước.",
+    "Màn hình Super AMOLED kích thước lớn 6,7 inch đạt độ phân giải Full HD+ (1080 x 2340 pixel), tần số quét 90Hz và độ sáng 800 nit (HBM), mang lại không gian hiển thị rộng rãi, màu sắc sống động và độ tương phản cao khi xem phim hay đọc tin tức.",
+    "Về hiệu năng, Galaxy A17 5G sử dụng vi xử lý 8 nhân Samsung Exynos 1330 sản xuất trên tiến trình 5nm (2 nhân Cortex-A78 2,4 GHz + 6 nhân Cortex-A55 2,0 GHz), đi kèm tùy chọn RAM 6GB hoặc 8GB và bộ nhớ trong 128GB / 256GB (hỗ trợ mở rộng qua thẻ nhớ microSDXC).",
+    "Điểm nâng cấp đắt giá nhất trên Galaxy A17 5G là cụm 3 camera sau với cảm biến chính 50MP (f/1.8) nay đã được tích hợp chống rung quang học OIS, giúp giảm thiểu hiện tượng rung nhòe khi chụp đêm và quay video 1080p@30fps. Đi kèm là ống kính góc siêu rộng 5MP, camera Macro 2MP và camera selfie 13MP ở mặt trước.",
+    "Viên pin 5.000 mAh kết hợp sạc nhanh có dây 25W đáp ứng trọn vẹn nhu cầu làm việc, học tập và giải trí suốt cả ngày dài.",
+    "Với cam kết hỗ trợ tới 6 bản cập nhật hệ điều hành Android, bảo mật phần cứng Samsung Knox Vault, chuẩn kháng bụi/nước IP54, hỗ trợ eSIM và NFC, Galaxy A17 5G là lựa chọn bền bỉ và toàn diện trong phân khúc phổ thông 5G."
+  ],
+  "priceSegment": "entry-level"
+}

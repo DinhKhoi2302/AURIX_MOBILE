@@ -1,0 +1,237 @@
+{
+  "id": "iphone-15-plus",
+  "brand": "Apple",
+  "brandId": "apple",
+  "parentGroupId": "apple",
+  "model": "iPhone 15 Plus",
+  "series": "iPhone 15 Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "upper-midrange",
+    "5g-ready"
+  ],
+  "status": "needs_verification",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2023",
+    "segment": "Cận cao cấp",
+    "description": "iPhone 15 Plus thuộc dòng iPhone 15 Series của thương hiệu Apple. Trang bị màn hình Super Retina XDR OLED 6.7 inch (2796 x 1290 pixels), vi xử lý Apple A16 Bionic (4nm), camera chính 48MP Chính OIS cùng thiết kế hiện đại, tối ưu trải nghiệm tại hệ thống AURIX MOBILE.",
+    "highlights": [
+      "Apple A16 Bionic (4nm)",
+      "Super Retina XDR OLED 6.7 inch",
+      "Camera 48MP",
+      "Pin 4383 mAh"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": null,
+    "originalPrice": null,
+    "promotionPrice": null,
+    "priceUpdatedAt": "2026-11-01",
+    "priceVerified": false
+  },
+  "variants": [
+    {
+      "sku": "AUR-APP-IPHONE-15-PLUS-6GB-128GB-01",
+      "color": "Xanh Lá",
+      "colorHex": "#A7F3D0",
+      "ram": "6GB",
+      "storage": "128GB",
+      "price": null,
+      "originalPrice": null,
+      "stockStatus": "needs_verification",
+      "images": [
+        "assets/images/placeholders/placeholder-default.svg"
+      ]
+    },
+    {
+      "sku": "AUR-APP-IPHONE-15-PLUS-6GB-256GB-02",
+      "color": "Hồng",
+      "colorHex": "#F9A8D4",
+      "ram": "6GB",
+      "storage": "256GB",
+      "price": null,
+      "originalPrice": null,
+      "stockStatus": "needs_verification",
+      "images": [
+        "assets/images/placeholders/placeholder-default.svg"
+      ]
+    },
+    {
+      "sku": "AUR-APP-IPHONE-15-PLUS-6GB-512GB-03",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "6GB",
+      "storage": "512GB",
+      "price": null,
+      "originalPrice": null,
+      "stockStatus": "needs_verification",
+      "images": [
+        "assets/images/placeholders/placeholder-default.svg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "Super Retina XDR OLED",
+    "size": "6.7 inch",
+    "resolution": "2796 x 1290 pixels",
+    "refreshRate": "60Hz",
+    "brightness": "2000 nits",
+    "hdr": null,
+    "protection": "Kính pha màu nhám",
+    "features": [
+      "Tần số quét thích ứng",
+      "Bảo vệ mắt"
+    ]
+  },
+  "performance": {
+    "chipset": "Apple A16 Bionic (4nm)",
+    "cpu": "6 nhân",
+    "gpu": "Apple GPU 5 nhân",
+    "ram": [
+      "6GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB",
+      "512GB"
+    ],
+    "operatingSystem": "iOS 17 (Nâng cấp iOS 18+)",
+    "uiVersion": "iOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "48MP Chính OIS",
+    "ultraWide": "12MP Góc siêu rộng",
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "4K 60fps Dolby Vision"
+    ],
+    "aiFeatures": [
+      "Dynamic Island",
+      "Zoom quang 2x"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "12MP TrueDepth",
+    "features": [
+      "Smart HDR 5"
+    ],
+    "videoRecording": [
+      "4K / 1080p"
+    ]
+  },
+  "battery": {
+    "capacity": "4383 mAh",
+    "wiredCharging": "27W",
+    "wirelessCharging": "15W",
+    "reverseCharging": null,
+    "chargingTechnology": "USB Power Delivery / Fast Charge"
+  },
+  "connectivity": {
+    "sim": [
+      "Nano-SIM + eSIM"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 6",
+    "bluetooth": "v5.3",
+    "gps": [
+      "GPS",
+      "GLONASS",
+      "Galileo",
+      "BDS"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "160.9 x 77.8 x 7.8 mm",
+    "weight": "201 g",
+    "materials": [
+      "Nhôm",
+      "Kính pha màu nhám"
+    ],
+    "waterResistance": "IP68",
+    "availableColors": [
+      "Xanh Lá",
+      "Hồng",
+      "Đen"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo",
+    "headphoneJack": null,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Face ID 3D"
+  ],
+  "specialFeatures": [
+    "Apple A16 Bionic (4nm)",
+    "Super Retina XDR OLED 6.7 inch",
+    "Camera 48MP",
+    "Pin 4383 mAh"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Apple tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/placeholders/placeholder-default.svg",
+    "hasAvatarNamed": false,
+    "gallery": [
+      "assets/images/placeholders/placeholder-default.svg"
+    ],
+    "byColor": {},
+    "bySection": {
+      "performance": "assets/images/placeholders/placeholder-default.svg"
+    }
+  },
+  "metadata": {
+    "sources": [
+      "https://www.apple.com/vn/iphone/",
+      "https://www.thegioididong.com/dtdd-apple-iphone",
+      "https://www.apple.com/vn/iphone/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "verified",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "verbatimDescription": []
+}

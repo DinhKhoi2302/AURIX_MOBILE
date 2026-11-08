@@ -1,0 +1,727 @@
+{
+  "id": "realme-c100-4g",
+  "brand": "realme",
+  "brandId": "realme",
+  "parentGroupId": "realme",
+  "model": "realme C100 4G",
+  "series": "realme C & Note Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "entry-level"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025 – 2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "realme C100 4G là 'chiến binh siêu pin và siêu bền' trong phân khúc phổ thông khi sở hữu viên pin khổng lồ 8.000 mAh sạc nhanh 45W, màn hình 6,8 inch 120Hz độ sáng 1.200 nit và chuẩn kháng nước bụi cao nhất IP66/IP68/IP69/IP69K cùng cấu trúc chống sốc ArmorShell.",
+    "highlights": [
+      "Siêu pin 8.000 mAh đi kèm sạc nhanh 45W và sạc ngược có dây trong thân máy dày chỉ 8,63mm",
+      "Độ bền chuẩn nồi đồng cối đá với ArmorShell và kháng nước bụi IP66/IP68/IP69/IP69K",
+      "Màn hình 6,8 inch 120Hz độ sáng đỉnh 1.200 nit, chip Helio G92 Max và camera 50MP AI"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 4490000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT006-RMC1004G-NAU-DEN-6GB-128GB",
+      "color": "Nâu Đen",
+      "colorHex": "#451A03",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 4490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-c100-4g/anh-dai-dien-realme-c100-4g-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/mat-truoc-dat-tren-ban-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-tren-tay-mat-sau-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/mat-sau-dat-tren-ban-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-canh-duoi-cong-sac-tai-nghe-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-khay-sim-canh-trai-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/canh-ben-trai-phai-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/canh-tren-duoi-loa-cong-sac-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-cum-camera-sau-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-hai-tay-chup-anh-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-tren-tay-man-hinh-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-nut-nguon-va-am-luong-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/tinh-nang-khang-nuoc-ip69-pro-chong-soc-quan-doi-den-xam.webp",
+        "assets/images/products/realme/realme-c100-4g/tinh-nang-tro-ly-ai-google-gemini-trang-den.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-camera-50mp-ai-chup-duoi-nuoc-trang-nau.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-chip-helio-g92-max-tan-nhiet-den-xanh.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-man-hinh-120hz-1200nits-cam-ung-tay-uot-vang-den.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-pin-8000mah-sac-45w-tim-den.webp",
+        "assets/images/products/realme/realme-c100-4g/tong-quan-tinh-nang-man-hinh-6-8-inch-pin-8000mah-ip69-pro-tim-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT006-RMC1004G-NAU-DEN-8GB-128GB",
+      "color": "Nâu Đen",
+      "colorHex": "#451A03",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 4990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-c100-4g/anh-dai-dien-realme-c100-4g-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/mat-truoc-dat-tren-ban-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-tren-tay-mat-sau-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/mat-sau-dat-tren-ban-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-canh-duoi-cong-sac-tai-nghe-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-khay-sim-canh-trai-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/canh-ben-trai-phai-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/canh-tren-duoi-loa-cong-sac-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-cum-camera-sau-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-hai-tay-chup-anh-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-tren-tay-man-hinh-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-nut-nguon-va-am-luong-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/tinh-nang-khang-nuoc-ip69-pro-chong-soc-quan-doi-den-xam.webp",
+        "assets/images/products/realme/realme-c100-4g/tinh-nang-tro-ly-ai-google-gemini-trang-den.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-camera-50mp-ai-chup-duoi-nuoc-trang-nau.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-chip-helio-g92-max-tan-nhiet-den-xanh.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-man-hinh-120hz-1200nits-cam-ung-tay-uot-vang-den.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-pin-8000mah-sac-45w-tim-den.webp",
+        "assets/images/products/realme/realme-c100-4g/tong-quan-tinh-nang-man-hinh-6-8-inch-pin-8000mah-ip69-pro-tim-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT006-RMC1004G-NAU-DEN-8GB-256GB",
+      "color": "Nâu Đen",
+      "colorHex": "#451A03",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 5690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-c100-4g/anh-dai-dien-realme-c100-4g-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/mat-truoc-dat-tren-ban-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-tren-tay-mat-sau-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/mat-sau-dat-tren-ban-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-canh-duoi-cong-sac-tai-nghe-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-khay-sim-canh-trai-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/canh-ben-trai-phai-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/canh-tren-duoi-loa-cong-sac-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-cum-camera-sau-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-hai-tay-chup-anh-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-tren-tay-man-hinh-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-nut-nguon-va-am-luong-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/tinh-nang-khang-nuoc-ip69-pro-chong-soc-quan-doi-den-xam.webp",
+        "assets/images/products/realme/realme-c100-4g/tinh-nang-tro-ly-ai-google-gemini-trang-den.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-camera-50mp-ai-chup-duoi-nuoc-trang-nau.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-chip-helio-g92-max-tan-nhiet-den-xanh.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-man-hinh-120hz-1200nits-cam-ung-tay-uot-vang-den.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-pin-8000mah-sac-45w-tim-den.webp",
+        "assets/images/products/realme/realme-c100-4g/tong-quan-tinh-nang-man-hinh-6-8-inch-pin-8000mah-ip69-pro-tim-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT006-RMC1004G-TRANG-6GB-128GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 4490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-c100-4g/anh-dai-dien-realme-c100-4g-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/mat-truoc-dat-tren-ban-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-tren-tay-mat-sau-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/mat-sau-dat-tren-ban-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-canh-duoi-cong-sac-tai-nghe-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-khay-sim-canh-trai-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/canh-ben-trai-phai-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/canh-tren-duoi-loa-cong-sac-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-cum-camera-sau-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-hai-tay-chup-anh-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-tren-tay-man-hinh-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-nut-nguon-va-am-luong-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/tinh-nang-khang-nuoc-ip69-pro-chong-soc-quan-doi-den-xam.webp",
+        "assets/images/products/realme/realme-c100-4g/tinh-nang-tro-ly-ai-google-gemini-trang-den.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-camera-50mp-ai-chup-duoi-nuoc-trang-nau.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-chip-helio-g92-max-tan-nhiet-den-xanh.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-man-hinh-120hz-1200nits-cam-ung-tay-uot-vang-den.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-pin-8000mah-sac-45w-tim-den.webp",
+        "assets/images/products/realme/realme-c100-4g/tong-quan-tinh-nang-man-hinh-6-8-inch-pin-8000mah-ip69-pro-tim-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT006-RMC1004G-TRANG-8GB-128GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 4990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-c100-4g/anh-dai-dien-realme-c100-4g-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/mat-truoc-dat-tren-ban-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-tren-tay-mat-sau-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/mat-sau-dat-tren-ban-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-canh-duoi-cong-sac-tai-nghe-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-khay-sim-canh-trai-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/canh-ben-trai-phai-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/canh-tren-duoi-loa-cong-sac-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-cum-camera-sau-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-hai-tay-chup-anh-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-tren-tay-man-hinh-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-nut-nguon-va-am-luong-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/tinh-nang-khang-nuoc-ip69-pro-chong-soc-quan-doi-den-xam.webp",
+        "assets/images/products/realme/realme-c100-4g/tinh-nang-tro-ly-ai-google-gemini-trang-den.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-camera-50mp-ai-chup-duoi-nuoc-trang-nau.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-chip-helio-g92-max-tan-nhiet-den-xanh.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-man-hinh-120hz-1200nits-cam-ung-tay-uot-vang-den.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-pin-8000mah-sac-45w-tim-den.webp",
+        "assets/images/products/realme/realme-c100-4g/tong-quan-tinh-nang-man-hinh-6-8-inch-pin-8000mah-ip69-pro-tim-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT006-RMC1004G-TRANG-8GB-256GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 5690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-c100-4g/anh-dai-dien-realme-c100-4g-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/mat-truoc-dat-tren-ban-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-tren-tay-mat-sau-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/mat-sau-dat-tren-ban-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-canh-duoi-cong-sac-tai-nghe-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-khay-sim-canh-trai-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/canh-ben-trai-phai-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/canh-tren-duoi-loa-cong-sac-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-cum-camera-sau-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-hai-tay-chup-anh-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-tren-tay-man-hinh-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-nut-nguon-va-am-luong-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/tinh-nang-khang-nuoc-ip69-pro-chong-soc-quan-doi-den-xam.webp",
+        "assets/images/products/realme/realme-c100-4g/tinh-nang-tro-ly-ai-google-gemini-trang-den.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-camera-50mp-ai-chup-duoi-nuoc-trang-nau.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-chip-helio-g92-max-tan-nhiet-den-xanh.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-man-hinh-120hz-1200nits-cam-ung-tay-uot-vang-den.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-pin-8000mah-sac-45w-tim-den.webp",
+        "assets/images/products/realme/realme-c100-4g/tong-quan-tinh-nang-man-hinh-6-8-inch-pin-8000mah-ip69-pro-tim-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT006-RMC1004G-TIM-6GB-128GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 4490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-c100-4g/anh-dai-dien-realme-c100-4g-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/mat-truoc-dat-tren-ban-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-tren-tay-mat-sau-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/mat-sau-dat-tren-ban-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-canh-duoi-cong-sac-tai-nghe-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-khay-sim-canh-trai-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/canh-ben-trai-phai-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/canh-tren-duoi-loa-cong-sac-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-cum-camera-sau-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-hai-tay-chup-anh-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-tren-tay-man-hinh-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-nut-nguon-va-am-luong-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/tinh-nang-khang-nuoc-ip69-pro-chong-soc-quan-doi-den-xam.webp",
+        "assets/images/products/realme/realme-c100-4g/tinh-nang-tro-ly-ai-google-gemini-trang-den.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-camera-50mp-ai-chup-duoi-nuoc-trang-nau.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-chip-helio-g92-max-tan-nhiet-den-xanh.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-man-hinh-120hz-1200nits-cam-ung-tay-uot-vang-den.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-pin-8000mah-sac-45w-tim-den.webp",
+        "assets/images/products/realme/realme-c100-4g/tong-quan-tinh-nang-man-hinh-6-8-inch-pin-8000mah-ip69-pro-tim-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT006-RMC1004G-TIM-8GB-128GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 4990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-c100-4g/anh-dai-dien-realme-c100-4g-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/mat-truoc-dat-tren-ban-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-tren-tay-mat-sau-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/mat-sau-dat-tren-ban-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-canh-duoi-cong-sac-tai-nghe-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-khay-sim-canh-trai-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/canh-ben-trai-phai-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/canh-tren-duoi-loa-cong-sac-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-cum-camera-sau-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-hai-tay-chup-anh-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-tren-tay-man-hinh-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-nut-nguon-va-am-luong-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/tinh-nang-khang-nuoc-ip69-pro-chong-soc-quan-doi-den-xam.webp",
+        "assets/images/products/realme/realme-c100-4g/tinh-nang-tro-ly-ai-google-gemini-trang-den.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-camera-50mp-ai-chup-duoi-nuoc-trang-nau.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-chip-helio-g92-max-tan-nhiet-den-xanh.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-man-hinh-120hz-1200nits-cam-ung-tay-uot-vang-den.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-pin-8000mah-sac-45w-tim-den.webp",
+        "assets/images/products/realme/realme-c100-4g/tong-quan-tinh-nang-man-hinh-6-8-inch-pin-8000mah-ip69-pro-tim-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT006-RMC1004G-TIM-8GB-256GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 5690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-c100-4g/anh-dai-dien-realme-c100-4g-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/mat-truoc-dat-tren-ban-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-tren-tay-mat-sau-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/mat-sau-dat-tren-ban-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-canh-duoi-cong-sac-tai-nghe-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-khay-sim-canh-trai-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/canh-ben-trai-phai-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/canh-tren-duoi-loa-cong-sac-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-cum-camera-sau-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-hai-tay-chup-anh-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-tren-tay-man-hinh-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-nut-nguon-va-am-luong-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/tinh-nang-khang-nuoc-ip69-pro-chong-soc-quan-doi-den-xam.webp",
+        "assets/images/products/realme/realme-c100-4g/tinh-nang-tro-ly-ai-google-gemini-trang-den.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-camera-50mp-ai-chup-duoi-nuoc-trang-nau.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-chip-helio-g92-max-tan-nhiet-den-xanh.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-man-hinh-120hz-1200nits-cam-ung-tay-uot-vang-den.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-pin-8000mah-sac-45w-tim-den.webp",
+        "assets/images/products/realme/realme-c100-4g/tong-quan-tinh-nang-man-hinh-6-8-inch-pin-8000mah-ip69-pro-tim-trang.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "IPS LCD 120Hz",
+    "size": "6,8 inch",
+    "resolution": "HD+ (1570 x 720 pixel)",
+    "refreshRate": "120Hz",
+    "brightness": "Độ sáng đỉnh 1.200 nit hiển thị rõ ngoài nắng gắt, chế độ bảo vệ mắt AI Eye Comfort",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "MediaTek Helio G92 Max",
+    "cpu": "CPU 8 nhân (2 nhân Cortex-A75 xung nhịp 2.0GHz + 6 nhân Cortex-A55 xung nhịp 1.8GHz)",
+    "gpu": "ARM Mali-G52 MC2",
+    "ram": [
+      "6GB",
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "operatingSystem": "realme UI 7.0 dựa trên Android 16",
+    "uiVersion": "realme UI",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Chính AI (ƒ/1.8) + Ống kính phụ AI",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "Quay video 1080p Full HD ở 30 fps; 720p ở 30 fps"
+    ],
+    "aiFeatures": [
+      "Chụp đêm Nightscape, Chân dung xóa phông AI, Chụp ảnh dưới nước Underwater Mode, Vòng sáng trợ sáng"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "8MP (ƒ/2.0)",
+    "features": [
+      "Camera trước 8MP (khẩu độ ƒ/2.0), hỗ trợ làm đẹp chân dung AI và quay video 1080p@30fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "8.000 mAh",
+    "wiredCharging": "Sạc nhanh SuperVOOC 45W",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": "Sạc nhanh SuperVOOC 45W qua cổng USB Type-C, hỗ trợ sạc ngược có dây | Không hỗ trợ sạc không dây"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano SIM + 1 khe thẻ nhớ microSD"
+    ],
+    "network": [
+      "4G LTE Dual SIM"
+    ],
+    "wifi": "Wi-Fi 5 (802.11 a/b/g/n/ac, băng tần kép 2.4GHz / 5GHz)",
+    "bluetooth": "Bluetooth 5.3",
+    "gps": [
+      "GPS, GLONASS, Galileo, Beidou"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "166,5 x 78,2 x 8,63 mm",
+    "weight": "219 gram",
+    "materials": [
+      "Khung viền ArmorShell hợp kim nhôm và đệm hấp thụ xung lực chuẩn quân đội",
+      "Mặt lưng họa tiết bắt sáng chống trầy xước và chống bám vân tay"
+    ],
+    "waterResistance": "Kháng nước & bụi IP68/IP69/IP69K",
+    "availableColors": [
+      "Nâu Đen",
+      "Trắng",
+      "Tím"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa ngoài siêu âm lượng UltraBoom 400%",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "MediaTek Helio G92 Max 8 nhân",
+    "IPS LCD 6.8 inch",
+    "Camera 50MP",
+    "Pin 8000 mAh"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền realme tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/realme/realme-c100-4g/anh-dai-dien-realme-c100-4g-tim-thumb.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/realme/realme-c100-4g/anh-dai-dien-realme-c100-4g-nau-den.webp",
+      "assets/images/products/realme/realme-c100-4g/anh-dai-dien-realme-c100-4g-tim.webp",
+      "assets/images/products/realme/realme-c100-4g/anh-dai-dien-realme-c100-4g-trang.webp",
+      "assets/images/products/realme/realme-c100-4g/mat-truoc-dat-tren-ban-nau-den.webp",
+      "assets/images/products/realme/realme-c100-4g/mat-truoc-dat-tren-ban-tim.webp",
+      "assets/images/products/realme/realme-c100-4g/mat-truoc-dat-tren-ban-trang.webp",
+      "assets/images/products/realme/realme-c100-4g/cam-tren-tay-mat-sau-nau-den.webp",
+      "assets/images/products/realme/realme-c100-4g/cam-tren-tay-mat-sau-tim.webp",
+      "assets/images/products/realme/realme-c100-4g/cam-tren-tay-mat-sau-trang.webp",
+      "assets/images/products/realme/realme-c100-4g/mat-sau-dat-tren-ban-nau-den.webp",
+      "assets/images/products/realme/realme-c100-4g/mat-sau-dat-tren-ban-tim.webp",
+      "assets/images/products/realme/realme-c100-4g/mat-sau-dat-tren-ban-trang.webp",
+      "assets/images/products/realme/realme-c100-4g/can-canh-canh-duoi-cong-sac-tai-nghe-nau-den.webp",
+      "assets/images/products/realme/realme-c100-4g/can-canh-canh-duoi-cong-sac-tai-nghe-tim.webp",
+      "assets/images/products/realme/realme-c100-4g/can-canh-canh-duoi-cong-sac-tai-nghe-trang.webp",
+      "assets/images/products/realme/realme-c100-4g/can-canh-khay-sim-canh-trai-nau-den.webp",
+      "assets/images/products/realme/realme-c100-4g/can-canh-khay-sim-canh-trai-tim.webp",
+      "assets/images/products/realme/realme-c100-4g/can-canh-khay-sim-canh-trai-trang.webp",
+      "assets/images/products/realme/realme-c100-4g/canh-ben-trai-phai-nau-den.webp",
+      "assets/images/products/realme/realme-c100-4g/canh-ben-trai-phai-tim.webp",
+      "assets/images/products/realme/realme-c100-4g/canh-ben-trai-phai-trang.webp",
+      "assets/images/products/realme/realme-c100-4g/canh-tren-duoi-loa-cong-sac-nau-den.webp",
+      "assets/images/products/realme/realme-c100-4g/canh-tren-duoi-loa-cong-sac-tim.webp",
+      "assets/images/products/realme/realme-c100-4g/canh-tren-duoi-loa-cong-sac-trang.webp",
+      "assets/images/products/realme/realme-c100-4g/can-canh-cum-camera-sau-nau-den.webp",
+      "assets/images/products/realme/realme-c100-4g/can-canh-cum-camera-sau-tim.webp",
+      "assets/images/products/realme/realme-c100-4g/can-canh-cum-camera-sau-trang.webp",
+      "assets/images/products/realme/realme-c100-4g/cam-hai-tay-chup-anh-nau-den.webp",
+      "assets/images/products/realme/realme-c100-4g/cam-hai-tay-chup-anh-tim.webp",
+      "assets/images/products/realme/realme-c100-4g/cam-hai-tay-chup-anh-trang.webp",
+      "assets/images/products/realme/realme-c100-4g/cam-tren-tay-man-hinh-nau-den.webp",
+      "assets/images/products/realme/realme-c100-4g/cam-tren-tay-man-hinh-tim.webp",
+      "assets/images/products/realme/realme-c100-4g/cam-tren-tay-man-hinh-trang.webp",
+      "assets/images/products/realme/realme-c100-4g/can-canh-nut-nguon-va-am-luong-nau-den.webp",
+      "assets/images/products/realme/realme-c100-4g/can-canh-nut-nguon-va-am-luong-tim.webp",
+      "assets/images/products/realme/realme-c100-4g/can-canh-nut-nguon-va-am-luong-trang.webp",
+      "assets/images/products/realme/realme-c100-4g/tinh-nang-khang-nuoc-ip69-pro-chong-soc-quan-doi-den-xam.webp",
+      "assets/images/products/realme/realme-c100-4g/tinh-nang-tro-ly-ai-google-gemini-trang-den.webp",
+      "assets/images/products/realme/realme-c100-4g/thong-so-camera-50mp-ai-chup-duoi-nuoc-trang-nau.webp",
+      "assets/images/products/realme/realme-c100-4g/thong-so-chip-helio-g92-max-tan-nhiet-den-xanh.webp",
+      "assets/images/products/realme/realme-c100-4g/thong-so-man-hinh-120hz-1200nits-cam-ung-tay-uot-vang-den.webp",
+      "assets/images/products/realme/realme-c100-4g/thong-so-pin-8000mah-sac-45w-tim-den.webp",
+      "assets/images/products/realme/realme-c100-4g/tong-quan-tinh-nang-man-hinh-6-8-inch-pin-8000mah-ip69-pro-tim-trang.webp"
+    ],
+    "byColor": {
+      "Nâu Đen": [
+        "assets/images/products/realme/realme-c100-4g/anh-dai-dien-realme-c100-4g-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/mat-truoc-dat-tren-ban-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-tren-tay-mat-sau-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/mat-sau-dat-tren-ban-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-canh-duoi-cong-sac-tai-nghe-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-khay-sim-canh-trai-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/canh-ben-trai-phai-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/canh-tren-duoi-loa-cong-sac-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-cum-camera-sau-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-hai-tay-chup-anh-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-tren-tay-man-hinh-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-nut-nguon-va-am-luong-nau-den.webp",
+        "assets/images/products/realme/realme-c100-4g/tinh-nang-khang-nuoc-ip69-pro-chong-soc-quan-doi-den-xam.webp",
+        "assets/images/products/realme/realme-c100-4g/tinh-nang-tro-ly-ai-google-gemini-trang-den.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-camera-50mp-ai-chup-duoi-nuoc-trang-nau.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-chip-helio-g92-max-tan-nhiet-den-xanh.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-man-hinh-120hz-1200nits-cam-ung-tay-uot-vang-den.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-pin-8000mah-sac-45w-tim-den.webp",
+        "assets/images/products/realme/realme-c100-4g/tong-quan-tinh-nang-man-hinh-6-8-inch-pin-8000mah-ip69-pro-tim-trang.webp"
+      ],
+      "Tím": [
+        "assets/images/products/realme/realme-c100-4g/anh-dai-dien-realme-c100-4g-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/mat-truoc-dat-tren-ban-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-tren-tay-mat-sau-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/mat-sau-dat-tren-ban-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-canh-duoi-cong-sac-tai-nghe-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-khay-sim-canh-trai-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/canh-ben-trai-phai-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/canh-tren-duoi-loa-cong-sac-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-cum-camera-sau-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-hai-tay-chup-anh-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-tren-tay-man-hinh-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-nut-nguon-va-am-luong-tim.webp",
+        "assets/images/products/realme/realme-c100-4g/tinh-nang-khang-nuoc-ip69-pro-chong-soc-quan-doi-den-xam.webp",
+        "assets/images/products/realme/realme-c100-4g/tinh-nang-tro-ly-ai-google-gemini-trang-den.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-camera-50mp-ai-chup-duoi-nuoc-trang-nau.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-chip-helio-g92-max-tan-nhiet-den-xanh.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-man-hinh-120hz-1200nits-cam-ung-tay-uot-vang-den.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-pin-8000mah-sac-45w-tim-den.webp",
+        "assets/images/products/realme/realme-c100-4g/tong-quan-tinh-nang-man-hinh-6-8-inch-pin-8000mah-ip69-pro-tim-trang.webp"
+      ],
+      "Trắng": [
+        "assets/images/products/realme/realme-c100-4g/anh-dai-dien-realme-c100-4g-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/mat-truoc-dat-tren-ban-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-tren-tay-mat-sau-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/mat-sau-dat-tren-ban-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-canh-duoi-cong-sac-tai-nghe-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-khay-sim-canh-trai-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/canh-ben-trai-phai-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/canh-tren-duoi-loa-cong-sac-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-cum-camera-sau-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-hai-tay-chup-anh-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/cam-tren-tay-man-hinh-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/can-canh-nut-nguon-va-am-luong-trang.webp",
+        "assets/images/products/realme/realme-c100-4g/tinh-nang-khang-nuoc-ip69-pro-chong-soc-quan-doi-den-xam.webp",
+        "assets/images/products/realme/realme-c100-4g/tinh-nang-tro-ly-ai-google-gemini-trang-den.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-camera-50mp-ai-chup-duoi-nuoc-trang-nau.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-chip-helio-g92-max-tan-nhiet-den-xanh.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-man-hinh-120hz-1200nits-cam-ung-tay-uot-vang-den.webp",
+        "assets/images/products/realme/realme-c100-4g/thong-so-pin-8000mah-sac-45w-tim-den.webp",
+        "assets/images/products/realme/realme-c100-4g/tong-quan-tinh-nang-man-hinh-6-8-inch-pin-8000mah-ip69-pro-tim-trang.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/realme/realme-c100-4g/cam-tren-tay-mat-sau-nau-den.webp",
+      "screen": "assets/images/products/realme/realme-c100-4g/mat-truoc-dat-tren-ban-nau-den.webp",
+      "performance": "assets/images/products/realme/realme-c100-4g/thong-so-chip-helio-g92-max-tan-nhiet-den-xanh.webp",
+      "camera": "assets/images/products/realme/realme-c100-4g/can-canh-cum-camera-sau-nau-den.webp",
+      "battery": "assets/images/products/realme/realme-c100-4g/can-canh-canh-duoi-cong-sac-tai-nghe-nau-den.webp",
+      "feature": "assets/images/products/realme/realme-c100-4g/anh-dai-dien-realme-c100-4g-tim.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/realme/realme-c100-4g/anh-dai-dien-realme-c100-4g-tim.webp",
+      "assets/images/products/realme/realme-c100-4g/anh-dai-dien-realme-c100-4g-trang.webp",
+      "assets/images/products/realme/realme-c100-4g/mat-truoc-dat-tren-ban-nau-den.webp",
+      "assets/images/products/realme/realme-c100-4g/mat-truoc-dat-tren-ban-tim.webp",
+      "assets/images/products/realme/realme-c100-4g/mat-truoc-dat-tren-ban-trang.webp",
+      "assets/images/products/realme/realme-c100-4g/cam-tren-tay-mat-sau-nau-den.webp",
+      "assets/images/products/realme/realme-c100-4g/cam-tren-tay-mat-sau-tim.webp",
+      "assets/images/products/realme/realme-c100-4g/cam-tren-tay-mat-sau-trang.webp",
+      "assets/images/products/realme/realme-c100-4g/mat-sau-dat-tren-ban-nau-den.webp",
+      "assets/images/products/realme/realme-c100-4g/mat-sau-dat-tren-ban-tim.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.realme.com/vn/",
+      "https://www.thegioididong.com/dtdd/realme-c100-4g-6gb-128gb",
+      "https://www.realme.com/vn/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "verified",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT006-RMC1004G",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "IPS LCD độ sáng cao, hỗ trợ DC Dimming bảo vệ mắt và cảm ứng thông minh khi tay ướt hoặc đeo găng tay",
+      "Kích thước màn hình": "6,8 inch",
+      "Độ phân giải màn hình": "1570 x 720 pixel (HD+)",
+      "Tần số quét": "120Hz mượt mà",
+      "Kiểu màn hình": "Màn hình đục lỗ hiện đại, gia cố kính cường lực chống va đập ArmorShell",
+      "Tính năng màn hình": "Độ sáng đỉnh 1.200 nit hiển thị rõ ngoài nắng gắt, chế độ bảo vệ mắt AI Eye Comfort"
+    },
+    "Camera sau": {
+      "Camera sau": "Camera chính 50MP AI (khẩu độ ƒ/1.8, lấy nét PDAF) + Ống kính phụ AI cùng vòng sáng hỗ trợ chụp ảnh thiếu sáng",
+      "Quay video": "Quay video 1080p Full HD ở 30 fps; 720p ở 30 fps",
+      "Tính năng camera": "Chụp đêm Nightscape, Chân dung xóa phông AI, Chụp ảnh dưới nước Underwater Mode, Vòng sáng trợ sáng"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera trước 8MP (khẩu độ ƒ/2.0), hỗ trợ làm đẹp chân dung AI và quay video 1080p@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Helio G92 Max",
+      "Loại CPU": "CPU 8 nhân (2 nhân Cortex-A75 xung nhịp 2.0GHz + 6 nhân Cortex-A55 xung nhịp 1.8GHz)",
+      "GPU": "ARM Mali-G52 MC2"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "6GB / 8GB LPDDR4X (hỗ trợ mở rộng RAM động thêm tối đa 8GB)",
+      "Bộ nhớ trong": "128GB / 256GB (có khe cắm thẻ nhớ microSD mở rộng)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "8.000 mAh (Siêu pin mật độ năng lượng cao cho thời lượng sử dụng tới 3–4 ngày)",
+      "Công nghệ sạc": "Sạc nhanh SuperVOOC 45W qua cổng USB Type-C, hỗ trợ sạc ngược có dây | Không hỗ trợ sạc không dây",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "realme UI 7.0 dựa trên Android 16",
+      "Công nghệ - Tiện ích": "Chế độ tài xế ngoài trời Outdoor Mode, Đẩy nước khỏi loa SonicWave Water Ejection, Tăng âm lượng loa 400%",
+      "Tiện ích khác": "Độ bền chuẩn quân đội kết hợp kháng nước áp lực cao IP69K",
+      "Thời điểm ra mắt": "2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "4G LTE Dual VoLTE",
+      "Thẻ SIM": "2 Nano SIM + 1 khe thẻ nhớ microSD",
+      "Wi-Fi": "Wi-Fi 5 (802.11 a/b/g/n/ac, băng tần kép 2.4GHz / 5GHz)",
+      "Bluetooth": "Bluetooth 5.3",
+      "Công nghệ NFC": "Có hỗ trợ (360° NFC)",
+      "GPS": "GPS, GLONASS, Galileo, Beidou"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền ArmorShell hợp kim nhôm và đệm hấp thụ xung lực chuẩn quân đội",
+      "Chất liệu mặt lưng": "Mặt lưng họa tiết bắt sáng chống trầy xước và chống bám vân tay",
+      "Kích thước": "166,5 x 78,2 x 8,63 mm",
+      "Trọng lượng": "219 gram",
+      "Chỉ số kháng nước, bụi": "Chuẩn IP66 / IP68 / IP69 / IP69K (kháng bụi tuyệt đối, chịu ngâm nước sâu và tia nước nóng áp suất cực cao)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài siêu âm lượng UltraBoom 400%",
+      "Cảm biến vân tay": "Cảm biến vân tay tích hợp phím nguồn cạnh bên & Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Cảm biến ánh sáng, Cảm biến tiệm cận, La bàn điện tử"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,8 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "IPS LCD 120Hz"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "HD+ (1570 x 720 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Helio G92 Max (12nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "6GB / 8GB (Mở rộng RAM ảo 8GB)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB (Hỗ trợ thẻ nhớ)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính AI (ƒ/1.8) + Ống kính phụ AI"
+    },
+    {
+      "label": "Camera trước",
+      "value": "8MP (ƒ/2.0)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "8.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh SuperVOOC 45W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "realme UI 7.0 (Android 16)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "4G LTE Dual SIM"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "Kháng nước & bụi IP68/IP69/IP69K"
+    }
+  ],
+  "verbatimDescription": [
+    "realme C100 4G được chế tạo chuyên biệt cho người dùng thường xuyên di chuyển ngoài trời, tài xế công nghệ và những ai đặt thời lượng pin cùng độ bền lên hàng đầu. Máy sở hữu viên pin dung lượng kỷ lục 8.000 mAh nhưng vẫn kiểm soát độ dày ở mức 8,63mm và trọng lượng 219g.",
+    "Kết hợp cùng công nghệ sạc nhanh 45W và tính năng sạc ngược qua cáp, realme C100 4G đảm bảo nguồn năng lượng dồi dào suốt 3 ngày liền và sẵn sàng tiếp sức cho các thiết bị phụ kiện khác.",
+    "Độ bền của máy đạt cấp độ cao nhất với khung sườn ArmorShell chống rơi vỡ và chuẩn kháng bụi nước IP66/IP68/IP69/IP69K, đi kèm tính năng đẩy nước bằng sóng âm SonicWave Water Ejection.",
+    "Màn hình 6,8 inch tần số quét 120Hz có độ sáng đỉnh 1.200 nit giúp quan sát bản đồ rõ ràng dưới trời nắng gắt, đồng thời hỗ trợ cảm ứng chính xác khi tay ướt hoặc đeo găng tay.",
+    "Bên trong máy là vi xử lý MediaTek Helio G92 Max, RAM tới 8GB, bộ nhớ tới 256GB và camera chính 50MP AI tích hợp vòng sáng trợ sáng tiện lợi."
+  ],
+  "priceSegment": "entry-level"
+}

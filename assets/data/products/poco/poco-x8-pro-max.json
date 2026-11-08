@@ -1,0 +1,484 @@
+{
+  "id": "poco-x8-pro-max",
+  "brand": "POCO",
+  "brandId": "poco",
+  "parentGroupId": "xiaomi_group",
+  "model": "POCO X8 Pro Max",
+  "series": "POCO X Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "upper-midrange"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 19,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "Tháng 02/2026",
+    "segment": "Cận cao cấp",
+    "description": "POCO X8 Pro Max là phiên bản cao cấp nhất của dòng POCO X8, kết hợp vi xử lý Snapdragon 8s Gen 4, tùy chọn bộ nhớ tới 16GB/1TB, màn hình lớn 6,78 inch 1.5K 144Hz, hệ thống 3 camera có ống kính Tele 50MP 3x OIS và viên pin 6.500 mAh sạc siêu tốc 120W kèm sạc không dây 30W.",
+    "highlights": [
+      "Vi xử lý Snapdragon 8s Gen 4 mạnh mẽ kết hợp RAM tới 16GB LPDDR5X và ROM tới 1TB UFS 4.0",
+      "Hệ thống 3 camera chuyên nghiệp với cảm biến chính 50MP OIS + Tele 50MP 3x OIS + Siêu rộng 12MP",
+      "Pin Silicon-Carbon 6.500 mAh, sạc siêu tốc 120W có dây, 30W không dây và kháng nước IP68/IP69"
+    ],
+    "officialDistribution": "Model được bảo lưu từ danh sách trước nhưng chưa đủ bằng chứng đang mở bán chính thức trong lượt đối chiếu ngày 01/11/2026; giữ trạng thái needs_verification để không mất dấu dữ liệu."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 12490000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT019-POCOX8PM-TRANG-12GB-512GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 12490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/poco/poco-x8-pro-max/anh-dai-dien-xiaomi-poco-x8-pro-max-trang.webp",
+        "assets/images/products/poco/poco-x8-pro-max/goc-nghieng-truoc-sau-trang.webp",
+        "assets/images/products/poco/poco-x8-pro-max/camera-chinh-50mp-da-nang-trang.webp",
+        "assets/images/products/poco/poco-x8-pro-max/man-hinh-6-83-inch-vien-sieu-mong-120hz-3500-nits.webp",
+        "assets/images/products/poco/poco-x8-pro-max/pin-silicon-carbon-8500mah-dung-luong-sieu-lon.webp",
+        "assets/images/products/poco/poco-x8-pro-max/vi-xu-ly-mediatek-dimensity-9500s-tien-trinh-3nm.webp",
+        "assets/images/products/poco/poco-x8-pro-max/tong-quan-tinh-nang-dimensity-9500s-ip68-pin-8500mah.webp"
+      ]
+    },
+    {
+      "sku": "DT019-POCOX8PM-TRANG-16GB-1TB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 14490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/poco/poco-x8-pro-max/anh-dai-dien-xiaomi-poco-x8-pro-max-trang.webp",
+        "assets/images/products/poco/poco-x8-pro-max/goc-nghieng-truoc-sau-trang.webp",
+        "assets/images/products/poco/poco-x8-pro-max/camera-chinh-50mp-da-nang-trang.webp",
+        "assets/images/products/poco/poco-x8-pro-max/man-hinh-6-83-inch-vien-sieu-mong-120hz-3500-nits.webp",
+        "assets/images/products/poco/poco-x8-pro-max/pin-silicon-carbon-8500mah-dung-luong-sieu-lon.webp",
+        "assets/images/products/poco/poco-x8-pro-max/vi-xu-ly-mediatek-dimensity-9500s-tien-trinh-3nm.webp",
+        "assets/images/products/poco/poco-x8-pro-max/tong-quan-tinh-nang-dimensity-9500s-ip68-pin-8500mah.webp"
+      ]
+    },
+    {
+      "sku": "DT019-POCOX8PM-XANH-NGOC-12GB-512GB",
+      "color": "Xanh Ngọc",
+      "colorHex": "#48B5A3",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 12490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/poco/poco-x8-pro-max/anh-dai-dien-xiaomi-poco-x8-pro-max-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-x8-pro-max/goc-nghieng-truoc-sau-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-x8-pro-max/man-hinh-6-83-inch-vien-sieu-mong-120hz-3500-nits.webp",
+        "assets/images/products/poco/poco-x8-pro-max/pin-silicon-carbon-8500mah-dung-luong-sieu-lon.webp",
+        "assets/images/products/poco/poco-x8-pro-max/vi-xu-ly-mediatek-dimensity-9500s-tien-trinh-3nm.webp",
+        "assets/images/products/poco/poco-x8-pro-max/tong-quan-tinh-nang-dimensity-9500s-ip68-pin-8500mah.webp"
+      ]
+    },
+    {
+      "sku": "DT019-POCOX8PM-XANH-NGOC-16GB-1TB",
+      "color": "Xanh Ngọc",
+      "colorHex": "#48B5A3",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 14490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/poco/poco-x8-pro-max/anh-dai-dien-xiaomi-poco-x8-pro-max-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-x8-pro-max/goc-nghieng-truoc-sau-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-x8-pro-max/man-hinh-6-83-inch-vien-sieu-mong-120hz-3500-nits.webp",
+        "assets/images/products/poco/poco-x8-pro-max/pin-silicon-carbon-8500mah-dung-luong-sieu-lon.webp",
+        "assets/images/products/poco/poco-x8-pro-max/vi-xu-ly-mediatek-dimensity-9500s-tien-trinh-3nm.webp",
+        "assets/images/products/poco/poco-x8-pro-max/tong-quan-tinh-nang-dimensity-9500s-ip68-pin-8500mah.webp"
+      ]
+    },
+    {
+      "sku": "DT019-POCOX8PM-DEN-12GB-512GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 12490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/poco/poco-x8-pro-max/anh-dai-dien-xiaomi-poco-x8-pro-max-den.webp",
+        "assets/images/products/poco/poco-x8-pro-max/goc-nghieng-truoc-sau-den.webp",
+        "assets/images/products/poco/poco-x8-pro-max/man-hinh-6-83-inch-vien-sieu-mong-120hz-3500-nits.webp",
+        "assets/images/products/poco/poco-x8-pro-max/pin-silicon-carbon-8500mah-dung-luong-sieu-lon.webp",
+        "assets/images/products/poco/poco-x8-pro-max/vi-xu-ly-mediatek-dimensity-9500s-tien-trinh-3nm.webp",
+        "assets/images/products/poco/poco-x8-pro-max/tong-quan-tinh-nang-dimensity-9500s-ip68-pin-8500mah.webp"
+      ]
+    },
+    {
+      "sku": "DT019-POCOX8PM-DEN-16GB-1TB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 14490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/poco/poco-x8-pro-max/anh-dai-dien-xiaomi-poco-x8-pro-max-den.webp",
+        "assets/images/products/poco/poco-x8-pro-max/goc-nghieng-truoc-sau-den.webp",
+        "assets/images/products/poco/poco-x8-pro-max/man-hinh-6-83-inch-vien-sieu-mong-120hz-3500-nits.webp",
+        "assets/images/products/poco/poco-x8-pro-max/pin-silicon-carbon-8500mah-dung-luong-sieu-lon.webp",
+        "assets/images/products/poco/poco-x8-pro-max/vi-xu-ly-mediatek-dimensity-9500s-tien-trinh-3nm.webp",
+        "assets/images/products/poco/poco-x8-pro-max/tong-quan-tinh-nang-dimensity-9500s-ip68-pin-8500mah.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "AMOLED 1.5K 144Hz Dolby Vision",
+    "size": "6,78 inch",
+    "resolution": "1.5K (2712 x 1220 pixel)",
+    "refreshRate": "144Hz",
+    "brightness": "Độ sáng đỉnh 3.200 nit, cảm ứng dưới mưa Wet Touch 2.0, chứng nhận bảo vệ mắt TÜV Rheinland",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 8s Gen 4 (tiến trình 4nm kiến trúc toàn nhân lớn kèm tản nhiệt buồng hơi 3D IceLoop 5500mm²)",
+    "cpu": "CPU 8 nhân kiến trúc hiệu năng cao xung nhịp lên tới 3.2GHz",
+    "gpu": "Qualcomm Adreno 825 (tối ưu bởi WildBoost 4.0)",
+    "ram": [
+      "12GB",
+      "16GB"
+    ],
+    "storage": [
+      "512GB",
+      "1TB"
+    ],
+    "operatingSystem": "Xiaomi HyperOS 3.0 dựa trên Android 16",
+    "uiVersion": "Xiaomi HyperOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Chính OIS + 50MP Tele 3x OIS + 12MP Siêu rộng",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "Quay video 4K ở 30/60/120 fps; 1080p ở 30/60/120/240 fps; chống rung kép OIS + EIS"
+    ],
+    "aiFeatures": [
+      "Xiaomi AISP, Chân dung quang học 3x, Chụp nhanh chuyển động UltraSnap, AI Erase Pro, AI Film"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "32MP (Quay 4K)",
+    "features": [
+      "Camera trước 32MP (khẩu độ ƒ/2.0), hỗ trợ HDR và quay video 4K@30fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "6.500 mAh",
+    "wiredCharging": "Sạc siêu tốc 120W | Không dây 30W",
+    "wirelessCharging": "Có hỗ trợ sạc không dây",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc siêu tốc HyperCharge 120W có dây | Sạc không dây 30W"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano SIM"
+    ],
+    "network": [
+      "5G Sub-6GHz Dual SIM"
+    ],
+    "wifi": "Wi-Fi 7 (802.11 a/b/g/n/ac/ax/be)",
+    "bluetooth": "Bluetooth 5.4 / 6.0",
+    "gps": [
+      "Định vị băng tần kép L1+L5 (GPS, GLONASS, Galileo, Beidou, NavIC)"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "162,8 x 75,8 x 8,3 mm",
+    "weight": "208 gram",
+    "materials": [
+      "Khung viền hợp kim nhôm phẳng cứng cáp",
+      "Mặt lưng kính cường lực nhám mờ cao cấp"
+    ],
+    "waterResistance": "Kháng nước & bụi IP68/IP69",
+    "availableColors": [
+      "Trắng",
+      "Xanh Ngọc",
+      "Đen"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo hỗ trợ Dolby Atmos, Hi-Res Audio & Hi-Res Wireless",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "POCO X",
+    "POCO",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền POCO tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/poco/poco-x8-pro-max/anh-dai-dien-xiaomi-poco-x8-pro-max-trang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/poco/poco-x8-pro-max/anh-dai-dien-xiaomi-poco-x8-pro-max-trang.webp",
+      "assets/images/products/poco/poco-x8-pro-max/anh-dai-dien-xiaomi-poco-x8-pro-max-den.webp",
+      "assets/images/products/poco/poco-x8-pro-max/anh-dai-dien-xiaomi-poco-x8-pro-max-xanh-ngoc.webp",
+      "assets/images/products/poco/poco-x8-pro-max/goc-nghieng-truoc-sau-den.webp",
+      "assets/images/products/poco/poco-x8-pro-max/goc-nghieng-truoc-sau-trang.webp",
+      "assets/images/products/poco/poco-x8-pro-max/goc-nghieng-truoc-sau-xanh-ngoc.webp",
+      "assets/images/products/poco/poco-x8-pro-max/camera-chinh-50mp-da-nang-trang.webp",
+      "assets/images/products/poco/poco-x8-pro-max/man-hinh-6-83-inch-vien-sieu-mong-120hz-3500-nits.webp",
+      "assets/images/products/poco/poco-x8-pro-max/pin-silicon-carbon-8500mah-dung-luong-sieu-lon.webp",
+      "assets/images/products/poco/poco-x8-pro-max/vi-xu-ly-mediatek-dimensity-9500s-tien-trinh-3nm.webp",
+      "assets/images/products/poco/poco-x8-pro-max/tong-quan-tinh-nang-dimensity-9500s-ip68-pin-8500mah.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/poco/poco-x8-pro-max/anh-dai-dien-xiaomi-poco-x8-pro-max-den.webp",
+        "assets/images/products/poco/poco-x8-pro-max/goc-nghieng-truoc-sau-den.webp",
+        "assets/images/products/poco/poco-x8-pro-max/man-hinh-6-83-inch-vien-sieu-mong-120hz-3500-nits.webp",
+        "assets/images/products/poco/poco-x8-pro-max/pin-silicon-carbon-8500mah-dung-luong-sieu-lon.webp",
+        "assets/images/products/poco/poco-x8-pro-max/vi-xu-ly-mediatek-dimensity-9500s-tien-trinh-3nm.webp",
+        "assets/images/products/poco/poco-x8-pro-max/tong-quan-tinh-nang-dimensity-9500s-ip68-pin-8500mah.webp"
+      ],
+      "Trắng": [
+        "assets/images/products/poco/poco-x8-pro-max/anh-dai-dien-xiaomi-poco-x8-pro-max-trang.webp",
+        "assets/images/products/poco/poco-x8-pro-max/goc-nghieng-truoc-sau-trang.webp",
+        "assets/images/products/poco/poco-x8-pro-max/camera-chinh-50mp-da-nang-trang.webp",
+        "assets/images/products/poco/poco-x8-pro-max/man-hinh-6-83-inch-vien-sieu-mong-120hz-3500-nits.webp",
+        "assets/images/products/poco/poco-x8-pro-max/pin-silicon-carbon-8500mah-dung-luong-sieu-lon.webp",
+        "assets/images/products/poco/poco-x8-pro-max/vi-xu-ly-mediatek-dimensity-9500s-tien-trinh-3nm.webp",
+        "assets/images/products/poco/poco-x8-pro-max/tong-quan-tinh-nang-dimensity-9500s-ip68-pin-8500mah.webp"
+      ],
+      "Xanh Ngọc": [
+        "assets/images/products/poco/poco-x8-pro-max/anh-dai-dien-xiaomi-poco-x8-pro-max-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-x8-pro-max/goc-nghieng-truoc-sau-xanh-ngoc.webp",
+        "assets/images/products/poco/poco-x8-pro-max/man-hinh-6-83-inch-vien-sieu-mong-120hz-3500-nits.webp",
+        "assets/images/products/poco/poco-x8-pro-max/pin-silicon-carbon-8500mah-dung-luong-sieu-lon.webp",
+        "assets/images/products/poco/poco-x8-pro-max/vi-xu-ly-mediatek-dimensity-9500s-tien-trinh-3nm.webp",
+        "assets/images/products/poco/poco-x8-pro-max/tong-quan-tinh-nang-dimensity-9500s-ip68-pin-8500mah.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/poco/poco-x8-pro-max/man-hinh-6-83-inch-vien-sieu-mong-120hz-3500-nits.webp",
+      "screen": "assets/images/products/poco/poco-x8-pro-max/anh-dai-dien-xiaomi-poco-x8-pro-max-den.webp",
+      "performance": "assets/images/products/poco/poco-x8-pro-max/vi-xu-ly-mediatek-dimensity-9500s-tien-trinh-3nm.webp",
+      "camera": "assets/images/products/poco/poco-x8-pro-max/camera-chinh-50mp-da-nang-trang.webp",
+      "battery": "assets/images/products/poco/poco-x8-pro-max/pin-silicon-carbon-8500mah-dung-luong-sieu-lon.webp",
+      "feature": "assets/images/products/poco/poco-x8-pro-max/anh-dai-dien-xiaomi-poco-x8-pro-max-xanh-ngoc.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/poco/poco-x8-pro-max/anh-dai-dien-xiaomi-poco-x8-pro-max-den.webp",
+      "assets/images/products/poco/poco-x8-pro-max/anh-dai-dien-xiaomi-poco-x8-pro-max-xanh-ngoc.webp",
+      "assets/images/products/poco/poco-x8-pro-max/goc-nghieng-truoc-sau-den.webp",
+      "assets/images/products/poco/poco-x8-pro-max/goc-nghieng-truoc-sau-trang.webp",
+      "assets/images/products/poco/poco-x8-pro-max/goc-nghieng-truoc-sau-xanh-ngoc.webp",
+      "assets/images/products/poco/poco-x8-pro-max/camera-chinh-50mp-da-nang-trang.webp",
+      "assets/images/products/poco/poco-x8-pro-max/man-hinh-6-83-inch-vien-sieu-mong-120hz-3500-nits.webp",
+      "assets/images/products/poco/poco-x8-pro-max/pin-silicon-carbon-8500mah-dung-luong-sieu-lon.webp",
+      "assets/images/products/poco/poco-x8-pro-max/vi-xu-ly-mediatek-dimensity-9500s-tien-trinh-3nm.webp",
+      "assets/images/products/poco/poco-x8-pro-max/tong-quan-tinh-nang-dimensity-9500s-ip68-pin-8500mah.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-xiaomi-poco",
+      "https://www.po.co/global/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "needs_verification",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Cần xác minh thêm",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT019-POCOX8PM",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "CrystalRes 1.5K AMOLED 12-bit (68,7 tỷ màu), hỗ trợ Dolby Vision, HDR10+, làm mờ 3840Hz PWM Dimming",
+      "Kích thước màn hình": "6,78 inch",
+      "Độ phân giải màn hình": "2712 x 1220 pixel (chuẩn 1.5K, mật độ điểm ảnh ~439 ppi)",
+      "Tần số quét": "144Hz (tần số lấy mẫu cảm ứng tức thời 2560Hz)",
+      "Kiểu màn hình": "Màn hình phẳng tràn viền siêu mỏng, bảo vệ bởi kính cường lực Corning Gorilla Glass Victus 2",
+      "Tính năng màn hình": "Độ sáng đỉnh 3.200 nit, cảm ứng dưới mưa Wet Touch 2.0, chứng nhận bảo vệ mắt TÜV Rheinland"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera có ống kính Tele quang học: Camera chính 50MP (khẩu độ ƒ/1.6, chống rung quang học OIS) + Camera Tele 50MP (zoom quang học 3x, chống rung quang học OIS, chụp chân dung xóa phông) + Camera góc siêu rộng 12MP (góc nhìn 120°)",
+      "Quay video": "Quay video 4K ở 30/60/120 fps; 1080p ở 30/60/120/240 fps; chống rung kép OIS + EIS",
+      "Tính năng camera": "Xiaomi AISP, Chân dung quang học 3x, Chụp nhanh chuyển động UltraSnap, AI Erase Pro, AI Film"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera trước 32MP (khẩu độ ƒ/2.0), hỗ trợ HDR và quay video 4K@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 8s Gen 4 (tiến trình 4nm kiến trúc toàn nhân lớn kèm tản nhiệt buồng hơi 3D IceLoop 5500mm²)",
+      "Loại CPU": "CPU 8 nhân kiến trúc hiệu năng cao xung nhịp lên tới 3.2GHz",
+      "GPU": "Qualcomm Adreno 825 (tối ưu bởi WildBoost 4.0)"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "12GB / 16GB LPDDR5X",
+      "Bộ nhớ trong": "512GB / 1TB UFS 4.0"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "6.500 mAh (Pin Silicon-Carbon mật độ cao tích hợp chip quản lý Surge P3 & G1)",
+      "Công nghệ sạc": "Sạc siêu tốc HyperCharge 120W có dây | Sạc không dây 30W",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS 3.0 dựa trên Android 16",
+      "Công nghệ - Tiện ích": "Trợ lý Xiaomi HyperAI, WildBoost Optimization 4.0, Cổng hồng ngoại IR Blaster",
+      "Tiện ích khác": "Khung viền hợp kim nhôm cứng cáp, kháng nước áp lực cao IP68/IP69",
+      "Thời điểm ra mắt": "2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G Sub-6GHz (SA/NSA), Dual 5G VoNR",
+      "Thẻ SIM": "2 Nano SIM",
+      "Wi-Fi": "Wi-Fi 7 (802.11 a/b/g/n/ac/ax/be)",
+      "Bluetooth": "Bluetooth 5.4 / 6.0",
+      "Công nghệ NFC": "Có hỗ trợ",
+      "GPS": "Định vị băng tần kép L1+L5 (GPS, GLONASS, Galileo, Beidou, NavIC)"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền hợp kim nhôm phẳng cứng cáp",
+      "Chất liệu mặt lưng": "Mặt lưng kính cường lực nhám mờ cao cấp",
+      "Kích thước": "162,8 x 75,8 x 8,3 mm",
+      "Trọng lượng": "208 gram",
+      "Chỉ số kháng nước, bụi": "Chuẩn IP68 / IP69 (kháng bụi tuyệt đối, chịu ngâm nước sâu và tia nước áp lực cao)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa kép Stereo hỗ trợ Dolby Atmos, Hi-Res Audio & Hi-Res Wireless",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình & Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Cảm biến ánh sáng 360°, Cảm biến tiệm cận, La bàn điện tử, Hồng ngoại IR"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,78 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "AMOLED 1.5K 144Hz Dolby Vision"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "1.5K (2712 x 1220 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "144Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Snapdragon 8s Gen 4 (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB / 16GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "512GB / 1TB UFS 4.0"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính OIS + 50MP Tele 3x OIS + 12MP Siêu rộng"
+    },
+    {
+      "label": "Camera trước",
+      "value": "32MP (Quay 4K)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "6.500 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc siêu tốc 120W | Không dây 30W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS 3.0 (Android 16)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G Sub-6GHz Dual SIM"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "Kháng nước & bụi IP68/IP69"
+    }
+  ],
+  "verbatimDescription": [
+    "POCO X8 Pro Max mở rộng giới hạn của dòng X-Series khi mang đến trải nghiệm tiệm cận các mẫu flagship dòng F. Máy được trang bị vi xử lý Qualcomm Snapdragon 8s Gen 4 kết hợp cùng bộ nhớ RAM lên tới 16GB LPDDR5X và dung lượng lưu trữ 512GB/1TB chuẩn UFS 4.0.",
+    "Không gian hiển thị 6,78 inch 1.5K AMOLED tần số quét 144Hz được bảo vệ bởi kính cường lực Gorilla Glass Victus 2 và đạt độ sáng đỉnh 3.200 nit, đem lại trải nghiệm chiến game và xem phim mãn nhãn.",
+    "Điểm nâng cấp vượt bậc so với bản X8 Pro tiêu chuẩn là sự xuất hiện của ống kính Tele 50MP hỗ trợ zoom quang học 3x và chống rung quang học OIS bên cạnh camera chính 50MP OIS và camera góc siêu rộng 12MP, giúp chụp ảnh chân dung và thu phóng xa sắc nét.",
+    "Viên pin Silicon-Carbon 6.500 mAh đi kèm công nghệ sạc siêu tốc 120W có dây và bổ sung sạc không dây 30W tiện lợi, đáp ứng trọn vẹn cường độ sử dụng cao suốt cả ngày.",
+    "Khung viền hợp kim nhôm chắc chắn cùng chuẩn kháng bụi nước kép IP68/IP69 giúp POCO X8 Pro Max bền bỉ trong mọi điều kiện môi trường."
+  ],
+  "priceSegment": "upper-midrange"
+}

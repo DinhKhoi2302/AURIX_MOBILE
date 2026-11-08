@@ -1,0 +1,131 @@
+{
+  "id": "ban-phim-tablet-xiaomi-pad-8-8-pro-focus",
+  "docCode": "PK-KB011-MIPAD8F",
+  "model": "Bàn Phím Xiaomi Pad 8 / Pad 8 Pro Focus Touchpad Keyboard",
+  "brand": "Xiaomi",
+  "brandId": "xiaomi",
+  "parentGroupId": "xiaomi",
+  "series": "Bàn phím & Bao da",
+  "subCategory": "keyboard",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "keyboard"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Bàn phím & Bao da",
+    "highlights": [
+      "Pogo Pin từ tính cao cấp"
+    ],
+    "description": "Phiên bản Focus cao cấp nâng cấp thêm bàn di chuột phủ kính mịn màng và hệ thống đèn nền phím. Cung cấp góc mở công thái học không giới hạn từ 110 đến 165 độ, kết hợp cùng giao diện máy tính để bàn của HyperOS mang lại trải nghiệm PC chuyên nghiệp."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 2290000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/keyboard/ban-phim-tablet-xiaomi-pad-8-8-pro-focus/anh-dai-dien-ban-phim-tablet-xiaomi-pad-8-8-pro-focus-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/keyboard/ban-phim-tablet-xiaomi-pad-8-8-pro-focus/anh-dai-dien-ban-phim-tablet-xiaomi-pad-8-8-pro-focus-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-tablet-xiaomi-pad-8-8-pro-focus/mat-chinh-dien-ban-phim-focus-kem-trackpad-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-tablet-xiaomi-pad-8-8-pro-focus/canh-ben-ban-le-treo-nam-cham-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-tablet-xiaomi-pad-8-8-pro-focus/goc-nghieng-trai-ban-phim-focus-den.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/accessory/keyboard/ban-phim-tablet-xiaomi-pad-8-8-pro-focus/anh-dai-dien-ban-phim-tablet-xiaomi-pad-8-8-pro-focus-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-tablet-xiaomi-pad-8-8-pro-focus/mat-chinh-dien-ban-phim-focus-kem-trackpad-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-tablet-xiaomi-pad-8-8-pro-focus/canh-ben-ban-le-treo-nam-cham-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-tablet-xiaomi-pad-8-8-pro-focus/goc-nghieng-trai-ban-phim-focus-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/keyboard/ban-phim-tablet-xiaomi-pad-8-8-pro-focus/canh-ben-ban-le-treo-nam-cham-den.webp",
+      "screen": "assets/images/products/accessory/keyboard/ban-phim-tablet-xiaomi-pad-8-8-pro-focus/mat-chinh-dien-ban-phim-focus-kem-trackpad-den.webp",
+      "performance": "assets/images/products/accessory/keyboard/ban-phim-tablet-xiaomi-pad-8-8-pro-focus/goc-nghieng-trai-ban-phim-focus-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/keyboard/ban-phim-tablet-xiaomi-pad-8-8-pro-focus/mat-chinh-dien-ban-phim-focus-kem-trackpad-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-tablet-xiaomi-pad-8-8-pro-focus/canh-ben-ban-le-treo-nam-cham-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-tablet-xiaomi-pad-8-8-pro-focus/goc-nghieng-trai-ban-phim-focus-den.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Xiaomi",
+      "Loại bàn phím": "Bao da bàn phím cao cấp tích hợp Touchpad",
+      "Thiết bị tương thích": "Xiaomi Pad 8, Xiaomi Pad 8 Pro",
+      "Kiểu kết nối": "Pogo Pin từ tính cao cấp",
+      "Ngôn ngữ bàn phím": "Tiếng Anh",
+      "Bàn di chuột (Touchpad)": "Có (Trackpad phủ kính cao cấp hỗ trợ điều hướng cử chỉ)",
+      "Đèn nền bàn phím": "Có (Đèn nền trắng dịu mắt)",
+      "Nguồn cấp điện": "Cấp nguồn trực tiếp qua Pogo Pin",
+      "Màu sắc": "Đen"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Xiaomi"
+    },
+    {
+      "label": "Loại bàn phím",
+      "value": "Bao da bàn phím cao cấp tích hợp Touchpad"
+    },
+    {
+      "label": "Thiết bị tương thích",
+      "value": "Xiaomi Pad 8, Xiaomi Pad 8 Pro"
+    },
+    {
+      "label": "Kiểu kết nối",
+      "value": "Pogo Pin từ tính cao cấp"
+    },
+    {
+      "label": "Ngôn ngữ bàn phím",
+      "value": "Tiếng Anh"
+    },
+    {
+      "label": "Bàn di chuột (Touchpad)",
+      "value": "Có (Trackpad phủ kính cao cấp hỗ trợ điều hướng cử chỉ)"
+    },
+    {
+      "label": "Đèn nền bàn phím",
+      "value": "Có (Đèn nền trắng dịu mắt)"
+    },
+    {
+      "label": "Nguồn cấp điện",
+      "value": "Cấp nguồn trực tiếp qua Pogo Pin"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Đen"
+    }
+  ],
+  "verbatimDescription": [
+    "Phiên bản Focus cao cấp nâng cấp thêm bàn di chuột phủ kính mịn màng và hệ thống đèn nền phím. Cung cấp góc mở công thái học không giới hạn từ 110 đến 165 độ, kết hợp cùng giao diện máy tính để bàn của HyperOS mang lại trải nghiệm PC chuyên nghiệp."
+  ],
+  "variants": [
+    {
+      "sku": "PK-KB011-MIPAD8F-DEN-TIEU-CHUAN",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 2290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/keyboard/ban-phim-tablet-xiaomi-pad-8-8-pro-focus/anh-dai-dien-ban-phim-tablet-xiaomi-pad-8-8-pro-focus-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-tablet-xiaomi-pad-8-8-pro-focus/mat-chinh-dien-ban-phim-focus-kem-trackpad-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-tablet-xiaomi-pad-8-8-pro-focus/canh-ben-ban-le-treo-nam-cham-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-tablet-xiaomi-pad-8-8-pro-focus/goc-nghieng-trai-ban-phim-focus-den.webp"
+      ]
+    }
+  ]
+}

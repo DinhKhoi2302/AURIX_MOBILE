@@ -1,0 +1,559 @@
+{
+  "id": "oppo-a6x",
+  "brand": "OPPO",
+  "brandId": "oppo",
+  "parentGroupId": "oppo",
+  "model": "OPPO A6x",
+  "series": "OPPO A Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "entry-level"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025 – 2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "OPPO A6x mang đến trải nghiệm giải trí bền bỉ trong tầm giá dễ tiếp cận với màn hình lớn 6,75 inch HD+ tần số quét 120Hz độ sáng HBM 1125 nit, vi xử lý Qualcomm Snapdragon 685 (6nm), viên pin 6100mAh, camera sau 13MP AF, cảm biến vân tay cạnh bên cùng kết nối NFC và jack tai nghe 3.5mm.",
+    "highlights": [
+      "Màn hình lớn 6,75 inch LCD 120Hz, độ sáng thông thường 800 nit (HBM 1125 nit)",
+      "Vi xử lý Qualcomm Snapdragon 685 (6nm) 8 nhân 2.8GHz cùng bộ nhớ chuẩn UFS 2.2",
+      "Pin lớn 6100mAh cho thời lượng sử dụng bền bỉ suốt cả ngày dài",
+      "Camera sau 13MP f/2.2 lấy nét tự động AF + Cảm biến phụ xóa phông, Camera trước 5MP",
+      "Trang bị kết nối NFC, cảm biến vân tay cạnh bên, kháng nước bụi IP64 & cổng tai nghe 3.5mm"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 3490000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT007-OPA6X-TITAN-TIM-4GB-64GB",
+      "color": "Titan Tím",
+      "colorHex": "#7C3AED",
+      "ram": "4GB",
+      "storage": "4GB/64GB",
+      "rom": "64GB",
+      "price": 3490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-a6x/anh-dai-dien-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/man-hinh-mat-truoc-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/thiet-ke-mat-lung-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/tren-tay-mat-lung-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/canh-duoi-cong-sac-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/canh-trai-canh-phai-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/canh-tren-canh-duoi-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/goc-nghieng-camera-sau-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/cum-camera-sau-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/tren-tay-man-hinh-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/dung-luong-pin-6100mah-oppo-a6x-tim-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/hieu-nang-snapdragon-685-oppo-a6x-den.webp",
+        "assets/images/products/oppo/oppo-a6x/ket-noi-ai-nfc-oppo-a6x-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6x/thiet-ke-khang-nuoc-ip64-oppo-a6x-tim-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/thong-so-man-hinh-120hz-oppo-a6x-den.webp",
+        "assets/images/products/oppo/oppo-a6x/thong-so-noi-bat-oppo-a6x-tim-titan-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT007-OPA6X-TITAN-TIM-4GB-128GB",
+      "color": "Titan Tím",
+      "colorHex": "#7C3AED",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 3890000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-a6x/anh-dai-dien-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/man-hinh-mat-truoc-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/thiet-ke-mat-lung-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/tren-tay-mat-lung-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/canh-duoi-cong-sac-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/canh-trai-canh-phai-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/canh-tren-canh-duoi-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/goc-nghieng-camera-sau-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/cum-camera-sau-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/tren-tay-man-hinh-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/dung-luong-pin-6100mah-oppo-a6x-tim-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/hieu-nang-snapdragon-685-oppo-a6x-den.webp",
+        "assets/images/products/oppo/oppo-a6x/ket-noi-ai-nfc-oppo-a6x-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6x/thiet-ke-khang-nuoc-ip64-oppo-a6x-tim-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/thong-so-man-hinh-120hz-oppo-a6x-den.webp",
+        "assets/images/products/oppo/oppo-a6x/thong-so-noi-bat-oppo-a6x-tim-titan-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT007-OPA6X-TIM-4GB-64GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "4GB",
+      "storage": "4GB/64GB",
+      "rom": "64GB",
+      "price": 3490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-a6x/mat-truoc-mat-sau-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/man-hinh-mat-truoc-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/thiet-ke-mat-lung-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/tren-tay-mat-lung-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/canh-duoi-cong-sac-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/canh-trai-canh-phai-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/canh-tren-canh-duoi-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/goc-nghieng-camera-sau-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/cum-camera-sau-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/tinh-nang-camera-13mp-ai-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/tren-tay-man-hinh-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/dung-luong-pin-6100mah-oppo-a6x-tim-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/hieu-nang-snapdragon-685-oppo-a6x-den.webp",
+        "assets/images/products/oppo/oppo-a6x/ket-noi-ai-nfc-oppo-a6x-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6x/thiet-ke-khang-nuoc-ip64-oppo-a6x-tim-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/thong-so-man-hinh-120hz-oppo-a6x-den.webp",
+        "assets/images/products/oppo/oppo-a6x/thong-so-noi-bat-oppo-a6x-tim-titan-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT007-OPA6X-TIM-4GB-128GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 3890000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-a6x/mat-truoc-mat-sau-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/man-hinh-mat-truoc-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/thiet-ke-mat-lung-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/tren-tay-mat-lung-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/canh-duoi-cong-sac-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/canh-trai-canh-phai-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/canh-tren-canh-duoi-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/goc-nghieng-camera-sau-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/cum-camera-sau-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/tinh-nang-camera-13mp-ai-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/tren-tay-man-hinh-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/dung-luong-pin-6100mah-oppo-a6x-tim-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/hieu-nang-snapdragon-685-oppo-a6x-den.webp",
+        "assets/images/products/oppo/oppo-a6x/ket-noi-ai-nfc-oppo-a6x-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6x/thiet-ke-khang-nuoc-ip64-oppo-a6x-tim-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/thong-so-man-hinh-120hz-oppo-a6x-den.webp",
+        "assets/images/products/oppo/oppo-a6x/thong-so-noi-bat-oppo-a6x-tim-titan-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT007-OPA6X-XANH-NGOC-4GB-64GB",
+      "color": "Xanh Ngọc",
+      "colorHex": "#48B5A3",
+      "ram": "4GB",
+      "storage": "4GB/64GB",
+      "rom": "64GB",
+      "price": 3490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-a6x/mat-truoc-mat-sau-oppo-a6x-xanh-ngoc.webp",
+        "assets/images/products/oppo/oppo-a6x/mat-lung-goc-nghieng-phai-oppo-a6x-xanh-ngoc.webp",
+        "assets/images/products/oppo/oppo-a6x/mat-lung-goc-nghieng-trai-oppo-a6x-xanh-ngoc.webp",
+        "assets/images/products/oppo/oppo-a6x/man-hinh-goc-nghieng-phai-oppo-a6x-xanh-ngoc.webp",
+        "assets/images/products/oppo/oppo-a6x/man-hinh-goc-nghieng-trai-oppo-a6x-xanh-ngoc.webp",
+        "assets/images/products/oppo/oppo-a6x/dung-luong-pin-6100mah-oppo-a6x-tim-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/hieu-nang-snapdragon-685-oppo-a6x-den.webp",
+        "assets/images/products/oppo/oppo-a6x/ket-noi-ai-nfc-oppo-a6x-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6x/thiet-ke-khang-nuoc-ip64-oppo-a6x-tim-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/thong-so-man-hinh-120hz-oppo-a6x-den.webp",
+        "assets/images/products/oppo/oppo-a6x/thong-so-noi-bat-oppo-a6x-tim-titan-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT007-OPA6X-XANH-NGOC-4GB-128GB",
+      "color": "Xanh Ngọc",
+      "colorHex": "#48B5A3",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 3890000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-a6x/mat-truoc-mat-sau-oppo-a6x-xanh-ngoc.webp",
+        "assets/images/products/oppo/oppo-a6x/mat-lung-goc-nghieng-phai-oppo-a6x-xanh-ngoc.webp",
+        "assets/images/products/oppo/oppo-a6x/mat-lung-goc-nghieng-trai-oppo-a6x-xanh-ngoc.webp",
+        "assets/images/products/oppo/oppo-a6x/man-hinh-goc-nghieng-phai-oppo-a6x-xanh-ngoc.webp",
+        "assets/images/products/oppo/oppo-a6x/man-hinh-goc-nghieng-trai-oppo-a6x-xanh-ngoc.webp",
+        "assets/images/products/oppo/oppo-a6x/dung-luong-pin-6100mah-oppo-a6x-tim-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/hieu-nang-snapdragon-685-oppo-a6x-den.webp",
+        "assets/images/products/oppo/oppo-a6x/ket-noi-ai-nfc-oppo-a6x-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6x/thiet-ke-khang-nuoc-ip64-oppo-a6x-tim-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/thong-so-man-hinh-120hz-oppo-a6x-den.webp",
+        "assets/images/products/oppo/oppo-a6x/thong-so-noi-bat-oppo-a6x-tim-titan-tim.webp"
+      ]
+    }
+  ],
+  "display": {
+    "size": "6,75 inch",
+    "technology": "IPS LCD (16,7 triệu màu, tỷ lệ màn hình 90,6%)",
+    "resolution": "HD+ (1570 × 720 Pixels)",
+    "refreshRate": "120Hz",
+    "maxBrightness": "800 nit (tiêu chuẩn) / 1125 nit (HBM)",
+    "protection": "Kính cường lực"
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 685 (6nm)",
+    "cpu": "8 nhân (4×2.8GHz Cortex-A73 + 4×1.9GHz Cortex-A53)",
+    "gpu": "Adreno 610 @ 1260MHz",
+    "ram": "4GB / 6GB LPDDR4X",
+    "internalStorage": "64GB / 128GB UFS 2.2 (Hỗ trợ thẻ nhớ microSDXC)",
+    "os": "Android 15 (ColorOS 15.0)"
+  },
+  "rearCamera": {
+    "mainSensor": "13MP (f/2.2, FOV 77°, ống kính 4P, hỗ trợ lấy nét tự động AF)",
+    "ultraWide": "Cảm biến đơn sắc QVGA (f/3.0, FOV 40°)",
+    "telephoto": "Hỗ trợ zoom kỹ thuật số lên đến 10x",
+    "videoRecording": "1080p@30fps, 720p@30fps, Time-lapse 1080p@30fps",
+    "features": [
+      "Chân dung xóa phông",
+      "Cảnh đêm",
+      "Độ phân giải cao Hi-Res",
+      "Google Lens",
+      "Chế độ PRO"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "5MP (f/2.2, FOV 77°, ống kính 3P)",
+    "videoRecording": "1080p@30fps, 720p@30fps",
+    "features": [
+      "Chế độ làm đẹp AI",
+      "Ánh sáng tràn màn hình",
+      "Chân dung",
+      "Time-lapse"
+    ]
+  },
+  "battery": {
+    "capacity": "6100 mAh",
+    "batteryType": "Pin Li-Ion dung lượng cao",
+    "chargingPower": "Sạc qua cổng USB Type-C (Hỗ trợ sạc ngược có dây 5W)",
+    "wirelessCharging": "Không hỗ trợ"
+  },
+  "connectivity": {
+    "sim": "2 Nano-SIM (Hỗ trợ thẻ nhớ microSD)",
+    "network": "4G LTE FDD/TDD đa băng tần",
+    "wifi": "Wi-Fi 5 (802.11ac), Dual-band",
+    "bluetooth": "Bluetooth 5.0 (SBC, AAC, aptX)",
+    "nfc": "Có hỗ trợ",
+    "usb": "USB Type-C 2.0, OTG, Jack tai nghe 3.5mm"
+  },
+  "design": {
+    "formFactor": "Nguyên khối thanh lịch, hoàn thiện màu Titan Tím nổi bật",
+    "materials": "Mặt trước kính cường lực, khung và mặt lưng nhựa cao cấp",
+    "dimensionsWeight": "166,61 × 78,51 × 8,61 mm | 205g",
+    "waterResistance": "IP64 (Kháng bụi và tia nước bắn)",
+    "availableColors": [
+      "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa đơn / Stereo tiêu chuẩn",
+    "headphoneJack": null,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Màn hình lớn 6,75 inch LCD 120Hz, độ sáng thông thường 800 nit (HBM 1125 nit)",
+    "Vi xử lý Qualcomm Snapdragon 685 (6nm) 8 nhân 2.8GHz cùng bộ nhớ chuẩn UFS 2.2",
+    "Pin lớn 6100mAh cho thời lượng sử dụng bền bỉ suốt cả ngày dài",
+    "Camera sau 13MP f/2.2 lấy nét tự động AF + Cảm biến phụ xóa phông, Camera trước 5MP",
+    "Trang bị kết nối NFC, cảm biến vân tay cạnh bên, kháng nước bụi IP64 & cổng tai nghe 3.5mm"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền OPPO tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/oppo/oppo-a6x/anh-dai-dien-oppo-a6x-titan-tim.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/oppo/oppo-a6x/anh-dai-dien-oppo-a6x-titan-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/mat-truoc-mat-sau-oppo-a6x-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/mat-truoc-mat-sau-oppo-a6x-xanh-ngoc.webp",
+      "assets/images/products/oppo/oppo-a6x/man-hinh-mat-truoc-oppo-a6x-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/man-hinh-mat-truoc-oppo-a6x-titan-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/mat-lung-goc-nghieng-phai-oppo-a6x-xanh-ngoc.webp",
+      "assets/images/products/oppo/oppo-a6x/mat-lung-goc-nghieng-trai-oppo-a6x-xanh-ngoc.webp",
+      "assets/images/products/oppo/oppo-a6x/thiet-ke-mat-lung-oppo-a6x-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/thiet-ke-mat-lung-oppo-a6x-titan-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/tren-tay-mat-lung-oppo-a6x-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/tren-tay-mat-lung-oppo-a6x-titan-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/canh-duoi-cong-sac-oppo-a6x-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/canh-duoi-cong-sac-oppo-a6x-titan-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/canh-trai-canh-phai-oppo-a6x-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/canh-trai-canh-phai-oppo-a6x-titan-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/canh-tren-canh-duoi-oppo-a6x-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/canh-tren-canh-duoi-oppo-a6x-titan-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/goc-nghieng-camera-sau-oppo-a6x-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/goc-nghieng-camera-sau-oppo-a6x-titan-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/man-hinh-goc-nghieng-phai-oppo-a6x-xanh-ngoc.webp",
+      "assets/images/products/oppo/oppo-a6x/man-hinh-goc-nghieng-trai-oppo-a6x-xanh-ngoc.webp",
+      "assets/images/products/oppo/oppo-a6x/cum-camera-sau-oppo-a6x-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/cum-camera-sau-oppo-a6x-titan-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/dung-luong-pin-6100mah-oppo-a6x-tim-titan-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/hieu-nang-snapdragon-685-oppo-a6x-den.webp",
+      "assets/images/products/oppo/oppo-a6x/ket-noi-ai-nfc-oppo-a6x-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a6x/thiet-ke-khang-nuoc-ip64-oppo-a6x-tim-titan-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/tinh-nang-camera-13mp-ai-oppo-a6x-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/tren-tay-man-hinh-oppo-a6x-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/tren-tay-man-hinh-oppo-a6x-titan-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/thong-so-man-hinh-120hz-oppo-a6x-den.webp",
+      "assets/images/products/oppo/oppo-a6x/thong-so-noi-bat-oppo-a6x-tim-titan-tim.webp"
+    ],
+    "byColor": {
+      "Titan Tím": [
+        "assets/images/products/oppo/oppo-a6x/anh-dai-dien-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/man-hinh-mat-truoc-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/thiet-ke-mat-lung-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/tren-tay-mat-lung-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/canh-duoi-cong-sac-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/canh-trai-canh-phai-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/canh-tren-canh-duoi-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/goc-nghieng-camera-sau-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/cum-camera-sau-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/tren-tay-man-hinh-oppo-a6x-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/dung-luong-pin-6100mah-oppo-a6x-tim-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/hieu-nang-snapdragon-685-oppo-a6x-den.webp",
+        "assets/images/products/oppo/oppo-a6x/ket-noi-ai-nfc-oppo-a6x-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6x/thiet-ke-khang-nuoc-ip64-oppo-a6x-tim-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/thong-so-man-hinh-120hz-oppo-a6x-den.webp",
+        "assets/images/products/oppo/oppo-a6x/thong-so-noi-bat-oppo-a6x-tim-titan-tim.webp"
+      ],
+      "Tím": [
+        "assets/images/products/oppo/oppo-a6x/mat-truoc-mat-sau-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/man-hinh-mat-truoc-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/thiet-ke-mat-lung-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/tren-tay-mat-lung-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/canh-duoi-cong-sac-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/canh-trai-canh-phai-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/canh-tren-canh-duoi-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/goc-nghieng-camera-sau-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/cum-camera-sau-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/tinh-nang-camera-13mp-ai-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/tren-tay-man-hinh-oppo-a6x-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/dung-luong-pin-6100mah-oppo-a6x-tim-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/hieu-nang-snapdragon-685-oppo-a6x-den.webp",
+        "assets/images/products/oppo/oppo-a6x/ket-noi-ai-nfc-oppo-a6x-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6x/thiet-ke-khang-nuoc-ip64-oppo-a6x-tim-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/thong-so-man-hinh-120hz-oppo-a6x-den.webp",
+        "assets/images/products/oppo/oppo-a6x/thong-so-noi-bat-oppo-a6x-tim-titan-tim.webp"
+      ],
+      "Xanh Ngọc": [
+        "assets/images/products/oppo/oppo-a6x/mat-truoc-mat-sau-oppo-a6x-xanh-ngoc.webp",
+        "assets/images/products/oppo/oppo-a6x/mat-lung-goc-nghieng-phai-oppo-a6x-xanh-ngoc.webp",
+        "assets/images/products/oppo/oppo-a6x/mat-lung-goc-nghieng-trai-oppo-a6x-xanh-ngoc.webp",
+        "assets/images/products/oppo/oppo-a6x/man-hinh-goc-nghieng-phai-oppo-a6x-xanh-ngoc.webp",
+        "assets/images/products/oppo/oppo-a6x/man-hinh-goc-nghieng-trai-oppo-a6x-xanh-ngoc.webp",
+        "assets/images/products/oppo/oppo-a6x/dung-luong-pin-6100mah-oppo-a6x-tim-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/hieu-nang-snapdragon-685-oppo-a6x-den.webp",
+        "assets/images/products/oppo/oppo-a6x/ket-noi-ai-nfc-oppo-a6x-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6x/thiet-ke-khang-nuoc-ip64-oppo-a6x-tim-titan-tim.webp",
+        "assets/images/products/oppo/oppo-a6x/thong-so-man-hinh-120hz-oppo-a6x-den.webp",
+        "assets/images/products/oppo/oppo-a6x/thong-so-noi-bat-oppo-a6x-tim-titan-tim.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/oppo/oppo-a6x/mat-truoc-mat-sau-oppo-a6x-tim.webp",
+      "screen": "assets/images/products/oppo/oppo-a6x/mat-truoc-mat-sau-oppo-a6x-xanh-ngoc.webp",
+      "performance": "assets/images/products/oppo/oppo-a6x/hieu-nang-snapdragon-685-oppo-a6x-den.webp",
+      "camera": "assets/images/products/oppo/oppo-a6x/goc-nghieng-camera-sau-oppo-a6x-tim.webp",
+      "battery": "assets/images/products/oppo/oppo-a6x/canh-duoi-cong-sac-oppo-a6x-tim.webp",
+      "feature": "assets/images/products/oppo/oppo-a6x/mat-lung-goc-nghieng-phai-oppo-a6x-xanh-ngoc.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/oppo/oppo-a6x/mat-truoc-mat-sau-oppo-a6x-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/mat-truoc-mat-sau-oppo-a6x-xanh-ngoc.webp",
+      "assets/images/products/oppo/oppo-a6x/man-hinh-mat-truoc-oppo-a6x-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/man-hinh-mat-truoc-oppo-a6x-titan-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/mat-lung-goc-nghieng-phai-oppo-a6x-xanh-ngoc.webp",
+      "assets/images/products/oppo/oppo-a6x/mat-lung-goc-nghieng-trai-oppo-a6x-xanh-ngoc.webp",
+      "assets/images/products/oppo/oppo-a6x/thiet-ke-mat-lung-oppo-a6x-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/thiet-ke-mat-lung-oppo-a6x-titan-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/tren-tay-mat-lung-oppo-a6x-tim.webp",
+      "assets/images/products/oppo/oppo-a6x/tren-tay-mat-lung-oppo-a6x-titan-tim.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-oppo",
+      "https://www.oppo.com/vn/smartphones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT007-OPA6X",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "IPS LCD, 16,7 triệu màu, 100% sRGB / 85% DCI-P3",
+      "Kích thước màn hình": "6,75 inch (Tỷ lệ màn hình 90,6%)",
+      "Độ phân giải màn hình": "HD+ (1570 × 720 Pixels), 256 PPI",
+      "Tần số quét": "120Hz (Lấy mẫu cảm ứng 240Hz)",
+      "Kiểu màn hình": "Chưa có thông tin trong dữ liệu gốc",
+      "Tính năng màn hình": "Độ sáng tối đa: 800 nit (Mặc định) / 1125 nit (HBM); Kính bảo vệ: Kính cường lực bảo vệ"
+    },
+    "Camera sau": {
+      "Camera sau": "Camera chính: 13MP (f/2.2, FOV 77°, ống kính 4P, hỗ trợ lấy nét tự động AF); Camera phụ: Cảm biến đơn sắc QVGA (f/3.0, ống kính 1P)",
+      "Quay video": "1080p@30fps, 720p@30fps, Time-lapse 1080p@30fps",
+      "Tính năng camera": "Chân dung, Cảnh đêm, Panorama, Time-lapse, Hi-Res, Google Lens, Chế độ PRO"
+    },
+    "Camera trước": {
+      "Camera trước": "5MP (f/2.2, FOV 77°, ống kính 3P); Quay video: 1080p@30fps, 720p@30fps; Tính năng: Chế độ làm đẹp AI, Ánh sáng tràn màn hình, Chân dung, Cảnh đêm"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 685 (Tiến trình 6nm)",
+      "Loại CPU": "8 nhân (4×2.8GHz Cortex-A73 + 4×1.9GHz Cortex-A53)",
+      "GPU": "Adreno 610 @ 1260MHz"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "4GB / 6GB chuẩn LPDDR4X",
+      "Bộ nhớ trong": "64GB / 128GB chuẩn UFS 2.2; Thẻ nhớ ngoài: Hỗ trợ thẻ nhớ microSDXC & USB OTG"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "6100 mAh (Tiêu chuẩn) / 5950 mAh (Định mức); Loại pin: Pin Li-Ion dung lượng cao",
+      "Công nghệ sạc": "Sạc có dây: Sạc qua cổng USB Type-C (Hỗ trợ sạc ngược có dây 5W); Sạc không dây: Không hỗ trợ",
+      "Cổng sạc": "USB Type-C 2.0, OTG & Cổng tai nghe 3.5mm"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "ColorOS 15.0 (Nền tảng Android 15)",
+      "Công nghệ - Tiện ích": "Mở rộng RAM ảo, Chế độ siêu âm lượng, Tối ưu hóa mượt mà ColorOS 15",
+      "Tiện ích khác": "Chưa có thông tin trong dữ liệu gốc",
+      "Thời điểm ra mắt": "2025 – 2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "4G LTE FDD/TDD",
+      "Thẻ SIM": "2 Nano-SIM",
+      "Wi-Fi": "Wi-Fi 5 (802.11ac), Wi-Fi Display, WLAN Tethering",
+      "Bluetooth": "Bluetooth 5.0 BLE (SBC, AAC, aptX)",
+      "Công nghệ NFC": "Hỗ trợ NFC",
+      "GPS": "Chưa có thông tin trong dữ liệu gốc"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Mặt trước kính cường lực, khung và mặt lưng nhựa bền bỉ",
+      "Chất liệu mặt lưng": "mặt lưng nhựa bền bỉ",
+      "Kích thước": "166,61 × 78,51 × 8,61 mm; Kiểu dáng: Nguyên khối trẻ trung, trọng lượng 205g",
+      "Trọng lượng": "Nặng 205g",
+      "Chỉ số kháng nước, bụi": "Kháng bụi và tia nước chuẩn IP64"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài âm lượng lớn, cổng tai nghe 3.5mm & hỗ trợ aptX",
+      "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Tiệm cận, Ánh sáng, La bàn số; Bảo mật: Mở khóa khuôn mặt"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,75 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "IPS LCD"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "HD+ (1570 × 720 Pixels, 256 PPI)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 685 (6nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "4GB / 6GB LPDDR4X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "64GB / 128GB UFS 2.2"
+    },
+    {
+      "label": "Camera sau",
+      "value": "13MP Chính f/2.2 AF + Cảm biến phụ QVGA"
+    },
+    {
+      "label": "Camera trước",
+      "value": "5MP f/2.2 (Quay 1080p@30fps)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "6100 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc qua cổng USB Type-C (Hỗ trợ sạc ngược 5W)"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 15 (ColorOS 15.0)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "4G LTE, Wi-Fi 5, Bluetooth 5.0, NFC"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP64"
+    }
+  ],
+  "verbatimDescription": [
+    "OPPO A6x là mẫu smartphone phổ thông được thiết kế tối ưu cho nhu cầu sử dụng bền bỉ hàng ngày với màn hình lớn 6,75 inch 120Hz, vi xử lý Qualcomm Snapdragon 685 (6nm) và viên pin 6100mAh. Thân máy sở hữu phong cách hoàn thiện hiện đại với trọng lượng 205g và đạt chuẩn kháng bụi, kháng tia nước IP64.",
+    "Mặt trước của OPPO A6x trang bị màn hình LCD rộng 6,75 inch độ phân giải HD+ (1570 × 720 pixel), chiếm 90,6% diện tích mặt trước. Nhờ tần số quét 120Hz, tốc độ lấy mẫu cảm ứng 240Hz và độ sáng thông thường 800 nit (đạt 1125 nit ở chế độ HBM), màn hình mang lại trải nghiệm vuốt chạm mượt mà và hiển thị rõ ràng ngoài trời.",
+    "Về cấu hình phần cứng, thiết bị sử dụng vi xử lý 8 nhân Qualcomm Snapdragon 685 (6nm) tốc độ lên đến 2.8GHz cùng nhân đồ họa Adreno 610. Kết hợp với chuẩn RAM LPDDR4X và bộ nhớ trong UFS 2.2 (64GB/128GB, hỗ trợ mở rộng qua thẻ nhớ microSDXC), máy đáp ứng tốt các tác vụ lướt web, xem video và mạng xã hội.",
+    "Cụm camera sau của OPPO A6x bao gồm camera chính 13MP (khẩu độ f/2.2, ống kính 4P, hỗ trợ lấy nét tự động AF) và cảm biến phụ đơn sắc hỗ trợ chụp chân dung xóa phông. Máy hỗ trợ quay video Full HD 1080p@30fps cùng các chế độ chụp đêm, độ phân giải cao Hi-Res và quét thông minh qua Google Lens.",
+    "Ở mặt trước, camera selfie 5MP (khẩu độ f/2.2) tích hợp chế độ làm đẹp tự nhiên và tính năng bù sáng màn hình khi chụp thiếu sáng. Viên pin dung lượng 6100mAh cung cấp nguồn năng lượng dồi dào cho cả ngày dài làm việc và giải trí liên tục.",
+    "Vận hành trên giao diện ColorOS 15.0 (Android 15) trực quan, OPPO A6x còn trang bị cảm biến vân tay cạnh bên mở khóa nhanh chóng, kết nối NFC một chạm, Wi-Fi 5 băng tần kép, Bluetooth 5.0 hỗ trợ aptX và giắc cắm tai nghe 3.5mm tiện dụng."
+  ],
+  "priceSegment": "entry-level"
+}

@@ -1,0 +1,544 @@
+{
+  "id": "xiaomi-17-5g",
+  "brand": "Xiaomi",
+  "brandId": "xiaomi",
+  "parentGroupId": "xiaomi_group",
+  "model": "Xiaomi 17",
+  "series": "Xiaomi 17 & 17T Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "high-end"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "Tháng 10/2025",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Xiaomi 17 (bỏ qua thế hệ số 16 để đồng bộ dải sản phẩm toàn cầu) là mẫu flagship nhỏ gọn 6,3 inch gây tiếng vang lớn khi tích hợp vi xử lý Qualcomm Snapdragon 8 Elite Gen 5 (3nm), nâng cấp camera trước lên 50MP, giữ trọn cụm 3 camera Leica 50MP Summilux phía sau và nén viên pin Silicon-Carbon dung lượng khủng (lên đến 6.330 mAh / 5.600 mAh) vào thân máy chỉ nặng 191 gram. Tại AURIX MOBILE, Xiaomi 17 là lựa chọn số một cho người dùng yêu thích điện thoại nhỏ gọn nhưng có thời lượng pin và sức mạnh vượt trội. (Nguồn tham chiếu: GSMArena - Xiaomi 17 5G).",
+    "highlights": [
+      "6,3 inch LTPO 3500 nit",
+      "Snapdragon 8 Elite Gen 5",
+      "3 Camera Leica 50MP + Selfie 50MP"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 19290000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT005-MI17-XANH-LA-12GB-256GB",
+      "color": "Xanh Lá",
+      "colorHex": "#228B57",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 19290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-17-5g/anh-dai-dien-xiaomi-17-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/canh-tren-va-canh-duoi-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/hai-canh-ben-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-canh-duoi-cong-sac-loa-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-goc-nghieng-cum-camera-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-can-canh-cum-camera-leica-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-cam-tay-chup-anh-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-mat-lung-tren-hop-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-mat-truoc-tren-hop-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-mo-hop-man-hinh-chinh-xanh-la.webp"
+      ]
+    },
+    {
+      "sku": "DT005-MI17-XANH-LA-12GB-512GB",
+      "color": "Xanh Lá",
+      "colorHex": "#228B57",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 21690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-17-5g/anh-dai-dien-xiaomi-17-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/canh-tren-va-canh-duoi-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/hai-canh-ben-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-canh-duoi-cong-sac-loa-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-goc-nghieng-cum-camera-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-can-canh-cum-camera-leica-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-cam-tay-chup-anh-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-mat-lung-tren-hop-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-mat-truoc-tren-hop-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-mo-hop-man-hinh-chinh-xanh-la.webp"
+      ]
+    },
+    {
+      "sku": "DT005-MI17-HONG-PHAN-12GB-256GB",
+      "color": "Hồng Phấn",
+      "colorHex": "#F9A8D4",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 19290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-17-5g/anh-dai-dien-xiaomi-17-hong-phan.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-phai-hong-phan.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-trai-hong-phan.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-man-hinh-phai-hong-phan.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-man-hinh-trai-hong-phan.webp"
+      ]
+    },
+    {
+      "sku": "DT005-MI17-HONG-PHAN-12GB-512GB",
+      "color": "Hồng Phấn",
+      "colorHex": "#F9A8D4",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 21690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-17-5g/anh-dai-dien-xiaomi-17-hong-phan.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-phai-hong-phan.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-trai-hong-phan.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-man-hinh-phai-hong-phan.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-man-hinh-trai-hong-phan.webp"
+      ]
+    },
+    {
+      "sku": "DT005-MI17-XANH-DUONG-NHAT-12GB-256GB",
+      "color": "Xanh Dương Nhạt",
+      "colorHex": "#D4E5F7",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 19290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-17-5g/anh-dai-dien-xiaomi-17-xanh-duong-nhat.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-phai-xanh-duong-nhat.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-trai-xanh-duong-nhat.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-man-hinh-phai-xanh-duong-nhat.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-man-hinh-trai-xanh-duong-nhat.webp"
+      ]
+    },
+    {
+      "sku": "DT005-MI17-XANH-DUONG-NHAT-12GB-512GB",
+      "color": "Xanh Dương Nhạt",
+      "colorHex": "#D4E5F7",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 21690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-17-5g/anh-dai-dien-xiaomi-17-xanh-duong-nhat.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-phai-xanh-duong-nhat.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-trai-xanh-duong-nhat.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-man-hinh-phai-xanh-duong-nhat.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-man-hinh-trai-xanh-duong-nhat.webp"
+      ]
+    },
+    {
+      "sku": "DT005-MI17-DEN-12GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 19290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-17-5g/anh-dai-dien-xiaomi-17-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-phai-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-trai-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-man-hinh-phai-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-man-hinh-trai-den.webp"
+      ]
+    },
+    {
+      "sku": "DT005-MI17-DEN-12GB-512GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 21690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-17-5g/anh-dai-dien-xiaomi-17-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-phai-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-trai-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-man-hinh-phai-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-man-hinh-trai-den.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "LTPO AMOLED (68 tỷ màu), 1–120Hz, 3.500 nit",
+    "size": "6,3 inch / 6,36 inch (Compact Flagship)",
+    "resolution": "2670 x 1200 pixel (1.5K, 460 ppi)",
+    "refreshRate": "1–120Hz LTPO thích ứng",
+    "brightness": "Dolby Vision, HDR10+; Độ sáng đỉnh 3.500 nit; Làm mờ PWM tần số cao 2160Hz, cảm biến vân tay siêu âm 3D dưới màn hình",
+    "hdr": "HDR10+ / HLG",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 8 Elite Gen 5 (tiến trình 3nm thế hệ mới TSMC)",
+    "cpu": "CPU 8 nhân Oryon V3: 2 nhân Prime (xung nhịp lên tới 4,6 GHz) + 6 nhân Performance (3,53 GHz)",
+    "gpu": "Qualcomm Adreno 840 hỗ trợ Hardware Ray Tracing 2.0, kèm tản nhiệt buồng hơi 3D IceLoop",
+    "ram": [
+      "12GB"
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ],
+    "operatingSystem": "Xiaomi HyperOS 3.0 trên nền tảng Android 16",
+    "uiVersion": "Xiaomi HyperOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "3 camera Leica 50MP: Chính Light Fusion 900 OIS + Tele nổi 60mm OIS + Siêu rộng 14mm",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "Quay video 8K ở 30fps; Quay 4K ở 24/30/60fps hỗ trợ 10-bit Dolby Vision HDR và 10-bit Log chuẩn ACES; Chế độ điện ảnh Movie Mode"
+    ],
+    "aiFeatures": [
+      "2 phong cách ảnh Leica (Authentic & Vibrant); Leica Master Lens System (35mm, 50mm, 75mm, 90mm); Nền tảng Xiaomi AISP 3.0, chụp nhanh Leica Fastshot"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "50MP (ƒ/2.0), quay 4K 60fps",
+    "features": [
+      "Camera Selfie nâng cấp lên 50MP (khẩu độ ƒ/2.0, góc rộng); Hỗ trợ Dolby Vision HDR và quay video 4K ở 30/60fps kèm chống rung EIS"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "6.330 mAh / 5.600 mAh (Pin Silicon-Carbon mật độ siêu cao)",
+    "wiredCharging": "Sạc nhanh có dây 90W HyperCharge, sạc không dây 50W",
+    "wirelessCharging": "Có hỗ trợ sạc không dây",
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": "Sạc nhanh có dây 90W HyperCharge | Sạc nhanh không dây 50W Wireless HyperCharge | Sạc ngược không dây 10W"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM hoặc Nano-SIM + eSIM"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 7 (802.11be) ba băng tần, 2x2 MIMO",
+    "bluetooth": "Bluetooth 6.0 hỗ trợ aptX Lossless, aptX Adaptive, LDAC, LHDC 5.0",
+    "gps": [
+      "Định vị vệ tinh đa băng tần L1+L5: GPS, GLONASS, BeiDou, Galileo, QZSS"
+    ],
+    "usb": "USB Type-C chuẩn tốc độ cao USB 3.2 Gen 1 (5Gbps), hỗ trợ DisplayPort",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "151,1 x 71,8 x 8,1 mm",
+    "weight": "191 gram",
+    "materials": [
+      "Khung nhôm hàng không nguyên khối bo cong công thái học",
+      "Mặt lưng kính nhám mờ cao cấp chống bám vân tay"
+    ],
+    "waterResistance": "IP68 & IP69",
+    "availableColors": [
+      "Xanh Lá",
+      "Hồng Phấn",
+      "Xanh Dương Nhạt",
+      "Đen"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo Dolby Atmos, Hi-Res Audio & Hi-Res Wireless",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "AMOLED 6.3 inch"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Xiaomi tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/xiaomi/xiaomi-17-5g/anh-dai-dien-xiaomi-17-xanh-la.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/xiaomi/xiaomi-17-5g/anh-dai-dien-xiaomi-17-xanh-la.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/anh-dai-dien-xiaomi-17-den.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/anh-dai-dien-xiaomi-17-hong-phan.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/anh-dai-dien-xiaomi-17-xanh-duong-nhat.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-phai-den.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-phai-hong-phan.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-phai-xanh-duong-nhat.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-trai-den.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-trai-hong-phan.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-trai-xanh-duong-nhat.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/canh-tren-va-canh-duoi-xanh-la.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/hai-canh-ben-xanh-la.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-canh-duoi-cong-sac-loa-xanh-la.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-man-hinh-phai-den.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-man-hinh-phai-hong-phan.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-man-hinh-phai-xanh-duong-nhat.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-man-hinh-trai-den.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-man-hinh-trai-hong-phan.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-man-hinh-trai-xanh-duong-nhat.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-goc-nghieng-cum-camera-xanh-la.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-can-canh-cum-camera-leica-xanh-la.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-cam-tay-chup-anh-xanh-la.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-mat-lung-tren-hop-xanh-la.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-mat-truoc-tren-hop-xanh-la.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-mo-hop-man-hinh-chinh-xanh-la.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/xiaomi/xiaomi-17-5g/anh-dai-dien-xiaomi-17-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-phai-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-trai-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-man-hinh-phai-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-man-hinh-trai-den.webp"
+      ],
+      "Hồng Phấn": [
+        "assets/images/products/xiaomi/xiaomi-17-5g/anh-dai-dien-xiaomi-17-hong-phan.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-phai-hong-phan.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-trai-hong-phan.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-man-hinh-phai-hong-phan.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-man-hinh-trai-hong-phan.webp"
+      ],
+      "Xanh Dương Nhạt": [
+        "assets/images/products/xiaomi/xiaomi-17-5g/anh-dai-dien-xiaomi-17-xanh-duong-nhat.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-phai-xanh-duong-nhat.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-trai-xanh-duong-nhat.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-man-hinh-phai-xanh-duong-nhat.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-man-hinh-trai-xanh-duong-nhat.webp"
+      ],
+      "Xanh Lá": [
+        "assets/images/products/xiaomi/xiaomi-17-5g/anh-dai-dien-xiaomi-17-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/canh-tren-va-canh-duoi-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/hai-canh-ben-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-canh-duoi-cong-sac-loa-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-goc-nghieng-cum-camera-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-can-canh-cum-camera-leica-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-cam-tay-chup-anh-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-mat-lung-tren-hop-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-mat-truoc-tren-hop-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-mo-hop-man-hinh-chinh-xanh-la.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-phai-den.webp",
+      "screen": "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-man-hinh-phai-den.webp",
+      "performance": "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-man-hinh-phai-hong-phan.webp",
+      "camera": "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-goc-nghieng-cum-camera-xanh-la.webp",
+      "battery": "assets/images/products/xiaomi/xiaomi-17-5g/thuc-te-canh-duoi-cong-sac-loa-xanh-la.webp",
+      "feature": "assets/images/products/xiaomi/xiaomi-17-5g/anh-dai-dien-xiaomi-17-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/xiaomi/xiaomi-17-5g/anh-dai-dien-xiaomi-17-den.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/anh-dai-dien-xiaomi-17-hong-phan.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/anh-dai-dien-xiaomi-17-xanh-duong-nhat.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-phai-den.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-phai-hong-phan.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-phai-xanh-duong-nhat.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-trai-den.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-trai-hong-phan.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/goc-nghieng-mat-lung-trai-xanh-duong-nhat.webp",
+      "assets/images/products/xiaomi/xiaomi-17-5g/canh-tren-va-canh-duoi-xanh-la.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-xiaomi",
+      "https://www.thegioididong.com/dtdd-xiaomi-mi",
+      "https://www.mi.com/vn/phone/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "partial_retail_listing",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT005-MI17",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "CrystalRes LTPO AMOLED thế hệ mới hiển thị 68 tỷ màu (12-bit), viền bezel siêu mỏng đối xứng 4 cạnh",
+      "Kích thước màn hình": "6,3 – 6,36 inch theo đường chéo (thiết kế nhỏ gọn cầm nắm một tay hoàn hảo)",
+      "Độ phân giải màn hình": "2670 x 1200 pixel (chuẩn 1.5K sắc nét, mật độ điểm ảnh 460 ppi)",
+      "Tần số quét": "Tần số quét thích ứng LTPO từ 1Hz đến 120Hz",
+      "Kiểu màn hình": "Màn hình phẳng đục lỗ viền siêu mỏng, bảo vệ bởi kính cường lực Xiaomi Dragon Crystal Glass / Shield Glass",
+      "Tính năng màn hình": "Dolby Vision, HDR10+; Độ sáng đỉnh 3.500 nit; Làm mờ PWM tần số cao 2160Hz, cảm biến vân tay siêu âm 3D dưới màn hình"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera Leica VARIO-SUMMILUX đồng bộ 50MP: (1) Camera chính 50MP Leica: cảm biến Light Fusion 900 (1/1.31\"), khẩu độ ƒ/1.62, tiêu cự 23mm, Dual Pixel PDAF + Laser AF, chống rung quang học OIS; (2) Camera Telephoto nổi 50MP Leica 60mm: khẩu độ ƒ/2.0, tiêu cự 60mm (zoom quang 2.6x/3.2x, zoom lossless 5x), chống rung OIS, hỗ trợ chụp cận cảnh Telephoto Macro từ 10cm; (3) Camera Góc siêu rộng 50MP Leica 14mm: khẩu độ ƒ/2.2, góc nhìn 115°",
+      "Quay video": "Quay video 8K ở 30fps; Quay 4K ở 24/30/60fps hỗ trợ 10-bit Dolby Vision HDR và 10-bit Log chuẩn ACES; Chế độ điện ảnh Movie Mode",
+      "Tính năng camera": "2 phong cách ảnh Leica (Authentic & Vibrant); Leica Master Lens System (35mm, 50mm, 75mm, 90mm); Nền tảng Xiaomi AISP 3.0, chụp nhanh Leica Fastshot"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera Selfie nâng cấp lên 50MP (khẩu độ ƒ/2.0, góc rộng); Hỗ trợ Dolby Vision HDR và quay video 4K ở 30/60fps kèm chống rung EIS"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 8 Elite Gen 5 (tiến trình 3nm thế hệ mới TSMC)",
+      "Loại CPU": "CPU 8 nhân Oryon V3: 2 nhân Prime (xung nhịp lên tới 4,6 GHz) + 6 nhân Performance (3,53 GHz)",
+      "GPU": "Qualcomm Adreno 840 hỗ trợ Hardware Ray Tracing 2.0, kèm tản nhiệt buồng hơi 3D IceLoop"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "12GB LPDDR5X tốc độ cao",
+      "Bộ nhớ trong": "2 phiên bản: 256GB và 512GB chuẩn UFS 4.1 siêu tốc"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "6.330 mAh (Bản nội địa) / 5.600 mAh (Bản Quốc tế) sử dụng công nghệ pin Xiaomi Surge Silicon-Carbon thế hệ mới",
+      "Công nghệ sạc": "Sạc nhanh có dây 90W HyperCharge | Sạc nhanh không dây 50W Wireless HyperCharge | Sạc ngược không dây 10W",
+      "Cổng sạc": "USB Type-C chuẩn tốc độ cao USB 3.2 Gen 1 (5Gbps), hỗ trợ DisplayPort"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS 3.0 trên nền tảng Android 16",
+      "Công nghệ - Tiện ích": "Hệ sinh thái Xiaomi HyperAI thế hệ 3, Google Gemini, Circle to Search",
+      "Tiện ích khác": "Cảm biến vân tay siêu âm 3D dưới màn hình, cổng hồng ngoại IR Blaster",
+      "Thời điểm ra mắt": "Tháng 09/2025 (Bản Quốc tế ra mắt đầu năm 2026)"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G đa băng tần (SA/NSA Sub-6GHz), 4G LTE-A",
+      "Thẻ SIM": "2 Nano-SIM hoặc Nano-SIM + eSIM",
+      "Wi-Fi": "Wi-Fi 7 (802.11be) ba băng tần, 2x2 MIMO",
+      "Bluetooth": "Bluetooth 6.0 hỗ trợ aptX Lossless, aptX Adaptive, LDAC, LHDC 5.0",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa năng",
+      "GPS": "Định vị vệ tinh đa băng tần L1+L5: GPS, GLONASS, BeiDou, Galileo, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung nhôm hàng không nguyên khối bo cong công thái học",
+      "Chất liệu mặt lưng": "Mặt lưng kính nhám mờ cao cấp chống bám vân tay",
+      "Kích thước": "151,1 x 71,8 x 8,1 mm",
+      "Trọng lượng": "191 gram",
+      "Chỉ số kháng nước, bụi": "Đạt đồng thời chuẩn IP68 & IP69"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa kép Stereo Dolby Atmos, Hi-Res Audio & Hi-Res Wireless",
+      "Cảm biến vân tay": "Cảm biến vân tay siêu âm 3D dưới màn hình + Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Vân tay siêu âm 3D, Laser AF, Cảm biến phổ màu, Áp kế, Gia tốc kế, Con quay hồi chuyển, Tiệm cận, Ánh sáng, La bàn số, Hồng ngoại"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,3 inch / 6,36 inch (Compact Flagship)"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "LTPO AMOLED (68 tỷ màu), 1–120Hz, 3.500 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2670 x 1200 pixel (1.5K, 460 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "1–120Hz LTPO thích ứng"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 8 Elite Gen 5 (3nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "2 phiên bản: 256GB và 512GB chuẩn UFS 4.1"
+    },
+    {
+      "label": "Camera sau",
+      "value": "3 camera Leica 50MP: Chính Light Fusion 900 OIS + Tele nổi 60mm OIS + Siêu rộng 14mm"
+    },
+    {
+      "label": "Camera trước",
+      "value": "50MP (ƒ/2.0), quay 4K 60fps"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "6.330 mAh / 5.600 mAh (Pin Silicon-Carbon mật độ siêu cao)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh có dây 90W HyperCharge, sạc không dây 50W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS 3.0 (Android 16)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 & IP69"
+    }
+  ],
+  "verbatimDescription": [
+    "Xiaomi 17 (bỏ qua thế hệ số 16 để đồng bộ dải sản phẩm toàn cầu) là mẫu flagship nhỏ gọn 6,3 inch gây tiếng vang lớn khi tích hợp vi xử lý Qualcomm Snapdragon 8 Elite Gen 5 (3nm), nâng cấp camera trước lên 50MP, giữ trọn cụm 3 camera Leica 50MP Summilux phía sau và nén viên pin Silicon-Carbon dung lượng khủng (lên đến 6.330 mAh / 5.600 mAh) vào thân máy chỉ nặng 191 gram. Tại AURIX MOBILE, Xiaomi 17 là lựa chọn số một cho người dùng yêu thích điện thoại nhỏ gọn nhưng có thời lượng pin và sức mạnh vượt trội.",
+    "Với kích thước chỉ 151,1 x 71,8 x 8,1 mm và trọng lượng 191 gram, Xiaomi 17 mang lại cảm giác cầm nắm một tay cực kỳ gọn gàng. Thân máy chế tác từ khung nhôm hàng không kết hợp kính cường lực Dragon Crystal Glass và nâng cấp lên chuẩn kháng bụi nước kép IP68 & IP69.",
+    "Màn hình phẳng 6,3 inch LTPO AMOLED (2670 x 1200 pixel, 460 ppi) có viền bezel siêu mỏng đều 4 cạnh, tần số quét thích ứng 1–120Hz, độ sáng đỉnh 3.500 nit và tích hợp cảm biến vân tay siêu âm 3D dưới màn hình.",
+    "Hệ thống nhiếp ảnh của Xiaomi 17 sở hữu tới 4 camera 50MP (3 sau + 1 trước): camera chính 50MP Light Fusion 900 (1/1.31\", ƒ/1.62, OIS), camera Telephoto nổi Leica 60mm 50MP (ƒ/2.0, OIS, chụp Tele Macro 10cm), camera góc siêu rộng 50MP và camera Selfie nâng cấp lên 50MP hỗ trợ quay 4K@60fps.",
+    "Trái tim của thiết bị là vi xử lý Snapdragon 8 Elite Gen 5 (3nm, xung nhịp 4,6 GHz) đi kèm 12GB RAM LPDDR5X và bộ nhớ 256GB/512GB UFS 4.1 trên nền tảng Xiaomi HyperOS 3.0 (Android 16).",
+    "Nhờ công nghệ pin Xiaomi Surge Silicon-Carbon mật độ cao, Xiaomi 17 đạt thời lượng sử dụng vượt xa mọi thế hệ flagship nhỏ gọn trước đây, đi kèm sạc nhanh có dây 90W và sạc không dây 50W."
+  ],
+  "priceSegment": "high-end"
+}

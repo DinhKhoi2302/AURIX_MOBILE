@@ -1,0 +1,160 @@
+{
+  "id": "jbl-tune-520bt",
+  "docCode": "PK-TN004-JBL520BT",
+  "model": "Tai Nghe Chụp Tai Không Dây JBL Tune 520BT",
+  "brand": "JBL",
+  "brandId": "jbl",
+  "parentGroupId": "jbl",
+  "series": "Tai nghe",
+  "subCategory": "tai-nghe",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "tai-nghe"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Tai nghe",
+    "highlights": [
+      "On-ear"
+    ],
+    "description": "Nổi tiếng với chất âm JBL Pure Bass Sound mạnh mẽ và uy lực. Thời lượng pin cực khủng 57 tiếng giúp bạn thoải mái thưởng thức âm nhạc cả tuần mà không cần sạc lại, thiết kế đệm tai mềm nhẹ và có thể gập phẳng tiện lợi bỏ túi xách."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 1090000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/anh-dai-dien-jbl-tune-520bt-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/anh-dai-dien-jbl-tune-520bt-den.webp",
+      "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/anh-dai-dien-jbl-tune-520bt-xanh-duong.webp",
+      "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/mat-chinh-dien-tai-nghe-chup-tai-den.webp",
+      "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/canh-ben-tai-nghe-chup-tai-den.webp",
+      "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/goc-nghieng-phai-den.webp",
+      "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/dat-nam-ngang-den.webp",
+      "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/thiet-ke-gap-gon-den.webp",
+      "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/xoay-cup-tai-linh-hoat-den.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/anh-dai-dien-jbl-tune-520bt-den.webp",
+        "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/mat-chinh-dien-tai-nghe-chup-tai-den.webp",
+        "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/canh-ben-tai-nghe-chup-tai-den.webp",
+        "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/goc-nghieng-phai-den.webp",
+        "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/dat-nam-ngang-den.webp",
+        "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/thiet-ke-gap-gon-den.webp",
+        "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/xoay-cup-tai-linh-hoat-den.webp"
+      ],
+      "Xanh Dương": [
+        "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/anh-dai-dien-jbl-tune-520bt-xanh-duong.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/canh-ben-tai-nghe-chup-tai-den.webp",
+      "screen": "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/mat-chinh-dien-tai-nghe-chup-tai-den.webp",
+      "performance": "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/dat-nam-ngang-den.webp",
+      "camera": "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/anh-dai-dien-jbl-tune-520bt-xanh-duong.webp",
+      "battery": "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/thiet-ke-gap-gon-den.webp",
+      "feature": "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/goc-nghieng-phai-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/anh-dai-dien-jbl-tune-520bt-xanh-duong.webp",
+      "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/mat-chinh-dien-tai-nghe-chup-tai-den.webp",
+      "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/canh-ben-tai-nghe-chup-tai-den.webp",
+      "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/goc-nghieng-phai-den.webp",
+      "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/dat-nam-ngang-den.webp",
+      "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/thiet-ke-gap-gon-den.webp",
+      "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/xoay-cup-tai-linh-hoat-den.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "JBL",
+      "Kiểu tai nghe": "On-ear (chụp tai mút đệm êm ái, có thể gập gọn)",
+      "Kết nối": "Bluetooth 5.3",
+      "Cổng sạc": "USB-C",
+      "Chống ồn chủ động (ANC)": "Không (Cách âm thụ động tốt)",
+      "Microphone": "Có (Hỗ trợ đàm thoại rảnh tay Voice Aware)",
+      "Thời lượng pin": "Lên đến 57 giờ sử dụng liên tục (sạc nhanh 5 phút dùng 3 giờ)",
+      "Màu sắc": "Đen, Xanh dương"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "JBL"
+    },
+    {
+      "label": "Kiểu tai nghe",
+      "value": "On-ear (chụp tai mút đệm êm ái, có thể gập gọn)"
+    },
+    {
+      "label": "Kết nối",
+      "value": "Bluetooth 5.3"
+    },
+    {
+      "label": "Cổng sạc",
+      "value": "USB-C"
+    },
+    {
+      "label": "Chống ồn chủ động (ANC)",
+      "value": "Không (Cách âm thụ động tốt)"
+    },
+    {
+      "label": "Microphone",
+      "value": "Có (Hỗ trợ đàm thoại rảnh tay Voice Aware)"
+    },
+    {
+      "label": "Thời lượng pin",
+      "value": "Lên đến 57 giờ sử dụng liên tục (sạc nhanh 5 phút dùng 3 giờ)"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Đen, Xanh dương"
+    }
+  ],
+  "verbatimDescription": [
+    "Nổi tiếng với chất âm JBL Pure Bass Sound mạnh mẽ và uy lực. Thời lượng pin cực khủng 57 tiếng giúp bạn thoải mái thưởng thức âm nhạc cả tuần mà không cần sạc lại, thiết kế đệm tai mềm nhẹ và có thể gập phẳng tiện lợi bỏ túi xách."
+  ],
+  "variants": [
+    {
+      "sku": "PK-TN004-JBL520BT-DEN-TIEU-CHUAN",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 1090000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/anh-dai-dien-jbl-tune-520bt-den.webp",
+        "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/mat-chinh-dien-tai-nghe-chup-tai-den.webp",
+        "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/canh-ben-tai-nghe-chup-tai-den.webp",
+        "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/goc-nghieng-phai-den.webp",
+        "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/dat-nam-ngang-den.webp",
+        "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/thiet-ke-gap-gon-den.webp",
+        "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/xoay-cup-tai-linh-hoat-den.webp"
+      ]
+    },
+    {
+      "sku": "PK-TN004-JBL520BT-XANH-DUONG-TIEU-CHUAN",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 1090000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/tai-nghe/jbl-tune-520bt/anh-dai-dien-jbl-tune-520bt-xanh-duong.webp"
+      ]
+    }
+  ]
+}

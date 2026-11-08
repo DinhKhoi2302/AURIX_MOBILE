@@ -1,0 +1,20 @@
+/* TechPhone — Empty State */
+.tp-empty-state {
+  text-align: center;
+  padding: 3rem 1.5rem;
+  background: var(--tp-white);
+  border: 1px dashed var(--tp-border);
+  border-radius: var(--tp-radius-xl);
+}
+.tp-empty-icon {
+  width: 68px;
+  height: 68px;
+  border-radius: 50%;
+  background: var(--tp-primary-soft);
+  color: var(--tp-primary);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.75rem;
+  margin-bottom: 1rem;
+}

@@ -1,0 +1,318 @@
+{
+  "id": "poco-f8-ultra",
+  "model": "POCO F8 Ultra",
+  "brand": "POCO",
+  "brandId": "poco",
+  "parentGroupId": "xiaomi",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "high-end"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "highlights": [
+      "Cấu hình đỉnh cao với Snapdragon 8 Elite (3nm), chip đồ họa độc lập D1, 16GB RAM và tới 1TB ROM",
+      "Bộ ba camera 50MP toàn diện: cảm biến chính Light Fusion 900 (1/1.31\") + Tele tiềm vọng 5x OIS + Siêu rộng 50MP",
+      "Viên pin 6.500 mAh Silicon-Carbon kết hợp sạc siêu tốc 120W có dây và 50W không dây"
+    ],
+    "description": "POCO F8 Ultra là siêu phẩm đầu bảng đánh dấu bước tiến của POCO vào phân khúc Ultra Flagship với vi xử lý Snapdragon 8 Elite (3nm), RAM 16GB, bộ nhớ tới 1TB, màn hình 2K LTPO 144Hz độ sáng 3.500 nit và bộ ba camera 50MP có ống kính Tele tiềm vọng 5x OIS. Kết hợp pin 6.500 mAh sạc nhanh 120W có dây và 50W không dây, máy đáp ứng trọn vẹn mọi tiêu chuẩn khắt khe nhất.",
+    "releaseDate": "Tháng 06/2025"
+  },
+  "display": {
+    "technology": "AMOLED 2K LTPO 12-bit Dolby Vision",
+    "size": "6,73 inch",
+    "resolution": "2K+ (3200 x 1440 pixel)",
+    "refreshRate": "144Hz (LTPO 1–144Hz)",
+    "brightness": "Độ sáng tối đa 3.500 nit, công nghệ hiển thị phân cực tròn bảo vệ mắt, cảm ứng siêu nhạy Wet Touch 2.0",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "ram": [
+      "16GB"
+    ],
+    "storage": [
+      "512GB",
+      "1TB"
+    ],
+    "chipset": "Qualcomm Snapdragon 8 Elite (tiến trình TSMC 3nm, kết hợp chip đồ họa độc lập D1 hỗ trợ siêu phân giải 2K và nội suy 120fps)",
+    "operatingSystem": "Xiaomi HyperOS 2.0 (Android 15)",
+    "cpu": "CPU 8 nhân Oryon (2 siêu nhân 4.32GHz + 6 nhân hiệu năng cao 3.53GHz)",
+    "gpu": "Qualcomm Adreno 830"
+  },
+  "rearCamera": {
+    "main": "50MP Chính OIS + 50MP Tiềm vọng 5x OIS + 50MP Siêu rộng",
+    "ultraWide": null,
+    "telephoto": null,
+    "ois": true,
+    "videoRecording": [
+      "Quay video 8K ở 24/30 fps; 4K ở 24/30/60/120 fps; quay video 10-bit Dolby Vision HDR và định dạng chuyên nghiệp 10-bit Log"
+    ],
+    "aiFeatures": [
+      "Xiaomi AISP, Chụp nhanh chuyển động Lightning Snap, Chân dung đa tiêu cự (23mm/35mm/60mm/120mm), AI Ultra Zoom, AI Erase Pro"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "32MP (Quay 4K)",
+    "features": [
+      "Camera trước 32MP (khẩu độ ƒ/2.0, góc rộng 90°), hỗ trợ HDR10+ và quay video 4K@30/60fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "6.500 mAh",
+    "wiredCharging": "Sạc 120W | Không dây 50W",
+    "wirelessCharging": "Có hỗ trợ sạc không dây",
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": "Sạc siêu tốc HyperCharge 120W có dây | Sạc nhanh không dây 50W | Sạc ngược không dây 10W"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano SIM (hỗ trợ eSIM)"
+    ],
+    "network": [
+      "5G Sub-6GHz Dual SIM"
+    ],
+    "wifi": "Wi-Fi 7 (802.11 a/b/g/n/ac/ax/be, 2x2 MIMO, MLO)",
+    "bluetooth": "Bluetooth 5.4 / 6.0 (aptX Lossless, LDAC, LHDC 5.0)",
+    "gps": [
+      "Định vị đa băng tần L1+L5 (GPS, GLONASS, Galileo, Beidou, QZSS, NavIC)"
+    ],
+    "usb": "USB Type-C 3.2 Gen 1 (hỗ trợ xuất hình ảnh DisplayPort)",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "160,9 x 75,2 x 8,4 mm",
+    "weight": "215 gram",
+    "materials": [
+      "Khung viền hợp kim nhôm hàng không gia cường độ cứng cao",
+      "Mặt lưng kính cường lực cao cấp hoặc họa tiết Denim Nano-tech chống bám bẩn"
+    ],
+    "waterResistance": "Kháng nước & bụi IP68",
+    "availableColors": [
+      "Xanh Denim",
+      "Đen"
+    ]
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 16990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/poco/poco-f8-ultra/anh-dai-dien-xiaomi-poco-f8-ultra-xanh-demin.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/poco/poco-f8-ultra/anh-dai-dien-xiaomi-poco-f8-ultra-xanh-demin.webp",
+      "assets/images/products/poco/poco-f8-ultra/anh-dai-dien-xiaomi-poco-f8-ultra-den.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/poco/poco-f8-ultra/anh-dai-dien-xiaomi-poco-f8-ultra-den.webp"
+      ],
+      "Xanh Denim": [
+        "assets/images/products/poco/poco-f8-ultra/anh-dai-dien-xiaomi-poco-f8-ultra-xanh-demin.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/poco/poco-f8-ultra/anh-dai-dien-xiaomi-poco-f8-ultra-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/poco/poco-f8-ultra/anh-dai-dien-xiaomi-poco-f8-ultra-den.webp"
+    ]
+  },
+  "variants": [
+    {
+      "sku": "DT014-POCOF8U-XANH-DEMIN-16GB-512GB",
+      "color": "Xanh Denim",
+      "colorHex": "#3B82F6",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 16990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/poco/poco-f8-ultra/anh-dai-dien-xiaomi-poco-f8-ultra-xanh-demin.webp"
+      ]
+    },
+    {
+      "sku": "DT014-POCOF8U-XANH-DEMIN-16GB-1TB",
+      "color": "Xanh Denim",
+      "colorHex": "#3B82F6",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 19490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/poco/poco-f8-ultra/anh-dai-dien-xiaomi-poco-f8-ultra-xanh-demin.webp"
+      ]
+    },
+    {
+      "sku": "DT014-POCOF8U-DEN-16GB-512GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 16990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/poco/poco-f8-ultra/anh-dai-dien-xiaomi-poco-f8-ultra-den.webp"
+      ]
+    },
+    {
+      "sku": "DT014-POCOF8U-DEN-16GB-1TB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 19490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/poco/poco-f8-ultra/anh-dai-dien-xiaomi-poco-f8-ultra-den.webp"
+      ]
+    }
+  ],
+  "docCode": "DT014-POCOF8U",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "AMOLED 2K LTPO 12-bit (68,7 tỷ màu), hỗ trợ Dolby Vision, HDR10+, HDR Vivid, làm mờ 3840Hz PWM + DC Dimming",
+      "Kích thước màn hình": "6,73 inch",
+      "Độ phân giải màn hình": "3200 x 1440 pixel (2K WQHD+, mật độ điểm ảnh ~522 ppi)",
+      "Tần số quét": "144Hz thích ứng LTPO (biến thiên thông minh 1Hz – 144Hz)",
+      "Kiểu màn hình": "Màn hình phẳng viền siêu mỏng bốn cạnh, bảo vệ bởi kính cường lực Dragon Crystal / Poco Shield Glass",
+      "Tính năng màn hình": "Độ sáng tối đa 3.500 nit, công nghệ hiển thị phân cực tròn bảo vệ mắt, cảm ứng siêu nhạy Wet Touch 2.0"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera 50MP chuẩn Flagship: Camera chính 50MP Light Fusion 900 (kích thước cảm biến 1/1.31 inch, khẩu độ ƒ/1.6, điểm ảnh gộp 2.4μm, dải tương phản động 13.5EV, OIS) + Camera Tele tiềm vọng 50MP (zoom quang học 5x, zoom lossless 10x, chống rung OIS, hỗ trợ chụp Tele Macro) + Camera góc siêu rộng 50MP (khẩu độ ƒ/2.2, góc nhìn 122°, AF)",
+      "Quay video": "Quay video 8K ở 24/30 fps; 4K ở 24/30/60/120 fps; quay video 10-bit Dolby Vision HDR và định dạng chuyên nghiệp 10-bit Log",
+      "Tính năng camera": "Xiaomi AISP, Chụp nhanh chuyển động Lightning Snap, Chân dung đa tiêu cự (23mm/35mm/60mm/120mm), AI Ultra Zoom, AI Erase Pro"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera trước 32MP (khẩu độ ƒ/2.0, góc rộng 90°), hỗ trợ HDR10+ và quay video 4K@30/60fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 8 Elite (tiến trình TSMC 3nm, kết hợp chip đồ họa độc lập D1 hỗ trợ siêu phân giải 2K và nội suy 120fps)",
+      "Loại CPU": "CPU 8 nhân Oryon (2 siêu nhân 4.32GHz + 6 nhân hiệu năng cao 3.53GHz)",
+      "GPU": "Qualcomm Adreno 830"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "16GB LPDDR5X Ultra tốc độ cao",
+      "Bộ nhớ trong": "512GB / 1TB UFS 4.0"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "6.500 mAh (Pin Silicon-Carbon mật độ cao thế hệ mới tích hợp chip Surge P3 & Surge G1)",
+      "Công nghệ sạc": "Sạc siêu tốc HyperCharge 120W có dây | Sạc nhanh không dây 50W | Sạc ngược không dây 10W",
+      "Cổng sạc": "USB Type-C 3.2 Gen 1 (hỗ trợ xuất hình ảnh DisplayPort)"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS 2.0 (Android 15)",
+      "Công nghệ - Tiện ích": "Trợ lý trí tuệ nhân tạo HyperAI, WildBoost Optimization 4.0, Cổng hồng ngoại IR Blaster, Chip tăng cường sóng Surge T1S",
+      "Tiện ích khác": "Cảm biến vân tay siêu âm 3D dưới màn hình, mô-tơ rung tuyến tính trục X cỡ lớn",
+      "Thời điểm ra mắt": "2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G Sub-6GHz (SA/NSA), Dual 5G VoNR",
+      "Thẻ SIM": "2 Nano SIM (hỗ trợ eSIM)",
+      "Wi-Fi": "Wi-Fi 7 (802.11 a/b/g/n/ac/ax/be, 2x2 MIMO, MLO)",
+      "Bluetooth": "Bluetooth 5.4 / 6.0 (aptX Lossless, LDAC, LHDC 5.0)",
+      "Công nghệ NFC": "Có hỗ trợ",
+      "GPS": "Định vị đa băng tần L1+L5 (GPS, GLONASS, Galileo, Beidou, QZSS, NavIC)"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền hợp kim nhôm hàng không gia cường độ cứng cao",
+      "Chất liệu mặt lưng": "Mặt lưng kính cường lực cao cấp hoặc họa tiết Denim Nano-tech chống bám bẩn",
+      "Kích thước": "160,9 x 75,2 x 8,4 mm",
+      "Trọng lượng": "215 gram",
+      "Chỉ số kháng nước, bụi": "Chuẩn IP68 (kháng bụi hoàn toàn và ngâm nước sâu tới 2m trong 30 phút)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa Stereo đối xứng công suất lớn hỗ trợ Dolby Atmos, Hi-Res Audio & Hi-Res Wireless",
+      "Cảm biến vân tay": "Cảm biến vân tay siêu âm 3D dưới màn hình & Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Cảm biến ánh sáng 360°, Cảm biến tiệm cận, La bàn điện tử, Áp kế, Cảm biến nhấp nháy, Hồng ngoại IR"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,73 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "AMOLED 2K LTPO 12-bit Dolby Vision"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2K+ (3200 x 1440 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "144Hz (LTPO 1–144Hz)"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Snapdragon 8 Elite (3nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "16GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "512GB / 1TB UFS 4.0"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính OIS + 50MP Tiềm vọng 5x OIS + 50MP Siêu rộng"
+    },
+    {
+      "label": "Camera trước",
+      "value": "32MP (Quay 4K)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "6.500 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc 120W | Không dây 50W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS 2.0 (Android 15)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G Sub-6GHz Dual SIM"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "Kháng nước & bụi IP68"
+    }
+  ],
+  "verbatimDescription": [
+    "POCO F8 Ultra là câu trả lời đanh thép của POCO dành cho người dùng muốn sở hữu một chiếc điện thoại không có điểm yếu: vừa có hiệu năng gaming đỉnh cao, vừa sở hữu hệ thống camera tiềm vọng và sạc không dây chuẩn Ultra. Máy được trang bị vi xử lý Snapdragon 8 Elite (3nm) phối hợp cùng chip đồ họa rời D1, cho phép nâng cấp độ phân giải game lên 2K và nội suy khung hình 120fps siêu mượt.",
+    "Dung lượng bộ nhớ tiêu chuẩn 16GB RAM LPDDR5X kết hợp ổ cứng UFS 4.0 lên tới 1TB mang lại không gian lưu trữ khổng lồ cho các tựa game AAA dung lượng hàng chục GB cũng như các thước phim 4K/8K chuyên nghiệp.",
+    "Hệ thống nhiếp ảnh trên POCO F8 Ultra đạt đẳng cấp flagship thực thụ với cả 3 ống kính sau đều có độ phân giải 50MP. Cảm biến chính Light Fusion 900 kích thước lớn 1/1.31 inch mang lại dải tương phản động 13.5EV, trong khi ống kính Tele tiềm vọng 50MP hỗ trợ zoom quang học 5x và zoom lossless 10x có chống rung OIS giúp bắt trọn các chi tiết ở khoảng cách xa.",
+    "Màn hình phẳng 6,73 inch 2K LTPO (1–144Hz) có độ sáng đỉnh lên tới 3.500 nit và được bảo vệ bởi kính cường lực Dragon Crystal siêu bền. Tấm nền tích hợp công nghệ phân cực tròn giúp ánh sáng phát ra gần với ánh sáng tự nhiên, giảm mỏi mắt rõ rệt khi sử dụng liên tục.",
+    "Dù sở hữu thiết kế gọn gàng, POCO F8 Ultra vẫn chứa đựng viên pin Silicon-Carbon 6.500 mAh cùng hệ thống sạc toàn diện: sạc nhanh có dây 120W, sạc nhanh không dây 50W và chuẩn kháng bụi nước IP68."
+  ],
+  "series": "POCO F Series",
+  "priceSegment": "high-end"
+}

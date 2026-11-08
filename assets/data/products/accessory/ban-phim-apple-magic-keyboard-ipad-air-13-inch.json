@@ -1,0 +1,169 @@
+{
+  "id": "ban-phim-apple-magic-keyboard-ipad-air-13-inch",
+  "docCode": "PK-KB002-APPAIR13",
+  "model": "Bàn Phím Apple Magic Keyboard cho iPad Air 13 inch (M2)",
+  "brand": "Apple",
+  "brandId": "apple",
+  "parentGroupId": "apple",
+  "series": "Bàn phím & Bao da",
+  "subCategory": "keyboard",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "keyboard"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Bàn phím & Bao da",
+    "highlights": [
+      "Smart Connector"
+    ],
+    "description": "Biến iPad Air 13 inch thành một trạm làm việc mạnh mẽ tương đương máy tính xách tay. Cung cấp diện tích gõ phím đầy đủ, trackpad rộng rãi, bảo vệ tối ưu cả mặt trước và mặt sau của máy khi gập lại mang đi."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 8490000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/anh-dai-dien-ban-phim-apple-magic-keyboard-ipad-air-13-inch-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/anh-dai-dien-ban-phim-apple-magic-keyboard-ipad-air-13-inch-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/anh-dai-dien-ban-phim-apple-magic-keyboard-ipad-air-13-inch-trang.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/mat-chinh-dien-kem-ipad-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/goc-nghieng-mat-sau-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/goc-nghieng-mat-sau-trang.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/canh-ben-ban-le-treo-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/goc-nghieng-phai-kem-ipad-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/goc-nghieng-phai-kem-ipad-trang.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/goc-tren-xuong-ban-phim-va-trackpad-trang.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/anh-dai-dien-ban-phim-apple-magic-keyboard-ipad-air-13-inch-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/mat-chinh-dien-kem-ipad-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/goc-nghieng-mat-sau-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/canh-ben-ban-le-treo-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/goc-nghieng-phai-kem-ipad-den.webp"
+      ],
+      "Trắng": [
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/anh-dai-dien-ban-phim-apple-magic-keyboard-ipad-air-13-inch-trang.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/goc-nghieng-mat-sau-trang.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/goc-nghieng-phai-kem-ipad-trang.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/goc-tren-xuong-ban-phim-va-trackpad-trang.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/goc-nghieng-mat-sau-den.webp",
+      "screen": "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/mat-chinh-dien-kem-ipad-den.webp",
+      "performance": "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/goc-nghieng-phai-kem-ipad-den.webp",
+      "camera": "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/goc-nghieng-mat-sau-trang.webp",
+      "battery": "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/canh-ben-ban-le-treo-den.webp",
+      "feature": "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/anh-dai-dien-ban-phim-apple-magic-keyboard-ipad-air-13-inch-trang.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/anh-dai-dien-ban-phim-apple-magic-keyboard-ipad-air-13-inch-trang.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/mat-chinh-dien-kem-ipad-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/goc-nghieng-mat-sau-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/goc-nghieng-mat-sau-trang.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/canh-ben-ban-le-treo-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/goc-nghieng-phai-kem-ipad-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/goc-nghieng-phai-kem-ipad-trang.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/goc-tren-xuong-ban-phim-va-trackpad-trang.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Apple",
+      "Loại bàn phím": "Bao da bàn phím lơ lửng cỡ lớn",
+      "Thiết bị tương thích": "iPad Air 13 inch (M2), iPad Pro 12.9 inch (Gen 3, 4, 5, 6)",
+      "Kiểu kết nối": "Smart Connector",
+      "Ngôn ngữ bàn phím": "Tiếng Anh (US English)",
+      "Bàn di chuột (Touchpad)": "Có (Trackpad kính diện tích lớn)",
+      "Đèn nền bàn phím": "Có",
+      "Nguồn cấp điện": "Cấp nguồn từ iPad qua Smart Connector",
+      "Màu sắc": "Đen, Trắng"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Apple"
+    },
+    {
+      "label": "Loại bàn phím",
+      "value": "Bao da bàn phím lơ lửng cỡ lớn"
+    },
+    {
+      "label": "Thiết bị tương thích",
+      "value": "iPad Air 13 inch (M2), iPad Pro 12.9 inch (Gen 3, 4, 5, 6)"
+    },
+    {
+      "label": "Kiểu kết nối",
+      "value": "Smart Connector"
+    },
+    {
+      "label": "Ngôn ngữ bàn phím",
+      "value": "Tiếng Anh (US English)"
+    },
+    {
+      "label": "Bàn di chuột (Touchpad)",
+      "value": "Có (Trackpad kính diện tích lớn)"
+    },
+    {
+      "label": "Đèn nền bàn phím",
+      "value": "Có"
+    },
+    {
+      "label": "Nguồn cấp điện",
+      "value": "Cấp nguồn từ iPad qua Smart Connector"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Đen, Trắng"
+    }
+  ],
+  "verbatimDescription": [
+    "Biến iPad Air 13 inch thành một trạm làm việc mạnh mẽ tương đương máy tính xách tay. Cung cấp diện tích gõ phím đầy đủ, trackpad rộng rãi, bảo vệ tối ưu cả mặt trước và mặt sau của máy khi gập lại mang đi."
+  ],
+  "variants": [
+    {
+      "sku": "PK-KB002-APPAIR13-DEN-TIEU-CHUAN",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 8490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/anh-dai-dien-ban-phim-apple-magic-keyboard-ipad-air-13-inch-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/mat-chinh-dien-kem-ipad-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/goc-nghieng-mat-sau-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/canh-ben-ban-le-treo-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/goc-nghieng-phai-kem-ipad-den.webp"
+      ]
+    },
+    {
+      "sku": "PK-KB002-APPAIR13-TRANG-TIEU-CHUAN",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 8490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/anh-dai-dien-ban-phim-apple-magic-keyboard-ipad-air-13-inch-trang.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/goc-nghieng-mat-sau-trang.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/goc-nghieng-phai-kem-ipad-trang.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-13-inch/goc-tren-xuong-ban-phim-va-trackpad-trang.webp"
+      ]
+    }
+  ]
+}

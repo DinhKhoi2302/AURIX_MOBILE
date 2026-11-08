@@ -1,0 +1,272 @@
+{
+  "id": "oppo-pad-3",
+  "docCode": "TB-OP001-PAD3",
+  "model": "OPPO Pad 3 Wi-Fi 2.8K 144Hz",
+  "brand": "OPPO",
+  "brandId": "oppo",
+  "parentGroupId": "oppo",
+  "series": "OPPO Pad Series",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "11.61 inch",
+      "Dimensity 8350",
+      "Pin 9.520 mAh"
+    ],
+    "description": "OPPO Pad 3 là tuyệt tác máy tính bảng thế hệ mới mang tính tiên phong của OPPO, nổi bật với tỷ lệ màn hình độc quyền 7:5 tương tự một cuốn sách in thực tế. Tỷ lệ này cung cấp không gian đọc sách báo, xem tài liệu PDF và soạn thảo văn bản thoải mái hơn hẳn tỷ lệ 16:10 thông thường, giúp tăng hiệu suất làm việc lên đáng kể.",
+    "releaseDate": "2024 / 2025"
+  },
+  "performance": {
+    "chipset": "MediaTek Dimensity 8350 (tiến trình 4nm thế hệ mới cực mạnh)",
+    "ram": [
+      "12GB",
+      "8GB"
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ],
+    "operatingSystem": "ColorOS 14.1 for Pad (phát triển trên Android 14)"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 8990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/oppo/oppo-pad-3/anh-dai-dien-oppo-pad-3-bac.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/oppo/oppo-pad-3/anh-dai-dien-oppo-pad-3-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-3/mat-truoc-sau-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-3/can-canh-nut-am-luong-canh-ben-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-3/canh-ben-trai-phai-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-3/canh-tren-duoi-loa-cong-sac-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-3/can-canh-cum-camera-sau-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-3/cam-tren-tay-man-hinh-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-3/can-canh-chan-ket-noi-pogo-pin-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-3/can-canh-cong-sac-type-c-va-loa-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-3/can-canh-nut-nguon-va-loa-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-3/hop-va-phu-kien-cap-sac-bac-trang.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-3/mat-sau-dat-canh-hop-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-3/mat-truoc-dat-canh-hop-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-3/tinh-nang-ai-thong-minh-chong-loa-xoa-vat-the-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-3/banner-gioi-thieu-oppo-pad-3-bac-tim.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-3/thong-so-chip-mediatek-dimensity-8350-den-xanh.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-3/thong-so-man-hinh-ltps-lcd-11-61-inch-144hz-2-8k-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-3/tong-quan-tinh-nang-man-hinh-2-8k-144hz-pin-9520mah-bac.webp"
+    ],
+    "byColor": {
+      "Bạc": [
+        "assets/images/products/tablet/oppo/oppo-pad-3/anh-dai-dien-oppo-pad-3-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/mat-truoc-sau-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/can-canh-nut-am-luong-canh-ben-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/canh-ben-trai-phai-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/canh-tren-duoi-loa-cong-sac-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/can-canh-cum-camera-sau-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/cam-tren-tay-man-hinh-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/can-canh-chan-ket-noi-pogo-pin-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/can-canh-cong-sac-type-c-va-loa-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/can-canh-nut-nguon-va-loa-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/mat-sau-dat-canh-hop-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/mat-truoc-dat-canh-hop-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/tinh-nang-ai-thong-minh-chong-loa-xoa-vat-the-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/hop-va-phu-kien-cap-sac-bac-trang.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/banner-gioi-thieu-oppo-pad-3-bac-tim.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/thong-so-chip-mediatek-dimensity-8350-den-xanh.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/thong-so-man-hinh-ltps-lcd-11-61-inch-144hz-2-8k-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/tong-quan-tinh-nang-man-hinh-2-8k-144hz-pin-9520mah-bac.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/oppo/oppo-pad-3/mat-truoc-sau-bac.webp",
+      "screen": "assets/images/products/tablet/oppo/oppo-pad-3/cam-tren-tay-man-hinh-bac.webp",
+      "performance": "assets/images/products/tablet/oppo/oppo-pad-3/thong-so-chip-mediatek-dimensity-8350-den-xanh.webp",
+      "camera": "assets/images/products/tablet/oppo/oppo-pad-3/can-canh-cum-camera-sau-bac.webp",
+      "battery": "assets/images/products/tablet/oppo/oppo-pad-3/canh-tren-duoi-loa-cong-sac-bac.webp",
+      "feature": "assets/images/products/tablet/oppo/oppo-pad-3/canh-ben-trai-phai-bac.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/oppo/oppo-pad-3/mat-truoc-sau-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-3/can-canh-nut-am-luong-canh-ben-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-3/canh-ben-trai-phai-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-3/canh-tren-duoi-loa-cong-sac-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-3/can-canh-cum-camera-sau-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-3/cam-tren-tay-man-hinh-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-3/can-canh-chan-ket-noi-pogo-pin-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-3/can-canh-cong-sac-type-c-va-loa-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-3/can-canh-nut-nguon-va-loa-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-3/hop-va-phu-kien-cap-sac-bac-trang.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "11,61 inch LTPS LCD 2.8K (2800 x 2000 pixel, mật độ điểm ảnh 296 ppi), tỷ lệ vàng 7:5 ReadFit như trang sách, tần số quét thích ứng 144Hz (30/60/90/120/144Hz), hiển thị 1,07 tỷ màu (10-bit), độ sáng 700 nit",
+      "Tính năng màn hình": "Tỷ lệ 7:5 mở rộng thêm 10% diện tích hiển thị nội dung dọc so với tỷ lệ 16:10, chuẩn màu Delta E < 1, chứng nhận bảo vệ mắt TÜV Rheinland và điều chỉnh nhiệt độ màu theo nhịp sinh học"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "MediaTek Dimensity 8350 4nm với bộ xử lý NPU AI tích hợp cho các tác vụ thông minh",
+      "CPU & Đồ họa": "Octa-core kiến trúc hiệu năng cao xung nhịp tối đa 3.35 GHz, GPU Mali-G615",
+      "Hệ điều hành khi ra mắt": "ColorOS 14.1 for Pad trên Android 14 tối ưu hóa đa nhiệm chia đôi và cửa sổ nổi"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "8GB / 12GB LPDDR5X băng thông cực lớn",
+      "Bộ nhớ trong": "256GB / 512GB chuẩn UFS 3.1 lưu trữ dữ liệu và cài đặt game nhanh chóng"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "8MP tự động lấy nét đặt ở trung tâm mặt lưng, quay video 4K 30fps",
+      "Camera trước": "8MP góc rộng tối ưu hóa đàm thoại video họp trực tuyến",
+      "Chi tiết hệ thống Camera": "Camera chính sau 8MP f/2.0 quay video 4K; Camera trước 8MP f/2.2 nhận diện khuôn mặt"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "9.520 mAh dung lượng lớn, sạc siêu nhanh SuperVOOC 67W",
+      "Pin và công nghệ sạc": "Pin Lithium Polymer 9.520 mAh, công nghệ sạc siêu tốc SuperVOOC 67W nạp 50% pin chỉ trong 30 phút"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Tương thích bút cảm ứng OPPO Pencil 2 (độ trễ siêu thấp 2ms, 4.096 mức lực nhấn, tích hợp mô-tơ rung phản hồi xúc giác mô phỏng nét bút máy, bút chì và bút bi)",
+      "Hỗ trợ bàn phím rời": "Hỗ trợ bao da bàn phím thông minh OPPO Magnetic Smart Keyboard qua Pogo Pin",
+      "Công nghệ âm thanh": "Hệ thống 6 loa Stereo buồng âm lớn phân bổ đối xứng, hỗ trợ âm thanh không gian Holo Audio (cho phép định vị từng nguồn âm thanh độc lập) và chuẩn Hi-Res Audio",
+      "Thuộc tính đặc biệt": "Tỷ lệ màn hình sách 7:5, chip Dimensity 8350 4nm, sạc nhanh 67W, hỗ trợ bút cảm ứng OPPO Pencil 2"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Wi-Fi 6 (802.11ax) đa băng tần",
+      "Thẻ SIM": "Không hỗ trợ (Bản Wi-Fi)",
+      "Kết nối không dây & Cổng giao tiếp": "Wi-Fi 6, Bluetooth 5.4, cổng kết nối phụ kiện Pogo Pin, cổng sạc Type-C USB 2.0",
+      "Công nghệ - Tiện ích": "Tính năng kết nối liên mạch với smartphone OPPO (chia sẻ màn hình, clipboard, tin nhắn)"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Thiết kế siêu mỏng nhẹ chỉ 6.29 mm, kích thước 258.0 x 189.4 x 6.29 mm, trọng lượng 533 g",
+      "Bảo mật và độ bền": "Mở khóa bằng nhận diện khuôn mặt AI Face Unlock, vỏ nhôm nguyên khối liền mạch gia công CNC",
+      "Thời điểm ra mắt": "Năm 2024 / 2025"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "11.61 inch LTPS LCD, tỷ lệ vàng 7:5, độ phân giải 2.8K siêu nét (2800 x 2000 pixels)"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Tần số quét đỉnh cao 144Hz, độ sáng 700 nits, hiển thị 1.07 tỷ màu (10-bit), chứng nhận bảo vệ mắt TÜV Rheinland"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 8350 (tiến trình 4nm thế hệ mới cực mạnh)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB / 12GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB / 512GB UFS 3.1"
+    },
+    {
+      "label": "Camera sau",
+      "value": "8MP tự động lấy nét đặt ở trung tâm mặt lưng, quay video 4K 30fps"
+    },
+    {
+      "label": "Camera trước",
+      "value": "8MP góc rộng tối ưu hóa đàm thoại video họp trực tuyến"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Pin Lithium Polymer 9.520 mAh, công nghệ sạc siêu tốc SuperVOOC 67W nạp 50% pin chỉ trong 30 phút"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Wi-Fi 6 (802.11ax) đa băng tần"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Tương thích bút cảm ứng OPPO Pencil 2 độ trễ chỉ 2ms, hỗ trợ 4096 mức cảm ứng lực"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Hỗ trợ bao da bàn phím thông minh OPPO Magnetic Smart Keyboard qua Pogo Pin"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "ColorOS 14.1 for Pad (phát triển trên Android 14)"
+    }
+  ],
+  "verbatimDescription": [
+    "OPPO Pad 3 là tuyệt tác máy tính bảng thế hệ mới mang tính tiên phong của OPPO, nổi bật với tỷ lệ màn hình độc quyền 7:5 tương tự một cuốn sách in thực tế. Tỷ lệ này cung cấp không gian đọc sách báo, xem tài liệu PDF và soạn thảo văn bản thoải mái hơn hẳn tỷ lệ 16:10 thông thường, giúp tăng hiệu suất làm việc lên đáng kể.",
+    "Màn hình kích thước 11.61 inch với độ phân giải siêu cao 2.8K (2800 x 2000 pixels) cùng tần số quét 144Hz siêu mượt mà đem lại trải nghiệm thị giác ngoạn mục. Từng chuyển động vuốt chạm, lướt trang và nét vẽ từ bút cảm ứng OPPO Pencil 2 đều được phản hồi tức thì với độ trễ gần như bằng không.",
+    "Sức mạnh phần cứng ấn tượng được cung cấp bởi vi xử lý MediaTek Dimensity 8350 xây dựng trên tiến trình 4nm hiện đại, kết hợp RAM LPDDR5X lên tới 12GB. Máy xử lý mượt mà mọi tác vụ đồ họa, dựng video ngắn CapCut cũng như chiến các tựa game đình đám ở mức khung hình ổn định.",
+    "Viên pin dung lượng lớn 9.520 mAh cho thời lượng sử dụng bền bỉ suốt cả ngày dài làm việc, đi kèm công nghệ sạc siêu nhanh SuperVOOC 67W trứ danh của OPPO giúp nạp đầy năng lượng trong thời gian ngắn ngủi. Dàn 6 loa âm thanh vòm đa kênh đem lại trải nghiệm giải trí điện ảnh đỉnh cao cho người dùng.",
+    "Trải nghiệm viết vẽ và đa nhiệm trên OPPO Pad 3 đạt độ hoàn thiện vượt bậc nhờ giao diện ColorOS for Pad với bố cục Boundless View (chia 3 màn hình ảo mở rộng vượt khuôn khổ vật lý). Khi kết hợp cùng bút OPPO Pencil 2 có phản hồi rung xúc giác chân thực và bàn phím từ tính thông minh, việc ghi chú cuộc họp hay phác thảo ý tưởng trở nên tự nhiên như trên sổ tay.",
+    "Khả năng liên kết hệ sinh thái đa thiết bị cho phép OPPO Pad 3 tự động kết nối mạng 5G từ điện thoại OPPO để tiết kiệm pin hơn phát Wi-Fi Hotspot truyền thống, đồng thời đồng bộ thông báo, clipboard và kéo thả ảnh chụp trực tiếp giữa hai màn hình. Hệ thống 6 loa Holo Audio trong thân máy kim loại mỏng chỉ 6,29mm hoàn thiện một thiết bị vừa sang trọng vừa mạnh mẽ."
+  ],
+  "variants": [
+    {
+      "sku": "TB-OP001-PAD3-BAC-8GB-256GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 8990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/oppo/oppo-pad-3/anh-dai-dien-oppo-pad-3-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/mat-truoc-sau-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/can-canh-nut-am-luong-canh-ben-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/canh-ben-trai-phai-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/canh-tren-duoi-loa-cong-sac-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/can-canh-cum-camera-sau-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/cam-tren-tay-man-hinh-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/can-canh-chan-ket-noi-pogo-pin-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/can-canh-cong-sac-type-c-va-loa-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/can-canh-nut-nguon-va-loa-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/mat-sau-dat-canh-hop-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/mat-truoc-dat-canh-hop-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/tinh-nang-ai-thong-minh-chong-loa-xoa-vat-the-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/hop-va-phu-kien-cap-sac-bac-trang.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/banner-gioi-thieu-oppo-pad-3-bac-tim.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/thong-so-chip-mediatek-dimensity-8350-den-xanh.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/thong-so-man-hinh-ltps-lcd-11-61-inch-144hz-2-8k-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/tong-quan-tinh-nang-man-hinh-2-8k-144hz-pin-9520mah-bac.webp"
+      ]
+    },
+    {
+      "sku": "TB-OP001-PAD3-BAC-12GB-512GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 10990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/oppo/oppo-pad-3/anh-dai-dien-oppo-pad-3-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/mat-truoc-sau-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/can-canh-nut-am-luong-canh-ben-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/canh-ben-trai-phai-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/canh-tren-duoi-loa-cong-sac-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/can-canh-cum-camera-sau-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/cam-tren-tay-man-hinh-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/can-canh-chan-ket-noi-pogo-pin-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/can-canh-cong-sac-type-c-va-loa-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/can-canh-nut-nguon-va-loa-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/mat-sau-dat-canh-hop-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/mat-truoc-dat-canh-hop-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/tinh-nang-ai-thong-minh-chong-loa-xoa-vat-the-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/hop-va-phu-kien-cap-sac-bac-trang.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/banner-gioi-thieu-oppo-pad-3-bac-tim.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/thong-so-chip-mediatek-dimensity-8350-den-xanh.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/thong-so-man-hinh-ltps-lcd-11-61-inch-144hz-2-8k-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-3/tong-quan-tinh-nang-man-hinh-2-8k-144hz-pin-9520mah-bac.webp"
+      ]
+    }
+  ]
+}

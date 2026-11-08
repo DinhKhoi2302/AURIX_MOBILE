@@ -1,0 +1,679 @@
+{
+  "id": "iphone-17-pro-max",
+  "brand": "Apple",
+  "brandId": "apple",
+  "parentGroupId": "apple",
+  "model": "iPhone 17 Pro Max",
+  "series": "iPhone 17 Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "flagship"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": true,
+  "rating": 4.9,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Bán chạy",
+      "type": "hot"
+    }
+  ],
+  "overview": {
+    "releaseDate": "09/09/2025",
+    "segment": "Flagship Cao cấp",
+    "description": "iPhone 17 Pro Max là mẫu flagship đỉnh cao nhất của thế hệ iPhone 17 ra mắt tháng 9/2025. Sở hữu màn hình 6,9 inch độ sáng 3.000 nit chống phản chiếu, thiết kế nhôm nguyên khối tản nhiệt buồng hơi, 12GB RAM, bộ 3 camera 48MP zoom 4x/8x, tùy chọn bộ nhớ 2TB và thời lượng pin lên tới 37–39 giờ xem video, iPhone 17 Pro Max tại AURIX MOBILE là lựa chọn sáng giá cho khách hàng muốn trải nghiệm công nghệ cấp độ Pro hiện đại với mức chi phí tối ưu hơn dòng 18 Pro Max mới ra mắt. (Nguồn tham chiếu chính thức: Apple Tech Specs - iPhone 17 Pro Max).",
+    "highlights": [
+      "6,9 inch",
+      "A19 Pro",
+      "Pin 4.823 mAh"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 34990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT010-IP17PM-CAM-256GB",
+      "color": "Cam",
+      "colorHex": "#EA580C",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 34990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-17-pro-max/anh-dai-dien-iphone-17-pro-max-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/mat-truoc-man-hinh-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/canh-ben-nut-tac-vu-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/goc-nghieng-cum-camera-pro-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/thiet-ke-cum-camera-ngang-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-trong-hop-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-17-pro-max/iPhone-17-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-day-deo-cheo-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-op-lung-3-mau-cam-bac-xanh.webp",
+        "assets/images/products/apple/iphone-17-pro-max/3-tuy-chon-mau-sac-bac-xanh-dam-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ]
+    },
+    {
+      "sku": "DT010-IP17PM-CAM-512GB",
+      "color": "Cam",
+      "colorHex": "#EA580C",
+      "ram": "12GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 41390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-17-pro-max/anh-dai-dien-iphone-17-pro-max-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/mat-truoc-man-hinh-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/canh-ben-nut-tac-vu-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/goc-nghieng-cum-camera-pro-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/thiet-ke-cum-camera-ngang-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-trong-hop-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-17-pro-max/iPhone-17-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-day-deo-cheo-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-op-lung-3-mau-cam-bac-xanh.webp",
+        "assets/images/products/apple/iphone-17-pro-max/3-tuy-chon-mau-sac-bac-xanh-dam-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ]
+    },
+    {
+      "sku": "DT010-IP17PM-CAM-1TB",
+      "color": "Cam",
+      "colorHex": "#EA580C",
+      "ram": "12GB",
+      "storage": "1TB",
+      "rom": "1TB",
+      "price": 47490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-17-pro-max/anh-dai-dien-iphone-17-pro-max-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/mat-truoc-man-hinh-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/canh-ben-nut-tac-vu-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/goc-nghieng-cum-camera-pro-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/thiet-ke-cum-camera-ngang-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-trong-hop-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-17-pro-max/iPhone-17-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-day-deo-cheo-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-op-lung-3-mau-cam-bac-xanh.webp",
+        "assets/images/products/apple/iphone-17-pro-max/3-tuy-chon-mau-sac-bac-xanh-dam-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ]
+    },
+    {
+      "sku": "DT010-IP17PM-CAM-2TB",
+      "color": "Cam",
+      "colorHex": "#EA580C",
+      "ram": "12GB",
+      "storage": "2TB",
+      "rom": "2TB",
+      "price": 60290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-17-pro-max/anh-dai-dien-iphone-17-pro-max-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/mat-truoc-man-hinh-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/canh-ben-nut-tac-vu-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/goc-nghieng-cum-camera-pro-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/thiet-ke-cum-camera-ngang-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-trong-hop-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-17-pro-max/iPhone-17-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-day-deo-cheo-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-op-lung-3-mau-cam-bac-xanh.webp",
+        "assets/images/products/apple/iphone-17-pro-max/3-tuy-chon-mau-sac-bac-xanh-dam-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ]
+    },
+    {
+      "sku": "DT010-IP17PM-BAC-256GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 34990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-17-pro-max/anh-dai-dien-iphone-17-pro-max-bac.webp",
+        "assets/images/products/apple/iphone-17-pro-max/mat-truoc-man-hinh-bac.webp",
+        "assets/images/products/apple/iphone-17-pro-max/canh-ben-nut-tac-vu-bac.webp",
+        "assets/images/products/apple/iphone-17-pro-max/goc-nghieng-cum-camera-pro-bac.webp",
+        "assets/images/products/apple/iphone-17-pro-max/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-17-pro-max/iPhone-17-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-day-deo-cheo-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-op-lung-3-mau-cam-bac-xanh.webp",
+        "assets/images/products/apple/iphone-17-pro-max/3-tuy-chon-mau-sac-bac-xanh-dam-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ]
+    },
+    {
+      "sku": "DT010-IP17PM-BAC-512GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "12GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 41390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-17-pro-max/anh-dai-dien-iphone-17-pro-max-bac.webp",
+        "assets/images/products/apple/iphone-17-pro-max/mat-truoc-man-hinh-bac.webp",
+        "assets/images/products/apple/iphone-17-pro-max/canh-ben-nut-tac-vu-bac.webp",
+        "assets/images/products/apple/iphone-17-pro-max/goc-nghieng-cum-camera-pro-bac.webp",
+        "assets/images/products/apple/iphone-17-pro-max/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-17-pro-max/iPhone-17-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-day-deo-cheo-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-op-lung-3-mau-cam-bac-xanh.webp",
+        "assets/images/products/apple/iphone-17-pro-max/3-tuy-chon-mau-sac-bac-xanh-dam-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ]
+    },
+    {
+      "sku": "DT010-IP17PM-BAC-1TB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "12GB",
+      "storage": "1TB",
+      "rom": "1TB",
+      "price": 47490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-17-pro-max/anh-dai-dien-iphone-17-pro-max-bac.webp",
+        "assets/images/products/apple/iphone-17-pro-max/mat-truoc-man-hinh-bac.webp",
+        "assets/images/products/apple/iphone-17-pro-max/canh-ben-nut-tac-vu-bac.webp",
+        "assets/images/products/apple/iphone-17-pro-max/goc-nghieng-cum-camera-pro-bac.webp",
+        "assets/images/products/apple/iphone-17-pro-max/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-17-pro-max/iPhone-17-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-day-deo-cheo-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-op-lung-3-mau-cam-bac-xanh.webp",
+        "assets/images/products/apple/iphone-17-pro-max/3-tuy-chon-mau-sac-bac-xanh-dam-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ]
+    },
+    {
+      "sku": "DT010-IP17PM-BAC-2TB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "12GB",
+      "storage": "2TB",
+      "rom": "2TB",
+      "price": 60290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-17-pro-max/anh-dai-dien-iphone-17-pro-max-bac.webp",
+        "assets/images/products/apple/iphone-17-pro-max/mat-truoc-man-hinh-bac.webp",
+        "assets/images/products/apple/iphone-17-pro-max/canh-ben-nut-tac-vu-bac.webp",
+        "assets/images/products/apple/iphone-17-pro-max/goc-nghieng-cum-camera-pro-bac.webp",
+        "assets/images/products/apple/iphone-17-pro-max/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-17-pro-max/iPhone-17-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-day-deo-cheo-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-op-lung-3-mau-cam-bac-xanh.webp",
+        "assets/images/products/apple/iphone-17-pro-max/3-tuy-chon-mau-sac-bac-xanh-dam-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ]
+    },
+    {
+      "sku": "DT010-IP17PM-XANH-DAM-256GB",
+      "color": "Xanh Đậm",
+      "colorHex": "#1E3A5F",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 34990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-17-pro-max/anh-dai-dien-iphone-17-pro-max-xanh-dam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/mat-truoc-man-hinh-xanh-dam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/canh-ben-nut-tac-vu-xanh-dam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/goc-nghieng-cum-camera-pro-xanh-dam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-17-pro-max/iPhone-17-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-day-deo-cheo-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-op-lung-3-mau-cam-bac-xanh.webp",
+        "assets/images/products/apple/iphone-17-pro-max/3-tuy-chon-mau-sac-bac-xanh-dam-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ]
+    },
+    {
+      "sku": "DT010-IP17PM-XANH-DAM-512GB",
+      "color": "Xanh Đậm",
+      "colorHex": "#1E3A5F",
+      "ram": "12GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 41390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-17-pro-max/anh-dai-dien-iphone-17-pro-max-xanh-dam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/mat-truoc-man-hinh-xanh-dam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/canh-ben-nut-tac-vu-xanh-dam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/goc-nghieng-cum-camera-pro-xanh-dam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-17-pro-max/iPhone-17-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-day-deo-cheo-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-op-lung-3-mau-cam-bac-xanh.webp",
+        "assets/images/products/apple/iphone-17-pro-max/3-tuy-chon-mau-sac-bac-xanh-dam-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ]
+    },
+    {
+      "sku": "DT010-IP17PM-XANH-DAM-1TB",
+      "color": "Xanh Đậm",
+      "colorHex": "#1E3A5F",
+      "ram": "12GB",
+      "storage": "1TB",
+      "rom": "1TB",
+      "price": 47490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-17-pro-max/anh-dai-dien-iphone-17-pro-max-xanh-dam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/mat-truoc-man-hinh-xanh-dam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/canh-ben-nut-tac-vu-xanh-dam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/goc-nghieng-cum-camera-pro-xanh-dam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-17-pro-max/iPhone-17-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-day-deo-cheo-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-op-lung-3-mau-cam-bac-xanh.webp",
+        "assets/images/products/apple/iphone-17-pro-max/3-tuy-chon-mau-sac-bac-xanh-dam-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ]
+    },
+    {
+      "sku": "DT010-IP17PM-XANH-DAM-2TB",
+      "color": "Xanh Đậm",
+      "colorHex": "#1E3A5F",
+      "ram": "12GB",
+      "storage": "2TB",
+      "rom": "2TB",
+      "price": 60290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-17-pro-max/anh-dai-dien-iphone-17-pro-max-xanh-dam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/mat-truoc-man-hinh-xanh-dam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/canh-ben-nut-tac-vu-xanh-dam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/goc-nghieng-cum-camera-pro-xanh-dam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-17-pro-max/iPhone-17-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-day-deo-cheo-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-op-lung-3-mau-cam-bac-xanh.webp",
+        "assets/images/products/apple/iphone-17-pro-max/3-tuy-chon-mau-sac-bac-xanh-dam-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "Super Retina XDR OLED ProMotion",
+    "size": "6.9 inch",
+    "resolution": "2868 x 1320 pixels",
+    "refreshRate": "120Hz",
+    "brightness": "2000 nits",
+    "hdr": "HDR10+ / Dolby Vision",
+    "protection": "Ceramic Shield",
+    "features": [
+      "Tần số quét thích ứng",
+      "Bảo vệ mắt"
+    ]
+  },
+  "performance": {
+    "chipset": "Apple A19 Pro (tiến trình 3nm) kết hợp hệ thống tản nhiệt buồng hơi (vapor chamber) tích hợp vào vỏ nhôm nguyên khối",
+    "cpu": "6 nhân",
+    "gpu": "Apple GPU 6 nhân",
+    "ram": [
+      "12GB"
+    ],
+    "storage": [
+      "1TB",
+      "256GB",
+      "2TB",
+      "512GB"
+    ],
+    "operatingSystem": "iOS 26 (tháng 09/2025)",
+    "uiVersion": "iOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "48MP Fusion OIS",
+    "ultraWide": "48MP Ultra Wide + 48MP Telephoto 5x",
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "4K 120fps Dolby Vision, ProRes"
+    ],
+    "aiFeatures": [
+      "Apple Intelligence",
+      "Camera Control"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "12MP TrueDepth",
+    "features": [
+      "Autofocus"
+    ],
+    "videoRecording": [
+      "4K / 1080p"
+    ]
+  },
+  "battery": {
+    "capacity": null,
+    "wiredCharging": "40W",
+    "wirelessCharging": "25W",
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": "USB Power Delivery / Fast Charge"
+  },
+  "connectivity": {
+    "sim": [
+      "Nano-SIM + eSIM"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 7",
+    "bluetooth": "v5.3",
+    "gps": [
+      "GPS",
+      "GLONASS",
+      "Galileo",
+      "BDS"
+    ],
+    "usb": "USB Type-C 3 (10Gb/s)",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": null,
+    "weight": null,
+    "materials": [
+      "Hợp kim cao cấp",
+      "Ceramic Shield"
+    ],
+    "waterResistance": "IP68",
+    "availableColors": [
+      "Đen",
+      "Trắng"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Face ID 3D"
+  ],
+  "specialFeatures": [
+    "Apple A19 Pro (3nm)",
+    "Super Retina XDR OLED ProMotion 6.9 inch",
+    "Camera 48MP"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Apple tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/apple/iphone-17-pro-max/anh-dai-dien-iphone-17-pro-max-cam.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/apple/iphone-17-pro-max/anh-dai-dien-iphone-17-pro-max-cam.webp",
+      "assets/images/products/apple/iphone-17-pro-max/anh-dai-dien-iphone-17-pro-max-bac.webp",
+      "assets/images/products/apple/iphone-17-pro-max/anh-dai-dien-iphone-17-pro-max-xanh-dam.webp",
+      "assets/images/products/apple/iphone-17-pro-max/mat-truoc-man-hinh-bac.webp",
+      "assets/images/products/apple/iphone-17-pro-max/mat-truoc-man-hinh-cam.webp",
+      "assets/images/products/apple/iphone-17-pro-max/mat-truoc-man-hinh-xanh-dam.webp",
+      "assets/images/products/apple/iphone-17-pro-max/canh-ben-nut-tac-vu-bac.webp",
+      "assets/images/products/apple/iphone-17-pro-max/canh-ben-nut-tac-vu-cam.webp",
+      "assets/images/products/apple/iphone-17-pro-max/canh-ben-nut-tac-vu-xanh-dam.webp",
+      "assets/images/products/apple/iphone-17-pro-max/goc-nghieng-cum-camera-pro-bac.webp",
+      "assets/images/products/apple/iphone-17-pro-max/goc-nghieng-cum-camera-pro-cam.webp",
+      "assets/images/products/apple/iphone-17-pro-max/goc-nghieng-cum-camera-pro-xanh-dam.webp",
+      "assets/images/products/apple/iphone-17-pro-max/thiet-ke-cum-camera-ngang-cam.webp",
+      "assets/images/products/apple/iphone-17-pro-max/dich-vu-bao-hanh-applecare-plus.webp",
+      "assets/images/products/apple/iphone-17-pro-max/iPhone-17-Pro-Max.jpg",
+      "assets/images/products/apple/iphone-17-pro-max/phu-kien-day-deo-cheo-cam.webp",
+      "assets/images/products/apple/iphone-17-pro-max/phu-kien-op-lung-3-mau-cam-bac-xanh.webp",
+      "assets/images/products/apple/iphone-17-pro-max/phu-kien-trong-hop-cam.webp",
+      "assets/images/products/apple/iphone-17-pro-max/3-tuy-chon-mau-sac-bac-xanh-dam-cam.webp",
+      "assets/images/products/apple/iphone-17-pro-max/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+    ],
+    "byColor": {
+      "Bạc": [
+        "assets/images/products/apple/iphone-17-pro-max/anh-dai-dien-iphone-17-pro-max-bac.webp",
+        "assets/images/products/apple/iphone-17-pro-max/mat-truoc-man-hinh-bac.webp",
+        "assets/images/products/apple/iphone-17-pro-max/canh-ben-nut-tac-vu-bac.webp",
+        "assets/images/products/apple/iphone-17-pro-max/goc-nghieng-cum-camera-pro-bac.webp",
+        "assets/images/products/apple/iphone-17-pro-max/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-17-pro-max/iPhone-17-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-day-deo-cheo-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-op-lung-3-mau-cam-bac-xanh.webp",
+        "assets/images/products/apple/iphone-17-pro-max/3-tuy-chon-mau-sac-bac-xanh-dam-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ],
+      "Cam": [
+        "assets/images/products/apple/iphone-17-pro-max/anh-dai-dien-iphone-17-pro-max-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/mat-truoc-man-hinh-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/canh-ben-nut-tac-vu-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/goc-nghieng-cum-camera-pro-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/thiet-ke-cum-camera-ngang-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-trong-hop-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-17-pro-max/iPhone-17-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-day-deo-cheo-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-op-lung-3-mau-cam-bac-xanh.webp",
+        "assets/images/products/apple/iphone-17-pro-max/3-tuy-chon-mau-sac-bac-xanh-dam-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ],
+      "Xanh Đậm": [
+        "assets/images/products/apple/iphone-17-pro-max/anh-dai-dien-iphone-17-pro-max-xanh-dam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/mat-truoc-man-hinh-xanh-dam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/canh-ben-nut-tac-vu-xanh-dam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/goc-nghieng-cum-camera-pro-xanh-dam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/dich-vu-bao-hanh-applecare-plus.webp",
+        "assets/images/products/apple/iphone-17-pro-max/iPhone-17-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-day-deo-cheo-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/phu-kien-op-lung-3-mau-cam-bac-xanh.webp",
+        "assets/images/products/apple/iphone-17-pro-max/3-tuy-chon-mau-sac-bac-xanh-dam-cam.webp",
+        "assets/images/products/apple/iphone-17-pro-max/tong-quan-tinh-nang-camera-48mp-chip-a19-pro.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/apple/iphone-17-pro-max/canh-ben-nut-tac-vu-bac.webp",
+      "screen": "assets/images/products/apple/iphone-17-pro-max/mat-truoc-man-hinh-bac.webp",
+      "performance": "assets/images/products/apple/iphone-17-pro-max/thiet-ke-cum-camera-ngang-cam.webp",
+      "camera": "assets/images/products/apple/iphone-17-pro-max/goc-nghieng-cum-camera-pro-bac.webp",
+      "battery": "assets/images/products/apple/iphone-17-pro-max/phu-kien-trong-hop-cam.webp",
+      "feature": "assets/images/products/apple/iphone-17-pro-max/anh-dai-dien-iphone-17-pro-max-bac.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/apple/iphone-17-pro-max/anh-dai-dien-iphone-17-pro-max-bac.webp",
+      "assets/images/products/apple/iphone-17-pro-max/anh-dai-dien-iphone-17-pro-max-xanh-dam.webp",
+      "assets/images/products/apple/iphone-17-pro-max/mat-truoc-man-hinh-bac.webp",
+      "assets/images/products/apple/iphone-17-pro-max/mat-truoc-man-hinh-cam.webp",
+      "assets/images/products/apple/iphone-17-pro-max/mat-truoc-man-hinh-xanh-dam.webp",
+      "assets/images/products/apple/iphone-17-pro-max/canh-ben-nut-tac-vu-bac.webp",
+      "assets/images/products/apple/iphone-17-pro-max/canh-ben-nut-tac-vu-cam.webp",
+      "assets/images/products/apple/iphone-17-pro-max/canh-ben-nut-tac-vu-xanh-dam.webp",
+      "assets/images/products/apple/iphone-17-pro-max/goc-nghieng-cum-camera-pro-bac.webp",
+      "assets/images/products/apple/iphone-17-pro-max/goc-nghieng-cum-camera-pro-cam.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.apple.com/vn/iphone/",
+      "https://www.thegioididong.com/dtdd-apple-iphone-18-series",
+      "https://www.apple.com/vn/iphone/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "verified",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT010-IP17PM",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "LTPO Super Retina XDR OLED",
+      "Kích thước màn hình": "6,9 inch",
+      "Độ phân giải màn hình": "2868 x 1320 pixel (tỷ lệ 19,5:9)",
+      "Tần số quét": "ProMotion thích ứng 1Hz – 120Hz",
+      "Kiểu màn hình": "Màn hình phẳng Dynamic Island",
+      "Tính năng màn hình": "Always-On Display, Dolby Vision, HDR10+/HDR10, HLG, độ sáng 1.000 nit (tiêu chuẩn) / 1.600 nit (HDR) / 3.000 nit (ngoài trời) / tối thiểu 1 nit, True Tone, dải màu P3"
+    },
+    "Camera sau": {
+      "Camera sau": "3 camera 48MP Pro Fusion (Chính 48MP 24mm ƒ/1.78 sensor-shift OIS 2 + Ultra Wide 48MP 13mm ƒ/2.2 + Telephoto 48MP hỗ trợ zoom quang 4x/8x), cảm biến LiDAR",
+      "Quay video": "4K Dolby Vision 24/25/30/60/100/120fps; ProRes 4K 120fps (ghi ngoài), ProRes RAW, Apple Log 2, ACES, Genlock; Dual Capture 4K 30fps; Spatial Video 1080p 30fps; Cinematic mode 4K 30fps",
+      "Tính năng camera": "Apple ProRAW 48MP, Chụp ảnh Macro 48MP, Spatial Photos, Phong Cách Nhiếp Ảnh mới, Night mode, Panorama 63MP; Zoom chất lượng quang học 8x (0.5x, 1x, 2x, 4x, 8x), zoom số 40x"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera 18MP Center Stage TrueDepth (ƒ/1.9); quay 4K Dolby Vision 24/25/30/60fps, ProRes 4K 60fps, ProRes RAW, Apple Log 2, Dual Capture, Cinematic mode 4K 30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Apple A19 Pro (3nm), tản nhiệt buồng hơi",
+      "Loại CPU": "CPU 6 lõi: 2 lõi hiệu năng cao (4,26 GHz) + 4 lõi tiết kiệm điện (2,60 GHz)",
+      "GPU": "Apple GPU 6 lõi tích hợp Neural Accelerators và dò tia phần cứng (Ray Tracing)"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "12GB LPDDR5X",
+      "Bộ nhớ trong": "4 phiên bản: 256GB, 512GB, 1TB và 2TB chuẩn NVMe"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "4.823 mAh (bản Nano-SIM + eSIM, xem video 37 giờ) / 5.088 mAh (bản eSIM, xem video 39 giờ)",
+      "Công nghệ sạc": "Sạc nhanh USB-C PD 3.2 (50% pin trong 20 phút với củ sạc 40W+), sạc ngược có dây 4,5W; Sạc không dây MagSafe 25W và Qi2 25W",
+      "Cổng sạc": "USB-C chuẩn USB 3 (tốc độ lên đến 10Gb/s), hỗ trợ xuất hình DisplayPort 4K HDR"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "iOS 26 (tháng 09/2025)",
+      "Công nghệ - Tiện ích": "Hỗ trợ đầy đủ Apple Intelligence tiếng Việt, Siri AI thế hệ mới, Dynamic Island",
+      "Tiện ích khác": "Nút Tác Vụ (Action Button), Nút Điều Khiển Camera (Camera Control), bảo mật MIE, SOS khẩn cấp qua vệ tinh, Phát Hiện Va Chạm",
+      "Thời điểm ra mắt": "09/09/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G (sub-6GHz 4x4 MIMO, Modem Snapdragon X80), Gigabit LTE",
+      "Thẻ SIM": "SIM kép (1 Nano-SIM + eSIM hoặc 2 eSIM hoạt động đồng thời)",
+      "Wi-Fi": "Chip Apple N1 hỗ trợ Wi-Fi 7 (802.11be) 2x2 MIMO, Thread",
+      "Bluetooth": "Bluetooth 6.0",
+      "Công nghệ NFC": "Có hỗ trợ NFC",
+      "GPS": "GPS tần số kép (L1+L5), GLONASS, Galileo, QZSS, BeiDou"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung nhôm nguyên khối (Aluminum unibody) tích hợp buồng hơi tản nhiệt",
+      "Chất liệu mặt lưng": "Mặt lưng kính Ceramic Shield, mặt trước Ceramic Shield 2",
+      "Kích thước": "163,4 x 78,0 x 8,75 mm",
+      "Trọng lượng": "231 gram (bản Nano-SIM) / 233 gram (bản eSIM)",
+      "Chỉ số kháng nước, bụi": "IP68 theo chuẩn IEC 60529 (tối đa 6 mét trong 30 phút)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài Stereo, hỗ trợ Spatial Audio, Dolby Atmos, APAC, Apple Lossless, FLAC",
+      "Cảm biến vân tay": "Không trang bị (Bảo mật khuôn mặt Face ID 3D)",
+      "Các loại cảm biến": "Face ID, Cảm biến LiDAR, Áp kế, Con quay hồi chuyển, Gia tốc kế, Cảm biến tiệm cận, Cảm biến ánh sáng kép, Từ kế"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,9 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "LTPO Super Retina XDR OLED"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2868 x 1320 pixel"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Apple A19 Pro"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "4 phiên bản: 256GB, 512GB, 1TB và 2TB NVMe"
+    },
+    {
+      "label": "Camera sau",
+      "value": "3 camera 48MP Pro Fusion (Chính + Ultra Wide + Telephoto)"
+    },
+    {
+      "label": "Camera trước",
+      "value": "18MP Center Stage TrueDepth, khẩu độ ƒ/1.9"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "4.823 mAh (bản Nano-SIM) / 5.088 mAh (bản eSIM)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh USB-C 40W, sạc ngược 4,5W, MagSafe / Qi2 25W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "iOS 26"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 (6 mét trong 30 phút)"
+    }
+  ],
+  "verbatimDescription": [
+    "iPhone 17 Pro Max là mẫu flagship đỉnh cao nhất của thế hệ iPhone 17 ra mắt tháng 9/2025. Sở hữu màn hình 6,9 inch độ sáng 3.000 nit chống phản chiếu, thiết kế nhôm nguyên khối tản nhiệt buồng hơi, 12GB RAM, bộ 3 camera 48MP zoom 4x/8x, tùy chọn bộ nhớ 2TB và thời lượng pin lên tới 37–39 giờ xem video, iPhone 17 Pro Max tại AURIX MOBILE là lựa chọn sáng giá cho khách hàng muốn trải nghiệm công nghệ cấp độ Pro hiện đại với mức chi phí tối ưu hơn dòng 18 Pro Max mới ra mắt. (Nguồn tham chiếu chính thức: Apple Tech Specs - iPhone 17 Pro Max).",
+    "iPhone 17 Pro Max có kích thước 163,4 x 78,0 x 8,75 mm và trọng lượng 231 gram (bản VN có khay SIM) hoặc 233 gram (bản Mỹ eSIM). Việc chuyển sang thiết kế nhôm nguyên khối (Aluminum unibody) kết hợp mặt trước Ceramic Shield 2 và mặt sau Ceramic Shield giúp máy tản nhiệt nhanh và cầm nắm đằm chắc trong 3 màu sắc: Bạc (Silver), Cam Vũ Trụ (Cosmic Orange) và Xanh Đậm (Deep Blue). Màn hình LTPO Super Retina XDR OLED 6,9 inch (2868 x 1320 pixel, 460 ppi, ProMotion 1–120Hz) đạt độ sáng đỉnh ngoài trời 3.000 nit cùng lớp phủ chống phản chiếu giúp hiển thị trong trẻo ở mọi góc nhìn.",
+    "Sức mạnh của máy đến từ vi xử lý Apple A19 Pro (3nm, CPU 6 nhân 4,26 GHz, GPU 6 nhân có Neural Accelerators và Ray Tracing phần cứng) đi kèm dung lượng RAM 12GB LPDDR5X. Hệ thống tản nhiệt buồng hơi (vapor chamber) kết hợp thân nhôm lớn của bản Pro Max cho phép thiết bị duy trì hiệu năng cao hơn 40% khi chơi game AAA hoặc xuất video. Đây cũng là mẫu máy duy nhất trong dòng iPhone 17 có tùy chọn bộ nhớ trong lên đến 2TB (bên cạnh 256GB, 512GB, 1TB).",
+    "Hệ thống nhiếp ảnh của iPhone 17 Pro Max đồng nhất với bản 17 Pro ở cấp độ cao nhất: cả 3 camera sau đều đạt độ phân giải 48MP (Camera chính 48MP 24mm ƒ/1.78, Camera góc siêu rộng 48MP 13mm ƒ/2.2 chụp Macro 48MP, và Camera Telephoto tetraprism 48MP 100mm ƒ/2.8 hỗ trợ zoom quang 4x cùng mức zoom chất lượng quang học 8x ở tiêu cự 200mm, zoom số 40x). Máy hỗ trợ đầy đủ các chuẩn quay phim chuyên nghiệp gồm 4K 120fps Dolby Vision, ProRes 4K 120fps, ProRes RAW, Apple Log 2, Genlock và Ghi Hình Kép (Dual Capture) cùng camera trước 18MP Center Stage.",
+    "Thời lượng pin của iPhone 17 Pro Max đạt cột mốc ấn tượng: phiên bản chính hãng Việt Nam/Quốc tế (có khay Nano-SIM) trang bị viên pin 4.823 mAh cho phép xem video liên tục lên đến 37 giờ (trực tuyến 33 giờ), trong khi phiên bản Mỹ (chỉ dùng eSIM) sở hữu viên pin 5.088 mAh đạt tới 39 giờ xem video. Máy hỗ trợ sạc nhanh có dây USB PD 3.2 (AVS) đạt 50% pin chỉ trong 20 phút với củ sạc 40W trở lên, cùng sạc không dây MagSafe/Qi2 25W.",
+    "Được cập nhật lên iOS 27.2 tính đến tháng 11/2026, iPhone 17 Pro Max khai thác tối đa 12GB RAM cho các tác vụ Apple Intelligence tiếng Việt và Siri AI mới. Máy tích hợp chip mạng Apple N1 (Wi-Fi 7, Bluetooth 6.0, Thread), cổng USB-C 3.2 tốc độ 10Gb/s và hỗ trợ SIM kép (1 Nano-SIM + eSIM) tại Việt Nam."
+  ],
+  "priceSegment": "flagship"
+}

@@ -1,0 +1,568 @@
+{
+  "id": "redmi-17-5g",
+  "brand": "Redmi",
+  "brandId": "redmi",
+  "parentGroupId": "xiaomi_group",
+  "model": "Redmi 17",
+  "series": "Redmi Series (17 / 15C / A7)",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "entry-level"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "Tháng 06/2025",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Redmi 17 gây ấn tượng mạnh trong phân khúc phổ thông nhờ camera chính 108MP hỗ trợ zoom nội suy 3x sắc nét, màn hình lớn 6,79 inch Full HD+ 90Hz, mặt lưng kính sang trọng và viên pin 5.030 mAh đi kèm sạc nhanh 33W.",
+    "highlights": [
+      "Camera chính 108MP cảm biến 1/1.67 inch hỗ trợ zoom 3x In-sensor Zoom sắc nét",
+      "Màn hình đục lỗ 6,79 inch Full HD+ 90Hz bảo vệ mắt và mặt lưng kính thanh lịch",
+      "Viên pin 5.030 mAh sạc nhanh 33W (nạp 50% trong 26 phút) cùng bộ nhớ tới 8GB/256GB"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 3790000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT029-R17-XANH-DUONG-6GB-128GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 3790000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-17-5g/anh-dai-dien-xiaomi-redmi-17-xanh-duong.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-phai-xanh-duong.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-trai-xanh-duong.webp",
+        "assets/images/products/redmi/redmi-17-5g/canh-duoi-cong-sac-xanh-duong.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-man-hinh-trai-xanh-duong.webp",
+        "assets/images/products/redmi/redmi-17-5g/man-hinh-adaptivesync-120hz-muot-ma.webp",
+        "assets/images/products/redmi/redmi-17-5g/pin-7500mah-ben-bi-den-2-ngay-su-dung.webp",
+        "assets/images/products/redmi/redmi-17-5g/sac-nhanh-turbo-45w.webp",
+        "assets/images/products/redmi/redmi-17-5g/tong-quan-tinh-nang-pin-7500mah-man-hinh-6-9-inch-camera-50mp.webp"
+      ]
+    },
+    {
+      "sku": "DT029-R17-XANH-DUONG-8GB-256GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 4390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-17-5g/anh-dai-dien-xiaomi-redmi-17-xanh-duong.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-phai-xanh-duong.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-trai-xanh-duong.webp",
+        "assets/images/products/redmi/redmi-17-5g/canh-duoi-cong-sac-xanh-duong.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-man-hinh-trai-xanh-duong.webp",
+        "assets/images/products/redmi/redmi-17-5g/man-hinh-adaptivesync-120hz-muot-ma.webp",
+        "assets/images/products/redmi/redmi-17-5g/pin-7500mah-ben-bi-den-2-ngay-su-dung.webp",
+        "assets/images/products/redmi/redmi-17-5g/sac-nhanh-turbo-45w.webp",
+        "assets/images/products/redmi/redmi-17-5g/tong-quan-tinh-nang-pin-7500mah-man-hinh-6-9-inch-camera-50mp.webp"
+      ]
+    },
+    {
+      "sku": "DT029-R17-XANH-REU-6GB-128GB",
+      "color": "Xanh Rêu",
+      "colorHex": "#4D7C0F",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 3790000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-17-5g/anh-dai-dien-xiaomi-redmi-17-xanh-reu.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-trai-xanh-reu.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-man-hinh-phai-xanh-reu.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-man-hinh-trai-xanh-reu.webp",
+        "assets/images/products/redmi/redmi-17-5g/camera-kep-ai-50mp-kem-den-led-rgb-xanh-reu.webp",
+        "assets/images/products/redmi/redmi-17-5g/man-hinh-adaptivesync-120hz-muot-ma.webp",
+        "assets/images/products/redmi/redmi-17-5g/pin-7500mah-ben-bi-den-2-ngay-su-dung.webp",
+        "assets/images/products/redmi/redmi-17-5g/sac-nhanh-turbo-45w.webp",
+        "assets/images/products/redmi/redmi-17-5g/tong-quan-tinh-nang-pin-7500mah-man-hinh-6-9-inch-camera-50mp.webp"
+      ]
+    },
+    {
+      "sku": "DT029-R17-XANH-REU-8GB-256GB",
+      "color": "Xanh Rêu",
+      "colorHex": "#4D7C0F",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 4390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-17-5g/anh-dai-dien-xiaomi-redmi-17-xanh-reu.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-trai-xanh-reu.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-man-hinh-phai-xanh-reu.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-man-hinh-trai-xanh-reu.webp",
+        "assets/images/products/redmi/redmi-17-5g/camera-kep-ai-50mp-kem-den-led-rgb-xanh-reu.webp",
+        "assets/images/products/redmi/redmi-17-5g/man-hinh-adaptivesync-120hz-muot-ma.webp",
+        "assets/images/products/redmi/redmi-17-5g/pin-7500mah-ben-bi-den-2-ngay-su-dung.webp",
+        "assets/images/products/redmi/redmi-17-5g/sac-nhanh-turbo-45w.webp",
+        "assets/images/products/redmi/redmi-17-5g/tong-quan-tinh-nang-pin-7500mah-man-hinh-6-9-inch-camera-50mp.webp"
+      ]
+    },
+    {
+      "sku": "DT029-R17-TIM-HOA-TIET-6GB-128GB",
+      "color": "Tím Họa Tiết",
+      "colorHex": "#A855F7",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 3790000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-17-5g/anh-dai-dien-xiaomi-redmi-17-tim-hoa-tiet.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-phai-tim-hoa-tiet.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-trai-tim-hoa-tiet.webp",
+        "assets/images/products/redmi/redmi-17-5g/canh-duoi-cong-sac-tim-hoa-tiet.webp",
+        "assets/images/products/redmi/redmi-17-5g/man-hinh-adaptivesync-120hz-muot-ma.webp",
+        "assets/images/products/redmi/redmi-17-5g/pin-7500mah-ben-bi-den-2-ngay-su-dung.webp",
+        "assets/images/products/redmi/redmi-17-5g/sac-nhanh-turbo-45w.webp",
+        "assets/images/products/redmi/redmi-17-5g/tong-quan-tinh-nang-pin-7500mah-man-hinh-6-9-inch-camera-50mp.webp"
+      ]
+    },
+    {
+      "sku": "DT029-R17-TIM-HOA-TIET-8GB-256GB",
+      "color": "Tím Họa Tiết",
+      "colorHex": "#A855F7",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 4390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-17-5g/anh-dai-dien-xiaomi-redmi-17-tim-hoa-tiet.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-phai-tim-hoa-tiet.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-trai-tim-hoa-tiet.webp",
+        "assets/images/products/redmi/redmi-17-5g/canh-duoi-cong-sac-tim-hoa-tiet.webp",
+        "assets/images/products/redmi/redmi-17-5g/man-hinh-adaptivesync-120hz-muot-ma.webp",
+        "assets/images/products/redmi/redmi-17-5g/pin-7500mah-ben-bi-den-2-ngay-su-dung.webp",
+        "assets/images/products/redmi/redmi-17-5g/sac-nhanh-turbo-45w.webp",
+        "assets/images/products/redmi/redmi-17-5g/tong-quan-tinh-nang-pin-7500mah-man-hinh-6-9-inch-camera-50mp.webp"
+      ]
+    },
+    {
+      "sku": "DT029-R17-DEN-6GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 3790000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-17-5g/anh-dai-dien-xiaomi-redmi-17-den.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-phai-den.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-trai-den.webp",
+        "assets/images/products/redmi/redmi-17-5g/canh-duoi-cong-sac-den.webp",
+        "assets/images/products/redmi/redmi-17-5g/man-hinh-adaptivesync-120hz-muot-ma.webp",
+        "assets/images/products/redmi/redmi-17-5g/pin-7500mah-ben-bi-den-2-ngay-su-dung.webp",
+        "assets/images/products/redmi/redmi-17-5g/sac-nhanh-turbo-45w.webp",
+        "assets/images/products/redmi/redmi-17-5g/tong-quan-tinh-nang-pin-7500mah-man-hinh-6-9-inch-camera-50mp.webp"
+      ]
+    },
+    {
+      "sku": "DT029-R17-DEN-8GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 4390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-17-5g/anh-dai-dien-xiaomi-redmi-17-den.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-phai-den.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-trai-den.webp",
+        "assets/images/products/redmi/redmi-17-5g/canh-duoi-cong-sac-den.webp",
+        "assets/images/products/redmi/redmi-17-5g/man-hinh-adaptivesync-120hz-muot-ma.webp",
+        "assets/images/products/redmi/redmi-17-5g/pin-7500mah-ben-bi-den-2-ngay-su-dung.webp",
+        "assets/images/products/redmi/redmi-17-5g/sac-nhanh-turbo-45w.webp",
+        "assets/images/products/redmi/redmi-17-5g/tong-quan-tinh-nang-pin-7500mah-man-hinh-6-9-inch-camera-50mp.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "IPS LCD FHD+ 90Hz / 120Hz",
+    "size": "6,79 inch",
+    "resolution": "FHD+ (2460 x 1080 pixel)",
+    "refreshRate": "90Hz / 120Hz",
+    "brightness": "Độ sáng 550 nit, cảm ứng thông minh khi tay ướt Wet Touch, chế độ Đọc sách",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "MediaTek Helio G91-Ultra (tiến trình 12nm tối ưu cho xử lý hình ảnh 108MP)",
+    "cpu": "CPU 8 nhân (2 nhân Cortex-A75 xung nhịp 2.0GHz + 6 nhân Cortex-A55 xung nhịp 1.8GHz)",
+    "gpu": "ARM Mali-G52 MC2",
+    "ram": [
+      "6GB",
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "operatingSystem": "Xiaomi HyperOS (Android 15)",
+    "uiVersion": "Xiaomi HyperOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "108MP Siêu sắc nét (ƒ/1.75) + 2MP Macro",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "Quay video 1080p Full HD ở 30 fps; 720p HD ở 30 fps; Time-lapse"
+    ],
+    "aiFeatures": [
+      "Chụp siêu nét 108MP, Zoom 3x không giảm chất lượng, Chụp đêm Night Mode, Chân dung AI, filmCamera"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "13MP (ƒ/2.0, Vòng sáng mềm)",
+    "features": [
+      "Camera trước 13MP (khẩu độ ƒ/2.0), tích hợp vòng sáng màn hình Soft-light Ring hỗ trợ chụp selfie thiếu sáng và quay video 1080p@30fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "5.030 mAh",
+    "wiredCharging": "Sạc nhanh 33W USB-C",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc nhanh 33W qua cổng USB Type-C (đầy 50% trong 26 phút) | Không hỗ trợ sạc không dây"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano SIM (hoặc 1 Nano SIM + 1 thẻ nhớ microSD)"
+    ],
+    "network": [
+      "4G / 5G Dual SIM"
+    ],
+    "wifi": "Wi-Fi 5 (802.11 a/b/g/n/ac, băng tần kép 2.4GHz / 5GHz)",
+    "bluetooth": "Bluetooth 5.4",
+    "gps": [
+      "GPS, GLONASS, Galileo, BDS"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "168,6 x 76,28 x 8,3 mm",
+    "weight": "205 gram",
+    "materials": [
+      "Khung viền phẳng nhựa composite cứng cáp",
+      "Mặt lưng kính sang trọng hoặc da sinh học họa tiết (Xanh Dương, Xanh Rêu, Tím Họa Tiết, Đen)"
+    ],
+    "waterResistance": "Kháng nước & bụi IP53",
+    "availableColors": [
+      "Xanh Dương",
+      "Xanh Rêu",
+      "Tím Họa Tiết",
+      "Đen"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa ngoài lớn rõ ràng, cổng tai nghe 3.5mm",
+    "headphoneJack": true,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Redmi Number",
+    "Redmi",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Redmi tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/redmi/redmi-17-5g/anh-dai-dien-xiaomi-redmi-17-xanh-duong.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/redmi/redmi-17-5g/anh-dai-dien-xiaomi-redmi-17-xanh-duong.webp",
+      "assets/images/products/redmi/redmi-17-5g/anh-dai-dien-xiaomi-redmi-17-den.webp",
+      "assets/images/products/redmi/redmi-17-5g/anh-dai-dien-xiaomi-redmi-17-tim-hoa-tiet.webp",
+      "assets/images/products/redmi/redmi-17-5g/anh-dai-dien-xiaomi-redmi-17-xanh-reu.webp",
+      "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-phai-den.webp",
+      "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-phai-tim-hoa-tiet.webp",
+      "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-phai-xanh-duong.webp",
+      "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-trai-den.webp",
+      "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-trai-tim-hoa-tiet.webp",
+      "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-trai-xanh-duong.webp",
+      "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-trai-xanh-reu.webp",
+      "assets/images/products/redmi/redmi-17-5g/canh-duoi-cong-sac-den.webp",
+      "assets/images/products/redmi/redmi-17-5g/canh-duoi-cong-sac-tim-hoa-tiet.webp",
+      "assets/images/products/redmi/redmi-17-5g/canh-duoi-cong-sac-xanh-duong.webp",
+      "assets/images/products/redmi/redmi-17-5g/goc-nghieng-man-hinh-phai-xanh-reu.webp",
+      "assets/images/products/redmi/redmi-17-5g/goc-nghieng-man-hinh-trai-xanh-duong.webp",
+      "assets/images/products/redmi/redmi-17-5g/goc-nghieng-man-hinh-trai-xanh-reu.webp",
+      "assets/images/products/redmi/redmi-17-5g/camera-kep-ai-50mp-kem-den-led-rgb-xanh-reu.webp",
+      "assets/images/products/redmi/redmi-17-5g/man-hinh-adaptivesync-120hz-muot-ma.webp",
+      "assets/images/products/redmi/redmi-17-5g/pin-7500mah-ben-bi-den-2-ngay-su-dung.webp",
+      "assets/images/products/redmi/redmi-17-5g/sac-nhanh-turbo-45w.webp",
+      "assets/images/products/redmi/redmi-17-5g/tong-quan-tinh-nang-pin-7500mah-man-hinh-6-9-inch-camera-50mp.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/redmi/redmi-17-5g/anh-dai-dien-xiaomi-redmi-17-den.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-phai-den.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-trai-den.webp",
+        "assets/images/products/redmi/redmi-17-5g/canh-duoi-cong-sac-den.webp",
+        "assets/images/products/redmi/redmi-17-5g/man-hinh-adaptivesync-120hz-muot-ma.webp",
+        "assets/images/products/redmi/redmi-17-5g/pin-7500mah-ben-bi-den-2-ngay-su-dung.webp",
+        "assets/images/products/redmi/redmi-17-5g/sac-nhanh-turbo-45w.webp",
+        "assets/images/products/redmi/redmi-17-5g/tong-quan-tinh-nang-pin-7500mah-man-hinh-6-9-inch-camera-50mp.webp"
+      ],
+      "Tím Họa Tiết": [
+        "assets/images/products/redmi/redmi-17-5g/anh-dai-dien-xiaomi-redmi-17-tim-hoa-tiet.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-phai-tim-hoa-tiet.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-trai-tim-hoa-tiet.webp",
+        "assets/images/products/redmi/redmi-17-5g/canh-duoi-cong-sac-tim-hoa-tiet.webp",
+        "assets/images/products/redmi/redmi-17-5g/man-hinh-adaptivesync-120hz-muot-ma.webp",
+        "assets/images/products/redmi/redmi-17-5g/pin-7500mah-ben-bi-den-2-ngay-su-dung.webp",
+        "assets/images/products/redmi/redmi-17-5g/sac-nhanh-turbo-45w.webp",
+        "assets/images/products/redmi/redmi-17-5g/tong-quan-tinh-nang-pin-7500mah-man-hinh-6-9-inch-camera-50mp.webp"
+      ],
+      "Xanh Dương": [
+        "assets/images/products/redmi/redmi-17-5g/anh-dai-dien-xiaomi-redmi-17-xanh-duong.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-phai-xanh-duong.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-trai-xanh-duong.webp",
+        "assets/images/products/redmi/redmi-17-5g/canh-duoi-cong-sac-xanh-duong.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-man-hinh-trai-xanh-duong.webp",
+        "assets/images/products/redmi/redmi-17-5g/man-hinh-adaptivesync-120hz-muot-ma.webp",
+        "assets/images/products/redmi/redmi-17-5g/pin-7500mah-ben-bi-den-2-ngay-su-dung.webp",
+        "assets/images/products/redmi/redmi-17-5g/sac-nhanh-turbo-45w.webp",
+        "assets/images/products/redmi/redmi-17-5g/tong-quan-tinh-nang-pin-7500mah-man-hinh-6-9-inch-camera-50mp.webp"
+      ],
+      "Xanh Rêu": [
+        "assets/images/products/redmi/redmi-17-5g/anh-dai-dien-xiaomi-redmi-17-xanh-reu.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-trai-xanh-reu.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-man-hinh-phai-xanh-reu.webp",
+        "assets/images/products/redmi/redmi-17-5g/goc-nghieng-man-hinh-trai-xanh-reu.webp",
+        "assets/images/products/redmi/redmi-17-5g/camera-kep-ai-50mp-kem-den-led-rgb-xanh-reu.webp",
+        "assets/images/products/redmi/redmi-17-5g/man-hinh-adaptivesync-120hz-muot-ma.webp",
+        "assets/images/products/redmi/redmi-17-5g/pin-7500mah-ben-bi-den-2-ngay-su-dung.webp",
+        "assets/images/products/redmi/redmi-17-5g/sac-nhanh-turbo-45w.webp",
+        "assets/images/products/redmi/redmi-17-5g/tong-quan-tinh-nang-pin-7500mah-man-hinh-6-9-inch-camera-50mp.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-phai-den.webp",
+      "screen": "assets/images/products/redmi/redmi-17-5g/goc-nghieng-man-hinh-phai-xanh-reu.webp",
+      "performance": "assets/images/products/redmi/redmi-17-5g/goc-nghieng-man-hinh-trai-xanh-duong.webp",
+      "camera": "assets/images/products/redmi/redmi-17-5g/camera-kep-ai-50mp-kem-den-led-rgb-xanh-reu.webp",
+      "battery": "assets/images/products/redmi/redmi-17-5g/canh-duoi-cong-sac-den.webp",
+      "feature": "assets/images/products/redmi/redmi-17-5g/anh-dai-dien-xiaomi-redmi-17-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/redmi/redmi-17-5g/anh-dai-dien-xiaomi-redmi-17-den.webp",
+      "assets/images/products/redmi/redmi-17-5g/anh-dai-dien-xiaomi-redmi-17-tim-hoa-tiet.webp",
+      "assets/images/products/redmi/redmi-17-5g/anh-dai-dien-xiaomi-redmi-17-xanh-reu.webp",
+      "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-phai-den.webp",
+      "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-phai-tim-hoa-tiet.webp",
+      "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-phai-xanh-duong.webp",
+      "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-trai-den.webp",
+      "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-trai-tim-hoa-tiet.webp",
+      "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-trai-xanh-duong.webp",
+      "assets/images/products/redmi/redmi-17-5g/goc-nghieng-mat-lung-trai-xanh-reu.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-xiaomi",
+      "https://www.mi.com/vn/phone/#redmi"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT029-R17",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "IPS LCD 90Hz FHD+, hỗ trợ DC Dimming và đạt 3 chứng nhận bảo vệ mắt TÜV Rheinland",
+      "Kích thước màn hình": "6,79 inch",
+      "Độ phân giải màn hình": "2460 x 1080 pixel (Full HD+, mật độ điểm ảnh ~396 ppi)",
+      "Tần số quét": "90Hz AdaptiveSync (tự động điều chỉnh 36Hz/48Hz/60Hz/90Hz)",
+      "Kiểu màn hình": "Màn hình đục lỗ hiện đại, bảo vệ bởi kính cường lực Corning Gorilla Glass",
+      "Tính năng màn hình": "Độ sáng 550 nit, cảm ứng thông minh khi tay ướt Wet Touch, chế độ Đọc sách"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera kép 108MP: Camera chính 108MP (cảm biến 1/1.67 inch, khẩu độ ƒ/1.75, điểm ảnh gộp 9-trong-1 1.92μm, zoom cảm biến 3x In-sensor Zoom) + Camera Macro 2MP (khẩu độ ƒ/2.4)",
+      "Quay video": "Quay video 1080p Full HD ở 30 fps; 720p HD ở 30 fps; Time-lapse",
+      "Tính năng camera": "Chụp siêu nét 108MP, Zoom 3x không giảm chất lượng, Chụp đêm Night Mode, Chân dung AI, filmCamera"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera trước 13MP (khẩu độ ƒ/2.0), tích hợp vòng sáng màn hình Soft-light Ring hỗ trợ chụp selfie thiếu sáng và quay video 1080p@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Helio G91-Ultra (tiến trình 12nm tối ưu cho xử lý hình ảnh 108MP)",
+      "Loại CPU": "CPU 8 nhân (2 nhân Cortex-A75 xung nhịp 2.0GHz + 6 nhân Cortex-A55 xung nhịp 1.8GHz)",
+      "GPU": "ARM Mali-G52 MC2"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "6GB / 8GB LPDDR4X (hỗ trợ mở rộng RAM ảo lên tới 16GB)",
+      "Bộ nhớ trong": "128GB / 256GB (hỗ trợ mở rộng qua thẻ nhớ microSD lên đến 1TB)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.030 mAh (Pin bền bỉ duy trì trên 80% dung lượng sau 1.000 chu kỳ sạc)",
+      "Công nghệ sạc": "Sạc nhanh 33W qua cổng USB Type-C (đầy 50% trong 26 phút) | Không hỗ trợ sạc không dây",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS (Android 15)",
+      "Công nghệ - Tiện ích": "Mở rộng RAM, Cổng hồng ngoại IR Blaster, Thông báo Flash LED khi có cuộc gọi",
+      "Tiện ích khác": "Thiết kế mặt lưng kính cao cấp, giữ giắc cắm tai nghe 3.5mm",
+      "Thời điểm ra mắt": "2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "4G LTE / 5G tùy phiên bản, hỗ trợ Dual VoLTE",
+      "Thẻ SIM": "2 Nano SIM (hoặc 1 Nano SIM + 1 thẻ nhớ microSD)",
+      "Wi-Fi": "Wi-Fi 5 (802.11 a/b/g/n/ac, băng tần kép 2.4GHz / 5GHz)",
+      "Bluetooth": "Bluetooth 5.4",
+      "Công nghệ NFC": "Có hỗ trợ",
+      "GPS": "GPS, GLONASS, Galileo, BDS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền phẳng nhựa composite cứng cáp",
+      "Chất liệu mặt lưng": "Mặt lưng kính sang trọng hoặc da sinh học họa tiết (Xanh Dương, Xanh Rêu, Tím Họa Tiết, Đen)",
+      "Kích thước": "168,6 x 76,28 x 8,3 mm",
+      "Trọng lượng": "205 gram",
+      "Chỉ số kháng nước, bụi": "Chuẩn IP53 (kháng bụi và chống tia nước bắn)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài lớn rõ ràng, cổng tai nghe 3.5mm",
+      "Cảm biến vân tay": "Cảm biến vân tay cạnh bên tích hợp nút nguồn & Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Cảm biến ánh sáng, Cảm biến tiệm cận, La bàn điện tử, Hồng ngoại IR"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,79 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "IPS LCD FHD+ 90Hz / 120Hz"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "FHD+ (2460 x 1080 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "90Hz / 120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Helio G91-Ultra / Snapdragon 4 Gen 2 AE"
+    },
+    {
+      "label": "RAM",
+      "value": "6GB / 8GB LPDDR4X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB UFS 2.2"
+    },
+    {
+      "label": "Camera sau",
+      "value": "108MP Siêu sắc nét (ƒ/1.75) + 2MP Macro"
+    },
+    {
+      "label": "Camera trước",
+      "value": "13MP (ƒ/2.0, Vòng sáng mềm)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.030 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh 33W USB-C"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS (Android 15)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "4G / 5G Dual SIM"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "Kháng nước & bụi IP53"
+    }
+  ],
+  "verbatimDescription": [
+    "Redmi 17 mang đến bước nâng cấp toàn diện cho dòng Redmi tiêu chuẩn với thiết kế mặt lưng kính phẳng sang trọng cùng 4 tùy chọn màu sắc trẻ trung: Xanh Dương, Xanh Rêu, Tím Họa Tiết và Đen.",
+    "Hệ thống nhiếp ảnh của máy vượt trội trong phân khúc nhờ cảm biến chính 108MP kích thước lớn 1/1.67 inch kết hợp ống kính Macro 2MP. Người dùng có thể chụp những bức ảnh phong cảnh siêu chi tiết hoặc thu phóng 3x ngay trên cảm biến để chụp chân dung từ xa rõ nét.",
+    "Mặt trước là màn hình 6,79 inch độ phân giải Full HD+ sắc sảo đi kèm tần số quét 90Hz AdaptiveSync và công nghệ cảm ứng Wet Touch giúp thao tác chính xác ngay cả khi ngón tay ướt.",
+    "Bên trong thiết bị là vi xử lý MediaTek Helio G91-Ultra kết hợp RAM 6GB/8GB (mở rộng tới 16GB) và bộ nhớ trong 128GB/256GB, chạy trên giao diện Xiaomi HyperOS mượt mà và trực quan.",
+    "Viên pin 5.030 mAh phối hợp cùng sạc nhanh 33W rút ngắn đáng kể thời gian chờ sạc, đồng thời giữ lại đầy đủ cổng hồng ngoại IR, NFC và giắc cắm tai nghe 3.5mm."
+  ],
+  "priceSegment": "entry-level"
+}

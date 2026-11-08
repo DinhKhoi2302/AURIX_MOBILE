@@ -1,0 +1,324 @@
+{
+  "id": "xiaomi-14t",
+  "brand": "Xiaomi",
+  "brandId": "xiaomi",
+  "parentGroupId": "xiaomi_group",
+  "model": "Xiaomi 14T",
+  "series": "Xiaomi T Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "upper-midrange"
+  ],
+  "status": "needs_verification",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 19,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2024",
+    "segment": "Cận cao cấp",
+    "description": "Ra mắt tháng 9/2024, Xiaomi 14T mang trải nghiệm nhiếp ảnh Leica Summilux 3 ống kính (50MP cảm biến Sony IMX906 OIS + 50MP Telephoto 50mm + 12MP góc siêu rộng) cùng màn hình 1.5K 144Hz 4.000 nit và chuẩn kháng nước IP68 xuống phân khúc tầm trung - cận cao cấp. Trang bị vi xử lý 4nm MediaTek Dimensity 8300-Ultra, 12GB RAM LPDDR5X, bộ nhớ UFS 4.0 và thân máy mỏng nhẹ chỉ 7,8 mm (195g), Xiaomi 14T tại AURIX MOBILE là lựa chọn cân bằng tuyệt vời giữa thiết kế, nhiếp ảnh và hiệu năng AI. (Nguồn tham chiếu: Xiaomi Global & GSMArena - Xiaomi 14T).",
+    "highlights": [
+      "6,67 inch 1.5K 144Hz",
+      "Dimensity 8300-Ultra",
+      "3 Camera Leica Sony IMX906"
+    ],
+    "officialDistribution": "Model được bảo lưu từ danh sách trước nhưng chưa đủ bằng chứng đang mở bán chính thức trong lượt đối chiếu ngày 01/11/2026; giữ trạng thái needs_verification để không mất dấu dữ liệu."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": null,
+    "originalPrice": null,
+    "promotionPrice": null,
+    "priceUpdatedAt": "2026-11-01",
+    "priceVerified": false
+  },
+  "variants": [
+    {
+      "sku": "AUR-XIA-14T-RAM-STD-01",
+      "color": "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)",
+      "colorHex": "#102347",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "price": null,
+      "originalPrice": null,
+      "stockStatus": "needs_verification",
+      "images": [
+        "assets/images/placeholders/placeholder-default.svg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "CrystalRes AMOLED (68 tỷ màu), 144Hz, 4.000 nit",
+    "size": "6,67 inch",
+    "resolution": "2712 x 1220 pixel (1.5K, 446 ppi)",
+    "refreshRate": "144Hz",
+    "brightness": "Dolby Vision, HDR10+; Độ sáng đỉnh cục bộ 4.000 nit; Làm mờ PWM tần số cực cao 3840Hz bảo vệ mắt, chứng nhận TÜV Rheinland",
+    "hdr": "HDR10+ / HLG",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "MediaTek Dimensity 8300-Ultra (tiến trình 4nm TSMC) tích hợp NPU MediaTek 780",
+    "cpu": "CPU 8 nhân: 1 nhân Cortex-A715 (3,35 GHz) + 3 nhân Cortex-A715 (3,2 GHz) + 4 nhân Cortex-A510 (2,2 GHz)",
+    "gpu": "ARM Mali-G615 MC6 xử lý đồ họa mượt mà, tiết kiệm điện năng",
+    "ram": [
+      "12GB"
+    ],
+    "storage": [
+      "256GB"
+    ],
+    "operatingSystem": "Xiaomi HyperOS phát triển trên Android 14",
+    "uiVersion": "Xiaomi HyperOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "3 camera Leica: 50MP Chính Sony IMX906 OIS + 50MP Tele 50mm (2x) + 12MP Siêu rộng",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "Quay video 4K ở 24/30/60fps (hỗ trợ 10-bit Rec.2020 và HDR10+); Quay 10-bit Log; Chế độ điện ảnh Movie Mode, MasterCinema và Director Mode"
+    ],
+    "aiFeatures": [
+      "2 phong cách ảnh Leica (Authentic & Vibrant); Hệ thống Leica Master Lens System (35mm, 50mm, 75mm, 90mm); Nền tảng Xiaomi AISP"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "32MP (ƒ/2.0, 25mm), quay 4K 30fps",
+    "features": [
+      "Camera Selfie 32MP (khẩu độ ƒ/2.0, tiêu cự 25mm góc rộng 80,8°); Hỗ trợ Night Mode, HDR và quay video 4K ở 30fps, 1080p ở 30/60fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "5.000 mAh",
+    "wiredCharging": "Sạc nhanh có dây 67W HyperCharge",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc nhanh có dây 67W HyperCharge (nạp đầy 100% trong khoảng 45 phút)"
+  },
+  "connectivity": {
+    "sim": [
+      "SIM kép (Nano-SIM + Nano-SIM hoặc Nano-SIM + eSIM)"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 6E (802.11ax) ba băng tần (2.4GHz / 5GHz / 6GHz), 2x2 MIMO",
+    "bluetooth": "Bluetooth 5.4 hỗ trợ AAC, LDAC, LHDC",
+    "gps": [
+      "GPS, Galileo, GLONASS, BeiDou, NavIC"
+    ],
+    "usb": "USB Type-C 2.0 hỗ trợ sạc nhanh và OTG",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "160,5 x 75,1 x 7,8 mm (bản kính) hoặc 7,95 mm (bản da)",
+    "weight": "195 gram (bản kính) hoặc 193 gram (bản da)",
+    "materials": [
+      "Khung viền phẳng hoàn thiện tinh xảo, mỏng nhẹ chỉ 7,8 mm",
+      "Mặt lưng kính nhám mờ hoặc da thuần chay sinh học Bio-based PU (bản Lemon Green)"
+    ],
+    "waterResistance": "IP68 (Chống nước sâu 2m trong 30 phút)",
+    "availableColors": [
+      "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo chuẩn Dolby Atmos, Hi-Res Audio & Hi-Res Wireless",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Xiaomi T Series",
+    "Xiaomi",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Xiaomi tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/placeholders/placeholder-default.svg",
+    "hasAvatarNamed": false,
+    "gallery": [
+      "assets/images/placeholders/placeholder-default.svg"
+    ],
+    "byColor": {},
+    "bySection": {
+      "performance": "assets/images/placeholders/placeholder-default.svg"
+    }
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-xiaomi",
+      "https://www.thegioididong.com/dtdd-xiaomi-mi",
+      "https://www.mi.com/vn/phone/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "needs_verification",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Cần xác minh thêm",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "verbatimDescription": [
+    "Ra mắt tháng 9/2024, Xiaomi 14T mang trải nghiệm nhiếp ảnh Leica Summilux 3 ống kính (50MP cảm biến Sony IMX906 OIS + 50MP Telephoto 50mm + 12MP góc siêu rộng) cùng màn hình 1.5K 144Hz 4.000 nit và chuẩn kháng nước IP68 xuống phân khúc tầm trung - cận cao cấp. Trang bị vi xử lý 4nm MediaTek Dimensity 8300-Ultra, 12GB RAM LPDDR5X, bộ nhớ UFS 4.0 và thân máy mỏng nhẹ chỉ 7,8 mm (195g), Xiaomi 14T tại AURIX MOBILE là lựa chọn cân bằng tuyệt vời giữa thiết kế, nhiếp ảnh và hiệu năng AI.",
+    "Xiaomi 14T sở hữu kiểu dáng phẳng thanh lịch với độ mỏng chỉ 7,8 mm và trọng lượng nhẹ nhàng 195 gram, rất thoải mái khi sử dụng liên tục bằng một tay. Thiết bị đạt chuẩn kháng bụi và kháng nước IP68 (chịu nước sâu 2 mét trong 30 phút), bảo vệ an toàn trong mọi điều kiện thời tiết.",
+    "Màn hình 6,67 inch CrystalRes AI AMOLED của Xiaomi 14T chia sẻ trọn vẹn chất lượng hiển thị cao cấp từ bản Pro với độ phân giải 1.5K (2712 x 1220 pixel, 446 ppi), tần số quét 144Hz, độ sáng đỉnh 4.000 nit, hiển thị 68 tỷ màu chuẩn Dolby Vision và làm mờ 3840Hz PWM bảo vệ thị lực.",
+    "Hệ thống 3 camera Leica VARIO-SUMMILUX trên Xiaomi 14T gồm camera chính 50MP cảm biến Sony IMX906 (1/1.56\", ƒ/1.7, OIS), camera Telephoto 50MP tiêu cự 50mm (ƒ/1.9, zoom 2x/4x) và camera góc siêu rộng 12MP (15mm, 120°). Máy tích hợp đầy đủ 2 tông màu Leica Authentic & Vibrant, gói chân dung Leica Master Lens và khả năng quay video 4K@60fps HDR10+ và 10-bit Log.",
+    "Về hiệu năng, vi xử lý MediaTek Dimensity 8300-Ultra (4nm, xung nhịp 3,35 GHz) kết hợp cùng 12GB RAM LPDDR5X và bộ nhớ UFS 4.0 mang lại tốc độ phản hồi cực nhanh, xử lý mượt mà các tính năng AI (Circle to Search, AI Interpreter, AI Eraser Pro) trên Xiaomi HyperOS.",
+    "Viên pin 5.000 mAh kết hợp sạc nhanh 67W HyperCharge nạp đầy năng lượng trong khoảng 45 phút, đi kèm loa kép Stereo Dolby Atmos, Wi-Fi 6E và NFC đa năng."
+  ],
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,67 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "CrystalRes AMOLED (68 tỷ màu), 144Hz, 4.000 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2712 x 1220 pixel (1.5K, 446 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "144Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 8300-Ultra (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB / 512GB chuẩn UFS 4.0"
+    },
+    {
+      "label": "Camera sau",
+      "value": "3 camera Leica: 50MP Chính Sony IMX906 OIS + 50MP Tele 50mm (2x) + 12MP Siêu rộng"
+    },
+    {
+      "label": "Camera trước",
+      "value": "32MP (ƒ/2.0, 25mm), quay 4K 30fps"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh có dây 67W HyperCharge"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS (Android 14)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 (Chống nước sâu 2m trong 30 phút)"
+    }
+  ],
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "CrystalRes AI AMOLED hiển thị 68 tỷ màu (12-bit), độ phủ màu 100% DCI-P3, Original Color PRO",
+      "Kích thước màn hình": "6,67 inch theo đường chéo (chiếm ~89,1% diện tích mặt trước)",
+      "Độ phân giải màn hình": "2712 x 1220 pixel (chuẩn 1.5K, tỷ lệ 20:9, mật độ điểm ảnh 446 ppi)",
+      "Tần số quét": "144Hz mượt mà, tốc độ lấy mẫu cảm ứng tức thì 2160Hz",
+      "Kiểu màn hình": "Màn hình phẳng đục lỗ viền siêu mỏng, bảo vệ bởi kính cường lực Corning Gorilla Glass 5",
+      "Tính năng màn hình": "Dolby Vision, HDR10+; Độ sáng đỉnh cục bộ 4.000 nit; Làm mờ PWM tần số cực cao 3840Hz bảo vệ mắt, chứng nhận TÜV Rheinland"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera Leica VARIO-SUMMILUX 1:1.7–2.2/15–50 ASPH: (1) Camera chính 50MP Leica: cảm biến Sony IMX906 kích thước 1/1.56 inch (điểm ảnh 1.0µm, Super Pixel 2.0µm), khẩu độ ƒ/1.7, tiêu cự 23mm, lấy nét PDAF, chống rung quang học OIS; (2) Camera Telephoto 50MP Leica 50mm: khẩu độ ƒ/1.9, tiêu cự 50mm chuẩn chân dung (zoom quang học 2x, zoom chất lượng quang học 4x, zoom số 20x), lấy nét PDAF; (3) Camera Góc siêu rộng 12MP Leica 15mm: khẩu độ ƒ/2.2, tiêu cự 15mm (góc nhìn 120°)",
+      "Quay video": "Quay video 4K ở 24/30/60fps (hỗ trợ 10-bit Rec.2020 và HDR10+); Quay 10-bit Log; Chế độ điện ảnh Movie Mode, MasterCinema và Director Mode",
+      "Tính năng camera": "2 phong cách ảnh Leica (Authentic & Vibrant); Hệ thống Leica Master Lens System (35mm, 50mm, 75mm, 90mm); Nền tảng Xiaomi AISP"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera Selfie 32MP (khẩu độ ƒ/2.0, tiêu cự 25mm góc rộng 80,8°); Hỗ trợ Night Mode, HDR và quay video 4K ở 30fps, 1080p ở 30/60fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Dimensity 8300-Ultra (tiến trình 4nm TSMC) tích hợp NPU MediaTek 780",
+      "Loại CPU": "CPU 8 nhân: 1 nhân Cortex-A715 (3,35 GHz) + 3 nhân Cortex-A715 (3,2 GHz) + 4 nhân Cortex-A510 (2,2 GHz)",
+      "GPU": "ARM Mali-G615 MC6 xử lý đồ họa mượt mà, tiết kiệm điện năng"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "12GB LPDDR5X tốc độ 8533 Mbps",
+      "Bộ nhớ trong": "256GB hoặc 512GB chuẩn UFS 4.0 tốc độ cao"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.000 mAh (Pin Li-Po bền bỉ giữ trên 80% dung lượng sau 1.600 chu kỳ sạc)",
+      "Công nghệ sạc": "Sạc nhanh có dây 67W HyperCharge (nạp đầy 100% trong khoảng 45 phút)",
+      "Cổng sạc": "USB Type-C 2.0 hỗ trợ sạc nhanh và OTG"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS phát triển trên Android 14",
+      "Công nghệ - Tiện ích": "Bộ tính năng Advanced AI (Circle to Search với Google, Google Gemini, AI Interpreter, AI Notes, AI Eraser Pro)",
+      "Tiện ích khác": "Điều khiển hồng ngoại IR Blaster, chứng nhận âm thanh Dolby Atmos",
+      "Thời điểm ra mắt": "26/09/2024"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G đa băng tần (SA/NSA Sub-6GHz), 4G LTE-A",
+      "Thẻ SIM": "SIM kép (Nano-SIM + Nano-SIM hoặc Nano-SIM + eSIM)",
+      "Wi-Fi": "Wi-Fi 6E (802.11ax) ba băng tần (2.4GHz / 5GHz / 6GHz), 2x2 MIMO",
+      "Bluetooth": "Bluetooth 5.4 hỗ trợ AAC, LDAC, LHDC",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa năng",
+      "GPS": "GPS, Galileo, GLONASS, BeiDou, NavIC"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền phẳng hoàn thiện tinh xảo, mỏng nhẹ chỉ 7,8 mm",
+      "Chất liệu mặt lưng": "Mặt lưng kính nhám mờ hoặc da thuần chay sinh học Bio-based PU (bản Lemon Green)",
+      "Kích thước": "160,5 x 75,1 x 7,8 mm (bản kính) hoặc 7,95 mm (bản da)",
+      "Trọng lượng": "195 gram (bản kính) hoặc 193 gram (bản da)",
+      "Chỉ số kháng nước, bụi": "Đạt chuẩn IP68 kháng bụi và chống nước ở độ sâu 2 mét trong 30 phút"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa kép Stereo chuẩn Dolby Atmos, Hi-Res Audio & Hi-Res Wireless",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình + Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Cảm biến Flicker, Tiệm cận, Ánh sáng 360°, Gia tốc kế, Con quay hồi chuyển, La bàn số, Hồng ngoại"
+    }
+  }
+}

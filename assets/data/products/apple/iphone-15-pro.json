@@ -1,0 +1,186 @@
+{
+  "id": "iphone-15-pro",
+  "brand": "Apple",
+  "brandId": "apple",
+  "parentGroupId": "apple",
+  "model": "iPhone 15 Pro",
+  "series": "iPhone 15 Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "flagship",
+    "5g-ready"
+  ],
+  "status": "needs_verification",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.9,
+  "reviewCount": 19,
+  "badges": [
+    {
+      "text": "Bán chạy",
+      "type": "hot"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2023",
+    "segment": "Flagship Cao cấp",
+    "description": "iPhone 15 Pro thuộc dòng iPhone 15 Series của thương hiệu Apple. cùng thiết kế hiện đại, tối ưu trải nghiệm tại hệ thống AURIX MOBILE.",
+    "highlights": [
+      "iPhone 15 Series",
+      "Apple",
+      "Chính hãng VN/A"
+    ],
+    "officialDistribution": "Model được bảo lưu từ danh sách trước nhưng chưa đủ bằng chứng đang mở bán chính thức trong lượt đối chiếu ngày 01/11/2026; giữ trạng thái needs_verification để không mất dấu dữ liệu."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": null,
+    "originalPrice": null,
+    "promotionPrice": null,
+    "priceUpdatedAt": "2026-11-01",
+    "priceVerified": false
+  },
+  "variants": [
+    {
+      "sku": "AUR-APP-IPHONE-15-PRO-RAM-STD-01",
+      "color": "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)",
+      "colorHex": "#102347",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "price": null,
+      "originalPrice": null,
+      "stockStatus": "needs_verification",
+      "images": [
+        "assets/images/placeholders/placeholder-default.svg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": null,
+    "size": null,
+    "resolution": null,
+    "refreshRate": null,
+    "brightness": null,
+    "hdr": "HDR10+ / Dolby Vision",
+    "protection": "Ceramic Shield",
+    "features": []
+  },
+  "performance": {
+    "chipset": null,
+    "cpu": null,
+    "gpu": null,
+    "ram": [],
+    "storage": [],
+    "operatingSystem": "iOS",
+    "uiVersion": "iOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": null,
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [],
+    "aiFeatures": []
+  },
+  "frontCamera": {
+    "resolution": null,
+    "features": [],
+    "videoRecording": []
+  },
+  "battery": {
+    "capacity": null,
+    "wiredCharging": null,
+    "wirelessCharging": null,
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": null
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM / eSIM"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi băng tần kép",
+    "bluetooth": "Bluetooth 5.3+",
+    "gps": [
+      "GPS",
+      "GLONASS",
+      "Galileo",
+      "BDS"
+    ],
+    "usb": "USB Type-C",
+    "nfc": null
+  },
+  "design": {
+    "dimensions": null,
+    "weight": null,
+    "materials": [],
+    "waterResistance": null,
+    "availableColors": [
+      "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Face ID 3D"
+  ],
+  "specialFeatures": [
+    "iPhone 15 Series",
+    "Apple",
+    "Chính hãng VN/A"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Apple tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/placeholders/placeholder-default.svg",
+    "hasAvatarNamed": false,
+    "gallery": [
+      "assets/images/placeholders/placeholder-default.svg"
+    ],
+    "byColor": {},
+    "bySection": {
+      "performance": "assets/images/placeholders/placeholder-default.svg"
+    }
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-apple-iphone",
+      "https://www.thegioididong.com/dtdd-apple-iphone-18-series",
+      "https://www.apple.com/vn/iphone/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "needs_verification",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Cần xác minh thêm",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "verbatimDescription": []
+}

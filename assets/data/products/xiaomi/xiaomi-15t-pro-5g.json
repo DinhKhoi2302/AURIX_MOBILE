@@ -1,0 +1,340 @@
+{
+  "id": "xiaomi-15t-pro-5g",
+  "brand": "Xiaomi",
+  "brandId": "xiaomi",
+  "parentGroupId": "xiaomi_group",
+  "model": "Xiaomi 15T Pro 5G",
+  "series": "Xiaomi T Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "upper-midrange",
+    "5g-ready"
+  ],
+  "status": "needs_verification",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Giảm giá",
+      "type": "sale"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025",
+    "segment": "Cận cao cấp",
+    "description": "Ra mắt tháng 9/2025, Xiaomi 15T Pro 5G nâng cấp toàn diện dòng T-Series với màn hình lớn 6,83 inch 1.5K+ 144Hz, vi xử lý 3nm MediaTek Dimensity 9400+ (xung nhịp 3,63 GHz), hệ thống 3 camera Leica Summilux có ống kính Telephoto 50MP 3x tích hợp chống rung OIS và viên pin nâng lên 5.500 mAh kèm sạc nhanh 120W. Tại AURIX MOBILE, Xiaomi 15T Pro 5G mang đến hiệu năng flagship 3nm và chất ảnh Leica chuyên nghiệp trong phân khúc cận cao cấp. (Nguồn tham chiếu: GSMArena - Xiaomi 15T Pro 5G).",
+    "highlights": [
+      "6,83 inch 1.5K+ 144Hz",
+      "Dimensity 9400+ (3nm)",
+      "Camera Leica OIS / Pin 5.500 mAh"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": null,
+    "originalPrice": 18490000,
+    "promotionPrice": 13780000,
+    "priceUpdatedAt": "2026-11-01",
+    "priceVerified": false
+  },
+  "variants": [
+    {
+      "sku": "AUR-XIA-15T-PRO-5G-12GB-256GB-01",
+      "color": "Đen Titan",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "256GB",
+      "price": null,
+      "originalPrice": 18490000,
+      "stockStatus": "needs_verification",
+      "images": [
+        "assets/images/placeholders/placeholder-default.svg"
+      ]
+    },
+    {
+      "sku": "AUR-XIA-15T-PRO-5G-12GB-512GB-02",
+      "color": "Xám Titan",
+      "colorHex": "#6B7280",
+      "ram": "12GB",
+      "storage": "512GB",
+      "price": null,
+      "originalPrice": null,
+      "stockStatus": "needs_verification",
+      "images": [
+        "assets/images/placeholders/placeholder-default.svg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "CrystalRes AMOLED (68 tỷ màu), 144Hz, 3.200 nit",
+    "size": "6,83 inch",
+    "resolution": "2772 x 1280 pixel (1.5K+, 447 ppi)",
+    "refreshRate": "144Hz",
+    "brightness": "Dolby Vision, HDR10+; Độ sáng HBM 1.800 nit / đỉnh cục bộ 3.200 nit; Làm mờ PWM tần số siêu cao 3840Hz bảo vệ mắt",
+    "hdr": "HDR10+ / HLG",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "MediaTek Dimensity 9400+ (tiến trình 3nm thế hệ thứ 2 TSMC) kèm NPU MediaTek 890",
+    "cpu": "CPU 8 nhân All-Big-Core thế hệ 2: 1 nhân Cortex-X925 (3,63 GHz) + 3 nhân Cortex-X4 (3,3 GHz) + 4 nhân Cortex-A720 (2,4 GHz)",
+    "gpu": "ARM Immortalis-G925 MC12 hỗ trợ Ray Tracing phần cứng, kết hợp hệ thống tản nhiệt 3D IceLoop diện tích lớn",
+    "ram": [
+      "12GB"
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ],
+    "operatingSystem": "Xiaomi HyperOS 2.0 phát triển trên Android 15",
+    "uiVersion": "Xiaomi HyperOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "3 camera Leica: 50MP Chính Light Fusion 900 OIS + 50MP Tele 3x OIS + 12MP Siêu rộng",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "Quay video 8K ở 30fps; Quay 4K ở 24/30/60/120fps; Quay 4K 60fps Dolby Vision HDR 10-bit và 10-bit Log chuẩn ACES; Chế độ điện ảnh Movie Mode và Director Mode"
+    ],
+    "aiFeatures": [
+      "2 phong cách ảnh Leica (Authentic & Vibrant); Leica Master Lens System (35mm, 50mm, 75mm, 90mm); Nền tảng Xiaomi AISP 2.0, chụp nhanh Leica Fastshot"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "32MP (ƒ/2.0), quay 4K 60fps",
+    "features": [
+      "Camera Selfie 32MP (khẩu độ ƒ/2.0, góc rộng); Hỗ trợ HDR10+, chụp chân dung đêm và quay video 4K ở 30/60fps kèm chống rung EIS"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "5.500 mAh (Pin Silicon-Carbon)",
+    "wiredCharging": "Sạc siêu nhanh có dây 120W HyperCharge, sạc không dây 50W",
+    "wirelessCharging": "Có hỗ trợ sạc không dây",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc siêu nhanh có dây 120W HyperCharge | Sạc nhanh không dây 50W Wireless HyperCharge"
+  },
+  "connectivity": {
+    "sim": [
+      "SIM kép (2 Nano-SIM hoặc Nano-SIM + eSIM)"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 7 (802.11be) ba băng tần, 2x2 MIMO",
+    "bluetooth": "Bluetooth 5.4 / 6.0 hỗ trợ aptX Adaptive, LDAC, LHDC 5.0",
+    "gps": [
+      "Định vị vệ tinh đa băng tần L1+L5: GPS, Galileo, GLONASS, BeiDou, NavIC"
+    ],
+    "usb": "USB Type-C hỗ trợ sạc siêu nhanh và kết nối OTG",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "162,8 x 77,9 x 8,2 mm",
+    "weight": "212 gram",
+    "materials": [
+      "Khung hợp kim nhôm cường lực cao 6M13",
+      "Mặt lưng kính nhám mờ chống bám vân tay, mặt trước Gorilla Glass Victus 2"
+    ],
+    "waterResistance": "IP68 (Chống nước sâu 2m trong 30 phút)",
+    "availableColors": [
+      "Đen Titan",
+      "Xám Titan"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo chuẩn Dolby Atmos, Hi-Res Audio & Hi-Res Wireless",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "MediaTek Dimensity Flagship",
+    "AMOLED CrystalRes 6.83 inch",
+    "Camera 50MP",
+    "Pin 5000 mAh"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Xiaomi tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/placeholders/placeholder-default.svg",
+    "hasAvatarNamed": false,
+    "gallery": [
+      "assets/images/placeholders/placeholder-default.svg"
+    ],
+    "byColor": {},
+    "bySection": {
+      "performance": "assets/images/placeholders/placeholder-default.svg"
+    }
+  },
+  "metadata": {
+    "sources": [
+      "https://www.mi.com/vn/phone/",
+      "https://www.thegioididong.com/dtdd-xiaomi",
+      "https://www.mi.com/vn/phone/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "verified",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "verbatimDescription": [
+    "Ra mắt tháng 9/2025, Xiaomi 15T Pro 5G nâng cấp toàn diện dòng T-Series với màn hình lớn 6,83 inch 1.5K+ 144Hz, vi xử lý 3nm MediaTek Dimensity 9400+ (xung nhịp 3,63 GHz), hệ thống 3 camera Leica Summilux có ống kính Telephoto 50MP 3x tích hợp chống rung OIS và viên pin nâng lên 5.500 mAh kèm sạc nhanh 120W. Tại AURIX MOBILE, Xiaomi 15T Pro 5G mang đến hiệu năng flagship 3nm và chất ảnh Leica chuyên nghiệp trong phân khúc cận cao cấp.",
+    "Xiaomi 15T Pro 5G sở hữu khung hợp kim nhôm cường lực kết hợp kính bảo vệ Corning Gorilla Glass Victus 2 và chuẩn kháng bụi nước IP68. Màn hình được mở rộng lên 6,83 inch (2772 x 1280 pixel, 447 ppi) với tần số quét 144Hz, làm mờ 3840Hz PWM và chuẩn Dolby Vision rực rỡ.",
+    "Hệ thống 3 camera Leica VARIO-SUMMILUX trên Xiaomi 15T Pro 5G kết hợp cảm biến chính 50MP Light Fusion 900 (1/1.31\", ƒ/1.6, OIS) với ống kính Telephoto 50MP zoom quang 3x có chống rung quang học OIS và camera góc siêu rộng 12MP, hỗ trợ quay video 8K@30fps và 4K@120fps.",
+    "Trái tim của máy là vi xử lý 3nm MediaTek Dimensity 9400+ với nhân siêu hiệu năng Cortex-X925 đạt 3,63 GHz và GPU 12 nhân Immortalis-G925, đi kèm 12GB RAM LPDDR5X và bộ nhớ 256GB/512GB UFS 4.0.",
+    "Viên pin Silicon-Carbon được nâng lên 5.500 mAh đi kèm sạc siêu nhanh có dây 120W HyperCharge và sạc không dây 50W, kết hợp kết nối Wi-Fi 7 và hệ sinh thái Xiaomi HyperAI trên HyperOS 2.0."
+  ],
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,83 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "CrystalRes AMOLED (68 tỷ màu), 144Hz, 3.200 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2772 x 1280 pixel (1.5K+, 447 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "144Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 9400+ (3nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "2 phiên bản: 256GB và 512GB chuẩn UFS 4.0"
+    },
+    {
+      "label": "Camera sau",
+      "value": "3 camera Leica: 50MP Chính Light Fusion 900 OIS + 50MP Tele 3x OIS + 12MP Siêu rộng"
+    },
+    {
+      "label": "Camera trước",
+      "value": "32MP (ƒ/2.0), quay 4K 60fps"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.500 mAh (Pin Silicon-Carbon)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc siêu nhanh có dây 120W HyperCharge, sạc không dây 50W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS 2.0 (Android 15)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 (Chống nước sâu 2m trong 30 phút)"
+    }
+  ],
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "CrystalRes AI AMOLED hiển thị 68 tỷ màu (12-bit), độ phủ màu 100% DCI-P3, Original Color PRO",
+      "Kích thước màn hình": "6,83 inch theo đường chéo (diện tích hiển thị lớn 114,5 cm², chiếm ~90,2% mặt trước)",
+      "Độ phân giải màn hình": "2772 x 1280 pixel (chuẩn 1.5K+, tỷ lệ 19,5:9, mật độ điểm ảnh 447 ppi)",
+      "Tần số quét": "144Hz siêu mượt, tốc độ lấy mẫu cảm ứng tức thì 2160Hz",
+      "Kiểu màn hình": "Màn hình phẳng viền siêu mỏng, bảo vệ bởi kính cường lực Corning Gorilla Glass Victus 2",
+      "Tính năng màn hình": "Dolby Vision, HDR10+; Độ sáng HBM 1.800 nit / đỉnh cục bộ 3.200 nit; Làm mờ PWM tần số siêu cao 3840Hz bảo vệ mắt"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera Leica VARIO-SUMMILUX chuyên nghiệp: (1) Camera chính 50MP Leica: cảm biến Light Fusion 900 kích thước lớn 1/1.31 inch (điểm ảnh 1.2µm, Super Pixel 2.4µm), khẩu độ lớn ƒ/1.6, tiêu cự 23mm, lấy nét Dual Pixel PDAF, chống rung quang học OIS; (2) Camera Telephoto 50MP Leica 70mm: khẩu độ ƒ/2.0, tiêu cự 70mm (zoom quang học 3x, zoom chất lượng quang học 6x, zoom số 60x), tích hợp chống rung quang học OIS và lấy nét cận cảnh; (3) Camera Góc siêu rộng 12MP Leica 15mm: khẩu độ ƒ/2.2, góc nhìn 120°",
+      "Quay video": "Quay video 8K ở 30fps; Quay 4K ở 24/30/60/120fps; Quay 4K 60fps Dolby Vision HDR 10-bit và 10-bit Log chuẩn ACES; Chế độ điện ảnh Movie Mode và Director Mode",
+      "Tính năng camera": "2 phong cách ảnh Leica (Authentic & Vibrant); Leica Master Lens System (35mm, 50mm, 75mm, 90mm); Nền tảng Xiaomi AISP 2.0, chụp nhanh Leica Fastshot"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera Selfie 32MP (khẩu độ ƒ/2.0, góc rộng); Hỗ trợ HDR10+, chụp chân dung đêm và quay video 4K ở 30/60fps kèm chống rung EIS"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Dimensity 9400+ (tiến trình 3nm thế hệ thứ 2 TSMC) kèm NPU MediaTek 890",
+      "Loại CPU": "CPU 8 nhân All-Big-Core thế hệ 2: 1 nhân Cortex-X925 (3,63 GHz) + 3 nhân Cortex-X4 (3,3 GHz) + 4 nhân Cortex-A720 (2,4 GHz)",
+      "GPU": "ARM Immortalis-G925 MC12 hỗ trợ Ray Tracing phần cứng, kết hợp hệ thống tản nhiệt 3D IceLoop diện tích lớn"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "12GB LPDDR5X tốc độ cao",
+      "Bộ nhớ trong": "2 phiên bản: 256GB và 512GB chuẩn UFS 4.0 tốc độ cao"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.500 mAh (Pin Silicon-Carbon mật độ cao) kèm chip quản lý pin Xiaomi Surge G1",
+      "Công nghệ sạc": "Sạc siêu nhanh có dây 120W HyperCharge | Sạc nhanh không dây 50W Wireless HyperCharge",
+      "Cổng sạc": "USB Type-C hỗ trợ sạc siêu nhanh và kết nối OTG"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS 2.0 phát triển trên Android 15",
+      "Công nghệ - Tiện ích": "Hệ sinh thái Xiaomi HyperAI toàn diện (AI Writing, AI Interpreter, AI Erase Pro, Circle to Search với Google, Google Gemini)",
+      "Tiện ích khác": "Chip tăng cường tín hiệu Xiaomi Surge T1, cổng hồng ngoại IR Blaster",
+      "Thời điểm ra mắt": "Tháng 09/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G đa băng tần (SA/NSA Sub-6GHz), 4G LTE-A",
+      "Thẻ SIM": "SIM kép (2 Nano-SIM hoặc Nano-SIM + eSIM)",
+      "Wi-Fi": "Wi-Fi 7 (802.11be) ba băng tần, 2x2 MIMO",
+      "Bluetooth": "Bluetooth 5.4 / 6.0 hỗ trợ aptX Adaptive, LDAC, LHDC 5.0",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa năng",
+      "GPS": "Định vị vệ tinh đa băng tần L1+L5: GPS, Galileo, GLONASS, BeiDou, NavIC"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung hợp kim nhôm cường lực cao 6M13",
+      "Chất liệu mặt lưng": "Mặt lưng kính nhám mờ chống bám vân tay, mặt trước Gorilla Glass Victus 2",
+      "Kích thước": "162,8 x 77,9 x 8,2 mm",
+      "Trọng lượng": "212 gram",
+      "Chỉ số kháng nước, bụi": "Đạt chuẩn IP68 kháng bụi và chống nước ở độ sâu 2 mét trong 30 phút"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa kép Stereo chuẩn Dolby Atmos, Hi-Res Audio & Hi-Res Wireless",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình + Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Cảm biến Flicker, Tiệm cận, Ánh sáng 360°, Gia tốc kế, Con quay hồi chuyển, La bàn số, Hồng ngoại"
+    }
+  }
+}

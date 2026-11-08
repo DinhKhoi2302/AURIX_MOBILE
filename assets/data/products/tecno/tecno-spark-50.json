@@ -1,0 +1,453 @@
+{
+  "id": "tecno-spark-50",
+  "brand": "TECNO",
+  "brandId": "tecno",
+  "parentGroupId": "tecno",
+  "model": "TECNO SPARK 50",
+  "series": "TECNO SPARK Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "entry-level"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025 – 2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Ra mắt tháng 3/2026, TECNO SPARK 50 gây ấn tượng mạnh với viên pin khủng 6.500 mAh trong thân máy dày chỉ 8,2 mm, màn hình lớn 6,78 inch 120Hz, camera chính 50MP AI, loa kép Stereo, điều khiển hồng ngoại và chuẩn kháng bụi nước IP64 trên nền tảng Android 16. (Nguồn tham chiếu: GSMArena - TECNO Spark 50).",
+    "highlights": [
+      "6,78 inch 120Hz",
+      "Pin khủng 6.500 mAh",
+      "Camera 50MP / Chuẩn IP64"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 2890000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT002-TECSPARK50-XAM-4GB-128GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 2890000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tecno/tecno-spark-50/anh-dai-dien-tecno-spark-50-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50/mat-truoc-mat-sau-tecno-spark-50-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50/canh-duoi-cong-sac-tecno-spark-50-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50/canh-trai-canh-phai-tecno-spark-50-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50/canh-tren-canh-duoi-tecno-spark-50-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50/tren-tay-canh-ben-tecno-spark-50-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50/cum-camera-sau-tecno-spark-50-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50/TECNO-Spark-50.jpg"
+      ]
+    },
+    {
+      "sku": "DT002-TECSPARK50-XAM-6GB-128GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 3290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tecno/tecno-spark-50/anh-dai-dien-tecno-spark-50-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50/mat-truoc-mat-sau-tecno-spark-50-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50/canh-duoi-cong-sac-tecno-spark-50-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50/canh-trai-canh-phai-tecno-spark-50-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50/canh-tren-canh-duoi-tecno-spark-50-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50/tren-tay-canh-ben-tecno-spark-50-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50/cum-camera-sau-tecno-spark-50-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50/TECNO-Spark-50.jpg"
+      ]
+    },
+    {
+      "sku": "DT002-TECSPARK50-DEN-4GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 2890000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tecno/tecno-spark-50/mat-truoc-mat-sau-tecno-spark-50-den.webp",
+        "assets/images/products/tecno/tecno-spark-50/man-hinh-mat-truoc-tecno-spark-50-den.webp",
+        "assets/images/products/tecno/tecno-spark-50/thiet-ke-mat-lung-tecno-spark-50-den.webp",
+        "assets/images/products/tecno/tecno-spark-50/tren-tay-mat-lung-tecno-spark-50-den.webp",
+        "assets/images/products/tecno/tecno-spark-50/canh-trai-canh-phai-tecno-spark-50-den.webp",
+        "assets/images/products/tecno/tecno-spark-50/canh-tren-canh-duoi-tecno-spark-50-den.webp",
+        "assets/images/products/tecno/tecno-spark-50/cum-camera-sau-tecno-spark-50-den.webp",
+        "assets/images/products/tecno/tecno-spark-50/tren-tay-man-hinh-tecno-spark-50-den.webp",
+        "assets/images/products/tecno/tecno-spark-50/TECNO-Spark-50.jpg"
+      ]
+    },
+    {
+      "sku": "DT002-TECSPARK50-DEN-6GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 3290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tecno/tecno-spark-50/mat-truoc-mat-sau-tecno-spark-50-den.webp",
+        "assets/images/products/tecno/tecno-spark-50/man-hinh-mat-truoc-tecno-spark-50-den.webp",
+        "assets/images/products/tecno/tecno-spark-50/thiet-ke-mat-lung-tecno-spark-50-den.webp",
+        "assets/images/products/tecno/tecno-spark-50/tren-tay-mat-lung-tecno-spark-50-den.webp",
+        "assets/images/products/tecno/tecno-spark-50/canh-trai-canh-phai-tecno-spark-50-den.webp",
+        "assets/images/products/tecno/tecno-spark-50/canh-tren-canh-duoi-tecno-spark-50-den.webp",
+        "assets/images/products/tecno/tecno-spark-50/cum-camera-sau-tecno-spark-50-den.webp",
+        "assets/images/products/tecno/tecno-spark-50/tren-tay-man-hinh-tecno-spark-50-den.webp",
+        "assets/images/products/tecno/tecno-spark-50/TECNO-Spark-50.jpg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "IPS LCD 120Hz, độ sáng cao",
+    "size": "6,78 inch",
+    "resolution": "1600 x 720 pixel / 2460 x 1080 pixel (120Hz)",
+    "refreshRate": "120Hz",
+    "brightness": "Tần số quét 120Hz mượt mà, cảm ứng khi tay ướt Wet Touch, bảo vệ mắt ban đêm",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "MediaTek Dimensity 6400 (6nm) / Helio G81",
+    "cpu": "CPU 8 nhân tối ưu hóa hiệu suất hàng ngày và tiết kiệm năng lượng",
+    "gpu": "ARM Mali-G57 MC2",
+    "ram": [
+      "4GB",
+      "6GB"
+    ],
+    "storage": [
+      "128GB"
+    ],
+    "operatingSystem": "HiOS 16 (Android 16)",
+    "uiVersion": "Android",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Chính AI (ƒ/1.8, PDAF) kèm đèn flash LED kép",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "Quay video Full HD 1080p ở 30fps"
+    ],
+    "aiFeatures": [
+      "Super Night Mode, Chân dung AI, HDR, Panorama, Dual Video"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "8MP / 13MP Selfie kèm đèn flash trợ sáng",
+    "features": [
+      "Camera Selfie góc rộng kèm đèn flash trợ sáng phía trước, hỗ trợ làm đẹp chân dung AI và quay video 1080p@30fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "6.500 mAh (Pin khủng Siêu bền)",
+    "wiredCharging": "Sạc nhanh có dây 18W / 33W",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc nhanh có dây qua cổng USB Type-C"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM vật lý + 1 khe thẻ nhớ MicroSD"
+    ],
+    "network": [
+      "4G LTE / 5G"
+    ],
+    "wifi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép",
+    "bluetooth": "Bluetooth 5.3 hỗ trợ A2DP, LE",
+    "gps": [
+      "GPS, GLONASS, GALILEO, BDS"
+    ],
+    "usb": "USB Type-C 2.0 hỗ trợ OTG",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "167,9 x 79,3 x 8,2 mm",
+    "weight": "210 gram",
+    "materials": [
+      "Khung viền phẳng chắc chắn",
+      "Mặt lưng hoàn thiện nhám mờ chống bám mồ hôi và vân tay"
+    ],
+    "waterResistance": "IP64 kháng bụi và tia nước",
+    "availableColors": [
+      "Xám",
+      "Đen"
+    ]
+  },
+  "audio": {
+    "speakers": "Hệ thống loa kép Stereo chuẩn DTS / Dolby Atmos, có giắc tai nghe 3.5mm",
+    "headphoneJack": true,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Spark",
+    "TECNO",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền TECNO tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/tecno/tecno-spark-50/anh-dai-dien-tecno-spark-50-xam.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tecno/tecno-spark-50/anh-dai-dien-tecno-spark-50-xam.webp",
+      "assets/images/products/tecno/tecno-spark-50/mat-truoc-mat-sau-tecno-spark-50-den.webp",
+      "assets/images/products/tecno/tecno-spark-50/mat-truoc-mat-sau-tecno-spark-50-xam.webp",
+      "assets/images/products/tecno/tecno-spark-50/man-hinh-mat-truoc-tecno-spark-50-den.webp",
+      "assets/images/products/tecno/tecno-spark-50/thiet-ke-mat-lung-tecno-spark-50-den.webp",
+      "assets/images/products/tecno/tecno-spark-50/tren-tay-mat-lung-tecno-spark-50-den.webp",
+      "assets/images/products/tecno/tecno-spark-50/canh-duoi-cong-sac-tecno-spark-50-xam.webp",
+      "assets/images/products/tecno/tecno-spark-50/canh-trai-canh-phai-tecno-spark-50-den.webp",
+      "assets/images/products/tecno/tecno-spark-50/canh-trai-canh-phai-tecno-spark-50-xam.webp",
+      "assets/images/products/tecno/tecno-spark-50/canh-tren-canh-duoi-tecno-spark-50-den.webp",
+      "assets/images/products/tecno/tecno-spark-50/canh-tren-canh-duoi-tecno-spark-50-xam.webp",
+      "assets/images/products/tecno/tecno-spark-50/tren-tay-canh-ben-tecno-spark-50-xam.webp",
+      "assets/images/products/tecno/tecno-spark-50/cum-camera-sau-tecno-spark-50-den.webp",
+      "assets/images/products/tecno/tecno-spark-50/cum-camera-sau-tecno-spark-50-xam.webp",
+      "assets/images/products/tecno/tecno-spark-50/TECNO-Spark-50.jpg",
+      "assets/images/products/tecno/tecno-spark-50/tren-tay-man-hinh-tecno-spark-50-den.webp"
+    ],
+    "byColor": {
+      "Xám": [
+        "assets/images/products/tecno/tecno-spark-50/anh-dai-dien-tecno-spark-50-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50/mat-truoc-mat-sau-tecno-spark-50-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50/canh-duoi-cong-sac-tecno-spark-50-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50/canh-trai-canh-phai-tecno-spark-50-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50/canh-tren-canh-duoi-tecno-spark-50-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50/tren-tay-canh-ben-tecno-spark-50-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50/cum-camera-sau-tecno-spark-50-xam.webp",
+        "assets/images/products/tecno/tecno-spark-50/TECNO-Spark-50.jpg"
+      ],
+      "Đen": [
+        "assets/images/products/tecno/tecno-spark-50/mat-truoc-mat-sau-tecno-spark-50-den.webp",
+        "assets/images/products/tecno/tecno-spark-50/man-hinh-mat-truoc-tecno-spark-50-den.webp",
+        "assets/images/products/tecno/tecno-spark-50/thiet-ke-mat-lung-tecno-spark-50-den.webp",
+        "assets/images/products/tecno/tecno-spark-50/tren-tay-mat-lung-tecno-spark-50-den.webp",
+        "assets/images/products/tecno/tecno-spark-50/canh-trai-canh-phai-tecno-spark-50-den.webp",
+        "assets/images/products/tecno/tecno-spark-50/canh-tren-canh-duoi-tecno-spark-50-den.webp",
+        "assets/images/products/tecno/tecno-spark-50/cum-camera-sau-tecno-spark-50-den.webp",
+        "assets/images/products/tecno/tecno-spark-50/tren-tay-man-hinh-tecno-spark-50-den.webp",
+        "assets/images/products/tecno/tecno-spark-50/TECNO-Spark-50.jpg"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tecno/tecno-spark-50/mat-truoc-mat-sau-tecno-spark-50-den.webp",
+      "screen": "assets/images/products/tecno/tecno-spark-50/mat-truoc-mat-sau-tecno-spark-50-xam.webp",
+      "performance": "assets/images/products/tecno/tecno-spark-50/TECNO-Spark-50.jpg",
+      "camera": "assets/images/products/tecno/tecno-spark-50/cum-camera-sau-tecno-spark-50-den.webp",
+      "battery": "assets/images/products/tecno/tecno-spark-50/canh-duoi-cong-sac-tecno-spark-50-xam.webp",
+      "feature": "assets/images/products/tecno/tecno-spark-50/canh-trai-canh-phai-tecno-spark-50-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tecno/tecno-spark-50/mat-truoc-mat-sau-tecno-spark-50-den.webp",
+      "assets/images/products/tecno/tecno-spark-50/mat-truoc-mat-sau-tecno-spark-50-xam.webp",
+      "assets/images/products/tecno/tecno-spark-50/man-hinh-mat-truoc-tecno-spark-50-den.webp",
+      "assets/images/products/tecno/tecno-spark-50/thiet-ke-mat-lung-tecno-spark-50-den.webp",
+      "assets/images/products/tecno/tecno-spark-50/tren-tay-mat-lung-tecno-spark-50-den.webp",
+      "assets/images/products/tecno/tecno-spark-50/canh-duoi-cong-sac-tecno-spark-50-xam.webp",
+      "assets/images/products/tecno/tecno-spark-50/canh-trai-canh-phai-tecno-spark-50-den.webp",
+      "assets/images/products/tecno/tecno-spark-50/canh-trai-canh-phai-tecno-spark-50-xam.webp",
+      "assets/images/products/tecno/tecno-spark-50/canh-tren-canh-duoi-tecno-spark-50-den.webp",
+      "assets/images/products/tecno/tecno-spark-50/canh-tren-canh-duoi-tecno-spark-50-xam.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-tecno",
+      "https://www.tecno-mobile.com/vn/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT002-TECSPARK50",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "IPS LCD 120Hz, độ sáng cao",
+      "Kích thước màn hình": "6,78 inch",
+      "Độ phân giải màn hình": "1600 x 720 pixel / 2460 x 1080 pixel (120Hz)",
+      "Tần số quét": "120Hz",
+      "Kiểu màn hình": "Màn hình phẳng đục lỗ tích hợp thanh thông báo Dynamic Port",
+      "Tính năng màn hình": "Tần số quét 120Hz mượt mà, cảm ứng khi tay ướt Wet Touch, bảo vệ mắt ban đêm"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera AI 50MP: Camera chính 50MP (khẩu độ ƒ/1.8, lấy nét theo pha PDAF) kết hợp ống kính phụ AI và đèn flash LED kép",
+      "Quay video": "Quay video Full HD 1080p ở 30fps",
+      "Tính năng camera": "Super Night Mode, Chân dung AI, HDR, Panorama, Dual Video"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera Selfie góc rộng kèm đèn flash trợ sáng phía trước, hỗ trợ làm đẹp chân dung AI và quay video 1080p@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Dimensity 6400 (6nm) / Helio G81",
+      "Loại CPU": "CPU 8 nhân tối ưu hóa hiệu suất hàng ngày và tiết kiệm năng lượng",
+      "GPU": "ARM Mali-G57 MC2"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "4GB / 6GB (+6GB Extended RAM)",
+      "Bộ nhớ trong": "128GB (Hỗ trợ thẻ nhớ MicroSD 1TB)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "6.500 mAh (Pin dung lượng cực lớn đáp ứng 2,5–3 ngày sử dụng)",
+      "Công nghệ sạc": "Sạc nhanh có dây qua cổng USB Type-C",
+      "Cổng sạc": "USB Type-C 2.0 hỗ trợ OTG"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "HiOS 16 (Android 16)",
+      "Công nghệ - Tiện ích": "Dynamic Port hiển thị thông báo động, trợ lý thông minh Ella AI",
+      "Tiện ích khác": "Điều khiển hồng ngoại IR Blaster, giữ lại giắc cắm tai nghe 3.5mm truyền thống",
+      "Thời điểm ra mắt": "Tháng 03/2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "4G LTE / 5G",
+      "Thẻ SIM": "2 Nano-SIM vật lý + 1 khe thẻ nhớ MicroSD",
+      "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép",
+      "Bluetooth": "Bluetooth 5.3 hỗ trợ A2DP, LE",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa năng",
+      "GPS": "GPS, GLONASS, GALILEO, BDS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền phẳng chắc chắn",
+      "Chất liệu mặt lưng": "Mặt lưng hoàn thiện nhám mờ chống bám mồ hôi và vân tay",
+      "Kích thước": "167,9 x 79,3 x 8,2 mm",
+      "Trọng lượng": "210 gram",
+      "Chỉ số kháng nước, bụi": "Đạt chuẩn kháng bụi hoàn toàn và chống tia nước bắn IP64"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo chuẩn DTS / Dolby Atmos, có giắc tai nghe 3.5mm",
+      "Cảm biến vân tay": "Cảm biến vân tay tích hợp phím nguồn cạnh bên + Mở khóa khuôn mặt",
+      "Các loại cảm biến": "Gia tốc kế, Cảm biến tiệm cận, Ánh sáng môi trường, La bàn số, Hồng ngoại"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,78 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "IPS LCD 120Hz, độ sáng cao"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "1600 x 720 pixel / 2460 x 1080 pixel (120Hz)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 6400 (6nm) / Helio G81"
+    },
+    {
+      "label": "RAM",
+      "value": "4GB / 6GB (+6GB Extended RAM)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB (Hỗ trợ thẻ nhớ MicroSD 1TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính AI (ƒ/1.8, PDAF) kèm đèn flash LED kép"
+    },
+    {
+      "label": "Camera trước",
+      "value": "8MP / 13MP Selfie kèm đèn flash trợ sáng"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "6.500 mAh (Pin khủng Siêu bền)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh có dây 18W / 33W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "HiOS 16 (Android 16)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "4G LTE / 5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP64 kháng bụi và tia nước"
+    }
+  ],
+  "verbatimDescription": [
+    "Ra mắt tháng 3/2026, TECNO SPARK 50 gây ấn tượng mạnh với viên pin khủng 6.500 mAh trong thân máy dày chỉ 8,2 mm, màn hình lớn 6,78 inch 120Hz, camera chính 50MP AI, loa kép Stereo, điều khiển hồng ngoại và chuẩn kháng bụi nước IP64 trên nền tảng Android 16. Tại AURIX MOBILE, sản phẩm là lựa chọn pin trâu hàng đầu phân khúc phổ thông.",
+    "TECNO SPARK 50 sở hữu thiết kế hiện đại (167,9 x 79,3 x 8,2 mm, nặng 210g) với chuẩn kháng bụi và tia nước bắn IP64 bền bỉ.",
+    "Màn hình rộng 6,78 inch tần số quét 120Hz tích hợp Dynamic Port mang lại không gian giải trí mượt mà và dễ quan sát.",
+    "Camera chính 50MP khẩu độ ƒ/1.8 hỗ trợ lấy nét PDAF giúp ghi lại những bức ảnh sắc nét, đi kèm camera trước có đèn flash trợ sáng riêng.",
+    "Vi xử lý 8 nhân kết hợp tùy chọn RAM 4GB/6GB (+6GB mở rộng) và bộ nhớ 128GB trên giao diện HiOS 16 (Android 16) đảm bảo trải nghiệm mượt mà hàng ngày.",
+    "Viên pin 6.500 mAh đi kèm sạc nhanh Type-C, loa kép Stereo, NFC, cổng hồng ngoại IR Blaster và giắc tai nghe 3.5mm đáp ứng trọn vẹn mọi nhu cầu thiết yếu."
+  ],
+  "priceSegment": "entry-level"
+}

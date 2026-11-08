@@ -1,0 +1,333 @@
+{
+  "id": "xiaomi-14-ultra",
+  "model": "Xiaomi 14 Ultra",
+  "brand": "Xiaomi",
+  "brandId": "xiaomi",
+  "parentGroupId": "xiaomi",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "flagship"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "highlights": [
+      "6,73 inch 2K+ LTPO",
+      "Snapdragon 8 Gen 3",
+      "4 Camera Leica 50MP 1-inch"
+    ],
+    "description": "Xiaomi 14 Ultra là kiệt tác nhiếp ảnh di động đánh dấu bước nhảy vọt của sự hợp tác giữa Xiaomi và Leica với hệ thống ống kính VARIO-SUMMILUX 1:1.63–2.5/12–120 ASPH. Hội tụ cảm biến chính 1 inch Sony LYT-900 có khẩu độ biến thiên vô cấp vật lý ƒ/1.63–ƒ/4.0 cùng 3 camera phụ 50MP Sony IMX858 bao phủ 6 tiêu cự từ 12mm đến 240mm, vi xử lý Snapdragon 8 Gen 3, màn hình 2K+ LTPO 3.000 nit và sạc không dây 80W, Xiaomi 14 Ultra tại AURIX MOBILE là lựa chọn kinh điển cho người dùng đam mê chất ảnh Leica chân thực. (Nguồn tham chiếu chính thức: Xiaomi Global & GSMArena - Xiaomi 14 Ultra).",
+    "releaseDate": "Tháng 02/2024"
+  },
+  "display": {
+    "technology": "LTPO AMOLED 2K+ (68 tỷ màu), 1–120Hz, 3.000 nit",
+    "size": "6,73 inch",
+    "resolution": "3200 x 1440 pixel (WQHD+, 522 ppi)",
+    "refreshRate": "1–120Hz LTPO thích ứng",
+    "brightness": "Dolby Vision, HDR10+, HDR Vivid; Độ sáng HBM 1.000 nit / đỉnh ngoài trời 3.000 nit; Làm mờ lai 1920Hz PWM + DC Dimming, 3 chứng nhận bảo vệ mắt TÜV Rheinland, cảm ứng khi tay ướt Wet Touch",
+    "hdr": "HDR10+ / HLG",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "ram": [
+      "16GB"
+    ],
+    "storage": [
+      "512GB"
+    ],
+    "chipset": "Qualcomm Snapdragon 8 Gen 3 (tiến trình 4nm TSMC) kết hợp NPU Qualcomm AI Engine (45 TOPS)",
+    "operatingSystem": "Xiaomi HyperOS phát triển trên Android 14 (hỗ trợ cập nhật lên HyperOS 3 / Android 16)",
+    "cpu": "CPU 8 nhân: 1 nhân Prime Cortex-X4 (3,3 GHz) + 3 nhân Cortex-A720 (3,2 GHz) + 2 nhân Cortex-A720 (3,0 GHz) + 2 nhân Cortex-A520 (2,3 GHz)",
+    "gpu": "Qualcomm Adreno 750 hỗ trợ dò tia phần cứng Hardware Ray Tracing, kết hợp hệ thống tản nhiệt bơm lạnh vòng kép Dual-channel IceLoop diện tích 4.000 mm² (tách biệt luồng tản nhiệt cho SoC và cụm camera)"
+  },
+  "rearCamera": {
+    "main": "4 camera Leica 50MP: Chính 1-inch LYT-900 (ƒ/1.63–ƒ/4.0) OIS + Tele 3.2x OIS + Tiềm vọng 5x OIS + Siêu rộng",
+    "ultraWide": null,
+    "telephoto": null,
+    "ois": true,
+    "videoRecording": [
+      "Quay video 8K ở 24/30fps trên camera chính; Quay 4K ở 24/30/60/120fps trên toàn bộ ống kính; Quay 4K 60fps Dolby Vision HDR 10-bit Rec.2020 và 10-bit Log (hỗ trợ nhập LUT tùy chỉnh); Chế độ điện ảnh MasterCinema và Movie Mode (tỷ lệ 2.39:1, xóa phông điện ảnh, lấy nét tự động chuyển chủ thể); Chế độ đạo diễn Director Mode kết nối đa thiết bị kèm hệ thống 4 micro thu âm định hướng"
+    ],
+    "aiFeatures": [
+      "2 phong cách màu Leica kinh điển (Leica Authentic Look & Leica Vibrant Look); Hệ thống Leica Master Lens System mô phỏng 4 tiêu cự chân dung huyền thoại (35mm Documentary, 50mm Swirly Bokeh, 75mm Portrait, 90mm Soft Focus); Nền tảng nhiếp ảnh điện toán Xiaomi AISP (60 TOPS) với chế độ chụp nhanh Leica Street Photography (Fastshot 0,7 giây), UltraRAW 16-bit DNG, hiệu ứng tia sao 6 cánh khi khép khẩu ƒ/4.0"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "32MP (ƒ/2.0, 22mm), quay 4K 60fps",
+    "features": [
+      "Camera Selfie 32MP (cảm biến OmniVision OV32B40 1/3.14\", khẩu độ ƒ/2.0, tiêu cự 22mm góc rộng 90°); Hỗ trợ HDR, chân dung xóa phông ban đêm, quay video 4K ở 30/60fps và 1080p ở 30/60fps kèm chống rung điện tử gyro-EIS và nhắc chữ Teleprompter"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "5.000 mAh (Bản Quốc tế / Việt Nam)",
+    "wiredCharging": "Sạc nhanh có dây 90W HyperCharge, sạc không dây 80W, sạc ngược 10W",
+    "wirelessCharging": "Có hỗ trợ sạc không dây",
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": "Sạc siêu nhanh có dây 90W HyperCharge (đầy 100% trong 33 phút) | Sạc nhanh không dây 80W Wireless HyperCharge (đầy trong 46 phút) | Sạc ngược không dây 10W"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM vật lý hoạt động đồng thời"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 7 (802.11be) ba băng tần, hỗ trợ Multi-Link Operation (MLO) và 2x2 MIMO",
+    "bluetooth": "Bluetooth 5.4 Dual-Bluetooth hỗ trợ Qualcomm aptX Adaptive, aptX Lossless, LDAC, LHDC 5.0",
+    "gps": [
+      "Định vị vệ tinh đa băng tần: GPS (L1+L5), GLONASS (G1), BeiDou, Galileo (E1+E5a), QZSS, NavIC"
+    ],
+    "usb": "USB Type-C chuẩn tốc độ cao USB 3.2 Gen 2 (10Gbps), hỗ trợ xuất hình ảnh DisplayPort 4K",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "161,4 x 75,3 x 9,2 mm",
+    "weight": "219,8 gram",
+    "materials": [
+      "Khung nhôm nguyên khối độ bền cao Xiaomi Guardian Structure (cứng hơn gấp 1,38 lần thế hệ trước)",
+      "Mặt lưng da thuần chay công nghệ nano thế hệ mới chống mài mòn gấp 6 lần, kháng bẩn và kháng khuẩn"
+    ],
+    "waterResistance": "IP68 (Chống nước sâu 1,5m trong 30 phút)",
+    "availableColors": [
+      "Đen",
+      "Trắng"
+    ]
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 26990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/xiaomi/xiaomi-14-ultra/anh-dai-dien-xiaomi-14-ultra-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/xiaomi/xiaomi-14-ultra/anh-dai-dien-xiaomi-14-ultra-den.webp",
+      "assets/images/products/xiaomi/xiaomi-14-ultra/anh-dai-dien-xiaomi-14-ultra-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-14-ultra/mat-truoc-sau-ngang-den.webp",
+      "assets/images/products/xiaomi/xiaomi-14-ultra/mat-truoc-sau-ngang-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-14-ultra/mat-sau-boc-da-thuan-chay-cong-nghe-nano-den.webp",
+      "assets/images/products/xiaomi/xiaomi-14-ultra/thiet-ke-cum-camera-tron-va-canh-ben-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-14-ultra/he-thong-4-camera-sau-leica-50mp-den.webp",
+      "assets/images/products/xiaomi/xiaomi-14-ultra/khung-nhom-cuong-do-cao-kinh-shield-glass-den.webp",
+      "assets/images/products/xiaomi/xiaomi-14-ultra/nguoi-dung-chup-anh-ngoai-troi-den.webp",
+      "assets/images/products/xiaomi/xiaomi-14-ultra/sac-khong-day-hypercharge-80w-tan-nhiet-iceloop-den.webp",
+      "assets/images/products/xiaomi/xiaomi-14-ultra/tong-quan-tinh-nang-4-camera-50mp-man-hinh-6-73-inch.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/xiaomi/xiaomi-14-ultra/anh-dai-dien-xiaomi-14-ultra-den.webp",
+        "assets/images/products/xiaomi/xiaomi-14-ultra/mat-truoc-sau-ngang-den.webp",
+        "assets/images/products/xiaomi/xiaomi-14-ultra/mat-sau-boc-da-thuan-chay-cong-nghe-nano-den.webp",
+        "assets/images/products/xiaomi/xiaomi-14-ultra/he-thong-4-camera-sau-leica-50mp-den.webp",
+        "assets/images/products/xiaomi/xiaomi-14-ultra/khung-nhom-cuong-do-cao-kinh-shield-glass-den.webp",
+        "assets/images/products/xiaomi/xiaomi-14-ultra/nguoi-dung-chup-anh-ngoai-troi-den.webp",
+        "assets/images/products/xiaomi/xiaomi-14-ultra/sac-khong-day-hypercharge-80w-tan-nhiet-iceloop-den.webp",
+        "assets/images/products/xiaomi/xiaomi-14-ultra/tong-quan-tinh-nang-4-camera-50mp-man-hinh-6-73-inch.webp"
+      ],
+      "Trắng": [
+        "assets/images/products/xiaomi/xiaomi-14-ultra/anh-dai-dien-xiaomi-14-ultra-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-14-ultra/mat-truoc-sau-ngang-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-14-ultra/thiet-ke-cum-camera-tron-va-canh-ben-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-14-ultra/tong-quan-tinh-nang-4-camera-50mp-man-hinh-6-73-inch.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/xiaomi/xiaomi-14-ultra/mat-truoc-sau-ngang-den.webp",
+      "screen": "assets/images/products/xiaomi/xiaomi-14-ultra/mat-truoc-sau-ngang-trang.webp",
+      "performance": "assets/images/products/xiaomi/xiaomi-14-ultra/he-thong-4-camera-sau-leica-50mp-den.webp",
+      "camera": "assets/images/products/xiaomi/xiaomi-14-ultra/thiet-ke-cum-camera-tron-va-canh-ben-trang.webp",
+      "battery": "assets/images/products/xiaomi/xiaomi-14-ultra/sac-khong-day-hypercharge-80w-tan-nhiet-iceloop-den.webp",
+      "feature": "assets/images/products/xiaomi/xiaomi-14-ultra/anh-dai-dien-xiaomi-14-ultra-trang.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/xiaomi/xiaomi-14-ultra/anh-dai-dien-xiaomi-14-ultra-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-14-ultra/mat-truoc-sau-ngang-den.webp",
+      "assets/images/products/xiaomi/xiaomi-14-ultra/mat-truoc-sau-ngang-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-14-ultra/mat-sau-boc-da-thuan-chay-cong-nghe-nano-den.webp",
+      "assets/images/products/xiaomi/xiaomi-14-ultra/thiet-ke-cum-camera-tron-va-canh-ben-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-14-ultra/he-thong-4-camera-sau-leica-50mp-den.webp",
+      "assets/images/products/xiaomi/xiaomi-14-ultra/khung-nhom-cuong-do-cao-kinh-shield-glass-den.webp",
+      "assets/images/products/xiaomi/xiaomi-14-ultra/nguoi-dung-chup-anh-ngoai-troi-den.webp",
+      "assets/images/products/xiaomi/xiaomi-14-ultra/sac-khong-day-hypercharge-80w-tan-nhiet-iceloop-den.webp",
+      "assets/images/products/xiaomi/xiaomi-14-ultra/tong-quan-tinh-nang-4-camera-50mp-man-hinh-6-73-inch.webp"
+    ]
+  },
+  "variants": [
+    {
+      "sku": "DT001-MI14U-DEN-16GB-512GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 26990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-14-ultra/anh-dai-dien-xiaomi-14-ultra-den.webp",
+        "assets/images/products/xiaomi/xiaomi-14-ultra/mat-truoc-sau-ngang-den.webp",
+        "assets/images/products/xiaomi/xiaomi-14-ultra/mat-sau-boc-da-thuan-chay-cong-nghe-nano-den.webp",
+        "assets/images/products/xiaomi/xiaomi-14-ultra/he-thong-4-camera-sau-leica-50mp-den.webp",
+        "assets/images/products/xiaomi/xiaomi-14-ultra/khung-nhom-cuong-do-cao-kinh-shield-glass-den.webp",
+        "assets/images/products/xiaomi/xiaomi-14-ultra/nguoi-dung-chup-anh-ngoai-troi-den.webp",
+        "assets/images/products/xiaomi/xiaomi-14-ultra/sac-khong-day-hypercharge-80w-tan-nhiet-iceloop-den.webp",
+        "assets/images/products/xiaomi/xiaomi-14-ultra/tong-quan-tinh-nang-4-camera-50mp-man-hinh-6-73-inch.webp"
+      ]
+    },
+    {
+      "sku": "DT001-MI14U-TRANG-16GB-512GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 26990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-14-ultra/anh-dai-dien-xiaomi-14-ultra-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-14-ultra/mat-truoc-sau-ngang-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-14-ultra/thiet-ke-cum-camera-tron-va-canh-ben-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-14-ultra/tong-quan-tinh-nang-4-camera-50mp-man-hinh-6-73-inch.webp"
+      ]
+    }
+  ],
+  "docCode": "DT001-MI14U",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "All Around Liquid LTPO AMOLED C8 hiển thị 68 tỷ màu (12-bit), độ phủ màu 100% DCI-P3, chuẩn màu Original Color PRO",
+      "Kích thước màn hình": "6,73 inch theo đường chéo (diện tích hiển thị 108,9 cm², chiếm ~89,6% mặt trước)",
+      "Độ phân giải màn hình": "3200 x 1440 pixel (WQHD+ 2K+, tỷ lệ 20:9, mật độ điểm ảnh 522 ppi)",
+      "Tần số quét": "Tần số quét thích ứng LTPO từ 1Hz đến 120Hz, tốc độ lấy mẫu cảm ứng tối đa 240Hz",
+      "Kiểu màn hình": "Màn hình cong viền đồng đều 4 cạnh nhẹ nhàng, bảo vệ bởi kính cường lực Xiaomi Shield Glass chịu va đập gấp 10 lần",
+      "Tính năng màn hình": "Dolby Vision, HDR10+, HDR Vivid; Độ sáng HBM 1.000 nit / đỉnh ngoài trời 3.000 nit; Làm mờ lai 1920Hz PWM + DC Dimming, 3 chứng nhận bảo vệ mắt TÜV Rheinland, cảm ứng khi tay ướt Wet Touch"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 4 camera Leica VARIO-SUMMILUX 1:1.63–2.5/12–120 ASPH đồng bộ 50MP trên cả 4 ống kính: (1) Camera chính 50MP Leica 1-inch: cảm biến Sony LYT-900 kích thước 1.0 inch (điểm ảnh 1.6µm, Super Pixel 3.2µm), khẩu độ biến thiên vô cấp vật lý từ ƒ/1.63 đến ƒ/4.0, tiêu cự 23mm, thấu kính 8P phi cầu, lấy nét Dual Pixel PDAF + Laser AF, chống rung quang học HyperOIS; (2) Camera Telephoto nổi 50MP Leica 75mm: cảm biến Sony IMX858 (1/2.51\"), khẩu độ ƒ/1.8, tiêu cự 75mm (zoom quang 3.2x), chống rung OIS, nhóm thấu kính nổi Floating Lens hỗ trợ chụp cận cảnh Telephoto Macro từ 10cm; (3) Camera Periscope Telephoto 50MP Leica 120mm: cảm biến Sony IMX858 (1/2.51\"), khẩu độ ƒ/2.5, tiêu cự 120mm (zoom quang 5x, zoom lossless 10x, UltraZoom AI 30x–120x), chống rung OIS, hỗ trợ chụp Macro từ 30cm; (4) Camera Góc siêu rộng 50MP Leica 12mm: cảm biến Sony IMX858 (1/2.51\"), khẩu độ ƒ/1.8, tiêu cự 12mm (góc nhìn 122°), Dual Pixel PDAF hỗ trợ chụp siêu cận cảnh Macro 5cm",
+      "Quay video": "Quay video 8K ở 24/30fps trên camera chính; Quay 4K ở 24/30/60/120fps trên toàn bộ ống kính; Quay 4K 60fps Dolby Vision HDR 10-bit Rec.2020 và 10-bit Log (hỗ trợ nhập LUT tùy chỉnh); Chế độ điện ảnh MasterCinema và Movie Mode (tỷ lệ 2.39:1, xóa phông điện ảnh, lấy nét tự động chuyển chủ thể); Chế độ đạo diễn Director Mode kết nối đa thiết bị kèm hệ thống 4 micro thu âm định hướng",
+      "Tính năng camera": "2 phong cách màu Leica kinh điển (Leica Authentic Look & Leica Vibrant Look); Hệ thống Leica Master Lens System mô phỏng 4 tiêu cự chân dung huyền thoại (35mm Documentary, 50mm Swirly Bokeh, 75mm Portrait, 90mm Soft Focus); Nền tảng nhiếp ảnh điện toán Xiaomi AISP (60 TOPS) với chế độ chụp nhanh Leica Street Photography (Fastshot 0,7 giây), UltraRAW 16-bit DNG, hiệu ứng tia sao 6 cánh khi khép khẩu ƒ/4.0"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera Selfie 32MP (cảm biến OmniVision OV32B40 1/3.14\", khẩu độ ƒ/2.0, tiêu cự 22mm góc rộng 90°); Hỗ trợ HDR, chân dung xóa phông ban đêm, quay video 4K ở 30/60fps và 1080p ở 30/60fps kèm chống rung điện tử gyro-EIS và nhắc chữ Teleprompter"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 8 Gen 3 (tiến trình 4nm TSMC) kết hợp NPU Qualcomm AI Engine (45 TOPS)",
+      "Loại CPU": "CPU 8 nhân: 1 nhân Prime Cortex-X4 (3,3 GHz) + 3 nhân Cortex-A720 (3,2 GHz) + 2 nhân Cortex-A720 (3,0 GHz) + 2 nhân Cortex-A520 (2,3 GHz)",
+      "GPU": "Qualcomm Adreno 750 hỗ trợ dò tia phần cứng Hardware Ray Tracing, kết hợp hệ thống tản nhiệt bơm lạnh vòng kép Dual-channel IceLoop diện tích 4.000 mm² (tách biệt luồng tản nhiệt cho SoC và cụm camera)"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "16GB LPDDR5X tốc độ truyền tải 8533 Mbps",
+      "Bộ nhớ trong": "512GB chuẩn UFS 4.0 tốc độ đọc 4.000 MB/s (hỗ trợ tính năng Ultra Space mở rộng dung lượng khả dụng)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.000 mAh (Phiên bản Quốc tế / chính hãng Việt Nam, mật độ năng lượng cao kèm chip quản lý Xiaomi Surge P2 & G1)",
+      "Công nghệ sạc": "Sạc siêu nhanh có dây 90W HyperCharge (đầy 100% trong 33 phút) | Sạc nhanh không dây 80W Wireless HyperCharge (đầy trong 46 phút) | Sạc ngược không dây 10W",
+      "Cổng sạc": "USB Type-C chuẩn tốc độ cao USB 3.2 Gen 2 (10Gbps), hỗ trợ xuất hình ảnh DisplayPort 4K"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS phát triển trên Android 14 (hỗ trợ cập nhật lên HyperOS 3 / Android 16)",
+      "Công nghệ - Tiện ích": "Bộ công cụ HyperAI (AI Portrait, AI Expansion mở rộng khung ảnh, AI Erase Pro xóa vật thể, AI Subtitles dịch phụ đề trực tiếp), tương thích báng cầm chụp ảnh Xiaomi 14 Ultra Photography Kit",
+      "Tiện ích khác": "Chip tăng cường tín hiệu mạng Xiaomi Surge T1, điều khiển hồng ngoại IR Blaster, chứng nhận âm thanh Dolby Atmos",
+      "Thời điểm ra mắt": "Tháng 02/2024 (Mở bán chính hãng Việt Nam tháng 05/2024)"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G đa băng tần (SA/NSA Sub-6GHz), 4G LTE-A",
+      "Thẻ SIM": "2 Nano-SIM vật lý hoạt động đồng thời",
+      "Wi-Fi": "Wi-Fi 7 (802.11be) ba băng tần, hỗ trợ Multi-Link Operation (MLO) và 2x2 MIMO",
+      "Bluetooth": "Bluetooth 5.4 Dual-Bluetooth hỗ trợ Qualcomm aptX Adaptive, aptX Lossless, LDAC, LHDC 5.0",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa năng (thanh toán chạm Google Wallet, thẻ từ)",
+      "GPS": "Định vị vệ tinh đa băng tần: GPS (L1+L5), GLONASS (G1), BeiDou, Galileo (E1+E5a), QZSS, NavIC"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung nhôm nguyên khối độ bền cao Xiaomi Guardian Structure (cứng hơn gấp 1,38 lần thế hệ trước)",
+      "Chất liệu mặt lưng": "Mặt lưng da thuần chay công nghệ nano thế hệ mới chống mài mòn gấp 6 lần, kháng bẩn và kháng khuẩn",
+      "Kích thước": "161,4 x 75,3 x 9,2 mm",
+      "Trọng lượng": "219,8 gram",
+      "Chỉ số kháng nước, bụi": "Đạt chuẩn IP68 kháng bụi và chống nước ở độ sâu 1,5 mét trong 30 phút"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo Dolby Atmos, Hi-Res Audio & Hi-Res Wireless, hệ thống 4 micro thu âm vòm 360 độ",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình (hỗ trợ đo nhịp tim) + Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Laser AF, Cảm biến phổ màu, Áp kế, Gia tốc kế, Con quay hồi chuyển, Tiệm cận, Ánh sáng môi trường, La bàn điện tử, Cảm biến Hall, Hồng ngoại"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,73 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "LTPO AMOLED 2K+ (68 tỷ màu), 1–120Hz, 3.000 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "3200 x 1440 pixel (WQHD+, 522 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "1–120Hz LTPO thích ứng"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 8 Gen 3 (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "16GB LPDDR5X (8533 Mbps)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "512GB chuẩn UFS 4.0"
+    },
+    {
+      "label": "Camera sau",
+      "value": "4 camera Leica 50MP: Chính 1-inch LYT-900 (ƒ/1.63–ƒ/4.0) OIS + Tele 3.2x OIS + Tiềm vọng 5x OIS + Siêu rộng"
+    },
+    {
+      "label": "Camera trước",
+      "value": "32MP (ƒ/2.0, 22mm), quay 4K 60fps"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.000 mAh (Bản Quốc tế / Việt Nam)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh có dây 90W HyperCharge, sạc không dây 80W, sạc ngược 10W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS (Android 14, nâng cấp HyperOS 3)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 (Chống nước sâu 1,5m trong 30 phút)"
+    }
+  ],
+  "verbatimDescription": [
+    "Xiaomi 14 Ultra là kiệt tác nhiếp ảnh di động đánh dấu bước nhảy vọt của sự hợp tác giữa Xiaomi và Leica với hệ thống ống kính VARIO-SUMMILUX 1:1.63–2.5/12–120 ASPH. Hội tụ cảm biến chính 1 inch Sony LYT-900 có khẩu độ biến thiên vô cấp vật lý ƒ/1.63–ƒ/4.0 cùng 3 camera phụ 50MP Sony IMX858 bao phủ 6 tiêu cự từ 12mm đến 240mm, vi xử lý Snapdragon 8 Gen 3, màn hình 2K+ LTPO 3.000 nit và sạc không dây 80W, Xiaomi 14 Ultra tại AURIX MOBILE là lựa chọn kinh điển cho người dùng đam mê chất ảnh Leica chân thực.",
+    "Thiết kế của Xiaomi 14 Ultra lấy cảm hứng trực tiếp từ những chiếc máy ảnh Leica M-series truyền thống với mặt lưng bọc da thuần chay công nghệ nano chống mài mòn và khung nhôm nguyên khối Xiaomi Guardian Structure cứng cáp. Mô-đun camera tròn lớn được viền vòng kim loại chạm khắc tinh xảo, trong khi thân máy đạt chuẩn kháng nước bụi IP68 và mặt trước bảo vệ bởi kính Xiaomi Shield Glass có khả năng chống rơi vỡ cao gấp 10 lần.",
+    "Trải nghiệm thị giác trên Xiaomi 14 Ultra vô cùng sống động nhờ màn hình All Around Liquid AMOLED 6,73 inch cong nhẹ đều 4 cạnh. Với độ phân giải WQHD+ (3200 x 1440 pixel, 522 ppi), tấm nền 12-bit hiển thị 68 tỷ màu chuẩn Original Color PRO, tần số quét thích ứng LTPO 1–120Hz và độ sáng đỉnh 3.000 nit, màn hình tái hiện hoàn hảo các nội dung Dolby Vision và HDR10+ đồng thời bảo vệ mắt nhờ cơ chế làm mờ lai 1920Hz PWM + DC Dimming.",
+    "Trái tim nhiếp ảnh của Xiaomi 14 Ultra là cụm 4 camera Leica 50MP đồng nhất chất lượng quang học. Camera chính 50MP trang bị cảm biến Sony LYT-900 kích thước 1 inch có dải tương phản động lên đến 14EV, kết hợp hệ thống lá khẩu vật lý biến thiên vô cấp từ ƒ/1.63 đến ƒ/4.0 cho phép kiểm soát độ sâu trường ảnh tự nhiên và tạo hiệu ứng tia sao 6 cánh rực rỡ khi chụp đèn đêm.",
+    "Ba ống kính 50MP còn lại đều sử dụng cảm biến Sony IMX858 cao cấp: ống kính Telephoto nổi 75mm (ƒ/1.8, OIS, zoom 3.2x) chụp chân dung tuyệt đẹp và chụp cận cảnh Tele Macro ở khoảng cách chỉ 10cm; ống kính Periscope 120mm (ƒ/2.5, OIS, zoom quang 5x, zoom lossless 10x) bắt trọn chi tiết ở xa; và ống kính góc siêu rộng 12mm (ƒ/1.8, góc nhìn 122°) hỗ trợ chụp Macro 5cm. Máy hỗ trợ quay video 8K@30fps, 4K@120fps, 4K@60fps Dolby Vision HDR và định dạng 10-bit Log chuyên nghiệp.",
+    "Về hiệu năng, máy được trang bị vi xử lý Qualcomm Snapdragon 8 Gen 3 đi kèm 16GB RAM LPDDR5X, bộ nhớ 512GB UFS 4.0 và hệ thống tản nhiệt bơm lạnh vòng kép Dual-channel IceLoop giữ nhiệt độ ổn định cả khi quay phim 4K dài. Viên pin 5.000 mAh hỗ trợ sạc siêu nhanh có dây 90W (đầy trong 33 phút) và sạc không dây 80W bậc nhất phân khúc."
+  ],
+  "series": "Xiaomi 14 Series",
+  "priceSegment": "flagship"
+}

@@ -1,0 +1,405 @@
+{
+  "id": "xiaomi-pad-8",
+  "docCode": "TB-MI005-PAD8",
+  "model": "Xiaomi Pad 8 Wi-Fi (Tỷ lệ 3:2 Đột Phá)",
+  "brand": "Xiaomi",
+  "brandId": "xiaomi",
+  "parentGroupId": "xiaomi",
+  "series": "Xiaomi Pad 8 & Mini Series",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "11.2 inch",
+      "Snapdragon 8s Gen 3",
+      "Pin 8.850 mAh"
+    ],
+    "description": "Xiaomi Pad 8 là bước đột phá ấn tượng của Xiaomi khi chuyển đổi sang tỷ lệ màn hình 3:2 chuyên nghiệp – tỷ lệ hoàn hảo để hiển thị văn bản, bảng tính Excel và trang web nhiều nội dung hơn tới 18% so với tỷ lệ 16:10 cũ. Thiết kế siêu mỏng nhẹ chỉ 6.18 mm cùng khung vỏ nhôm nguyên khối mang lại vẻ đẹp tinh tế và đẳng cấp.",
+    "releaseDate": "2024 / 2025"
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 8s Gen 3 (tiến trình 4nm hàng đầu)",
+    "ram": [
+      "12GB",
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "operatingSystem": "Xiaomi HyperOS 2 (Android 15)"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 9490000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/xiaomi/xiaomi-pad-8/anh-dai-dien-xiaomi-pad-8-xam.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/anh-dai-dien-xiaomi-pad-8-xam.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/anh-dai-dien-xiaomi-pad-8-xanh-duong.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/anh-dai-dien-xiaomi-pad-8-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-truoc-sau-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-truoc-dat-tren-ban-xam.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-sau-dat-tren-ban-xam.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-sau-nghieng-phai-xanh-duong.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-sau-nghieng-phai-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-ben-trai-phai-xam.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-duoi-cong-sac-loa-xanh-duong.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-duoi-cong-sac-loa-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-tren-duoi-loa-cong-sac-xam.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-tren-loa-xanh-duong.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-tren-loa-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-truoc-nghieng-phai-xanh-duong.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-truoc-nghieng-phai-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/can-canh-cum-camera-sau-xam.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/cam-hai-tay-man-hinh-xam.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/can-canh-chan-ket-noi-pogo-pin-xam.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/can-canh-cong-sac-type-c-va-loa-xam.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/can-canh-nut-am-luong-va-camera-xam.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/can-canh-nut-nguon-va-loa-xam.webp"
+    ],
+    "byColor": {
+      "Xám": [
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/anh-dai-dien-xiaomi-pad-8-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-truoc-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-sau-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/can-canh-cum-camera-sau-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/cam-hai-tay-man-hinh-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/can-canh-chan-ket-noi-pogo-pin-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/can-canh-cong-sac-type-c-va-loa-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/can-canh-nut-am-luong-va-camera-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/can-canh-nut-nguon-va-loa-xam.webp"
+      ],
+      "Xanh Dương": [
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/anh-dai-dien-xiaomi-pad-8-xanh-duong.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-sau-nghieng-phai-xanh-duong.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-duoi-cong-sac-loa-xanh-duong.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-tren-loa-xanh-duong.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-truoc-nghieng-phai-xanh-duong.webp"
+      ],
+      "Xanh Lá": [
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/anh-dai-dien-xiaomi-pad-8-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-truoc-sau-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-sau-nghieng-phai-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-duoi-cong-sac-loa-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-tren-loa-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-truoc-nghieng-phai-xanh-la.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-truoc-sau-xanh-la.webp",
+      "screen": "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-truoc-dat-tren-ban-xam.webp",
+      "performance": "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-truoc-nghieng-phai-xanh-duong.webp",
+      "camera": "assets/images/products/tablet/xiaomi/xiaomi-pad-8/can-canh-cum-camera-sau-xam.webp",
+      "battery": "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-duoi-cong-sac-loa-xanh-duong.webp",
+      "feature": "assets/images/products/tablet/xiaomi/xiaomi-pad-8/anh-dai-dien-xiaomi-pad-8-xanh-duong.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/anh-dai-dien-xiaomi-pad-8-xanh-duong.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/anh-dai-dien-xiaomi-pad-8-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-truoc-sau-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-truoc-dat-tren-ban-xam.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-sau-dat-tren-ban-xam.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-sau-nghieng-phai-xanh-duong.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-sau-nghieng-phai-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-ben-trai-phai-xam.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-duoi-cong-sac-loa-xanh-duong.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-duoi-cong-sac-loa-xanh-la.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "11,2 inch IPS LCD 3.2K (3200 x 2136 pixel, mật độ điểm ảnh 345 ppi), tỷ lệ năng suất 3:2, tần số quét 144Hz thích ứng, 68,7 tỷ màu (12-bit), Dolby Vision & HDR10+, độ sáng đỉnh 800 nit",
+      "Tính năng màn hình": "Chuẩn màu chuyên nghiệp Original Color Pro, đạt 3 chứng nhận bảo vệ mắt TÜV Rheinland (Low Blue Light phần cứng, Flicker Free, Circadian Friendly) và cảm ứng Wet Touch"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "Qualcomm Snapdragon 8s Gen 3 tiến trình 4nm với bộ xử lý NPU AI chuyên sâu",
+      "CPU & Đồ họa": "Octa-core xung nhịp tối đa 3.0 GHz kiến trúc Cortex-X4, GPU Adreno 735",
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS 2 tích hợp sâu các tính năng trí tuệ nhân tạo Xiaomi AI"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "8GB / 12GB LPDDR5X băng thông cực lớn",
+      "Bộ nhớ trong": "128GB / 256GB chuẩn UFS 4.0 siêu tốc độ"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "13MP tự động lấy nét, đèn flash LED, quay video 4K 30fps",
+      "Camera trước": "8MP góc rộng đặt ở cạnh ngang tối ưu hóa đàm thoại video",
+      "Chi tiết hệ thống Camera": "Camera chính sau 13MP AF quay 4K; Camera trước 8MP góc rộng hỗ trợ AI lọc ồn"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "8.850 mAh dung lượng lớn, sạc nhanh công suất 45W qua USB-C",
+      "Pin và công nghệ sạc": "Pin Lithium Polymer 8.850 mAh, sạc nhanh có dây 45W"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Tương thích bút cảm ứng cao cấp Xiaomi Focus Pen đính hút sạc từ tính",
+      "Hỗ trợ bàn phím rời": "Hỗ trợ bàn phím Xiaomi Pad 8 Keyboard qua chân tiếp xúc Pogo Pin",
+      "Công nghệ âm thanh": "Dàn 4 loa ngoài stereo công suất lớn hỗ trợ Dolby Atmos và chuẩn Hi-Res Audio",
+      "Thuộc tính đặc biệt": "Tỷ lệ màn hình 3:2 tối ưu văn phòng, chip Snapdragon 8s Gen 3, màn hình 3.2K 144Hz, chân Pogo Pin"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Wi-Fi 7 / Wi-Fi 6E (802.11be/ax) đa băng tần",
+      "Thẻ SIM": "Không hỗ trợ (Bản Wi-Fi)",
+      "Kết nối không dây & Cổng giao tiếp": "Wi-Fi 7, Bluetooth 5.4, cổng kết nối Pogo Pin từ tính, USB-C 3.2 Gen 1 (5Gbps)",
+      "Công nghệ - Tiện ích": "Tính năng Xiaomi AI Writer, AI Summary, giao diện máy tính để bàn PC Mode"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Độ mỏng chỉ 6.18 mm, kích thước 251.2 x 173.4 x 6.18 mm, trọng lượng khoảng 500 g",
+      "Bảo mật và độ bền": "Cảm biến vân tay tích hợp nút nguồn và mở khóa khuôn mặt AI, thân kim loại unibody",
+      "Thời điểm ra mắt": "Năm 2024 / 2025"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "11.2 inch IPS LCD 3.2K siêu nét, độ phân giải 3200 x 2136 pixels (tỷ lệ 3:2 năng suất cao)"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Tần số quét cực đỉnh 144Hz, độ sáng 800 nits, Dolby Vision, HDR10+, chứng nhận bảo vệ mắt chuyên sâu"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 8s Gen 3 (tiến trình 4nm hàng đầu)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB / 12GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB UFS 4.0"
+    },
+    {
+      "label": "Camera sau",
+      "value": "13MP tự động lấy nét, đèn flash LED, quay video 4K 30fps"
+    },
+    {
+      "label": "Camera trước",
+      "value": "8MP góc rộng đặt ở cạnh ngang tối ưu hóa đàm thoại video"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Pin Lithium Polymer 8.850 mAh, sạc nhanh có dây 45W"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Wi-Fi 7 / Wi-Fi 6E (802.11be/ax) đa băng tần"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Tương thích bút cảm ứng cao cấp Xiaomi Focus Pen đính hút sạc từ tính"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Hỗ trợ bàn phím Xiaomi Pad 8 Keyboard qua chân tiếp xúc Pogo Pin"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS 2 (Android 15)"
+    }
+  ],
+  "verbatimDescription": [
+    "Xiaomi Pad 8 là bước đột phá ấn tượng của Xiaomi khi chuyển đổi sang tỷ lệ màn hình 3:2 chuyên nghiệp – tỷ lệ hoàn hảo để hiển thị văn bản, bảng tính Excel và trang web nhiều nội dung hơn tới 18% so với tỷ lệ 16:10 cũ. Thiết kế siêu mỏng nhẹ chỉ 6.18 mm cùng khung vỏ nhôm nguyên khối mang lại vẻ đẹp tinh tế và đẳng cấp.",
+    "Màn hình kích thước 11.2 inch với độ phân giải siêu nét 3.2K (3200 x 2136 pixels) cùng tần số quét đỉnh cao 144Hz đem lại trải nghiệm thị giác ngoạn mục. Chuẩn màu Dolby Vision cùng độ sáng 800 nits giúp hình ảnh hiện lên rực rỡ, độ phản hồi tức thì với từng nét bút Xiaomi Focus Pen.",
+    "Trang bị vi xử lý hàng đầu Qualcomm Snapdragon 8s Gen 3 cùng RAM LPDDR5X và bộ nhớ UFS 4.0, máy xử lý mượt mà mọi tác vụ đồ họa, dựng video 4K cũng như vận hành trơn tru giao diện máy tính PC Mode của HyperOS 2.",
+    "Viên pin 8.850 mAh kết hợp sạc nhanh 45W và hệ thống 4 loa stereo Dolby Atmos mang lại thời lượng làm việc và trải nghiệm giải trí đỉnh cao suốt cả ngày dài.",
+    "Khả năng hỗ trợ công việc và sáng tạo của Xiaomi Pad 8 được phát huy tối đa khi kết hợp cùng bút cảm ứng Xiaomi Focus Pen (độ trễ chỉ 3ms, 8.192 mức cảm ứng lực) và bàn phím thông minh kết nối qua chấu từ tính Pogo Pin. Bộ công cụ Xiaomi AI tích hợp trong HyperOS 2 hỗ trợ tóm tắt văn bản, dịch thuật, viết nháp AI và chuyển phác thảo thành hình vẽ chuyên nghiệp.",
+    "Tính năng liên kết hệ sinh thái Xiaomi Interconnectivity cho phép hiển thị trực tiếp màn hình điện thoại Xiaomi lên góc màn hình tablet, dùng chung bảng nhớ tạm (Clipboard) và sử dụng camera điện thoại làm webcam hội nghị độ nét cao cho máy tính bảng. Thân máy nhôm nguyên khối mỏng 6,18mm và nhẹ 500g mang lại tính cơ động tuyệt vời."
+  ],
+  "variants": [
+    {
+      "sku": "TB-MI005-PAD8-XAM-8GB-128GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 9490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/anh-dai-dien-xiaomi-pad-8-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-truoc-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-sau-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/can-canh-cum-camera-sau-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/cam-hai-tay-man-hinh-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/can-canh-chan-ket-noi-pogo-pin-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/can-canh-cong-sac-type-c-va-loa-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/can-canh-nut-am-luong-va-camera-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/can-canh-nut-nguon-va-loa-xam.webp"
+      ]
+    },
+    {
+      "sku": "TB-MI005-PAD8-XAM-8GB-256GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 10490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/anh-dai-dien-xiaomi-pad-8-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-truoc-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-sau-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/can-canh-cum-camera-sau-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/cam-hai-tay-man-hinh-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/can-canh-chan-ket-noi-pogo-pin-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/can-canh-cong-sac-type-c-va-loa-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/can-canh-nut-am-luong-va-camera-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/can-canh-nut-nguon-va-loa-xam.webp"
+      ]
+    },
+    {
+      "sku": "TB-MI005-PAD8-XAM-12GB-256GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 11990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/anh-dai-dien-xiaomi-pad-8-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-truoc-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-sau-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/can-canh-cum-camera-sau-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/cam-hai-tay-man-hinh-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/can-canh-chan-ket-noi-pogo-pin-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/can-canh-cong-sac-type-c-va-loa-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/can-canh-nut-am-luong-va-camera-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/can-canh-nut-nguon-va-loa-xam.webp"
+      ]
+    },
+    {
+      "sku": "TB-MI005-PAD8-XANH-LA-8GB-128GB",
+      "color": "Xanh Lá",
+      "colorHex": "#228B57",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 9490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/anh-dai-dien-xiaomi-pad-8-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-truoc-sau-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-sau-nghieng-phai-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-duoi-cong-sac-loa-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-tren-loa-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-truoc-nghieng-phai-xanh-la.webp"
+      ]
+    },
+    {
+      "sku": "TB-MI005-PAD8-XANH-LA-8GB-256GB",
+      "color": "Xanh Lá",
+      "colorHex": "#228B57",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 10490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/anh-dai-dien-xiaomi-pad-8-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-truoc-sau-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-sau-nghieng-phai-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-duoi-cong-sac-loa-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-tren-loa-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-truoc-nghieng-phai-xanh-la.webp"
+      ]
+    },
+    {
+      "sku": "TB-MI005-PAD8-XANH-LA-12GB-256GB",
+      "color": "Xanh Lá",
+      "colorHex": "#228B57",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 11990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/anh-dai-dien-xiaomi-pad-8-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-truoc-sau-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-sau-nghieng-phai-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-duoi-cong-sac-loa-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-tren-loa-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-truoc-nghieng-phai-xanh-la.webp"
+      ]
+    },
+    {
+      "sku": "TB-MI005-PAD8-XANH-DUONG-8GB-128GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 9490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/anh-dai-dien-xiaomi-pad-8-xanh-duong.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-sau-nghieng-phai-xanh-duong.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-duoi-cong-sac-loa-xanh-duong.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-tren-loa-xanh-duong.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-truoc-nghieng-phai-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-MI005-PAD8-XANH-DUONG-8GB-256GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 10490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/anh-dai-dien-xiaomi-pad-8-xanh-duong.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-sau-nghieng-phai-xanh-duong.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-duoi-cong-sac-loa-xanh-duong.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-tren-loa-xanh-duong.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-truoc-nghieng-phai-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-MI005-PAD8-XANH-DUONG-12GB-256GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 11990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/anh-dai-dien-xiaomi-pad-8-xanh-duong.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-sau-nghieng-phai-xanh-duong.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-duoi-cong-sac-loa-xanh-duong.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/canh-tren-loa-xanh-duong.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-8/mat-truoc-nghieng-phai-xanh-duong.webp"
+      ]
+    }
+  ]
+}

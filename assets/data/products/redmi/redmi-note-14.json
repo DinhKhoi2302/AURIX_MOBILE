@@ -1,0 +1,438 @@
+{
+  "id": "redmi-note-14",
+  "model": "Redmi Note 14",
+  "brand": "Redmi",
+  "brandId": "redmi",
+  "parentGroupId": "xiaomi",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "entry-level"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "highlights": [
+      "Camera chính 50MP cảm biến Sony LYT-600 khẩu độ lớn f/1.5 tích hợp chống rung quang học OIS",
+      "Màn hình phẳng 6,67 inch OLED FHD+ 120Hz độ sáng đỉnh 2.100 nit tích hợp vân tay dưới màn hình",
+      "Vi xử lý Dimensity 7025-Ultra 5G, viên pin 5.110 mAh sạc nhanh 45W và chuẩn kháng bụi nước IP64"
+    ],
+    "description": "Redmi Note 14 là mẫu smartphone quốc dân 5G mang tính năng chống rung quang học OIS trên cảm biến 50MP Sony LYT-600 khẩu độ f/1.5 xuống phiên bản tiêu chuẩn, kết hợp màn hình OLED 120Hz độ sáng 2.100 nit, vi xử lý Dimensity 7025-Ultra và viên pin 5.110 mAh sạc nhanh 45W.",
+    "releaseDate": "Tháng 09/2024"
+  },
+  "display": {
+    "technology": "AMOLED / OLED FHD+ 120Hz",
+    "size": "6,67 inch",
+    "resolution": "FHD+ (2400 x 1080 pixel)",
+    "refreshRate": "120Hz",
+    "brightness": "Độ sáng đỉnh 2.100 nit, cảm ứng thông minh khi tay ướt Wet Touch, chứng nhận bảo vệ mắt TÜV Rheinland",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "ram": [
+      "6GB",
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "chipset": "MediaTek Dimensity 7025-Ultra (tiến trình 6nm hỗ trợ 5G tốc độ cao)",
+    "operatingSystem": "Xiaomi HyperOS (Android 14, nâng cấp Android 15)",
+    "cpu": "CPU 8 nhân (2 nhân hiệu năng cao Cortex-A78 xung nhịp 2.5GHz + 6 nhân tiết kiệm điện Cortex-A55 xung nhịp 2.0GHz)",
+    "gpu": "IMG BXM-8-256"
+  },
+  "rearCamera": {
+    "main": "50MP Sony LYT-600 (ƒ/1.5, OIS) + 2MP Macro",
+    "ultraWide": null,
+    "telephoto": null,
+    "ois": true,
+    "videoRecording": [
+      "Quay video 1080p Full HD ở 30 fps; 720p HD ở 30 fps; chống rung kép OIS + EIS"
+    ],
+    "aiFeatures": [
+      "Xiaomi Imaging Engine, Chụp đêm RAW Night Mode, Chân dung AI, Xóa vật thể AI Erase, Bầu trời AI Sky"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "16MP (ƒ/2.4)",
+    "features": [
+      "Camera trước 16MP (khẩu độ ƒ/2.4), hỗ trợ làm đẹp chân dung AI và quay video 1080p@30fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "5.110 mAh",
+    "wiredCharging": "Sạc nhanh Turbo 45W",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc nhanh 45W qua cổng USB Type-C | Không hỗ trợ sạc không dây"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano SIM (hoặc 1 Nano SIM + 1 thẻ nhớ microSD)"
+    ],
+    "network": [
+      "5G Sub-6GHz Dual SIM"
+    ],
+    "wifi": "Wi-Fi 5 (802.11 a/b/g/n/ac, băng tần kép 2.4GHz / 5GHz)",
+    "bluetooth": "Bluetooth 5.3",
+    "gps": [
+      "GPS, GLONASS, Galileo, BDS"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "162,4 x 75,7 x 7,99 mm",
+    "weight": "190 gram",
+    "materials": [
+      "Khung viền phẳng hợp chất polycarbonate cứng cáp",
+      "Mặt lưng bo cong nhẹ hoàn thiện nhám mờ chống bám vân tay"
+    ],
+    "waterResistance": "Kháng nước & bụi IP64",
+    "availableColors": [
+      "Tím",
+      "Xanh Lá",
+      "Đen"
+    ]
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 4390000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/redmi/redmi-note-14/anh-dai-dien-xiaomi-redmi-note-14-tim.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/redmi/redmi-note-14/anh-dai-dien-xiaomi-redmi-note-14-tim.webp",
+      "assets/images/products/redmi/redmi-note-14/anh-dai-dien-xiaomi-redmi-note-14-den.webp",
+      "assets/images/products/redmi/redmi-note-14/anh-dai-dien-xiaomi-redmi-note-14-xanh-la.webp",
+      "assets/images/products/redmi/redmi-note-14/mat-truoc-man-hinh-tim.webp",
+      "assets/images/products/redmi/redmi-note-14/goc-nghieng-mat-lung-phai-tim.webp",
+      "assets/images/products/redmi/redmi-note-14/goc-nghieng-mat-lung-trai-tim.webp",
+      "assets/images/products/redmi/redmi-note-14/mat-lung-tim.webp",
+      "assets/images/products/redmi/redmi-note-14/canh-tren-va-canh-duoi-tim.webp",
+      "assets/images/products/redmi/redmi-note-14/goc-nghieng-man-hinh-phai-tim.webp",
+      "assets/images/products/redmi/redmi-note-14/goc-nghieng-man-hinh-trai-tim.webp",
+      "assets/images/products/redmi/redmi-note-14/he-thong-3-camera-ai-108mp-xanh-la.webp",
+      "assets/images/products/redmi/redmi-note-14/man-hinh-amoled-6-67-inch-120hz-1800-nits.webp",
+      "assets/images/products/redmi/redmi-note-14/pin-5500mah-sac-sieu-nhanh-33w.webp",
+      "assets/images/products/redmi/redmi-note-14/vi-xu-ly-mediatek-helio-g99-ultra-8-nhan.webp",
+      "assets/images/products/redmi/redmi-note-14/tong-quan-tinh-nang-amoled-6-67-inch-camera-108mp-pin-5500mah.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/redmi/redmi-note-14/anh-dai-dien-xiaomi-redmi-note-14-den.webp",
+        "assets/images/products/redmi/redmi-note-14/man-hinh-amoled-6-67-inch-120hz-1800-nits.webp",
+        "assets/images/products/redmi/redmi-note-14/pin-5500mah-sac-sieu-nhanh-33w.webp",
+        "assets/images/products/redmi/redmi-note-14/vi-xu-ly-mediatek-helio-g99-ultra-8-nhan.webp",
+        "assets/images/products/redmi/redmi-note-14/tong-quan-tinh-nang-amoled-6-67-inch-camera-108mp-pin-5500mah.webp"
+      ],
+      "Tím": [
+        "assets/images/products/redmi/redmi-note-14/anh-dai-dien-xiaomi-redmi-note-14-tim.webp",
+        "assets/images/products/redmi/redmi-note-14/mat-truoc-man-hinh-tim.webp",
+        "assets/images/products/redmi/redmi-note-14/goc-nghieng-mat-lung-phai-tim.webp",
+        "assets/images/products/redmi/redmi-note-14/goc-nghieng-mat-lung-trai-tim.webp",
+        "assets/images/products/redmi/redmi-note-14/mat-lung-tim.webp",
+        "assets/images/products/redmi/redmi-note-14/canh-tren-va-canh-duoi-tim.webp",
+        "assets/images/products/redmi/redmi-note-14/goc-nghieng-man-hinh-phai-tim.webp",
+        "assets/images/products/redmi/redmi-note-14/goc-nghieng-man-hinh-trai-tim.webp",
+        "assets/images/products/redmi/redmi-note-14/man-hinh-amoled-6-67-inch-120hz-1800-nits.webp",
+        "assets/images/products/redmi/redmi-note-14/pin-5500mah-sac-sieu-nhanh-33w.webp",
+        "assets/images/products/redmi/redmi-note-14/vi-xu-ly-mediatek-helio-g99-ultra-8-nhan.webp",
+        "assets/images/products/redmi/redmi-note-14/tong-quan-tinh-nang-amoled-6-67-inch-camera-108mp-pin-5500mah.webp"
+      ],
+      "Xanh Lá": [
+        "assets/images/products/redmi/redmi-note-14/anh-dai-dien-xiaomi-redmi-note-14-xanh-la.webp",
+        "assets/images/products/redmi/redmi-note-14/he-thong-3-camera-ai-108mp-xanh-la.webp",
+        "assets/images/products/redmi/redmi-note-14/man-hinh-amoled-6-67-inch-120hz-1800-nits.webp",
+        "assets/images/products/redmi/redmi-note-14/pin-5500mah-sac-sieu-nhanh-33w.webp",
+        "assets/images/products/redmi/redmi-note-14/vi-xu-ly-mediatek-helio-g99-ultra-8-nhan.webp",
+        "assets/images/products/redmi/redmi-note-14/tong-quan-tinh-nang-amoled-6-67-inch-camera-108mp-pin-5500mah.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/redmi/redmi-note-14/goc-nghieng-mat-lung-phai-tim.webp",
+      "screen": "assets/images/products/redmi/redmi-note-14/mat-truoc-man-hinh-tim.webp",
+      "performance": "assets/images/products/redmi/redmi-note-14/vi-xu-ly-mediatek-helio-g99-ultra-8-nhan.webp",
+      "camera": "assets/images/products/redmi/redmi-note-14/he-thong-3-camera-ai-108mp-xanh-la.webp",
+      "battery": "assets/images/products/redmi/redmi-note-14/pin-5500mah-sac-sieu-nhanh-33w.webp",
+      "feature": "assets/images/products/redmi/redmi-note-14/anh-dai-dien-xiaomi-redmi-note-14-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/redmi/redmi-note-14/anh-dai-dien-xiaomi-redmi-note-14-den.webp",
+      "assets/images/products/redmi/redmi-note-14/anh-dai-dien-xiaomi-redmi-note-14-xanh-la.webp",
+      "assets/images/products/redmi/redmi-note-14/mat-truoc-man-hinh-tim.webp",
+      "assets/images/products/redmi/redmi-note-14/goc-nghieng-mat-lung-phai-tim.webp",
+      "assets/images/products/redmi/redmi-note-14/goc-nghieng-mat-lung-trai-tim.webp",
+      "assets/images/products/redmi/redmi-note-14/mat-lung-tim.webp",
+      "assets/images/products/redmi/redmi-note-14/canh-tren-va-canh-duoi-tim.webp",
+      "assets/images/products/redmi/redmi-note-14/goc-nghieng-man-hinh-phai-tim.webp",
+      "assets/images/products/redmi/redmi-note-14/goc-nghieng-man-hinh-trai-tim.webp",
+      "assets/images/products/redmi/redmi-note-14/he-thong-3-camera-ai-108mp-xanh-la.webp"
+    ]
+  },
+  "variants": [
+    {
+      "sku": "DT020-RN14-TIM-6GB-128GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 4390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-note-14/anh-dai-dien-xiaomi-redmi-note-14-tim.webp",
+        "assets/images/products/redmi/redmi-note-14/mat-truoc-man-hinh-tim.webp",
+        "assets/images/products/redmi/redmi-note-14/goc-nghieng-mat-lung-phai-tim.webp",
+        "assets/images/products/redmi/redmi-note-14/goc-nghieng-mat-lung-trai-tim.webp",
+        "assets/images/products/redmi/redmi-note-14/mat-lung-tim.webp",
+        "assets/images/products/redmi/redmi-note-14/canh-tren-va-canh-duoi-tim.webp",
+        "assets/images/products/redmi/redmi-note-14/goc-nghieng-man-hinh-phai-tim.webp",
+        "assets/images/products/redmi/redmi-note-14/goc-nghieng-man-hinh-trai-tim.webp",
+        "assets/images/products/redmi/redmi-note-14/man-hinh-amoled-6-67-inch-120hz-1800-nits.webp",
+        "assets/images/products/redmi/redmi-note-14/pin-5500mah-sac-sieu-nhanh-33w.webp",
+        "assets/images/products/redmi/redmi-note-14/vi-xu-ly-mediatek-helio-g99-ultra-8-nhan.webp",
+        "assets/images/products/redmi/redmi-note-14/tong-quan-tinh-nang-amoled-6-67-inch-camera-108mp-pin-5500mah.webp"
+      ]
+    },
+    {
+      "sku": "DT020-RN14-TIM-8GB-256GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 4990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-note-14/anh-dai-dien-xiaomi-redmi-note-14-tim.webp",
+        "assets/images/products/redmi/redmi-note-14/mat-truoc-man-hinh-tim.webp",
+        "assets/images/products/redmi/redmi-note-14/goc-nghieng-mat-lung-phai-tim.webp",
+        "assets/images/products/redmi/redmi-note-14/goc-nghieng-mat-lung-trai-tim.webp",
+        "assets/images/products/redmi/redmi-note-14/mat-lung-tim.webp",
+        "assets/images/products/redmi/redmi-note-14/canh-tren-va-canh-duoi-tim.webp",
+        "assets/images/products/redmi/redmi-note-14/goc-nghieng-man-hinh-phai-tim.webp",
+        "assets/images/products/redmi/redmi-note-14/goc-nghieng-man-hinh-trai-tim.webp",
+        "assets/images/products/redmi/redmi-note-14/man-hinh-amoled-6-67-inch-120hz-1800-nits.webp",
+        "assets/images/products/redmi/redmi-note-14/pin-5500mah-sac-sieu-nhanh-33w.webp",
+        "assets/images/products/redmi/redmi-note-14/vi-xu-ly-mediatek-helio-g99-ultra-8-nhan.webp",
+        "assets/images/products/redmi/redmi-note-14/tong-quan-tinh-nang-amoled-6-67-inch-camera-108mp-pin-5500mah.webp"
+      ]
+    },
+    {
+      "sku": "DT020-RN14-XANH-LA-6GB-128GB",
+      "color": "Xanh Lá",
+      "colorHex": "#228B57",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 4390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-note-14/anh-dai-dien-xiaomi-redmi-note-14-xanh-la.webp",
+        "assets/images/products/redmi/redmi-note-14/he-thong-3-camera-ai-108mp-xanh-la.webp",
+        "assets/images/products/redmi/redmi-note-14/man-hinh-amoled-6-67-inch-120hz-1800-nits.webp",
+        "assets/images/products/redmi/redmi-note-14/pin-5500mah-sac-sieu-nhanh-33w.webp",
+        "assets/images/products/redmi/redmi-note-14/vi-xu-ly-mediatek-helio-g99-ultra-8-nhan.webp",
+        "assets/images/products/redmi/redmi-note-14/tong-quan-tinh-nang-amoled-6-67-inch-camera-108mp-pin-5500mah.webp"
+      ]
+    },
+    {
+      "sku": "DT020-RN14-XANH-LA-8GB-256GB",
+      "color": "Xanh Lá",
+      "colorHex": "#228B57",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 4990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-note-14/anh-dai-dien-xiaomi-redmi-note-14-xanh-la.webp",
+        "assets/images/products/redmi/redmi-note-14/he-thong-3-camera-ai-108mp-xanh-la.webp",
+        "assets/images/products/redmi/redmi-note-14/man-hinh-amoled-6-67-inch-120hz-1800-nits.webp",
+        "assets/images/products/redmi/redmi-note-14/pin-5500mah-sac-sieu-nhanh-33w.webp",
+        "assets/images/products/redmi/redmi-note-14/vi-xu-ly-mediatek-helio-g99-ultra-8-nhan.webp",
+        "assets/images/products/redmi/redmi-note-14/tong-quan-tinh-nang-amoled-6-67-inch-camera-108mp-pin-5500mah.webp"
+      ]
+    },
+    {
+      "sku": "DT020-RN14-DEN-6GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 4390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-note-14/anh-dai-dien-xiaomi-redmi-note-14-den.webp",
+        "assets/images/products/redmi/redmi-note-14/man-hinh-amoled-6-67-inch-120hz-1800-nits.webp",
+        "assets/images/products/redmi/redmi-note-14/pin-5500mah-sac-sieu-nhanh-33w.webp",
+        "assets/images/products/redmi/redmi-note-14/vi-xu-ly-mediatek-helio-g99-ultra-8-nhan.webp",
+        "assets/images/products/redmi/redmi-note-14/tong-quan-tinh-nang-amoled-6-67-inch-camera-108mp-pin-5500mah.webp"
+      ]
+    },
+    {
+      "sku": "DT020-RN14-DEN-8GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 4990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-note-14/anh-dai-dien-xiaomi-redmi-note-14-den.webp",
+        "assets/images/products/redmi/redmi-note-14/man-hinh-amoled-6-67-inch-120hz-1800-nits.webp",
+        "assets/images/products/redmi/redmi-note-14/pin-5500mah-sac-sieu-nhanh-33w.webp",
+        "assets/images/products/redmi/redmi-note-14/vi-xu-ly-mediatek-helio-g99-ultra-8-nhan.webp",
+        "assets/images/products/redmi/redmi-note-14/tong-quan-tinh-nang-amoled-6-67-inch-camera-108mp-pin-5500mah.webp"
+      ]
+    }
+  ],
+  "docCode": "DT020-RN14",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "OLED / AMOLED 120Hz, dải màu 100% DCI-P3, hỗ trợ HDR10+ và làm mờ 2160Hz PWM Dimming",
+      "Kích thước màn hình": "6,67 inch",
+      "Độ phân giải màn hình": "2400 x 1080 pixel (Full HD+, mật độ điểm ảnh ~395 ppi)",
+      "Tần số quét": "120Hz (tần số lấy mẫu cảm ứng tức thời 2160Hz)",
+      "Kiểu màn hình": "Màn hình phẳng đục lỗ viền mỏng, bảo vệ bởi kính cường lực Corning Gorilla Glass 5",
+      "Tính năng màn hình": "Độ sáng đỉnh 2.100 nit, cảm ứng thông minh khi tay ướt Wet Touch, chứng nhận bảo vệ mắt TÜV Rheinland"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera kép: Camera chính 50MP cảm biến Sony LYT-600 (khẩu độ lớn ƒ/1.5, chống rung quang học OIS + EIS, zoom cảm biến 2x In-sensor Zoom) + Camera Macro/Đo độ sâu 2MP (khẩu độ ƒ/2.4)",
+      "Quay video": "Quay video 1080p Full HD ở 30 fps; 720p HD ở 30 fps; chống rung kép OIS + EIS",
+      "Tính năng camera": "Xiaomi Imaging Engine, Chụp đêm RAW Night Mode, Chân dung AI, Xóa vật thể AI Erase, Bầu trời AI Sky"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera trước 16MP (khẩu độ ƒ/2.4), hỗ trợ làm đẹp chân dung AI và quay video 1080p@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Dimensity 7025-Ultra (tiến trình 6nm hỗ trợ 5G tốc độ cao)",
+      "Loại CPU": "CPU 8 nhân (2 nhân hiệu năng cao Cortex-A78 xung nhịp 2.5GHz + 6 nhân tiết kiệm điện Cortex-A55 xung nhịp 2.0GHz)",
+      "GPU": "IMG BXM-8-256"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "6GB / 8GB LPDDR4X (hỗ trợ mở rộng RAM ảo thêm tối đa 8GB)",
+      "Bộ nhớ trong": "128GB / 256GB chuẩn UFS 2.2 (hỗ trợ mở rộng qua khe thẻ nhớ microSD)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.110 mAh (Pin tuổi thọ cao duy trì trên 80% dung lượng sau 1.600 chu kỳ sạc)",
+      "Công nghệ sạc": "Sạc nhanh 45W qua cổng USB Type-C | Không hỗ trợ sạc không dây",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS (Android 14, nâng cấp Android 15)",
+      "Công nghệ - Tiện ích": "AI Erase, AI Sky, Cổng hồng ngoại IR Blaster, Tăng âm lượng loa 300%",
+      "Tiện ích khác": "Giữ lại giắc cắm tai nghe 3.5mm, tích hợp cảm biến vân tay dưới màn hình",
+      "Thời điểm ra mắt": "09/2024 - 01/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G Sub-6GHz (SA/NSA), 4G LTE Dual SIM",
+      "Thẻ SIM": "2 Nano SIM (hoặc 1 Nano SIM + 1 thẻ nhớ microSD)",
+      "Wi-Fi": "Wi-Fi 5 (802.11 a/b/g/n/ac, băng tần kép 2.4GHz / 5GHz)",
+      "Bluetooth": "Bluetooth 5.3",
+      "Công nghệ NFC": "Có hỗ trợ (tùy thị trường)",
+      "GPS": "GPS, GLONASS, Galileo, BDS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền phẳng hợp chất polycarbonate cứng cáp",
+      "Chất liệu mặt lưng": "Mặt lưng bo cong nhẹ hoàn thiện nhám mờ chống bám vân tay",
+      "Kích thước": "162,4 x 75,7 x 7,99 mm",
+      "Trọng lượng": "190 gram",
+      "Chỉ số kháng nước, bụi": "Chuẩn IP64 (kháng bụi hoàn toàn và chống tia nước bắn)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo hỗ trợ Dolby Atmos, Hi-Res Audio và cổng tai nghe 3.5mm",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình & Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Cảm biến ánh sáng, Cảm biến tiệm cận, La bàn điện tử, Hồng ngoại IR"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,67 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "AMOLED / OLED FHD+ 120Hz"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "FHD+ (2400 x 1080 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 7025-Ultra (6nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "6GB / 8GB LPDDR4X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB UFS 2.2"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Sony LYT-600 (ƒ/1.5, OIS) + 2MP Macro"
+    },
+    {
+      "label": "Camera trước",
+      "value": "16MP (ƒ/2.4)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.110 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh Turbo 45W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS (Android 14/15)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G Sub-6GHz Dual SIM"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "Kháng nước & bụi IP64"
+    }
+  ],
+  "verbatimDescription": [
+    "Redmi Note 14 đánh dấu bước nâng cấp đáng giá nhất cho phiên bản tiêu chuẩn của dòng Redmi Note khi lần đầu tiên phổ cập công nghệ chống rung quang học OIS trên cảm biến chính 50MP Sony LYT-600 khẩu độ lớn f/1.5. Nhờ đó, những bức ảnh chụp đêm hay chụp chuyển động đều sắc nét và ít bị rung nhòe.",
+    "Mặt trước máy là màn hình phẳng 6,67 inch OLED Full HD+ tần số quét 120Hz với độ sáng đỉnh được nâng lên tới 2.100 nit, bảo vệ bởi kính cường lực Corning Gorilla Glass 5 và tích hợp cảm biến vân tay quang học ngay dưới màn hình.",
+    "Sức mạnh vận hành đến từ vi xử lý MediaTek Dimensity 7025-Ultra (6nm) kết hợp RAM 6GB/8GB và bộ nhớ UFS 2.2 lên đến 256GB, mang lại kết nối 5G tốc độ cao cùng trải nghiệm mượt mà trên Xiaomi HyperOS.",
+    "Viên pin 5.110 mAh kết hợp sạc nhanh 45W đáp ứng trọn vẹn hơn một ngày sử dụng liên tục và có tuổi thọ bền bỉ đạt trên 80% dung lượng sau 1.600 chu kỳ sạc.",
+    "Máy cũng giữ lại giắc cắm tai nghe 3.5mm, trang bị loa kép Stereo Dolby Atmos, cổng hồng ngoại IR Blaster và chuẩn kháng bụi nước IP64."
+  ],
+  "series": "Redmi Note 14 Series",
+  "priceSegment": "entry-level"
+}

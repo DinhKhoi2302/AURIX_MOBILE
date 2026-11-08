@@ -1,0 +1,169 @@
+{
+  "id": "anker-zolo-25000mah-165w-a1965",
+  "docCode": "PK-PB003-A1965",
+  "model": "Pin Dự Phòng Khủng Anker Zolo 25.000mAh 165W Tích Hợp Cáp Sạc A1965",
+  "brand": "Anker",
+  "brandId": "anker",
+  "parentGroupId": "anker",
+  "series": "Pin sạc dự phòng",
+  "subCategory": "pin-sac-du-phong",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "pin-sac-du-phong"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Pin sạc dự phòng",
+    "highlights": [
+      "165W",
+      "25.000 mAh"
+    ],
+    "description": "\"Quái vật năng lượng\" dung lượng 25.000mAh chuẩn bay hàng không, cung cấp tổng công suất khổng lồ 165W có thể sạc đồng thời 2 laptop cấu hình cao. Tích hợp sẵn dây cáp Type-C bọc dù siêu bền và màn hình hiển thị trực quan thông số dòng điện."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 1790000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/anh-dai-dien-anker-zolo-25000mah-165w-a1965-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/anh-dai-dien-anker-zolo-25000mah-165w-a1965-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/mat-sau-dat-tren-ban-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/mat-sau-va-canh-ben-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/can-canh-cong-usb-va-type-c-canh-ben-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/can-canh-nut-nguon-canh-ben-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/goc-nghieng-trai-man-hinh-va-day-cap-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/can-canh-cap-type-c-rut-gon-tren-dinh-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/dat-tren-ban-cung-day-cap-rut-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/keo-dai-cap-type-c-rut-gon-sac-dien-thoai-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/kich-thuoc-chi-tiet-san-pham-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/sac-cung-luc-hai-dien-thoai-qua-cap-tich-hop-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/can-canh-man-hinh-hien-thi-thong-so-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/thong-so-ky-thuat-in-tren-than-den.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/anh-dai-dien-anker-zolo-25000mah-165w-a1965-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/mat-sau-dat-tren-ban-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/mat-sau-va-canh-ben-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/can-canh-cong-usb-va-type-c-canh-ben-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/can-canh-nut-nguon-canh-ben-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/goc-nghieng-trai-man-hinh-va-day-cap-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/can-canh-cap-type-c-rut-gon-tren-dinh-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/dat-tren-ban-cung-day-cap-rut-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/keo-dai-cap-type-c-rut-gon-sac-dien-thoai-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/kich-thuoc-chi-tiet-san-pham-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/sac-cung-luc-hai-dien-thoai-qua-cap-tich-hop-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/can-canh-man-hinh-hien-thi-thong-so-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/thong-so-ky-thuat-in-tren-than-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/mat-sau-dat-tren-ban-den.webp",
+      "screen": "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/goc-nghieng-trai-man-hinh-va-day-cap-den.webp",
+      "performance": "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/can-canh-cap-type-c-rut-gon-tren-dinh-den.webp",
+      "camera": "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/mat-sau-va-canh-ben-den.webp",
+      "battery": "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/keo-dai-cap-type-c-rut-gon-sac-dien-thoai-den.webp",
+      "feature": "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/sac-cung-luc-hai-dien-thoai-qua-cap-tich-hop-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/mat-sau-dat-tren-ban-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/mat-sau-va-canh-ben-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/can-canh-cong-usb-va-type-c-canh-ben-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/can-canh-nut-nguon-canh-ben-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/goc-nghieng-trai-man-hinh-va-day-cap-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/can-canh-cap-type-c-rut-gon-tren-dinh-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/dat-tren-ban-cung-day-cap-rut-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/keo-dai-cap-type-c-rut-gon-sac-dien-thoai-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/kich-thuoc-chi-tiet-san-pham-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/sac-cung-luc-hai-dien-thoai-qua-cap-tich-hop-den.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Anker",
+      "Dung lượng pin": "25.000 mAh",
+      "Công suất đầu ra tối đa": "165W (Cổng đơn max 100W)",
+      "Công suất đầu vào": "100W (sạc đầy lại pin trong chỉ hơn 1 giờ)",
+      "Số lượng cổng kết nối": "4 kết nối (2 cổng Type-C + 1 cổng USB-A + 1 cáp Type-C tích hợp)",
+      "Loại cổng kết nối": "2x USB-C, 1x USB-A, 1x Cáp liền USB-C",
+      "Sạc không dây": "Không",
+      "Công nghệ sạc": "PD 3.1 100W/140W, PPS, GaNPrime",
+      "Màu sắc": "Đen"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Anker"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "25.000 mAh"
+    },
+    {
+      "label": "Công suất đầu ra tối đa",
+      "value": "165W (Cổng đơn max 100W)"
+    },
+    {
+      "label": "Công suất đầu vào",
+      "value": "100W (sạc đầy lại pin trong chỉ hơn 1 giờ)"
+    },
+    {
+      "label": "Số lượng cổng kết nối",
+      "value": "4 kết nối (2 cổng Type-C + 1 cổng USB-A + 1 cáp Type-C tích hợp)"
+    },
+    {
+      "label": "Loại cổng kết nối",
+      "value": "2x USB-C, 1x USB-A, 1x Cáp liền USB-C"
+    },
+    {
+      "label": "Sạc không dây",
+      "value": "Không"
+    },
+    {
+      "label": "Công nghệ sạc",
+      "value": "PD 3.1 100W/140W, PPS, GaNPrime"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Đen"
+    }
+  ],
+  "verbatimDescription": [
+    "\"Quái vật năng lượng\" dung lượng 25.000mAh chuẩn bay hàng không, cung cấp tổng công suất khổng lồ 165W có thể sạc đồng thời 2 laptop cấu hình cao. Tích hợp sẵn dây cáp Type-C bọc dù siêu bền và màn hình hiển thị trực quan thông số dòng điện."
+  ],
+  "variants": [
+    {
+      "sku": "PK-PB003-A1965-DEN-TIEU-CHUAN",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 1790000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/anh-dai-dien-anker-zolo-25000mah-165w-a1965-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/mat-sau-dat-tren-ban-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/mat-sau-va-canh-ben-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/can-canh-cong-usb-va-type-c-canh-ben-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/can-canh-nut-nguon-canh-ben-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/goc-nghieng-trai-man-hinh-va-day-cap-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/can-canh-cap-type-c-rut-gon-tren-dinh-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/dat-tren-ban-cung-day-cap-rut-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/keo-dai-cap-type-c-rut-gon-sac-dien-thoai-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/kich-thuoc-chi-tiet-san-pham-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/sac-cung-luc-hai-dien-thoai-qua-cap-tich-hop-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/can-canh-man-hinh-hien-thi-thong-so-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-zolo-25000mah-165w-a1965/thong-so-ky-thuat-in-tren-than-den.webp"
+      ]
+    }
+  ]
+}

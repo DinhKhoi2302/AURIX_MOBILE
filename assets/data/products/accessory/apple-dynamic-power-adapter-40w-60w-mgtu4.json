@@ -1,0 +1,116 @@
+{
+  "id": "apple-dynamic-power-adapter-40w-60w-mgtu4",
+  "docCode": "PK-CU004-MGTU4",
+  "model": "Củ Sạc Apple Dynamic Power Adapter 40W - 60W MGTU4",
+  "brand": "Apple",
+  "brandId": "apple",
+  "parentGroupId": "apple",
+  "series": "Củ sạc",
+  "subCategory": "cu-sac",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "cu-sac"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Củ sạc",
+    "highlights": [
+      "60W"
+    ],
+    "description": "Phụ kiện sạc cao cấp của Apple trang bị 2 cổng USB-C với tính năng điều phối nguồn động thông minh từ 40W đến 60W. Hoàn hảo để cắm sạc cùng lúc MacBook và iPhone hoặc Apple Watch với độ ổn định điện áp tuyệt đối và hoàn thiện chuẩn mực."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 1490000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/cu-sac/apple-dynamic-power-adapter-40w-60w-mgtu4/anh-dai-dien-apple-dynamic-power-adapter-40w-60w-mgtu4-trang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/cu-sac/apple-dynamic-power-adapter-40w-60w-mgtu4/anh-dai-dien-apple-dynamic-power-adapter-40w-60w-mgtu4-trang.webp",
+      "assets/images/products/accessory/cu-sac/apple-dynamic-power-adapter-40w-60w-mgtu4/mat-sau-cong-type-c-trang.webp"
+    ],
+    "byColor": {
+      "Trắng": [
+        "assets/images/products/accessory/cu-sac/apple-dynamic-power-adapter-40w-60w-mgtu4/anh-dai-dien-apple-dynamic-power-adapter-40w-60w-mgtu4-trang.webp",
+        "assets/images/products/accessory/cu-sac/apple-dynamic-power-adapter-40w-60w-mgtu4/mat-sau-cong-type-c-trang.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/cu-sac/apple-dynamic-power-adapter-40w-60w-mgtu4/mat-sau-cong-type-c-trang.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/cu-sac/apple-dynamic-power-adapter-40w-60w-mgtu4/mat-sau-cong-type-c-trang.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Apple",
+      "Công suất sạc tối đa": "60W (Dynamic 40W - 60W)",
+      "Số lượng cổng sạc": "2 cổng",
+      "Loại cổng sạc": "2x USB-C",
+      "Công nghệ sạc": "USB Power Delivery, tối ưu hóa hệ sinh thái Apple",
+      "Công nghệ chế tạo": "Bán dẫn cao cấp chính hãng Apple",
+      "Kiểu chân cắm": "Chân tròn (chuẩn EU)",
+      "Màu sắc": "Trắng"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Apple"
+    },
+    {
+      "label": "Công suất sạc tối đa",
+      "value": "60W (Dynamic 40W - 60W)"
+    },
+    {
+      "label": "Số lượng cổng sạc",
+      "value": "2 cổng"
+    },
+    {
+      "label": "Loại cổng sạc",
+      "value": "2x USB-C"
+    },
+    {
+      "label": "Công nghệ sạc",
+      "value": "USB Power Delivery, tối ưu hóa hệ sinh thái Apple"
+    },
+    {
+      "label": "Công nghệ chế tạo",
+      "value": "Bán dẫn cao cấp chính hãng Apple"
+    },
+    {
+      "label": "Kiểu chân cắm",
+      "value": "Chân tròn (chuẩn EU)"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Trắng"
+    }
+  ],
+  "verbatimDescription": [
+    "Phụ kiện sạc cao cấp của Apple trang bị 2 cổng USB-C với tính năng điều phối nguồn động thông minh từ 40W đến 60W. Hoàn hảo để cắm sạc cùng lúc MacBook và iPhone hoặc Apple Watch với độ ổn định điện áp tuyệt đối và hoàn thiện chuẩn mực."
+  ],
+  "variants": [
+    {
+      "sku": "PK-CU004-MGTU4-TRANG-TIEU-CHUAN",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 1490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/cu-sac/apple-dynamic-power-adapter-40w-60w-mgtu4/anh-dai-dien-apple-dynamic-power-adapter-40w-60w-mgtu4-trang.webp",
+        "assets/images/products/accessory/cu-sac/apple-dynamic-power-adapter-40w-60w-mgtu4/mat-sau-cong-type-c-trang.webp"
+      ]
+    }
+  ]
+}

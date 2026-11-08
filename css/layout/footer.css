@@ -1,0 +1,112 @@
+/* TechPhone — Shared Footer & Newsletter Banner (Matches bottom of image_7c1303.png) */
+.tp-newsletter-strip {
+  background: linear-gradient(110deg, #0B1938 0%, #102347 45%, #2B1C5A 80%, #193773 100%);
+  color: var(--tp-white);
+  padding: 1.5rem 0;
+  position: relative;
+  overflow: hidden;
+}
+.tp-newsletter-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+.tp-newsletter-brand {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.tp-gift-badge {
+  width: 54px;
+  height: 54px;
+  border-radius: 50%;
+  background: var(--tp-white);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+  font-size: 1.65rem;
+}
+.tp-newsletter-form {
+  display: flex;
+  align-items: center;
+  background: var(--tp-white);
+  padding: 0.25rem;
+  border-radius: var(--tp-radius-pill);
+  width: 100%;
+  max-width: 430px;
+}
+.tp-newsletter-form input {
+  flex: 1;
+  min-width: 0;
+  border: none;
+  outline: none;
+  padding: 0.55rem 1rem;
+  font-size: 0.9rem;
+  color: var(--tp-text-main);
+  background: transparent;
+}
+.tp-newsletter-perks {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  font-size: 0.84rem;
+  color: var(--tp-ice-blue);
+  flex-wrap: wrap;
+}
+.tp-newsletter-perks span {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.tp-footer {
+  background: #0D1B36;
+  color: #D0DCF0;
+  padding: 3.25rem 0 1.75rem;
+  font-size: 0.9rem;
+}
+.tp-footer-grid {
+  display: grid;
+  grid-template-columns: 1.26fr 0.86fr 0.92fr 1.46fr;
+  gap: 1.35rem;
+  padding-bottom: 2.25rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  align-items: start;
+}
+@media (min-width: 992px) {
+  .tp-footer-grid > div:nth-child(3) {
+    margin-left: -0.35rem;
+  }
+  .tp-footer-grid > div:nth-child(4) .tp-footer-links li {
+    white-space: nowrap;
+    font-size: 0.86rem;
+  }
+}
+.tp-footer-title {
+  color: var(--tp-white);
+  font-size: 1rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+.tp-footer-links li + li {
+  margin-top: 0.55rem;
+}
+.tp-footer-links a {
+  color: #B4C4E0;
+  transition: color 0.2s ease;
+}
+.tp-footer-links a:hover {
+  color: var(--tp-cyan);
+}
+.tp-footer-bottom {
+  padding-top: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+  font-size: 0.82rem;
+  color: #8FA3C7;
+}

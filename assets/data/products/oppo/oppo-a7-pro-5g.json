@@ -1,0 +1,454 @@
+{
+  "id": "oppo-a7-pro-5g",
+  "brand": "OPPO",
+  "brandId": "oppo",
+  "parentGroupId": "oppo",
+  "model": "OPPO A7 Pro 5G",
+  "series": "OPPO A Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "midrange"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 19,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025 – 2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "OPPO A7 Pro 5G là mẫu smartphone 5G siêu pin bền bỉ của dòng OPPO A Series, sở hữu viên pin Silicon-Carbon dung lượng khủng 8000mAh sạc nhanh 45W SUPERVOOC, màn hình AMOLED dẻo 6,57 inch FHD+ 120Hz (1,07 tỷ màu, kính Crystal Guard), vi xử lý MediaTek Dimensity 6360 MAX, bộ đôi camera trước và sau đều đạt 50MP cùng chuẩn kháng nước bụi IP68/IP69K.",
+    "highlights": [
+      "Siêu pin Silicon-Carbon 8000mAh bền bỉ hàng đầu phân khúc kết hợp sạc nhanh 45W SUPERVOOC",
+      "Camera chính 50MP AF và Camera trước 50MP góc rộng 100° AF sắc nét",
+      "Màn hình AMOLED dẻo 6,57 inch FHD+ 120Hz, 1,07 tỷ màu, độ sáng HBM 1400 nit, kính Crystal Guard",
+      "Vi xử lý MediaTek Dimensity 6360 MAX 5G cùng bộ nhớ trong 256GB UFS 2.2",
+      "Chuẩn kháng nước bụi IP68/IP69K, chống sốc va đập 1,8m, vân tay dưới màn hình"
+    ],
+    "officialDistribution": "Model được bảo lưu từ danh sách trước nhưng chưa đủ bằng chứng đang mở bán chính thức trong lượt đối chiếu ngày 01/11/2026; giữ trạng thái needs_verification để không mất dấu dữ liệu."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 8290000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT008-OPA7PRO5G-XANH-DUONG-6GB-256GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "6GB",
+      "storage": "6GB/256GB",
+      "rom": "256GB",
+      "price": 8290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-a7-pro-5g/anh-dai-dien-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/mat-truoc-mat-sau-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/mat-lung-goc-nghieng-phai-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/mat-lung-goc-nghieng-trai-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/canh-trai-canh-phai-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/man-hinh-goc-nghieng-trai-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/camera-selfie-50mp-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/chip-tang-cuong-ket-noi-s1-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/dung-luong-pin-8000mah-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/tinh-nang-ai-thong-minh-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/tinh-nang-khang-nuoc-ip69k-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/thong-so-man-hinh-amoled-120hz-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/thong-so-noi-bat-oppo-a7-pro-5g-xanh-duong-xam-titan.webp"
+      ]
+    },
+    {
+      "sku": "DT008-OPA7PRO5G-XANH-DUONG-8GB-256GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 8990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-a7-pro-5g/anh-dai-dien-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/mat-truoc-mat-sau-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/mat-lung-goc-nghieng-phai-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/mat-lung-goc-nghieng-trai-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/canh-trai-canh-phai-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/man-hinh-goc-nghieng-trai-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/camera-selfie-50mp-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/chip-tang-cuong-ket-noi-s1-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/dung-luong-pin-8000mah-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/tinh-nang-ai-thong-minh-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/tinh-nang-khang-nuoc-ip69k-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/thong-so-man-hinh-amoled-120hz-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/thong-so-noi-bat-oppo-a7-pro-5g-xanh-duong-xam-titan.webp"
+      ]
+    },
+    {
+      "sku": "DT008-OPA7PRO5G-XAM-TITAN-6GB-256GB",
+      "color": "Xám Titan",
+      "colorHex": "#71717A",
+      "ram": "6GB",
+      "storage": "6GB/256GB",
+      "rom": "256GB",
+      "price": 8290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-a7-pro-5g/anh-dai-dien-oppo-a7-pro-5g-xam-titan.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/mat-lung-goc-nghieng-trai-oppo-a7-pro-5g-xam-titan.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/mat-lung-oppo-a7-pro-5g-xam-titan.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/canh-trai-canh-phai-oppo-a7-pro-5g-xam-titan.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/canh-tren-canh-duoi-oppo-a7-pro-5g-xam-titan.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/man-hinh-goc-nghieng-phai-oppo-a7-pro-5g-xam-titan.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/man-hinh-goc-nghieng-trai-oppo-a7-pro-5g-xam-titan.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/thong-so-man-hinh-amoled-120hz-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/thong-so-noi-bat-oppo-a7-pro-5g-xanh-duong-xam-titan.webp"
+      ]
+    },
+    {
+      "sku": "DT008-OPA7PRO5G-XAM-TITAN-8GB-256GB",
+      "color": "Xám Titan",
+      "colorHex": "#71717A",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 8990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-a7-pro-5g/anh-dai-dien-oppo-a7-pro-5g-xam-titan.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/mat-lung-goc-nghieng-trai-oppo-a7-pro-5g-xam-titan.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/mat-lung-oppo-a7-pro-5g-xam-titan.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/canh-trai-canh-phai-oppo-a7-pro-5g-xam-titan.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/canh-tren-canh-duoi-oppo-a7-pro-5g-xam-titan.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/man-hinh-goc-nghieng-phai-oppo-a7-pro-5g-xam-titan.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/man-hinh-goc-nghieng-trai-oppo-a7-pro-5g-xam-titan.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/thong-so-man-hinh-amoled-120hz-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/thong-so-noi-bat-oppo-a7-pro-5g-xanh-duong-xam-titan.webp"
+      ]
+    }
+  ],
+  "display": {
+    "size": "6,57 inch",
+    "technology": "AMOLED dẻo (1,07 tỷ màu, 100% DCI-P3)",
+    "resolution": "FHD+ (2372 × 1080 Pixels)",
+    "refreshRate": "120Hz thích ứng (60/90/120Hz)",
+    "maxBrightness": "800 nit (tiêu chuẩn) / 1400 nit (HBM)",
+    "protection": "Kính bảo vệ Crystal Guard"
+  },
+  "performance": {
+    "chipset": "MediaTek Dimensity 6360 MAX (6nm)",
+    "cpu": "8 nhân (2×2.4GHz Cortex-A76 + 6×2.0GHz Cortex-A55)",
+    "gpu": "ARM Mali-G57 MC2 @ 1072MHz",
+    "ram": "6GB / 8GB LPDDR4X",
+    "internalStorage": "256GB UFS 2.2 (Hỗ trợ thẻ nhớ microSDXC)",
+    "os": "Android 16 (ColorOS 16.0)"
+  },
+  "rearCamera": {
+    "mainSensor": "50MP (f/1.9, FOV 79°, ống kính 5P, hỗ trợ lấy nét tự động AF)",
+    "ultraWide": "2MP Đơn sắc (f/2.4, FOV 89°, ống kính 3P)",
+    "telephoto": "Hỗ trợ zoom kỹ thuật số lên đến 10x",
+    "videoRecording": "2.5K@30fps (OTA), 1080p@30/60fps, chống rung EIS",
+    "features": [
+      "Chụp ảnh dưới nước (Underwater)",
+      "Chân dung xóa phông AI",
+      "Độ phân giải cao Hi-Res 50MP",
+      "Dual-view Video",
+      "Quét tài liệu DOC Scanner"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "50MP (f/2.1, FOV 100°, ống kính 5P, hỗ trợ lấy nét tự động AF)",
+    "videoRecording": "2.5K@30fps (OTA), 1080p@30fps (Chống rung EIS)",
+    "features": [
+      "Selfie góc rộng 100° AF",
+      "Làm đẹp AI",
+      "Fill light màn hình",
+      "Dual-view Video"
+    ]
+  },
+  "battery": {
+    "capacity": "8000 mAh",
+    "batteryType": "Pin Silicon-Carbon (Si/C Li-Ion)",
+    "chargingPower": "Sạc nhanh 45W SUPERVOOC, 45W UFCS, 45W PPS, 13.5W PD",
+    "wirelessCharging": "Không hỗ trợ"
+  },
+  "connectivity": {
+    "sim": "2 Nano-SIM (Hỗ trợ thẻ nhớ microSD)",
+    "network": "5G SA/NSA đa băng tần & 4G LTE",
+    "wifi": "Wi-Fi 5 (802.11ac), Dual-band",
+    "bluetooth": "Bluetooth 5.4 (LDAC, aptX, aptX HD)",
+    "nfc": "Có hỗ trợ",
+    "usb": "USB Type-C 2.0, OTG"
+  },
+  "design": {
+    "formFactor": "Nguyên khối siêu bền, chống sốc rơi từ độ cao 1,8m",
+    "materials": "Mặt trước kính Crystal Guard, khung và mặt lưng composite chịu lực cao",
+    "dimensionsWeight": "159,08 × 75,81 × 8,80 mm | 205g",
+    "waterResistance": "IP68 / IP69K (Kháng bụi, ngâm nước 1,5m và tia nước áp lực cao)",
+    "availableColors": [
+      "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa đơn / Stereo tiêu chuẩn",
+    "headphoneJack": null,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Siêu pin Silicon-Carbon 8000mAh bền bỉ hàng đầu phân khúc kết hợp sạc nhanh 45W SUPERVOOC",
+    "Camera chính 50MP AF và Camera trước 50MP góc rộng 100° AF sắc nét",
+    "Màn hình AMOLED dẻo 6,57 inch FHD+ 120Hz, 1,07 tỷ màu, độ sáng HBM 1400 nit, kính Crystal Guard",
+    "Vi xử lý MediaTek Dimensity 6360 MAX 5G cùng bộ nhớ trong 256GB UFS 2.2",
+    "Chuẩn kháng nước bụi IP68/IP69K, chống sốc va đập 1,8m, vân tay dưới màn hình"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền OPPO tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/oppo/oppo-a7-pro-5g/anh-dai-dien-oppo-a7-pro-5g-xanh-duong.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/oppo/oppo-a7-pro-5g/anh-dai-dien-oppo-a7-pro-5g-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a7-pro-5g/anh-dai-dien-oppo-a7-pro-5g-xam-titan.webp",
+      "assets/images/products/oppo/oppo-a7-pro-5g/mat-truoc-mat-sau-oppo-a7-pro-5g-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a7-pro-5g/mat-lung-goc-nghieng-phai-oppo-a7-pro-5g-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a7-pro-5g/mat-lung-goc-nghieng-trai-oppo-a7-pro-5g-xam-titan.webp",
+      "assets/images/products/oppo/oppo-a7-pro-5g/mat-lung-goc-nghieng-trai-oppo-a7-pro-5g-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a7-pro-5g/mat-lung-oppo-a7-pro-5g-xam-titan.webp",
+      "assets/images/products/oppo/oppo-a7-pro-5g/canh-trai-canh-phai-oppo-a7-pro-5g-xam-titan.webp",
+      "assets/images/products/oppo/oppo-a7-pro-5g/canh-trai-canh-phai-oppo-a7-pro-5g-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a7-pro-5g/canh-tren-canh-duoi-oppo-a7-pro-5g-xam-titan.webp",
+      "assets/images/products/oppo/oppo-a7-pro-5g/man-hinh-goc-nghieng-phai-oppo-a7-pro-5g-xam-titan.webp",
+      "assets/images/products/oppo/oppo-a7-pro-5g/man-hinh-goc-nghieng-trai-oppo-a7-pro-5g-xam-titan.webp",
+      "assets/images/products/oppo/oppo-a7-pro-5g/man-hinh-goc-nghieng-trai-oppo-a7-pro-5g-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a7-pro-5g/camera-selfie-50mp-oppo-a7-pro-5g-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a7-pro-5g/chip-tang-cuong-ket-noi-s1-oppo-a7-pro-5g-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a7-pro-5g/dung-luong-pin-8000mah-oppo-a7-pro-5g-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a7-pro-5g/tinh-nang-ai-thong-minh-oppo-a7-pro-5g-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a7-pro-5g/tinh-nang-khang-nuoc-ip69k-oppo-a7-pro-5g-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a7-pro-5g/thong-so-man-hinh-amoled-120hz-oppo-a7-pro-5g-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a7-pro-5g/thong-so-noi-bat-oppo-a7-pro-5g-xanh-duong-xam-titan.webp"
+    ],
+    "byColor": {
+      "Xám Titan": [
+        "assets/images/products/oppo/oppo-a7-pro-5g/anh-dai-dien-oppo-a7-pro-5g-xam-titan.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/mat-lung-goc-nghieng-trai-oppo-a7-pro-5g-xam-titan.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/mat-lung-oppo-a7-pro-5g-xam-titan.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/canh-trai-canh-phai-oppo-a7-pro-5g-xam-titan.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/canh-tren-canh-duoi-oppo-a7-pro-5g-xam-titan.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/man-hinh-goc-nghieng-phai-oppo-a7-pro-5g-xam-titan.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/man-hinh-goc-nghieng-trai-oppo-a7-pro-5g-xam-titan.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/thong-so-man-hinh-amoled-120hz-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/thong-so-noi-bat-oppo-a7-pro-5g-xanh-duong-xam-titan.webp"
+      ],
+      "Xanh Dương": [
+        "assets/images/products/oppo/oppo-a7-pro-5g/anh-dai-dien-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/mat-truoc-mat-sau-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/mat-lung-goc-nghieng-phai-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/mat-lung-goc-nghieng-trai-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/canh-trai-canh-phai-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/man-hinh-goc-nghieng-trai-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/camera-selfie-50mp-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/chip-tang-cuong-ket-noi-s1-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/dung-luong-pin-8000mah-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/tinh-nang-ai-thong-minh-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/tinh-nang-khang-nuoc-ip69k-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/thong-so-man-hinh-amoled-120hz-oppo-a7-pro-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a7-pro-5g/thong-so-noi-bat-oppo-a7-pro-5g-xanh-duong-xam-titan.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/oppo/oppo-a7-pro-5g/mat-truoc-mat-sau-oppo-a7-pro-5g-xanh-duong.webp",
+      "screen": "assets/images/products/oppo/oppo-a7-pro-5g/man-hinh-goc-nghieng-phai-oppo-a7-pro-5g-xam-titan.webp",
+      "performance": "assets/images/products/oppo/oppo-a7-pro-5g/chip-tang-cuong-ket-noi-s1-oppo-a7-pro-5g-xanh-duong.webp",
+      "camera": "assets/images/products/oppo/oppo-a7-pro-5g/camera-selfie-50mp-oppo-a7-pro-5g-xanh-duong.webp",
+      "battery": "assets/images/products/oppo/oppo-a7-pro-5g/dung-luong-pin-8000mah-oppo-a7-pro-5g-xanh-duong.webp",
+      "feature": "assets/images/products/oppo/oppo-a7-pro-5g/anh-dai-dien-oppo-a7-pro-5g-xam-titan.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/oppo/oppo-a7-pro-5g/anh-dai-dien-oppo-a7-pro-5g-xam-titan.webp",
+      "assets/images/products/oppo/oppo-a7-pro-5g/mat-truoc-mat-sau-oppo-a7-pro-5g-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a7-pro-5g/mat-lung-goc-nghieng-phai-oppo-a7-pro-5g-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a7-pro-5g/mat-lung-goc-nghieng-trai-oppo-a7-pro-5g-xam-titan.webp",
+      "assets/images/products/oppo/oppo-a7-pro-5g/mat-lung-goc-nghieng-trai-oppo-a7-pro-5g-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a7-pro-5g/mat-lung-oppo-a7-pro-5g-xam-titan.webp",
+      "assets/images/products/oppo/oppo-a7-pro-5g/canh-trai-canh-phai-oppo-a7-pro-5g-xam-titan.webp",
+      "assets/images/products/oppo/oppo-a7-pro-5g/canh-trai-canh-phai-oppo-a7-pro-5g-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a7-pro-5g/canh-tren-canh-duoi-oppo-a7-pro-5g-xam-titan.webp",
+      "assets/images/products/oppo/oppo-a7-pro-5g/man-hinh-goc-nghieng-phai-oppo-a7-pro-5g-xam-titan.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-oppo",
+      "https://www.oppo.com/vn/smartphones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "needs_verification",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Cần xác minh thêm",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT008-OPA7PRO5G",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "AMOLED dẻo, 1,07 tỷ màu (10-bit), 100% DCI-P3",
+      "Kích thước màn hình": "6,57 inch (Tỷ lệ màn hình 92,8%)",
+      "Độ phân giải màn hình": "FHD+ (2372 × 1080 Pixels), 397 PPI",
+      "Tần số quét": "120Hz (60/90/120Hz, lấy mẫu cảm ứng tức thời 1000Hz)",
+      "Kiểu màn hình": "Chưa có thông tin trong dữ liệu gốc",
+      "Tính năng màn hình": "Độ sáng tối đa: 800 nit (Tiêu chuẩn) / 1400 nit (HBM); Kính bảo vệ: Kính cường lực Crystal Guard"
+    },
+    "Camera sau": {
+      "Camera sau": "Camera chính: 50MP (f/1.9, FOV 79°, ống kính 5P, hỗ trợ lấy nét tự động AF); Camera phụ: 2MP Đơn sắc (f/2.4, FOV 89°, ống kính 3P)",
+      "Quay video": "2.5K@30fps (qua OTA), 1080p@30/60fps, Slow-motion 720p@120fps, chống rung EIS",
+      "Tính năng camera": "Chụp dưới nước (Underwater), Hi-Res 50MP, Chân dung AI, Dual-view Video, Quét tài liệu"
+    },
+    "Camera trước": {
+      "Camera trước": "50MP (f/2.1, FOV 100°, ống kính 5P, hỗ trợ lấy nét tự động AF); Quay video: 2.5K@30fps (qua OTA), 1080p@30fps (Chống rung EIS); Tính năng: Selfie góc rộng 100° AF, Làm đẹp AI, Bù sáng màn hình, Dual-view Video"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Dimensity 6360 MAX (Tiến trình 6nm)",
+      "Loại CPU": "8 nhân (2×2.4GHz Cortex-A76 + 6×2.0GHz Cortex-A55)",
+      "GPU": "ARM Mali-G57 MC2 @ 1072MHz"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "6GB / 8GB chuẩn LPDDR4X",
+      "Bộ nhớ trong": "256GB chuẩn UFS 2.2; Thẻ nhớ ngoài: Hỗ trợ thẻ nhớ microSDXC & USB OTG"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "8000 mAh (Tiêu chuẩn) / 7820 mAh (Định mức); Loại pin: Pin Silicon-Carbon (Si/C Li-Ion) siêu dung lượng",
+      "Công nghệ sạc": "Sạc có dây: 45W SUPERVOOC, 45W UFCS (Tương thích 45W PPS, 13.5W PD); Sạc không dây: Không hỗ trợ",
+      "Cổng sạc": "USB Type-C 2.0, OTG"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "ColorOS 16.0 (Nền tảng Android 16)",
+      "Công nghệ - Tiện ích": "Chế độ chụp dưới nước, Quay video hiển thị kép, Quét tài liệu thông minh",
+      "Tiện ích khác": "Chưa có thông tin trong dữ liệu gốc",
+      "Thời điểm ra mắt": "2025 – 2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G SA/NSA & 4G LTE",
+      "Thẻ SIM": "2 Nano-SIM",
+      "Wi-Fi": "Wi-Fi 5 (802.11ac), Wi-Fi Display, WLAN Tethering",
+      "Bluetooth": "Bluetooth 5.4 BLE (SBC, AAC, LDAC, aptX, aptX HD)",
+      "Công nghệ NFC": "Hỗ trợ NFC",
+      "GPS": "Chưa có thông tin trong dữ liệu gốc"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Mặt trước kính Crystal Guard, khung và mặt lưng hoàn thiện nhám bền bỉ",
+      "Chất liệu mặt lưng": "mặt lưng hoàn thiện nhám bền bỉ",
+      "Kích thước": "159,08 × 75,81 × 8,80 mm; Kiểu dáng: Cấu trúc giảm chấn siêu bền, chống rơi rớt lên đến 1,8m",
+      "Trọng lượng": "Nặng 205g",
+      "Chỉ số kháng nước, bụi": "Kháng nước và bụi chuẩn IP68 / IP69K"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài âm lượng lớn, hỗ trợ âm thanh Bluetooth Hi-Res LDAC & aptX HD",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Tiệm cận, Ánh sáng, La bàn số; Bảo mật: Mở khóa khuôn mặt"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,57 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "AMOLED dẻo (1 tỷ màu, 100% DCI-P3)"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "FHD+ (2372 × 1080 Pixels, 397 PPI)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz (60/90/120Hz)"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 6360 MAX (6nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "6GB / 8GB LPDDR4X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB UFS 2.2"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính f/1.9 AF + 2MP Đơn sắc f/2.4"
+    },
+    {
+      "label": "Camera trước",
+      "value": "50MP f/2.1 Góc rộng 100° AF"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "8000 mAh (Pin Silicon-Carbon)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "45W SUPERVOOC (45W UFCS / PPS)"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 16 (ColorOS 16.0)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G, Wi-Fi 5, Bluetooth 5.4, NFC"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 / IP69K"
+    }
+  ],
+  "verbatimDescription": [
+    "OPPO A7 Pro 5G thiết lập kỷ lục mới về thời lượng pin trên dòng OPPO A Series khi trang bị viên pin Silicon-Carbon dung lượng lên tới 8000mAh trong thân máy dày chỉ 8,80mm và nặng 205g. Bên cạnh đó, máy sở hữu cấu trúc chống va đập từ độ cao 1,8m cùng chuẩn kháng bụi, kháng nước áp lực cao IP68/IP69K.",
+    "Mặt trước của OPPO A7 Pro 5G là màn hình AMOLED dẻo kích thước 6,57 inch độ phân giải FHD+ (2372 × 1080 pixel, 397 PPI) với viền siêu mỏng đạt tỷ lệ hiển thị 92,8%. Tấm nền 10-bit tái tạo 1,07 tỷ màu chuẩn 100% DCI-P3, hỗ trợ tần số quét thích ứng 120Hz, độ sáng bình thường 800 nit (HBM 1400 nit) và lớp kính cường lực Crystal Guard.",
+    "Cung cấp sức mạnh cho thiết bị là vi xử lý 8 nhân MediaTek Dimensity 6360 MAX hỗ trợ kết nối 5G tốc độ cao, đi kèm GPU ARM Mali-G57 MC2 @ 1072MHz. Kết hợp cùng tùy chọn RAM 6GB/8GB LPDDR4X và bộ nhớ trong 256GB chuẩn UFS 2.2 (có khe cắm thẻ nhớ mở rộng), máy đáp ứng mượt mà nhu cầu làm việc, liên lạc và giải trí dài ngày.",
+    "Về khả năng nhiếp ảnh, OPPO A7 Pro 5G trang bị cụm camera sau gồm cảm biến chính 50MP (khẩu độ f/1.9, ống kính 5P, lấy nét tự động AF) và cảm biến đơn sắc 2MP hỗ trợ đo chiều sâu xóa phông. Máy hỗ trợ quay video 1080p@60fps (và 2.5K@30fps qua cập nhật OTA), chống rung EIS cùng chế độ chụp ảnh dưới nước Underwater.",
+    "Điểm nổi bật hiếm thấy trong phân khúc là camera trước của OPPO A7 Pro 5G cũng đạt độ phân giải 50MP góc rộng 100° tích hợp lấy nét tự động AF, mang lại những bức ảnh selfie nhóm và gọi video vô cùng sắc nét. Viên pin khủng 8000mAh đi kèm sạc nhanh 45W SUPERVOOC / 45W UFCS giúp duy trì thời gian sử dụng lên tới 2–3 ngày.",
+    "Vận hành trên hệ điều hành ColorOS 16.0 (Android 16) hiện đại, OPPO A7 Pro 5G còn trang bị cảm biến vân tay quang học dưới màn hình, kết nối 5G đa băng tần, Wi-Fi 5, Bluetooth 5.4 hỗ trợ LDAC/aptX HD và NFC tiện lợi."
+  ],
+  "priceSegment": "midrange"
+}

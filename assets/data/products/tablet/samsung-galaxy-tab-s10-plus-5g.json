@@ -1,0 +1,299 @@
+{
+  "id": "samsung-galaxy-tab-s10-plus-5g",
+  "docCode": "TB-SS008-S10P-5G",
+  "model": "Samsung Galaxy Tab S10 Plus 5G (Flagship AMOLED)",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "series": "Galaxy Tab S10 Series",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "12.4 inch",
+      "Dimensity 9300+",
+      "Pin 10.090 mAh"
+    ],
+    "description": "Samsung Galaxy Tab S10 Plus 5G là siêu phẩm máy tính bảng flagship đầu tiên của Samsung được thiết kế chuyên biệt cho kỷ nguyên trí tuệ nhân tạo Galaxy AI. Điểm cải tiến mang tính đột phá nhất chính là màn hình Dynamic AMOLED 2X kích thước 12.4 inch được phủ lớp xử lý chống chói quang học Anti-Reflective tiên tiến, giúp triệt tiêu hiện tượng phản chiếu bóng gương và mang lại khả năng hiển thị trong trẻo, chân thực dưới mọi điều kiện ánh sáng.",
+    "releaseDate": "2024"
+  },
+  "performance": {
+    "chipset": "MediaTek Dimensity 9300+ (tiến trình 4nm đẳng cấp siêu flagship)",
+    "ram": [
+      "12GB"
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ],
+    "operatingSystem": "Android 14 (One UI 6.1.1)"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 25990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/anh-dai-dien-samsung-galaxy-tab-s10-plus-5g-bac.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/anh-dai-dien-samsung-galaxy-tab-s10-plus-5g-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/anh-dai-dien-samsung-galaxy-tab-s10-plus-5g-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/mat-truoc-sau-kem-but-s-pen-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/mat-truoc-dat-tren-ban-kem-but-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/mat-truoc-nam-ngang-nghieng-phai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/mat-truoc-nam-ngang-nghieng-trai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/mat-sau-dat-tren-ban-kem-but-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/can-canh-khay-sim-canh-ben-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/canh-ben-phai-nut-bam-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/canh-ben-trai-phai-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/canh-ben-trai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/canh-tren-duoi-loa-cong-sac-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/can-canh-cum-camera-kep-sau-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/cam-hai-tay-man-hinh-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/can-canh-chan-ket-noi-pogo-pin-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/can-canh-cong-sac-type-c-va-loa-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/can-canh-nut-nguon-va-am-luong-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/viet-but-s-pen-tren-man-hinh-bac.webp"
+    ],
+    "byColor": {
+      "Bạc": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/anh-dai-dien-samsung-galaxy-tab-s10-plus-5g-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/mat-truoc-dat-tren-ban-kem-but-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/mat-sau-dat-tren-ban-kem-but-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/can-canh-khay-sim-canh-ben-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/canh-ben-trai-phai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/canh-tren-duoi-loa-cong-sac-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/can-canh-cum-camera-kep-sau-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/cam-hai-tay-man-hinh-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/can-canh-chan-ket-noi-pogo-pin-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/can-canh-cong-sac-type-c-va-loa-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/can-canh-nut-nguon-va-am-luong-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/viet-but-s-pen-tren-man-hinh-bac.webp"
+      ],
+      "Xám": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/anh-dai-dien-samsung-galaxy-tab-s10-plus-5g-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/mat-truoc-sau-kem-but-s-pen-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/mat-truoc-nam-ngang-nghieng-phai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/mat-truoc-nam-ngang-nghieng-trai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/canh-ben-phai-nut-bam-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/canh-ben-trai-xam.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/mat-truoc-sau-kem-but-s-pen-xam.webp",
+      "screen": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/mat-truoc-dat-tren-ban-kem-but-bac.webp",
+      "performance": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/mat-truoc-nam-ngang-nghieng-phai-xam.webp",
+      "camera": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/can-canh-cum-camera-kep-sau-bac.webp",
+      "battery": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/canh-tren-duoi-loa-cong-sac-bac.webp",
+      "feature": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/anh-dai-dien-samsung-galaxy-tab-s10-plus-5g-xam.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/anh-dai-dien-samsung-galaxy-tab-s10-plus-5g-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/mat-truoc-sau-kem-but-s-pen-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/mat-truoc-dat-tren-ban-kem-but-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/mat-truoc-nam-ngang-nghieng-phai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/mat-truoc-nam-ngang-nghieng-trai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/mat-sau-dat-tren-ban-kem-but-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/can-canh-khay-sim-canh-ben-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/canh-ben-phai-nut-bam-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/canh-ben-trai-phai-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/canh-ben-trai-xam.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "12,4 inch Dynamic AMOLED 2X (2800 x 1752 pixel, mật độ điểm ảnh 266 ppi), tỷ lệ 16:10, tần số quét thích ứng 120Hz, HDR10+, phủ lớp chống phản xạ Anti-Reflective",
+      "Tính năng màn hình": "Công nghệ phủ chống chói Anti-Reflective giảm thiểu tối đa bóng gương từ ánh đèn và mặt trời, thuật toán Vision Booster và độ tương phản tuyệt đối của tấm nền AMOLED"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "MediaTek Dimensity 9300+ 4nm kiến trúc toàn nhân lớn với NPU AI xử lý 68 TOPS",
+      "CPU & Đồ họa": "Octa-core 4 nhân Cortex-X4 siêu mạnh mẽ, GPU Immortalis-G720 hỗ trợ Ray Tracing bằng phần cứng",
+      "Hệ điều hành khi ra mắt": "Android 14 One UI 6.1.1 với trọn vẹn bộ công cụ trí tuệ nhân tạo Galaxy AI"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "12GB RAM LPDDR5X siêu tốc",
+      "Bộ nhớ trong": "256GB / 512GB chuẩn UFS 4.0, hỗ trợ thẻ nhớ MicroSD rời lên tới 1.5TB"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "Cụm camera kép 13MP (chính) + 8MP (góc siêu rộng), quay video 4K 60fps",
+      "Camera trước": "12MP Ultra Wide đặt ngang hỗ trợ gọi video nhóm chất lượng cao",
+      "Chi tiết hệ thống Camera": "Camera kép sau 13MP f/2.0 + 8MP f/2.2 góc siêu rộng; Camera trước 12MP Ultra Wide"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "10.090 mAh, công nghệ sạc siêu nhanh 45W",
+      "Pin và công nghệ sạc": "Pin Lithium-Polymer 10.090 mAh, sạc nhanh Super Fast Charging 2.0 45W"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Bút S Pen Bluetooth độ trễ siêu thấp 2.8ms, chống nước IP68, hỗ trợ thao tác không chạm Air Actions",
+      "Hỗ trợ bàn phím rời": "Hỗ trợ Book Cover Keyboard có phím bấm kích hoạt Galaxy AI riêng biệt",
+      "Công nghệ âm thanh": "Dàn 4 loa ngoài tinh chỉnh bởi AKG với công nghệ âm thanh vòm Dolby Atmos",
+      "Thuộc tính đặc biệt": "Màn hình AMOLED chống phản xạ Anti-Reflective, Galaxy AI toàn diện, chuẩn IP68, bút S Pen đi kèm"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Mạng 5G Sub-6 di động siêu tốc, Wi-Fi 6E",
+      "Thẻ SIM": "1 Nano-SIM + eSIM (Hỗ trợ 5G)",
+      "Kết nối không dây & Cổng giao tiếp": "5G di động, 1 Nano-SIM, eSIM, Wi-Fi 6E, Bluetooth 5.3, cổng USB-C 3.2 Gen 1 xuất DisplayPort",
+      "Công nghệ - Tiện ích": "Galaxy AI (Note Assist, Sketch to Image, Circle to Search), Samsung DeX đa nhiệm"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Độ mỏng ấn tượng chỉ 5.6 mm, khung nhôm Armor Aluminum, kích thước 285.4 x 185.4 x 5.6 mm, trọng lượng 576 g",
+      "Bảo mật và độ bền": "Cảm biến vân tay quang học ẩn dưới màn hình, chuẩn chống nước bụi IP68 (máy và bút)",
+      "Thời điểm ra mắt": "Năm 2024"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "12.4 inch Dynamic AMOLED 2X, độ phân giải sắc nét WQXGA+ (2800 x 1752 pixels)"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Lớp phủ chống chói Anti-Reflective cao cấp, tần số quét 120Hz thích ứng, HDR10+, độ sáng đỉnh 650 nits"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 9300+ (tiến trình 4nm đẳng cấp siêu flagship)"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB RAM LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB / 512GB (Mở rộng thẻ nhớ MicroSD tối đa 1.5TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "Cụm camera kép 13MP (chính) + 8MP (góc siêu rộng), quay video 4K 60fps"
+    },
+    {
+      "label": "Camera trước",
+      "value": "12MP Ultra Wide đặt ngang hỗ trợ gọi video nhóm chất lượng cao"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Pin Lithium-Polymer 10.090 mAh, sạc nhanh Super Fast Charging 2.0 45W"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Mạng 5G Sub-6 di động siêu tốc, Wi-Fi 6E"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Bút S Pen Bluetooth độ trễ siêu thấp 2.8ms, chống nước IP68, hỗ trợ thao tác không chạm Air Actions"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Hỗ trợ Book Cover Keyboard có phím bấm kích hoạt Galaxy AI riêng biệt"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 14 (One UI 6.1.1)"
+    }
+  ],
+  "verbatimDescription": [
+    "Samsung Galaxy Tab S10 Plus 5G là siêu phẩm máy tính bảng flagship đầu tiên của Samsung được thiết kế chuyên biệt cho kỷ nguyên trí tuệ nhân tạo Galaxy AI. Điểm cải tiến mang tính đột phá nhất chính là màn hình Dynamic AMOLED 2X kích thước 12.4 inch được phủ lớp xử lý chống chói quang học Anti-Reflective tiên tiến, giúp triệt tiêu hiện tượng phản chiếu bóng gương và mang lại khả năng hiển thị trong trẻo, chân thực dưới mọi điều kiện ánh sáng.",
+    "Cung cấp sức mạnh phi thường cho máy là con chip flagship MediaTek Dimensity 9300+ sản xuất trên tiến trình 4nm với kiến trúc toàn nhân lớn All-Big-Core. Hiệu năng tính toán AI và đồ họa tăng vọt cho phép người dùng biến các bản vẽ phác thảo sơ sài thành tác phẩm nghệ thuật hoàn chỉnh chỉ trong vài giây với tính năng Phác họa thông minh (Sketch to Image) của Galaxy AI.",
+    "Bút S Pen đi kèm với độ trễ siêu thấp chỉ 2.8ms cùng chuẩn chống nước bụi IP68 đem lại trải nghiệm viết vẽ tự nhiên và chuẩn xác từng nét cọ. Khung máy chế tác từ vật liệu nhôm gia cường Armor Aluminum với độ mỏng đáng kinh ngạc chỉ 5.6 mm mang lại vẻ đẹp sang trọng và độ bền bỉ vượt thời gian.",
+    "Hệ thống 4 loa stereo AKG sống động, viên pin lớn 10.090 mAh hỗ trợ sạc siêu nhanh 45W cùng kết nối mạng di động 5G tốc độ cao biến Galaxy Tab S10 Plus trở thành cỗ máy làm việc và giải trí không giới hạn cho các chuyên gia công nghệ hàng đầu.",
+    "Bộ công cụ Galaxy AI được tích hợp sâu vào hệ điều hành One UI giúp tối ưu hóa mọi quy trình làm việc trên màn hình lớn 12,4 inch: từ việc vừa ghi âm cuộc họp vừa chuyển thành văn bản dịch thuật trực tiếp trong Samsung Notes, tóm tắt tài liệu PDF dài hàng trăm trang cho tới tính năng Sketch to Image biến nét vẽ phác thảo bằng S Pen thành tác phẩm nghệ thuật hoàn chỉnh.",
+    "Thiết kế khung viền hợp kim nhôm Armor Aluminum tăng cường độ cứng cáp nhưng vẫn giữ độ mỏng ấn tượng chỉ 5,6mm và đạt chuẩn kháng bụi nước IP68 cho cả máy lẫn bút S Pen. Kết hợp cùng hệ thống tản nhiệt buồng hơi Vapor Chamber lớn hơn 1,48 lần, Samsung Galaxy Tab S10 Plus 5G xứng đáng là mẫu tablet flagship cân bằng hoàn hảo giữa tính di động 5G và sức mạnh máy trạm."
+  ],
+  "variants": [
+    {
+      "sku": "TB-SS008-S10P-5G-BAC-12GB-256GB-5G",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "12GB",
+      "storage": "12GB/256GB (5G)",
+      "rom": "256GB",
+      "price": 25990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/anh-dai-dien-samsung-galaxy-tab-s10-plus-5g-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/mat-truoc-dat-tren-ban-kem-but-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/mat-sau-dat-tren-ban-kem-but-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/can-canh-khay-sim-canh-ben-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/canh-ben-trai-phai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/canh-tren-duoi-loa-cong-sac-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/can-canh-cum-camera-kep-sau-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/cam-hai-tay-man-hinh-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/can-canh-chan-ket-noi-pogo-pin-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/can-canh-cong-sac-type-c-va-loa-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/can-canh-nut-nguon-va-am-luong-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/viet-but-s-pen-tren-man-hinh-bac.webp"
+      ]
+    },
+    {
+      "sku": "TB-SS008-S10P-5G-BAC-12GB-512GB-5G",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "12GB",
+      "storage": "12GB/512GB (5G)",
+      "rom": "512GB",
+      "price": 28990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/anh-dai-dien-samsung-galaxy-tab-s10-plus-5g-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/mat-truoc-dat-tren-ban-kem-but-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/mat-sau-dat-tren-ban-kem-but-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/can-canh-khay-sim-canh-ben-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/canh-ben-trai-phai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/canh-tren-duoi-loa-cong-sac-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/can-canh-cum-camera-kep-sau-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/cam-hai-tay-man-hinh-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/can-canh-chan-ket-noi-pogo-pin-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/can-canh-cong-sac-type-c-va-loa-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/can-canh-nut-nguon-va-am-luong-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/viet-but-s-pen-tren-man-hinh-bac.webp"
+      ]
+    },
+    {
+      "sku": "TB-SS008-S10P-5G-XAM-12GB-256GB-5G",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "12GB",
+      "storage": "12GB/256GB (5G)",
+      "rom": "256GB",
+      "price": 25990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/anh-dai-dien-samsung-galaxy-tab-s10-plus-5g-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/mat-truoc-sau-kem-but-s-pen-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/mat-truoc-nam-ngang-nghieng-phai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/mat-truoc-nam-ngang-nghieng-trai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/canh-ben-phai-nut-bam-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/canh-ben-trai-xam.webp"
+      ]
+    },
+    {
+      "sku": "TB-SS008-S10P-5G-XAM-12GB-512GB-5G",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "12GB",
+      "storage": "12GB/512GB (5G)",
+      "rom": "512GB",
+      "price": 28990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/anh-dai-dien-samsung-galaxy-tab-s10-plus-5g-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/mat-truoc-sau-kem-but-s-pen-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/mat-truoc-nam-ngang-nghieng-phai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/mat-truoc-nam-ngang-nghieng-trai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/canh-ben-phai-nut-bam-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s10-plus-5g/canh-ben-trai-xam.webp"
+      ]
+    }
+  ]
+}

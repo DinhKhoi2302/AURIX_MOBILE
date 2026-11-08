@@ -1,0 +1,299 @@
+{
+  "id": "samsung-galaxy-tab-s11-wifi",
+  "docCode": "TB-SS011-S11-WF",
+  "model": "Samsung Galaxy Tab S11 Wi-Fi",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "series": "Galaxy Tab S11 / S12 Series",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "11.0 inch",
+      "Dimensity 9400+",
+      "Pin 8.400 mAh"
+    ],
+    "description": "Samsung Galaxy Tab S11 Wi-Fi là chiếc tablet flagship cỡ nhỏ hội tụ mọi tinh hoa công nghệ cao cấp nhất của Samsung. Tấm nền Dynamic AMOLED 2X 11 inch tuyệt mỹ kết hợp lớp phủ chống chói Anti-Reflective mang lại khả năng tái hiện màu sắc rực rỡ và góc nhìn trong trẻo tuyệt đối.",
+    "releaseDate": "2024 / 2025"
+  },
+  "performance": {
+    "chipset": "MediaTek Dimensity 9400+ (tiến trình 3nm)",
+    "ram": [
+      "12GB"
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ],
+    "operatingSystem": "Android 15 (One UI 7.0)"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 20990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/anh-dai-dien-samsung-galaxy-tab-s11-wifi-xam.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/anh-dai-dien-samsung-galaxy-tab-s11-wifi-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/anh-dai-dien-samsung-galaxy-tab-s11-wifi-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-sau-kem-but-s-pen-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-nam-ngang-nghieng-phai-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-nam-ngang-nghieng-phai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-nam-ngang-nghieng-trai-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-nam-ngang-nghieng-trai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/canh-ben-phai-nut-bam-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/canh-ben-phai-nut-bam-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/canh-ben-trai-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/canh-ben-trai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/thiet-ke-sieu-mong-5-5mm-ip68-xam-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/thong-so-chip-mediatek-dimensity-9400-plus-xanh-den.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/thong-so-pin-8400mah-sac-nhanh-45w-den-xanh.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/tong-quan-tinh-nang-dynamic-amoled-2x-pin-8400mah-xam-bac.webp"
+    ],
+    "byColor": {
+      "Bạc": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/anh-dai-dien-samsung-galaxy-tab-s11-wifi-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-nam-ngang-nghieng-phai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-nam-ngang-nghieng-trai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/canh-ben-phai-nut-bam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/canh-ben-trai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/thiet-ke-sieu-mong-5-5mm-ip68-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/thong-so-chip-mediatek-dimensity-9400-plus-xanh-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/thong-so-pin-8400mah-sac-nhanh-45w-den-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/tong-quan-tinh-nang-dynamic-amoled-2x-pin-8400mah-xam-bac.webp"
+      ],
+      "Xám": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/anh-dai-dien-samsung-galaxy-tab-s11-wifi-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-sau-kem-but-s-pen-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-nam-ngang-nghieng-phai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-nam-ngang-nghieng-trai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/canh-ben-phai-nut-bam-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/canh-ben-trai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/thiet-ke-sieu-mong-5-5mm-ip68-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/thong-so-chip-mediatek-dimensity-9400-plus-xanh-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/thong-so-pin-8400mah-sac-nhanh-45w-den-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/tong-quan-tinh-nang-dynamic-amoled-2x-pin-8400mah-xam-bac.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-sau-kem-but-s-pen-xam.webp",
+      "screen": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-nam-ngang-nghieng-phai-bac.webp",
+      "performance": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-nam-ngang-nghieng-phai-xam.webp",
+      "camera": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/anh-dai-dien-samsung-galaxy-tab-s11-wifi-bac.webp",
+      "battery": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/thong-so-pin-8400mah-sac-nhanh-45w-den-xanh.webp",
+      "feature": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-nam-ngang-nghieng-trai-bac.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/anh-dai-dien-samsung-galaxy-tab-s11-wifi-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-sau-kem-but-s-pen-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-nam-ngang-nghieng-phai-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-nam-ngang-nghieng-phai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-nam-ngang-nghieng-trai-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-nam-ngang-nghieng-trai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/canh-ben-phai-nut-bam-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/canh-ben-phai-nut-bam-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/canh-ben-trai-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/canh-ben-trai-xam.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "11,0 inch Dynamic AMOLED 2X (2560 x 1600 pixel), tỷ lệ 16:10, tần số quét thích ứng 120Hz, HDR10+, độ sáng đỉnh 800 nit, lớp phủ chống phản xạ Anti-Reflective",
+      "Tính năng màn hình": "Lớp phủ chống chói Anti-Reflective cao cấp, công nghệ Vision Booster và cảm biến vân tay quang học tích hợp dưới màn hình"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "MediaTek Dimensity 9400+ 3nm hiệu năng đỉnh cao và mát mẻ",
+      "CPU & Đồ họa": "Octa-core 3.63 GHz, GPU Immortalis thế hệ mới",
+      "Hệ điều hành khi ra mắt": "Android 15 One UI 7.0 tối ưu hóa trải nghiệm máy tính bảng"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "12GB RAM LPDDR5X",
+      "Bộ nhớ trong": "256GB / 512GB UFS 4.0, hỗ trợ thẻ nhớ ngoài MicroSD"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "13MP tự động lấy nét, quay video 4K 60fps",
+      "Camera trước": "12MP Ultra Wide đặt ngang hỗ trợ Auto Framing",
+      "Chi tiết hệ thống Camera": "Camera chính 13MP AF quay video 4K; Camera trước 12MP Ultra Wide"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "8.400 mAh, sạc nhanh công suất 45W qua USB-C",
+      "Pin và công nghệ sạc": "Pin Lithium-Polymer 8.400 mAh, sạc nhanh 45W"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Bút S Pen chống nước IP68 đi kèm sẵn trong hộp",
+      "Hỗ trợ bàn phím rời": "Hỗ trợ Book Cover Keyboard kết nối Pogo Pin",
+      "Công nghệ âm thanh": "Dàn 4 loa AKG cao cấp chuẩn Dolby Atmos",
+      "Thuộc tính đặc biệt": "Màn hình AMOLED chống phản xạ, chip 3nm Dimensity 9400+, bút S Pen, Galaxy AI, IP68"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Wi-Fi 7 (802.11be) siêu tốc độ cao",
+      "Thẻ SIM": "Không hỗ trợ (Bản Wi-Fi)",
+      "Kết nối không dây & Cổng giao tiếp": "Wi-Fi 7 siêu tốc, Bluetooth 5.4, cổng Type-C 3.2 Gen 1",
+      "Công nghệ - Tiện ích": "Bộ công cụ Galaxy AI thế hệ mới, Samsung DeX không dây"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Độ mỏng 5.7 mm, thân nhôm Armor Aluminum, trọng lượng 490 g",
+      "Bảo mật và độ bền": "Cảm biến vân tay dưới màn hình, kháng nước bụi IP68",
+      "Thời điểm ra mắt": "Năm 2024 / 2025"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "11.0 inch Dynamic AMOLED 2X, độ phân giải 2560 x 1600 pixels"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Lớp phủ chống phản xạ Anti-Reflective, tần số quét 120Hz thích ứng, HDR10+, độ sáng đỉnh 800 nits"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 9400+ (tiến trình 3nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB RAM LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB / 512GB (Hỗ trợ thẻ nhớ MicroSD tối đa 1.5TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "13MP tự động lấy nét, quay video 4K 60fps"
+    },
+    {
+      "label": "Camera trước",
+      "value": "12MP Ultra Wide đặt ngang hỗ trợ Auto Framing"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Pin Lithium-Polymer 8.400 mAh, sạc nhanh 45W"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Wi-Fi 7 (802.11be) siêu tốc độ cao"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Bút S Pen chống nước IP68 đi kèm sẵn trong hộp"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Hỗ trợ Book Cover Keyboard kết nối Pogo Pin"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 15 (One UI 7.0)"
+    }
+  ],
+  "verbatimDescription": [
+    "Samsung Galaxy Tab S11 Wi-Fi là chiếc tablet flagship cỡ nhỏ hội tụ mọi tinh hoa công nghệ cao cấp nhất của Samsung. Tấm nền Dynamic AMOLED 2X 11 inch tuyệt mỹ kết hợp lớp phủ chống chói Anti-Reflective mang lại khả năng tái hiện màu sắc rực rỡ và góc nhìn trong trẻo tuyệt đối.",
+    "Trang bị vi xử lý 3nm Dimensity 9400+ hàng đầu cùng RAM 12GB, máy xử lý mượt mà mọi tác vụ đồ họa và các tính năng Galaxy AI thông minh. Bút S Pen đi kèm với chuẩn chống nước IP68 đem đến trải nghiệm viết vẽ chân thực, đáp ứng mọi nhu cầu sáng tạo khắt khe.",
+    "Viên pin 8.400 mAh cùng công nghệ sạc nhanh 45W và dàn 4 loa ngoài tinh chỉnh bởi AKG giúp thiết bị luôn sẵn sàng phục vụ nhu cầu làm việc và giải trí đỉnh cao suốt cả ngày.",
+    "Trải nghiệm thị giác trên Samsung Galaxy Tab S11 Wi-Fi đạt độ hoàn mỹ nhờ màn hình Dynamic AMOLED 2X 11 inch tần số quét 120Hz đi kèm lớp phủ chống chói Anti-Reflective, giúp triệt tiêu hiện tượng bóng lóa từ ánh đèn phòng họp hay ánh sáng ngoài trời.",
+    "Bút S Pen đi kèm sẵn trong hộp kết hợp cùng bộ công cụ Galaxy AI trên One UI 7.0 giúp người dùng tóm tắt tài liệu, chuyển chữ viết tay thành văn bản định dạng chuẩn và phác thảo đồ họa nhanh chóng. Cả máy và bút đều đạt chuẩn kháng bụi nước IP68 bền bỉ.",
+    "Kết nối Wi-Fi 7 thế hệ mới nhất, cổng USB-C 3.2 Gen 1 hỗ trợ xuất màn hình ngoài DisplayPort cùng chế độ Samsung DeX không dây biến chiếc tablet nặng chỉ 490g này thành công cụ làm việc và giải trí lý tưởng."
+  ],
+  "variants": [
+    {
+      "sku": "TB-SS011-S11-WF-XAM-12GB-256GB-WI-FI",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "12GB",
+      "storage": "12GB/256GB (Wi-Fi)",
+      "rom": "256GB",
+      "price": 20990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/anh-dai-dien-samsung-galaxy-tab-s11-wifi-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-sau-kem-but-s-pen-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-nam-ngang-nghieng-phai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-nam-ngang-nghieng-trai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/canh-ben-phai-nut-bam-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/canh-ben-trai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/thiet-ke-sieu-mong-5-5mm-ip68-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/thong-so-chip-mediatek-dimensity-9400-plus-xanh-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/thong-so-pin-8400mah-sac-nhanh-45w-den-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/tong-quan-tinh-nang-dynamic-amoled-2x-pin-8400mah-xam-bac.webp"
+      ]
+    },
+    {
+      "sku": "TB-SS011-S11-WF-XAM-12GB-512GB-WI-FI",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "12GB",
+      "storage": "12GB/512GB (Wi-Fi)",
+      "rom": "512GB",
+      "price": 23990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/anh-dai-dien-samsung-galaxy-tab-s11-wifi-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-sau-kem-but-s-pen-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-nam-ngang-nghieng-phai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-nam-ngang-nghieng-trai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/canh-ben-phai-nut-bam-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/canh-ben-trai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/thiet-ke-sieu-mong-5-5mm-ip68-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/thong-so-chip-mediatek-dimensity-9400-plus-xanh-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/thong-so-pin-8400mah-sac-nhanh-45w-den-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/tong-quan-tinh-nang-dynamic-amoled-2x-pin-8400mah-xam-bac.webp"
+      ]
+    },
+    {
+      "sku": "TB-SS011-S11-WF-BAC-12GB-256GB-WI-FI",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "12GB",
+      "storage": "12GB/256GB (Wi-Fi)",
+      "rom": "256GB",
+      "price": 20990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/anh-dai-dien-samsung-galaxy-tab-s11-wifi-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-nam-ngang-nghieng-phai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-nam-ngang-nghieng-trai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/canh-ben-phai-nut-bam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/canh-ben-trai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/thiet-ke-sieu-mong-5-5mm-ip68-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/thong-so-chip-mediatek-dimensity-9400-plus-xanh-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/thong-so-pin-8400mah-sac-nhanh-45w-den-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/tong-quan-tinh-nang-dynamic-amoled-2x-pin-8400mah-xam-bac.webp"
+      ]
+    },
+    {
+      "sku": "TB-SS011-S11-WF-BAC-12GB-512GB-WI-FI",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "12GB",
+      "storage": "12GB/512GB (Wi-Fi)",
+      "rom": "512GB",
+      "price": 23990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/anh-dai-dien-samsung-galaxy-tab-s11-wifi-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-nam-ngang-nghieng-phai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/mat-truoc-nam-ngang-nghieng-trai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/canh-ben-phai-nut-bam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/canh-ben-trai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/thiet-ke-sieu-mong-5-5mm-ip68-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/thong-so-chip-mediatek-dimensity-9400-plus-xanh-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/thong-so-pin-8400mah-sac-nhanh-45w-den-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s11-wifi/tong-quan-tinh-nang-dynamic-amoled-2x-pin-8400mah-xam-bac.webp"
+      ]
+    }
+  ]
+}

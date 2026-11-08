@@ -1,0 +1,221 @@
+{
+  "id": "samsung-galaxy-tab-s12-ultra-wifi",
+  "docCode": "TB-SS012-S12U-WF",
+  "model": "Samsung Galaxy Tab S12 Ultra Wi-Fi",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "series": "Galaxy Tab S11 / S12 Series",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "14.6 inch",
+      "Pin 11.600 mAh"
+    ],
+    "description": "Samsung Galaxy Tab S12 Ultra Wi-Fi là siêu máy tính bảng của tương lai, mở ra kỷ nguyên mới cho không gian làm việc di động với màn hình cực đại 14.6 inch Dynamic AMOLED 2X. Ứng dụng công nghệ tấm nền LTPO biến thiên tần số quét thông minh từ 1Hz đến 120Hz cùng lớp phủ chống chói nano cao cấp, màn hình mang lại trải nghiệm thị giác sống động và tiết kiệm điện năng vượt bậc.",
+    "releaseDate": "2025"
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon thế hệ mới / MediaTek Dimensity 9400+ (tiến trình 3nm)",
+    "ram": [
+      "12GB",
+      "16GB"
+    ],
+    "storage": [
+      "1TB",
+      "512GB"
+    ],
+    "operatingSystem": "Android 15 / 16 (One UI thế hệ mới)"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 31990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s12-ultra-wifi/anh-dai-dien-samsung-galaxy-tab-s12-ultra-wifi-bac.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s12-ultra-wifi/anh-dai-dien-samsung-galaxy-tab-s12-ultra-wifi-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s12-ultra-wifi/anh-dai-dien-samsung-galaxy-tab-s12-ultra-wifi-xam.webp"
+    ],
+    "byColor": {
+      "Bạc": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s12-ultra-wifi/anh-dai-dien-samsung-galaxy-tab-s12-ultra-wifi-bac.webp"
+      ],
+      "Xám": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s12-ultra-wifi/anh-dai-dien-samsung-galaxy-tab-s12-ultra-wifi-xam.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/samsung/samsung-galaxy-tab-s12-ultra-wifi/anh-dai-dien-samsung-galaxy-tab-s12-ultra-wifi-xam.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-s12-ultra-wifi/anh-dai-dien-samsung-galaxy-tab-s12-ultra-wifi-xam.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "14,6 inch Dynamic AMOLED 2X LTPO (2960 x 1848 pixel), tần số quét biến thiên thông minh 1Hz – 120Hz, HDR10+, độ sáng đỉnh 1.000 nit, lớp phủ nano chống chói Anti-Glare thế hệ mới",
+      "Tính năng màn hình": "Công nghệ LTPO 1–120Hz tiết kiệm pin kết hợp lớp phủ Anti-Glare chống phản xạ ánh sáng vượt trội và thuật toán Vision Booster ngoài trời"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "Vi xử lý 3nm thế hệ mới nhất với NPU AI xử lý tác vụ tương lai",
+      "CPU & Đồ họa": "Octa-core xung nhịp tối đa 4.0 GHz, GPU kiến trúc mới nhất",
+      "Hệ điều hành khi ra mắt": "Android 15/16 One UI giao diện máy trạm tối tân"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "12GB / 16GB RAM LPDDR5X",
+      "Bộ nhớ trong": "512GB / 1TB chuẩn UFS 4.0, khe thẻ MicroSD mở rộng lên tới 2TB"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "Cụm camera kép 13MP (chính) + 8MP (góc siêu rộng), quay video 4K 60fps",
+      "Camera trước": "Camera kép trước 12MP + 12MP Ultra Wide hỗ trợ 4K và xóa phông AI",
+      "Chi tiết hệ thống Camera": "Camera sau kép 13MP + 8MP; Camera trước kép 12MP + 12MP góc rộng"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "11.600 mAh, sạc nhanh công suất 45W qua USB-C",
+      "Pin và công nghệ sạc": "Pin Lithium-Polymer 11.600 mAh, hỗ trợ sạc nhanh 45W"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Bút S Pen chống nước IP68 độ trễ siêu thấp 2.8ms",
+      "Hỗ trợ bàn phím rời": "Hỗ trợ Book Cover Keyboard đầy đủ hàng phím số và trackpad kính",
+      "Công nghệ âm thanh": "Dàn 4 loa ngoài AKG công suất lớn chuẩn Dolby Atmos",
+      "Thuộc tính đặc biệt": "Màn hình 14.6 inch LTPO AMOLED chống chói, bút S Pen thế hệ mới, Galaxy AI chuyên sâu, IP68"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Wi-Fi 7 (802.11be) đa băng tần",
+      "Thẻ SIM": "Không hỗ trợ (Bản Wi-Fi)",
+      "Kết nối không dây & Cổng giao tiếp": "Wi-Fi 7 thế hệ mới nhất, Bluetooth 5.4, cổng Type-C USB 3.2 Gen 2 (10Gbps, DP Out)",
+      "Công nghệ - Tiện ích": "Galaxy AI tương lai, chế độ máy trạm DeX đa màn hình ngoài"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Độ mỏng kỷ lục 5.4 mm, thân nhôm Armor Aluminum, trọng lượng khoảng 725 g",
+      "Bảo mật và độ bền": "Cảm biến vân tay siêu âm dưới màn hình, kháng nước bụi IP68",
+      "Thời điểm ra mắt": "Năm 2025"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "14.6 inch Dynamic AMOLED 2X Ultra Vision, độ phân giải 2960 x 1848 pixels"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Lớp phủ nano chống chói Anti-Glare thế hệ mới, tần số quét thích ứng 1Hz - 120Hz LTPO, HDR10+, 1000 nits"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon thế hệ mới / MediaTek Dimensity 9400+ (tiến trình 3nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB / 16GB RAM LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "512GB / 1TB UFS 4.0 (Hỗ trợ thẻ nhớ MicroSD tối đa 2TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "Cụm camera kép 13MP (chính) + 8MP (góc siêu rộng), quay video 4K 60fps"
+    },
+    {
+      "label": "Camera trước",
+      "value": "Camera kép trước 12MP + 12MP Ultra Wide hỗ trợ 4K và xóa phông AI"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Pin Lithium-Polymer 11.600 mAh, hỗ trợ sạc nhanh 45W"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Wi-Fi 7 (802.11be) đa băng tần"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Bút S Pen chống nước IP68 độ trễ siêu thấp 2.8ms"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Hỗ trợ Book Cover Keyboard đầy đủ hàng phím số và trackpad kính"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 15 / 16 (One UI thế hệ mới)"
+    }
+  ],
+  "verbatimDescription": [
+    "Samsung Galaxy Tab S12 Ultra Wi-Fi là siêu máy tính bảng của tương lai, mở ra kỷ nguyên mới cho không gian làm việc di động với màn hình cực đại 14.6 inch Dynamic AMOLED 2X. Ứng dụng công nghệ tấm nền LTPO biến thiên tần số quét thông minh từ 1Hz đến 120Hz cùng lớp phủ chống chói nano cao cấp, màn hình mang lại trải nghiệm thị giác sống động và tiết kiệm điện năng vượt bậc.",
+    "Cấu hình phần cứng tối tân trên tiến trình 3nm cùng bộ nhớ lưu trữ lên tới 1TB đem lại hiệu năng xử lý cấp độ máy trạm chuyên nghiệp. Các tác vụ đồ họa 3D phức tạp, biên tập phim 8K và bộ công cụ Galaxy AI thế hệ mới được thực thi mượt mà và nhạy bén.",
+    "Bút S Pen cảm ứng lực chuẩn xác đi kèm sẵn trong hộp cùng thiết kế nhôm Armor Aluminum mỏng chỉ 5.4 mm đạt chuẩn chống nước bụi IP68 biến Galaxy Tab S12 Ultra thành kiệt tác công nghệ mà mọi chuyên gia sáng tạo đều khao khát sở hữu.",
+    "Nhờ tấm nền Dynamic AMOLED 2X 14,6 inch ứng dụng công nghệ LTPO biến thiên tần số quét từ 1Hz đến 120Hz và độ sáng đỉnh 1.000 nit, Samsung Galaxy Tab S12 Ultra Wi-Fi vừa mang lại chất lượng hiển thị HDR rực rỡ vừa tối ưu hóa đáng kể điện năng tiêu thụ khi đọc tài liệu tĩnh.",
+    "Hệ thống 4 camera (kép 13MP + 8MP phía sau và kép 12MP Wide + 12MP Ultra Wide phía trước) kết hợp 3 micro chuẩn phòng thu và 4 loa AKG Dolby Atmos biến thiết bị thành trung tâm hội nghị truyền hình và sản xuất nội dung 4K chuyên nghiệp.",
+    "Đi kèm viên pin 11.600 mAh sạc nhanh 45W, kết nối Wi-Fi 7, cổng USB-C 3.2 Gen 2 băng thông 10Gbps và chế độ máy trạm Samsung DeX đa màn hình, đây là lựa chọn tối thượng cho các giám đốc điều hành, kiến trúc sư và nhà sáng tạo chuyên nghiệp."
+  ],
+  "variants": [
+    {
+      "sku": "TB-SS012-S12U-WF-BAC-12GB-512GB-WI-FI",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "12GB",
+      "storage": "12GB/512GB (Wi-Fi)",
+      "rom": "512GB",
+      "price": 31990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s12-ultra-wifi/anh-dai-dien-samsung-galaxy-tab-s12-ultra-wifi-bac.webp"
+      ]
+    },
+    {
+      "sku": "TB-SS012-S12U-WF-BAC-16GB-1TB-WI-FI",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "16GB",
+      "storage": "16GB/1TB (Wi-Fi)",
+      "rom": "1TB",
+      "price": 37990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s12-ultra-wifi/anh-dai-dien-samsung-galaxy-tab-s12-ultra-wifi-bac.webp"
+      ]
+    },
+    {
+      "sku": "TB-SS012-S12U-WF-XAM-12GB-512GB-WI-FI",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "12GB",
+      "storage": "12GB/512GB (Wi-Fi)",
+      "rom": "512GB",
+      "price": 31990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s12-ultra-wifi/anh-dai-dien-samsung-galaxy-tab-s12-ultra-wifi-xam.webp"
+      ]
+    },
+    {
+      "sku": "TB-SS012-S12U-WF-XAM-16GB-1TB-WI-FI",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "16GB",
+      "storage": "16GB/1TB (Wi-Fi)",
+      "rom": "1TB",
+      "price": 37990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-s12-ultra-wifi/anh-dai-dien-samsung-galaxy-tab-s12-ultra-wifi-xam.webp"
+      ]
+    }
+  ]
+}

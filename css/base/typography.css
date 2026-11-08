@@ -1,0 +1,58 @@
+/* TechPhone — Typography System (03. TYPOGRAPHY - PHÔNG CHỮ in Brandkit) */
+h1, .tp-h1 {
+  font-size: var(--tp-fs-display);
+  font-weight: 800;
+  line-height: 1.15;
+  color: var(--tp-navy);
+  letter-spacing: -0.02em;
+}
+h2, .tp-h2 {
+  font-size: var(--tp-fs-h2);
+  font-weight: 700;
+  line-height: 1.25;
+  color: var(--tp-navy);
+  letter-spacing: -0.015em;
+}
+h3, .tp-h3 {
+  font-size: var(--tp-fs-h3);
+  font-weight: 600;
+  line-height: 1.35;
+  color: var(--tp-navy);
+}
+.tp-body-lg {
+  font-size: var(--tp-fs-body-lg);
+  color: var(--tp-text-main);
+  line-height: 1.6;
+}
+.tp-body {
+  font-size: var(--tp-fs-body);
+  color: var(--tp-text-main);
+}
+.tp-text-small {
+  font-size: var(--tp-fs-small);
+  color: var(--tp-text-secondary);
+}
+.tp-caption {
+  font-size: var(--tp-fs-caption);
+  color: var(--tp-text-secondary);
+}
+.tp-price {
+  font-size: 1.15rem;
+  font-weight: 800;
+  color: var(--tp-coral);
+  letter-spacing: -0.01em;
+}
+.tp-price-old {
+  font-size: 0.82rem;
+  color: var(--tp-text-secondary);
+  text-decoration: line-through;
+  font-weight: 500;
+}
+.tp-section-title {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: var(--tp-navy);
+}

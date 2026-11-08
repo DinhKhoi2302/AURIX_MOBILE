@@ -1,0 +1,447 @@
+{
+  "id": "oppo-a6c",
+  "brand": "OPPO",
+  "brandId": "oppo",
+  "parentGroupId": "oppo",
+  "model": "OPPO A6c",
+  "series": "OPPO A Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "entry-level"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 19,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025 – 2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "OPPO A6c là mẫu smartphone phổ thông nổi bật với viên pin khủng 7000mAh hỗ trợ sạc 15W PD, màn hình lớn 6,75 inch HD+ tần số quét 120Hz (độ sáng HBM 900 nit), vi xử lý 8 nhân UNISOC T7250, bộ nhớ chuẩn UFS 2.2, camera chính 13MP AF, cảm biến vân tay cạnh bên và chuẩn kháng bụi nước IP64.",
+    "highlights": [
+      "Viên pin siêu dung lượng 7000mAh đi kèm sạc 15W (PD 15W) cho thời gian sử dụng dài ngày",
+      "Màn hình lớn 6,75 inch LCD 120Hz, độ sáng thông thường 700 nit (HBM 900 nit)",
+      "Vi xử lý 8 nhân UNISOC T7250 kết hợp RAM 4GB LPDDR4X & bộ nhớ trong UFS 2.2",
+      "Camera sau 13MP f/2.2 hỗ trợ lấy nét tự động AF, Camera trước 5MP",
+      "Cảm biến vân tay cạnh bên, kháng nước bụi IP64, Bluetooth 5.2 (LDAC) & cổng tai nghe 3.5mm"
+    ],
+    "officialDistribution": "Model được bảo lưu từ danh sách trước nhưng chưa đủ bằng chứng đang mở bán chính thức trong lượt đối chiếu ngày 01/11/2026; giữ trạng thái needs_verification để không mất dấu dữ liệu."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 3490000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT004-OPA6C-TIM-4GB-64GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "4GB",
+      "storage": "4GB/64GB",
+      "rom": "64GB",
+      "price": 3490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-a6c/anh-dai-dien-oppo-a6c-tim.webp",
+        "assets/images/products/oppo/oppo-a6c/mat-truoc-mat-sau-oppo-a6c-tim.webp",
+        "assets/images/products/oppo/oppo-a6c/mat-lung-goc-nghieng-phai-oppo-a6c-tim.webp",
+        "assets/images/products/oppo/oppo-a6c/mat-lung-goc-nghieng-trai-oppo-a6c-tim.webp",
+        "assets/images/products/oppo/oppo-a6c/man-hinh-goc-nghieng-phai-oppo-a6c-tim.webp",
+        "assets/images/products/oppo/oppo-a6c/man-hinh-goc-nghieng-trai-oppo-a6c-tim.webp",
+        "assets/images/products/oppo/oppo-a6c/bo-nho-ram-rom-oppo-a6c-tim.webp",
+        "assets/images/products/oppo/oppo-a6c/dung-luong-pin-7000mah-oppo-a6c-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6c/thiet-ke-hoa-tiet-oppo-a6c-tim-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/thong-so-man-hinh-120hz-oppo-a6c-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/thong-so-noi-bat-oppo-a6c-tim-nau.webp"
+      ]
+    },
+    {
+      "sku": "DT004-OPA6C-TIM-4GB-128GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 3890000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-a6c/anh-dai-dien-oppo-a6c-tim.webp",
+        "assets/images/products/oppo/oppo-a6c/mat-truoc-mat-sau-oppo-a6c-tim.webp",
+        "assets/images/products/oppo/oppo-a6c/mat-lung-goc-nghieng-phai-oppo-a6c-tim.webp",
+        "assets/images/products/oppo/oppo-a6c/mat-lung-goc-nghieng-trai-oppo-a6c-tim.webp",
+        "assets/images/products/oppo/oppo-a6c/man-hinh-goc-nghieng-phai-oppo-a6c-tim.webp",
+        "assets/images/products/oppo/oppo-a6c/man-hinh-goc-nghieng-trai-oppo-a6c-tim.webp",
+        "assets/images/products/oppo/oppo-a6c/bo-nho-ram-rom-oppo-a6c-tim.webp",
+        "assets/images/products/oppo/oppo-a6c/dung-luong-pin-7000mah-oppo-a6c-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6c/thiet-ke-hoa-tiet-oppo-a6c-tim-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/thong-so-man-hinh-120hz-oppo-a6c-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/thong-so-noi-bat-oppo-a6c-tim-nau.webp"
+      ]
+    },
+    {
+      "sku": "DT004-OPA6C-NAU-4GB-64GB",
+      "color": "Nâu",
+      "colorHex": "#78350F",
+      "ram": "4GB",
+      "storage": "4GB/64GB",
+      "rom": "64GB",
+      "price": 3490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-a6c/mat-truoc-mat-sau-oppo-a6c-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/mat-lung-goc-nghieng-phai-oppo-a6c-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/mat-lung-goc-nghieng-trai-oppo-a6c-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/man-hinh-goc-nghieng-phai-oppo-a6c-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/man-hinh-goc-nghieng-trai-oppo-a6c-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/tinh-nang-khang-nuoc-ip64-oppo-a6c-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/dung-luong-pin-7000mah-oppo-a6c-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6c/thiet-ke-hoa-tiet-oppo-a6c-tim-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/thong-so-man-hinh-120hz-oppo-a6c-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/thong-so-noi-bat-oppo-a6c-tim-nau.webp"
+      ]
+    },
+    {
+      "sku": "DT004-OPA6C-NAU-4GB-128GB",
+      "color": "Nâu",
+      "colorHex": "#78350F",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 3890000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-a6c/mat-truoc-mat-sau-oppo-a6c-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/mat-lung-goc-nghieng-phai-oppo-a6c-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/mat-lung-goc-nghieng-trai-oppo-a6c-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/man-hinh-goc-nghieng-phai-oppo-a6c-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/man-hinh-goc-nghieng-trai-oppo-a6c-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/tinh-nang-khang-nuoc-ip64-oppo-a6c-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/dung-luong-pin-7000mah-oppo-a6c-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6c/thiet-ke-hoa-tiet-oppo-a6c-tim-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/thong-so-man-hinh-120hz-oppo-a6c-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/thong-so-noi-bat-oppo-a6c-tim-nau.webp"
+      ]
+    }
+  ],
+  "display": {
+    "size": "6,75 inch",
+    "technology": "IPS LCD (16,7 triệu màu, tỷ lệ màn hình 90,5%)",
+    "resolution": "HD+ (1570 × 720 Pixels)",
+    "refreshRate": "120Hz",
+    "maxBrightness": "700 nit (tiêu chuẩn) / 900 nit (HBM)",
+    "protection": "Kính cường lực"
+  },
+  "performance": {
+    "chipset": "UNISOC T7250 (12nm)",
+    "cpu": "8 nhân (2×1.8GHz Cortex-A75 + 6×1.6GHz Cortex-A55)",
+    "gpu": "ARM Mali-G57 @ 850MHz",
+    "ram": "4GB LPDDR4X",
+    "internalStorage": "64GB / 128GB UFS 2.2 (Hỗ trợ thẻ nhớ microSDXC)",
+    "os": "Android 15 (ColorOS 15.0)"
+  },
+  "rearCamera": {
+    "mainSensor": "13MP (f/2.2, FOV 81°, ống kính 4P, hỗ trợ lấy nét tự động AF)",
+    "ultraWide": "Không trang bị",
+    "telephoto": "Hỗ trợ zoom kỹ thuật số tối đa 10x",
+    "videoRecording": "1080p@30fps, 720p@30fps, Time-lapse 1080p@30fps",
+    "features": [
+      "Chân dung",
+      "Ban đêm",
+      "Độ phân giải cao Hi-Res",
+      "Google Lens",
+      "Chế độ PRO"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "5MP (f/2.2, FOV 77°, ống kính 3P)",
+    "videoRecording": "720p@30fps",
+    "features": [
+      "Chân dung",
+      "Ban đêm",
+      "Toàn cảnh",
+      "Sticker"
+    ]
+  },
+  "battery": {
+    "capacity": "7000 mAh",
+    "batteryType": "Pin Li-Ion siêu dung lượng",
+    "chargingPower": "Sạc 15W, PD 15W qua USB Type-C (Hỗ trợ sạc ngược có dây 5W)",
+    "wirelessCharging": "Không hỗ trợ"
+  },
+  "connectivity": {
+    "sim": "2 Nano-SIM (Hỗ trợ thẻ nhớ microSD)",
+    "network": "4G LTE FDD/TDD đa băng tần",
+    "wifi": "Wi-Fi 5 (802.11ac), Dual-band",
+    "bluetooth": "Bluetooth 5.2 (SBC, AAC, LDAC)",
+    "nfc": "Không hỗ trợ",
+    "usb": "USB Type-C 2.0, OTG, Jack tai nghe 3.5mm"
+  },
+  "design": {
+    "formFactor": "Nguyên khối cứng cáp, pin lớn 7000mAh bền bỉ",
+    "materials": "Mặt trước kính cường lực, khung và mặt lưng nhựa cao cấp",
+    "dimensionsWeight": "166,48 × 78,23 × 8,95 mm | 215g",
+    "waterResistance": "IP64 (Kháng bụi và tia nước bắn)",
+    "availableColors": [
+      "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa đơn / Stereo tiêu chuẩn",
+    "headphoneJack": null,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Viên pin siêu dung lượng 7000mAh đi kèm sạc 15W (PD 15W) cho thời gian sử dụng dài ngày",
+    "Màn hình lớn 6,75 inch LCD 120Hz, độ sáng thông thường 700 nit (HBM 900 nit)",
+    "Vi xử lý 8 nhân UNISOC T7250 kết hợp RAM 4GB LPDDR4X & bộ nhớ trong UFS 2.2",
+    "Camera sau 13MP f/2.2 hỗ trợ lấy nét tự động AF, Camera trước 5MP",
+    "Cảm biến vân tay cạnh bên, kháng nước bụi IP64, Bluetooth 5.2 (LDAC) & cổng tai nghe 3.5mm"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền OPPO tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/oppo/oppo-a6c/anh-dai-dien-oppo-a6c-tim.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/oppo/oppo-a6c/anh-dai-dien-oppo-a6c-tim.webp",
+      "assets/images/products/oppo/oppo-a6c/mat-truoc-mat-sau-oppo-a6c-nau.webp",
+      "assets/images/products/oppo/oppo-a6c/mat-truoc-mat-sau-oppo-a6c-tim.webp",
+      "assets/images/products/oppo/oppo-a6c/mat-lung-goc-nghieng-phai-oppo-a6c-nau.webp",
+      "assets/images/products/oppo/oppo-a6c/mat-lung-goc-nghieng-phai-oppo-a6c-tim.webp",
+      "assets/images/products/oppo/oppo-a6c/mat-lung-goc-nghieng-trai-oppo-a6c-nau.webp",
+      "assets/images/products/oppo/oppo-a6c/mat-lung-goc-nghieng-trai-oppo-a6c-tim.webp",
+      "assets/images/products/oppo/oppo-a6c/man-hinh-goc-nghieng-phai-oppo-a6c-nau.webp",
+      "assets/images/products/oppo/oppo-a6c/man-hinh-goc-nghieng-phai-oppo-a6c-tim.webp",
+      "assets/images/products/oppo/oppo-a6c/man-hinh-goc-nghieng-trai-oppo-a6c-nau.webp",
+      "assets/images/products/oppo/oppo-a6c/man-hinh-goc-nghieng-trai-oppo-a6c-tim.webp",
+      "assets/images/products/oppo/oppo-a6c/bo-nho-ram-rom-oppo-a6c-tim.webp",
+      "assets/images/products/oppo/oppo-a6c/dung-luong-pin-7000mah-oppo-a6c-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a6c/thiet-ke-hoa-tiet-oppo-a6c-tim-nau.webp",
+      "assets/images/products/oppo/oppo-a6c/tinh-nang-khang-nuoc-ip64-oppo-a6c-nau.webp",
+      "assets/images/products/oppo/oppo-a6c/thong-so-man-hinh-120hz-oppo-a6c-nau.webp",
+      "assets/images/products/oppo/oppo-a6c/thong-so-noi-bat-oppo-a6c-tim-nau.webp"
+    ],
+    "byColor": {
+      "Tím": [
+        "assets/images/products/oppo/oppo-a6c/anh-dai-dien-oppo-a6c-tim.webp",
+        "assets/images/products/oppo/oppo-a6c/mat-truoc-mat-sau-oppo-a6c-tim.webp",
+        "assets/images/products/oppo/oppo-a6c/mat-lung-goc-nghieng-phai-oppo-a6c-tim.webp",
+        "assets/images/products/oppo/oppo-a6c/mat-lung-goc-nghieng-trai-oppo-a6c-tim.webp",
+        "assets/images/products/oppo/oppo-a6c/man-hinh-goc-nghieng-phai-oppo-a6c-tim.webp",
+        "assets/images/products/oppo/oppo-a6c/man-hinh-goc-nghieng-trai-oppo-a6c-tim.webp",
+        "assets/images/products/oppo/oppo-a6c/bo-nho-ram-rom-oppo-a6c-tim.webp",
+        "assets/images/products/oppo/oppo-a6c/dung-luong-pin-7000mah-oppo-a6c-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6c/thiet-ke-hoa-tiet-oppo-a6c-tim-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/thong-so-man-hinh-120hz-oppo-a6c-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/thong-so-noi-bat-oppo-a6c-tim-nau.webp"
+      ],
+      "Nâu": [
+        "assets/images/products/oppo/oppo-a6c/mat-truoc-mat-sau-oppo-a6c-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/mat-lung-goc-nghieng-phai-oppo-a6c-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/mat-lung-goc-nghieng-trai-oppo-a6c-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/man-hinh-goc-nghieng-phai-oppo-a6c-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/man-hinh-goc-nghieng-trai-oppo-a6c-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/tinh-nang-khang-nuoc-ip64-oppo-a6c-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/dung-luong-pin-7000mah-oppo-a6c-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6c/thiet-ke-hoa-tiet-oppo-a6c-tim-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/thong-so-man-hinh-120hz-oppo-a6c-nau.webp",
+        "assets/images/products/oppo/oppo-a6c/thong-so-noi-bat-oppo-a6c-tim-nau.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/oppo/oppo-a6c/mat-truoc-mat-sau-oppo-a6c-nau.webp",
+      "screen": "assets/images/products/oppo/oppo-a6c/mat-truoc-mat-sau-oppo-a6c-tim.webp",
+      "performance": "assets/images/products/oppo/oppo-a6c/man-hinh-goc-nghieng-phai-oppo-a6c-nau.webp",
+      "camera": "assets/images/products/oppo/oppo-a6c/mat-lung-goc-nghieng-phai-oppo-a6c-nau.webp",
+      "battery": "assets/images/products/oppo/oppo-a6c/dung-luong-pin-7000mah-oppo-a6c-xanh-duong.webp",
+      "feature": "assets/images/products/oppo/oppo-a6c/mat-lung-goc-nghieng-phai-oppo-a6c-tim.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/oppo/oppo-a6c/mat-truoc-mat-sau-oppo-a6c-nau.webp",
+      "assets/images/products/oppo/oppo-a6c/mat-truoc-mat-sau-oppo-a6c-tim.webp",
+      "assets/images/products/oppo/oppo-a6c/mat-lung-goc-nghieng-phai-oppo-a6c-nau.webp",
+      "assets/images/products/oppo/oppo-a6c/mat-lung-goc-nghieng-phai-oppo-a6c-tim.webp",
+      "assets/images/products/oppo/oppo-a6c/mat-lung-goc-nghieng-trai-oppo-a6c-nau.webp",
+      "assets/images/products/oppo/oppo-a6c/mat-lung-goc-nghieng-trai-oppo-a6c-tim.webp",
+      "assets/images/products/oppo/oppo-a6c/man-hinh-goc-nghieng-phai-oppo-a6c-nau.webp",
+      "assets/images/products/oppo/oppo-a6c/man-hinh-goc-nghieng-phai-oppo-a6c-tim.webp",
+      "assets/images/products/oppo/oppo-a6c/man-hinh-goc-nghieng-trai-oppo-a6c-nau.webp",
+      "assets/images/products/oppo/oppo-a6c/man-hinh-goc-nghieng-trai-oppo-a6c-tim.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-oppo",
+      "https://www.oppo.com/vn/smartphones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "needs_verification",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Cần xác minh thêm",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT004-OPA6C",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "IPS LCD, 16,7 triệu màu, 100% sRGB / 86% DCI-P3",
+      "Kích thước màn hình": "6,75 inch (Tỷ lệ màn hình 90,5%)",
+      "Độ phân giải màn hình": "HD+ (1570 × 720 Pixels), 256 PPI",
+      "Tần số quét": "120Hz (Lấy mẫu cảm ứng 240Hz)",
+      "Kiểu màn hình": "Chưa có thông tin trong dữ liệu gốc",
+      "Tính năng màn hình": "Độ sáng tối đa: 700 nit (Điển hình) / 900 nit (HBM); Kính bảo vệ: Kính cường lực bảo vệ"
+    },
+    "Camera sau": {
+      "Camera sau": "Camera chính: 13MP (f/2.2, FOV 81°, ống kính 4P, hỗ trợ lấy nét tự động AF); Camera phụ: Hỗ trợ zoom kỹ thuật số tối đa 10x khi chụp và quay video",
+      "Quay video": "1080p@30fps, 720p@30fps, Time-lapse 1080p@30fps",
+      "Tính năng camera": "Chân dung, Ban đêm, Toàn cảnh, Time-lapse, Hi-Res, Google Lens, Chế độ PRO"
+    },
+    "Camera trước": {
+      "Camera trước": "5MP (f/2.2, FOV 77°, ống kính 3P); Quay video: 720p@30fps; Tính năng: Chân dung, Ban đêm, Toàn cảnh, Nhãn dán (Sticker)"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "UNISOC T7250 (Tiến trình 12nm)",
+      "Loại CPU": "8 nhân (2×1.8GHz Cortex-A75 + 6×1.6GHz Cortex-A55)",
+      "GPU": "ARM Mali-G57 @ 850MHz"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "4GB chuẩn LPDDR4X",
+      "Bộ nhớ trong": "64GB / 128GB chuẩn UFS 2.2; Thẻ nhớ ngoài: Hỗ trợ thẻ nhớ microSDXC & USB OTG"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "7000 mAh (Điển hình) / 6820 mAh (Định mức); Loại pin: Pin Li-Ion siêu dung lượng",
+      "Công nghệ sạc": "Sạc có dây: 15W, PD 15W qua cổng USB Type-C (Hỗ trợ sạc ngược có dây 5W); Sạc không dây: Không hỗ trợ",
+      "Cổng sạc": "USB Type-C 2.0, OTG & Cổng tai nghe 3.5mm"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "ColorOS 15.0 (Nền tảng Android 15)",
+      "Công nghệ - Tiện ích": "Mở rộng RAM ảo, Chế độ siêu tiết kiệm pin, Tối ưu hóa mượt mà ColorOS 15",
+      "Tiện ích khác": "Chưa có thông tin trong dữ liệu gốc",
+      "Thời điểm ra mắt": "2025 – 2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "4G LTE FDD/TDD",
+      "Thẻ SIM": "2 Nano-SIM",
+      "Wi-Fi": "Wi-Fi 5 (802.11ac), Wi-Fi Display, WLAN Tethering",
+      "Bluetooth": "Bluetooth 5.2 BLE (SBC, AAC, LDAC)",
+      "Công nghệ NFC": "Không hỗ trợ",
+      "GPS": "Chưa có thông tin trong dữ liệu gốc"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Mặt trước kính cường lực, khung và mặt lưng nhựa bền bỉ",
+      "Chất liệu mặt lưng": "mặt lưng nhựa bền bỉ",
+      "Kích thước": "166,48 × 78,23 × 8,95 mm; Kiểu dáng: Nguyên khối chắc chắn, họa tiết Nâu Sa Thạch & Tím Lông Vũ",
+      "Trọng lượng": "Nặng 215g",
+      "Chỉ số kháng nước, bụi": "Kháng bụi và tia nước chuẩn IP64"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài âm lượng lớn, cổng tai nghe 3.5mm & hỗ trợ codec LDAC",
+      "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Tiệm cận, Ánh sáng, La bàn số; Bảo mật: Mở khóa khuôn mặt"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,75 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "IPS LCD"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "HD+ (1570 × 720 Pixels, 256 PPI)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "UNISOC T7250 (8 nhân)"
+    },
+    {
+      "label": "RAM",
+      "value": "4GB LPDDR4X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "64GB / 128GB UFS 2.2"
+    },
+    {
+      "label": "Camera sau",
+      "value": "13MP Chính f/2.2 AF"
+    },
+    {
+      "label": "Camera trước",
+      "value": "5MP f/2.2"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "7000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "15W (PD 15W) qua cổng USB Type-C"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 15 (ColorOS 15.0)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "4G LTE, Wi-Fi 5, Bluetooth 5.2"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP64"
+    }
+  ],
+  "verbatimDescription": [
+    "OPPO A6c là mẫu smartphone phổ thông được thiết kế ưu tiên tối đa cho thời lượng pin với viên pin dung lượng lên tới 7000mAh, đáp ứng trọn vẹn nhu cầu liên lạc, học tập và giải trí nhiều ngày liên tục. Thân máy được hoàn thiện chắc chắn, đạt chuẩn kháng bụi và tia nước bắn IP64.",
+    "Mặt trước của OPPO A6c là màn hình rộng 6,75 inch sử dụng tấm nền LCD độ phân giải HD+ (1570 × 720 pixel), đạt tỷ lệ màn hình trên thân máy 90,5%. Màn hình hỗ trợ tần số quét 120Hz cùng tốc độ lấy mẫu cảm ứng 240Hz mượt mà, độ sáng thông thường 700 nit và đạt 900 nit ở chế độ HBM.",
+    "Cung cấp sức mạnh vận hành cho máy là bộ vi xử lý 8 nhân UNISOC T7250 kết hợp cùng nhân đồ họa ARM Mali-G57 @ 850MHz. Đi kèm bộ nhớ RAM 4GB chuẩn LPDDR4X và bộ nhớ trong 64GB/128GB chuẩn UFS 2.2 (hỗ trợ mở rộng qua khe cắm thẻ nhớ microSDXC), thiết bị đáp ứng ổn định các tác vụ cơ bản hàng ngày.",
+    "Về khả năng chụp ảnh, mặt sau của OPPO A6c trang bị camera chính 13MP (khẩu độ f/2.2, góc nhìn 81°, ống kính 4P, hỗ trợ lấy nét tự động AF), cho phép quay video Full HD 1080p@30fps cùng các chế độ Chân dung, Ban đêm, Độ phân giải cao Hi-Res và Google Lens.",
+    "Camera trước 5MP (khẩu độ f/2.2) đáp ứng tốt nhu cầu gọi video và chụp ảnh chân dung tự nhiên. Điểm cộng lớn nhất của OPPO A6c là viên pin 7000mAh (27,16Wh) hỗ trợ sạc 15W (tương thích chuẩn PD 15W) qua cổng USB Type-C và tính năng sạc ngược có dây 5W tiện lợi.",
+    "Vận hành trên hệ điều hành ColorOS 15.0 (Android 15), OPPO A6c còn tích hợp cảm biến vân tay cạnh bên nhạy bén, kết nối Wi-Fi 5 băng tần kép, Bluetooth 5.2 hỗ trợ codec âm thanh độ phân giải cao LDAC và giữ lại giắc cắm tai nghe 3.5mm truyền thống."
+  ],
+  "priceSegment": "entry-level"
+}

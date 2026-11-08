@@ -1,0 +1,123 @@
+{
+  "id": "baseus-starspeed-3-in-1-cable-1-2m-cb000030",
+  "docCode": "PK-CS006-CB000030",
+  "model": "Cáp Sạc Đa Năng Baseus StarSpeed 3-in-1 Fast Charging Cable 1.2m CB000030",
+  "brand": "Baseus",
+  "brandId": "baseus",
+  "parentGroupId": "baseus",
+  "series": "Cáp sạc",
+  "subCategory": "cap-sac",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "cap-sac"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Cáp sạc",
+    "highlights": [
+      "3.5A tổng thể",
+      "USB-A sang 3 đầu sạc",
+      "1.2 m"
+    ],
+    "description": "Cáp sạc đa năng 3 trong 1 tiện lợi cho người dùng nhiều thiết bị cùng lúc hoặc gia đình đi du lịch. Chỉ với một sợi cáp duy nhất, bạn có thể cấp nguồn đồng thời cho iPhone, điện thoại Android và phụ kiện tai nghe cổng Micro-USB. Lõi đồng nguyên chất dày giúp dòng truyền tải ổn định, hạn chế tỏa nhiệt khi sạc nhiều cổng."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 130000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/cap-sac/baseus-starspeed-3-in-1-cable-1-2m-cb000030/anh-dai-dien-baseus-starspeed-3-in-1-cable-1-2m-cb000030-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/cap-sac/baseus-starspeed-3-in-1-cable-1-2m-cb000030/anh-dai-dien-baseus-starspeed-3-in-1-cable-1-2m-cb000030-den.webp",
+      "assets/images/products/accessory/cap-sac/baseus-starspeed-3-in-1-cable-1-2m-cb000030/cam-sac-cung-luc-nhieu-thiet-bi-den.webp",
+      "assets/images/products/accessory/cap-sac/baseus-starspeed-3-in-1-cable-1-2m-cb000030/can-canh-3-dau-sac-lightning-type-c-micro-den.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/accessory/cap-sac/baseus-starspeed-3-in-1-cable-1-2m-cb000030/anh-dai-dien-baseus-starspeed-3-in-1-cable-1-2m-cb000030-den.webp",
+        "assets/images/products/accessory/cap-sac/baseus-starspeed-3-in-1-cable-1-2m-cb000030/cam-sac-cung-luc-nhieu-thiet-bi-den.webp",
+        "assets/images/products/accessory/cap-sac/baseus-starspeed-3-in-1-cable-1-2m-cb000030/can-canh-3-dau-sac-lightning-type-c-micro-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/cap-sac/baseus-starspeed-3-in-1-cable-1-2m-cb000030/cam-sac-cung-luc-nhieu-thiet-bi-den.webp",
+      "screen": "assets/images/products/accessory/cap-sac/baseus-starspeed-3-in-1-cable-1-2m-cb000030/can-canh-3-dau-sac-lightning-type-c-micro-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/cap-sac/baseus-starspeed-3-in-1-cable-1-2m-cb000030/cam-sac-cung-luc-nhieu-thiet-bi-den.webp",
+      "assets/images/products/accessory/cap-sac/baseus-starspeed-3-in-1-cable-1-2m-cb000030/can-canh-3-dau-sac-lightning-type-c-micro-den.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Baseus",
+      "Loại cáp": "USB-A sang 3 đầu sạc (Type-C, Lightning, Micro-USB)",
+      "Cổng kết nối": "Đầu vào USB-A; Đầu ra: USB-C, Lightning, Micro-USB",
+      "Công suất sạc tối đa": "3.5A tổng thể (Hỗ trợ sạc nhanh Type-C và sạc cùng lúc 3 máy)",
+      "Chiều dài dây": "1.2 m",
+      "Tốc độ truyền dữ liệu": "480 Mbps (Hỗ trợ trên cổng Lightning)",
+      "Chất liệu dây": "Dây bọc sợi nylon bện dày dặn, chuôi cắm kim loại",
+      "Màu sắc": "Đen"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Baseus"
+    },
+    {
+      "label": "Loại cáp",
+      "value": "USB-A sang 3 đầu sạc (Type-C, Lightning, Micro-USB)"
+    },
+    {
+      "label": "Cổng kết nối",
+      "value": "Đầu vào USB-A; Đầu ra: USB-C, Lightning, Micro-USB"
+    },
+    {
+      "label": "Công suất sạc tối đa",
+      "value": "3.5A tổng thể (Hỗ trợ sạc nhanh Type-C và sạc cùng lúc 3 máy)"
+    },
+    {
+      "label": "Chiều dài dây",
+      "value": "1.2 m"
+    },
+    {
+      "label": "Tốc độ truyền dữ liệu",
+      "value": "480 Mbps (Hỗ trợ trên cổng Lightning)"
+    },
+    {
+      "label": "Chất liệu dây",
+      "value": "Dây bọc sợi nylon bện dày dặn, chuôi cắm kim loại"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Đen"
+    }
+  ],
+  "verbatimDescription": [
+    "Cáp sạc đa năng 3 trong 1 tiện lợi cho người dùng nhiều thiết bị cùng lúc hoặc gia đình đi du lịch. Chỉ với một sợi cáp duy nhất, bạn có thể cấp nguồn đồng thời cho iPhone, điện thoại Android và phụ kiện tai nghe cổng Micro-USB. Lõi đồng nguyên chất dày giúp dòng truyền tải ổn định, hạn chế tỏa nhiệt khi sạc nhiều cổng."
+  ],
+  "variants": [
+    {
+      "sku": "PK-CS006-CB000030-DEN-TIEU-CHUAN",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 130000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/cap-sac/baseus-starspeed-3-in-1-cable-1-2m-cb000030/anh-dai-dien-baseus-starspeed-3-in-1-cable-1-2m-cb000030-den.webp",
+        "assets/images/products/accessory/cap-sac/baseus-starspeed-3-in-1-cable-1-2m-cb000030/cam-sac-cung-luc-nhieu-thiet-bi-den.webp",
+        "assets/images/products/accessory/cap-sac/baseus-starspeed-3-in-1-cable-1-2m-cb000030/can-canh-3-dau-sac-lightning-type-c-micro-den.webp"
+      ]
+    }
+  ]
+}

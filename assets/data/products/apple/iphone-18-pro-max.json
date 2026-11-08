@@ -1,0 +1,731 @@
+{
+  "id": "iphone-18-pro-max",
+  "brand": "Apple",
+  "brandId": "apple",
+  "parentGroupId": "apple",
+  "model": "iPhone 18 Pro Max",
+  "series": "iPhone 18 Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "flagship"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": true,
+  "rating": 4.9,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Bán chạy",
+      "type": "hot"
+    }
+  ],
+  "overview": {
+    "releaseDate": "09/09/2026",
+    "segment": "Flagship Cao cấp",
+    "description": "Ra mắt vào tháng 9/2026, iPhone 18 Pro Max là mẫu flagship dạng thanh cao cấp và mạnh mẽ nhất của Apple tính đến hiện tại (tháng 11/2026). Không chỉ sở hữu màn hình lớn 6,9 inch, vi xử lý 2nm A20 Pro và hệ thống camera khẩu độ biến thiên vật lý ƒ/1.48–ƒ/4.0, iPhone 18 Pro Max còn lập kỷ lục vô tiền khoáng hậu về thời lượng pin với viên pin vượt ngưỡng 21 Wh (5.391 mAh trên bản VN / 5.567 mAh trên bản Mỹ), mang lại tới 43–45 giờ xem video liên tục. (Nguồn tham chiếu chính thức: Apple Tech Specs - iPhone 18 Pro Max).",
+    "highlights": [
+      "6,9 inch",
+      "A20 Pro",
+      "Pin 5.391 mAh"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 41990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT013-IP18PM-XANH-BANG-256GB",
+      "color": "Xanh Băng",
+      "colorHex": "#BFD8E8",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 41990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-xanh-bang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/kinh-ceramic-shield-mat-truoc-va-sau-xanh-bang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/phu-kien-trong-hop-xanh-bang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/can-canh-ong-kinh-camera-48mp-khau-do-thay-doi.webp",
+        "assets/images/products/apple/iphone-18-pro-max/iPhone-18-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-18-pro-max/thoi-luong-pin-xem-video-43-gio.webp",
+        "assets/images/products/apple/iphone-18-pro-max/vi-xu-ly-apple-a20-pro-tan-nhiet-hieu-qua.webp",
+        "assets/images/products/apple/iphone-18-pro-max/4-tuy-chon-mau-sac-den-bac-xanh-bang-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/tong-quan-tinh-nang-chip-a20-pro-pin-43-gio.webp"
+      ]
+    },
+    {
+      "sku": "DT013-IP18PM-XANH-BANG-512GB",
+      "color": "Xanh Băng",
+      "colorHex": "#BFD8E8",
+      "ram": "12GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 48490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-xanh-bang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/kinh-ceramic-shield-mat-truoc-va-sau-xanh-bang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/phu-kien-trong-hop-xanh-bang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/can-canh-ong-kinh-camera-48mp-khau-do-thay-doi.webp",
+        "assets/images/products/apple/iphone-18-pro-max/iPhone-18-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-18-pro-max/thoi-luong-pin-xem-video-43-gio.webp",
+        "assets/images/products/apple/iphone-18-pro-max/vi-xu-ly-apple-a20-pro-tan-nhiet-hieu-qua.webp",
+        "assets/images/products/apple/iphone-18-pro-max/4-tuy-chon-mau-sac-den-bac-xanh-bang-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/tong-quan-tinh-nang-chip-a20-pro-pin-43-gio.webp"
+      ]
+    },
+    {
+      "sku": "DT013-IP18PM-XANH-BANG-1TB",
+      "color": "Xanh Băng",
+      "colorHex": "#BFD8E8",
+      "ram": "12GB",
+      "storage": "1TB",
+      "rom": "1TB",
+      "price": 61490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-xanh-bang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/kinh-ceramic-shield-mat-truoc-va-sau-xanh-bang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/phu-kien-trong-hop-xanh-bang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/can-canh-ong-kinh-camera-48mp-khau-do-thay-doi.webp",
+        "assets/images/products/apple/iphone-18-pro-max/iPhone-18-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-18-pro-max/thoi-luong-pin-xem-video-43-gio.webp",
+        "assets/images/products/apple/iphone-18-pro-max/vi-xu-ly-apple-a20-pro-tan-nhiet-hieu-qua.webp",
+        "assets/images/products/apple/iphone-18-pro-max/4-tuy-chon-mau-sac-den-bac-xanh-bang-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/tong-quan-tinh-nang-chip-a20-pro-pin-43-gio.webp"
+      ]
+    },
+    {
+      "sku": "DT013-IP18PM-XANH-BANG-2TB",
+      "color": "Xanh Băng",
+      "colorHex": "#BFD8E8",
+      "ram": "12GB",
+      "storage": "2TB",
+      "rom": "2TB",
+      "price": 80990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-xanh-bang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/kinh-ceramic-shield-mat-truoc-va-sau-xanh-bang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/phu-kien-trong-hop-xanh-bang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/can-canh-ong-kinh-camera-48mp-khau-do-thay-doi.webp",
+        "assets/images/products/apple/iphone-18-pro-max/iPhone-18-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-18-pro-max/thoi-luong-pin-xem-video-43-gio.webp",
+        "assets/images/products/apple/iphone-18-pro-max/vi-xu-ly-apple-a20-pro-tan-nhiet-hieu-qua.webp",
+        "assets/images/products/apple/iphone-18-pro-max/4-tuy-chon-mau-sac-den-bac-xanh-bang-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/tong-quan-tinh-nang-chip-a20-pro-pin-43-gio.webp"
+      ]
+    },
+    {
+      "sku": "DT013-IP18PM-DO-RUOU-VANG-256GB",
+      "color": "Đỏ Rượu Vang",
+      "colorHex": "#6D213C",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 41990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/he-thong-camera-pro-dieu-khien-tuy-chinh-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/phu-kien-trong-hop-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/can-canh-ong-kinh-camera-48mp-khau-do-thay-doi.webp",
+        "assets/images/products/apple/iphone-18-pro-max/iPhone-18-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-18-pro-max/thoi-luong-pin-xem-video-43-gio.webp",
+        "assets/images/products/apple/iphone-18-pro-max/vi-xu-ly-apple-a20-pro-tan-nhiet-hieu-qua.webp",
+        "assets/images/products/apple/iphone-18-pro-max/4-tuy-chon-mau-sac-den-bac-xanh-bang-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/tong-quan-tinh-nang-chip-a20-pro-pin-43-gio.webp"
+      ]
+    },
+    {
+      "sku": "DT013-IP18PM-DO-RUOU-VANG-512GB",
+      "color": "Đỏ Rượu Vang",
+      "colorHex": "#6D213C",
+      "ram": "12GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 48490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/he-thong-camera-pro-dieu-khien-tuy-chinh-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/phu-kien-trong-hop-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/can-canh-ong-kinh-camera-48mp-khau-do-thay-doi.webp",
+        "assets/images/products/apple/iphone-18-pro-max/iPhone-18-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-18-pro-max/thoi-luong-pin-xem-video-43-gio.webp",
+        "assets/images/products/apple/iphone-18-pro-max/vi-xu-ly-apple-a20-pro-tan-nhiet-hieu-qua.webp",
+        "assets/images/products/apple/iphone-18-pro-max/4-tuy-chon-mau-sac-den-bac-xanh-bang-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/tong-quan-tinh-nang-chip-a20-pro-pin-43-gio.webp"
+      ]
+    },
+    {
+      "sku": "DT013-IP18PM-DO-RUOU-VANG-1TB",
+      "color": "Đỏ Rượu Vang",
+      "colorHex": "#6D213C",
+      "ram": "12GB",
+      "storage": "1TB",
+      "rom": "1TB",
+      "price": 61490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/he-thong-camera-pro-dieu-khien-tuy-chinh-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/phu-kien-trong-hop-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/can-canh-ong-kinh-camera-48mp-khau-do-thay-doi.webp",
+        "assets/images/products/apple/iphone-18-pro-max/iPhone-18-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-18-pro-max/thoi-luong-pin-xem-video-43-gio.webp",
+        "assets/images/products/apple/iphone-18-pro-max/vi-xu-ly-apple-a20-pro-tan-nhiet-hieu-qua.webp",
+        "assets/images/products/apple/iphone-18-pro-max/4-tuy-chon-mau-sac-den-bac-xanh-bang-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/tong-quan-tinh-nang-chip-a20-pro-pin-43-gio.webp"
+      ]
+    },
+    {
+      "sku": "DT013-IP18PM-DO-RUOU-VANG-2TB",
+      "color": "Đỏ Rượu Vang",
+      "colorHex": "#6D213C",
+      "ram": "12GB",
+      "storage": "2TB",
+      "rom": "2TB",
+      "price": 80990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/he-thong-camera-pro-dieu-khien-tuy-chinh-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/phu-kien-trong-hop-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/can-canh-ong-kinh-camera-48mp-khau-do-thay-doi.webp",
+        "assets/images/products/apple/iphone-18-pro-max/iPhone-18-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-18-pro-max/thoi-luong-pin-xem-video-43-gio.webp",
+        "assets/images/products/apple/iphone-18-pro-max/vi-xu-ly-apple-a20-pro-tan-nhiet-hieu-qua.webp",
+        "assets/images/products/apple/iphone-18-pro-max/4-tuy-chon-mau-sac-den-bac-xanh-bang-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/tong-quan-tinh-nang-chip-a20-pro-pin-43-gio.webp"
+      ]
+    },
+    {
+      "sku": "DT013-IP18PM-BAC-256GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 41990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-bac.webp",
+        "assets/images/products/apple/iphone-18-pro-max/can-canh-ong-kinh-camera-48mp-khau-do-thay-doi.webp",
+        "assets/images/products/apple/iphone-18-pro-max/iPhone-18-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-18-pro-max/thoi-luong-pin-xem-video-43-gio.webp",
+        "assets/images/products/apple/iphone-18-pro-max/vi-xu-ly-apple-a20-pro-tan-nhiet-hieu-qua.webp",
+        "assets/images/products/apple/iphone-18-pro-max/4-tuy-chon-mau-sac-den-bac-xanh-bang-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/tong-quan-tinh-nang-chip-a20-pro-pin-43-gio.webp"
+      ]
+    },
+    {
+      "sku": "DT013-IP18PM-BAC-512GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "12GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 48490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-bac.webp",
+        "assets/images/products/apple/iphone-18-pro-max/can-canh-ong-kinh-camera-48mp-khau-do-thay-doi.webp",
+        "assets/images/products/apple/iphone-18-pro-max/iPhone-18-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-18-pro-max/thoi-luong-pin-xem-video-43-gio.webp",
+        "assets/images/products/apple/iphone-18-pro-max/vi-xu-ly-apple-a20-pro-tan-nhiet-hieu-qua.webp",
+        "assets/images/products/apple/iphone-18-pro-max/4-tuy-chon-mau-sac-den-bac-xanh-bang-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/tong-quan-tinh-nang-chip-a20-pro-pin-43-gio.webp"
+      ]
+    },
+    {
+      "sku": "DT013-IP18PM-BAC-1TB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "12GB",
+      "storage": "1TB",
+      "rom": "1TB",
+      "price": 61490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-bac.webp",
+        "assets/images/products/apple/iphone-18-pro-max/can-canh-ong-kinh-camera-48mp-khau-do-thay-doi.webp",
+        "assets/images/products/apple/iphone-18-pro-max/iPhone-18-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-18-pro-max/thoi-luong-pin-xem-video-43-gio.webp",
+        "assets/images/products/apple/iphone-18-pro-max/vi-xu-ly-apple-a20-pro-tan-nhiet-hieu-qua.webp",
+        "assets/images/products/apple/iphone-18-pro-max/4-tuy-chon-mau-sac-den-bac-xanh-bang-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/tong-quan-tinh-nang-chip-a20-pro-pin-43-gio.webp"
+      ]
+    },
+    {
+      "sku": "DT013-IP18PM-BAC-2TB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "12GB",
+      "storage": "2TB",
+      "rom": "2TB",
+      "price": 80990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-bac.webp",
+        "assets/images/products/apple/iphone-18-pro-max/can-canh-ong-kinh-camera-48mp-khau-do-thay-doi.webp",
+        "assets/images/products/apple/iphone-18-pro-max/iPhone-18-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-18-pro-max/thoi-luong-pin-xem-video-43-gio.webp",
+        "assets/images/products/apple/iphone-18-pro-max/vi-xu-ly-apple-a20-pro-tan-nhiet-hieu-qua.webp",
+        "assets/images/products/apple/iphone-18-pro-max/4-tuy-chon-mau-sac-den-bac-xanh-bang-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/tong-quan-tinh-nang-chip-a20-pro-pin-43-gio.webp"
+      ]
+    },
+    {
+      "sku": "DT013-IP18PM-DEN-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 41990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-den.webp",
+        "assets/images/products/apple/iphone-18-pro-max/can-canh-ong-kinh-camera-48mp-khau-do-thay-doi.webp",
+        "assets/images/products/apple/iphone-18-pro-max/iPhone-18-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-18-pro-max/thoi-luong-pin-xem-video-43-gio.webp",
+        "assets/images/products/apple/iphone-18-pro-max/vi-xu-ly-apple-a20-pro-tan-nhiet-hieu-qua.webp",
+        "assets/images/products/apple/iphone-18-pro-max/4-tuy-chon-mau-sac-den-bac-xanh-bang-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/tong-quan-tinh-nang-chip-a20-pro-pin-43-gio.webp"
+      ]
+    },
+    {
+      "sku": "DT013-IP18PM-DEN-512GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 48490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-den.webp",
+        "assets/images/products/apple/iphone-18-pro-max/can-canh-ong-kinh-camera-48mp-khau-do-thay-doi.webp",
+        "assets/images/products/apple/iphone-18-pro-max/iPhone-18-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-18-pro-max/thoi-luong-pin-xem-video-43-gio.webp",
+        "assets/images/products/apple/iphone-18-pro-max/vi-xu-ly-apple-a20-pro-tan-nhiet-hieu-qua.webp",
+        "assets/images/products/apple/iphone-18-pro-max/4-tuy-chon-mau-sac-den-bac-xanh-bang-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/tong-quan-tinh-nang-chip-a20-pro-pin-43-gio.webp"
+      ]
+    },
+    {
+      "sku": "DT013-IP18PM-DEN-1TB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "1TB",
+      "rom": "1TB",
+      "price": 61490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-den.webp",
+        "assets/images/products/apple/iphone-18-pro-max/can-canh-ong-kinh-camera-48mp-khau-do-thay-doi.webp",
+        "assets/images/products/apple/iphone-18-pro-max/iPhone-18-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-18-pro-max/thoi-luong-pin-xem-video-43-gio.webp",
+        "assets/images/products/apple/iphone-18-pro-max/vi-xu-ly-apple-a20-pro-tan-nhiet-hieu-qua.webp",
+        "assets/images/products/apple/iphone-18-pro-max/4-tuy-chon-mau-sac-den-bac-xanh-bang-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/tong-quan-tinh-nang-chip-a20-pro-pin-43-gio.webp"
+      ]
+    },
+    {
+      "sku": "DT013-IP18PM-DEN-2TB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "2TB",
+      "rom": "2TB",
+      "price": 80990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-den.webp",
+        "assets/images/products/apple/iphone-18-pro-max/can-canh-ong-kinh-camera-48mp-khau-do-thay-doi.webp",
+        "assets/images/products/apple/iphone-18-pro-max/iPhone-18-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-18-pro-max/thoi-luong-pin-xem-video-43-gio.webp",
+        "assets/images/products/apple/iphone-18-pro-max/vi-xu-ly-apple-a20-pro-tan-nhiet-hieu-qua.webp",
+        "assets/images/products/apple/iphone-18-pro-max/4-tuy-chon-mau-sac-den-bac-xanh-bang-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/tong-quan-tinh-nang-chip-a20-pro-pin-43-gio.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "Super Retina XDR OLED ProMotion",
+    "size": "6.9 inch",
+    "resolution": "2868 x 1320 pixels",
+    "refreshRate": "120Hz",
+    "brightness": "3000 nits",
+    "hdr": "HDR10+ / Dolby Vision",
+    "protection": "Ceramic Shield",
+    "features": [
+      "Tần số quét thích ứng",
+      "Bảo vệ mắt"
+    ]
+  },
+  "performance": {
+    "chipset": "Apple A20 Pro (tiến trình 2nm tiên tiến kết hợp hệ thống tản nhiệt buồng hơi diện tích lớn)",
+    "cpu": "6 nhân",
+    "gpu": "Apple GPU 7 nhân",
+    "ram": [
+      "12GB"
+    ],
+    "storage": [
+      "1TB",
+      "256GB",
+      "2TB",
+      "512GB"
+    ],
+    "operatingSystem": "iOS 27 (tháng 09/2026)",
+    "uiVersion": "iOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "48MP Fusion (khẩu độ tuỳ chỉnh f/1.48 - f/4.0)",
+    "ultraWide": "48MP Ultra Wide + 48MP Telephoto (Zoom quang học 16x)",
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "4K 120fps Dolby Vision, ProRes RAW, Apple Log 2"
+    ],
+    "aiFeatures": [
+      "Khẩu độ tuỳ chỉnh 4 mức",
+      "Genlock",
+      "ACES Color"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "18MP Center Stage (f/1.9)",
+    "features": [
+      "Ghi hình kép trước/sau",
+      "Autofocus"
+    ],
+    "videoRecording": [
+      "4K / 1080p"
+    ]
+  },
+  "battery": {
+    "capacity": "Thời lượng xem video lên đến 43 giờ",
+    "wiredCharging": "60W",
+    "wirelessCharging": "25W",
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": "USB Power Delivery / Fast Charge"
+  },
+  "connectivity": {
+    "sim": [
+      "Nano-SIM + eSIM"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 7",
+    "bluetooth": "v5.4",
+    "gps": [
+      "GPS",
+      "GLONASS",
+      "Galileo",
+      "BDS"
+    ],
+    "usb": "USB Type-C 3 (10Gb/s, DisplayPort)",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": null,
+    "weight": null,
+    "materials": [
+      "Nhôm nguyên khối tái chế + Buồng hơi tản nhiệt 3x",
+      "Ceramic Shield"
+    ],
+    "waterResistance": "IP68",
+    "availableColors": [
+      "Đen Titan",
+      "Sa Mạc",
+      "Trắng Bạc"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Face ID 3D"
+  ],
+  "specialFeatures": [
+    "Apple A20 Pro (2nm)",
+    "Super Retina XDR OLED ProMotion 6.9 inch",
+    "Camera 48MP",
+    "Pin Thời lượng xem video lên đến 43 giờ"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Apple tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-xanh-bang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-xanh-bang.webp",
+      "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-bac.webp",
+      "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-den.webp",
+      "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-do-ruou-vang.webp",
+      "assets/images/products/apple/iphone-18-pro-max/kinh-ceramic-shield-mat-truoc-va-sau-xanh-bang.webp",
+      "assets/images/products/apple/iphone-18-pro-max/can-canh-ong-kinh-camera-48mp-khau-do-thay-doi.webp",
+      "assets/images/products/apple/iphone-18-pro-max/he-thong-camera-pro-dieu-khien-tuy-chinh-do-ruou-vang.webp",
+      "assets/images/products/apple/iphone-18-pro-max/iPhone-18-Pro-Max.jpg",
+      "assets/images/products/apple/iphone-18-pro-max/phu-kien-trong-hop-do-ruou-vang.webp",
+      "assets/images/products/apple/iphone-18-pro-max/phu-kien-trong-hop-xanh-bang.webp",
+      "assets/images/products/apple/iphone-18-pro-max/thoi-luong-pin-xem-video-43-gio.webp",
+      "assets/images/products/apple/iphone-18-pro-max/vi-xu-ly-apple-a20-pro-tan-nhiet-hieu-qua.webp",
+      "assets/images/products/apple/iphone-18-pro-max/4-tuy-chon-mau-sac-den-bac-xanh-bang-do-ruou-vang.webp",
+      "assets/images/products/apple/iphone-18-pro-max/tong-quan-tinh-nang-chip-a20-pro-pin-43-gio.webp"
+    ],
+    "byColor": {
+      "Bạc": [
+        "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-bac.webp",
+        "assets/images/products/apple/iphone-18-pro-max/can-canh-ong-kinh-camera-48mp-khau-do-thay-doi.webp",
+        "assets/images/products/apple/iphone-18-pro-max/iPhone-18-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-18-pro-max/thoi-luong-pin-xem-video-43-gio.webp",
+        "assets/images/products/apple/iphone-18-pro-max/vi-xu-ly-apple-a20-pro-tan-nhiet-hieu-qua.webp",
+        "assets/images/products/apple/iphone-18-pro-max/4-tuy-chon-mau-sac-den-bac-xanh-bang-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/tong-quan-tinh-nang-chip-a20-pro-pin-43-gio.webp"
+      ],
+      "Đen": [
+        "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-den.webp",
+        "assets/images/products/apple/iphone-18-pro-max/can-canh-ong-kinh-camera-48mp-khau-do-thay-doi.webp",
+        "assets/images/products/apple/iphone-18-pro-max/iPhone-18-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-18-pro-max/thoi-luong-pin-xem-video-43-gio.webp",
+        "assets/images/products/apple/iphone-18-pro-max/vi-xu-ly-apple-a20-pro-tan-nhiet-hieu-qua.webp",
+        "assets/images/products/apple/iphone-18-pro-max/4-tuy-chon-mau-sac-den-bac-xanh-bang-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/tong-quan-tinh-nang-chip-a20-pro-pin-43-gio.webp"
+      ],
+      "Đỏ Rượu Vang": [
+        "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/he-thong-camera-pro-dieu-khien-tuy-chinh-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/phu-kien-trong-hop-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/can-canh-ong-kinh-camera-48mp-khau-do-thay-doi.webp",
+        "assets/images/products/apple/iphone-18-pro-max/iPhone-18-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-18-pro-max/thoi-luong-pin-xem-video-43-gio.webp",
+        "assets/images/products/apple/iphone-18-pro-max/vi-xu-ly-apple-a20-pro-tan-nhiet-hieu-qua.webp",
+        "assets/images/products/apple/iphone-18-pro-max/4-tuy-chon-mau-sac-den-bac-xanh-bang-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/tong-quan-tinh-nang-chip-a20-pro-pin-43-gio.webp"
+      ],
+      "Xanh Băng": [
+        "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-xanh-bang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/kinh-ceramic-shield-mat-truoc-va-sau-xanh-bang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/phu-kien-trong-hop-xanh-bang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/can-canh-ong-kinh-camera-48mp-khau-do-thay-doi.webp",
+        "assets/images/products/apple/iphone-18-pro-max/iPhone-18-Pro-Max.jpg",
+        "assets/images/products/apple/iphone-18-pro-max/thoi-luong-pin-xem-video-43-gio.webp",
+        "assets/images/products/apple/iphone-18-pro-max/vi-xu-ly-apple-a20-pro-tan-nhiet-hieu-qua.webp",
+        "assets/images/products/apple/iphone-18-pro-max/4-tuy-chon-mau-sac-den-bac-xanh-bang-do-ruou-vang.webp",
+        "assets/images/products/apple/iphone-18-pro-max/tong-quan-tinh-nang-chip-a20-pro-pin-43-gio.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/apple/iphone-18-pro-max/kinh-ceramic-shield-mat-truoc-va-sau-xanh-bang.webp",
+      "screen": "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-bac.webp",
+      "performance": "assets/images/products/apple/iphone-18-pro-max/vi-xu-ly-apple-a20-pro-tan-nhiet-hieu-qua.webp",
+      "camera": "assets/images/products/apple/iphone-18-pro-max/can-canh-ong-kinh-camera-48mp-khau-do-thay-doi.webp",
+      "battery": "assets/images/products/apple/iphone-18-pro-max/phu-kien-trong-hop-do-ruou-vang.webp",
+      "feature": "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-bac.webp",
+      "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-den.webp",
+      "assets/images/products/apple/iphone-18-pro-max/anh-dai-dien-iphone-18-pro-max-do-ruou-vang.webp",
+      "assets/images/products/apple/iphone-18-pro-max/kinh-ceramic-shield-mat-truoc-va-sau-xanh-bang.webp",
+      "assets/images/products/apple/iphone-18-pro-max/can-canh-ong-kinh-camera-48mp-khau-do-thay-doi.webp",
+      "assets/images/products/apple/iphone-18-pro-max/he-thong-camera-pro-dieu-khien-tuy-chinh-do-ruou-vang.webp",
+      "assets/images/products/apple/iphone-18-pro-max/iPhone-18-Pro-Max.jpg",
+      "assets/images/products/apple/iphone-18-pro-max/phu-kien-trong-hop-do-ruou-vang.webp",
+      "assets/images/products/apple/iphone-18-pro-max/phu-kien-trong-hop-xanh-bang.webp",
+      "assets/images/products/apple/iphone-18-pro-max/thoi-luong-pin-xem-video-43-gio.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.apple.com/vn/iphone/",
+      "https://www.thegioididong.com/dtdd-apple-iphone-18-series",
+      "https://www.apple.com/vn/iphone/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "verified",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT013-IP18PM",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "LTPO Super Retina XDR OLED",
+      "Kích thước màn hình": "6,9 inch",
+      "Độ phân giải màn hình": "2868 x 1320 pixel (tỷ lệ 19,5:9)",
+      "Tần số quét": "ProMotion thích ứng 1Hz – 120Hz",
+      "Kiểu màn hình": "Màn hình phẳng Dynamic Island thu gọn",
+      "Tính năng màn hình": "Always-On Display, Dolby Vision, HDR10+/HDR10, HLG, độ sáng 1.000 nit (tiêu chuẩn) / 1.600 nit (HDR) / 3.000 nit (ngoài trời) / tối thiểu 1 nit, True Tone, dải màu P3"
+    },
+    "Camera sau": {
+      "Camera sau": "3 camera 48MP Pro Fusion: Chính 48MP (24mm, khẩu độ vật lý thay đổi ƒ/1.48–ƒ/4.0, sensor-shift OIS 2) + Ultra Wide 48MP + Telephoto 48MP (zoom quang 4x/8x), cảm biến LiDAR",
+      "Quay video": "4K Dolby Vision 24/25/30/60/100/120fps; Cinematic mode 4K 60fps; ProRes 4K 120fps (ghi ngoài), ProRes RAW, Apple Log 2, ACES, Genlock; Dual Capture 4K 30fps; Spatial Video 1080p 30fps",
+      "Tính năng camera": "Điều khiển Pro khẩu độ vật lý, Phong Cách Nhiếp Ảnh thế hệ 3, Apple ProRAW 48MP, Macro 48MP, Spatial Photos, Night mode; Zoom quang học 8x (dải 16x), zoom số 40x (ảnh) và 24x (video)"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera 18MP Center Stage TrueDepth thu gọn (ƒ/1.9); quay 4K Dolby Vision 24/25/30/60fps, Cinematic mode 4K 30fps, ProRes 4K 60fps, Apple Log 2, Dual Capture"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Apple A20 Pro (2nm), tản nhiệt buồng hơi diện tích lớn",
+      "Loại CPU": "CPU 6 lõi: 2 lõi siêu xử lý (Super cores) + 4 lõi tiết kiệm điện",
+      "GPU": "Apple GPU 7 lõi tích hợp Neural Accelerators và dò tia phần cứng (Ray Tracing)"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "12GB LPDDR5X",
+      "Bộ nhớ trong": "4 phiên bản: 256GB, 512GB, 1TB và 2TB chuẩn NVMe"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.391 mAh (bản Nano-SIM + eSIM, xem video 43 giờ) / 5.567 mAh (bản eSIM, xem video 45 giờ)",
+      "Công nghệ sạc": "Sạc nhanh USB-C PD 3.2 AVS (50% pin trong 15 phút với củ sạc 60W+); Sạc không dây MagSafe 25W và Qi2 25W",
+      "Cổng sạc": "USB-C chuẩn USB 3 (tốc độ lên đến 10Gb/s), hỗ trợ xuất hình DisplayPort 4K HDR"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "iOS 27 (tháng 09/2026)",
+      "Công nghệ - Tiện ích": "Hỗ trợ đầy đủ Apple Intelligence và Siri AI trên iOS 27, Dynamic Island thu gọn",
+      "Tiện ích khác": "Nút Tác Vụ (Action Button), Nút Điều Khiển Camera (Camera Control), SOS khẩn cấp qua vệ tinh, Phát Hiện Va Chạm",
+      "Thời điểm ra mắt": "09/09/2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G sub-6GHz 4x4 MIMO (Modem Apple C2 trên bản VN/Quốc tế), Gigabit LTE",
+      "Thẻ SIM": "SIM kép (1 Nano-SIM + eSIM hoặc 2 eSIM hoạt động đồng thời)",
+      "Wi-Fi": "Chip Apple N1 hỗ trợ Wi-Fi 7 (802.11be) 2x2 MIMO, Thread",
+      "Bluetooth": "Bluetooth 6.0",
+      "Công nghệ NFC": "Có hỗ trợ NFC",
+      "GPS": "GPS tần số kép (L1+L5), GLONASS, Galileo, QZSS, BeiDou"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung nhôm nguyên khối (Aluminum unibody) tích hợp buồng hơi tản nhiệt",
+      "Chất liệu mặt lưng": "Mặt lưng kính Ceramic Shield, mặt trước Ceramic Shield 2",
+      "Kích thước": "163,4 x 78,0 x 8,75 mm",
+      "Trọng lượng": "249 gram",
+      "Chỉ số kháng nước, bụi": "IP68 theo chuẩn IEC 60529 (tối đa 6 mét trong 30 phút)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài Stereo, hỗ trợ Spatial Audio, Dolby Atmos, APAC, Apple Lossless, FLAC",
+      "Cảm biến vân tay": "Không trang bị (Bảo mật khuôn mặt Face ID 3D)",
+      "Các loại cảm biến": "Face ID, Cảm biến LiDAR, Áp kế, Con quay hồi chuyển, Gia tốc kế, Cảm biến tiệm cận, Cảm biến ánh sáng kép, Từ kế"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,9 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "LTPO Super Retina XDR OLED"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2868 x 1320 pixel"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Apple A20 Pro"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "4 phiên bản: 256GB, 512GB, 1TB và 2TB NVMe"
+    },
+    {
+      "label": "Camera sau",
+      "value": "3 camera 48MP Pro Fusion (khẩu độ thay đổi ƒ/1.48–ƒ/4.0)"
+    },
+    {
+      "label": "Camera trước",
+      "value": "18MP Center Stage TrueDepth, khẩu độ ƒ/1.9"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.391 mAh (bản Nano-SIM) / 5.567 mAh (bản eSIM)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh USB-C 60W (PD 3.2 AVS), MagSafe / Qi2 25W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "iOS 27"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G (Modem Apple C2)"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 (6 mét trong 30 phút)"
+    }
+  ],
+  "verbatimDescription": [
+    "Ra mắt vào tháng 9/2026, iPhone 18 Pro Max là mẫu flagship dạng thanh cao cấp và mạnh mẽ nhất của Apple tính đến hiện tại (tháng 11/2026). Không chỉ sở hữu màn hình lớn 6,9 inch, vi xử lý 2nm A20 Pro và hệ thống camera khẩu độ biến thiên vật lý ƒ/1.48–ƒ/4.0, iPhone 18 Pro Max còn lập kỷ lục vô tiền khoáng hậu về thời lượng pin với viên pin vượt ngưỡng 21 Wh (5.391 mAh trên bản VN / 5.567 mAh trên bản Mỹ), mang lại tới 43–45 giờ xem video liên tục. (Nguồn tham chiếu chính thức: Apple Tech Specs - iPhone 18 Pro Max).",
+    "iPhone 18 Pro Max sở hữu thân máy nhôm nguyên khối (Aluminum unibody) kết hợp mặt trước Ceramic Shield 2 và mặt lưng Ceramic Shield với kích thước 163,4 x 78,0 x 8,75 mm, trọng lượng 249 gram. Máy mang đến 4 phiên bản màu sắc lịch lãm: Đen (Black), Bạc (Silver), Xanh Băng Giá (Glacier) và Đỏ Burgundy (Burgundy). Mặt trước là màn hình LTPO Super Retina XDR OLED 6,9 inch (2868 x 1320 pixel, 460 ppi, ProMotion 1–120Hz, Always-On Display) đạt độ sáng đỉnh ngoài trời 3.000 nit, tích hợp lớp phủ chống phản chiếu và cụm Dynamic Island thu gọn mới hiển thị tới 3 Hoạt động trực tiếp.",
+    "Trái tim của iPhone 18 Pro Max là vi xử lý Apple A20 Pro (tiến trình 2nm) với 6 nhân CPU (2 lõi siêu xử lý super cores + 4 lõi tiết kiệm điện), 7 nhân GPU tích hợp Neural Accelerators cùng Ray Tracing phần cứng, và Bộ đôi Neural Engine 16 lõi (Dual 16-core Neural Engine). Kết hợp cùng 12GB RAM LPDDR5X, buồng hơi tản nhiệt diện tích lớn và các mức dung lượng lưu trữ 256GB, 512GB, 1TB, 2TB, thiết bị xử lý tức thì mọi mô hình ngôn ngữ lớn của Apple Intelligence cũng như các dự án dựng phim 4K 120fps nặng nhất.",
+    "Hệ thống 3 camera 48MP Pro Fusion của iPhone 18 Pro Max tương đồng hoàn toàn với bản 18 Pro: Camera chính 48MP (24mm) trang bị khẩu độ thay đổi vật lý ở 4 mức (ƒ/1.48, ƒ/1.8, ƒ/2.8, ƒ/4.0) cùng chứng thực ảnh gốc Apple Reference Image; Camera góc siêu rộng 48MP (13mm, ƒ/2.2, chụp Macro 48MP); và Camera Telephoto tetraprism 48MP (100mm zoom 4x và 200mm zoom 8x chất lượng quang học, zoom số 40x cho ảnh và 24x cho video). Máy hỗ trợ giao diện điều khiển Pro (Pro controls), quay Cinematic mode 4K 60fps Dolby Vision, ProRes 4K 120fps, ProRes RAW, Apple Log 2, Genlock và Ghi Hình Kép cùng camera trước 18MP Center Stage.",
+    "iPhone 18 Pro Max là chiếc iPhone có dung lượng pin lớn nhất từng được chế tạo: bản chính hãng Việt Nam/Quốc tế (Model A3717 có khay Nano-SIM) đạt 5.391 mAh (21,063 Wh) cho phép sử dụng hỗn hợp liên tục 29 giờ và xem video lên đến 43 giờ (trực tuyến 38 giờ); bản Mỹ (chỉ eSIM) đạt 5.567 mAh (21,751 Wh) cho thời gian xem video lên tới 45 giờ. Đáng chú ý, do dung lượng pin vượt mốc 20 Wh của quy định hàng không quốc tế đối với pin đơn, Apple tích hợp chế độ giới hạn dung lượng tạm thời khi vận chuyển cho đến khi người dùng kích hoạt máy lần đầu. Máy sạc nhanh đạt 50% pin chỉ trong 15 phút với củ sạc 60W+ (AVS) và sạc không dây MagSafe/Qi2 25W.",
+    "Chạy hệ điều hành iOS 27 (phiên bản iOS 27.2 tính đến tháng 11/2026), iPhone 18 Pro Max bản chính hãng Việt Nam sử dụng modem 5G Apple C2 thế hệ mới kết hợp chip mạng không dây Apple N1 (Wi-Fi 7, Bluetooth 6.0, Thread), GPS tần số kép L1+L5, cổng USB 3 (10Gb/s) và khay SIM kép (1 Nano-SIM vật lý + eSIM)."
+  ],
+  "priceSegment": "flagship"
+}

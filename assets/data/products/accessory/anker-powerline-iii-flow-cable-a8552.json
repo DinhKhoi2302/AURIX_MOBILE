@@ -1,0 +1,215 @@
+{
+  "id": "anker-powerline-iii-flow-cable-a8552",
+  "docCode": "PK-CS002-A8552",
+  "model": "Cáp Sạc Anker PowerLine III Flow USB-C to Lightning 0.9m A8552",
+  "brand": "Anker",
+  "brandId": "anker",
+  "parentGroupId": "anker",
+  "series": "Cáp sạc",
+  "subCategory": "cap-sac",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "cap-sac"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Cáp sạc",
+    "highlights": [
+      "30W",
+      "USB-C to Lightning",
+      "0.9 m"
+    ],
+    "description": "Dòng cáp Flow cao cấp nổi tiếng với bề mặt phủ silicone siêu mềm mịn chạm tay tựa như lụa, chống rối tuyệt đối ngay cả khi cuộn tròn bỏ trong túi xách. Đạt chứng nhận MFi chuẩn Apple, cho tốc độ sạc nhanh 50% pin chỉ trong 30 phút cho iPhone. Cấu trúc lõi graphene siêu bền chịu được sức kéo 100kg và hơn 25.000 lần uốn gập."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 350000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/anh-dai-dien-anker-powerline-iii-flow-cable-a8552-trang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/anh-dai-dien-anker-powerline-iii-flow-cable-a8552-trang.webp",
+      "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/anh-dai-dien-anker-powerline-iii-flow-cable-a8552-den.webp",
+      "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/anh-dai-dien-anker-powerline-iii-flow-cable-a8552-tim.webp",
+      "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/anh-dai-dien-anker-powerline-iii-flow-cable-a8552-xanh-duong.webp",
+      "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/anh-dai-dien-anker-powerline-iii-flow-cable-a8552-xanh-ngoc.webp",
+      "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/day-cap-silicon-mem-mai-trang.webp",
+      "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/do-ben-25000-lan-uon-cong-den.webp",
+      "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/sac-nhanh-100w-cho-laptop-xam-den.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/anh-dai-dien-anker-powerline-iii-flow-cable-a8552-den.webp",
+        "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/do-ben-25000-lan-uon-cong-den.webp",
+        "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/sac-nhanh-100w-cho-laptop-xam-den.webp"
+      ],
+      "Tím": [
+        "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/anh-dai-dien-anker-powerline-iii-flow-cable-a8552-tim.webp",
+        "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/sac-nhanh-100w-cho-laptop-xam-den.webp"
+      ],
+      "Trắng": [
+        "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/anh-dai-dien-anker-powerline-iii-flow-cable-a8552-trang.webp",
+        "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/day-cap-silicon-mem-mai-trang.webp",
+        "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/sac-nhanh-100w-cho-laptop-xam-den.webp"
+      ],
+      "Xanh Dương": [
+        "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/anh-dai-dien-anker-powerline-iii-flow-cable-a8552-xanh-duong.webp",
+        "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/sac-nhanh-100w-cho-laptop-xam-den.webp"
+      ],
+      "Xanh Ngọc": [
+        "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/anh-dai-dien-anker-powerline-iii-flow-cable-a8552-xanh-ngoc.webp",
+        "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/sac-nhanh-100w-cho-laptop-xam-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/anh-dai-dien-anker-powerline-iii-flow-cable-a8552-den.webp",
+      "screen": "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/anh-dai-dien-anker-powerline-iii-flow-cable-a8552-tim.webp",
+      "performance": "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/day-cap-silicon-mem-mai-trang.webp",
+      "camera": "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/anh-dai-dien-anker-powerline-iii-flow-cable-a8552-xanh-duong.webp",
+      "battery": "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/sac-nhanh-100w-cho-laptop-xam-den.webp",
+      "feature": "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/anh-dai-dien-anker-powerline-iii-flow-cable-a8552-xanh-ngoc.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/anh-dai-dien-anker-powerline-iii-flow-cable-a8552-den.webp",
+      "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/anh-dai-dien-anker-powerline-iii-flow-cable-a8552-tim.webp",
+      "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/anh-dai-dien-anker-powerline-iii-flow-cable-a8552-xanh-duong.webp",
+      "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/anh-dai-dien-anker-powerline-iii-flow-cable-a8552-xanh-ngoc.webp",
+      "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/day-cap-silicon-mem-mai-trang.webp",
+      "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/do-ben-25000-lan-uon-cong-den.webp",
+      "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/sac-nhanh-100w-cho-laptop-xam-den.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Anker",
+      "Loại cáp": "USB-C to Lightning",
+      "Cổng kết nối": "USB-C sang Lightning (Chứng nhận Apple MFi)",
+      "Công suất sạc tối đa": "30W (Sạc nhanh chuẩn PD cho iPhone/iPad)",
+      "Chiều dài dây": "0.9 m",
+      "Tốc độ truyền dữ liệu": "480 Mbps",
+      "Chất liệu dây": "Vỏ silicone siêu mềm mịn, lõi sợi graphene gia cường",
+      "Màu sắc": "Đen, Tím, Trắng, Xanh dương, Xanh ngọc"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Anker"
+    },
+    {
+      "label": "Loại cáp",
+      "value": "USB-C to Lightning"
+    },
+    {
+      "label": "Cổng kết nối",
+      "value": "USB-C sang Lightning (Chứng nhận Apple MFi)"
+    },
+    {
+      "label": "Công suất sạc tối đa",
+      "value": "30W (Sạc nhanh chuẩn PD cho iPhone/iPad)"
+    },
+    {
+      "label": "Chiều dài dây",
+      "value": "0.9 m"
+    },
+    {
+      "label": "Tốc độ truyền dữ liệu",
+      "value": "480 Mbps"
+    },
+    {
+      "label": "Chất liệu dây",
+      "value": "Vỏ silicone siêu mềm mịn, lõi sợi graphene gia cường"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Đen, Tím, Trắng, Xanh dương, Xanh ngọc"
+    }
+  ],
+  "verbatimDescription": [
+    "Dòng cáp Flow cao cấp nổi tiếng với bề mặt phủ silicone siêu mềm mịn chạm tay tựa như lụa, chống rối tuyệt đối ngay cả khi cuộn tròn bỏ trong túi xách. Đạt chứng nhận MFi chuẩn Apple, cho tốc độ sạc nhanh 50% pin chỉ trong 30 phút cho iPhone. Cấu trúc lõi graphene siêu bền chịu được sức kéo 100kg và hơn 25.000 lần uốn gập."
+  ],
+  "variants": [
+    {
+      "sku": "PK-CS002-A8552-TRANG-TIEU-CHUAN",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 350000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/anh-dai-dien-anker-powerline-iii-flow-cable-a8552-trang.webp",
+        "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/day-cap-silicon-mem-mai-trang.webp",
+        "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/sac-nhanh-100w-cho-laptop-xam-den.webp"
+      ]
+    },
+    {
+      "sku": "PK-CS002-A8552-DEN-TIEU-CHUAN",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 350000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/anh-dai-dien-anker-powerline-iii-flow-cable-a8552-den.webp",
+        "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/do-ben-25000-lan-uon-cong-den.webp",
+        "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/sac-nhanh-100w-cho-laptop-xam-den.webp"
+      ]
+    },
+    {
+      "sku": "PK-CS002-A8552-TIM-TIEU-CHUAN",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 350000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/anh-dai-dien-anker-powerline-iii-flow-cable-a8552-tim.webp",
+        "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/sac-nhanh-100w-cho-laptop-xam-den.webp"
+      ]
+    },
+    {
+      "sku": "PK-CS002-A8552-XANH-DUONG-TIEU-CHUAN",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 350000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/anh-dai-dien-anker-powerline-iii-flow-cable-a8552-xanh-duong.webp",
+        "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/sac-nhanh-100w-cho-laptop-xam-den.webp"
+      ]
+    },
+    {
+      "sku": "PK-CS002-A8552-XANH-NGOC-TIEU-CHUAN",
+      "color": "Xanh Ngọc",
+      "colorHex": "#48B5A3",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 350000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/anh-dai-dien-anker-powerline-iii-flow-cable-a8552-xanh-ngoc.webp",
+        "assets/images/products/accessory/cap-sac/anker-powerline-iii-flow-cable-a8552/sac-nhanh-100w-cho-laptop-xam-den.webp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "id": "lenovo-idea-tab-wifi",
+  "docCode": "TB-LN003-IDTAB",
+  "model": "Lenovo Idea Tab Wi-Fi",
+  "brand": "Lenovo",
+  "brandId": "lenovo",
+  "parentGroupId": "lenovo",
+  "series": "Lenovo Idea Tab & Tab Series",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "11.0 inch",
+      "Helio G99",
+      "Pin 7.700 mAh"
+    ],
+    "description": "Lenovo Idea Tab Wi-Fi là chiếc máy tính bảng phổ thông lý tưởng dành cho mọi thành viên trong gia đình. Thiết kế mặt lưng kim loại chia hai tông màu tương phản độc đáo mang lại diện mạo trẻ trung, hiện đại và chống trơn trượt hiệu quả khi cầm tay.",
+    "releaseDate": "2024 / 2025"
+  },
+  "performance": {
+    "chipset": "MediaTek Helio G99 (tiến trình 6nm ổn định)",
+    "ram": [
+      "6GB",
+      "8GB"
+    ],
+    "storage": [
+      "128GB"
+    ],
+    "operatingSystem": "Android 13 / 14 (ZUI thân thiện)"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 4890000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/anh-dai-dien-lenovo-idea-tab-wifi-xam.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/anh-dai-dien-lenovo-idea-tab-wifi-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/mat-truoc-nam-ngang-nghieng-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/canh-ben-nam-ngang-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/canh-ben-thang-dung-phai-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/canh-ben-thang-dung-trai-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/canh-tren-nut-bam-nam-ngang-xam.webp"
+    ],
+    "byColor": {
+      "Xám": [
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/anh-dai-dien-lenovo-idea-tab-wifi-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/mat-truoc-nam-ngang-nghieng-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/canh-ben-nam-ngang-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/canh-ben-thang-dung-phai-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/canh-ben-thang-dung-trai-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/canh-tren-nut-bam-nam-ngang-xam.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/canh-ben-nam-ngang-xam.webp",
+      "screen": "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/mat-truoc-nam-ngang-nghieng-xam.webp",
+      "performance": "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/canh-tren-nut-bam-nam-ngang-xam.webp",
+      "camera": "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/canh-ben-thang-dung-phai-xam.webp",
+      "battery": "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/canh-ben-thang-dung-trai-xam.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/mat-truoc-nam-ngang-nghieng-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/canh-ben-nam-ngang-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/canh-ben-thang-dung-phai-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/canh-ben-thang-dung-trai-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/canh-tren-nut-bam-nam-ngang-xam.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "11,0 inch IPS LCD 2K (2000 x 1200 pixel), tỷ lệ 15:9, tần số quét 90Hz mượt mà, độ sáng 400 nit, độ phủ màu 72% NTSC",
+      "Tính năng màn hình": "Tần số quét 90Hz, chứng nhận bảo vệ mắt phần cứng TÜV Rheinland Low Blue Light, chế độ Đọc sách (Reading Mode) tái tạo hiệu ứng trang sách giấy"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "MediaTek Helio G99 kiến trúc 6nm tiết kiệm điện năng và tối ưu nhiệt độ",
+      "CPU & Đồ họa": "Octa-core 2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55, GPU Mali-G57 MC2",
+      "Hệ điều hành khi ra mắt": "Android 13 nâng cấp lên Android 14 với giao diện ZUI tối ưu màn hình lớn"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "6GB / 8GB RAM LPDDR4X",
+      "Bộ nhớ trong": "128GB bộ nhớ flash, có khe thẻ nhớ cắm ngoài MicroSD chuyên dụng"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "8MP tự động lấy nét, quay phim Full HD 1080p",
+      "Camera trước": "8MP góc rộng tối ưu gọi video học tập",
+      "Chi tiết hệ thống Camera": "Camera chính sau 8MP f/2.0 có AF; Camera trước 8MP f/2.0 góc rộng sắc nét"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "7.700 mAh, sạc nhanh 20W qua cổng USB-C",
+      "Pin và công nghệ sạc": "Pin Lithium Polymer 7.700 mAh, sạc nhanh công suất 20W"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Tương thích bút cảm ứng điện dung và bút stylus của Lenovo",
+      "Hỗ trợ bàn phím rời": "Kết nối bàn phím không dây qua Bluetooth",
+      "Công nghệ âm thanh": "Hệ thống 4 loa Stereo bố trí ở 4 góc máy được tinh chỉnh bởi công nghệ âm thanh vòm Dolby Atmos, đi kèm giắc cắm tai nghe 3.5mm tiện lợi",
+      "Thuộc tính đặc biệt": "Thiết kế nhôm hai tông màu trẻ trung, hệ thống 4 loa Dolby Atmos, chế độ học tập dành cho trẻ em"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Wi-Fi 5 (802.11 a/b/g/n/ac) băng tần kép",
+      "Thẻ SIM": "Không hỗ trợ (Bản Wi-Fi)",
+      "Kết nối không dây & Cổng giao tiếp": "Wi-Fi 802.11 a/b/g/n/ac 2.4/5GHz, Bluetooth 5.2, cổng Type-C 2.0 có OTG, jack tai nghe 3.5mm",
+      "Công nghệ - Tiện ích": "Chế độ Google Kids Space cho trẻ em học tập giải trí an toàn, chế độ đọc Reading Mode"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Thiết kế 2 tông màu thời trang, mỏng 7.4 mm, kích thước 258.4 x 163 x 7.4 mm, trọng lượng 465 g",
+      "Bảo mật và độ bền": "Mở khóa nhận diện khuôn mặt Face Unlock, thân kim loại nhôm bền chắc",
+      "Thời điểm ra mắt": "Năm 2024 / 2025"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "11.0 inch IPS LCD, độ phân giải 2K sắc nét 2000 x 1200 pixels"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Tần số quét 90Hz, chứng nhận bảo vệ mắt TÜV Rheinland Low Blue Light, độ sáng 400 nits"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Helio G99 (tiến trình 6nm ổn định)"
+    },
+    {
+      "label": "RAM",
+      "value": "6GB / 8GB LPDDR4X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB (Hỗ trợ thẻ nhớ MicroSD lên đến 1TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "8MP tự động lấy nét, quay phim Full HD 1080p"
+    },
+    {
+      "label": "Camera trước",
+      "value": "8MP góc rộng tối ưu gọi video học tập"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Pin Lithium Polymer 7.700 mAh, sạc nhanh công suất 20W"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Wi-Fi 5 (802.11 a/b/g/n/ac) băng tần kép"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Tương thích bút cảm ứng điện dung và bút stylus của Lenovo"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Kết nối bàn phím không dây qua Bluetooth"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 13 / 14 (ZUI thân thiện)"
+    }
+  ],
+  "verbatimDescription": [
+    "Lenovo Idea Tab Wi-Fi là chiếc máy tính bảng phổ thông lý tưởng dành cho mọi thành viên trong gia đình. Thiết kế mặt lưng kim loại chia hai tông màu tương phản độc đáo mang lại diện mạo trẻ trung, hiện đại và chống trơn trượt hiệu quả khi cầm tay.",
+    "Màn hình kích thước 11 inch chuẩn 2K sắc nét kết hợp cùng tần số quét 90Hz mang lại trải nghiệm thị giác mượt mà cho việc xem video bài giảng, đọc báo và giải trí hàng ngày. Màn hình đạt chứng nhận TÜV Rheinland giúp bảo vệ đôi mắt của trẻ nhỏ khi học tập online kéo dài.",
+    "Trang bị vi xử lý Helio G99 sản xuất trên tiến trình 6nm tối ưu, máy xử lý trơn tru các ứng dụng học tập trực tuyến, duyệt web đa tab và chơi các tựa game giải trí nhẹ nhàng. Hệ thống 4 loa stereo Dolby Atmos mang lại chất lượng âm thanh trong trẻo, to rõ cho cả gia đình cùng thưởng thức.",
+    "Viên pin dung lượng 7.700 mAh bền bỉ cho thời lượng sử dụng trọn vẹn cả ngày dài, đi kèm chế độ Google Kids Space với nội dung phong phú được kiểm duyệt kỹ càng, biến chiếc tablet thành người bạn đồng hành giáo dục tin cậy cho con trẻ.",
+    "Về âm thanh và đàm thoại, Lenovo Idea Tab Wi-Fi được trang bị hệ thống 4 loa ngoài Stereo hỗ trợ công nghệ Dolby Atmos tạo hiệu ứng âm thanh vòm sống động khi xem phim và nghe nhạc. Camera trước 8MP góc rộng được đặt ở cạnh ngang giúp khung hình luôn cân đối khi học sinh tham gia lớp học trực tuyến hay gọi video call.",
+    "Nền tảng phần mềm ZUI tối ưu cho máy tính bảng hỗ trợ tính năng chia đôi màn hình Split Screen và cửa sổ nổi để vừa tra cứu từ điển vừa đọc tài liệu PDF, đồng thời giữ lại cổng cắm tai nghe 3.5mm và khe thẻ nhớ microSD mở rộng tới 1TB vô cùng thực dụng."
+  ],
+  "variants": [
+    {
+      "sku": "TB-LN003-IDTAB-XAM-6GB-128GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 4890000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/anh-dai-dien-lenovo-idea-tab-wifi-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/mat-truoc-nam-ngang-nghieng-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/canh-ben-nam-ngang-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/canh-ben-thang-dung-phai-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/canh-ben-thang-dung-trai-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/canh-tren-nut-bam-nam-ngang-xam.webp"
+      ]
+    },
+    {
+      "sku": "TB-LN003-IDTAB-XAM-8GB-128GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 5490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/anh-dai-dien-lenovo-idea-tab-wifi-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/mat-truoc-nam-ngang-nghieng-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/canh-ben-nam-ngang-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/canh-ben-thang-dung-phai-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/canh-ben-thang-dung-trai-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-wifi/canh-tren-nut-bam-nam-ngang-xam.webp"
+      ]
+    }
+  ]
+}

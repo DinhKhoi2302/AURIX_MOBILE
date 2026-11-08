@@ -1,0 +1,324 @@
+{
+  "id": "motorola-edge-70-fusion",
+  "brand": "Motorola",
+  "brandId": "motorola",
+  "parentGroupId": "motorola",
+  "model": "Motorola Edge 70 Fusion",
+  "series": "Motorola Edge",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "upper-midrange",
+    "5g-ready"
+  ],
+  "status": "needs_verification",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 19,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2026",
+    "segment": "Cận cao cấp",
+    "description": "Ra mắt tháng 3/2026, Motorola Edge 70 Fusion nâng cấp vượt bậc dòng Edge Fusion với màn hình 6,78 inch P-OLED 1.5K 144Hz chuẩn màu Pantone, vi xử lý Qualcomm Snapdragon 7s Gen 3 (4nm), cụm camera 50MP Sony LYTIA OIS và đặc biệt là viên pin Silicon-Carbon dung lượng lên tới 7.000 mAh trong thân máy chuẩn kháng nước IP68/IP69. (Lưu ý: Model đang ở trạng thái chờ xác minh cấu hình mở bán tại Việt Nam; thông số được đối chiếu từ GSMArena).",
+    "highlights": [
+      "6,78 inch P-OLED 144Hz",
+      "Snapdragon 7s Gen 3",
+      "Pin 7.000 mAh / Sony LYTIA OIS"
+    ],
+    "officialDistribution": "Model được bảo lưu từ danh sách trước nhưng chưa đủ bằng chứng đang mở bán chính thức trong lượt đối chiếu ngày 01/11/2026; giữ trạng thái needs_verification để không mất dấu dữ liệu."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": null,
+    "originalPrice": null,
+    "promotionPrice": null,
+    "priceUpdatedAt": "2026-11-01",
+    "priceVerified": false
+  },
+  "variants": [
+    {
+      "sku": "AUR-MOT-EDGE-70-FUSION-RAM-STD-01",
+      "color": "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)",
+      "colorHex": "#102347",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "price": null,
+      "originalPrice": null,
+      "stockStatus": "needs_verification",
+      "images": [
+        "assets/images/placeholders/placeholder-default.svg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "P-OLED 1 tỷ màu (10-bit), 144Hz, HDR10+, 4.500 nit",
+    "size": "6,78 inch",
+    "resolution": "2712 x 1220 pixel (1.5K Super HD, 439 ppi)",
+    "refreshRate": "144Hz",
+    "brightness": "Chuẩn màu Pantone Validated, HDR10+, độ sáng đỉnh 4.500 nit, cảm ứng khi tay ướt Water Touch",
+    "hdr": "HDR10+ / HLG",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 7s Gen 3 (4nm)",
+    "cpu": "CPU 8 nhân: 1 nhân Cortex-A720 (2,5 GHz) + 3 nhân Cortex-A720 (2,4 GHz) + 4 nhân Cortex-A520 (1,8 GHz)",
+    "gpu": "Qualcomm Adreno 810 xử lý đồ họa mượt mà",
+    "ram": [
+      "8GB"
+    ],
+    "storage": [
+      "256GB"
+    ],
+    "operatingSystem": "Android 16 (Giao diện Hello UI)",
+    "uiVersion": "Android",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Chính Sony LYTIA OIS + 13MP Góc siêu rộng 120° & Macro",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "Quay video 4K ở 30fps, 1080p ở 30/60/120fps; Chống rung OIS + EIS và khóa đường chân trời Horizon Lock"
+    ],
+    "aiFeatures": [
+      "Chứng nhận màu sắc Pantone Validated, Moto AI Photo Enhancement, Night Vision, Chân dung đa tiêu cự"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "32MP (ƒ/2.2), quay 4K 30fps",
+    "features": [
+      "Camera Selfie 32MP (khẩu độ ƒ/2.2, công nghệ Quad Pixel); Hỗ trợ HDR và quay video 4K@30fps, 1080p@30/60fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "7.000 mAh (Pin Silicon-Carbon siêu lớn)",
+    "wiredCharging": "Sạc siêu nhanh 68W TurboPower",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc nhanh có dây 68W TurboPower qua cổng Type-C"
+  },
+  "connectivity": {
+    "sim": [
+      "SIM kép (Nano-SIM + eSIM hoặc 2 Nano-SIM)"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 6E (802.11 a/b/g/n/ac/ax) ba băng tần",
+    "bluetooth": "Bluetooth 5.4 hỗ trợ aptX HD, aptX Adaptive",
+    "gps": [
+      "GPS, GLONASS, GALILEO, BDS"
+    ],
+    "usb": "USB Type-C 2.0 hỗ trợ OTG",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "162,5 x 74,2 x 8,2 mm",
+    "weight": "192 gram",
+    "materials": [
+      "Khung composite gia cường siêu mỏng",
+      "Mặt lưng da thuần chay Pantone cao cấp chống bám vân tay"
+    ],
+    "waterResistance": "IP68 & IP69 + MIL-STD-810H",
+    "availableColors": [
+      "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo chuẩn Dolby Atmos, Hi-Res Audio",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Motorola Edge",
+    "Motorola",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Motorola tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/placeholders/placeholder-default.svg",
+    "hasAvatarNamed": false,
+    "gallery": [
+      "assets/images/placeholders/placeholder-default.svg"
+    ],
+    "byColor": {},
+    "bySection": {
+      "performance": "assets/images/placeholders/placeholder-default.svg"
+    }
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-motorola",
+      "https://www.motorola.com/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "needs_verification",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Model bổ sung xuất hiện trong kết quả tra cứu mới — Cần xác minh thêm",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "verbatimDescription": [
+    "Ra mắt tháng 3/2026, Motorola Edge 70 Fusion nâng cấp vượt bậc dòng Edge Fusion với màn hình 6,78 inch P-OLED 1.5K 144Hz chuẩn màu Pantone, vi xử lý Qualcomm Snapdragon 7s Gen 3 (4nm), cụm camera 50MP Sony LYTIA OIS và đặc biệt là viên pin Silicon-Carbon dung lượng lên tới 7.000 mAh trong thân máy chuẩn kháng nước IP68/IP69. Tại AURIX MOBILE, hồ sơ sản phẩm được cập nhật chi tiết từ nguồn công bố quốc tế.",
+    "Dù nâng dung lượng pin lên tới 7.000 mAh, Motorola Edge 70 Fusion vẫn duy trì kiểu dáng cong mềm mại dày chỉ 8,2 mm và nặng khoảng 192 gram nhờ công nghệ pin Silicon-Carbon mật độ cao. Mặt lưng bọc da thuần chay Pantone kết hợp kính Gorilla Glass 7i và độ bền chuẩn quân đội MIL-STD-810H.",
+    "Màn hình 6,78 inch P-OLED 1.5K (2712 x 1220 pixel) hỗ trợ tần số quét 144Hz, độ sáng đỉnh 4.500 nit và chứng nhận màu sắc Pantone Validated.",
+    "Hệ thống camera kép gồm camera chính 50MP cảm biến Sony LYTIA có chống rung quang học OIS và camera góc siêu rộng 13MP (120°) tích hợp chụp cận cảnh Macro Vision, đi kèm camera trước 32MP quay video 4K.",
+    "Sức mạnh phần cứng đến từ vi xử lý Qualcomm Snapdragon 7s Gen 3 (4nm) kết hợp RAM 8GB/12GB và bộ nhớ UFS 3.1 trên nền tảng Android 16 tích hợp Moto AI.",
+    "Viên pin khủng 7.000 mAh kết hợp sạc nhanh 68W TurboPower và loa kép Dolby Atmos giúp Motorola Edge 70 Fusion hoạt động bền bỉ suốt 3 ngày liên tục."
+  ],
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,78 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "P-OLED 1 tỷ màu (10-bit), 144Hz, HDR10+, 4.500 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2712 x 1220 pixel (1.5K Super HD, 439 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "144Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 7s Gen 3 (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB / 12GB LPDDR5"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB / 512GB chuẩn UFS 3.1"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính Sony LYTIA OIS + 13MP Góc siêu rộng 120° & Macro"
+    },
+    {
+      "label": "Camera trước",
+      "value": "32MP (ƒ/2.2), quay 4K 30fps"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "7.000 mAh (Pin Silicon-Carbon siêu lớn)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc siêu nhanh 68W TurboPower"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 16 (Giao diện Hello UI)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 & IP69 + MIL-STD-810H"
+    }
+  ],
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "P-OLED 1 tỷ màu (10-bit), 144Hz, HDR10+, 4.500 nit",
+      "Kích thước màn hình": "6,78 inch",
+      "Độ phân giải màn hình": "2712 x 1220 pixel (1.5K Super HD, 439 ppi)",
+      "Tần số quét": "144Hz",
+      "Kiểu màn hình": "Màn hình cong viền mỏng bốn cạnh, bảo vệ bởi kính Corning Gorilla Glass 7i",
+      "Tính năng màn hình": "Chuẩn màu Pantone Validated, HDR10+, độ sáng đỉnh 4.500 nit, cảm ứng khi tay ướt Water Touch"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera kép chuẩn màu Pantone: (1) Camera chính 50MP: cảm biến Sony LYTIA kích thước 1/1.56 inch, khẩu độ ƒ/1.8, tiêu cự 24mm, lấy nét Dual Pixel PDAF, chống rung quang học OIS; (2) Camera Góc siêu rộng & Macro 13MP: khẩu độ ƒ/2.2, góc nhìn 120°, tích hợp lấy nét tự động AF chụp cận cảnh Macro Vision",
+      "Quay video": "Quay video 4K ở 30fps, 1080p ở 30/60/120fps; Chống rung OIS + EIS và khóa đường chân trời Horizon Lock",
+      "Tính năng camera": "Chứng nhận màu sắc Pantone Validated, Moto AI Photo Enhancement, Night Vision, Chân dung đa tiêu cự"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera Selfie 32MP (khẩu độ ƒ/2.2, công nghệ Quad Pixel); Hỗ trợ HDR và quay video 4K@30fps, 1080p@30/60fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 7s Gen 3 (4nm)",
+      "Loại CPU": "CPU 8 nhân: 1 nhân Cortex-A720 (2,5 GHz) + 3 nhân Cortex-A720 (2,4 GHz) + 4 nhân Cortex-A520 (1,8 GHz)",
+      "GPU": "Qualcomm Adreno 810 xử lý đồ họa mượt mà"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB / 12GB LPDDR5",
+      "Bộ nhớ trong": "256GB / 512GB chuẩn UFS 3.1"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "7.000 mAh (Pin Silicon-Carbon mật độ cao thế hệ mới) – Đáp ứng lên tới 3 ngày sử dụng hỗn hợp",
+      "Công nghệ sạc": "Sạc nhanh có dây 68W TurboPower qua cổng Type-C",
+      "Cổng sạc": "USB Type-C 2.0 hỗ trợ OTG"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 16 (Giao diện Hello UI)",
+      "Công nghệ - Tiện ích": "Hệ sinh thái Moto AI thế hệ mới, Smart Connect, Circle to Search với Google",
+      "Tiện ích khác": "Đạt độ bền chuẩn quân đội MIL-STD-810H, cử chỉ thông minh Moto Actions",
+      "Thời điểm ra mắt": "Tháng 03/2026 (Đối chiếu thông số GSMArena)"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G",
+      "Thẻ SIM": "SIM kép (Nano-SIM + eSIM hoặc 2 Nano-SIM)",
+      "Wi-Fi": "Wi-Fi 6E (802.11 a/b/g/n/ac/ax) ba băng tần",
+      "Bluetooth": "Bluetooth 5.4 hỗ trợ aptX HD, aptX Adaptive",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa năng",
+      "GPS": "GPS, GLONASS, GALILEO, BDS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung composite gia cường siêu mỏng",
+      "Chất liệu mặt lưng": "Mặt lưng da thuần chay Pantone cao cấp chống bám vân tay",
+      "Kích thước": "162,5 x 74,2 x 8,2 mm",
+      "Trọng lượng": "192 gram",
+      "Chỉ số kháng nước, bụi": "Đạt đồng thời chuẩn kháng bụi nước IP68, IP69 và độ bền quân đội MIL-STD-810H"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa kép Stereo chuẩn Dolby Atmos, Hi-Res Audio",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình + Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Tiệm cận, Ánh sáng môi trường, La bàn số"
+    }
+  }
+}

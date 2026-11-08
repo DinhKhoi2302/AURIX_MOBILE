@@ -1,0 +1,188 @@
+/* AURIX MOBILE — Shared Header (Section 8: Deeper Signature Blue Top Bar + Clean Logo + White Nav Bar) */
+.tp-scroll-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  width: 0%;
+  background: linear-gradient(90deg, var(--tp-cyan), var(--tp-coral));
+  z-index: 1250;
+  transition: width 0.08s linear;
+}
+.tp-header {
+  background: linear-gradient(90deg, #044EC2 0%, #0557D6 52%, #0660E8 100%);
+  background-color: #0555D4;
+  color: var(--tp-white);
+  border-bottom: 1px solid var(--tp-border);
+  position: sticky;
+  top: 0;
+  z-index: var(--tp-z-sticky);
+  transition: box-shadow 0.25s ease, transform 0.25s ease, background-color 0.25s ease;
+}
+.tp-header.is-scrolled {
+  box-shadow: 0 10px 28px rgba(4, 34, 96, 0.22);
+}
+.tp-header-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  padding: 0.85rem 0;
+  color: var(--tp-white);
+}
+.tp-brand {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  flex-shrink: 0;
+}
+.tp-brand img {
+  height: 46px;
+  width: auto;
+  object-fit: contain;
+}
+.tp-search-bar {
+  flex: 1;
+  max-width: 560px;
+  display: flex;
+  align-items: center;
+  background: var(--tp-white);
+  border: 1.5px solid rgba(255, 255, 255, 0.94);
+  border-radius: var(--tp-radius-pill);
+  padding: 0.2rem 0.25rem 0.2rem 1.1rem;
+  box-shadow: 0 4px 14px rgba(3, 30, 88, 0.16);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  position: relative;
+}
+.tp-search-bar:focus-within {
+  border-color: var(--tp-cyan);
+  box-shadow: 0 0 0 4px rgba(39, 196, 232, 0.28);
+}
+.tp-search-bar input {
+  width: 100%;
+  border: none;
+  outline: none;
+  background: transparent;
+  font-size: 0.92rem;
+  color: var(--tp-text-main);
+  padding: 0.45rem 0.5rem 0.45rem 0;
+}
+.tp-search-bar input::placeholder {
+  color: var(--tp-text-secondary);
+}
+.tp-search-submit {
+  width: 44px;
+  height: 38px;
+  border-radius: var(--tp-radius-pill);
+  background: #0555D4;
+  color: var(--tp-white);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.2s ease, transform 0.15s ease;
+}
+.tp-search-submit:hover {
+  background: #0444B0;
+}
+.tp-header-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  flex-shrink: 0;
+}
+.tp-action-item {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  padding: 0.35rem 0.6rem;
+  border-radius: var(--tp-radius-sm);
+  color: var(--tp-white);
+  transition: background 0.2s ease, color 0.2s ease;
+  position: relative;
+}
+.tp-action-item:hover {
+  background: rgba(255, 255, 255, 0.15);
+  color: var(--tp-white);
+}
+.tp-action-icon {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.18);
+  border: 1px solid rgba(255, 255, 255, 0.32);
+  color: var(--tp-white);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  flex-shrink: 0;
+  overflow: visible;
+}
+.tp-action-icon img {
+  filter: brightness(0) invert(1);
+}
+.tp-action-icon img.tp-header-user-avatar {
+  filter: none !important;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+}
+.tp-account-dropdown-link {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.55rem 0.75rem;
+  border-radius: 10px;
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--tp-navy);
+  text-decoration: none;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+.tp-account-dropdown-link:hover {
+  background-color: #F0F6FF;
+  color: var(--tp-primary);
+}
+.tp-action-text {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.22;
+}
+.tp-action-label {
+  font-size: 0.74rem;
+  color: rgba(255, 255, 255, 0.88);
+  font-weight: 500;
+}
+.tp-action-value {
+  font-size: 0.84rem;
+  font-weight: 700;
+  color: #FFFFFF;
+  max-width: 155px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.tp-badge-count {
+  position: absolute;
+  top: -4px;
+  right: -5px;
+  min-width: 20px;
+  height: 20px;
+  padding: 0 5px;
+  border-radius: var(--tp-radius-pill);
+  background: var(--tp-coral);
+  color: var(--tp-white);
+  font-size: 0.7rem;
+  font-weight: 800;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #0555D4;
+}
+.tp-header .tp-mobile-toggle {
+  background: rgba(255, 255, 255, 0.16);
+  border: 1px solid rgba(255, 255, 255, 0.34);
+  color: #FFFFFF;
+}

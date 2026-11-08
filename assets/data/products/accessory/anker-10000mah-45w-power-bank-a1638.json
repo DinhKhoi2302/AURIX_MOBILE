@@ -1,0 +1,197 @@
+{
+  "id": "anker-10000mah-45w-power-bank-a1638",
+  "docCode": "PK-PB001-A1638",
+  "model": "Pin Sạc Dự Phòng Anker 10.000mAh 45W Siêu Nhanh A1638",
+  "brand": "Anker",
+  "brandId": "anker",
+  "parentGroupId": "anker",
+  "series": "Pin sạc dự phòng",
+  "subCategory": "pin-sac-du-phong",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "pin-sac-du-phong"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Pin sạc dự phòng",
+    "highlights": [
+      "45W",
+      "10.000 mAh"
+    ],
+    "description": "Thiết kế nhỏ gọn trong lòng bàn tay nhưng sở hữu công suất đầu ra lên đến 45W, đủ sức nạp pin nhanh chóng cho cả MacBook Air, iPad Pro và điện thoại flagship. Tích hợp màn hình kỹ thuật số hiển thị phần trăm pin chính xác và hệ thống tản nhiệt bảo vệ thông minh."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 790000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/anh-dai-dien-anker-10000mah-45w-power-bank-a1638-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/anh-dai-dien-anker-10000mah-45w-power-bank-a1638-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/anh-dai-dien-anker-10000mah-45w-power-bank-a1638-trang.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/anh-dai-dien-anker-10000mah-45w-power-bank-a1638-xanh-la.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/sac-cung-luc-nhieu-thiet-bi-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/sac-nhanh-hai-chieu-cap-tich-hop-trang-xanh.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/su-dung-di-dong-tien-loi-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/thiet-ke-nho-gon-cam-tay-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/thong-so-dung-luong-10000mah-sac-45w-xanh-trang.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/tong-quan-tinh-nang-sac-45w-cap-rut-den-trang.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/anh-dai-dien-anker-10000mah-45w-power-bank-a1638-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/sac-cung-luc-nhieu-thiet-bi-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/su-dung-di-dong-tien-loi-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/thiet-ke-nho-gon-cam-tay-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/sac-nhanh-hai-chieu-cap-tich-hop-trang-xanh.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/thong-so-dung-luong-10000mah-sac-45w-xanh-trang.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/tong-quan-tinh-nang-sac-45w-cap-rut-den-trang.webp"
+      ],
+      "Trắng": [
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/anh-dai-dien-anker-10000mah-45w-power-bank-a1638-trang.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/sac-nhanh-hai-chieu-cap-tich-hop-trang-xanh.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/thong-so-dung-luong-10000mah-sac-45w-xanh-trang.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/tong-quan-tinh-nang-sac-45w-cap-rut-den-trang.webp"
+      ],
+      "Xanh Lá": [
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/anh-dai-dien-anker-10000mah-45w-power-bank-a1638-xanh-la.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/sac-nhanh-hai-chieu-cap-tich-hop-trang-xanh.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/thong-so-dung-luong-10000mah-sac-45w-xanh-trang.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/tong-quan-tinh-nang-sac-45w-cap-rut-den-trang.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/thiet-ke-nho-gon-cam-tay-den.webp",
+      "screen": "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/anh-dai-dien-anker-10000mah-45w-power-bank-a1638-trang.webp",
+      "performance": "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/anh-dai-dien-anker-10000mah-45w-power-bank-a1638-xanh-la.webp",
+      "camera": "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/sac-cung-luc-nhieu-thiet-bi-den.webp",
+      "battery": "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/sac-nhanh-hai-chieu-cap-tich-hop-trang-xanh.webp",
+      "feature": "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/tong-quan-tinh-nang-sac-45w-cap-rut-den-trang.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/anh-dai-dien-anker-10000mah-45w-power-bank-a1638-trang.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/anh-dai-dien-anker-10000mah-45w-power-bank-a1638-xanh-la.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/sac-cung-luc-nhieu-thiet-bi-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/sac-nhanh-hai-chieu-cap-tich-hop-trang-xanh.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/su-dung-di-dong-tien-loi-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/thiet-ke-nho-gon-cam-tay-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/thong-so-dung-luong-10000mah-sac-45w-xanh-trang.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/tong-quan-tinh-nang-sac-45w-cap-rut-den-trang.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Anker",
+      "Dung lượng pin": "10.000 mAh",
+      "Công suất đầu ra tối đa": "45W (PD / PPS)",
+      "Công suất đầu vào": "30W",
+      "Số lượng cổng kết nối": "2 cổng (2x USB-C)",
+      "Loại cổng kết nối": "2x USB Type-C (hỗ trợ in/out)",
+      "Sạc không dây": "Không",
+      "Công nghệ sạc": "Power Delivery 3.0, PPS, ActiveShield 2.0",
+      "Màu sắc": "Đen, Trắng, Xanh lá"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Anker"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "10.000 mAh"
+    },
+    {
+      "label": "Công suất đầu ra tối đa",
+      "value": "45W (PD / PPS)"
+    },
+    {
+      "label": "Công suất đầu vào",
+      "value": "30W"
+    },
+    {
+      "label": "Số lượng cổng kết nối",
+      "value": "2 cổng (2x USB-C)"
+    },
+    {
+      "label": "Loại cổng kết nối",
+      "value": "2x USB Type-C (hỗ trợ in/out)"
+    },
+    {
+      "label": "Sạc không dây",
+      "value": "Không"
+    },
+    {
+      "label": "Công nghệ sạc",
+      "value": "Power Delivery 3.0, PPS, ActiveShield 2.0"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Đen, Trắng, Xanh lá"
+    }
+  ],
+  "verbatimDescription": [
+    "Thiết kế nhỏ gọn trong lòng bàn tay nhưng sở hữu công suất đầu ra lên đến 45W, đủ sức nạp pin nhanh chóng cho cả MacBook Air, iPad Pro và điện thoại flagship. Tích hợp màn hình kỹ thuật số hiển thị phần trăm pin chính xác và hệ thống tản nhiệt bảo vệ thông minh."
+  ],
+  "variants": [
+    {
+      "sku": "PK-PB001-A1638-DEN-TIEU-CHUAN",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 790000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/anh-dai-dien-anker-10000mah-45w-power-bank-a1638-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/sac-cung-luc-nhieu-thiet-bi-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/su-dung-di-dong-tien-loi-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/thiet-ke-nho-gon-cam-tay-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/sac-nhanh-hai-chieu-cap-tich-hop-trang-xanh.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/thong-so-dung-luong-10000mah-sac-45w-xanh-trang.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/tong-quan-tinh-nang-sac-45w-cap-rut-den-trang.webp"
+      ]
+    },
+    {
+      "sku": "PK-PB001-A1638-TRANG-TIEU-CHUAN",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 790000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/anh-dai-dien-anker-10000mah-45w-power-bank-a1638-trang.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/sac-nhanh-hai-chieu-cap-tich-hop-trang-xanh.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/thong-so-dung-luong-10000mah-sac-45w-xanh-trang.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/tong-quan-tinh-nang-sac-45w-cap-rut-den-trang.webp"
+      ]
+    },
+    {
+      "sku": "PK-PB001-A1638-XANH-LA-TIEU-CHUAN",
+      "color": "Xanh Lá",
+      "colorHex": "#228B57",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 790000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/anh-dai-dien-anker-10000mah-45w-power-bank-a1638-xanh-la.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/sac-nhanh-hai-chieu-cap-tich-hop-trang-xanh.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/thong-so-dung-luong-10000mah-sac-45w-xanh-trang.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/anker-10000mah-45w-power-bank-a1638/tong-quan-tinh-nang-sac-45w-cap-rut-den-trang.webp"
+      ]
+    }
+  ]
+}

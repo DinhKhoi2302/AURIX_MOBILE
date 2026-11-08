@@ -1,0 +1,219 @@
+{
+  "id": "honor-pad-x9a",
+  "docCode": "TB-HN002-X9A",
+  "model": "Honor Pad X9a Wi-Fi",
+  "brand": "HONOR",
+  "brandId": "honor",
+  "parentGroupId": "honor",
+  "series": "HONOR Pad X Series",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "11.5 inch",
+      "Snapdragon 685",
+      "Pin 8.300 mAh"
+    ],
+    "description": "Honor Pad X9a là chiếc máy tính bảng sinh ra để phục vụ trải nghiệm nghe nhìn và giải trí đỉnh cao trong tầm giá phổ thông. Điểm nhấn ấn tượng nhất là màn hình lớn 11.5 inch độ phân giải 2K sắc nét kết hợp cùng tần số quét siêu mượt 120Hz, mang lại trải nghiệm thị giác sống động và phản hồi vuốt chạm mượt mà vượt xa các đối thủ cùng phân khúc.",
+    "releaseDate": "2024 / 2025"
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 685 (6nm mạnh mẽ)",
+    "ram": [
+      "6GB",
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "operatingSystem": "Android 14 (MagicOS 8.0)"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 5290000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/honor/honor-pad-x9a/anh-dai-dien-honor-pad-x9a-xam.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/honor/honor-pad-x9a/anh-dai-dien-honor-pad-x9a-xam.webp",
+      "assets/images/products/tablet/honor/honor-pad-x9a/mat-truoc-sau-xam.webp",
+      "assets/images/products/tablet/honor/honor-pad-x9a/mat-truoc-nam-ngang-nghieng-xam.webp",
+      "assets/images/products/tablet/honor/honor-pad-x9a/mat-sau-nam-ngang-xam.webp",
+      "assets/images/products/tablet/honor/honor-pad-x9a/mat-sau-nghieng-trai-xam.webp",
+      "assets/images/products/tablet/honor/honor-pad-x9a/tong-quan-tinh-nang-man-hinh-11-5-inch-120hz-pin-8300mah-xam-xanh.webp"
+    ],
+    "byColor": {
+      "Xám": [
+        "assets/images/products/tablet/honor/honor-pad-x9a/anh-dai-dien-honor-pad-x9a-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x9a/mat-truoc-sau-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x9a/mat-truoc-nam-ngang-nghieng-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x9a/mat-sau-nam-ngang-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x9a/mat-sau-nghieng-trai-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x9a/tong-quan-tinh-nang-man-hinh-11-5-inch-120hz-pin-8300mah-xam-xanh.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/honor/honor-pad-x9a/mat-truoc-sau-xam.webp",
+      "screen": "assets/images/products/tablet/honor/honor-pad-x9a/mat-truoc-nam-ngang-nghieng-xam.webp",
+      "performance": "assets/images/products/tablet/honor/honor-pad-x9a/mat-sau-nam-ngang-xam.webp",
+      "camera": "assets/images/products/tablet/honor/honor-pad-x9a/mat-sau-nghieng-trai-xam.webp",
+      "battery": "assets/images/products/tablet/honor/honor-pad-x9a/tong-quan-tinh-nang-man-hinh-11-5-inch-120hz-pin-8300mah-xam-xanh.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/honor/honor-pad-x9a/mat-truoc-sau-xam.webp",
+      "assets/images/products/tablet/honor/honor-pad-x9a/mat-truoc-nam-ngang-nghieng-xam.webp",
+      "assets/images/products/tablet/honor/honor-pad-x9a/mat-sau-nam-ngang-xam.webp",
+      "assets/images/products/tablet/honor/honor-pad-x9a/mat-sau-nghieng-trai-xam.webp",
+      "assets/images/products/tablet/honor/honor-pad-x9a/tong-quan-tinh-nang-man-hinh-11-5-inch-120hz-pin-8300mah-xam-xanh.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "11,5 inch IPS LCD FullView, tỷ lệ 5:3, độ phân giải 2K (2000 x 1200 pixel, ~203 ppi), tần số quét 120Hz thích ứng, hiển thị 1,07 tỷ màu (10-bit), đạt tỷ lệ hiển thị 86% diện tích mặt trước",
+      "Tính năng màn hình": "Tần số quét 120Hz (chuyển đổi thông minh 60Hz/90Hz/120Hz), độ sáng 400 nit, 100% dải màu sRGB, chứng nhận TÜV Rheinland Low Blue Light & Flicker Free cùng công nghệ Dynamic Dimming giảm mỏi mắt"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "Qualcomm Snapdragon 685 nền tảng 6nm hiệu năng ổn định",
+      "CPU & Đồ họa": "CPU Octa-core Kryo 265 xung nhịp tối đa 2.8GHz, GPU Adreno 610 xử lý đồ họa mượt mà",
+      "Hệ điều hành khi ra mắt": "MagicOS 8.0 trên nền tảng Android 14 với giao diện trực quan"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "6GB / 8GB hỗ trợ công nghệ mở rộng bộ nhớ RAM ảo",
+      "Bộ nhớ trong": "128GB / 256GB tốc độ cao cho không gian lưu trữ phim ảnh thoải mái"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "5MP góc rộng, khẩu độ f/2.2, quay video Full HD 1080p",
+      "Camera trước": "5MP, khẩu độ f/2.2 hỗ trợ gọi video và mở khóa khuôn mặt",
+      "Chi tiết hệ thống Camera": "Camera sau 5MP khẩu độ f/2.2; Camera trước 5MP f/2.2 nhận diện khuôn mặt nhanh chóng"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "8.300 mAh bền bỉ, hỗ trợ sạc nhanh 22.5W qua USB Type-C",
+      "Pin và công nghệ sạc": "Pin Lithium Polymer 8.300 mAh, sạc nhanh công suất 22.5W qua cổng USB-C"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Tương thích các dòng bút cảm ứng stylus điện dung phổ biến",
+      "Hỗ trợ bàn phím rời": "Kết nối dễ dàng với bàn phím Bluetooth và chuột không dây",
+      "Công nghệ âm thanh": "Dàn 6 loa âm thanh vòm Cinematic Surround (bố trí ở 3 cạnh kèm 2 loa đánh xuống tạo hiệu ứng phản xạ âm học 360 độ), tinh chỉnh bởi Honor Histen và chứng nhận Hi-Res Audio",
+      "Thuộc tính đặc biệt": "Màn hình 120Hz 2K cực mượt, dàn 6 loa stereo vòm đa hướng đỉnh cao"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Wi-Fi 5 (802.11 a/b/g/n/ac) băng tần kép",
+      "Thẻ SIM": "Không hỗ trợ (Bản Wi-Fi)",
+      "Kết nối không dây & Cổng giao tiếp": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép, Bluetooth 5.1, cổng Type-C hỗ trợ OTG",
+      "Công nghệ - Tiện ích": "Tính năng đa nhiệm Multi-Window chia đôi màn hình và cửa sổ nổi, đồng bộ dữ liệu Honor Connect giữa điện thoại và máy tính bảng, lưu trữ giọng nói kèm ghi chú trong HONOR Notes"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Độ mỏng chỉ 6.9 mm, trọng lượng nhẹ khoảng 499 g, thân kim loại nguyên khối",
+      "Bảo mật và độ bền": "Mở khóa khuôn mặt AI Face Unlock, khung vỏ nhôm kim loại cao cấp mát lạnh",
+      "Thời điểm ra mắt": "Năm 2024 / 2025"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "11.5 inch IPS LCD, độ phân giải 2K sắc nét 2000 x 1200 pixels"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Tần số quét cao 120Hz siêu mượt mà, độ sáng 400 nits, chứng nhận bảo vệ mắt TÜV Rheinland"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 685 (6nm mạnh mẽ)"
+    },
+    {
+      "label": "RAM",
+      "value": "6GB / 8GB RAM LPDDR4X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB"
+    },
+    {
+      "label": "Camera sau",
+      "value": "5MP góc rộng, khẩu độ f/2.2, quay video Full HD 1080p"
+    },
+    {
+      "label": "Camera trước",
+      "value": "5MP, khẩu độ f/2.2 hỗ trợ gọi video và mở khóa khuôn mặt"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Pin Lithium Polymer 8.300 mAh, sạc nhanh công suất 22.5W qua cổng USB-C"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Wi-Fi 5 (802.11 a/b/g/n/ac) băng tần kép"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Tương thích các dòng bút cảm ứng stylus điện dung phổ biến"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Kết nối dễ dàng với bàn phím Bluetooth và chuột không dây"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 14 (MagicOS 8.0)"
+    }
+  ],
+  "verbatimDescription": [
+    "Honor Pad X9a là chiếc máy tính bảng sinh ra để phục vụ trải nghiệm nghe nhìn và giải trí đỉnh cao trong tầm giá phổ thông. Điểm nhấn ấn tượng nhất là màn hình lớn 11.5 inch độ phân giải 2K sắc nét kết hợp cùng tần số quét siêu mượt 120Hz, mang lại trải nghiệm thị giác sống động và phản hồi vuốt chạm mượt mà vượt xa các đối thủ cùng phân khúc.",
+    "Không chỉ dừng lại ở màn hình, Honor Pad X9a còn chinh phục người dùng bởi hệ thống âm thanh khủng gồm 6 loa ngoài bố trí đa hướng xung quanh thân máy. Công nghệ âm thanh vòm Honor Histen tái tạo âm trường rộng mở, tiếng bass chắc khỏe và giọng thoại trong trẻo, biến thiết bị thành một rạp chiếu phim di động đích thực.",
+    "Thân máy được chế tác từ kim loại nguyên khối với độ mỏng đáng kinh ngạc chỉ 6.9 mm và trọng lượng chỉ khoảng 499g. Tông màu Xám sang trọng, bề mặt phun cát mịn màng đem đến cảm giác cao cấp và chống bám dấu vân tay hiệu quả khi cầm trên tay.",
+    "Cung cấp sức mạnh cho máy là vi xử lý Snapdragon 685 cùng bộ nhớ RAM lớn, vận hành mượt mà giao diện MagicOS 8.0 mượt mà và thông minh. Viên pin dung lượng 8.300 mAh đảm bảo thời gian phát video liên tục hơn 12 giờ, đồng hành trọn vẹn cùng bạn trong mọi chuyến đi công tác hay dã ngoại cuối tuần.",
+    "Trải nghiệm đa nhiệm và học tập trên Honor Pad X9a trở nên trực quan nhờ nền tảng MagicOS 8.0 tối ưu hóa cho màn hình lớn 11,5 inch. Người dùng có thể kéo thả văn bản, hình ảnh giữa hai ứng dụng đang mở song song hoặc sử dụng tính năng ghi âm đồng bộ với chữ viết tay trong ứng dụng HONOR Notes để ôn tập bài giảng hiệu quả.",
+    "Khả năng bảo vệ mắt toàn diện với bộ đôi chứng nhận TÜV Rheinland cùng công nghệ điều chỉnh độ sáng nhịp sinh học giúp các thành viên trong gia đình, đặc biệt là trẻ nhỏ và học sinh, yên tâm học tập và giải trí nhiều giờ liền mà không bị mỏi mắt.",
+    "Kết hợp cùng bàn phím rời Bluetooth và bút cảm ứng điện dung, Honor Pad X9a dễ dàng chuyển đổi từ một thiết bị giải trí 6 loa sống động thành công cụ soạn thảo văn bản gọn nhẹ chỉ 499g, sẵn sàng đồng hành ở trường học, văn phòng hay quán cà phê."
+  ],
+  "variants": [
+    {
+      "sku": "TB-HN002-X9A-XAM-6GB-128GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 5290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/honor/honor-pad-x9a/anh-dai-dien-honor-pad-x9a-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x9a/mat-truoc-sau-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x9a/mat-truoc-nam-ngang-nghieng-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x9a/mat-sau-nam-ngang-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x9a/mat-sau-nghieng-trai-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x9a/tong-quan-tinh-nang-man-hinh-11-5-inch-120hz-pin-8300mah-xam-xanh.webp"
+      ]
+    },
+    {
+      "sku": "TB-HN002-X9A-XAM-8GB-256GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 5990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/honor/honor-pad-x9a/anh-dai-dien-honor-pad-x9a-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x9a/mat-truoc-sau-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x9a/mat-truoc-nam-ngang-nghieng-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x9a/mat-sau-nam-ngang-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x9a/mat-sau-nghieng-trai-xam.webp",
+        "assets/images/products/tablet/honor/honor-pad-x9a/tong-quan-tinh-nang-man-hinh-11-5-inch-120hz-pin-8300mah-xam-xanh.webp"
+      ]
+    }
+  ]
+}

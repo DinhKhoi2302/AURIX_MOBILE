@@ -1,0 +1,235 @@
+{
+  "schema_version": "1.0.0",
+  "last_verified_at": "2026-11-01",
+  "checked_at": "2026-11-01T22:54:18+07:00",
+  "total_display_brands": 13,
+  "total_ecosystem_groups": 11,
+  "note": "Xiaomi, Redmi và POCO được tách thành 3 thương hiệu hiển thị riêng (brand_id: xiaomi, redmi, poco) nhưng cùng thuộc tập đoàn hệ sinh thái Xiaomi (parent_group_id: xiaomi_group) theo đúng hướng dẫn trong tài liệu đối chiếu.",
+  "brands": [
+    {
+      "brand_id": "apple",
+      "brand_name": "Apple",
+      "parent_group_id": "apple",
+      "country": "Hoa Kỳ",
+      "series_list": [
+        "iPhone"
+      ],
+      "official_website": "https://www.apple.com/vn/iphone/",
+      "retail_reference_urls": [
+        "https://www.thegioididong.com/dtdd-apple-iphone",
+        "https://www.thegioididong.com/dtdd-apple-iphone-18-series"
+      ],
+      "brand_status": "active_listing",
+      "image_folder": "images/Hinh_Dien_Thoai/Apple"
+    },
+    {
+      "brand_id": "samsung",
+      "brand_name": "Samsung",
+      "parent_group_id": "samsung",
+      "country": "Hàn Quốc",
+      "series_list": [
+        "Galaxy S",
+        "Galaxy Z",
+        "Galaxy A"
+      ],
+      "official_website": "https://www.samsung.com/vn/smartphones/",
+      "retail_reference_urls": [
+        "https://www.thegioididong.com/dtdd-samsung-galaxy-s",
+        "https://www.thegioididong.com/dtdd-samsung-galaxy-s26-series",
+        "https://www.thegioididong.com/dtdd-samsung-galaxy-s25-series",
+        "https://www.thegioididong.com/dtdd-samsung-galaxy-z",
+        "https://www.thegioididong.com/dtdd-samsung-galaxy-a"
+      ],
+      "brand_status": "active_listing",
+      "image_folder": "images/Hinh_Dien_Thoai/Samsung"
+    },
+    {
+      "brand_id": "xiaomi",
+      "brand_name": "Xiaomi",
+      "parent_group_id": "xiaomi_group",
+      "country": "Trung Quốc",
+      "series_list": [
+        "Xiaomi Number Series",
+        "Xiaomi T Series"
+      ],
+      "official_website": "https://www.mi.com/vn/phone/",
+      "retail_reference_urls": [
+        "https://www.thegioididong.com/dtdd-xiaomi",
+        "https://www.thegioididong.com/dtdd-xiaomi-mi"
+      ],
+      "brand_status": "active_listing",
+      "image_folder": "images/Hinh_Dien_Thoai/Xiaomi-Redmi-POCO"
+    },
+    {
+      "brand_id": "redmi",
+      "brand_name": "Redmi",
+      "parent_group_id": "xiaomi_group",
+      "country": "Trung Quốc",
+      "series_list": [
+        "Redmi Note",
+        "Redmi Number",
+        "Redmi A/C"
+      ],
+      "official_website": "https://www.mi.com/vn/phone/#redmi",
+      "retail_reference_urls": [
+        "https://www.thegioididong.com/dtdd-xiaomi"
+      ],
+      "brand_status": "active_listing",
+      "image_folder": "images/Hinh_Dien_Thoai/Xiaomi-Redmi-POCO"
+    },
+    {
+      "brand_id": "poco",
+      "brand_name": "POCO",
+      "parent_group_id": "xiaomi_group",
+      "country": "Trung Quốc",
+      "series_list": [
+        "POCO F",
+        "POCO X",
+        "POCO M",
+        "POCO C"
+      ],
+      "official_website": "https://www.po.co/global/",
+      "retail_reference_urls": [
+        "https://www.thegioididong.com/dtdd-xiaomi-poco"
+      ],
+      "brand_status": "active_listing",
+      "image_folder": "images/Hinh_Dien_Thoai/Xiaomi-Redmi-POCO"
+    },
+    {
+      "brand_id": "oppo",
+      "brand_name": "OPPO",
+      "parent_group_id": "oppo",
+      "country": "Trung Quốc",
+      "series_list": [
+        "Find X",
+        "Reno",
+        "OPPO A"
+      ],
+      "official_website": "https://www.oppo.com/vn/smartphones/",
+      "retail_reference_urls": [
+        "https://www.thegioididong.com/dtdd-oppo"
+      ],
+      "brand_status": "active_listing",
+      "image_folder": "images/Hinh_Dien_Thoai/OPPO"
+    },
+    {
+      "brand_id": "vivo",
+      "brand_name": "vivo",
+      "parent_group_id": "vivo",
+      "country": "Trung Quốc",
+      "series_list": [
+        "vivo X",
+        "vivo V",
+        "vivo Y"
+      ],
+      "official_website": "https://www.vivo.com/vn/products",
+      "retail_reference_urls": [
+        "https://www.thegioididong.com/dtdd-vivo"
+      ],
+      "brand_status": "active_listing",
+      "image_folder": "images/Hinh_Dien_Thoai/vivo"
+    },
+    {
+      "brand_id": "realme",
+      "brand_name": "realme",
+      "parent_group_id": "realme",
+      "country": "Trung Quốc",
+      "series_list": [
+        "Number Series",
+        "realme C",
+        "realme Note",
+        "realme P"
+      ],
+      "official_website": "https://www.realme.com/vn/",
+      "retail_reference_urls": [
+        "https://www.thegioididong.com/dtdd-realme"
+      ],
+      "brand_status": "active_listing",
+      "image_folder": "images/Hinh_Dien_Thoai/realme"
+    },
+    {
+      "brand_id": "honor",
+      "brand_name": "HONOR",
+      "parent_group_id": "honor",
+      "country": "Trung Quốc",
+      "series_list": [
+        "HONOR Magic",
+        "HONOR Number",
+        "HONOR X",
+        "HONOR Play"
+      ],
+      "official_website": "https://www.honor.com/vn/phones/",
+      "retail_reference_urls": [
+        "https://www.thegioididong.com/dtdd-honor",
+        "https://www.honor.com/vn/phones/"
+      ],
+      "brand_status": "active_listing",
+      "image_folder": "images/Hinh_Dien_Thoai/HONOR"
+    },
+    {
+      "brand_id": "nothing",
+      "brand_name": "Nothing",
+      "parent_group_id": "nothing",
+      "country": "Vương quốc Anh",
+      "series_list": [
+        "Phone"
+      ],
+      "official_website": "https://nothing.tech/",
+      "retail_reference_urls": [
+        "https://www.thegioididong.com/dtdd-nothing-phone"
+      ],
+      "brand_status": "active_listing",
+      "image_folder": "images/Hinh_Dien_Thoai/Nothing"
+    },
+    {
+      "brand_id": "tecno",
+      "brand_name": "TECNO",
+      "parent_group_id": "tecno",
+      "country": "Trung Quốc",
+      "series_list": [
+        "Spark",
+        "POVA"
+      ],
+      "official_website": "https://www.tecno-mobile.com/vn/",
+      "retail_reference_urls": [
+        "https://www.thegioididong.com/dtdd-tecno"
+      ],
+      "brand_status": "active_listing",
+      "image_folder": "images/Hinh_Dien_Thoai/TECNO"
+    },
+    {
+      "brand_id": "nubia",
+      "brand_name": "nubia",
+      "parent_group_id": "nubia",
+      "country": "Trung Quốc",
+      "series_list": [
+        "nubia Air",
+        "nubia V",
+        "nubia A"
+      ],
+      "official_website": "https://www.nubia.com/vn/",
+      "retail_reference_urls": [
+        "https://www.thegioididong.com/dtdd-nubia"
+      ],
+      "brand_status": "active_listing",
+      "image_folder": "images/Hinh_Dien_Thoai/nubia"
+    },
+    {
+      "brand_id": "motorola",
+      "brand_name": "Motorola",
+      "parent_group_id": "motorola",
+      "country": "Hoa Kỳ",
+      "series_list": [
+        "Moto G",
+        "Motorola Edge",
+        "Motorola Razr"
+      ],
+      "official_website": "https://www.motorola.com/",
+      "retail_reference_urls": [
+        "https://www.thegioididong.com/dtdd-motorola"
+      ],
+      "brand_status": "needs_verification",
+      "image_folder": "images/Hinh_Dien_Thoai/Motorola"
+    }
+  ]
+}

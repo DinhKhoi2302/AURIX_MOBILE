@@ -1,0 +1,699 @@
+{
+  "id": "nubia-v80-max",
+  "brand": "nubia",
+  "brandId": "nubia",
+  "parentGroupId": "nubia",
+  "model": "nubia V80 Max",
+  "series": "nubia V80 Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "entry-level"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "Năm 2026",
+    "segment": "Cận cao cấp",
+    "description": "Ra mắt đầu năm 2026, nubia V80 Max là mẫu smartphone màn hình cực đại 6,9 inch 120Hz kết hợp viên pin 6.000 mAh, tính năng Sạc nhánh (Bypass Charging), sạc ngược 10W như pin dự phòng và độ bền chịu rơi 1,8m chuẩn IP64. Tại AURIX MOBILE, nubia V80 Max là trợ thủ đắc lực cho các bác tài công nghệ và người dùng cần màn hình lớn, pin bền bỉ. (Nguồn tham chiếu: nubia Global Official - nubia V80 Max).",
+    "highlights": [
+      "6,9 inch 120Hz",
+      "Pin 6.000 mAh + Sạc nhánh",
+      "Chống rơi 1,8m / IP64 / Sạc ngược 10W"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 3290000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT005-NBV80MAX-VANG-4GB-128GB",
+      "color": "Vàng",
+      "colorHex": "#EAB308",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 3290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-v80-max/anh-dai-dien-nubia-v80-max-vang.webp",
+        "assets/images/products/nubia/nubia-v80-max/nubia-V80-Max.jpg"
+      ]
+    },
+    {
+      "sku": "DT005-NBV80MAX-VANG-6GB-128GB",
+      "color": "Vàng",
+      "colorHex": "#EAB308",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 3690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-v80-max/anh-dai-dien-nubia-v80-max-vang.webp",
+        "assets/images/products/nubia/nubia-v80-max/nubia-V80-Max.jpg"
+      ]
+    },
+    {
+      "sku": "DT005-NBV80MAX-VANG-8GB-256GB",
+      "color": "Vàng",
+      "colorHex": "#EAB308",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 4190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-v80-max/anh-dai-dien-nubia-v80-max-vang.webp",
+        "assets/images/products/nubia/nubia-v80-max/nubia-V80-Max.jpg"
+      ]
+    },
+    {
+      "sku": "DT005-NBV80MAX-BAC-4GB-128GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 3290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-v80-max/mat-truoc-mat-sau-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/man-hinh-mat-truoc-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/thiet-ke-mat-lung-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/canh-trai-canh-phai-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/canh-tren-canh-duoi-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/tren-tay-canh-ben-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/goc-nghieng-camera-sau-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/cum-camera-sau-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/trai-nghiem-chup-anh-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/nubia-V80-Max.jpg"
+      ]
+    },
+    {
+      "sku": "DT005-NBV80MAX-BAC-6GB-128GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 3690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-v80-max/mat-truoc-mat-sau-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/man-hinh-mat-truoc-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/thiet-ke-mat-lung-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/canh-trai-canh-phai-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/canh-tren-canh-duoi-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/tren-tay-canh-ben-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/goc-nghieng-camera-sau-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/cum-camera-sau-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/trai-nghiem-chup-anh-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/nubia-V80-Max.jpg"
+      ]
+    },
+    {
+      "sku": "DT005-NBV80MAX-BAC-8GB-256GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 4190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-v80-max/mat-truoc-mat-sau-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/man-hinh-mat-truoc-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/thiet-ke-mat-lung-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/canh-trai-canh-phai-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/canh-tren-canh-duoi-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/tren-tay-canh-ben-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/goc-nghieng-camera-sau-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/cum-camera-sau-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/trai-nghiem-chup-anh-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/nubia-V80-Max.jpg"
+      ]
+    },
+    {
+      "sku": "DT005-NBV80MAX-DEN-4GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 3290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-v80-max/mat-truoc-mat-sau-nubia-v80-max-den.webp",
+        "assets/images/products/nubia/nubia-v80-max/thiet-ke-mat-lung-nubia-v80-max-den.webp",
+        "assets/images/products/nubia/nubia-v80-max/canh-trai-canh-phai-nubia-v80-max-den.webp",
+        "assets/images/products/nubia/nubia-v80-max/canh-tren-canh-duoi-nubia-v80-max-den.webp",
+        "assets/images/products/nubia/nubia-v80-max/goc-nghieng-camera-sau-nubia-v80-max-den.webp",
+        "assets/images/products/nubia/nubia-v80-max/cum-camera-sau-nubia-v80-max-den.webp",
+        "assets/images/products/nubia/nubia-v80-max/nubia-V80-Max.jpg"
+      ]
+    },
+    {
+      "sku": "DT005-NBV80MAX-DEN-6GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 3690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-v80-max/mat-truoc-mat-sau-nubia-v80-max-den.webp",
+        "assets/images/products/nubia/nubia-v80-max/thiet-ke-mat-lung-nubia-v80-max-den.webp",
+        "assets/images/products/nubia/nubia-v80-max/canh-trai-canh-phai-nubia-v80-max-den.webp",
+        "assets/images/products/nubia/nubia-v80-max/canh-tren-canh-duoi-nubia-v80-max-den.webp",
+        "assets/images/products/nubia/nubia-v80-max/goc-nghieng-camera-sau-nubia-v80-max-den.webp",
+        "assets/images/products/nubia/nubia-v80-max/cum-camera-sau-nubia-v80-max-den.webp",
+        "assets/images/products/nubia/nubia-v80-max/nubia-V80-Max.jpg"
+      ]
+    },
+    {
+      "sku": "DT005-NBV80MAX-DEN-8GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 4190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-v80-max/mat-truoc-mat-sau-nubia-v80-max-den.webp",
+        "assets/images/products/nubia/nubia-v80-max/thiet-ke-mat-lung-nubia-v80-max-den.webp",
+        "assets/images/products/nubia/nubia-v80-max/canh-trai-canh-phai-nubia-v80-max-den.webp",
+        "assets/images/products/nubia/nubia-v80-max/canh-tren-canh-duoi-nubia-v80-max-den.webp",
+        "assets/images/products/nubia/nubia-v80-max/goc-nghieng-camera-sau-nubia-v80-max-den.webp",
+        "assets/images/products/nubia/nubia-v80-max/cum-camera-sau-nubia-v80-max-den.webp",
+        "assets/images/products/nubia/nubia-v80-max/nubia-V80-Max.jpg"
+      ]
+    },
+    {
+      "sku": "DT005-NBV80MAX-TIM-4GB-128GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 3290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-v80-max/mat-truoc-mat-sau-nubia-v80-max-tim.webp",
+        "assets/images/products/nubia/nubia-v80-max/goc-nghieng-mat-lung-phai-nubia-v80-max-tim.webp",
+        "assets/images/products/nubia/nubia-v80-max/goc-nghieng-mat-lung-trai-nubia-v80-max-tim.webp",
+        "assets/images/products/nubia/nubia-v80-max/goc-nghieng-man-hinh-phai-nubia-v80-max-tim.webp",
+        "assets/images/products/nubia/nubia-v80-max/goc-nghieng-man-hinh-trai-nubia-v80-max-tim.webp",
+        "assets/images/products/nubia/nubia-v80-max/nubia-V80-Max.jpg"
+      ]
+    },
+    {
+      "sku": "DT005-NBV80MAX-TIM-6GB-128GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 3690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-v80-max/mat-truoc-mat-sau-nubia-v80-max-tim.webp",
+        "assets/images/products/nubia/nubia-v80-max/goc-nghieng-mat-lung-phai-nubia-v80-max-tim.webp",
+        "assets/images/products/nubia/nubia-v80-max/goc-nghieng-mat-lung-trai-nubia-v80-max-tim.webp",
+        "assets/images/products/nubia/nubia-v80-max/goc-nghieng-man-hinh-phai-nubia-v80-max-tim.webp",
+        "assets/images/products/nubia/nubia-v80-max/goc-nghieng-man-hinh-trai-nubia-v80-max-tim.webp",
+        "assets/images/products/nubia/nubia-v80-max/nubia-V80-Max.jpg"
+      ]
+    },
+    {
+      "sku": "DT005-NBV80MAX-TIM-8GB-256GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 4190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-v80-max/mat-truoc-mat-sau-nubia-v80-max-tim.webp",
+        "assets/images/products/nubia/nubia-v80-max/goc-nghieng-mat-lung-phai-nubia-v80-max-tim.webp",
+        "assets/images/products/nubia/nubia-v80-max/goc-nghieng-mat-lung-trai-nubia-v80-max-tim.webp",
+        "assets/images/products/nubia/nubia-v80-max/goc-nghieng-man-hinh-phai-nubia-v80-max-tim.webp",
+        "assets/images/products/nubia/nubia-v80-max/goc-nghieng-man-hinh-trai-nubia-v80-max-tim.webp",
+        "assets/images/products/nubia/nubia-v80-max/nubia-V80-Max.jpg"
+      ]
+    },
+    {
+      "sku": "DT005-NBV80MAX-XANH-LAM-4GB-128GB",
+      "color": "Xanh Lam",
+      "colorHex": "#1D4ED8",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 3290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-v80-max/thiet-ke-mat-lung-nubia-v80-max-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-max/canh-trai-canh-phai-nubia-v80-max-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-max/canh-tren-canh-duoi-nubia-v80-max-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-max/tren-tay-canh-ben-nubia-v80-max-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-max/goc-nghieng-camera-sau-nubia-v80-max-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-max/cum-camera-sau-nubia-v80-max-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-max/trai-nghiem-chup-anh-nubia-v80-max-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-max/nubia-V80-Max.jpg"
+      ]
+    },
+    {
+      "sku": "DT005-NBV80MAX-XANH-LAM-6GB-128GB",
+      "color": "Xanh Lam",
+      "colorHex": "#1D4ED8",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 3690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-v80-max/thiet-ke-mat-lung-nubia-v80-max-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-max/canh-trai-canh-phai-nubia-v80-max-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-max/canh-tren-canh-duoi-nubia-v80-max-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-max/tren-tay-canh-ben-nubia-v80-max-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-max/goc-nghieng-camera-sau-nubia-v80-max-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-max/cum-camera-sau-nubia-v80-max-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-max/trai-nghiem-chup-anh-nubia-v80-max-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-max/nubia-V80-Max.jpg"
+      ]
+    },
+    {
+      "sku": "DT005-NBV80MAX-XANH-LAM-8GB-256GB",
+      "color": "Xanh Lam",
+      "colorHex": "#1D4ED8",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 4190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-v80-max/thiet-ke-mat-lung-nubia-v80-max-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-max/canh-trai-canh-phai-nubia-v80-max-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-max/canh-tren-canh-duoi-nubia-v80-max-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-max/tren-tay-canh-ben-nubia-v80-max-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-max/goc-nghieng-camera-sau-nubia-v80-max-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-max/cum-camera-sau-nubia-v80-max-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-max/trai-nghiem-chup-anh-nubia-v80-max-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-max/nubia-V80-Max.jpg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "IPS LCD 120Hz, độ sáng cao",
+    "size": "6,9 inch",
+    "resolution": "1640 x 720 pixel / 2400 x 1080 pixel (120Hz)",
+    "refreshRate": "120Hz",
+    "brightness": "Không gian hiển thị khổng lồ 6,9 inch, tần số quét 120Hz mượt mà, Live Island 2.0",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Unisoc T7280 / T7250 8 nhân (12nm)",
+    "cpu": "CPU 8 nhân: 2 nhân Cortex-A75 + 6 nhân Cortex-A55 tiết kiệm điện",
+    "gpu": "ARM Mali-G57",
+    "ram": [
+      "4GB",
+      "6GB",
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "operatingSystem": "MyOS (Android 15 / Android 16)",
+    "uiVersion": "Android",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Chính AI (ƒ/1.8, PDAF) + Cảm biến chiều sâu",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "Quay video Full HD 1080p ở 30fps"
+    ],
+    "aiFeatures": [
+      "Neovision AI, Chụp đêm Super Night, Chân dung xóa phông, HDR, Panorama"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "16MP / 8MP Selfie, quay 1080p 30fps",
+    "features": [
+      "Camera Selfie đặt trong nốt ruồi màn hình hỗ trợ làm đẹp AI và quay video 1080p@30fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "6.000 mAh (Pin khủng kèm Sạc nhánh Bypass Charging)",
+    "wiredCharging": "Sạc nhanh 22,5W, Sạc nhánh Bypass Charging & Sạc ngược 10W",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": "Sạc nhanh có dây 22,5W | Tích hợp tính năng Sạc nhánh Bypass Charging (cấp nguồn trực tiếp khi chơi game/chạy xe công nghệ giúp giảm nhiệt và bảo vệ pin) | Sạc ngược có dây 10W"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM vật lý + khe thẻ nhớ MicroSD"
+    ],
+    "network": [
+      "4G LTE"
+    ],
+    "wifi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép",
+    "bluetooth": "Bluetooth 5.2 hỗ trợ A2DP, LE",
+    "gps": [
+      "GPS, GLONASS, GALILEO, BDS"
+    ],
+    "usb": "USB Type-C 2.0 hỗ trợ OTG",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "171,2 x 78,5 x 8,4 mm",
+    "weight": "214 gram",
+    "materials": [
+      "Khung gia cường chống va đập góc máy (chịu rơi 1,8m)",
+      "Mặt lưng hoàn thiện nhám mờ chống trầy xước và bám vân tay"
+    ],
+    "waterResistance": "IP64 kháng bụi nước & Chống rơi 1,8m",
+    "availableColors": [
+      "Vàng",
+      "Bạc",
+      "Đen",
+      "Tím",
+      "Xanh Lam"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa ngoài âm lượng lớn 300% chuẩn DTS, tích hợp giắc cắm tai nghe 3.5mm",
+    "headphoneJack": true,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "LCD 6.9 inch"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền nubia tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/nubia/nubia-v80-max/anh-dai-dien-nubia-v80-max-vang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/nubia/nubia-v80-max/anh-dai-dien-nubia-v80-max-vang.webp",
+      "assets/images/products/nubia/nubia-v80-max/mat-truoc-mat-sau-nubia-v80-max-bac.webp",
+      "assets/images/products/nubia/nubia-v80-max/mat-truoc-mat-sau-nubia-v80-max-den.webp",
+      "assets/images/products/nubia/nubia-v80-max/mat-truoc-mat-sau-nubia-v80-max-tim.webp",
+      "assets/images/products/nubia/nubia-v80-max/man-hinh-mat-truoc-nubia-v80-max-bac.webp",
+      "assets/images/products/nubia/nubia-v80-max/goc-nghieng-mat-lung-phai-nubia-v80-max-tim.webp",
+      "assets/images/products/nubia/nubia-v80-max/goc-nghieng-mat-lung-trai-nubia-v80-max-tim.webp",
+      "assets/images/products/nubia/nubia-v80-max/thiet-ke-mat-lung-nubia-v80-max-bac.webp",
+      "assets/images/products/nubia/nubia-v80-max/thiet-ke-mat-lung-nubia-v80-max-den.webp",
+      "assets/images/products/nubia/nubia-v80-max/thiet-ke-mat-lung-nubia-v80-max-xanh-lam.webp",
+      "assets/images/products/nubia/nubia-v80-max/canh-trai-canh-phai-nubia-v80-max-bac.webp",
+      "assets/images/products/nubia/nubia-v80-max/canh-trai-canh-phai-nubia-v80-max-den.webp",
+      "assets/images/products/nubia/nubia-v80-max/canh-trai-canh-phai-nubia-v80-max-xanh-lam.webp",
+      "assets/images/products/nubia/nubia-v80-max/canh-tren-canh-duoi-nubia-v80-max-bac.webp",
+      "assets/images/products/nubia/nubia-v80-max/canh-tren-canh-duoi-nubia-v80-max-den.webp",
+      "assets/images/products/nubia/nubia-v80-max/canh-tren-canh-duoi-nubia-v80-max-xanh-lam.webp",
+      "assets/images/products/nubia/nubia-v80-max/tren-tay-canh-ben-nubia-v80-max-bac.webp",
+      "assets/images/products/nubia/nubia-v80-max/tren-tay-canh-ben-nubia-v80-max-xanh-lam.webp",
+      "assets/images/products/nubia/nubia-v80-max/goc-nghieng-camera-sau-nubia-v80-max-bac.webp",
+      "assets/images/products/nubia/nubia-v80-max/goc-nghieng-camera-sau-nubia-v80-max-den.webp",
+      "assets/images/products/nubia/nubia-v80-max/goc-nghieng-camera-sau-nubia-v80-max-xanh-lam.webp",
+      "assets/images/products/nubia/nubia-v80-max/goc-nghieng-man-hinh-phai-nubia-v80-max-tim.webp",
+      "assets/images/products/nubia/nubia-v80-max/goc-nghieng-man-hinh-trai-nubia-v80-max-tim.webp",
+      "assets/images/products/nubia/nubia-v80-max/cum-camera-sau-nubia-v80-max-bac.webp",
+      "assets/images/products/nubia/nubia-v80-max/cum-camera-sau-nubia-v80-max-den.webp",
+      "assets/images/products/nubia/nubia-v80-max/cum-camera-sau-nubia-v80-max-xanh-lam.webp",
+      "assets/images/products/nubia/nubia-v80-max/nubia-V80-Max.jpg",
+      "assets/images/products/nubia/nubia-v80-max/trai-nghiem-chup-anh-nubia-v80-max-bac.webp",
+      "assets/images/products/nubia/nubia-v80-max/trai-nghiem-chup-anh-nubia-v80-max-xanh-lam.webp"
+    ],
+    "byColor": {
+      "Vàng": [
+        "assets/images/products/nubia/nubia-v80-max/anh-dai-dien-nubia-v80-max-vang.webp",
+        "assets/images/products/nubia/nubia-v80-max/nubia-V80-Max.jpg"
+      ],
+      "Bạc": [
+        "assets/images/products/nubia/nubia-v80-max/mat-truoc-mat-sau-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/man-hinh-mat-truoc-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/thiet-ke-mat-lung-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/canh-trai-canh-phai-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/canh-tren-canh-duoi-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/tren-tay-canh-ben-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/goc-nghieng-camera-sau-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/cum-camera-sau-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/trai-nghiem-chup-anh-nubia-v80-max-bac.webp",
+        "assets/images/products/nubia/nubia-v80-max/nubia-V80-Max.jpg"
+      ],
+      "Đen": [
+        "assets/images/products/nubia/nubia-v80-max/mat-truoc-mat-sau-nubia-v80-max-den.webp",
+        "assets/images/products/nubia/nubia-v80-max/thiet-ke-mat-lung-nubia-v80-max-den.webp",
+        "assets/images/products/nubia/nubia-v80-max/canh-trai-canh-phai-nubia-v80-max-den.webp",
+        "assets/images/products/nubia/nubia-v80-max/canh-tren-canh-duoi-nubia-v80-max-den.webp",
+        "assets/images/products/nubia/nubia-v80-max/goc-nghieng-camera-sau-nubia-v80-max-den.webp",
+        "assets/images/products/nubia/nubia-v80-max/cum-camera-sau-nubia-v80-max-den.webp",
+        "assets/images/products/nubia/nubia-v80-max/nubia-V80-Max.jpg"
+      ],
+      "Tím": [
+        "assets/images/products/nubia/nubia-v80-max/mat-truoc-mat-sau-nubia-v80-max-tim.webp",
+        "assets/images/products/nubia/nubia-v80-max/goc-nghieng-mat-lung-phai-nubia-v80-max-tim.webp",
+        "assets/images/products/nubia/nubia-v80-max/goc-nghieng-mat-lung-trai-nubia-v80-max-tim.webp",
+        "assets/images/products/nubia/nubia-v80-max/goc-nghieng-man-hinh-phai-nubia-v80-max-tim.webp",
+        "assets/images/products/nubia/nubia-v80-max/goc-nghieng-man-hinh-trai-nubia-v80-max-tim.webp",
+        "assets/images/products/nubia/nubia-v80-max/nubia-V80-Max.jpg"
+      ],
+      "Xanh Lam": [
+        "assets/images/products/nubia/nubia-v80-max/thiet-ke-mat-lung-nubia-v80-max-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-max/canh-trai-canh-phai-nubia-v80-max-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-max/canh-tren-canh-duoi-nubia-v80-max-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-max/tren-tay-canh-ben-nubia-v80-max-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-max/goc-nghieng-camera-sau-nubia-v80-max-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-max/cum-camera-sau-nubia-v80-max-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-max/trai-nghiem-chup-anh-nubia-v80-max-xanh-lam.webp",
+        "assets/images/products/nubia/nubia-v80-max/nubia-V80-Max.jpg"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/nubia/nubia-v80-max/mat-truoc-mat-sau-nubia-v80-max-bac.webp",
+      "screen": "assets/images/products/nubia/nubia-v80-max/mat-truoc-mat-sau-nubia-v80-max-den.webp",
+      "performance": "assets/images/products/nubia/nubia-v80-max/goc-nghieng-camera-sau-nubia-v80-max-bac.webp",
+      "camera": "assets/images/products/nubia/nubia-v80-max/goc-nghieng-camera-sau-nubia-v80-max-den.webp",
+      "battery": "assets/images/products/nubia/nubia-v80-max/canh-trai-canh-phai-nubia-v80-max-bac.webp",
+      "feature": "assets/images/products/nubia/nubia-v80-max/goc-nghieng-mat-lung-phai-nubia-v80-max-tim.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/nubia/nubia-v80-max/mat-truoc-mat-sau-nubia-v80-max-bac.webp",
+      "assets/images/products/nubia/nubia-v80-max/mat-truoc-mat-sau-nubia-v80-max-den.webp",
+      "assets/images/products/nubia/nubia-v80-max/mat-truoc-mat-sau-nubia-v80-max-tim.webp",
+      "assets/images/products/nubia/nubia-v80-max/man-hinh-mat-truoc-nubia-v80-max-bac.webp",
+      "assets/images/products/nubia/nubia-v80-max/goc-nghieng-mat-lung-phai-nubia-v80-max-tim.webp",
+      "assets/images/products/nubia/nubia-v80-max/goc-nghieng-mat-lung-trai-nubia-v80-max-tim.webp",
+      "assets/images/products/nubia/nubia-v80-max/thiet-ke-mat-lung-nubia-v80-max-bac.webp",
+      "assets/images/products/nubia/nubia-v80-max/thiet-ke-mat-lung-nubia-v80-max-den.webp",
+      "assets/images/products/nubia/nubia-v80-max/thiet-ke-mat-lung-nubia-v80-max-xanh-lam.webp",
+      "assets/images/products/nubia/nubia-v80-max/canh-trai-canh-phai-nubia-v80-max-bac.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-nubia",
+      "https://www.nubia.com/vn/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "partial_retail_listing",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT005-NBV80MAX",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "IPS LCD 120Hz, độ sáng cao",
+      "Kích thước màn hình": "6,9 inch",
+      "Độ phân giải màn hình": "1640 x 720 pixel / 2400 x 1080 pixel (120Hz)",
+      "Tần số quét": "120Hz",
+      "Kiểu màn hình": "Màn hình phẳng đục lỗ kích thước cực đại 6,9 inch tích hợp Live Island 2.0",
+      "Tính năng màn hình": "Không gian hiển thị khổng lồ 6,9 inch, tần số quét 120Hz mượt mà, Live Island 2.0"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera AI 50MP: Camera chính 50MP (khẩu độ ƒ/1.8, lấy nét theo pha PDAF) kết hợp ống kính phụ đo chiều sâu trường ảnh xóa phông",
+      "Quay video": "Quay video Full HD 1080p ở 30fps",
+      "Tính năng camera": "Neovision AI, Chụp đêm Super Night, Chân dung xóa phông, HDR, Panorama"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera Selfie đặt trong nốt ruồi màn hình hỗ trợ làm đẹp AI và quay video 1080p@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Unisoc T7280 / T7250 8 nhân (12nm)",
+      "Loại CPU": "CPU 8 nhân: 2 nhân Cortex-A75 + 6 nhân Cortex-A55 tiết kiệm điện",
+      "GPU": "ARM Mali-G57"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "4GB / 6GB / 8GB (+12GB Dynamic RAM mở rộng)",
+      "Bộ nhớ trong": "2 phiên bản: 128GB và 256GB"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "6.000 mAh (Pin dung lượng lớn đáp ứng tới 2,5–3 ngày sử dụng)",
+      "Công nghệ sạc": "Sạc nhanh có dây 22,5W | Tích hợp tính năng Sạc nhánh Bypass Charging (cấp nguồn trực tiếp khi chơi game/chạy xe công nghệ giúp giảm nhiệt và bảo vệ pin) | Sạc ngược có dây 10W",
+      "Cổng sạc": "USB Type-C 2.0 hỗ trợ OTG"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "MyOS (Android 15 / Android 16)",
+      "Công nghệ - Tiện ích": "Sạc nhánh Bypass Charging thông minh, liên lạc nội bộ nubia LinkFree, Live Island 2.0",
+      "Tiện ích khác": "Cấu trúc khung máy gia cố chịu rơi vỡ từ độ cao 1,8 mét, đạt chuẩn kháng bụi nước IP64, giữ lại giắc tai nghe 3.5mm",
+      "Thời điểm ra mắt": "Tháng 01 – 02/2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "4G LTE",
+      "Thẻ SIM": "2 Nano-SIM vật lý + khe thẻ nhớ MicroSD",
+      "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép",
+      "Bluetooth": "Bluetooth 5.2 hỗ trợ A2DP, LE",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa năng",
+      "GPS": "GPS, GLONASS, GALILEO, BDS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung gia cường chống va đập góc máy (chịu rơi 1,8m)",
+      "Chất liệu mặt lưng": "Mặt lưng hoàn thiện nhám mờ chống trầy xước và bám vân tay",
+      "Kích thước": "171,2 x 78,5 x 8,4 mm",
+      "Trọng lượng": "214 gram",
+      "Chỉ số kháng nước, bụi": "Đạt chuẩn kháng bụi nước IP64 kết hợp thiết kế chống sốc rơi vỡ từ độ cao 1,8 mét"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài âm lượng lớn 300% chuẩn DTS, tích hợp giắc cắm tai nghe 3.5mm",
+      "Cảm biến vân tay": "Cảm biến vân tay tích hợp phím nguồn cạnh bên + Mở khóa khuôn mặt",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Tiệm cận, Ánh sáng môi trường, La bàn số"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,9 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "IPS LCD 120Hz, độ sáng cao"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "1640 x 720 pixel / 2400 x 1080 pixel (120Hz)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Unisoc T7280 / T7250 8 nhân (12nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "4GB / 6GB / 8GB (+12GB Dynamic RAM mở rộng)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "2 phiên bản: 128GB và 256GB"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính AI (ƒ/1.8, PDAF) + Cảm biến chiều sâu"
+    },
+    {
+      "label": "Camera trước",
+      "value": "16MP / 8MP Selfie, quay 1080p 30fps"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "6.000 mAh (Pin khủng kèm Sạc nhánh Bypass Charging)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh 22,5W, Sạc nhánh Bypass Charging & Sạc ngược 10W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "MyOS (Android 15 / Android 16)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "4G LTE"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP64 kháng bụi nước & Chống rơi 1,8m"
+    }
+  ],
+  "verbatimDescription": [
+    "Ra mắt đầu năm 2026, nubia V80 Max là mẫu smartphone màn hình cực đại 6,9 inch 120Hz kết hợp viên pin 6.000 mAh, tính năng Sạc nhánh (Bypass Charging), sạc ngược 10W như pin dự phòng và độ bền chịu rơi 1,8m chuẩn IP64. Tại AURIX MOBILE, nubia V80 Max là trợ thủ đắc lực cho các bác tài công nghệ và người dùng cần màn hình lớn, pin bền bỉ.",
+    "nubia V80 Max được chế tạo với khung sườn gia cố chịu va đập từ độ cao tới 1,8 mét cùng chuẩn kháng bụi và nước bắn IP64, mang lại sự an tâm tuyệt đối khi làm việc ngoài trời.",
+    "Màn hình khổng lồ 6,9 inch tần số quét 120Hz tích hợp Live Island 2.0 giúp hiển thị bản đồ, tin nhắn và nội dung giải trí cực kỳ to rõ.",
+    "Cụm camera chính 50MP AI phía sau hỗ trợ lấy nét nhanh PDAF và chế độ chụp đêm Super Night, kết hợp camera selfie sắc nét phía trước.",
+    "Máy trang bị vi xử lý 8 nhân đi kèm tùy chọn RAM 4GB/6GB/8GB (mở rộng Dynamic RAM) và bộ nhớ 128GB/256GB vận hành mượt mà trên giao diện MyOS.",
+    "Điểm sáng giá nhất của nubia V80 Max là viên pin 6.000 mAh tích hợp cả tính năng Sạc nhánh Bypass Charging (cấp điện trực tiếp vào bo mạch khi vừa cắm sạc vừa bật bản đồ/chơi game giúp máy luôn mát và không chai pin) lẫn khả năng sạc ngược có dây 10W cho thiết bị khác."
+  ],
+  "priceSegment": "entry-level"
+}

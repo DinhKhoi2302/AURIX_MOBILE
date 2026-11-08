@@ -1,0 +1,45 @@
+/* TechPhone — Badges & Status Pills (Brandkit 07. THẺ BADGES & TRẠNG THÁI) */
+.tp-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.24rem 0.68rem;
+  border-radius: var(--tp-radius-pill);
+  font-size: 0.72rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+.tp-badge-hot, .tp-badge-sale {
+  background: var(--tp-coral);
+  color: var(--tp-white);
+}
+.tp-badge-new {
+  background: var(--tp-primary);
+  color: var(--tp-white);
+}
+.tp-badge-installment, .tp-badge-instock {
+  background: var(--tp-success);
+  color: var(--tp-white);
+}
+.tp-badge-outstock {
+  background: #94A3B8;
+  color: var(--tp-white);
+}
+.tp-badge-outline {
+  background: var(--tp-white);
+  color: var(--tp-coral);
+  border: 1px solid rgba(255, 81, 71, 0.3);
+}
+.tp-rating-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  color: #F59E0B;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+.tp-rating-count {
+  color: var(--tp-text-secondary);
+  font-weight: 500;
+  font-size: 0.76rem;
+}

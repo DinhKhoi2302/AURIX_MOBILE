@@ -1,0 +1,146 @@
+{
+  "id": "ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10",
+  "docCode": "PK-KB005-LOGISLIM11",
+  "model": "Bao Da Bàn Phím Logitech Slim Folio cho iPad Gen 10 / Gen 11 (10.9 inch)",
+  "brand": "Logitech",
+  "brandId": "logitech",
+  "parentGroupId": "logitech",
+  "series": "Bàn phím & Bao da",
+  "subCategory": "keyboard",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "keyboard"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Bàn phím & Bao da",
+    "highlights": [
+      "Bluetooth Low Energy"
+    ],
+    "description": "Thiết kế mỏng nhẹ, ôm sát bảo vệ toàn diện các góc cạnh của iPad. Các phím bấm được bố trí khoảng cách rộng rãi mang lại trải nghiệm gõ thoải mái, pin đồng xu dùng liên tục 3 năm không cần sạc lại và có khe giữ bút stylus tiện lợi."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 2290000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/anh-dai-dien-ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10-xam-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/anh-dai-dien-ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10-xam-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/mat-chinh-dien-ban-phim-kem-ipad-xam-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/bao-da-dong-nap-dat-nam-xam-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/bao-da-gap-gon-thang-dung-xam-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/su-dung-go-phim-hoc-tap-xam-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/su-dung-lam-viec-tai-quan-ca-phe-xam-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/su-dung-ve-but-cam-ung-tren-ban-xam-den.webp"
+    ],
+    "byColor": {
+      "Xám Đen": [
+        "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/anh-dai-dien-ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10-xam-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/mat-chinh-dien-ban-phim-kem-ipad-xam-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/bao-da-dong-nap-dat-nam-xam-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/bao-da-gap-gon-thang-dung-xam-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/su-dung-go-phim-hoc-tap-xam-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/su-dung-lam-viec-tai-quan-ca-phe-xam-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/su-dung-ve-but-cam-ung-tren-ban-xam-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/mat-chinh-dien-ban-phim-kem-ipad-xam-den.webp",
+      "screen": "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/bao-da-dong-nap-dat-nam-xam-den.webp",
+      "performance": "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/bao-da-gap-gon-thang-dung-xam-den.webp",
+      "camera": "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/su-dung-go-phim-hoc-tap-xam-den.webp",
+      "battery": "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/su-dung-lam-viec-tai-quan-ca-phe-xam-den.webp",
+      "feature": "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/su-dung-ve-but-cam-ung-tren-ban-xam-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/mat-chinh-dien-ban-phim-kem-ipad-xam-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/bao-da-dong-nap-dat-nam-xam-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/bao-da-gap-gon-thang-dung-xam-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/su-dung-go-phim-hoc-tap-xam-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/su-dung-lam-viec-tai-quan-ca-phe-xam-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/su-dung-ve-but-cam-ung-tren-ban-xam-den.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Logitech",
+      "Loại bàn phím": "Bao da bàn phím mỏng nhẹ tích hợp",
+      "Thiết bị tương thích": "iPad Gen 10 (10.9 inch), iPad Gen 11 / A16",
+      "Kiểu kết nối": "Bluetooth Low Energy (BLE)",
+      "Ngôn ngữ bàn phím": "Tiếng Anh",
+      "Bàn di chuột (Touchpad)": "Không",
+      "Đèn nền bàn phím": "Không",
+      "Nguồn cấp điện": "Pin đồng xu CR2032 (thời lượng sử dụng lên tới 3 năm)",
+      "Màu sắc": "Xám đen"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Logitech"
+    },
+    {
+      "label": "Loại bàn phím",
+      "value": "Bao da bàn phím mỏng nhẹ tích hợp"
+    },
+    {
+      "label": "Thiết bị tương thích",
+      "value": "iPad Gen 10 (10.9 inch), iPad Gen 11 / A16"
+    },
+    {
+      "label": "Kiểu kết nối",
+      "value": "Bluetooth Low Energy (BLE)"
+    },
+    {
+      "label": "Ngôn ngữ bàn phím",
+      "value": "Tiếng Anh"
+    },
+    {
+      "label": "Bàn di chuột (Touchpad)",
+      "value": "Không"
+    },
+    {
+      "label": "Đèn nền bàn phím",
+      "value": "Không"
+    },
+    {
+      "label": "Nguồn cấp điện",
+      "value": "Pin đồng xu CR2032 (thời lượng sử dụng lên tới 3 năm)"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Xám đen"
+    }
+  ],
+  "verbatimDescription": [
+    "Thiết kế mỏng nhẹ, ôm sát bảo vệ toàn diện các góc cạnh của iPad. Các phím bấm được bố trí khoảng cách rộng rãi mang lại trải nghiệm gõ thoải mái, pin đồng xu dùng liên tục 3 năm không cần sạc lại và có khe giữ bút stylus tiện lợi."
+  ],
+  "variants": [
+    {
+      "sku": "PK-KB005-LOGISLIM11-XAM-DEN-TIEU-CHUAN",
+      "color": "Xám Đen",
+      "colorHex": "#374151",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 2290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/anh-dai-dien-ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10-xam-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/mat-chinh-dien-ban-phim-kem-ipad-xam-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/bao-da-dong-nap-dat-nam-xam-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/bao-da-gap-gon-thang-dung-xam-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/su-dung-go-phim-hoc-tap-xam-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/su-dung-lam-viec-tai-quan-ca-phe-xam-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-ipad-logitech-slim-folio-11-a16-gen-11-10-9-gen-10/su-dung-ve-but-cam-ung-tren-ban-xam-den.webp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": "oppo-enco-buds3-pro-etek1",
+  "docCode": "PK-TN006-ETEK1",
+  "model": "Tai Nghe Bluetooth OPPO Enco Buds3 Pro ETEK1",
+  "brand": "OPPO",
+  "brandId": "oppo",
+  "parentGroupId": "oppo",
+  "series": "Tai nghe",
+  "subCategory": "tai-nghe",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "tai-nghe"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Tai nghe",
+    "highlights": [
+      "Tai nghe",
+      "OPPO"
+    ],
+    "description": "Nâng cấp đáng giá với tính năng chống ồn chủ động thông minh và màng loa kích thước lớn phủ titan. Thiết kế công thái học nhẹ nhàng êm ái khi đeo lâu, hỗ trợ kết nối kép 2 thiết bị và hiệu ứng âm thanh vòm Enco Master độc quyền."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-pro-etek1/anh-dai-dien-oppo-enco-buds3-pro-etek1-trang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-pro-etek1/anh-dai-dien-oppo-enco-buds3-pro-etek1-trang.webp",
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-pro-etek1/hai-tai-nghe-goc-nghieng-trang.webp",
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-pro-etek1/hai-tai-nghe-thang-dung-trang.webp",
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-pro-etek1/tai-nghe-trong-hop-sac-mo-nap-trang.webp"
+    ],
+    "byColor": {
+      "Trắng": [
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-pro-etek1/anh-dai-dien-oppo-enco-buds3-pro-etek1-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-pro-etek1/hai-tai-nghe-goc-nghieng-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-pro-etek1/hai-tai-nghe-thang-dung-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-pro-etek1/tai-nghe-trong-hop-sac-mo-nap-trang.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-pro-etek1/hai-tai-nghe-goc-nghieng-trang.webp",
+      "screen": "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-pro-etek1/hai-tai-nghe-thang-dung-trang.webp",
+      "performance": "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-pro-etek1/tai-nghe-trong-hop-sac-mo-nap-trang.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-pro-etek1/hai-tai-nghe-goc-nghieng-trang.webp",
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-pro-etek1/hai-tai-nghe-thang-dung-trang.webp",
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-pro-etek1/tai-nghe-trong-hop-sac-mo-nap-trang.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "OPPO",
+      "Kiểu tai nghe": "In-ear có cuống tai thanh mảnh",
+      "Kết nối": "Bluetooth 5.4",
+      "Cổng sạc": "USB-C",
+      "Chống ồn chủ động (ANC)": "Có (Chống ồn thông minh thích ứng)",
+      "Microphone": "Có (Hệ thống micro kép lọc gió)",
+      "Thời lượng pin": "Lên đến 9 giờ (khoảng 45 giờ kèm dock sạc)",
+      "Kháng nước, bụi": "IP55",
+      "Màu sắc": "Trắng"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "OPPO"
+    },
+    {
+      "label": "Kiểu tai nghe",
+      "value": "In-ear có cuống tai thanh mảnh"
+    },
+    {
+      "label": "Kết nối",
+      "value": "Bluetooth 5.4"
+    },
+    {
+      "label": "Cổng sạc",
+      "value": "USB-C"
+    },
+    {
+      "label": "Chống ồn chủ động (ANC)",
+      "value": "Có (Chống ồn thông minh thích ứng)"
+    },
+    {
+      "label": "Microphone",
+      "value": "Có (Hệ thống micro kép lọc gió)"
+    },
+    {
+      "label": "Thời lượng pin",
+      "value": "Lên đến 9 giờ (khoảng 45 giờ kèm dock sạc)"
+    },
+    {
+      "label": "Kháng nước, bụi",
+      "value": "IP55"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Trắng"
+    }
+  ],
+  "verbatimDescription": [
+    "Nâng cấp đáng giá với tính năng chống ồn chủ động thông minh và màng loa kích thước lớn phủ titan. Thiết kế công thái học nhẹ nhàng êm ái khi đeo lâu, hỗ trợ kết nối kép 2 thiết bị và hiệu ứng âm thanh vòm Enco Master độc quyền."
+  ],
+  "variants": [
+    {
+      "sku": "PK-TN006-ETEK1-TRANG-TIEU-CHUAN",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-pro-etek1/anh-dai-dien-oppo-enco-buds3-pro-etek1-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-pro-etek1/hai-tai-nghe-goc-nghieng-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-pro-etek1/hai-tai-nghe-thang-dung-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-pro-etek1/tai-nghe-trong-hop-sac-mo-nap-trang.webp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,683 @@
+{
+  "id": "galaxy-s25-5g",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "model": "Samsung Galaxy S25 5G",
+  "series": "Galaxy S25 Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "high-end"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 19,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "Năm 2025",
+    "segment": "Cận cao cấp",
+    "description": "Samsung Galaxy S25 5G là mẫu flagship nhỏ gọn giàu sức mạnh với trọng lượng siêu nhẹ chỉ 162 gram, độ mỏng 7,2 mm nhưng vẫn mang trong mình vi xử lý đầu bảng Snapdragon 8 Elite for Galaxy (3nm), bộ nhớ RAM nâng cấp lên 12GB, màn hình Dynamic LTPO AMOLED 2X 6,2 inch 120Hz và cụm 3 camera 50MP OIS có ống kính Telephoto 3x chuyên dụng.",
+    "highlights": [
+      "6,2 inch LTPO 120Hz",
+      "Snapdragon 8 Elite for Galaxy",
+      "12GB RAM · 3 Camera 50MP OIS",
+      "Siêu nhẹ 162g · IP68"
+    ],
+    "officialDistribution": "Model được bảo lưu từ danh sách trước nhưng chưa đủ bằng chứng đang mở bán chính thức trong lượt đối chiếu ngày 01/11/2026; giữ trạng thái needs_verification để không mất dấu dữ liệu."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 19990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT009-SSS255G-XANH-NAVY-12GB-256GB",
+      "color": "Xanh Navy",
+      "colorHex": "#1E3A8A",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 19990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s25-5g/anh-dai-dien-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/mat-truoc-mat-sau-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/man-hinh-mat-truoc-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thiet-ke-mat-lung-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/canh-duoi-cong-sac-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/canh-trai-canh-phai-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/canh-tren-canh-duoi-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/goc-nghieng-camera-sau-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/cum-camera-sau-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/he-thong-camera-50mp-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/cam-bien-van-tay-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/khay-sim-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/trai-nghiem-chup-anh-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/tren-tay-man-hinh-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/Galaxy-S25-5G.jpg",
+        "assets/images/products/samsung/galaxy-s25-5g/giao-dien-one-ui-7-knox-vault-samsung-galaxy-s25-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/hieu-nang-snapdragon-8-elite-samsung-galaxy-s25-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thong-so-man-hinh-dynamic-amoled-2x-samsung-galaxy-s25-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thong-so-noi-bat-samsung-galaxy-s25-5g-xanh-navy-xanh-mint-xam.webp"
+      ]
+    },
+    {
+      "sku": "DT009-SSS255G-XANH-NAVY-12GB-512GB",
+      "color": "Xanh Navy",
+      "colorHex": "#1E3A8A",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 23490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s25-5g/anh-dai-dien-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/mat-truoc-mat-sau-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/man-hinh-mat-truoc-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thiet-ke-mat-lung-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/canh-duoi-cong-sac-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/canh-trai-canh-phai-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/canh-tren-canh-duoi-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/goc-nghieng-camera-sau-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/cum-camera-sau-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/he-thong-camera-50mp-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/cam-bien-van-tay-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/khay-sim-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/trai-nghiem-chup-anh-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/tren-tay-man-hinh-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/Galaxy-S25-5G.jpg",
+        "assets/images/products/samsung/galaxy-s25-5g/giao-dien-one-ui-7-knox-vault-samsung-galaxy-s25-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/hieu-nang-snapdragon-8-elite-samsung-galaxy-s25-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thong-so-man-hinh-dynamic-amoled-2x-samsung-galaxy-s25-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thong-so-noi-bat-samsung-galaxy-s25-5g-xanh-navy-xanh-mint-xam.webp"
+      ]
+    },
+    {
+      "sku": "DT009-SSS255G-XANH-MINT-12GB-256GB",
+      "color": "Xanh Mint",
+      "colorHex": "#6EE7B7",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 19990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s25-5g/mat-truoc-mat-sau-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/man-hinh-mat-truoc-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thiet-ke-mat-lung-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/canh-duoi-cong-sac-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/canh-trai-canh-phai-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/canh-tren-canh-duoi-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/goc-nghieng-camera-sau-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/cum-camera-sau-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/cam-bien-van-tay-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/khay-sim-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/trai-nghiem-chup-anh-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/tren-tay-man-hinh-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/Galaxy-S25-5G.jpg",
+        "assets/images/products/samsung/galaxy-s25-5g/giao-dien-one-ui-7-knox-vault-samsung-galaxy-s25-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/hieu-nang-snapdragon-8-elite-samsung-galaxy-s25-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thong-so-man-hinh-dynamic-amoled-2x-samsung-galaxy-s25-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thong-so-noi-bat-samsung-galaxy-s25-5g-xanh-navy-xanh-mint-xam.webp"
+      ]
+    },
+    {
+      "sku": "DT009-SSS255G-XANH-MINT-12GB-512GB",
+      "color": "Xanh Mint",
+      "colorHex": "#6EE7B7",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 23490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s25-5g/mat-truoc-mat-sau-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/man-hinh-mat-truoc-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thiet-ke-mat-lung-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/canh-duoi-cong-sac-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/canh-trai-canh-phai-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/canh-tren-canh-duoi-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/goc-nghieng-camera-sau-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/cum-camera-sau-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/cam-bien-van-tay-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/khay-sim-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/trai-nghiem-chup-anh-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/tren-tay-man-hinh-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/Galaxy-S25-5G.jpg",
+        "assets/images/products/samsung/galaxy-s25-5g/giao-dien-one-ui-7-knox-vault-samsung-galaxy-s25-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/hieu-nang-snapdragon-8-elite-samsung-galaxy-s25-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thong-so-man-hinh-dynamic-amoled-2x-samsung-galaxy-s25-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thong-so-noi-bat-samsung-galaxy-s25-5g-xanh-navy-xanh-mint-xam.webp"
+      ]
+    },
+    {
+      "sku": "DT009-SSS255G-XANH-DUONG-NHAT-12GB-256GB",
+      "color": "Xanh Dương Nhạt",
+      "colorHex": "#D4E5F7",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 19990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s25-5g/mat-truoc-mat-sau-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/dung-luong-pin-4000mah-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thiet-ke-mong-nhe-khang-nuoc-ip68-samsung-galaxy-s25-5g-xanh-navy-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/tinh-nang-galaxy-ai-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/Galaxy-S25-5G.jpg",
+        "assets/images/products/samsung/galaxy-s25-5g/giao-dien-one-ui-7-knox-vault-samsung-galaxy-s25-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/hieu-nang-snapdragon-8-elite-samsung-galaxy-s25-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thong-so-man-hinh-dynamic-amoled-2x-samsung-galaxy-s25-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thong-so-noi-bat-samsung-galaxy-s25-5g-xanh-navy-xanh-mint-xam.webp"
+      ]
+    },
+    {
+      "sku": "DT009-SSS255G-XANH-DUONG-NHAT-12GB-512GB",
+      "color": "Xanh Dương Nhạt",
+      "colorHex": "#D4E5F7",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 23490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s25-5g/mat-truoc-mat-sau-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/dung-luong-pin-4000mah-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thiet-ke-mong-nhe-khang-nuoc-ip68-samsung-galaxy-s25-5g-xanh-navy-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/tinh-nang-galaxy-ai-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/Galaxy-S25-5G.jpg",
+        "assets/images/products/samsung/galaxy-s25-5g/giao-dien-one-ui-7-knox-vault-samsung-galaxy-s25-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/hieu-nang-snapdragon-8-elite-samsung-galaxy-s25-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thong-so-man-hinh-dynamic-amoled-2x-samsung-galaxy-s25-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thong-so-noi-bat-samsung-galaxy-s25-5g-xanh-navy-xanh-mint-xam.webp"
+      ]
+    },
+    {
+      "sku": "DT009-SSS255G-XAM-12GB-256GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 19990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s25-5g/mat-truoc-mat-sau-samsung-galaxy-s25-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-s25-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-s25-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-s25-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-s25-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/Galaxy-S25-5G.jpg",
+        "assets/images/products/samsung/galaxy-s25-5g/giao-dien-one-ui-7-knox-vault-samsung-galaxy-s25-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/hieu-nang-snapdragon-8-elite-samsung-galaxy-s25-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thong-so-man-hinh-dynamic-amoled-2x-samsung-galaxy-s25-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thong-so-noi-bat-samsung-galaxy-s25-5g-xanh-navy-xanh-mint-xam.webp"
+      ]
+    },
+    {
+      "sku": "DT009-SSS255G-XAM-12GB-512GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 23490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-s25-5g/mat-truoc-mat-sau-samsung-galaxy-s25-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-s25-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-s25-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-s25-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-s25-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/Galaxy-S25-5G.jpg",
+        "assets/images/products/samsung/galaxy-s25-5g/giao-dien-one-ui-7-knox-vault-samsung-galaxy-s25-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/hieu-nang-snapdragon-8-elite-samsung-galaxy-s25-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thong-so-man-hinh-dynamic-amoled-2x-samsung-galaxy-s25-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thong-so-noi-bat-samsung-galaxy-s25-5g-xanh-navy-xanh-mint-xam.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "Dynamic LTPO AMOLED 2X",
+    "size": "6,2 inch",
+    "resolution": "Full HD+ (1080 x 2340 pixel)",
+    "refreshRate": "120Hz thích ứng (1–120Hz)",
+    "brightness": "2.600 nit",
+    "hdr": "HDR10+",
+    "protection": "Corning Gorilla Glass Victus 2",
+    "features": [
+      "Tần số quét thích ứng 1–120Hz",
+      "Vision Booster",
+      "Always-On Display"
+    ]
+  },
+  "performance": {
+    "chipset": "Snapdragon 8 Elite for Galaxy (3nm)",
+    "cpu": "8 nhân (2x 4,47 GHz Oryon V2 Phoenix L + 6x 3,53 GHz Oryon V2 Phoenix M)",
+    "gpu": "Adreno 830",
+    "ram": [
+      "12GB"
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ],
+    "operatingSystem": "Android 15, One UI 7 (Nâng cấp One UI 9)",
+    "uiVersion": "One UI",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Wide f/1.8 (24mm, Dual Pixel PDAF, OIS)",
+    "ultraWide": "12MP Ultra Wide f/2.2 (13mm, 120°, Super Steady)",
+    "telephoto": "10MP Telephoto f/2.4 (67mm, PDAF, OIS, Zoom quang học 3x)",
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "8K@24/30fps",
+      "4K@30/60fps",
+      "1080p@30/60/120/240fps",
+      "10-bit HDR",
+      "HDR10+"
+    ],
+    "aiFeatures": [
+      "ProVisual Engine AI",
+      "Nightography",
+      "Audio Eraser",
+      "Best Face"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "12MP Dual Pixel PDAF f/2.2 (26mm)",
+    "features": [
+      "Auto-HDR",
+      "HDR10+"
+    ],
+    "videoRecording": [
+      "4K@30/60fps",
+      "1080p@30fps"
+    ]
+  },
+  "battery": {
+    "capacity": "4.000 mAh",
+    "wiredCharging": "Sạc nhanh 25W USB-C PD 3.0 (50% trong 30 phút)",
+    "wirelessCharging": "Sạc không dây 15W (Qi2 Ready)",
+    "reverseCharging": "Chia sẻ pin không dây 4,5W",
+    "chargingTechnology": "Super Fast Charging 25W"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM / eSIM kép"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 7 (802.11be) ba băng tần",
+    "bluetooth": "Bluetooth 5.4 (A2DP, LE)",
+    "gps": [
+      "GPS",
+      "GLONASS",
+      "BDS",
+      "GALILEO",
+      "QZSS"
+    ],
+    "usb": "USB Type-C 3.2, DisplayPort 1.2",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "146,9 x 70,5 x 7,2 mm",
+    "weight": "162 g",
+    "materials": [
+      "Khung Armor Aluminum 2",
+      "Hai mặt kính Corning Gorilla Glass Victus 2"
+    ],
+    "waterResistance": "IP68 (1,5m trong 30 phút)",
+    "availableColors": [
+      "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo",
+    "headphoneJack": null,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "6,2 inch LTPO 120Hz",
+    "Snapdragon 8 Elite for Galaxy",
+    "12GB RAM · 3 Camera 50MP OIS",
+    "Siêu nhẹ 162g · IP68"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Samsung tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/samsung/galaxy-s25-5g/anh-dai-dien-samsung-galaxy-s25-5g-xanh-navy.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/samsung/galaxy-s25-5g/anh-dai-dien-samsung-galaxy-s25-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/mat-truoc-mat-sau-samsung-galaxy-s25-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/mat-truoc-mat-sau-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/mat-truoc-mat-sau-samsung-galaxy-s25-5g-xanh-mint.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/mat-truoc-mat-sau-samsung-galaxy-s25-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/man-hinh-mat-truoc-samsung-galaxy-s25-5g-xanh-mint.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/man-hinh-mat-truoc-samsung-galaxy-s25-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-s25-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-s25-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/thiet-ke-mat-lung-samsung-galaxy-s25-5g-xanh-mint.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/thiet-ke-mat-lung-samsung-galaxy-s25-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/canh-duoi-cong-sac-samsung-galaxy-s25-5g-xanh-mint.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/canh-duoi-cong-sac-samsung-galaxy-s25-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/canh-trai-canh-phai-samsung-galaxy-s25-5g-xanh-mint.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/canh-trai-canh-phai-samsung-galaxy-s25-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/canh-tren-canh-duoi-samsung-galaxy-s25-5g-xanh-mint.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/canh-tren-canh-duoi-samsung-galaxy-s25-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/goc-nghieng-camera-sau-samsung-galaxy-s25-5g-xanh-mint.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/goc-nghieng-camera-sau-samsung-galaxy-s25-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-s25-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-s25-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/cum-camera-sau-samsung-galaxy-s25-5g-xanh-mint.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/cum-camera-sau-samsung-galaxy-s25-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/he-thong-camera-50mp-samsung-galaxy-s25-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/Galaxy-S25-5G.jpg",
+      "assets/images/products/samsung/galaxy-s25-5g/cam-bien-van-tay-samsung-galaxy-s25-5g-xanh-mint.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/cam-bien-van-tay-samsung-galaxy-s25-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/dung-luong-pin-4000mah-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/giao-dien-one-ui-7-knox-vault-samsung-galaxy-s25-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/hieu-nang-snapdragon-8-elite-samsung-galaxy-s25-5g-den.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/khay-sim-samsung-galaxy-s25-5g-xanh-mint.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/khay-sim-samsung-galaxy-s25-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/thiet-ke-mong-nhe-khang-nuoc-ip68-samsung-galaxy-s25-5g-xanh-navy-xanh-duong-nhat.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/tinh-nang-galaxy-ai-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/trai-nghiem-chup-anh-samsung-galaxy-s25-5g-xanh-mint.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/trai-nghiem-chup-anh-samsung-galaxy-s25-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/tren-tay-man-hinh-samsung-galaxy-s25-5g-xanh-mint.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/tren-tay-man-hinh-samsung-galaxy-s25-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/thong-so-man-hinh-dynamic-amoled-2x-samsung-galaxy-s25-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/thong-so-noi-bat-samsung-galaxy-s25-5g-xanh-navy-xanh-mint-xam.webp"
+    ],
+    "byColor": {
+      "Xanh Navy": [
+        "assets/images/products/samsung/galaxy-s25-5g/anh-dai-dien-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/mat-truoc-mat-sau-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/man-hinh-mat-truoc-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thiet-ke-mat-lung-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/canh-duoi-cong-sac-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/canh-trai-canh-phai-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/canh-tren-canh-duoi-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/goc-nghieng-camera-sau-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/cum-camera-sau-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/he-thong-camera-50mp-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/cam-bien-van-tay-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/khay-sim-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/trai-nghiem-chup-anh-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/tren-tay-man-hinh-samsung-galaxy-s25-5g-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/Galaxy-S25-5G.jpg",
+        "assets/images/products/samsung/galaxy-s25-5g/giao-dien-one-ui-7-knox-vault-samsung-galaxy-s25-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/hieu-nang-snapdragon-8-elite-samsung-galaxy-s25-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thong-so-man-hinh-dynamic-amoled-2x-samsung-galaxy-s25-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thong-so-noi-bat-samsung-galaxy-s25-5g-xanh-navy-xanh-mint-xam.webp"
+      ],
+      "Xám": [
+        "assets/images/products/samsung/galaxy-s25-5g/mat-truoc-mat-sau-samsung-galaxy-s25-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-s25-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-s25-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-s25-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-s25-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/Galaxy-S25-5G.jpg",
+        "assets/images/products/samsung/galaxy-s25-5g/giao-dien-one-ui-7-knox-vault-samsung-galaxy-s25-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/hieu-nang-snapdragon-8-elite-samsung-galaxy-s25-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thong-so-man-hinh-dynamic-amoled-2x-samsung-galaxy-s25-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thong-so-noi-bat-samsung-galaxy-s25-5g-xanh-navy-xanh-mint-xam.webp"
+      ],
+      "Xanh Dương Nhạt": [
+        "assets/images/products/samsung/galaxy-s25-5g/mat-truoc-mat-sau-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/dung-luong-pin-4000mah-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thiet-ke-mong-nhe-khang-nuoc-ip68-samsung-galaxy-s25-5g-xanh-navy-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/tinh-nang-galaxy-ai-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/Galaxy-S25-5G.jpg",
+        "assets/images/products/samsung/galaxy-s25-5g/giao-dien-one-ui-7-knox-vault-samsung-galaxy-s25-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/hieu-nang-snapdragon-8-elite-samsung-galaxy-s25-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thong-so-man-hinh-dynamic-amoled-2x-samsung-galaxy-s25-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thong-so-noi-bat-samsung-galaxy-s25-5g-xanh-navy-xanh-mint-xam.webp"
+      ],
+      "Xanh Mint": [
+        "assets/images/products/samsung/galaxy-s25-5g/mat-truoc-mat-sau-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/man-hinh-mat-truoc-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thiet-ke-mat-lung-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/canh-duoi-cong-sac-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/canh-trai-canh-phai-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/canh-tren-canh-duoi-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/goc-nghieng-camera-sau-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/cum-camera-sau-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/cam-bien-van-tay-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/khay-sim-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/trai-nghiem-chup-anh-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/tren-tay-man-hinh-samsung-galaxy-s25-5g-xanh-mint.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/Galaxy-S25-5G.jpg",
+        "assets/images/products/samsung/galaxy-s25-5g/giao-dien-one-ui-7-knox-vault-samsung-galaxy-s25-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/hieu-nang-snapdragon-8-elite-samsung-galaxy-s25-5g-den.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thong-so-man-hinh-dynamic-amoled-2x-samsung-galaxy-s25-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-s25-5g/thong-so-noi-bat-samsung-galaxy-s25-5g-xanh-navy-xanh-mint-xam.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/samsung/galaxy-s25-5g/mat-truoc-mat-sau-samsung-galaxy-s25-5g-xam.webp",
+      "screen": "assets/images/products/samsung/galaxy-s25-5g/mat-truoc-mat-sau-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+      "performance": "assets/images/products/samsung/galaxy-s25-5g/hieu-nang-snapdragon-8-elite-samsung-galaxy-s25-5g-den.webp",
+      "camera": "assets/images/products/samsung/galaxy-s25-5g/goc-nghieng-camera-sau-samsung-galaxy-s25-5g-xanh-mint.webp",
+      "battery": "assets/images/products/samsung/galaxy-s25-5g/canh-duoi-cong-sac-samsung-galaxy-s25-5g-xanh-mint.webp",
+      "feature": "assets/images/products/samsung/galaxy-s25-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-s25-5g-xam.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/samsung/galaxy-s25-5g/mat-truoc-mat-sau-samsung-galaxy-s25-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/mat-truoc-mat-sau-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/mat-truoc-mat-sau-samsung-galaxy-s25-5g-xanh-mint.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/mat-truoc-mat-sau-samsung-galaxy-s25-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/man-hinh-mat-truoc-samsung-galaxy-s25-5g-xanh-mint.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/man-hinh-mat-truoc-samsung-galaxy-s25-5g-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-s25-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-s25-5g-xanh-duong-nhat.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-s25-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-s25-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-s25-5g-xanh-duong-nhat.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s26-series",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s25-series",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-z",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-a",
+      "https://www.samsung.com/vn/smartphones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "needs_verification",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Cần xác minh thêm",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT009-SSS255G",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "Dynamic LTPO AMOLED 2X",
+      "Kích thước màn hình": "6,2 inch (tỷ lệ hiển thị ~91,1% mặt trước)",
+      "Độ phân giải màn hình": "Full HD+ (1080 x 2340 pixel, ~416 ppi)",
+      "Tần số quét": "Thích ứng tự động 1Hz – 120Hz",
+      "Kiểu màn hình": "Màn hình phẳng Infinity-O viền siêu mỏng, kính Gorilla Glass Victus 2",
+      "Tính năng màn hình": "Độ sáng đỉnh 2.600 nit, HDR10+, Vision Booster, Always-On Display"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera: Chính 50MP (f/1.8, 24mm, Dual Pixel PDAF, OIS) + Telephoto 10MP (f/2.4, 67mm, OIS, Zoom quang học 3x) + Góc siêu rộng 12MP (f/2.2, 13mm, 120°, Super Steady)",
+      "Quay video": "8K@24/30fps, 4K@30/60fps, 1080p@30/60/120/240fps, 10-bit HDR, HDR10+, Audio Eraser, chống rung OIS + gyro-EIS",
+      "Tính năng camera": "Zoom quang học 3x, Zoom số 30x, ProVisual Engine AI, Nightography, Best Face, Panorama"
+    },
+    "Camera trước": {
+      "Camera trước": "12MP (f/2.2, 26mm, Dual Pixel PDAF); hỗ trợ HDR10+ và quay video 4K@30/60fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 8 Elite for Galaxy (tiến trình 3nm)",
+      "Loại CPU": "8 nhân (2 nhân Oryon V2 Phoenix L 4,47 GHz + 6 nhân Oryon V2 Phoenix M 3,53 GHz)",
+      "GPU": "Adreno 830 hỗ trợ Ray Tracing phần cứng"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "12GB LPDDR5X (nâng cấp từ 8GB trên thế hệ tiền nhiệm)",
+      "Bộ nhớ trong": "2 phiên bản: 256GB và 512GB chuẩn UFS 4.0"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "4.000 mAh (Li-Ion)",
+      "Công nghệ sạc": "Sạc nhanh có dây 25W PD 3.0 (đạt 50% pin trong 30 phút), sạc không dây 15W (Qi2 Ready), chia sẻ pin không dây 4,5W",
+      "Cổng sạc": "USB Type-C 3.2, hỗ trợ xuất hình DisplayPort 1.2 và Samsung DeX"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 15, One UI 7 (hỗ trợ cập nhật 7 thế hệ Android, đã có One UI 9)",
+      "Công nghệ - Tiện ích": "Tích hợp đầy đủ Galaxy AI tiếng Việt, Circle to Search, Audio Eraser, Live Translate, Samsung DeX",
+      "Tiện ích khác": "Bảo mật phần cứng Samsung Knox Vault, cảm biến vân tay siêu âm",
+      "Thời điểm ra mắt": "22/01/2025 (Mở bán tháng 02/2025)"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G SA/NSA/Sub6 đa băng tần, LTE-A",
+      "Thẻ SIM": "SIM kép (2 Nano-SIM vật lý hoặc Nano-SIM + eSIM / 2 eSIM hoạt động đồng thời)",
+      "Wi-Fi": "Wi-Fi 7 (802.11 a/b/g/n/ac/6e/7) ba băng tần, Wi-Fi Direct",
+      "Bluetooth": "Bluetooth 5.4 (A2DP, LE)",
+      "Công nghệ NFC": "Có hỗ trợ NFC",
+      "GPS": "GPS, GLONASS, BDS, GALILEO, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung hợp kim Armor Aluminum 2",
+      "Chất liệu mặt lưng": "Hai mặt kính cường lực Corning Gorilla Glass Victus 2 hoàn thiện nhám mờ",
+      "Kích thước": "146,9 x 70,5 x 7,2 mm",
+      "Trọng lượng": "162 gram",
+      "Chỉ số kháng nước, bụi": "IP68 theo tiêu chuẩn IEC 60529 (kháng nước ở độ sâu 1,5 mét trong 30 phút)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo, hỗ trợ Dolby Atmos",
+      "Cảm biến vân tay": "Cảm biến vân tay siêu âm (Ultrasonic) dưới màn hình",
+      "Các loại cảm biến": "Vân tay siêu âm, Gia tốc kế, Con quay hồi chuyển, Cảm biến tiệm cận, La bàn số, Áp kế"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,2 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "Dynamic LTPO AMOLED 2X"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "Full HD+ (1080 x 2340 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz (thích ứng 1–120Hz)"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Snapdragon 8 Elite for Galaxy (3nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB / 512GB UFS 4.0"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính OIS + 12MP Ultra Wide + 10MP Telephoto 3x OIS"
+    },
+    {
+      "label": "Camera trước",
+      "value": "12MP Dual Pixel AF, khẩu độ f/2.2"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "4.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc có dây 25W, sạc không dây Qi2 15W, sạc ngược 4,5W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 15, One UI 7 (hỗ trợ One UI 9)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 (1,5 mét trong 30 phút)"
+    }
+  ],
+  "verbatimDescription": [
+    "Samsung Galaxy S25 5G chinh phục người dùng yêu thích sự tinh gọn nhờ kích thước vừa vặn trong lòng bàn tay (146,9 x 70,5 x 7,2 mm) và trọng lượng nhẹ chỉ 162 gram. Dù nhỏ gọn nhưng máy không hề thỏa hiệp về cấu hình khi được trang bị cùng vi xử lý Snapdragon 8 Elite for Galaxy và 12GB RAM giống như hai đàn anh S25 Plus và S25 Ultra.",
+    "Khung máy được chế tác từ hợp kim Armor Aluminum 2 kết hợp hai mặt kính cường lực Corning Gorilla Glass Victus 2 bền bỉ. Mặt trước là màn hình phẳng Dynamic LTPO AMOLED 2X rộng 6,2 inch độ phân giải Full HD+ (1080 x 2340 pixel), hỗ trợ tần số quét biến thiên 1–120Hz và độ sáng đỉnh 2.600 nit, cho trải nghiệm vuốt chạm mượt mà và hiển thị rõ ràng dưới ánh nắng trực tiếp.",
+    "Nâng cấp đáng giá nhất về phần cứng trên Galaxy S25 5G là sự kết hợp giữa chip Qualcomm Snapdragon 8 Elite for Galaxy (3nm) xung nhịp 4,47 GHz và dung lượng RAM 12GB LPDDR5X tiêu chuẩn trên mọi phiên bản bộ nhớ (256GB / 512GB UFS 4.0). Cấu hình này giúp máy vận hành trơn tru các tác vụ Galaxy AI trực tiếp trên thiết bị và duy trì hiệu suất ổn định trong nhiều năm.",
+    "Hệ thống 3 camera sau trên Galaxy S25 5G đáp ứng linh hoạt mọi góc chụp với camera chính 50MP (f/1.8, Dual Pixel PDAF, chống rung OIS), camera Telephoto 10MP (f/2.4, OIS, zoom quang học 3x) và camera góc siêu rộng 12MP (f/2.2, góc nhìn 120°). Thuật toán ProVisual Engine hỗ trợ quay video 10-bit HDR, 8K@30fps, chụp đêm Nightography rõ nét và lọc tạp âm video bằng Audio Eraser.",
+    "Viên pin 4.000 mAh được tối ưu hóa bởi tiến trình 3nm của chip Snapdragon 8 Elite mang lại thời lượng sử dụng ấn tượng cho cả ngày làm việc. Máy hỗ trợ sạc nhanh có dây 25W (sạc 50% trong 30 phút), sạc không dây 15W (Qi2 Ready) và chia sẻ pin không dây 4,5W.",
+    "Trang bị đầy đủ kết nối Wi-Fi 7, Bluetooth 5.4, NFC, cổng USB-C 3.2 hỗ trợ xuất màn hình máy tính Samsung DeX, cảm biến vân tay siêu âm dưới màn hình và chuẩn kháng nước/bụi IP68, Galaxy S25 5G là chiếc flagship nhỏ gọn toàn diện và đáng tin cậy bậc nhất phân khúc."
+  ],
+  "priceSegment": "high-end"
+}

@@ -1,0 +1,677 @@
+{
+  "id": "xiaomi-17-ultra-5g",
+  "brand": "Xiaomi",
+  "brandId": "xiaomi",
+  "parentGroupId": "xiaomi_group",
+  "model": "Xiaomi 17 Ultra",
+  "series": "Xiaomi 17 & 17T Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "flagship"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.9,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Bán chạy",
+      "type": "hot"
+    }
+  ],
+  "overview": {
+    "releaseDate": "Tháng 02/2026",
+    "segment": "Flagship Cao cấp",
+    "description": "Ra mắt đầu năm 2026, Xiaomi 17 Ultra là bước đột phá lớn nhất trong lịch sử dòng Ultra khi thu gọn độ dày thân máy xuống chỉ còn 8,3 mm (nặng ~218,4g) nhưng lại nâng cấp lên màn hình lớn 6,9 inch, vi xử lý Snapdragon 8 Elite Gen 5 (4,6 GHz), camera trước 50MP và đặc biệt là hệ thống camera Leica có ống kính Telephoto tiềm vọng 200MP hỗ trợ Zoom quang học biến thiên liên tục từ 75mm đến 100mm (3.2x–4.3x) đi kèm cảm biến chính 1 inch và cảm biến 3D ToF. Tại AURIX MOBILE, Xiaomi 17 Ultra là biểu tượng công nghệ nhiếp ảnh đỉnh cao được săn đón hàng đầu. (Nguồn tham chiếu chính thức: GSMArena Review - Xiaomi 17 Ultra Global).",
+    "highlights": [
+      "6,9 inch LTPO 3500 nit",
+      "Snapdragon 8 Elite Gen 5",
+      "Leica 1-inch + Tele 200MP Zoom liên tục"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 30490000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT006-MI17U-XANH-LA-16GB-512GB",
+      "color": "Xanh Lá",
+      "colorHex": "#228B57",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 30490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/anh-dai-dien-xiaomi-17-ultra-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-truoc-man-hinh-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-phai-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-trai-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-lung-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-duoi-cong-sac-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-phai-nut-nguon-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-trai-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-tren-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-phai-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-trai-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/thiet-ke-quang-hoc-leica-ultrapure-200mp-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/man-hinh-hyperrgb-120hz-3500-nits.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/pin-xiaomi-surge-6000mah-dung-luong-lon.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/vi-xu-ly-snapdragon-8-elite-gen-5-tien-trinh-3nm.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/tong-quan-tinh-nang-camera-200mp-snapdragon-8-elite-gen-5-pin-6000mah.webp"
+      ]
+    },
+    {
+      "sku": "DT006-MI17U-XANH-LA-16GB-1TB",
+      "color": "Xanh Lá",
+      "colorHex": "#228B57",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 34990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/anh-dai-dien-xiaomi-17-ultra-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-truoc-man-hinh-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-phai-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-trai-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-lung-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-duoi-cong-sac-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-phai-nut-nguon-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-trai-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-tren-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-phai-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-trai-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/thiet-ke-quang-hoc-leica-ultrapure-200mp-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/man-hinh-hyperrgb-120hz-3500-nits.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/pin-xiaomi-surge-6000mah-dung-luong-lon.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/vi-xu-ly-snapdragon-8-elite-gen-5-tien-trinh-3nm.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/tong-quan-tinh-nang-camera-200mp-snapdragon-8-elite-gen-5-pin-6000mah.webp"
+      ]
+    },
+    {
+      "sku": "DT006-MI17U-TRANG-16GB-512GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 30490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/anh-dai-dien-xiaomi-17-ultra-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-truoc-man-hinh-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-phai-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-trai-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-lung-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-duoi-cong-sac-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-phai-nut-nguon-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-trai-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-tren-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-phai-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-trai-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/man-hinh-hyperrgb-120hz-3500-nits.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/pin-xiaomi-surge-6000mah-dung-luong-lon.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/vi-xu-ly-snapdragon-8-elite-gen-5-tien-trinh-3nm.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/tong-quan-tinh-nang-camera-200mp-snapdragon-8-elite-gen-5-pin-6000mah.webp"
+      ]
+    },
+    {
+      "sku": "DT006-MI17U-TRANG-16GB-1TB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 34990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/anh-dai-dien-xiaomi-17-ultra-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-truoc-man-hinh-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-phai-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-trai-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-lung-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-duoi-cong-sac-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-phai-nut-nguon-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-trai-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-tren-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-phai-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-trai-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/man-hinh-hyperrgb-120hz-3500-nits.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/pin-xiaomi-surge-6000mah-dung-luong-lon.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/vi-xu-ly-snapdragon-8-elite-gen-5-tien-trinh-3nm.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/tong-quan-tinh-nang-camera-200mp-snapdragon-8-elite-gen-5-pin-6000mah.webp"
+      ]
+    },
+    {
+      "sku": "DT006-MI17U-DEN-16GB-512GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 30490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/anh-dai-dien-xiaomi-17-ultra-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-truoc-man-hinh-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-phai-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-trai-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-lung-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-duoi-cong-sac-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-phai-nut-nguon-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-trai-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-tren-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-phai-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-trai-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/man-hinh-hyperrgb-120hz-3500-nits.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/pin-xiaomi-surge-6000mah-dung-luong-lon.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/vi-xu-ly-snapdragon-8-elite-gen-5-tien-trinh-3nm.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/tong-quan-tinh-nang-camera-200mp-snapdragon-8-elite-gen-5-pin-6000mah.webp"
+      ]
+    },
+    {
+      "sku": "DT006-MI17U-DEN-16GB-1TB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 34990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/anh-dai-dien-xiaomi-17-ultra-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-truoc-man-hinh-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-phai-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-trai-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-lung-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-duoi-cong-sac-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-phai-nut-nguon-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-trai-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-tren-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-phai-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-trai-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/man-hinh-hyperrgb-120hz-3500-nits.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/pin-xiaomi-surge-6000mah-dung-luong-lon.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/vi-xu-ly-snapdragon-8-elite-gen-5-tien-trinh-3nm.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/tong-quan-tinh-nang-camera-200mp-snapdragon-8-elite-gen-5-pin-6000mah.webp"
+      ]
+    },
+    {
+      "sku": "DT006-MI17U-DEN-VIEN-BAC-16GB-512GB",
+      "color": "Đen Viền Bạc",
+      "colorHex": "#27272A",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 30490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/anh-dai-dien-xiaomi-17-ultra-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-truoc-man-hinh-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-phai-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-trai-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-lung-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-duoi-cong-sac-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-phai-nut-nguon-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-trai-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-tren-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-phai-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-trai-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/man-hinh-hyperrgb-120hz-3500-nits.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/pin-xiaomi-surge-6000mah-dung-luong-lon.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/vi-xu-ly-snapdragon-8-elite-gen-5-tien-trinh-3nm.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/tong-quan-tinh-nang-camera-200mp-snapdragon-8-elite-gen-5-pin-6000mah.webp"
+      ]
+    },
+    {
+      "sku": "DT006-MI17U-DEN-VIEN-BAC-16GB-1TB",
+      "color": "Đen Viền Bạc",
+      "colorHex": "#27272A",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 34990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/anh-dai-dien-xiaomi-17-ultra-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-truoc-man-hinh-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-phai-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-trai-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-lung-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-duoi-cong-sac-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-phai-nut-nguon-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-trai-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-tren-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-phai-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-trai-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/man-hinh-hyperrgb-120hz-3500-nits.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/pin-xiaomi-surge-6000mah-dung-luong-lon.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/vi-xu-ly-snapdragon-8-elite-gen-5-tien-trinh-3nm.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/tong-quan-tinh-nang-camera-200mp-snapdragon-8-elite-gen-5-pin-6000mah.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "LTPO AMOLED (68 tỷ màu), 1–120Hz, 3.500 nit",
+    "size": "6,9 inch",
+    "resolution": "2608 x 1200 pixel (1.5K+ / 2K LTPO, 416 ppi)",
+    "refreshRate": "1–120Hz LTPO thích ứng",
+    "brightness": "Dolby Vision, HDR10+, HDR Vivid; Độ sáng đỉnh ngoài trời 3.500 nit; Làm mờ PWM tần số cao 2160Hz, chứng nhận bảo vệ mắt TÜV Rheinland, cảm ứng khi tay ướt",
+    "hdr": "HDR10+ / HLG",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 8 Elite Gen 5 (SM8850-AC, tiến trình 3nm thế hệ mới TSMC)",
+    "cpu": "CPU 8 nhân kiến trúc Oryon V3: 2 nhân Prime Phoenix L (xung nhịp lên tới 4,6 GHz) + 6 nhân Performance (xung nhịp 3,53 GHz)",
+    "gpu": "Qualcomm Adreno 840 hỗ trợ Hardware Ray Tracing 2.0, kết hợp hệ thống tản nhiệt buồng hơi 3D IceLoop thế hệ mới",
+    "ram": [
+      "16GB"
+    ],
+    "storage": [
+      "512GB",
+      "1TB"
+    ],
+    "operatingSystem": "Xiaomi HyperOS 3.0 phát triển trên nền tảng Android 16",
+    "uiVersion": "Xiaomi HyperOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "Hệ thống Leica: 50MP 1-inch OIS + 200MP Tele tiềm vọng Zoom quang liên tục 75–100mm (3.2x–4.3x) OIS + 50MP Siêu rộng + TOF 3D",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "Quay video 8K ở 30fps, quay 4K ở 30/60/120fps trên cả camera chính và tele 200MP; Quay chuyển động siêu chậm Slo-mo 1080p ở 120/240/480/960/1920fps; Quay video 10-bit Dolby Vision HDR (4K@60fps) và 10-bit Log chuẩn điện ảnh ACES; Chống rung gyro-EIS + OIS đa trục"
+    ],
+    "aiFeatures": [
+      "Cơ chế thấu kính di chuyển thay đổi tiêu cự quang học liên tục 75–100mm giúp chụp chân dung ở mọi cự ly mà không suy giảm độ phân giải 200MP; 2 tông màu Leica Authentic & Leica Vibrant; Nền tảng Xiaomi AISP 3.0; Chế độ Leica Street Photography, chụp đêm Ultra Night, chụp thiên văn và tương thích bộ báng cầm Photography Kit"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "50MP (ƒ/2.0, 1/2.88\"), quay 4K 60fps",
+    "features": [
+      "Camera Selfie nâng cấp lên 50MP (cảm biến 1/2.88\", điểm ảnh 0.61µm, khẩu độ ƒ/2.0, góc rộng); Hỗ trợ HDR, làm đẹp chân dung AI và quay video 4K ở 30/60fps, 1080p ở 30/60fps kèm chống rung điện tử gyro-EIS"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "6.000 mAh (Bản Quốc tế) / 6.800 mAh (Silicon-Carbon)",
+    "wiredCharging": "Sạc nhanh có dây 90W HyperCharge, sạc không dây 80W, sạc ngược",
+    "wirelessCharging": "Có hỗ trợ sạc không dây",
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": "Sạc siêu nhanh có dây 90W HyperCharge (tương thích 90W PPS / PD3.0) | Sạc nhanh không dây 80W | Sạc ngược không dây"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM vật lý hoặc kết hợp eSIM"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 7 (802.11be) ba băng tần, hỗ trợ MLO và 2x2 MIMO",
+    "bluetooth": "Bluetooth 5.4 / 6.0 hỗ trợ aptX HD, aptX Adaptive, LHDC 5.0, MIHC",
+    "gps": [
+      "Định vị vệ tinh đa băng tần L1+L5: GPS, GLONASS, BeiDou, Galileo, QZSS, NavIC"
+    ],
+    "usb": "USB Type-C chuẩn tốc độ cao USB 3.2 Gen 2 (10Gbps), hỗ trợ xuất hình DisplayPort",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "162,9 x 77,6 x 8,3 mm (mỏng hơn đáng kể so với thế hệ 15 Ultra)",
+    "weight": "218,4 gram hoặc 223,4 gram",
+    "materials": [
+      "Khung hợp kim nhôm cường lực cao vát phẳng công thái học",
+      "Mặt lưng sợi thủy tinh hàng không hoặc da thuần chay Leica cao cấp chống bám bẩn"
+    ],
+    "waterResistance": "IP68 & IP69 (Kháng nước sâu và tia nước áp lực cao)",
+    "availableColors": [
+      "Xanh Lá",
+      "Trắng",
+      "Đen",
+      "Đen Viền Bạc"
+    ]
+  },
+  "audio": {
+    "speakers": "Hệ thống loa kép Stereo chuẩn Dolby Atmos, Hi-Res Audio & Hi-Res Wireless",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "AMOLED 6.9 inch"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Xiaomi tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/xiaomi/xiaomi-17-ultra-5g/anh-dai-dien-xiaomi-17-ultra-xanh-la.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/anh-dai-dien-xiaomi-17-ultra-xanh-la.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/anh-dai-dien-xiaomi-17-ultra-den-vien-bac.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/anh-dai-dien-xiaomi-17-ultra-den.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/anh-dai-dien-xiaomi-17-ultra-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-truoc-man-hinh-den-vien-bac.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-truoc-man-hinh-den.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-truoc-man-hinh-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-truoc-man-hinh-xanh-la.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-phai-den-vien-bac.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-phai-den.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-phai-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-phai-xanh-la.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-trai-den-vien-bac.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-trai-den.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-trai-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-trai-xanh-la.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-lung-den-vien-bac.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-lung-den.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-lung-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-lung-xanh-la.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-duoi-cong-sac-den-vien-bac.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-duoi-cong-sac-den.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-duoi-cong-sac-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-duoi-cong-sac-xanh-la.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-phai-nut-nguon-den-vien-bac.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-phai-nut-nguon-den.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-phai-nut-nguon-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-phai-nut-nguon-xanh-la.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-trai-den-vien-bac.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-trai-den.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-trai-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-trai-xanh-la.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-tren-den-vien-bac.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-tren-den.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-tren-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-tren-xanh-la.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-phai-den-vien-bac.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-phai-den.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-phai-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-phai-xanh-la.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-trai-den-vien-bac.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-trai-den.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-trai-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-trai-xanh-la.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/man-hinh-hyperrgb-120hz-3500-nits.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/pin-xiaomi-surge-6000mah-dung-luong-lon.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/thiet-ke-quang-hoc-leica-ultrapure-200mp-xanh-la.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/vi-xu-ly-snapdragon-8-elite-gen-5-tien-trinh-3nm.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/tong-quan-tinh-nang-camera-200mp-snapdragon-8-elite-gen-5-pin-6000mah.webp"
+    ],
+    "byColor": {
+      "Đen Viền Bạc": [
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/anh-dai-dien-xiaomi-17-ultra-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-truoc-man-hinh-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-phai-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-trai-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-lung-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-duoi-cong-sac-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-phai-nut-nguon-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-trai-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-tren-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-phai-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-trai-den-vien-bac.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/man-hinh-hyperrgb-120hz-3500-nits.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/pin-xiaomi-surge-6000mah-dung-luong-lon.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/vi-xu-ly-snapdragon-8-elite-gen-5-tien-trinh-3nm.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/tong-quan-tinh-nang-camera-200mp-snapdragon-8-elite-gen-5-pin-6000mah.webp"
+      ],
+      "Đen": [
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/anh-dai-dien-xiaomi-17-ultra-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-truoc-man-hinh-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-phai-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-trai-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-lung-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-duoi-cong-sac-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-phai-nut-nguon-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-trai-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-tren-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-phai-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-trai-den.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/man-hinh-hyperrgb-120hz-3500-nits.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/pin-xiaomi-surge-6000mah-dung-luong-lon.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/vi-xu-ly-snapdragon-8-elite-gen-5-tien-trinh-3nm.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/tong-quan-tinh-nang-camera-200mp-snapdragon-8-elite-gen-5-pin-6000mah.webp"
+      ],
+      "Trắng": [
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/anh-dai-dien-xiaomi-17-ultra-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-truoc-man-hinh-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-phai-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-trai-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-lung-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-duoi-cong-sac-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-phai-nut-nguon-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-trai-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-tren-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-phai-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-trai-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/man-hinh-hyperrgb-120hz-3500-nits.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/pin-xiaomi-surge-6000mah-dung-luong-lon.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/vi-xu-ly-snapdragon-8-elite-gen-5-tien-trinh-3nm.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/tong-quan-tinh-nang-camera-200mp-snapdragon-8-elite-gen-5-pin-6000mah.webp"
+      ],
+      "Xanh Lá": [
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/anh-dai-dien-xiaomi-17-ultra-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-truoc-man-hinh-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-phai-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-trai-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-lung-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-duoi-cong-sac-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-phai-nut-nguon-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-trai-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-tren-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-phai-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-man-hinh-trai-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/thiet-ke-quang-hoc-leica-ultrapure-200mp-xanh-la.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/man-hinh-hyperrgb-120hz-3500-nits.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/pin-xiaomi-surge-6000mah-dung-luong-lon.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/vi-xu-ly-snapdragon-8-elite-gen-5-tien-trinh-3nm.webp",
+        "assets/images/products/xiaomi/xiaomi-17-ultra-5g/tong-quan-tinh-nang-camera-200mp-snapdragon-8-elite-gen-5-pin-6000mah.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-phai-den-vien-bac.webp",
+      "screen": "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-truoc-man-hinh-den-vien-bac.webp",
+      "performance": "assets/images/products/xiaomi/xiaomi-17-ultra-5g/vi-xu-ly-snapdragon-8-elite-gen-5-tien-trinh-3nm.webp",
+      "camera": "assets/images/products/xiaomi/xiaomi-17-ultra-5g/thiet-ke-quang-hoc-leica-ultrapure-200mp-xanh-la.webp",
+      "battery": "assets/images/products/xiaomi/xiaomi-17-ultra-5g/canh-duoi-cong-sac-den-vien-bac.webp",
+      "feature": "assets/images/products/xiaomi/xiaomi-17-ultra-5g/anh-dai-dien-xiaomi-17-ultra-den-vien-bac.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/anh-dai-dien-xiaomi-17-ultra-den-vien-bac.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/anh-dai-dien-xiaomi-17-ultra-den.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/anh-dai-dien-xiaomi-17-ultra-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-truoc-man-hinh-den-vien-bac.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-truoc-man-hinh-den.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-truoc-man-hinh-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/mat-truoc-man-hinh-xanh-la.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-phai-den-vien-bac.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-phai-den.webp",
+      "assets/images/products/xiaomi/xiaomi-17-ultra-5g/goc-nghieng-mat-lung-phai-trang.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-xiaomi",
+      "https://www.thegioididong.com/dtdd-xiaomi-mi",
+      "https://www.mi.com/vn/phone/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "partial_retail_listing",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT006-MI17U",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "LTPO AMOLED thế hệ mới hiển thị 68 tỷ màu (12-bit), độ phủ màu 100% DCI-P3, công nghệ làm mờ 2160Hz PWM",
+      "Kích thước màn hình": "6,9 inch theo đường chéo (diện tích hiển thị 116,6 cm², chiếm ~92,3% mặt trước)",
+      "Độ phân giải màn hình": "2608 x 1200 pixel (tỷ lệ 19,56:9, mật độ điểm ảnh 416 ppi, tối ưu hóa giữa độ sắc nét và thời lượng pin)",
+      "Tần số quét": "Tần số quét thích ứng LTPO từ 1Hz đến 120Hz mượt mà",
+      "Kiểu màn hình": "Màn hình phẳng viền siêu mỏng 4 cạnh đồng đều, kính bảo vệ Xiaomi Dragon Crystal Glass / Shield Glass 3.0",
+      "Tính năng màn hình": "Dolby Vision, HDR10+, HDR Vivid; Độ sáng đỉnh ngoài trời 3.500 nit; Làm mờ PWM tần số cao 2160Hz, chứng nhận bảo vệ mắt TÜV Rheinland, cảm ứng khi tay ướt"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera Leica đỉnh cao với công nghệ Zoom quang học liên tục (Continuous Optical Zoom) độc quyền: (1) Camera chính 50MP Leica 1-inch: cảm biến kích thước 1.0 inch (điểm ảnh 1.6µm, Super Pixel 3.2µm), khẩu độ ƒ/1.7, tiêu cự 23mm, lấy nét Dual Pixel PDAF, chống rung quang học OIS; (2) Camera Periscope Telephoto 200MP Leica Zoom quang liên tục: cảm biến lớn 1/1.4 inch (điểm ảnh 0.56µm), khẩu độ biến thiên ƒ/2.4–ƒ/3.0, tiêu cự thay đổi vật lý liên tục từ 75mm đến 100mm (zoom quang học thực 3.2x đến 4.3x không cắt cúp, zoom lossless 10x/20x, zoom số 120x), lấy nét đa hướng PDAF (từ 30cm đến vô cực hỗ trợ Tele Macro), chống rung OIS và tích hợp vòng xoay zoom cơ học (Zoom Ring trên bản Leica Edition); (3) Camera Góc siêu rộng 50MP Leica: cảm biến 1/2.76 inch (điểm ảnh 0.64µm), khẩu độ ƒ/2.2, tiêu cự 14mm (góc nhìn 115°), lấy nét Dual Pixel PDAF chụp cận cảnh Macro; (4) Cảm biến đo chiều sâu không gian 3D ToF hỗ trợ lấy nét và xóa phông chân dung chính xác",
+      "Quay video": "Quay video 8K ở 30fps, quay 4K ở 30/60/120fps trên cả camera chính và tele 200MP; Quay chuyển động siêu chậm Slo-mo 1080p ở 120/240/480/960/1920fps; Quay video 10-bit Dolby Vision HDR (4K@60fps) và 10-bit Log chuẩn điện ảnh ACES; Chống rung gyro-EIS + OIS đa trục",
+      "Tính năng camera": "Cơ chế thấu kính di chuyển thay đổi tiêu cự quang học liên tục 75–100mm giúp chụp chân dung ở mọi cự ly mà không suy giảm độ phân giải 200MP; 2 tông màu Leica Authentic & Leica Vibrant; Nền tảng Xiaomi AISP 3.0; Chế độ Leica Street Photography, chụp đêm Ultra Night, chụp thiên văn và tương thích bộ báng cầm Photography Kit"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera Selfie nâng cấp lên 50MP (cảm biến 1/2.88\", điểm ảnh 0.61µm, khẩu độ ƒ/2.0, góc rộng); Hỗ trợ HDR, làm đẹp chân dung AI và quay video 4K ở 30/60fps, 1080p ở 30/60fps kèm chống rung điện tử gyro-EIS"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 8 Elite Gen 5 (SM8850-AC, tiến trình 3nm thế hệ mới TSMC)",
+      "Loại CPU": "CPU 8 nhân kiến trúc Oryon V3: 2 nhân Prime Phoenix L (xung nhịp lên tới 4,6 GHz) + 6 nhân Performance (xung nhịp 3,53 GHz)",
+      "GPU": "Qualcomm Adreno 840 hỗ trợ Hardware Ray Tracing 2.0, kết hợp hệ thống tản nhiệt buồng hơi 3D IceLoop thế hệ mới"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "16GB LPDDR5X tốc độ cao",
+      "Bộ nhớ trong": "2 phiên bản: 512GB và 1TB chuẩn UFS 4.1 siêu tốc"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "6.000 mAh (Phiên bản Quốc tế / chính hãng Việt Nam) / 6.800 mAh (Bản nội địa) sử dụng công nghệ pin Silicon-Carbon mật độ năng lượng cao",
+      "Công nghệ sạc": "Sạc siêu nhanh có dây 90W HyperCharge (tương thích 90W PPS / PD3.0) | Sạc nhanh không dây 80W | Sạc ngược không dây",
+      "Cổng sạc": "USB Type-C chuẩn tốc độ cao USB 3.2 Gen 2 (10Gbps), hỗ trợ xuất hình DisplayPort"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS 3.0 phát triển trên nền tảng Android 16",
+      "Công nghệ - Tiện ích": "Hệ sinh thái Xiaomi HyperAI thế hệ 3, trợ lý Google Gemini, Khoanh tròn tìm kiếm Circle to Search, liên lạc vệ tinh hai chiều (trên phiên bản hỗ trợ)",
+      "Tiện ích khác": "Cổng hồng ngoại IR Blaster, cảm biến vân tay siêu âm 3D dưới màn hình, bộ sạc nhanh và ốp lưng chính hãng đi kèm trong hộp",
+      "Thời điểm ra mắt": "Tháng 01 – 02/2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G đa băng tần (SA/NSA Sub-6GHz), 4G LTE-A",
+      "Thẻ SIM": "2 Nano-SIM vật lý hoặc kết hợp eSIM",
+      "Wi-Fi": "Wi-Fi 7 (802.11be) ba băng tần, hỗ trợ MLO và 2x2 MIMO",
+      "Bluetooth": "Bluetooth 5.4 / 6.0 hỗ trợ aptX HD, aptX Adaptive, LHDC 5.0, MIHC",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa năng",
+      "GPS": "Định vị vệ tinh đa băng tần L1+L5: GPS, GLONASS, BeiDou, Galileo, QZSS, NavIC"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung hợp kim nhôm cường lực cao vát phẳng công thái học",
+      "Chất liệu mặt lưng": "Mặt lưng sợi thủy tinh hàng không hoặc da thuần chay Leica cao cấp chống bám bẩn",
+      "Kích thước": "162,9 x 77,6 x 8,3 mm (mỏng hơn đáng kể so với thế hệ 15 Ultra)",
+      "Trọng lượng": "218,4 gram hoặc 223,4 gram",
+      "Chỉ số kháng nước, bụi": "Đạt đồng thời chuẩn IP68 và IP69 (kháng bụi, ngâm nước sâu và chịu tia nước nóng áp lực cao)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo chuẩn Dolby Atmos, Hi-Res Audio & Hi-Res Wireless",
+      "Cảm biến vân tay": "Cảm biến vân tay siêu âm 3D dưới màn hình + Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Cảm biến 3D ToF, Laser AF, Cảm biến phổ màu, Áp kế, Gia tốc kế, Con quay hồi chuyển, Tiệm cận, Ánh sáng kép, La bàn số, Hồng ngoại"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,9 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "LTPO AMOLED (68 tỷ màu), 1–120Hz, 3.500 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2608 x 1200 pixel (1.5K+ / 2K LTPO, 416 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "1–120Hz LTPO thích ứng"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 8 Elite Gen 5 (3nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "16GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "2 phiên bản: 512GB và 1TB chuẩn UFS 4.1"
+    },
+    {
+      "label": "Camera sau",
+      "value": "Hệ thống Leica: 50MP 1-inch OIS + 200MP Tele tiềm vọng Zoom quang liên tục 75–100mm (3.2x–4.3x) OIS + 50MP Siêu rộng + TOF 3D"
+    },
+    {
+      "label": "Camera trước",
+      "value": "50MP (ƒ/2.0, 1/2.88\"), quay 4K 60fps"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "6.000 mAh (Bản Quốc tế) / 6.800 mAh (Silicon-Carbon)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh có dây 90W HyperCharge, sạc không dây 80W, sạc ngược"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS 3.0 (Android 16)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 & IP69 (Kháng nước sâu và tia nước áp lực cao)"
+    }
+  ],
+  "verbatimDescription": [
+    "Ra mắt đầu năm 2026, Xiaomi 17 Ultra là bước đột phá lớn nhất trong lịch sử dòng Ultra khi thu gọn độ dày thân máy xuống chỉ còn 8,3 mm (nặng ~218,4g) nhưng lại nâng cấp lên màn hình lớn 6,9 inch, vi xử lý Snapdragon 8 Elite Gen 5 (4,6 GHz), camera trước 50MP và đặc biệt là hệ thống camera Leica có ống kính Telephoto tiềm vọng 200MP hỗ trợ Zoom quang học biến thiên liên tục từ 75mm đến 100mm (3.2x–4.3x) đi kèm cảm biến chính 1 inch và cảm biến 3D ToF. Tại AURIX MOBILE, Xiaomi 17 Ultra là biểu tượng công nghệ nhiếp ảnh đỉnh cao được săn đón hàng đầu.",
+    "Nếu các thế hệ Ultra trước đây thường có độ dày trên 9,2 mm, thì Xiaomi 17 Ultra đã thực hiện một cuộc cách mạng cơ khí khi giảm độ dày xuống chỉ còn 8,3 mm và trọng lượng giảm còn 218,4–223,4 gram. Nhờ đó, việc cầm nắm chiếc máy màn hình lớn 6,9 inch (162,9 x 77,6 x 8,3 mm) trở nên nhẹ nhàng và thanh thoát hơn bao giờ hết. Thân máy vẫn đảm bảo độ bền tối đa với kính cường lực Dragon Crystal Glass / Shield Glass 3.0 cùng chuẩn kháng nước bụi kép IP68 & IP69.",
+    "Màn hình 6,9 inch LTPO AMOLED của Xiaomi 17 Ultra hiển thị 68 tỷ màu với tần số quét thích ứng 1–120Hz, độ sáng đỉnh ngoài trời 3.500 nit và công nghệ làm mờ PWM tần số siêu cao 2160Hz. Thiết kế viền siêu mỏng giúp tỷ lệ màn hình trên thân máy đạt tới 92,3%, mang lại không gian trải nghiệm xem phim Dolby Vision và chỉnh sửa ảnh Leica cực kỳ rộng rãi.",
+    "Đột phá công nghệ lớn nhất trên Xiaomi 17 Ultra nằm ở cụm camera Leica phía sau. Thay vì dùng 2 ống kính tele rời, Xiaomi đã hợp nhất sức mạnh vào siêu ống kính Periscope Telephoto 200MP (cảm biến lớn 1/1.4 inch, khẩu độ ƒ/2.4–ƒ/3.0, OIS) có cơ chế thấu kính di chuyển thay đổi tiêu cự quang học liên tục từ 75mm (3.2x) đến 100mm (4.3x). Nhờ vậy, ở mọi tiêu cự chân dung kinh điển như 75mm, 85mm, 90mm hay 100mm, máy đều sử dụng toàn bộ độ phân giải quang học của cảm biến 200MP mà không phải cắt cúp kỹ thuật số, đồng thời hỗ trợ chụp cận cảnh Telephoto Macro từ khoảng cách 30cm.",
+    "Song hành cùng ống kính tiềm vọng zoom liên tục 200MP là camera chính 50MP cảm biến 1 inch (23mm, ƒ/1.7, Dual Pixel PDAF, OIS), camera góc siêu rộng 50MP (14mm, ƒ/2.2, 115°, Dual Pixel PDAF) và cảm biến đo chiều sâu không gian 3D ToF. Camera trước cũng được nâng cấp mạnh mẽ từ 32MP lên 50MP (1/2.88\") hỗ trợ quay video 4K@60fps sắc nét. Toàn bộ hệ thống camera sau hỗ trợ quay 8K@30fps, 4K@120fps và 4K@60fps Dolby Vision HDR 10-bit.",
+    "Cung cấp sức mạnh cho Xiaomi 17 Ultra là vi xử lý Qualcomm Snapdragon 8 Elite Gen 5 (3nm) với 2 nhân Oryon V3 đạt xung nhịp kỷ lục 4,6 GHz, đi kèm 16GB RAM LPDDR5X và bộ nhớ 512GB/1TB chuẩn UFS 4.1 trên nền tảng Xiaomi HyperOS 3.0 (Android 16).",
+    "Viên pin Silicon-Carbon dung lượng lớn 6.000 mAh (bản Quốc tế) / 6.800 mAh kết hợp sạc nhanh 90W HyperCharge (hỗ trợ cả chuẩn 90W PPS quốc tế) và sạc không dây 80W giúp Xiaomi 17 Ultra hoạt động bền bỉ suốt gần 2 ngày tác nghiệp cường độ cao."
+  ],
+  "priceSegment": "flagship"
+}

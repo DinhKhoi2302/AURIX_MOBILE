@@ -1,0 +1,268 @@
+
+/* AURIX MOBILE — Product Card Styles (Section 9: Professional & Balanced Retail Card) */
+.tp-product-card {
+  background: var(--tp-white);
+  border: 1px solid var(--tp-border);
+  border-radius: var(--tp-radius-lg);
+  padding: 0.95rem;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  transition: transform 0.26s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.26s ease, border-color 0.26s ease;
+  height: 100%;
+}
+
+.tp-product-card:hover {
+  transform: translateY(-6px);
+  box-shadow: var(--tp-shadow-card-hover);
+  border-color: rgba(8, 102, 245, 0.34);
+}
+
+.tp-card-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.4rem;
+  margin-bottom: 0.45rem;
+  z-index: 2;
+}
+
+.tp-card-badges {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+}
+
+.tp-wishlist-btn {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: var(--tp-bg-page);
+  color: var(--tp-text-secondary);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  transition: color 0.2s ease, background 0.2s ease, transform 0.2s ease;
+}
+
+.tp-wishlist-btn:hover,
+.tp-wishlist-btn.is-active {
+  color: var(--tp-coral);
+  background: #FFF0EF;
+  transform: scale(1.08);
+}
+
+.tp-wishlist-btn.is-active svg {
+  fill: var(--tp-coral);
+}
+
+.tp-card-media {
+  position: relative;
+  padding: 0.4rem;
+  margin-bottom: 0.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  border-radius: var(--tp-radius-md);
+  background: #FFFFFF;
+}
+
+.tp-card-media img {
+  width: 90%;
+  height: 90%;
+  object-fit: contain;
+  transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.tp-product-card:hover .tp-card-media img {
+  transform: scale(1.06);
+}
+
+.tp-quick-view-trigger {
+  position: absolute;
+  bottom: 8px;
+  left: 50%;
+  transform: translateX(-50%) translateY(12px);
+  opacity: 0;
+  background: rgba(16, 35, 71, 0.88);
+  color: var(--tp-white);
+  font-size: 0.74rem;
+  font-weight: 600;
+  padding: 0.32rem 0.75rem;
+  border-radius: var(--tp-radius-pill);
+  transition: opacity 0.22s ease, transform 0.22s ease;
+  white-space: nowrap;
+}
+
+.tp-product-card:hover .tp-quick-view-trigger,
+.tp-quick-view-trigger:focus-visible {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
+
+.tp-card-body {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.tp-card-trust-strip {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-bottom: 0.38rem;
+}
+
+.tp-trust-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.22rem;
+  font-size: 0.67rem;
+  font-weight: 700;
+  color: #0452CC;
+  background: #EAF3FF;
+  border: 1px solid #CFE3FF;
+  padding: 0.12rem 0.45rem;
+  border-radius: 999px;
+}
+
+.tp-card-title {
+  font-size: 0.94rem;
+  font-weight: 700;
+  color: var(--tp-navy);
+  line-height: 1.35;
+  margin-bottom: 0.38rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  min-height: 2.7em;
+}
+
+.tp-card-title a:hover {
+  color: var(--tp-primary);
+}
+
+.tp-card-specs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.28rem;
+  margin-bottom: 0.45rem;
+  min-height: 1.45rem;
+}
+
+.tp-spec-chip {
+  font-size: 0.68rem;
+  padding: 0.15rem 0.45rem;
+  background: var(--tp-bg-page);
+  color: var(--tp-text-secondary);
+  border-radius: 5px;
+  font-weight: 600;
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.tp-card-warranty-bar {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.72rem;
+  color: var(--tp-text-secondary);
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+}
+
+.tp-card-warranty-bar svg {
+  color: #16A765;
+  flex-shrink: 0;
+}
+
+.tp-card-footer {
+  margin-top: auto;
+  padding-top: 0.55rem;
+  border-top: 1px dashed #E2E8F0;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.tp-price-stack {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.tp-discount-pill {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 800;
+  color: var(--tp-coral);
+  background: #FFF0EF;
+  padding: 0.08rem 0.38rem;
+  border-radius: 4px;
+  margin-left: 0.3rem;
+}
+
+/* Nhãn bảo hành — nằm dưới ảnh, không chồng lên sản phẩm. */
+.tp-product-card.tp-has-warranty-badge > .tp-card-media {
+  margin-bottom: -8px;
+}
+
+.tp-product-card > .tp-card-warranty-slot {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  min-width: 0;
+  min-height: 30px;
+  height: auto;
+  flex: 0 0 auto;
+  margin: 0 0 0.35rem;
+  padding: 2px 0;
+  overflow: visible;
+  pointer-events: none;
+}
+
+.tp-product-card > .tp-card-warranty-slot img {
+  display: block;
+  width: min(100%, 205px);
+  max-width: 100%;
+  height: auto;
+  max-height: 36px;
+  object-fit: contain;
+  object-position: center;
+  image-rendering: auto;
+}
+
+/* Thẻ hẹp: giảm kích thước nhãn mà vẫn giữ tỷ lệ ảnh. */
+@media (max-width: 991px) {
+  .tp-product-card > .tp-card-warranty-slot {
+    min-height: 26px;
+    margin-bottom: 0.25rem;
+  }
+
+  .tp-product-card > .tp-card-warranty-slot img {
+    width: min(100%, 150px);
+    max-height: 26px;
+  }
+}
+
+@media (max-width: 576px) {
+  .tp-product-card > .tp-card-warranty-slot {
+    min-height: 24px;
+  }
+
+  .tp-product-card > .tp-card-warranty-slot img {
+    width: min(100%, 135px);
+    max-height: 24px;
+  }
+}

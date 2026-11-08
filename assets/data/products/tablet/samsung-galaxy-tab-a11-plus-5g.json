@@ -1,0 +1,343 @@
+{
+  "id": "samsung-galaxy-tab-a11-plus-5g",
+  "docCode": "TB-SS002-A11P-5G",
+  "model": "Samsung Galaxy Tab A11 Plus 5G",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "series": "Galaxy Tab A11 Series",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "11.0 inch",
+      "Dimensity 7300 5G",
+      "Pin 7.040 mAh"
+    ],
+    "description": "Samsung Galaxy Tab A11 Plus 5G là chiếc máy tính bảng toàn diện đem sức mạnh kết nối mạng di động thế hệ mới 5G đến phân khúc người dùng phổ thông. Với tốc độ tải dữ liệu vượt bậc của mạng 5G kết hợp cùng vi xử lý Dimensity 7300 tiến trình 4nm hiện đại, thiết bị mang lại khả năng làm việc từ xa, học tập trực tuyến và truyền phát video chất lượng cao mà không bao giờ gặp tình trạng giật lag.",
+    "releaseDate": "2024 / 2025"
+  },
+  "performance": {
+    "chipset": "MediaTek Dimensity 7300 5G (tiến trình 4nm hiện đại)",
+    "ram": [
+      "6GB",
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "operatingSystem": "Android 14 (One UI 6.1)"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 7490000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/anh-dai-dien-samsung-galaxy-tab-a11-plus-5g-bac.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/anh-dai-dien-samsung-galaxy-tab-a11-plus-5g-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/anh-dai-dien-samsung-galaxy-tab-a11-plus-5g-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/mat-truoc-sau-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/mat-truoc-dat-tren-ban-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/mat-truoc-dat-tren-ban-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/mat-sau-dat-tren-ban-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/mat-sau-dat-tren-ban-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-khay-sim-canh-ben-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/canh-ben-trai-phai-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/canh-ben-trai-phai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/canh-tren-duoi-loa-cong-sac-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/canh-tren-duoi-loa-cong-sac-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-camera-sau-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-camera-sau-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/cam-tren-tay-man-hinh-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/cam-tren-tay-man-hinh-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-cong-sac-type-c-va-jack-tai-nghe-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-cong-sac-type-c-va-jack-tai-nghe-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-nut-nguon-va-am-luong-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-nut-nguon-va-am-luong-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/thiet-ke-mong-nhe-cam-hung-galaxy-s-xam-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/tinh-nang-camera-8mp-va-google-gemini-live-xam-trang.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/thong-so-chip-mediatek-dimensity-7300-5g-xam-den.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/thong-so-pin-7040mah-sac-nhanh-25w-den-xanh.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/tong-quan-tinh-nang-ai-pin-7040mah-sac-25w-xam-xanh.webp"
+    ],
+    "byColor": {
+      "Bạc": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/anh-dai-dien-samsung-galaxy-tab-a11-plus-5g-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/mat-truoc-sau-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/mat-truoc-dat-tren-ban-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/mat-sau-dat-tren-ban-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-khay-sim-canh-ben-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/canh-ben-trai-phai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/canh-tren-duoi-loa-cong-sac-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-camera-sau-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/cam-tren-tay-man-hinh-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-cong-sac-type-c-va-jack-tai-nghe-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-nut-nguon-va-am-luong-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/thiet-ke-mong-nhe-cam-hung-galaxy-s-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/tinh-nang-camera-8mp-va-google-gemini-live-xam-trang.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/thong-so-chip-mediatek-dimensity-7300-5g-xam-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/thong-so-pin-7040mah-sac-nhanh-25w-den-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/tong-quan-tinh-nang-ai-pin-7040mah-sac-25w-xam-xanh.webp"
+      ],
+      "Xám": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/anh-dai-dien-samsung-galaxy-tab-a11-plus-5g-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/mat-truoc-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/mat-sau-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-camera-sau-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/cam-tren-tay-man-hinh-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-cong-sac-type-c-va-jack-tai-nghe-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-nut-nguon-va-am-luong-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/thiet-ke-mong-nhe-cam-hung-galaxy-s-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/tinh-nang-camera-8mp-va-google-gemini-live-xam-trang.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/thong-so-chip-mediatek-dimensity-7300-5g-xam-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/thong-so-pin-7040mah-sac-nhanh-25w-den-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/tong-quan-tinh-nang-ai-pin-7040mah-sac-25w-xam-xanh.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/mat-truoc-sau-bac.webp",
+      "screen": "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/mat-truoc-dat-tren-ban-bac.webp",
+      "performance": "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/thong-so-chip-mediatek-dimensity-7300-5g-xam-den.webp",
+      "camera": "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-camera-sau-bac.webp",
+      "battery": "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/canh-tren-duoi-loa-cong-sac-bac.webp",
+      "feature": "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/anh-dai-dien-samsung-galaxy-tab-a11-plus-5g-xam.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/anh-dai-dien-samsung-galaxy-tab-a11-plus-5g-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/mat-truoc-sau-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/mat-truoc-dat-tren-ban-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/mat-truoc-dat-tren-ban-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/mat-sau-dat-tren-ban-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/mat-sau-dat-tren-ban-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-khay-sim-canh-ben-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/canh-ben-trai-phai-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/canh-ben-trai-phai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/canh-tren-duoi-loa-cong-sac-bac.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "11,0 inch WUXGA TFTPLS LCD (1920 x 1200 pixel), tỷ lệ 16:10 chuẩn điện ảnh, tần số quét 90Hz mượt mà, độ sáng 500 nit hiển thị rõ nét ngoài trời",
+      "Tính năng màn hình": "Tần số quét 90Hz thích ứng, chế độ bảo vệ mắt Eye Comfort Shield giảm ánh sáng xanh tự động theo thời gian trong ngày"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "MediaTek Dimensity 7300 5G 4nm hiệu năng vượt trội và tiết kiệm điện năng tối đa",
+      "CPU & Đồ họa": "Octa-core 4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55, GPU Mali-G615 MC2",
+      "Hệ điều hành khi ra mắt": "Android 14 giao diện One UI 6.1 với các tính năng Galaxy AI cơ bản"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "6GB / 8GB RAM LPDDR4X đa nhiệm trơn tru",
+      "Bộ nhớ trong": "128GB / 256GB, có khe cắm thẻ nhớ thẻ nhớ ngoài MicroSD chuyên dụng tối đa 1TB"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "8MP tự động lấy nét, hỗ trợ AI nhận diện và quét tài liệu, quay video 1080p 30fps",
+      "Camera trước": "5MP đặt ở cạnh ngang tối ưu hóa gọi video Google Meet và Google Gemini Live",
+      "Chi tiết hệ thống Camera": "Camera sau 8MP AF hỗ trợ Google Lens; Camera trước 5MP f/2.2 nhận diện khuôn mặt và Gemini Live"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "7.040 mAh dung lượng lớn, sạc nhanh công suất 25W qua USB-C",
+      "Pin và công nghệ sạc": "Pin Lithium-Polymer 7.040 mAh, hỗ trợ sạc nhanh có dây 25W qua cổng Type-C"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Tương thích các dòng bút cảm ứng stylus điện dung",
+      "Hỗ trợ bàn phím rời": "Kết nối bàn phím và chuột không dây Bluetooth",
+      "Công nghệ âm thanh": "Dàn 4 loa ngoài Quad Speakers tích hợp công nghệ âm thanh vòm Dolby Atmos sống động",
+      "Thuộc tính đặc biệt": "Kết nối mạng 5G tốc độ cao, hỗ trợ trợ lý ảo Google Gemini Live thông minh, 4 loa Dolby Atmos"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Mạng di động 5G siêu tốc độ cao, 4G LTE, Wi-Fi 6",
+      "Thẻ SIM": "1 Nano-SIM + eSIM (Hỗ trợ kết nối mạng 5G di động)",
+      "Kết nối không dây & Cổng giao tiếp": "5G di động siêu tốc, Nano-SIM, eSIM, Wi-Fi 6 (802.11ax), Bluetooth 5.3, GPS, USB-C 2.0",
+      "Công nghệ - Tiện ích": "Trợ lý Google Gemini Live trò chuyện tương tác giọng nói thời gian thực, Samsung DeX đa cửa sổ"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Độ mỏng 6.9 mm thanh lịch, kích thước 257.1 x 168.7 x 6.9 mm, trọng lượng khoảng 485 g",
+      "Bảo mật và độ bền": "Mở khóa khuôn mặt AI Face Recognition, khung viền nhôm cao cấp sang trọng",
+      "Thời điểm ra mắt": "Năm 2024 / 2025"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "11.0 inch TFT LCD, độ phân giải sắc nét WUXGA (1920 x 1200 pixels)"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Tần số quét 90Hz mượt mà, tỷ lệ 16:10 chuẩn điện ảnh, độ sáng 500 nits, chứng nhận bảo vệ mắt"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 7300 5G (tiến trình 4nm hiện đại)"
+    },
+    {
+      "label": "RAM",
+      "value": "6GB / 8GB"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB (Hỗ trợ thẻ nhớ MicroSD tối đa 1TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "8MP tự động lấy nét, hỗ trợ AI nhận diện và quét tài liệu, quay video 1080p 30fps"
+    },
+    {
+      "label": "Camera trước",
+      "value": "5MP đặt ở cạnh ngang tối ưu hóa gọi video Google Meet và Google Gemini Live"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Pin Lithium-Polymer 7.040 mAh, hỗ trợ sạc nhanh có dây 25W qua cổng Type-C"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Mạng di động 5G siêu tốc độ cao, 4G LTE, Wi-Fi 6"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Tương thích các dòng bút cảm ứng stylus điện dung"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Kết nối bàn phím và chuột không dây Bluetooth"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 14 (One UI 6.1)"
+    }
+  ],
+  "verbatimDescription": [
+    "Samsung Galaxy Tab A11 Plus 5G là chiếc máy tính bảng toàn diện đem sức mạnh kết nối mạng di động thế hệ mới 5G đến phân khúc người dùng phổ thông. Với tốc độ tải dữ liệu vượt bậc của mạng 5G kết hợp cùng vi xử lý Dimensity 7300 tiến trình 4nm hiện đại, thiết bị mang lại khả năng làm việc từ xa, học tập trực tuyến và truyền phát video chất lượng cao mà không bao giờ gặp tình trạng giật lag.",
+    "Màn hình kích thước lớn 11 inch với độ phân giải sắc nét WUXGA (1920 x 1200 pixels) cùng tần số quét 90Hz mang lại không gian thị giác rộng rãi và mượt mà. Hệ thống 4 loa stereo cao cấp tích hợp công nghệ Dolby Atmos phân bổ ở bốn góc máy đem đến chất âm to rõ, tái hiện không gian âm nhạc sống động tựa như trong rạp hát.",
+    "Đặc biệt, máy được tích hợp sâu công cụ trợ lý trí tuệ nhân tạo Google Gemini Live thông minh, cho phép người dùng trò chuyện, hỏi đáp bằng giọng nói tự nhiên trong thời gian thực, hỗ trợ dịch thuật và tóm tắt bài học nhanh chóng. Thiết kế kim loại nguyên khối mỏng chỉ 6.9 mm cùng viên pin 7.040 mAh và sạc nhanh 25W tạo nên một người bạn đồng hành hoàn hảo cho phong cách sống hiện đại.",
+    "Khả năng làm việc đa nhiệm trên Samsung Galaxy Tab A11 Plus 5G cực kỳ ấn tượng nhờ chế độ Samsung DeX tích hợp sẵn và tính năng chia 3 cửa sổ ứng dụng cùng lúc trên màn hình 11 inch rộng rãi.",
+    "Hệ thống 4 loa ngoài Quad Speakers tinh chỉnh âm thanh vòm Dolby Atmos tạo hiệu ứng âm trường rộng mở khi thưởng thức các bộ phim bom tấn hoặc tham gia hội nghị trực tuyến qua kết nối 5G siêu tốc.",
+    "Viên pin lớn 7.040 mAh hỗ trợ sạc nhanh 25W gói gọn trong thân máy kim loại nguyên khối mỏng chỉ 6,9mm, đi kèm cam kết cập nhật phần mềm lâu dài và bảo mật Samsung Knox an toàn tuyệt đối."
+  ],
+  "variants": [
+    {
+      "sku": "TB-SS002-A11P-5G-BAC-6GB-128GB-5G",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "6GB",
+      "storage": "6GB/128GB (5G)",
+      "rom": "128GB",
+      "price": 7490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/anh-dai-dien-samsung-galaxy-tab-a11-plus-5g-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/mat-truoc-sau-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/mat-truoc-dat-tren-ban-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/mat-sau-dat-tren-ban-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-khay-sim-canh-ben-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/canh-ben-trai-phai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/canh-tren-duoi-loa-cong-sac-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-camera-sau-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/cam-tren-tay-man-hinh-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-cong-sac-type-c-va-jack-tai-nghe-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-nut-nguon-va-am-luong-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/thiet-ke-mong-nhe-cam-hung-galaxy-s-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/tinh-nang-camera-8mp-va-google-gemini-live-xam-trang.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/thong-so-chip-mediatek-dimensity-7300-5g-xam-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/thong-so-pin-7040mah-sac-nhanh-25w-den-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/tong-quan-tinh-nang-ai-pin-7040mah-sac-25w-xam-xanh.webp"
+      ]
+    },
+    {
+      "sku": "TB-SS002-A11P-5G-BAC-8GB-256GB-5G",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "8GB",
+      "storage": "8GB/256GB (5G)",
+      "rom": "256GB",
+      "price": 8690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/anh-dai-dien-samsung-galaxy-tab-a11-plus-5g-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/mat-truoc-sau-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/mat-truoc-dat-tren-ban-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/mat-sau-dat-tren-ban-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-khay-sim-canh-ben-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/canh-ben-trai-phai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/canh-tren-duoi-loa-cong-sac-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-camera-sau-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/cam-tren-tay-man-hinh-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-cong-sac-type-c-va-jack-tai-nghe-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-nut-nguon-va-am-luong-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/thiet-ke-mong-nhe-cam-hung-galaxy-s-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/tinh-nang-camera-8mp-va-google-gemini-live-xam-trang.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/thong-so-chip-mediatek-dimensity-7300-5g-xam-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/thong-so-pin-7040mah-sac-nhanh-25w-den-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/tong-quan-tinh-nang-ai-pin-7040mah-sac-25w-xam-xanh.webp"
+      ]
+    },
+    {
+      "sku": "TB-SS002-A11P-5G-XAM-6GB-128GB-5G",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "6GB",
+      "storage": "6GB/128GB (5G)",
+      "rom": "128GB",
+      "price": 7490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/anh-dai-dien-samsung-galaxy-tab-a11-plus-5g-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/mat-truoc-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/mat-sau-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-camera-sau-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/cam-tren-tay-man-hinh-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-cong-sac-type-c-va-jack-tai-nghe-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-nut-nguon-va-am-luong-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/thiet-ke-mong-nhe-cam-hung-galaxy-s-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/tinh-nang-camera-8mp-va-google-gemini-live-xam-trang.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/thong-so-chip-mediatek-dimensity-7300-5g-xam-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/thong-so-pin-7040mah-sac-nhanh-25w-den-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/tong-quan-tinh-nang-ai-pin-7040mah-sac-25w-xam-xanh.webp"
+      ]
+    },
+    {
+      "sku": "TB-SS002-A11P-5G-XAM-8GB-256GB-5G",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "8GB/256GB (5G)",
+      "rom": "256GB",
+      "price": 8690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/anh-dai-dien-samsung-galaxy-tab-a11-plus-5g-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/mat-truoc-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/mat-sau-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-camera-sau-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/cam-tren-tay-man-hinh-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-cong-sac-type-c-va-jack-tai-nghe-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/can-canh-nut-nguon-va-am-luong-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/thiet-ke-mong-nhe-cam-hung-galaxy-s-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/tinh-nang-camera-8mp-va-google-gemini-live-xam-trang.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/thong-so-chip-mediatek-dimensity-7300-5g-xam-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/thong-so-pin-7040mah-sac-nhanh-25w-den-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-5g/tong-quan-tinh-nang-ai-pin-7040mah-sac-25w-xam-xanh.webp"
+      ]
+    }
+  ]
+}

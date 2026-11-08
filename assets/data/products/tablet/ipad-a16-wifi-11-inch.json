@@ -1,0 +1,402 @@
+{
+  "id": "ipad-a16-wifi-11-inch",
+  "docCode": "TB-AP001-A16",
+  "model": "iPad 11 inch A16 Wi-Fi (iPad Gen 11)",
+  "brand": "Apple",
+  "brandId": "apple",
+  "parentGroupId": "apple",
+  "series": "iPad Gen 11 (A16)",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "11.0 inch",
+      "A16 Bionic",
+      "Pin 28.93 Wh"
+    ],
+    "description": "iPad thế hệ mới trang bị vi xử lý Apple A16 Bionic mở ra bước ngoặt đột phá cho dòng máy tính bảng phổ thông bán chạy nhất của Apple. Với thiết kế viền mỏng toàn màn hình hiện đại, sản phẩm mang lại vẻ ngoài trẻ trung, thanh lịch cùng loạt màu sắc rực rỡ như Bạc sang trọng, Hồng ngọt ngào và Vàng tươi mới, phù hợp hoàn hảo cho học sinh, sinh viên và nhân viên văn phòng.",
+    "releaseDate": "2024 / 2025"
+  },
+  "performance": {
+    "chipset": "Apple A16 Bionic (tiến trình 4nm tiên tiến)",
+    "ram": [
+      "6GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB",
+      "512GB"
+    ],
+    "operatingSystem": "iPadOS 18"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 9990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/anh-dai-dien-ipad-a16-wifi-11-inch-bac.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/anh-dai-dien-ipad-a16-wifi-11-inch-bac.webp",
+      "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/anh-dai-dien-ipad-a16-wifi-11-inch-hong.webp",
+      "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/anh-dai-dien-ipad-a16-wifi-11-inch-vang.webp",
+      "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/mat-truoc-sau-bac.webp",
+      "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/man-hinh-chinh-sua-anh-nam-ngang-bac.webp",
+      "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/man-hinh-ung-dung-hoc-tap-bac.webp",
+      "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/phu-kien-trong-hop-bac-trang.webp",
+      "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/su-dung-kem-but-apple-pencil-bac.webp",
+      "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/tinh-nang-ho-tro-apple-pencil-magic-keyboard-trang-bac.webp",
+      "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/trai-nghiem-xem-phim-giai-tri-bac.webp",
+      "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/thong-so-man-hinh-liquid-retina-11-inch-xanh-den.webp",
+      "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/thong-so-pin-28-93wh-sac-20w-den-xam.webp",
+      "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/tong-quan-tinh-nang-chip-a16-da-sac-mau.webp"
+    ],
+    "byColor": {
+      "Bạc": [
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/anh-dai-dien-ipad-a16-wifi-11-inch-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/mat-truoc-sau-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/man-hinh-chinh-sua-anh-nam-ngang-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/man-hinh-ung-dung-hoc-tap-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/su-dung-kem-but-apple-pencil-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/trai-nghiem-xem-phim-giai-tri-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/phu-kien-trong-hop-bac-trang.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/tinh-nang-ho-tro-apple-pencil-magic-keyboard-trang-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/thong-so-man-hinh-liquid-retina-11-inch-xanh-den.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/thong-so-pin-28-93wh-sac-20w-den-xam.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/tong-quan-tinh-nang-chip-a16-da-sac-mau.webp"
+      ],
+      "Hồng": [
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/anh-dai-dien-ipad-a16-wifi-11-inch-hong.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/phu-kien-trong-hop-bac-trang.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/tinh-nang-ho-tro-apple-pencil-magic-keyboard-trang-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/thong-so-man-hinh-liquid-retina-11-inch-xanh-den.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/thong-so-pin-28-93wh-sac-20w-den-xam.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/tong-quan-tinh-nang-chip-a16-da-sac-mau.webp"
+      ],
+      "Vàng": [
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/anh-dai-dien-ipad-a16-wifi-11-inch-vang.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/phu-kien-trong-hop-bac-trang.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/tinh-nang-ho-tro-apple-pencil-magic-keyboard-trang-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/thong-so-man-hinh-liquid-retina-11-inch-xanh-den.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/thong-so-pin-28-93wh-sac-20w-den-xam.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/tong-quan-tinh-nang-chip-a16-da-sac-mau.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/mat-truoc-sau-bac.webp",
+      "screen": "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/man-hinh-chinh-sua-anh-nam-ngang-bac.webp",
+      "performance": "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/anh-dai-dien-ipad-a16-wifi-11-inch-hong.webp",
+      "camera": "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/anh-dai-dien-ipad-a16-wifi-11-inch-vang.webp",
+      "battery": "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/phu-kien-trong-hop-bac-trang.webp",
+      "feature": "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/su-dung-kem-but-apple-pencil-bac.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/anh-dai-dien-ipad-a16-wifi-11-inch-hong.webp",
+      "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/anh-dai-dien-ipad-a16-wifi-11-inch-vang.webp",
+      "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/mat-truoc-sau-bac.webp",
+      "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/man-hinh-chinh-sua-anh-nam-ngang-bac.webp",
+      "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/man-hinh-ung-dung-hoc-tap-bac.webp",
+      "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/phu-kien-trong-hop-bac-trang.webp",
+      "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/su-dung-kem-but-apple-pencil-bac.webp",
+      "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/tinh-nang-ho-tro-apple-pencil-magic-keyboard-trang-bac.webp",
+      "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/trai-nghiem-xem-phim-giai-tri-bac.webp",
+      "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/thong-so-man-hinh-liquid-retina-11-inch-xanh-den.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "11 inch Liquid Retina, độ phân giải 2360 x 1640 pixels (mật độ 264 ppi), tần số quét 60Hz, True Tone, 500 nits",
+      "Tính năng màn hình": "Công nghệ True Tone, dải màu sRGB, độ sáng 500 nits, lớp phủ chống bám vân tay oleophobic"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "Apple A16 Bionic kiến trúc 64-bit với 16-core Neural Engine xử lý 17 nghìn tỷ phép tính/giây",
+      "CPU & Đồ họa": "CPU 6 nhân (2 nhân xung nhịp cao 3.46 GHz + 4 nhân tiết kiệm điện), GPU đồ họa Apple 5 lõi",
+      "Hệ điều hành khi ra mắt": "iPadOS 18 tối ưu hóa đa nhiệm cửa sổ và Apple Intelligence"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "6GB RAM LPDDR5 tốc độ cao",
+      "Bộ nhớ trong": "128GB / 256GB / 512GB bộ nhớ flash NVMe chuẩn Apple"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "12MP góc rộng, khẩu độ f/1.8, tự động lấy nét Focus Pixels, HDR thông minh 4",
+      "Camera trước": "12MP Ultra Wide đặt ngang (Landscape), góc nhìn 122 độ, tính năng Center Stage",
+      "Chi tiết hệ thống Camera": "Camera sau 12MP Wide f/1.8, quay video 4K 60fps, slo-mo 1080p 240fps; Camera trước 12MP Ultra Wide f/2.4 đặt cạnh ngang với Center Stage"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "28.93 Wh (~7.606 mAh), thời lượng lướt web video lên đến 10 giờ liên tục",
+      "Pin và công nghệ sạc": "Pin Lithium-Polymer 28.93 Wh, hỗ trợ sạc nhanh công suất 20W qua cổng kết nối USB-C"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Tương thích Apple Pencil (USB-C) và Apple Pencil thế hệ 1 (kèm adapter)",
+      "Hỗ trợ bàn phím rời": "Tương thích Magic Keyboard Folio thông qua cổng kết nối Smart Connector cạnh bên",
+      "Công nghệ âm thanh": "Hệ thống loa kép stereo nằm ngang (Landscape Stereo Speakers), micro kép thu âm khử ồn",
+      "Thuộc tính đặc biệt": "Hỗ trợ bút cảm ứng Apple Pencil (USB-C & Gen 1), bàn phím Magic Keyboard Folio"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Wi-Fi 6 (802.11ax) băng tần kép 2.4GHz và 5GHz, MIMO",
+      "Thẻ SIM": "Không hỗ trợ (Phiên bản Wi-Fi)",
+      "Kết nối không dây & Cổng giao tiếp": "Wi-Fi 6 (802.11ax), Bluetooth 5.3, cổng giao tiếp dữ liệu USB-C 2.0 (tốc độ 480 Mbps)",
+      "Công nghệ - Tiện ích": "Tính năng Center Stage tự động căn giữa khung hình, hỗ trợ đa nhiệm Split View và Slide Over"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Vỏ nhôm tái chế 100%, mặt lưng nhôm mịn màng, kích thước 248.6 x 179.5 x 7.0 mm, trọng lượng 477 g",
+      "Bảo mật và độ bền": "Cảm biến vân tay Touch ID tích hợp trên phím nguồn cạnh trên, khung nhôm nguyên khối bền chắc",
+      "Thời điểm ra mắt": "Cuối năm 2024 / Đầu năm 2025"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "11.0 inch, công nghệ Liquid Retina IPS LCD, độ phân giải 2360 x 1640 pixels"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Công nghệ True Tone, dải màu sRGB, độ sáng 500 nits, lớp phủ chống bám vân tay oleophobic"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Apple A16 Bionic (tiến trình 4nm tiên tiến)"
+    },
+    {
+      "label": "RAM",
+      "value": "6GB RAM LPDDR5"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB, 256GB, 512GB"
+    },
+    {
+      "label": "Camera sau",
+      "value": "12MP góc rộng, khẩu độ f/1.8, tự động lấy nét Focus Pixels, HDR thông minh 4"
+    },
+    {
+      "label": "Camera trước",
+      "value": "12MP Ultra Wide đặt ngang (Landscape), góc nhìn 122 độ, tính năng Center Stage"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Pin Lithium-Polymer 28.93 Wh, hỗ trợ sạc nhanh công suất 20W qua cổng kết nối USB-C"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Wi-Fi 6 (802.11ax) băng tần kép 2.4GHz và 5GHz, MIMO"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Tương thích Apple Pencil (USB-C) và Apple Pencil thế hệ 1 (kèm adapter)"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Tương thích Magic Keyboard Folio thông qua cổng kết nối Smart Connector cạnh bên"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "iPadOS 18"
+    }
+  ],
+  "verbatimDescription": [
+    "iPad thế hệ mới trang bị vi xử lý Apple A16 Bionic mở ra bước ngoặt đột phá cho dòng máy tính bảng phổ thông bán chạy nhất của Apple. Với thiết kế viền mỏng toàn màn hình hiện đại, sản phẩm mang lại vẻ ngoài trẻ trung, thanh lịch cùng loạt màu sắc rực rỡ như Bạc sang trọng, Hồng ngọt ngào và Vàng tươi mới, phù hợp hoàn hảo cho học sinh, sinh viên và nhân viên văn phòng.",
+    "Điểm nhấn đầu tiên nằm ở màn hình Liquid Retina kích thước 11 inch sắc nét với độ phân giải cao 2360 x 1640 pixels. Màn hình tái hiện màu sắc sống động và tự nhiên nhờ công nghệ True Tone độc quyền, tự động điều chỉnh nhiệt độ màu theo ánh sáng môi trường xung quanh, giúp bảo vệ tối đa thị lực khi học tập và đọc tài liệu trong nhiều giờ liên tục.",
+    "Sức mạnh phần cứng được nâng cấp vượt bậc với con chip A16 Bionic từng khẳng định vị thế trên các dòng iPhone Pro cao cấp. Cấu trúc 6 nhân CPU kết hợp cùng 5 nhân GPU đồ họa và 16 nhân Neural Engine mạnh mẽ mang lại khả năng xử lý mượt mà mọi tác vụ, từ lướt web đa tab, ghi chú bài giảng đến chỉnh sửa ảnh và chơi các tựa game 3D đỉnh cao.",
+    "Apple đã lắng nghe phản hồi của người dùng khi chuyển vị trí camera trước 12MP Ultra Wide sang cạnh ngang của máy. Thiết kế này kết hợp cùng tính năng Center Stage thông minh giúp người dùng luôn ở vị trí trung tâm khung hình trong suốt các buổi học trực tuyến qua Zoom, họp video qua Google Meet hay trò chuyện gia đình qua FaceTime.",
+    "Hệ thống camera sau 12MP với khẩu độ lớn f/1.8 hỗ trợ lấy nét nhanh Focus Pixels và quay video chuẩn 4K siêu sắc nét, cho phép người dùng dễ dàng chụp quét tài liệu bài học, quét mã QR và quay vlog thường ngày với chất lượng chi tiết và màu sắc chân thực.",
+    "Về thời lượng pin, máy sở hữu viên pin dung lượng 28.93 Wh bền bỉ cung cấp tới 10 giờ lướt web hoặc xem video liên tục qua Wi-Fi. Cổng sạc USB-C hiện đại không chỉ mang lại khả năng nạp pin tiện lợi mà còn tương thích linh hoạt với nhiều phụ kiện sạc và thiết bị ngoại vi phổ biến hiện nay.",
+    "Khả năng mở rộng không giới hạn khi kết hợp với bút Apple Pencil (USB-C) độ trễ siêu thấp và bao da bàn phím Magic Keyboard Folio hai mảnh độc đáo. Người dùng có thể biến chiếc iPad thành một cuốn sổ tay kỹ thuật số thông minh để phác thảo ý tưởng hoặc thành chiếc laptop mini tiện lợi để soạn thảo văn bản ở bất cứ đâu.",
+    "Vận hành trên nền tảng iPadOS 18 mới nhất, thiết bị hỗ trợ kho ứng dụng giáo dục và văn phòng khổng lồ, đi kèm các công cụ ghi chú thông minh Smart Script và máy tính khoa học chuyên sâu, biến chiếc iPad 11 inch thành khoản đầu tư công nghệ toàn diện và đáng giá hàng đầu phân khúc."
+  ],
+  "variants": [
+    {
+      "sku": "TB-AP001-A16-BAC-128GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "6GB",
+      "storage": "128GB",
+      "rom": "128GB",
+      "price": 9990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/anh-dai-dien-ipad-a16-wifi-11-inch-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/mat-truoc-sau-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/man-hinh-chinh-sua-anh-nam-ngang-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/man-hinh-ung-dung-hoc-tap-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/su-dung-kem-but-apple-pencil-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/trai-nghiem-xem-phim-giai-tri-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/phu-kien-trong-hop-bac-trang.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/tinh-nang-ho-tro-apple-pencil-magic-keyboard-trang-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/thong-so-man-hinh-liquid-retina-11-inch-xanh-den.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/thong-so-pin-28-93wh-sac-20w-den-xam.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/tong-quan-tinh-nang-chip-a16-da-sac-mau.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP001-A16-BAC-256GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "6GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 12490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/anh-dai-dien-ipad-a16-wifi-11-inch-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/mat-truoc-sau-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/man-hinh-chinh-sua-anh-nam-ngang-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/man-hinh-ung-dung-hoc-tap-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/su-dung-kem-but-apple-pencil-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/trai-nghiem-xem-phim-giai-tri-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/phu-kien-trong-hop-bac-trang.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/tinh-nang-ho-tro-apple-pencil-magic-keyboard-trang-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/thong-so-man-hinh-liquid-retina-11-inch-xanh-den.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/thong-so-pin-28-93wh-sac-20w-den-xam.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/tong-quan-tinh-nang-chip-a16-da-sac-mau.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP001-A16-BAC-512GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "6GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 16990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/anh-dai-dien-ipad-a16-wifi-11-inch-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/mat-truoc-sau-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/man-hinh-chinh-sua-anh-nam-ngang-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/man-hinh-ung-dung-hoc-tap-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/su-dung-kem-but-apple-pencil-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/trai-nghiem-xem-phim-giai-tri-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/phu-kien-trong-hop-bac-trang.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/tinh-nang-ho-tro-apple-pencil-magic-keyboard-trang-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/thong-so-man-hinh-liquid-retina-11-inch-xanh-den.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/thong-so-pin-28-93wh-sac-20w-den-xam.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/tong-quan-tinh-nang-chip-a16-da-sac-mau.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP001-A16-HONG-128GB",
+      "color": "Hồng",
+      "colorHex": "#F472B6",
+      "ram": "6GB",
+      "storage": "128GB",
+      "rom": "128GB",
+      "price": 9990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/anh-dai-dien-ipad-a16-wifi-11-inch-hong.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/phu-kien-trong-hop-bac-trang.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/tinh-nang-ho-tro-apple-pencil-magic-keyboard-trang-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/thong-so-man-hinh-liquid-retina-11-inch-xanh-den.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/thong-so-pin-28-93wh-sac-20w-den-xam.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/tong-quan-tinh-nang-chip-a16-da-sac-mau.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP001-A16-HONG-256GB",
+      "color": "Hồng",
+      "colorHex": "#F472B6",
+      "ram": "6GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 12490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/anh-dai-dien-ipad-a16-wifi-11-inch-hong.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/phu-kien-trong-hop-bac-trang.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/tinh-nang-ho-tro-apple-pencil-magic-keyboard-trang-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/thong-so-man-hinh-liquid-retina-11-inch-xanh-den.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/thong-so-pin-28-93wh-sac-20w-den-xam.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/tong-quan-tinh-nang-chip-a16-da-sac-mau.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP001-A16-HONG-512GB",
+      "color": "Hồng",
+      "colorHex": "#F472B6",
+      "ram": "6GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 16990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/anh-dai-dien-ipad-a16-wifi-11-inch-hong.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/phu-kien-trong-hop-bac-trang.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/tinh-nang-ho-tro-apple-pencil-magic-keyboard-trang-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/thong-so-man-hinh-liquid-retina-11-inch-xanh-den.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/thong-so-pin-28-93wh-sac-20w-den-xam.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/tong-quan-tinh-nang-chip-a16-da-sac-mau.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP001-A16-VANG-128GB",
+      "color": "Vàng",
+      "colorHex": "#EAB308",
+      "ram": "6GB",
+      "storage": "128GB",
+      "rom": "128GB",
+      "price": 9990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/anh-dai-dien-ipad-a16-wifi-11-inch-vang.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/phu-kien-trong-hop-bac-trang.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/tinh-nang-ho-tro-apple-pencil-magic-keyboard-trang-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/thong-so-man-hinh-liquid-retina-11-inch-xanh-den.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/thong-so-pin-28-93wh-sac-20w-den-xam.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/tong-quan-tinh-nang-chip-a16-da-sac-mau.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP001-A16-VANG-256GB",
+      "color": "Vàng",
+      "colorHex": "#EAB308",
+      "ram": "6GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 12490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/anh-dai-dien-ipad-a16-wifi-11-inch-vang.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/phu-kien-trong-hop-bac-trang.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/tinh-nang-ho-tro-apple-pencil-magic-keyboard-trang-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/thong-so-man-hinh-liquid-retina-11-inch-xanh-den.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/thong-so-pin-28-93wh-sac-20w-den-xam.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/tong-quan-tinh-nang-chip-a16-da-sac-mau.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP001-A16-VANG-512GB",
+      "color": "Vàng",
+      "colorHex": "#EAB308",
+      "ram": "6GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 16990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/anh-dai-dien-ipad-a16-wifi-11-inch-vang.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/phu-kien-trong-hop-bac-trang.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/tinh-nang-ho-tro-apple-pencil-magic-keyboard-trang-bac.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/thong-so-man-hinh-liquid-retina-11-inch-xanh-den.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/thong-so-pin-28-93wh-sac-20w-den-xam.webp",
+        "assets/images/products/tablet/apple/ipad-a16-wifi-11-inch/tong-quan-tinh-nang-chip-a16-da-sac-mau.webp"
+      ]
+    }
+  ]
+}

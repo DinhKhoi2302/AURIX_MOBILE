@@ -1,0 +1,436 @@
+{
+  "id": "realme-15-pro-5g",
+  "brand": "realme",
+  "brandId": "realme",
+  "parentGroupId": "realme",
+  "model": "realme 15 Pro 5G",
+  "series": "realme Number Series (16 / 15)",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "upper-midrange"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "Năm 2025",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "realme 15 Pro 5G là mẫu smartphone cận cao cấp nổi bật với hệ thống ba ống kính 50MP (cảm biến chính Sony IMX896 OIS + góc siêu rộng 50MP + selfie 50MP đều quay 4K@60fps), vi xử lý Snapdragon 7 Gen 4 (4nm), màn hình cong 4D 1.5K 144Hz và viên pin Titan 7.000 mAh sạc nhanh 80W trong thân máy siêu mỏng 7,69mm.",
+    "highlights": [
+      "Hệ thống 3 camera 50MP toàn diện (Sony IMX896 OIS + Siêu rộng 50MP + Selfie 50MP) hỗ trợ quay 4K@60fps",
+      "Vi xử lý Qualcomm Snapdragon 7 Gen 4 (4nm) kết hợp màn hình cong 1.5K 144Hz siêu sáng",
+      "Pin Titan 7.000 mAh sạc nhanh 80W trong thiết kế mỏng 7,69mm và chuẩn kháng nước IP68/IP69"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 10990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT002-RM15PRO5G-BAC-8GB-256GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 10990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-15-pro-5g/anh-dai-dien-realme-15-pro-5g-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/can-canh-canh-duoi-cong-sac-loa-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/can-canh-khay-sim-canh-duoi-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/canh-ben-trai-phai-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/canh-tren-duoi-loa-cong-sac-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/can-canh-cum-camera-sau-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/can-canh-do-day-cum-camera-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/cam-hai-tay-chup-anh-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/cam-tren-tay-man-hinh-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/can-canh-nut-nguon-va-am-luong-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/mat-sau-kem-hop-phu-kien-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/mat-truoc-kem-hop-phu-kien-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/mo-khoa-van-tay-man-hinh-bac.webp"
+      ]
+    },
+    {
+      "sku": "DT002-RM15PRO5G-BAC-12GB-256GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 12190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-15-pro-5g/anh-dai-dien-realme-15-pro-5g-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/can-canh-canh-duoi-cong-sac-loa-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/can-canh-khay-sim-canh-duoi-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/canh-ben-trai-phai-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/canh-tren-duoi-loa-cong-sac-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/can-canh-cum-camera-sau-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/can-canh-do-day-cum-camera-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/cam-hai-tay-chup-anh-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/cam-tren-tay-man-hinh-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/can-canh-nut-nguon-va-am-luong-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/mat-sau-kem-hop-phu-kien-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/mat-truoc-kem-hop-phu-kien-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/mo-khoa-van-tay-man-hinh-bac.webp"
+      ]
+    },
+    {
+      "sku": "DT002-RM15PRO5G-BAC-12GB-512GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 13690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-15-pro-5g/anh-dai-dien-realme-15-pro-5g-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/can-canh-canh-duoi-cong-sac-loa-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/can-canh-khay-sim-canh-duoi-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/canh-ben-trai-phai-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/canh-tren-duoi-loa-cong-sac-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/can-canh-cum-camera-sau-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/can-canh-do-day-cum-camera-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/cam-hai-tay-chup-anh-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/cam-tren-tay-man-hinh-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/can-canh-nut-nguon-va-am-luong-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/mat-sau-kem-hop-phu-kien-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/mat-truoc-kem-hop-phu-kien-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/mo-khoa-van-tay-man-hinh-bac.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "AMOLED Cong 1.5K 144Hz",
+    "size": "6,8 inch",
+    "resolution": "1.5K (2800 x 1280 pixel)",
+    "refreshRate": "144Hz",
+    "brightness": "Độ sáng hiển thị 1.800 nit (HBM) / độ sáng đỉnh cục bộ tới 6.500 nit, cảm ứng dưới mưa AI Smart Touch",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 7 Gen 4 (tiến trình TSMC 4nm, đi kèm buồng hơi tản nhiệt AirFlow VC diện tích 7000mm²)",
+    "cpu": "CPU 8 nhân Kryo thế hệ mới xung nhịp lên tới 2.8GHz",
+    "gpu": "Qualcomm Adreno GPU tích hợp công nghệ GT Boost nội suy khung hình game",
+    "ram": [
+      "8GB",
+      "12GB"
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ],
+    "operatingSystem": "realme UI 6.0 dựa trên Android 15",
+    "uiVersion": "realme UI",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Sony IMX896 OIS + 50MP Góc siêu rộng",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "Quay video 4K ở 30/60 fps trên tất cả ống kính; 1080p ở 30/60/120 fps; chống rung kép OIS + EIS"
+    ],
+    "aiFeatures": [
+      "Thuật toán NEXT AI, Chân dung đêm AI Party Mode, AI Edit Genie chỉnh sửa ảnh bằng giọng nói, AI Ultra Clarity, AI Eraser 2.0"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "50MP (Quay 4K 60fps)",
+    "features": [
+      "Camera selfie 50MP (khẩu độ ƒ/2.0, góc rộng 87°), hỗ trợ quay video 4K@60fps sắc nét và làm đẹp chân dung tự nhiên"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "7.000 mAh",
+    "wiredCharging": "Sạc nhanh SuperVOOC 80W",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc siêu nhanh SuperVOOC 80W (nạp 50% trong khoảng 24 phút), hỗ trợ sạc nhánh Bypass Charging | Không hỗ trợ sạc không dây"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano SIM"
+    ],
+    "network": [
+      "5G Sub-6GHz Dual SIM"
+    ],
+    "wifi": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax, 2x2 MIMO)",
+    "bluetooth": "Bluetooth 5.4",
+    "gps": [
+      "GPS, GLONASS, Galileo, Beidou, QZSS"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "162,26 x 76,15 x 7,69 mm",
+    "weight": "187 gram",
+    "materials": [
+      "Khung viền hợp chất gia cường cấu trúc ArmorShell",
+      "Mặt lưng kính sợi / da sinh học cao cấp chống bám bẩn"
+    ],
+    "waterResistance": "Kháng nước & bụi IP68/IP69",
+    "availableColors": [
+      "Bạc"
+    ]
+  },
+  "audio": {
+    "speakers": "Hệ thống loa kép Stereo chuẩn Hi-Res Audio, hỗ trợ OReality Audio",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Number Series",
+    "realme",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền realme tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/realme/realme-15-pro-5g/anh-dai-dien-realme-15-pro-5g-bac-thumb.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/realme/realme-15-pro-5g/anh-dai-dien-realme-15-pro-5g-bac.webp",
+      "assets/images/products/realme/realme-15-pro-5g/can-canh-canh-duoi-cong-sac-loa-bac.webp",
+      "assets/images/products/realme/realme-15-pro-5g/can-canh-khay-sim-canh-duoi-bac.webp",
+      "assets/images/products/realme/realme-15-pro-5g/canh-ben-trai-phai-bac.webp",
+      "assets/images/products/realme/realme-15-pro-5g/canh-tren-duoi-loa-cong-sac-bac.webp",
+      "assets/images/products/realme/realme-15-pro-5g/can-canh-cum-camera-sau-bac.webp",
+      "assets/images/products/realme/realme-15-pro-5g/can-canh-do-day-cum-camera-bac.webp",
+      "assets/images/products/realme/realme-15-pro-5g/cam-hai-tay-chup-anh-bac.webp",
+      "assets/images/products/realme/realme-15-pro-5g/cam-tren-tay-man-hinh-bac.webp",
+      "assets/images/products/realme/realme-15-pro-5g/can-canh-nut-nguon-va-am-luong-bac.webp",
+      "assets/images/products/realme/realme-15-pro-5g/mat-sau-kem-hop-phu-kien-bac.webp",
+      "assets/images/products/realme/realme-15-pro-5g/mat-truoc-kem-hop-phu-kien-bac.webp",
+      "assets/images/products/realme/realme-15-pro-5g/mo-khoa-van-tay-man-hinh-bac.webp"
+    ],
+    "byColor": {
+      "Bạc": [
+        "assets/images/products/realme/realme-15-pro-5g/anh-dai-dien-realme-15-pro-5g-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/can-canh-canh-duoi-cong-sac-loa-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/can-canh-khay-sim-canh-duoi-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/canh-ben-trai-phai-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/canh-tren-duoi-loa-cong-sac-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/can-canh-cum-camera-sau-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/can-canh-do-day-cum-camera-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/cam-hai-tay-chup-anh-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/cam-tren-tay-man-hinh-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/can-canh-nut-nguon-va-am-luong-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/mat-sau-kem-hop-phu-kien-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/mat-truoc-kem-hop-phu-kien-bac.webp",
+        "assets/images/products/realme/realme-15-pro-5g/mo-khoa-van-tay-man-hinh-bac.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/realme/realme-15-pro-5g/canh-ben-trai-phai-bac.webp",
+      "screen": "assets/images/products/realme/realme-15-pro-5g/cam-tren-tay-man-hinh-bac.webp",
+      "performance": "assets/images/products/realme/realme-15-pro-5g/cam-hai-tay-chup-anh-bac.webp",
+      "camera": "assets/images/products/realme/realme-15-pro-5g/can-canh-cum-camera-sau-bac.webp",
+      "battery": "assets/images/products/realme/realme-15-pro-5g/can-canh-canh-duoi-cong-sac-loa-bac.webp",
+      "feature": "assets/images/products/realme/realme-15-pro-5g/mo-khoa-van-tay-man-hinh-bac.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/realme/realme-15-pro-5g/can-canh-canh-duoi-cong-sac-loa-bac.webp",
+      "assets/images/products/realme/realme-15-pro-5g/can-canh-khay-sim-canh-duoi-bac.webp",
+      "assets/images/products/realme/realme-15-pro-5g/canh-ben-trai-phai-bac.webp",
+      "assets/images/products/realme/realme-15-pro-5g/canh-tren-duoi-loa-cong-sac-bac.webp",
+      "assets/images/products/realme/realme-15-pro-5g/can-canh-cum-camera-sau-bac.webp",
+      "assets/images/products/realme/realme-15-pro-5g/can-canh-do-day-cum-camera-bac.webp",
+      "assets/images/products/realme/realme-15-pro-5g/cam-hai-tay-chup-anh-bac.webp",
+      "assets/images/products/realme/realme-15-pro-5g/cam-tren-tay-man-hinh-bac.webp",
+      "assets/images/products/realme/realme-15-pro-5g/can-canh-nut-nguon-va-am-luong-bac.webp",
+      "assets/images/products/realme/realme-15-pro-5g/mat-sau-kem-hop-phu-kien-bac.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-realme",
+      "https://www.realme.com/vn/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT002-RM15PRO5G",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "HyperGlow 4D Curve+ AMOLED 1.5K, 10-bit (1,07 tỷ màu), hỗ trợ HDR10+, làm mờ 3840Hz PWM Dimming bảo vệ mắt",
+      "Kích thước màn hình": "6,8 inch (tỷ lệ hiển thị 94% mặt trước)",
+      "Độ phân giải màn hình": "2800 x 1280 pixel (chuẩn 1.5K, mật độ điểm ảnh ~453 ppi)",
+      "Tần số quét": "144Hz (tần số lấy mẫu cảm ứng tức thời 2500Hz)",
+      "Kiểu màn hình": "Màn hình cong viền siêu mỏng 4 cạnh, bảo vệ bởi kính cường lực Corning Gorilla Glass 7i",
+      "Tính năng màn hình": "Độ sáng hiển thị 1.800 nit (HBM) / độ sáng đỉnh cục bộ tới 6.500 nit, cảm ứng dưới mưa AI Smart Touch"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera kép 50MP cao cấp: Camera chính 50MP cảm biến Sony IMX896 (kích thước 1/1.56 inch, khẩu độ ƒ/1.8, tiêu cự 24mm, chống rung quang học OIS) + Camera góc siêu rộng 50MP (khẩu độ ƒ/2.0, góc nhìn 116°)",
+      "Quay video": "Quay video 4K ở 30/60 fps trên tất cả ống kính; 1080p ở 30/60/120 fps; chống rung kép OIS + EIS",
+      "Tính năng camera": "Thuật toán NEXT AI, Chân dung đêm AI Party Mode, AI Edit Genie chỉnh sửa ảnh bằng giọng nói, AI Ultra Clarity, AI Eraser 2.0"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera selfie 50MP (khẩu độ ƒ/2.0, góc rộng 87°), hỗ trợ quay video 4K@60fps sắc nét và làm đẹp chân dung tự nhiên"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 7 Gen 4 (tiến trình TSMC 4nm, đi kèm buồng hơi tản nhiệt AirFlow VC diện tích 7000mm²)",
+      "Loại CPU": "CPU 8 nhân Kryo thế hệ mới xung nhịp lên tới 2.8GHz",
+      "GPU": "Qualcomm Adreno GPU tích hợp công nghệ GT Boost nội suy khung hình game"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB / 12GB (hỗ trợ mở rộng RAM động thêm tối đa 12GB lên 24GB)",
+      "Bộ nhớ trong": "256GB / 512GB chuẩn UFS 3.1"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "7.000 mAh (Pin Titan Silicon-Carbon mật độ cao siêu mỏng)",
+      "Công nghệ sạc": "Sạc siêu nhanh SuperVOOC 80W (nạp 50% trong khoảng 24 phút), hỗ trợ sạc nhánh Bypass Charging | Không hỗ trợ sạc không dây",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "realme UI 6.0 dựa trên Android 15",
+      "Công nghệ - Tiện ích": "AI Edit Genie, AI Gaming Coach, AI Smart Loop 2.0, Vòng đèn thông báo Pulse Light quanh camera",
+      "Tiện ích khác": "Độ mỏng chỉ 7,69 mm dù mang viên pin 7.000 mAh, kháng nước IP68/IP69",
+      "Thời điểm ra mắt": "07/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G Sub-6GHz (SA/NSA), Dual 5G Standby",
+      "Thẻ SIM": "2 Nano SIM",
+      "Wi-Fi": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax, 2x2 MIMO)",
+      "Bluetooth": "Bluetooth 5.4",
+      "Công nghệ NFC": "Có hỗ trợ (360° NFC)",
+      "GPS": "GPS, GLONASS, Galileo, Beidou, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền hợp chất gia cường cấu trúc ArmorShell",
+      "Chất liệu mặt lưng": "Mặt lưng kính sợi / da sinh học cao cấp chống bám bẩn",
+      "Kích thước": "162,26 x 76,15 x 7,69 mm",
+      "Trọng lượng": "187 gram",
+      "Chỉ số kháng nước, bụi": "Chuẩn IP66 / IP68 / IP69 (kháng bụi tuyệt đối, chịu ngâm nước sâu 2m và tia nước nóng áp lực cao)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo chuẩn Hi-Res Audio, hỗ trợ OReality Audio",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình & Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Cảm biến ánh sáng, Cảm biến tiệm cận, La bàn điện tử"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,8 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "AMOLED Cong 1.5K 144Hz"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "1.5K (2800 x 1280 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "144Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Snapdragon 7 Gen 4 (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB / 12GB LPDDR5"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB / 512GB UFS 3.1"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Sony IMX896 OIS + 50MP Góc siêu rộng"
+    },
+    {
+      "label": "Camera trước",
+      "value": "50MP (Quay 4K 60fps)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "7.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh SuperVOOC 80W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "realme UI 6.0 (Android 15)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G Sub-6GHz Dual SIM"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "Kháng nước & bụi IP68/IP69"
+    }
+  ],
+  "verbatimDescription": [
+    "realme 15 Pro 5G định nghĩa lại trải nghiệm nhiếp ảnh và năng lượng ở phân khúc cận cao cấp. Thay vì cắt giảm ống kính phụ, máy trang bị tới ba cảm biến 50MP: camera chính 50MP Sony IMX896 kích thước lớn 1/1.56 inch có chống rung OIS, camera góc siêu rộng 50MP và camera trước 50MP, cho phép quay video 4K@60fps đồng bộ trên tất cả các ống kính.",
+    "Sức mạnh vận hành của thiết bị đến từ vi xử lý Qualcomm Snapdragon 7 Gen 4 (4nm) đi kèm hệ thống tản nhiệt buồng hơi AirFlow VC diện tích 7.000mm². Công nghệ GT Boost giúp ổn định tốc độ khung hình cao và tối ưu thao tác cảm ứng trong các tựa game eSports.",
+    "Mặt trước máy là màn hình cong 4D HyperGlow 6,8 inch độ phân giải 1.5K (2800 x 1280 pixel) tần số quét 144Hz, được bảo vệ bởi kính cường lực Corning Gorilla Glass 7i và hỗ trợ làm mờ 3840Hz PWM bảo vệ mắt.",
+    "Kỳ tích kỹ thuật trên realme 15 Pro 5G là việc tích hợp viên pin Titan Silicon-Carbon dung lượng tới 7.000 mAh cùng sạc nhanh SuperVOOC 80W vào thân máy chỉ mỏng 7,69mm và nặng 187g.",
+    "Hoàn thiện trải nghiệm cao cấp là bộ công cụ AI thế hệ mới trên realme UI 6.0 (Android 15) như AI Edit Genie chỉnh sửa ảnh bằng giọng nói, cùng chuẩn kháng bụi nước toàn diện IP66/IP68/IP69."
+  ],
+  "priceSegment": "upper-midrange"
+}

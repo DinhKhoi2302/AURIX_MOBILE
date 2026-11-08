@@ -1,0 +1,324 @@
+{
+  "id": "honor-x6c",
+  "brand": "HONOR",
+  "brandId": "honor",
+  "parentGroupId": "honor",
+  "model": "HONOR X6c",
+  "series": "HONOR X",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "entry-level"
+  ],
+  "status": "needs_verification",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Ra mắt vào tháng 6/2025, HONOR X6c là mẫu smartphone phổ thông siêu bền thuộc dòng HONOR X Series, nổi bật với màn hình đục lỗ 6,61 inch 120Hz độ sáng cao 1.010 nit, camera chính 50MP AI, viên pin 5.300 mAh kèm sạc nhanh 35W và chuẩn kháng bụi nước IP64 kết hợp chứng nhận chống rơi vỡ 5 sao từ SGS Thụy Sĩ. (Lưu ý: Model đang ở trạng thái chờ xác minh mã màu/bộ nhớ mở bán chính thức tại Việt Nam; thông số kỹ thuật được đối chiếu chuẩn xác từ công bố toàn cầu của HONOR và GSMArena).",
+    "highlights": [
+      "6,61 inch 120Hz",
+      "Helio G81 Ultra",
+      "Pin 5.300 mAh / 35W"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": null,
+    "originalPrice": null,
+    "promotionPrice": null,
+    "priceUpdatedAt": "2026-11-01",
+    "priceVerified": false
+  },
+  "variants": [
+    {
+      "sku": "AUR-HON-X6C-RAM-STD-01",
+      "color": "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)",
+      "colorHex": "#102347",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "price": null,
+      "originalPrice": null,
+      "stockStatus": "needs_verification",
+      "images": [
+        "assets/images/placeholders/placeholder-default.svg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "TFT LCD 120Hz, độ sáng đỉnh 1.010 nit",
+    "size": "6,61 inch",
+    "resolution": "1604 x 720 pixel (HD+, 266 ppi)",
+    "refreshRate": "120Hz",
+    "brightness": "Độ sáng đỉnh HBM 1.010 nit hiển thị rõ ngoài trời nắng, chế độ tối cực thấp 2 nit ban đêm, khử nhấp nháy DC Dimming, chế độ eBook đọc sách",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "MediaTek Helio G81 Ultra (tiến trình 12nm, tối ưu hóa hiệu suất ổn định và tiết kiệm năng lượng)",
+    "cpu": "CPU 8 nhân (Octa-core): 2 nhân hiệu năng Cortex-A75 xung nhịp 2.0 GHz + 6 nhân tiết kiệm điện Cortex-A55 xung nhịp 1.8 GHz",
+    "gpu": "ARM Mali-G52 MC2 vận hành mượt mà giao diện 120Hz và các tựa game giải trí phổ thông",
+    "ram": [
+      "6GB"
+    ],
+    "storage": [
+      "128GB"
+    ],
+    "operatingSystem": "MagicOS 9.0 phát triển trên nền tảng Android 15 (tích hợp đầy đủ dịch vụ Google GMS)",
+    "uiVersion": "MagicOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Chính AI (ƒ/1.8, PDAF) + Cảm biến chiều sâu QVGA",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "Quay video Full HD 1080p ở tốc độ 30fps, HD 720p ở 30fps, hỗ trợ tua nhanh thời gian Time-lapse"
+    ],
+    "aiFeatures": [
+      "Chế độ 50MP High-Res, Chụp đêm Super Night, Chân dung xóa phông Bokeh, Nhận diện nụ cười AI, Quét tài liệu thông minh, Panorama, HDR; Zoom kỹ thuật số tối đa 10x"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "5MP Selfie (ƒ/2.2), quay 1080p 30fps",
+    "features": [
+      "Camera Selfie 5MP (khẩu độ ƒ/2.2, góc rộng), hỗ trợ làm đẹp chân dung AI tự nhiên, chụp bằng cử chỉ tay, nhận diện khuôn mặt 2D và quay video 1080p@30fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "5.300 mAh (Li-Po)",
+    "wiredCharging": "Sạc nhanh có dây HONOR SuperCharge 35W",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc nhanh có dây HONOR SuperCharge 35W qua cổng Type-C, tích hợp chế độ siêu tiết kiệm pin Ultra Power Saving"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM vật lý hoạt động đồng thời (Dual Standby)"
+    ],
+    "network": [
+      "4G LTE"
+    ],
+    "wifi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép (2.4GHz & 5GHz), hỗ trợ Wi-Fi Direct",
+    "bluetooth": "Bluetooth 5.1 hỗ trợ kết nối âm thanh không dây ổn định A2DP, LE",
+    "gps": [
+      "Hệ thống định vị vệ tinh GPS, GLONASS, GALILEO, BDS"
+    ],
+    "usb": "USB Type-C 2.0 hỗ trợ sạc nhanh và kết nối truyền dữ liệu OTG",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "164,0 x 75,6 x 8,4 mm",
+    "weight": "199 gram",
+    "materials": [
+      "Khung viền phẳng hợp kim composite gia cường với cấu trúc đệm góc chống sốc",
+      "Mặt lưng polycarbonate hoàn thiện vân nhám mờ hoặc họa tiết vân da chống bám dấu vân tay"
+    ],
+    "waterResistance": "IP64 kháng bụi và tia nước bắn & Chống rơi SGS 5 sao",
+    "availableColors": [
+      "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa ngoài công suất lớn tích hợp chế độ khuếch đại âm lượng ngoài trời 300%, giữ lại giắc cắm tai nghe 3.5mm truyền thống",
+    "headphoneJack": true,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "HONOR X",
+    "HONOR",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền HONOR tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/placeholders/placeholder-default.svg",
+    "hasAvatarNamed": false,
+    "gallery": [
+      "assets/images/placeholders/placeholder-default.svg"
+    ],
+    "byColor": {},
+    "bySection": {
+      "performance": "assets/images/placeholders/placeholder-default.svg"
+    }
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-honor",
+      "https://www.honor.com/vn/phones/",
+      "https://www.honor.com/vn/phones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "verbatimDescription": [
+    "Ra mắt vào tháng 6/2025, HONOR X6c là mẫu smartphone phổ thông siêu bền thuộc dòng HONOR X Series, nổi bật với màn hình đục lỗ 6,61 inch 120Hz độ sáng cao 1.010 nit, camera chính 50MP AI, viên pin 5.300 mAh kèm sạc nhanh 35W và chuẩn kháng bụi nước IP64 kết hợp chứng nhận chống rơi vỡ 5 sao từ SGS Thụy Sĩ. Tại hệ thống AURIX MOBILE, hồ sơ sản phẩm được cập nhật đầy đủ thông số kỹ thuật chuẩn quốc tế để khách hàng dễ dàng tham khảo và so sánh.",
+    "HONOR X6c sở hữu thiết kế vuông vức hiện đại với kích thước 164,0 x 75,6 x 8,4 mm và trọng lượng đầm chắc 199 gram. Điểm nhấn đắt giá nhất về ngoại hình của máy là cấu trúc khung sườn gia cố hấp thụ xung lực đạt chứng nhận chống rơi vỡ 5 sao từ tổ chức SGS Thụy Sĩ, giúp bảo vệ thiết bị an toàn khi vô tình rơi từ độ cao tới 1,5 mét. Kết hợp cùng chuẩn kháng bụi và tia nước bắn IP64, người dùng hoàn toàn yên tâm sử dụng máy dưới trời mưa nhẹ hay trong môi trường làm việc ngoài trời nhiều khói bụi.",
+    "Mặt trước của HONOR X6c được nâng cấp lên thiết kế màn hình đục lỗ hiện đại kích thước 6,61 inch (1604 x 720 pixel) thay vì màn hình giọt nước truyền thống. Tần số quét 120Hz mang lại trải nghiệm vuốt chạm mượt mà vượt trội trong phân khúc phổ thông, trong khi độ sáng đỉnh HBM lên tới 1.010 nit giúp hiển thị rõ ràng bản đồ và tin nhắn ngay dưới ánh nắng gắt. Vùng khuyết đỉnh còn tích hợp tính năng Magic Capsule thông minh giúp theo dõi cuộc gọi, hẹn giờ và trình phát nhạc vô cùng tiện lợi.",
+    "Về hiệu năng, máy trang bị vi xử lý 8 nhân MediaTek Helio G81 Ultra (2 nhân Cortex-A75 2.0GHz + 6 nhân Cortex-A55 1.8GHz) đi kèm tùy chọn RAM 6GB hoặc 8GB (hỗ trợ công nghệ HONOR RAM Turbo mở rộng thêm 8GB RAM ảo) và bộ nhớ trong 128GB/256GB. Đặc biệt, HONOR X6c được tích hợp nút vật lý AI Button chuyên dụng ở cạnh máy, cho phép kích hoạt tức thì các tính năng thông minh trên hệ điều hành MagicOS 9.0 (Android 15) như Khoanh tròn tìm kiếm hay dịch thuật nhanh.",
+    "Hệ thống nhiếp ảnh của HONOR X6c đáp ứng tốt nhu cầu ghi lại khoảnh khắc hàng ngày nhờ camera chính 50MP khẩu độ lớn ƒ/1.8 hỗ trợ lấy nét tự động theo pha PDAF. Đi kèm là tính năng Tẩy vật thể AI (AI Eraser) giúp xóa bỏ người lạ hoặc chi tiết thừa trong bức ảnh chỉ bằng một thao tác chạm. Camera trước 5MP khẩu độ ƒ/2.2 hỗ trợ làm đẹp tự nhiên và quay video Full HD 1080p phục vụ học tập trực tuyến và gọi video rõ nét.",
+    "Cung cấp năng lượng cho HONOR X6c là viên pin 5.300 mAh bền bỉ đi kèm công nghệ sạc nhanh HONOR SuperCharge 35W — một nâng cấp vượt bậc so với mức sạc 15W thông thường ở phân khúc giá rẻ. Máy cũng giữ lại giắc cắm tai nghe 3.5mm truyền thống, cảm biến vân tay cạnh bên nhạy bén và loa ngoài khuếch đại âm lượng lớn, trở thành lựa chọn kinh tế và bền bỉ cho học sinh, sinh viên và người lao động."
+  ],
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,61 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "TFT LCD 120Hz, độ sáng đỉnh 1.010 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "1604 x 720 pixel (HD+, 266 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Helio G81 Ultra (12nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "6GB / 8GB LPDDR4X (+8GB HONOR RAM Turbo)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB (Hỗ trợ MicroSD)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính AI (ƒ/1.8, PDAF) + Cảm biến chiều sâu QVGA"
+    },
+    {
+      "label": "Camera trước",
+      "value": "5MP Selfie (ƒ/2.2), quay 1080p 30fps"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.300 mAh (Li-Po)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh có dây HONOR SuperCharge 35W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "MagicOS 9.0 (Android 15)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "4G LTE"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP64 kháng bụi và tia nước bắn & Chống rơi SGS 5 sao"
+    }
+  ],
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "TFT LCD thế hệ mới hiển thị 16,7 triệu màu, tích hợp tính năng bảo vệ mắt toàn diện",
+      "Kích thước màn hình": "6,61 inch theo đường chéo (diện tích hiển thị 105,5 cm², chiếm ~85,2% mặt trước)",
+      "Độ phân giải màn hình": "HD+ (1604 x 720 pixel, tỷ lệ 20:9, mật độ điểm ảnh ~266 ppi)",
+      "Tần số quét": "120Hz mượt mà, tự động điều chỉnh thông minh giúp tiết kiệm pin",
+      "Kiểu màn hình": "Màn hình phẳng đục lỗ nốt ruồi trung tâm tích hợp giao diện Magic Capsule",
+      "Tính năng màn hình": "Độ sáng đỉnh HBM 1.010 nit hiển thị rõ ngoài trời nắng, chế độ tối cực thấp 2 nit ban đêm, khử nhấp nháy DC Dimming, chế độ eBook đọc sách"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera kép AI: Camera chính 50MP (khẩu độ lớn ƒ/1.8, tiêu cự 27mm, lấy nét theo pha PDAF) + Cảm biến phụ QVGA hỗ trợ đo chiều sâu trường ảnh xóa phông",
+      "Quay video": "Quay video Full HD 1080p ở tốc độ 30fps, HD 720p ở 30fps, hỗ trợ tua nhanh thời gian Time-lapse",
+      "Tính năng camera": "Chế độ 50MP High-Res, Chụp đêm Super Night, Chân dung xóa phông Bokeh, Nhận diện nụ cười AI, Quét tài liệu thông minh, Panorama, HDR; Zoom kỹ thuật số tối đa 10x"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera Selfie 5MP (khẩu độ ƒ/2.2, góc rộng), hỗ trợ làm đẹp chân dung AI tự nhiên, chụp bằng cử chỉ tay, nhận diện khuôn mặt 2D và quay video 1080p@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Helio G81 Ultra (tiến trình 12nm, tối ưu hóa hiệu suất ổn định và tiết kiệm năng lượng)",
+      "Loại CPU": "CPU 8 nhân (Octa-core): 2 nhân hiệu năng Cortex-A75 xung nhịp 2.0 GHz + 6 nhân tiết kiệm điện Cortex-A55 xung nhịp 1.8 GHz",
+      "GPU": "ARM Mali-G52 MC2 vận hành mượt mà giao diện 120Hz và các tựa game giải trí phổ thông"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "6GB hoặc 8GB RAM vật lý LPDDR4X (hỗ trợ công nghệ HONOR RAM Turbo mở rộng thêm tối đa 8GB RAM ảo)",
+      "Bộ nhớ trong": "128GB hoặc 256GB ROM tốc độ cao, hỗ trợ mở rộng không gian lưu trữ qua khe cắm thẻ nhớ MicroSDXC"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.300 mAh (Pin Lithium-Polymer mật độ cao) – Đáp ứng lên tới hơn 2 ngày sử dụng tác vụ cơ bản, phát video trực tuyến liên tục 19 giờ",
+      "Công nghệ sạc": "Sạc nhanh có dây HONOR SuperCharge 35W qua cổng Type-C, tích hợp chế độ siêu tiết kiệm pin Ultra Power Saving",
+      "Cổng sạc": "USB Type-C 2.0 hỗ trợ sạc nhanh và kết nối truyền dữ liệu OTG"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "MagicOS 9.0 phát triển trên nền tảng Android 15 (tích hợp đầy đủ dịch vụ Google GMS)",
+      "Công nghệ - Tiện ích": "Phím bấm vật lý AI Button truy cập nhanh công cụ thông minh, Tẩy vật thể AI Eraser, Magic Capsule hiển thị trạng thái trực quan, Magic Portal",
+      "Tiện ích khác": "Chứng nhận độ bền chống rơi vỡ 5 sao từ SGS Thụy Sĩ (chịu va đập từ độ cao 1,5 mét), chia đôi màn hình đa nhiệm, Không gian riêng tư",
+      "Thời điểm ra mắt": "Tháng 06/2025 (Đối chiếu thông số quốc tế GSMArena)"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "4G LTE-A đa băng tần, 3G HSPA, 2G GSM",
+      "Thẻ SIM": "2 Nano-SIM vật lý hoạt động đồng thời (Dual Standby)",
+      "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép (2.4GHz & 5GHz), hỗ trợ Wi-Fi Direct",
+      "Bluetooth": "Bluetooth 5.1 hỗ trợ kết nối âm thanh không dây ổn định A2DP, LE",
+      "Công nghệ NFC": "Có hỗ trợ NFC (tùy thị trường phân phối, hỗ trợ thanh toán chạm và đọc thẻ)",
+      "GPS": "Hệ thống định vị vệ tinh GPS, GLONASS, GALILEO, BDS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền phẳng hợp kim composite gia cường với cấu trúc đệm góc chống sốc",
+      "Chất liệu mặt lưng": "Mặt lưng polycarbonate hoàn thiện vân nhám mờ hoặc họa tiết vân da chống bám dấu vân tay",
+      "Kích thước": "164,0 x 75,6 x 8,4 mm",
+      "Trọng lượng": "199 gram",
+      "Chỉ số kháng nước, bụi": "Đạt chuẩn IP64 kháng bụi hoàn toàn và chống tia nước bắn từ mọi hướng; chứng nhận chống rơi vỡ 5 sao SGS"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài công suất lớn tích hợp chế độ khuếch đại âm lượng ngoài trời 300%, giữ lại giắc cắm tai nghe 3.5mm truyền thống",
+      "Cảm biến vân tay": "Cảm biến vân tay một chạm tích hợp trực tiếp trên phím nguồn cạnh bên + Mở khóa bằng khuôn mặt AI",
+      "Các loại cảm biến": "Cảm biến gia tốc, cảm biến tiệm cận, cảm biến ánh sáng môi trường, la bàn số"
+    }
+  }
+}

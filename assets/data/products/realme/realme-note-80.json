@@ -1,0 +1,591 @@
+{
+  "id": "realme-note-80",
+  "brand": "realme",
+  "brandId": "realme",
+  "parentGroupId": "realme",
+  "model": "realme Note 80",
+  "series": "realme C & Note Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "entry-level"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025 – 2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "realme Note 80 là mẫu smartphone phổ thông nổi bật với viên pin lớn 6.300 mAh gói gọn trong thân máy mỏng 7,94mm, khung bảo vệ chống sốc ArmorShell chuẩn IP54 và màn hình 6,74 inch 90Hz hỗ trợ cảm ứng khi tay ướt.",
+    "highlights": [
+      "Viên pin 6.300 mAh dung lượng cực lớn nhưng thân máy vẫn mỏng nhẹ chỉ 7,94mm (197g)",
+      "Cấu trúc chống rơi vỡ ArmorShell bền bỉ kết hợp chuẩn kháng bụi nước IP54",
+      "Màn hình 6,74 inch tần số quét 90Hz mượt mà, tích hợp Mini Capsule 2.0 và cảm ứng tay ướt"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 2190000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT010-RMNOTE80-XANH-DUONG-3GB-64GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "3GB",
+      "storage": "3GB/64GB",
+      "rom": "64GB",
+      "price": 2190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-note-80/anh-dai-dien-realme-note-80-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/mat-truoc-dat-tren-ban-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/mat-sau-dat-tren-ban-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/cam-tren-tay-canh-ben-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-canh-duoi-cong-sac-tai-nghe-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-khay-sim-canh-trai-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/canh-ben-trai-phai-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/canh-tren-duoi-loa-cong-sac-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-cum-camera-sau-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/cam-hai-tay-chup-anh-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/cam-tren-tay-man-hinh-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-nut-nguon-am-luong-va-camera-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/tinh-nang-cam-ung-tay-uot-jack-3-5mm-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/thiet-ke-chong-va-dap-armorshell-ip54-den-xam.webp",
+        "assets/images/products/realme/realme-note-80/thiet-ke-mong-7-94mm-nhe-197g-xanh-den.webp",
+        "assets/images/products/realme/realme-note-80/thong-so-chip-unisoc-t7250-8-nhan-xanh-trang.webp",
+        "assets/images/products/realme/realme-note-80/thong-so-man-hinh-90hz-bao-ve-mat-xanh-trang.webp",
+        "assets/images/products/realme/realme-note-80/thong-so-pin-6300mah-sac-15w-xanh-trang.webp",
+        "assets/images/products/realme/realme-note-80/tong-quan-tinh-nang-man-hinh-90hz-pin-6300mah-chong-va-dap-xanh-den.webp"
+      ]
+    },
+    {
+      "sku": "DT010-RMNOTE80-XANH-DUONG-4GB-64GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "4GB",
+      "storage": "4GB/64GB",
+      "rom": "64GB",
+      "price": 2490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-note-80/anh-dai-dien-realme-note-80-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/mat-truoc-dat-tren-ban-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/mat-sau-dat-tren-ban-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/cam-tren-tay-canh-ben-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-canh-duoi-cong-sac-tai-nghe-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-khay-sim-canh-trai-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/canh-ben-trai-phai-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/canh-tren-duoi-loa-cong-sac-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-cum-camera-sau-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/cam-hai-tay-chup-anh-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/cam-tren-tay-man-hinh-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-nut-nguon-am-luong-va-camera-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/tinh-nang-cam-ung-tay-uot-jack-3-5mm-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/thiet-ke-chong-va-dap-armorshell-ip54-den-xam.webp",
+        "assets/images/products/realme/realme-note-80/thiet-ke-mong-7-94mm-nhe-197g-xanh-den.webp",
+        "assets/images/products/realme/realme-note-80/thong-so-chip-unisoc-t7250-8-nhan-xanh-trang.webp",
+        "assets/images/products/realme/realme-note-80/thong-so-man-hinh-90hz-bao-ve-mat-xanh-trang.webp",
+        "assets/images/products/realme/realme-note-80/thong-so-pin-6300mah-sac-15w-xanh-trang.webp",
+        "assets/images/products/realme/realme-note-80/tong-quan-tinh-nang-man-hinh-90hz-pin-6300mah-chong-va-dap-xanh-den.webp"
+      ]
+    },
+    {
+      "sku": "DT010-RMNOTE80-XANH-DUONG-4GB-128GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 2890000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-note-80/anh-dai-dien-realme-note-80-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/mat-truoc-dat-tren-ban-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/mat-sau-dat-tren-ban-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/cam-tren-tay-canh-ben-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-canh-duoi-cong-sac-tai-nghe-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-khay-sim-canh-trai-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/canh-ben-trai-phai-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/canh-tren-duoi-loa-cong-sac-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-cum-camera-sau-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/cam-hai-tay-chup-anh-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/cam-tren-tay-man-hinh-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-nut-nguon-am-luong-va-camera-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/tinh-nang-cam-ung-tay-uot-jack-3-5mm-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/thiet-ke-chong-va-dap-armorshell-ip54-den-xam.webp",
+        "assets/images/products/realme/realme-note-80/thiet-ke-mong-7-94mm-nhe-197g-xanh-den.webp",
+        "assets/images/products/realme/realme-note-80/thong-so-chip-unisoc-t7250-8-nhan-xanh-trang.webp",
+        "assets/images/products/realme/realme-note-80/thong-so-man-hinh-90hz-bao-ve-mat-xanh-trang.webp",
+        "assets/images/products/realme/realme-note-80/thong-so-pin-6300mah-sac-15w-xanh-trang.webp",
+        "assets/images/products/realme/realme-note-80/tong-quan-tinh-nang-man-hinh-90hz-pin-6300mah-chong-va-dap-xanh-den.webp"
+      ]
+    },
+    {
+      "sku": "DT010-RMNOTE80-DEN-3GB-64GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "3GB",
+      "storage": "3GB/64GB",
+      "rom": "64GB",
+      "price": 2190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-note-80/anh-dai-dien-realme-note-80-den.webp",
+        "assets/images/products/realme/realme-note-80/mat-truoc-dat-tren-ban-den.webp",
+        "assets/images/products/realme/realme-note-80/mat-sau-dat-tren-ban-den.webp",
+        "assets/images/products/realme/realme-note-80/cam-tren-tay-canh-ben-den.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-canh-duoi-cong-sac-tai-nghe-den.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-khay-sim-canh-trai-den.webp",
+        "assets/images/products/realme/realme-note-80/canh-ben-trai-phai-den.webp",
+        "assets/images/products/realme/realme-note-80/canh-tren-duoi-loa-cong-sac-den.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-cum-camera-sau-den.webp",
+        "assets/images/products/realme/realme-note-80/cam-hai-tay-chup-anh-den.webp",
+        "assets/images/products/realme/realme-note-80/cam-tren-tay-man-hinh-den.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-nut-nguon-am-luong-va-camera-den.webp",
+        "assets/images/products/realme/realme-note-80/thiet-ke-chong-va-dap-armorshell-ip54-den-xam.webp",
+        "assets/images/products/realme/realme-note-80/thiet-ke-mong-7-94mm-nhe-197g-xanh-den.webp",
+        "assets/images/products/realme/realme-note-80/thong-so-chip-unisoc-t7250-8-nhan-xanh-trang.webp",
+        "assets/images/products/realme/realme-note-80/thong-so-man-hinh-90hz-bao-ve-mat-xanh-trang.webp",
+        "assets/images/products/realme/realme-note-80/thong-so-pin-6300mah-sac-15w-xanh-trang.webp",
+        "assets/images/products/realme/realme-note-80/tong-quan-tinh-nang-man-hinh-90hz-pin-6300mah-chong-va-dap-xanh-den.webp"
+      ]
+    },
+    {
+      "sku": "DT010-RMNOTE80-DEN-4GB-64GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "4GB",
+      "storage": "4GB/64GB",
+      "rom": "64GB",
+      "price": 2490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-note-80/anh-dai-dien-realme-note-80-den.webp",
+        "assets/images/products/realme/realme-note-80/mat-truoc-dat-tren-ban-den.webp",
+        "assets/images/products/realme/realme-note-80/mat-sau-dat-tren-ban-den.webp",
+        "assets/images/products/realme/realme-note-80/cam-tren-tay-canh-ben-den.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-canh-duoi-cong-sac-tai-nghe-den.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-khay-sim-canh-trai-den.webp",
+        "assets/images/products/realme/realme-note-80/canh-ben-trai-phai-den.webp",
+        "assets/images/products/realme/realme-note-80/canh-tren-duoi-loa-cong-sac-den.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-cum-camera-sau-den.webp",
+        "assets/images/products/realme/realme-note-80/cam-hai-tay-chup-anh-den.webp",
+        "assets/images/products/realme/realme-note-80/cam-tren-tay-man-hinh-den.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-nut-nguon-am-luong-va-camera-den.webp",
+        "assets/images/products/realme/realme-note-80/thiet-ke-chong-va-dap-armorshell-ip54-den-xam.webp",
+        "assets/images/products/realme/realme-note-80/thiet-ke-mong-7-94mm-nhe-197g-xanh-den.webp",
+        "assets/images/products/realme/realme-note-80/thong-so-chip-unisoc-t7250-8-nhan-xanh-trang.webp",
+        "assets/images/products/realme/realme-note-80/thong-so-man-hinh-90hz-bao-ve-mat-xanh-trang.webp",
+        "assets/images/products/realme/realme-note-80/thong-so-pin-6300mah-sac-15w-xanh-trang.webp",
+        "assets/images/products/realme/realme-note-80/tong-quan-tinh-nang-man-hinh-90hz-pin-6300mah-chong-va-dap-xanh-den.webp"
+      ]
+    },
+    {
+      "sku": "DT010-RMNOTE80-DEN-4GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 2890000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/realme/realme-note-80/anh-dai-dien-realme-note-80-den.webp",
+        "assets/images/products/realme/realme-note-80/mat-truoc-dat-tren-ban-den.webp",
+        "assets/images/products/realme/realme-note-80/mat-sau-dat-tren-ban-den.webp",
+        "assets/images/products/realme/realme-note-80/cam-tren-tay-canh-ben-den.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-canh-duoi-cong-sac-tai-nghe-den.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-khay-sim-canh-trai-den.webp",
+        "assets/images/products/realme/realme-note-80/canh-ben-trai-phai-den.webp",
+        "assets/images/products/realme/realme-note-80/canh-tren-duoi-loa-cong-sac-den.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-cum-camera-sau-den.webp",
+        "assets/images/products/realme/realme-note-80/cam-hai-tay-chup-anh-den.webp",
+        "assets/images/products/realme/realme-note-80/cam-tren-tay-man-hinh-den.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-nut-nguon-am-luong-va-camera-den.webp",
+        "assets/images/products/realme/realme-note-80/thiet-ke-chong-va-dap-armorshell-ip54-den-xam.webp",
+        "assets/images/products/realme/realme-note-80/thiet-ke-mong-7-94mm-nhe-197g-xanh-den.webp",
+        "assets/images/products/realme/realme-note-80/thong-so-chip-unisoc-t7250-8-nhan-xanh-trang.webp",
+        "assets/images/products/realme/realme-note-80/thong-so-man-hinh-90hz-bao-ve-mat-xanh-trang.webp",
+        "assets/images/products/realme/realme-note-80/thong-so-pin-6300mah-sac-15w-xanh-trang.webp",
+        "assets/images/products/realme/realme-note-80/tong-quan-tinh-nang-man-hinh-90hz-pin-6300mah-chong-va-dap-xanh-den.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "IPS LCD 90Hz",
+    "size": "6,74 inch",
+    "resolution": "HD+ (1600 x 720 pixel)",
+    "refreshRate": "90Hz",
+    "brightness": "Độ sáng tối đa 560 nit, chế độ Eye Comfort giảm ánh sáng xanh ban đêm",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Vi xử lý 8 nhân Unisoc T7250 / T612 (tiến trình 12nm ổn định, cam kết mượt mà 48 tháng)",
+    "cpu": "CPU 8 nhân (2 nhân hiệu năng Cortex-A75 xung nhịp 1.8GHz + 6 nhân tiết kiệm điện Cortex-A55 xung nhịp 1.6GHz)",
+    "gpu": "ARM Mali-G57",
+    "ram": [
+      "3GB",
+      "4GB"
+    ],
+    "storage": [
+      "64GB",
+      "128GB"
+    ],
+    "operatingSystem": "realme UI dựa trên Android 15",
+    "uiVersion": "realme UI",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP / 32MP AI Main Camera",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "Quay video 1080p Full HD ở 30 fps; 720p HD ở 30 fps"
+    ],
+    "aiFeatures": [
+      "Chế độ chụp đêm Night Mode, Chân dung xóa phông AI, HDR, Nhận diện bối cảnh AI"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "5MP (ƒ/2.2)",
+    "features": [
+      "Camera trước 5MP (khẩu độ ƒ/2.2), hỗ trợ làm đẹp AI, chụp cử chỉ và quay video 720p@30fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "6.300 mAh",
+    "wiredCharging": "Sạc 15W USB-C",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc 15W qua cổng USB Type-C | Không hỗ trợ sạc không dây"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano SIM + 1 khe thẻ nhớ microSD độc lập"
+    ],
+    "network": [
+      "4G LTE Dual SIM"
+    ],
+    "wifi": "Wi-Fi 5 (802.11 a/b/g/n/ac, băng tần kép 2.4GHz / 5GHz)",
+    "bluetooth": "Bluetooth 5.2",
+    "gps": [
+      "GPS, GLONASS, Galileo, BDS"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": false
+  },
+  "design": {
+    "dimensions": "167,26 x 76,67 x 7,94 mm",
+    "weight": "197 gram",
+    "materials": [
+      "Khung viền phẳng nhựa composite gia cố khung kim loại đúc bên trong ArmorShell",
+      "Mặt lưng nhám mịn chống bám mồ hôi và dấu vân tay"
+    ],
+    "waterResistance": "Kháng nước & bụi IP54",
+    "availableColors": [
+      "Xanh Dương",
+      "Đen"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa ngoài công suất lớn, tích hợp giắc cắm tai nghe 3.5mm",
+    "headphoneJack": true,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "realme Note",
+    "realme",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền realme tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/realme/realme-note-80/anh-dai-dien-realme-note-80-den-thumb.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/realme/realme-note-80/anh-dai-dien-realme-note-80-xanh-duong.webp",
+      "assets/images/products/realme/realme-note-80/anh-dai-dien-realme-note-80-den.webp",
+      "assets/images/products/realme/realme-note-80/mat-truoc-dat-tren-ban-den.webp",
+      "assets/images/products/realme/realme-note-80/mat-truoc-dat-tren-ban-xanh-duong.webp",
+      "assets/images/products/realme/realme-note-80/mat-sau-dat-tren-ban-den.webp",
+      "assets/images/products/realme/realme-note-80/mat-sau-dat-tren-ban-xanh-duong.webp",
+      "assets/images/products/realme/realme-note-80/cam-tren-tay-canh-ben-den.webp",
+      "assets/images/products/realme/realme-note-80/cam-tren-tay-canh-ben-xanh-duong.webp",
+      "assets/images/products/realme/realme-note-80/can-canh-canh-duoi-cong-sac-tai-nghe-den.webp",
+      "assets/images/products/realme/realme-note-80/can-canh-canh-duoi-cong-sac-tai-nghe-xanh-duong.webp",
+      "assets/images/products/realme/realme-note-80/can-canh-khay-sim-canh-trai-den.webp",
+      "assets/images/products/realme/realme-note-80/can-canh-khay-sim-canh-trai-xanh-duong.webp",
+      "assets/images/products/realme/realme-note-80/canh-ben-trai-phai-den.webp",
+      "assets/images/products/realme/realme-note-80/canh-ben-trai-phai-xanh-duong.webp",
+      "assets/images/products/realme/realme-note-80/canh-tren-duoi-loa-cong-sac-den.webp",
+      "assets/images/products/realme/realme-note-80/canh-tren-duoi-loa-cong-sac-xanh-duong.webp",
+      "assets/images/products/realme/realme-note-80/can-canh-cum-camera-sau-den.webp",
+      "assets/images/products/realme/realme-note-80/can-canh-cum-camera-sau-xanh-duong.webp",
+      "assets/images/products/realme/realme-note-80/cam-hai-tay-chup-anh-den.webp",
+      "assets/images/products/realme/realme-note-80/cam-hai-tay-chup-anh-xanh-duong.webp",
+      "assets/images/products/realme/realme-note-80/cam-tren-tay-man-hinh-den.webp",
+      "assets/images/products/realme/realme-note-80/cam-tren-tay-man-hinh-xanh-duong.webp",
+      "assets/images/products/realme/realme-note-80/can-canh-nut-nguon-am-luong-va-camera-den.webp",
+      "assets/images/products/realme/realme-note-80/can-canh-nut-nguon-am-luong-va-camera-xanh-duong.webp",
+      "assets/images/products/realme/realme-note-80/thiet-ke-chong-va-dap-armorshell-ip54-den-xam.webp",
+      "assets/images/products/realme/realme-note-80/thiet-ke-mong-7-94mm-nhe-197g-xanh-den.webp",
+      "assets/images/products/realme/realme-note-80/tinh-nang-cam-ung-tay-uot-jack-3-5mm-xanh-duong.webp",
+      "assets/images/products/realme/realme-note-80/thong-so-chip-unisoc-t7250-8-nhan-xanh-trang.webp",
+      "assets/images/products/realme/realme-note-80/thong-so-man-hinh-90hz-bao-ve-mat-xanh-trang.webp",
+      "assets/images/products/realme/realme-note-80/thong-so-pin-6300mah-sac-15w-xanh-trang.webp",
+      "assets/images/products/realme/realme-note-80/tong-quan-tinh-nang-man-hinh-90hz-pin-6300mah-chong-va-dap-xanh-den.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/realme/realme-note-80/anh-dai-dien-realme-note-80-den.webp",
+        "assets/images/products/realme/realme-note-80/mat-truoc-dat-tren-ban-den.webp",
+        "assets/images/products/realme/realme-note-80/mat-sau-dat-tren-ban-den.webp",
+        "assets/images/products/realme/realme-note-80/cam-tren-tay-canh-ben-den.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-canh-duoi-cong-sac-tai-nghe-den.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-khay-sim-canh-trai-den.webp",
+        "assets/images/products/realme/realme-note-80/canh-ben-trai-phai-den.webp",
+        "assets/images/products/realme/realme-note-80/canh-tren-duoi-loa-cong-sac-den.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-cum-camera-sau-den.webp",
+        "assets/images/products/realme/realme-note-80/cam-hai-tay-chup-anh-den.webp",
+        "assets/images/products/realme/realme-note-80/cam-tren-tay-man-hinh-den.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-nut-nguon-am-luong-va-camera-den.webp",
+        "assets/images/products/realme/realme-note-80/thiet-ke-chong-va-dap-armorshell-ip54-den-xam.webp",
+        "assets/images/products/realme/realme-note-80/thiet-ke-mong-7-94mm-nhe-197g-xanh-den.webp",
+        "assets/images/products/realme/realme-note-80/thong-so-chip-unisoc-t7250-8-nhan-xanh-trang.webp",
+        "assets/images/products/realme/realme-note-80/thong-so-man-hinh-90hz-bao-ve-mat-xanh-trang.webp",
+        "assets/images/products/realme/realme-note-80/thong-so-pin-6300mah-sac-15w-xanh-trang.webp",
+        "assets/images/products/realme/realme-note-80/tong-quan-tinh-nang-man-hinh-90hz-pin-6300mah-chong-va-dap-xanh-den.webp"
+      ],
+      "Xanh Dương": [
+        "assets/images/products/realme/realme-note-80/anh-dai-dien-realme-note-80-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/mat-truoc-dat-tren-ban-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/mat-sau-dat-tren-ban-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/cam-tren-tay-canh-ben-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-canh-duoi-cong-sac-tai-nghe-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-khay-sim-canh-trai-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/canh-ben-trai-phai-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/canh-tren-duoi-loa-cong-sac-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-cum-camera-sau-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/cam-hai-tay-chup-anh-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/cam-tren-tay-man-hinh-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/can-canh-nut-nguon-am-luong-va-camera-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/tinh-nang-cam-ung-tay-uot-jack-3-5mm-xanh-duong.webp",
+        "assets/images/products/realme/realme-note-80/thiet-ke-chong-va-dap-armorshell-ip54-den-xam.webp",
+        "assets/images/products/realme/realme-note-80/thiet-ke-mong-7-94mm-nhe-197g-xanh-den.webp",
+        "assets/images/products/realme/realme-note-80/thong-so-chip-unisoc-t7250-8-nhan-xanh-trang.webp",
+        "assets/images/products/realme/realme-note-80/thong-so-man-hinh-90hz-bao-ve-mat-xanh-trang.webp",
+        "assets/images/products/realme/realme-note-80/thong-so-pin-6300mah-sac-15w-xanh-trang.webp",
+        "assets/images/products/realme/realme-note-80/tong-quan-tinh-nang-man-hinh-90hz-pin-6300mah-chong-va-dap-xanh-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/realme/realme-note-80/mat-sau-dat-tren-ban-den.webp",
+      "screen": "assets/images/products/realme/realme-note-80/mat-truoc-dat-tren-ban-den.webp",
+      "performance": "assets/images/products/realme/realme-note-80/thong-so-chip-unisoc-t7250-8-nhan-xanh-trang.webp",
+      "camera": "assets/images/products/realme/realme-note-80/can-canh-cum-camera-sau-den.webp",
+      "battery": "assets/images/products/realme/realme-note-80/can-canh-canh-duoi-cong-sac-tai-nghe-den.webp",
+      "feature": "assets/images/products/realme/realme-note-80/anh-dai-dien-realme-note-80-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/realme/realme-note-80/anh-dai-dien-realme-note-80-den.webp",
+      "assets/images/products/realme/realme-note-80/mat-truoc-dat-tren-ban-den.webp",
+      "assets/images/products/realme/realme-note-80/mat-truoc-dat-tren-ban-xanh-duong.webp",
+      "assets/images/products/realme/realme-note-80/mat-sau-dat-tren-ban-den.webp",
+      "assets/images/products/realme/realme-note-80/mat-sau-dat-tren-ban-xanh-duong.webp",
+      "assets/images/products/realme/realme-note-80/cam-tren-tay-canh-ben-den.webp",
+      "assets/images/products/realme/realme-note-80/cam-tren-tay-canh-ben-xanh-duong.webp",
+      "assets/images/products/realme/realme-note-80/can-canh-canh-duoi-cong-sac-tai-nghe-den.webp",
+      "assets/images/products/realme/realme-note-80/can-canh-canh-duoi-cong-sac-tai-nghe-xanh-duong.webp",
+      "assets/images/products/realme/realme-note-80/can-canh-khay-sim-canh-trai-den.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-realme",
+      "https://www.realme.com/vn/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT010-RMNOTE80",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "IPS LCD bảo vệ mắt, hỗ trợ cảm ứng thông minh khi tay ướt Rainwater Smart Touch",
+      "Kích thước màn hình": "6,74 inch (tỷ lệ hiển thị ~90,3% mặt trước)",
+      "Độ phân giải màn hình": "1600 x 720 pixel (HD+, ~260 ppi)",
+      "Tần số quét": "90Hz mượt mà (tần số lấy mẫu cảm ứng 180Hz)",
+      "Kiểu màn hình": "Màn hình giọt nước, gia cố kính cường lực thuộc hệ thống bảo vệ ArmorShell",
+      "Tính năng màn hình": "Độ sáng tối đa 560 nit, chế độ Eye Comfort giảm ánh sáng xanh ban đêm"
+    },
+    "Camera sau": {
+      "Camera sau": "Camera chính AI độ phân giải cao (khẩu độ ƒ/1.8, thấu kính 5P, lấy nét tự động AF) + Cảm biến phụ",
+      "Quay video": "Quay video 1080p Full HD ở 30 fps; 720p HD ở 30 fps",
+      "Tính năng camera": "Chế độ chụp đêm Night Mode, Chân dung xóa phông AI, HDR, Nhận diện bối cảnh AI"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera trước 5MP (khẩu độ ƒ/2.2), hỗ trợ làm đẹp AI, chụp cử chỉ và quay video 720p@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Vi xử lý 8 nhân Unisoc T7250 / T612 (tiến trình 12nm ổn định, cam kết mượt mà 48 tháng)",
+      "Loại CPU": "CPU 8 nhân (2 nhân hiệu năng Cortex-A75 xung nhịp 1.8GHz + 6 nhân tiết kiệm điện Cortex-A55 xung nhịp 1.6GHz)",
+      "GPU": "ARM Mali-G57"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "3GB / 4GB LPDDR4X (hỗ trợ mở rộng RAM động thêm tối đa 4GB–8GB)",
+      "Bộ nhớ trong": "64GB / 128GB (có khe cắm thẻ nhớ microSD độc lập mở rộng lên tới 2TB)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "6.300 mAh (Pin dung lượng lớn vượt trội trong phân khúc giá rẻ, sử dụng hơn 2 ngày)",
+      "Công nghệ sạc": "Sạc 15W qua cổng USB Type-C | Không hỗ trợ sạc không dây",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "realme UI dựa trên Android 15",
+      "Công nghệ - Tiện ích": "Mini Capsule 2.0 hiển thị thông báo động, Cử chỉ không chạm Air Gestures, Tăng âm lượng loa",
+      "Tiện ích khác": "Khung bảo vệ ArmorShell đạt chuẩn chống rơi vỡ MIL-STD-810H, giữ giắc tai nghe 3.5mm",
+      "Thời điểm ra mắt": "2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "4G LTE Dual VoLTE",
+      "Thẻ SIM": "2 Nano SIM + 1 khe thẻ nhớ microSD độc lập",
+      "Wi-Fi": "Wi-Fi 5 (802.11 a/b/g/n/ac, băng tần kép 2.4GHz / 5GHz)",
+      "Bluetooth": "Bluetooth 5.2",
+      "Công nghệ NFC": "Không hỗ trợ",
+      "GPS": "GPS, GLONASS, Galileo, BDS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền phẳng nhựa composite gia cố khung kim loại đúc bên trong ArmorShell",
+      "Chất liệu mặt lưng": "Mặt lưng nhám mịn chống bám mồ hôi và dấu vân tay",
+      "Kích thước": "167,26 x 76,67 x 7,94 mm",
+      "Trọng lượng": "197 gram",
+      "Chỉ số kháng nước, bụi": "Chuẩn IP54 (kháng bụi và chống tia nước bắn)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài công suất lớn, tích hợp giắc cắm tai nghe 3.5mm",
+      "Cảm biến vân tay": "Cảm biến vân tay tích hợp phím nguồn cạnh bên & Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Cảm biến ánh sáng, Cảm biến tiệm cận, La bàn điện tử"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,74 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "IPS LCD 90Hz"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "HD+ (1600 x 720 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "90Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Unisoc T7250 / T612 8 nhân (12nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "3GB / 4GB (Mở rộng RAM ảo 4GB)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "64GB / 128GB (Hỗ trợ thẻ nhớ 2TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP / 32MP AI Main Camera"
+    },
+    {
+      "label": "Camera trước",
+      "value": "5MP (ƒ/2.2)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "6.300 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc 15W USB-C"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "realme UI (Android 15)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "4G LTE Dual SIM"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "Kháng nước & bụi IP54"
+    }
+  ],
+  "verbatimDescription": [
+    "realme Note 80 nâng cấp mạnh mẽ thời lượng pin cho phân khúc smartphone phổ thông dưới 3 triệu đồng khi trang bị viên pin lên tới 6.300 mAh, lớn hơn tới 26% so với mức 5.000 mAh tiêu chuẩn nhưng vẫn giữ được độ mỏng ấn tượng chỉ 7,94 mm.",
+    "Độ bền của thiết bị được đảm bảo bởi kiến trúc ArmorShell Tough Build với khung kim loại gia cường bên trong và đệm giảm chấn ở các góc, đạt khả năng chống rơi vỡ từ độ cao 1,8m cùng chuẩn kháng bụi nước IP54.",
+    "Màn hình 6,74 inch tần số quét 90Hz đem lại trải nghiệm vuốt chạm mượt mà, tích hợp tính năng Mini Capsule 2.0 hiển thị trực quan trạng thái pin, bước chân và hỗ trợ cảm ứng chính xác ngay cả khi tay ướt.",
+    "Vi xử lý 8 nhân kết hợp thuật toán AI Boost trên nền Android 15 giúp máy vận hành ổn định các ứng dụng liên lạc, học tập và giải trí hàng ngày, đi kèm khe cắm thẻ nhớ microSD độc lập mở rộng tới 2TB.",
+    "Ngoài ra, máy vẫn giữ lại giắc cắm tai nghe 3.5mm tiện lợi, cảm biến vân tay một chạm cạnh bên và camera sau AI rõ nét."
+  ],
+  "priceSegment": "entry-level"
+}

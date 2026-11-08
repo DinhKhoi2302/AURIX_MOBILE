@@ -1,0 +1,459 @@
+{
+  "id": "vivo-x300-pro-5g",
+  "brand": "vivo",
+  "brandId": "vivo",
+  "parentGroupId": "vivo",
+  "model": "vivo X300 Pro 5G",
+  "series": "vivo X300 Series (ZEISS)",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "flagship"
+  ],
+  "status": "active_listing",
+  "featuredOrder": 5,
+  "bestseller": true,
+  "rating": 4.8,
+  "reviewCount": 37,
+  "badges": [
+    {
+      "text": "Giảm giá",
+      "type": "sale"
+    }
+  ],
+  "overview": {
+    "releaseDate": "14/10/2025",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "vivo X300 Pro 5G là mẫu flagship nhiếp ảnh chủ lực được vivo đồng chế tác cùng thương hiệu quang học huyền thoại ZEISS. Hội tụ ống kính Telephoto tiềm vọng 200MP ZEISS APO (cảm biến 1/1.4 inch), camera chính 50MP cảm biến lớn 1/1.28 inch kết hợp chip hình ảnh độc lập vivo V3+, vi xử lý 3nm MediaTek Dimensity 9500 và viên pin BlueVolt Silicon-Carbon 6.510 mAh trong thân máy chuẩn kháng nước kép IP68/IP69, vivo X300 Pro 5G tại AURIX MOBILE là lựa chọn hoàn hảo cho những người đam mê nhiếp ảnh chân dung, chụp sân khấu concert và quay dựng video 4K 120fps Dolby Vision chuyên nghiệp. (Nguồn tham chiếu chính thức: vivo Global & GSMArena - vivo X300 Pro 5G).",
+    "highlights": [
+      "6,78 inch LTPO",
+      "Dimensity 9500",
+      "Camera ZEISS 200MP APO"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 28990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT002-VVX300P-NAU-16GB-512GB",
+      "color": "Nâu",
+      "colorHex": "#78350F",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 28990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/vivo/vivo-x300-pro-5g/anh-dai-dien-vivo-x300-pro-5g-nau.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/thiet-ke-mat-lung-vivo-x300-pro-5g-nau.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/canh-ben-va-man-hinh-vivo-x300-pro-5g-nau.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/goc-nghieng-khung-vien-vivo-x300-pro-5g-nau.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/vivo-X300-Pro-5G.jpg",
+        "assets/images/products/vivo/vivo-x300-pro-5g/thong-so-man-hinh-vivo-x300-pro-5g-nau.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/thong-so-noi-bat-vivo-x300-pro-5g-nau-den.webp"
+      ]
+    },
+    {
+      "sku": "DT002-VVX300P-NAU-16GB-1TB",
+      "color": "Nâu",
+      "colorHex": "#78350F",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 31990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/vivo/vivo-x300-pro-5g/anh-dai-dien-vivo-x300-pro-5g-nau.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/thiet-ke-mat-lung-vivo-x300-pro-5g-nau.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/canh-ben-va-man-hinh-vivo-x300-pro-5g-nau.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/goc-nghieng-khung-vien-vivo-x300-pro-5g-nau.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/vivo-X300-Pro-5G.jpg",
+        "assets/images/products/vivo/vivo-x300-pro-5g/thong-so-man-hinh-vivo-x300-pro-5g-nau.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/thong-so-noi-bat-vivo-x300-pro-5g-nau-den.webp"
+      ]
+    },
+    {
+      "sku": "DT002-VVX300P-DEN-16GB-512GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 28990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/vivo/vivo-x300-pro-5g/mat-truoc-mat-sau-vivo-x300-pro-5g-den.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/man-hinh-mat-truoc-vivo-x300-pro-5g-den.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/thiet-ke-mat-lung-vivo-x300-pro-5g-den.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/canh-tren-canh-duoi-vivo-x300-pro-5g-den.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/canh-tren-va-camera-vivo-x300-pro-5g-den.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/goc-nghieng-camera-sau-vivo-x300-pro-5g-den.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/cum-camera-sau-vivo-x300-pro-5g-den.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/trai-nghiem-chup-anh-vivo-x300-pro-5g-den.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/tren-tay-man-hinh-vivo-x300-pro-5g-den.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/vivo-X300-Pro-5G.jpg",
+        "assets/images/products/vivo/vivo-x300-pro-5g/thong-so-man-hinh-vivo-x300-pro-5g-nau.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/thong-so-noi-bat-vivo-x300-pro-5g-nau-den.webp"
+      ]
+    },
+    {
+      "sku": "DT002-VVX300P-DEN-16GB-1TB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 31990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/vivo/vivo-x300-pro-5g/mat-truoc-mat-sau-vivo-x300-pro-5g-den.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/man-hinh-mat-truoc-vivo-x300-pro-5g-den.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/thiet-ke-mat-lung-vivo-x300-pro-5g-den.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/canh-tren-canh-duoi-vivo-x300-pro-5g-den.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/canh-tren-va-camera-vivo-x300-pro-5g-den.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/goc-nghieng-camera-sau-vivo-x300-pro-5g-den.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/cum-camera-sau-vivo-x300-pro-5g-den.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/trai-nghiem-chup-anh-vivo-x300-pro-5g-den.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/tren-tay-man-hinh-vivo-x300-pro-5g-den.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/vivo-X300-Pro-5G.jpg",
+        "assets/images/products/vivo/vivo-x300-pro-5g/thong-so-man-hinh-vivo-x300-pro-5g-nau.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/thong-so-noi-bat-vivo-x300-pro-5g-nau-den.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "LTPO AMOLED 1,07 tỷ màu, 1–120Hz, 4.500 nit",
+    "size": "6,78 inch",
+    "resolution": "2800 x 1260 pixel (1.5K+, 452 ppi)",
+    "refreshRate": "1–120Hz LTPO thích ứng",
+    "brightness": "Dolby Vision, HDR10+, HDR Vivid, Ultra HDR; Độ sáng tiêu chuẩn 1.600 nit / đỉnh HDR 3.000 nit / đỉnh cục bộ ngoài trời 4.500 nit; Làm mờ PWM tần số siêu cao 2160Hz toàn dải sáng, chứng nhận bảo vệ mắt TÜV Rheinland",
+    "hdr": "HDR10+ / HLG",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "MediaTek Dimensity 9500 (tiến trình 3nm thế hệ mới TSMC N3P) kết hợp vi xử lý hình ảnh chuyên dụng vivo V3+ (6nm)",
+    "cpu": "CPU 8 nhân kiến trúc All-Big-Core thế hệ 2: 1 nhân siêu hiệu năng Cortex-X925/Travis (xung nhịp 3,63–4,0 GHz) + 3 nhân hiệu năng cao Cortex-X4 (3,3 GHz) + 4 nhân Cortex-A720 (2,4 GHz)",
+    "gpu": "ARM Immortalis-G925 MC12 hỗ trợ công nghệ dò tia phần cứng Ray Tracing thế hệ 2 và nội suy khung hình game 120fps",
+    "ram": [
+      "16GB"
+    ],
+    "storage": [
+      "512GB",
+      "1TB"
+    ],
+    "operatingSystem": "Android 16 với giao diện Funtouch OS 16 (phiên bản Quốc tế/Việt Nam) hoặc OriginOS 6",
+    "uiVersion": "Funtouch OS / OriginOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Chính Sony LYT-828 OIS + 200MP Tele tiềm vọng ZEISS APO 3.7x OIS + 50MP Góc siêu rộng AF",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "Quay video 8K ở 30fps, 4K ở 30/60/120fps trên cả camera chính và tele 200MP; Quay 4K Dolby Vision HDR 60fps toàn dải tiêu cự; 4K 120fps 10-bit Log (hỗ trợ LUTs trực tiếp và hệ màu điện ảnh ACES); 4K Cinematic Portrait Video xóa phông chủ thể chuyển động ở 60fps; 4K Super Night Video nhờ chip xử lý hình ảnh độc lập vivo V3+ 6nm"
+    ],
+    "aiFeatures": [
+      "Gói chân dung đa tiêu cự ZEISS Multifocal Portrait (24mm, 35mm, 50mm, 85mm, 135mm) kết hợp 7 hiệu ứng bokeh huyền thoại ZEISS (Biotar, B-Speed, Sonnar, Planar, Distagon, Cine-flare, Cinematic); Chế độ chụp sân khấu Telephoto Stage Mode (tối ưu ánh sáng concert ở mức zoom 10x–30x); Chế độ chụp ảnh đường phố Street Photography Mode; Chụp hoàng hôn và mặt trời ZEISS Telephoto Sunshot; Chụp đêm thiên văn Astro Mode và chụp trăng Super Moon"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "50MP AF (ƒ/2.0, 22mm, góc rộng 92°), quay 4K 60fps",
+    "features": [
+      "Camera Selfie 50MP Ultra-Clear (cảm biến Samsung JN1 1/2.76\", khẩu độ ƒ/2.0, tiêu cự 20mm góc siêu rộng 92°, hỗ trợ tự động lấy nét AF nhận diện mắt); Quay video 4K ở 30/60fps và 1080p ở 30/60fps tích hợp chống rung điện tử gyro-EIS và làm đẹp chân dung AI tự nhiên"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "6.510 mAh (Pin BlueVolt Silicon-Carbon thế hệ 3)",
+    "wiredCharging": "Sạc nhanh có dây 90W FlashCharge, sạc không dây 50W, sạc ngược",
+    "wirelessCharging": "Có hỗ trợ sạc không dây",
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": "Sạc siêu nhanh có dây FlashCharge 90W (nạp 50% trong 16 phút, đầy 100% trong 38 phút) | Sạc nhanh không dây 50W Wireless FlashCharge | Hỗ trợ sạc ngược không dây và có dây"
+  },
+  "connectivity": {
+    "sim": [
+      "SIM kép (2 Nano-SIM vật lý hoặc 1 Nano-SIM + eSIM hoạt động đồng thời)"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 7 (802.11be) ba băng tần (2.4GHz / 5GHz / 6GHz), 2x2 MIMO",
+    "bluetooth": "Bluetooth 5.4 hỗ trợ chuẩn âm thanh không dây Lossless (aptX HD, aptX Adaptive, LDAC, LHDC 5.0)",
+    "gps": [
+      "Định vị vệ tinh băng tần kép L1+L5: GPS, GLONASS, Galileo, BeiDou, QZSS, NavIC"
+    ],
+    "usb": "USB Type-C chuẩn tốc độ cao USB 3.2 Gen 1 (5Gbps), hỗ trợ xuất hình ảnh DisplayPort 4K HDR",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "161,98 x 75,48 x 7,99 mm",
+    "weight": "226 gram",
+    "materials": [
+      "Khung hợp kim nhôm hàng không nguyên khối vát cong công thái học",
+      "Mặt lưng kính cường lực nhám mờ AG hoặc sợi thủy tinh cao cấp, cụm camera Sunburst Ring viền kim loại khía rãnh"
+    ],
+    "waterResistance": "IP68 & IP69 (Kháng nước sâu và tia nước nóng áp lực cao)",
+    "availableColors": [
+      "Nâu",
+      "Đen"
+    ]
+  },
+  "audio": {
+    "speakers": "Hệ thống loa kép Stereo đối xứng đạt chứng nhận Hi-Res Audio & Hi-Res Wireless Audio",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "AMOLED 6.78 inch"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền vivo tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/vivo/vivo-x300-pro-5g/anh-dai-dien-vivo-x300-pro-5g-nau.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/vivo/vivo-x300-pro-5g/anh-dai-dien-vivo-x300-pro-5g-nau.webp",
+      "assets/images/products/vivo/vivo-x300-pro-5g/mat-truoc-mat-sau-vivo-x300-pro-5g-den.webp",
+      "assets/images/products/vivo/vivo-x300-pro-5g/man-hinh-mat-truoc-vivo-x300-pro-5g-den.webp",
+      "assets/images/products/vivo/vivo-x300-pro-5g/thiet-ke-mat-lung-vivo-x300-pro-5g-den.webp",
+      "assets/images/products/vivo/vivo-x300-pro-5g/thiet-ke-mat-lung-vivo-x300-pro-5g-nau.webp",
+      "assets/images/products/vivo/vivo-x300-pro-5g/canh-ben-va-man-hinh-vivo-x300-pro-5g-nau.webp",
+      "assets/images/products/vivo/vivo-x300-pro-5g/canh-tren-canh-duoi-vivo-x300-pro-5g-den.webp",
+      "assets/images/products/vivo/vivo-x300-pro-5g/canh-tren-va-camera-vivo-x300-pro-5g-den.webp",
+      "assets/images/products/vivo/vivo-x300-pro-5g/goc-nghieng-khung-vien-vivo-x300-pro-5g-nau.webp",
+      "assets/images/products/vivo/vivo-x300-pro-5g/goc-nghieng-camera-sau-vivo-x300-pro-5g-den.webp",
+      "assets/images/products/vivo/vivo-x300-pro-5g/cum-camera-sau-vivo-x300-pro-5g-den.webp",
+      "assets/images/products/vivo/vivo-x300-pro-5g/trai-nghiem-chup-anh-vivo-x300-pro-5g-den.webp",
+      "assets/images/products/vivo/vivo-x300-pro-5g/tren-tay-man-hinh-vivo-x300-pro-5g-den.webp",
+      "assets/images/products/vivo/vivo-x300-pro-5g/vivo-X300-Pro-5G.jpg",
+      "assets/images/products/vivo/vivo-x300-pro-5g/thong-so-man-hinh-vivo-x300-pro-5g-nau.webp",
+      "assets/images/products/vivo/vivo-x300-pro-5g/thong-so-noi-bat-vivo-x300-pro-5g-nau-den.webp"
+    ],
+    "byColor": {
+      "Nâu": [
+        "assets/images/products/vivo/vivo-x300-pro-5g/anh-dai-dien-vivo-x300-pro-5g-nau.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/thiet-ke-mat-lung-vivo-x300-pro-5g-nau.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/canh-ben-va-man-hinh-vivo-x300-pro-5g-nau.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/goc-nghieng-khung-vien-vivo-x300-pro-5g-nau.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/vivo-X300-Pro-5G.jpg",
+        "assets/images/products/vivo/vivo-x300-pro-5g/thong-so-man-hinh-vivo-x300-pro-5g-nau.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/thong-so-noi-bat-vivo-x300-pro-5g-nau-den.webp"
+      ],
+      "Đen": [
+        "assets/images/products/vivo/vivo-x300-pro-5g/mat-truoc-mat-sau-vivo-x300-pro-5g-den.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/man-hinh-mat-truoc-vivo-x300-pro-5g-den.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/thiet-ke-mat-lung-vivo-x300-pro-5g-den.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/canh-tren-canh-duoi-vivo-x300-pro-5g-den.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/canh-tren-va-camera-vivo-x300-pro-5g-den.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/goc-nghieng-camera-sau-vivo-x300-pro-5g-den.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/cum-camera-sau-vivo-x300-pro-5g-den.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/trai-nghiem-chup-anh-vivo-x300-pro-5g-den.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/tren-tay-man-hinh-vivo-x300-pro-5g-den.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/vivo-X300-Pro-5G.jpg",
+        "assets/images/products/vivo/vivo-x300-pro-5g/thong-so-man-hinh-vivo-x300-pro-5g-nau.webp",
+        "assets/images/products/vivo/vivo-x300-pro-5g/thong-so-noi-bat-vivo-x300-pro-5g-nau-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/vivo/vivo-x300-pro-5g/mat-truoc-mat-sau-vivo-x300-pro-5g-den.webp",
+      "screen": "assets/images/products/vivo/vivo-x300-pro-5g/man-hinh-mat-truoc-vivo-x300-pro-5g-den.webp",
+      "performance": "assets/images/products/vivo/vivo-x300-pro-5g/goc-nghieng-camera-sau-vivo-x300-pro-5g-den.webp",
+      "camera": "assets/images/products/vivo/vivo-x300-pro-5g/canh-tren-va-camera-vivo-x300-pro-5g-den.webp",
+      "battery": "assets/images/products/vivo/vivo-x300-pro-5g/canh-ben-va-man-hinh-vivo-x300-pro-5g-nau.webp",
+      "feature": "assets/images/products/vivo/vivo-x300-pro-5g/trai-nghiem-chup-anh-vivo-x300-pro-5g-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/vivo/vivo-x300-pro-5g/mat-truoc-mat-sau-vivo-x300-pro-5g-den.webp",
+      "assets/images/products/vivo/vivo-x300-pro-5g/man-hinh-mat-truoc-vivo-x300-pro-5g-den.webp",
+      "assets/images/products/vivo/vivo-x300-pro-5g/thiet-ke-mat-lung-vivo-x300-pro-5g-den.webp",
+      "assets/images/products/vivo/vivo-x300-pro-5g/thiet-ke-mat-lung-vivo-x300-pro-5g-nau.webp",
+      "assets/images/products/vivo/vivo-x300-pro-5g/canh-ben-va-man-hinh-vivo-x300-pro-5g-nau.webp",
+      "assets/images/products/vivo/vivo-x300-pro-5g/canh-tren-canh-duoi-vivo-x300-pro-5g-den.webp",
+      "assets/images/products/vivo/vivo-x300-pro-5g/canh-tren-va-camera-vivo-x300-pro-5g-den.webp",
+      "assets/images/products/vivo/vivo-x300-pro-5g/goc-nghieng-khung-vien-vivo-x300-pro-5g-nau.webp",
+      "assets/images/products/vivo/vivo-x300-pro-5g/goc-nghieng-camera-sau-vivo-x300-pro-5g-den.webp",
+      "assets/images/products/vivo/vivo-x300-pro-5g/cum-camera-sau-vivo-x300-pro-5g-den.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-vivo",
+      "https://www.vivo.com/vn/products"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "verified",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT002-VVX300P",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "LTPO AMOLED 8T hiển thị 1,07 tỷ màu (10-bit), tấm nền phát quang Q10 tiết kiệm điện, độ phủ màu 100% DCI-P3",
+      "Kích thước màn hình": "6,78 inch theo đường chéo (tỷ lệ hiển thị ~91,8% mặt trước)",
+      "Độ phân giải màn hình": "2800 x 1260 pixel (chuẩn 1.5K+ Ultra-Clear, tỷ lệ 20:9, mật độ điểm ảnh 452 ppi)",
+      "Tần số quét": "Công nghệ LTPO thích ứng thông minh từ 1Hz đến 120Hz, tốc độ lấy mẫu cảm ứng 300Hz",
+      "Kiểu màn hình": "Màn hình cong viền siêu mỏng đồng đều 4 cạnh (Quad-Curved), bảo vệ bởi kính cường lực Armor Glass",
+      "Tính năng màn hình": "Dolby Vision, HDR10+, HDR Vivid, Ultra HDR; Độ sáng tiêu chuẩn 1.600 nit / đỉnh HDR 3.000 nit / đỉnh cục bộ ngoài trời 4.500 nit; Làm mờ PWM tần số siêu cao 2160Hz toàn dải sáng, chứng nhận bảo vệ mắt TÜV Rheinland"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera Flagship đồng chế tác cùng ZEISS phủ lớp tráng phủ ZEISS T* chống phản xạ: (1) Camera chính 50MP ZEISS Gimbal-Grade: cảm biến Sony LYT-828 / LYT-900 kích thước lớn 1/1.28 inch (điểm ảnh 1.22µm, gộp 4-in-1 đạt 2.44µm), khẩu độ lớn ƒ/1.57, tiêu cự 23mm, lấy nét tự động Dual Pixel PDAF + Laser AF, chống rung quang học OIS chuẩn CIPA 4.5; (2) Camera Telephoto tiềm vọng 200MP ZEISS APO: cảm biến Samsung ISOCELL HP9 / HPB kích thước lớn 1/1.4 inch (điểm ảnh 0.56µm, gộp 16-in-1 đạt 2.24µm), khẩu độ ƒ/2.67, tiêu cự tương đương 85mm (zoom quang học 3.7x, zoom in-sensor lossless 7.4x/10x, zoom số 100x HyperZoom), thấu kính Fluorite cấp độ APO khử quang sai màu sắc, chống rung OIS CIPA 4.5 và lấy nét Telephoto Macro cự ly 15cm (độ phóng đại 20x); (3) Camera Góc siêu rộng 50MP: cảm biến Samsung JN1 kích thước 1/2.76 inch, khẩu độ ƒ/2.0, tiêu cự 15mm (góc nhìn 119°), tích hợp lấy nét tự động AF chụp cận cảnh",
+      "Quay video": "Quay video 8K ở 30fps, 4K ở 30/60/120fps trên cả camera chính và tele 200MP; Quay 4K Dolby Vision HDR 60fps toàn dải tiêu cự; 4K 120fps 10-bit Log (hỗ trợ LUTs trực tiếp và hệ màu điện ảnh ACES); 4K Cinematic Portrait Video xóa phông chủ thể chuyển động ở 60fps; 4K Super Night Video nhờ chip xử lý hình ảnh độc lập vivo V3+ 6nm",
+      "Tính năng camera": "Gói chân dung đa tiêu cự ZEISS Multifocal Portrait (24mm, 35mm, 50mm, 85mm, 135mm) kết hợp 7 hiệu ứng bokeh huyền thoại ZEISS (Biotar, B-Speed, Sonnar, Planar, Distagon, Cine-flare, Cinematic); Chế độ chụp sân khấu Telephoto Stage Mode (tối ưu ánh sáng concert ở mức zoom 10x–30x); Chế độ chụp ảnh đường phố Street Photography Mode; Chụp hoàng hôn và mặt trời ZEISS Telephoto Sunshot; Chụp đêm thiên văn Astro Mode và chụp trăng Super Moon"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera Selfie 50MP Ultra-Clear (cảm biến Samsung JN1 1/2.76\", khẩu độ ƒ/2.0, tiêu cự 20mm góc siêu rộng 92°, hỗ trợ tự động lấy nét AF nhận diện mắt); Quay video 4K ở 30/60fps và 1080p ở 30/60fps tích hợp chống rung điện tử gyro-EIS và làm đẹp chân dung AI tự nhiên"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Dimensity 9500 (tiến trình 3nm thế hệ mới TSMC N3P) kết hợp vi xử lý hình ảnh chuyên dụng vivo V3+ (6nm)",
+      "Loại CPU": "CPU 8 nhân kiến trúc All-Big-Core thế hệ 2: 1 nhân siêu hiệu năng Cortex-X925/Travis (xung nhịp 3,63–4,0 GHz) + 3 nhân hiệu năng cao Cortex-X4 (3,3 GHz) + 4 nhân Cortex-A720 (2,4 GHz)",
+      "GPU": "ARM Immortalis-G925 MC12 hỗ trợ công nghệ dò tia phần cứng Ray Tracing thế hệ 2 và nội suy khung hình game 120fps"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "16GB LPDDR5X Ultra tốc độ 9600 Mbps (hỗ trợ mở rộng RAM ảo thêm 16GB)",
+      "Bộ nhớ trong": "2 phiên bản: 512GB và 1TB chuẩn UFS 4.1 tốc độ đọc ghi tuần tự vượt trội"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "6.510 mAh (Pin BlueVolt Silicon-Carbon thế hệ thứ 3 chịu lạnh tới -20°C) – Đáp ứng lên tới 2,5 ngày sử dụng hỗn hợp hoặc 31 giờ xem video liên tục",
+      "Công nghệ sạc": "Sạc siêu nhanh có dây FlashCharge 90W (nạp 50% trong 16 phút, đầy 100% trong 38 phút) | Sạc nhanh không dây 50W Wireless FlashCharge | Hỗ trợ sạc ngược không dây và có dây",
+      "Cổng sạc": "USB Type-C chuẩn tốc độ cao USB 3.2 Gen 1 (5Gbps), hỗ trợ xuất hình ảnh DisplayPort 4K HDR"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 16 với giao diện Funtouch OS 16 (phiên bản Quốc tế/Việt Nam) hoặc OriginOS 6",
+      "Công nghệ - Tiện ích": "Hệ sinh thái Vivo AI (AI Erase xóa vật thể, AI Photo Enhance phục chế ảnh, AI Transcript Assist tóm tắt ghi âm, AI Live Call Translation, Khoanh tròn tìm kiếm Circle to Search)",
+      "Tiện ích khác": "Origin Island hiển thị thông báo động, tản nhiệt buồng hơi VC diện tích lớn, điều khiển hồng ngoại IR Blaster đa năng",
+      "Thời điểm ra mắt": "Tháng 10/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G đa băng tần (SA/NSA Sub-6GHz) với 4x4 MIMO, 4G LTE-A Cat 24",
+      "Thẻ SIM": "SIM kép (2 Nano-SIM vật lý hoặc 1 Nano-SIM + eSIM hoạt động đồng thời)",
+      "Wi-Fi": "Wi-Fi 7 (802.11be) ba băng tần (2.4GHz / 5GHz / 6GHz), 2x2 MIMO",
+      "Bluetooth": "Bluetooth 5.4 hỗ trợ chuẩn âm thanh không dây Lossless (aptX HD, aptX Adaptive, LDAC, LHDC 5.0)",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa năng 360 độ (thanh toán chạm Google Pay, đọc thẻ căn cước)",
+      "GPS": "Định vị vệ tinh băng tần kép L1+L5: GPS, GLONASS, Galileo, BeiDou, QZSS, NavIC"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung hợp kim nhôm hàng không nguyên khối vát cong công thái học",
+      "Chất liệu mặt lưng": "Mặt lưng kính cường lực nhám mờ AG hoặc sợi thủy tinh cao cấp, cụm camera Sunburst Ring viền kim loại khía rãnh",
+      "Kích thước": "161,98 x 75,48 x 7,99 mm",
+      "Trọng lượng": "226 gram",
+      "Chỉ số kháng nước, bụi": "Đạt đồng thời chuẩn IP68 (ngâm nước sâu 1,5m trong 30 phút) và IP69 (kháng tia nước nóng áp lực cao 80°C)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo đối xứng đạt chứng nhận Hi-Res Audio & Hi-Res Wireless Audio",
+      "Cảm biến vân tay": "Cảm biến vân tay siêu âm 3D dưới màn hình (nhận diện 1 chạm siêu nhạy kể cả khi tay ướt) + Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Cảm biến vân tay siêu âm 3D, Cảm biến lấy nét Laser dToF, Cảm biến quang phổ màu đa kênh, Gia tốc kế, Con quay hồi chuyển, Tiệm cận, Ánh sáng kép, La bàn số, Hồng ngoại"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,78 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "LTPO AMOLED 1,07 tỷ màu, 1–120Hz, 4.500 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2800 x 1260 pixel (1.5K+, 452 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "1–120Hz LTPO thích ứng"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 9500 (3nm) + Chip hình ảnh vivo V3+"
+    },
+    {
+      "label": "RAM",
+      "value": "16GB LPDDR5X Ultra"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "2 phiên bản: 512GB và 1TB chuẩn UFS 4.1"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính Sony LYT-828 OIS + 200MP Tele tiềm vọng ZEISS APO 3.7x OIS + 50MP Góc siêu rộng AF"
+    },
+    {
+      "label": "Camera trước",
+      "value": "50MP AF (ƒ/2.0, 22mm, góc rộng 92°), quay 4K 60fps"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "6.510 mAh (Pin BlueVolt Silicon-Carbon thế hệ 3)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh có dây 90W FlashCharge, sạc không dây 50W, sạc ngược"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Funtouch OS 16 / OriginOS 6 (Android 16)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 & IP69 (Kháng nước sâu và tia nước nóng áp lực cao)"
+    }
+  ],
+  "verbatimDescription": [
+    "vivo X300 Pro 5G là mẫu flagship nhiếp ảnh chủ lực được vivo đồng chế tác cùng thương hiệu quang học huyền thoại ZEISS. Hội tụ ống kính Telephoto tiềm vọng 200MP ZEISS APO (cảm biến 1/1.4 inch), camera chính 50MP cảm biến lớn 1/1.28 inch kết hợp chip hình ảnh độc lập vivo V3+, vi xử lý 3nm MediaTek Dimensity 9500 và viên pin BlueVolt Silicon-Carbon 6.510 mAh trong thân máy chuẩn kháng nước kép IP68/IP69, vivo X300 Pro 5G tại AURIX MOBILE là lựa chọn hoàn hảo cho những người đam mê nhiếp ảnh chân dung, chụp sân khấu concert và quay dựng video 4K 120fps Dolby Vision chuyên nghiệp.",
+    "Thiết kế của vivo X300 Pro 5G toát lên vẻ sang trọng chuẩn mực với cụm camera tròn lớn ở mặt lưng được bao quanh bởi vòng kim loại khắc rãnh tinh xảo như ống kính máy ảnh cơ. Dù mang trong mình viên pin lên tới 6.510 mAh, máy vẫn giữ được độ mỏng ấn tượng chỉ 7,99 mm và trọng lượng cân đối 226 gram. Thân máy chế tác từ khung hợp kim nhôm hàng không kết hợp kính cường lực Armor Glass chịu va đập vượt trội, đạt đồng thời hai chuẩn kháng bụi nước khắt khe nhất là IP68 (ngâm nước 1,5 mét trong 30 phút) và IP69 (chống tia nước áp lực cao ở nhiệt độ lên đến 80°C).",
+    "Mặt trước của thiết bị là màn hình cong nhẹ bốn cạnh đồng đều kích thước 6,78 inch sử dụng tấm nền LTPO AMOLED 10-bit (2800 x 1260 pixel, 452 ppi). Công nghệ LTPO 8T cho phép biến thiên tần số quét mượt mà từ 1Hz đến 120Hz, kết hợp độ sáng đỉnh ngoài trời đạt tới 4.500 nit và chuẩn hiển thị Dolby Vision, HDR10+. Đặc biệt, vivo trang bị công nghệ điều chỉnh độ sáng PWM tần số cao 2160Hz trên toàn dải độ sáng, giúp triệt tiêu hiện tượng nhấp nháy màn hình và bảo vệ thị lực tối đa khi làm việc ban đêm.",
+    "Điểm làm nên danh tiếng lừng lẫy của vivo X300 Pro 5G chính là hệ thống camera ZEISS phủ lớp tráng phủ ZEISS T* trứ danh. Tâm điểm là ống kính Telephoto tiềm vọng 200MP ZEISS APO sử dụng cảm biến lớn 1/1.4 inch (khẩu độ ƒ/2.67, tiêu cự 85mm, zoom quang học 3.7x, chống rung OIS CIPA 4.5) với thấu kính Fluorite kiểm soát quang sai sắc nét đến từng sợi tóc. Ống kính này không chỉ mang lại khả năng chụp chân dung xóa phông đa tiêu cự (85mm, 135mm) và chụp Telephoto Macro phóng đại 20x ở cự ly 15cm, mà còn thống trị khả năng chụp sân khấu concert (Stage Mode) ở mức zoom 10x–30x.",
+    "Song hành cùng ống kính tiềm vọng 200MP là camera chính 50MP cảm biến Sony LYT-828 kích thước 1/1.28 inch (khẩu độ lớn ƒ/1.57, tiêu cự 23mm, OIS chuẩn CIPA 4.5) và camera góc siêu rộng 50MP (15mm, ƒ/2.0, AF). Nhờ sự kết hợp giữa ISP tích hợp và chip xử lý hình ảnh chuyên dụng vivo V3+ (tiến trình 6nm), máy hỗ trợ quay video 4K ở tốc độ 120fps, quay 4K 60fps Dolby Vision HDR và 10-bit Log trên toàn bộ các tiêu cự, đồng thời nâng cấp chế độ quay xóa phông điện ảnh 4K Cinematic Portrait Video 60fps.",
+    "Về sức mạnh phần cứng, vivo X300 Pro 5G vận hành trên vi xử lý đầu bảng MediaTek Dimensity 9500 (tiến trình 3nm TSMC) với kiến trúc 8 nhân All-Big-Core và GPU Immortalis-G925 MC12 hỗ trợ Ray Tracing phần cứng. Kết hợp cùng 16GB RAM LPDDR5X Ultra và bộ nhớ trong 512GB/1TB chuẩn UFS 4.1, thiết bị xử lý nhẹ nhàng mọi tác vụ biên tập video 4K RAW và chiến mượt các tựa game nặng ở thiết lập đồ họa tối đa.",
+    "Viên pin BlueVolt Silicon-Carbon thế hệ thứ 3 dung lượng 6.510 mAh giúp vivo X300 Pro 5G duy trì hoạt động bền bỉ lên tới hơn 2 ngày và hoạt động ổn định ngay cả trong môi trường giá lạnh -20°C. Công nghệ sạc nhanh có dây FlashCharge 90W nạp đầy pin trong khoảng 38 phút, đi kèm sạc nhanh không dây 50W, cảm biến vân tay siêu âm 3D mở khóa tức thì và hệ điều hành Funtouch OS 16 (Android 16) tích hợp trọn bộ công cụ Vivo AI thông minh."
+  ],
+  "priceSegment": "flagship"
+}

@@ -1,0 +1,218 @@
+{
+  "id": "xiaomi-pad-mini",
+  "docCode": "TB-MI007-PADMINI",
+  "model": "Xiaomi Pad Mini Compact Flagship",
+  "brand": "Xiaomi",
+  "brandId": "xiaomi",
+  "parentGroupId": "xiaomi",
+  "series": "Xiaomi Pad 8 & Mini Series",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "8.8 inch",
+      "Snapdragon 8s Gen 3",
+      "Pin 6.500 mAh"
+    ],
+    "description": "Xiaomi Pad Mini là mẫu máy tính bảng mini cấu hình khủng sinh ra để thống trị phân khúc gaming và giải trí cầm tay. Với màn hình kích thước nhỏ gọn 8.8 inch vừa vặn hai bàn tay và trọng lượng siêu nhẹ chỉ 350g, thiết bị đem lại sự linh hoạt tối đa khi chơi game hay đọc sách di động.",
+    "releaseDate": "2024 / 2025"
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 8s Gen 3 (tiến trình 4nm mạnh mẽ)",
+    "ram": [
+      "12GB",
+      "8GB"
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ],
+    "operatingSystem": "Xiaomi HyperOS (Android 14 / 15)"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 8490000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/anh-dai-dien-xiaomi-pad-mini-xam.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/anh-dai-dien-xiaomi-pad-mini-xam.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/mat-truoc-thang-dung-xam.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/mat-sau-nghieng-trai-xam.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/canh-duoi-cong-sac-loa-xam.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/canh-tren-loa-xam.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/mat-truoc-nghieng-phai-xam.webp"
+    ],
+    "byColor": {
+      "Xám": [
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/anh-dai-dien-xiaomi-pad-mini-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/mat-truoc-thang-dung-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/mat-sau-nghieng-trai-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/canh-duoi-cong-sac-loa-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/canh-tren-loa-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/mat-truoc-nghieng-phai-xam.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/mat-sau-nghieng-trai-xam.webp",
+      "screen": "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/mat-truoc-thang-dung-xam.webp",
+      "performance": "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/mat-truoc-nghieng-phai-xam.webp",
+      "camera": "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/canh-duoi-cong-sac-loa-xam.webp",
+      "battery": "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/canh-tren-loa-xam.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/mat-truoc-thang-dung-xam.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/mat-sau-nghieng-trai-xam.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/canh-duoi-cong-sac-loa-xam.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/canh-tren-loa-xam.webp",
+      "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/mat-truoc-nghieng-phai-xam.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "8,8 inch IPS LCD 2.8K / 3K (2880 x 1800 pixel, mật độ điểm ảnh siêu sắc nét ~386 ppi), tỷ lệ 16:10, tần số quét 144Hz/165Hz chuyên dụng eSports, Dolby Vision, độ sáng 700 nit",
+      "Tính năng màn hình": "Tần số quét siêu cao 144Hz kèm tốc độ lấy mẫu cảm ứng tức thời nhanh nhạy cho game thủ, dải màu rộng DCI-P3, chứng nhận bảo vệ mắt TÜV Rheinland và DC Dimming"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "Qualcomm Snapdragon 8s Gen 3 4nm tối ưu hóa hiệu năng gaming và tản nhiệt buồng hơi",
+      "CPU & Đồ họa": "Octa-core xung nhịp tối đa 3.0 GHz, GPU Adreno 735",
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS tối ưu hóa giao diện cho thiết bị máy tính bảng mini"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "8GB / 12GB LPDDR5X",
+      "Bộ nhớ trong": "256GB / 512GB UFS 4.0 siêu tốc"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "13MP tự động lấy nét, đèn flash LED, quay video 4K 30fps",
+      "Camera trước": "8MP góc rộng tối ưu hóa đàm thoại video",
+      "Chi tiết hệ thống Camera": "Camera chính sau 13MP AF quay 4K; Camera trước 8MP"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "6.500 mAh, sạc nhanh công suất 45W qua USB-C",
+      "Pin và công nghệ sạc": "Pin Lithium Polymer 6.500 mAh, sạc nhanh 45W"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Tương thích các dòng bút cảm ứng stylus của Xiaomi",
+      "Hỗ trợ bàn phím rời": "Kết nối bàn phím Bluetooth",
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo kép tích hợp công nghệ Dolby Atmos",
+      "Thuộc tính đặc biệt": "Thiết kế mini 8.8 inch cầm một tay chơi game cực đỉnh, chip Snapdragon 8s Gen 3, màn hình 144Hz"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Wi-Fi 6E / Wi-Fi 7 đa băng tần",
+      "Thẻ SIM": "Không hỗ trợ (Bản Wi-Fi)",
+      "Kết nối không dây & Cổng giao tiếp": "Wi-Fi 6E/7, Bluetooth 5.4, cổng Type-C 3.2 Gen 1",
+      "Công nghệ - Tiện ích": "Chế độ Game Turbo tối ưu khung hình gaming, hệ sinh thái kết nối HyperOS"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Kích thước nhỏ gọn bỏ túi, độ mỏng 6.8 mm, trọng lượng nhẹ khoảng 350 g",
+      "Bảo mật và độ bền": "Cảm biến vân tay tích hợp nút nguồn, thân kim loại unibody",
+      "Thời điểm ra mắt": "Năm 2024 / 2025"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "8.8 inch IPS LCD 2.8K siêu nét, độ phân giải 2880 x 1800 pixels"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Tần số quét cao 144Hz mượt mà, độ sáng đỉnh 700 nits, tỷ lệ 16:10, Dolby Vision, HDR10+"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 8s Gen 3 (tiến trình 4nm mạnh mẽ)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB / 12GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB / 512GB UFS 4.0"
+    },
+    {
+      "label": "Camera sau",
+      "value": "13MP tự động lấy nét, đèn flash LED, quay video 4K 30fps"
+    },
+    {
+      "label": "Camera trước",
+      "value": "8MP góc rộng tối ưu hóa đàm thoại video"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Pin Lithium Polymer 6.500 mAh, sạc nhanh 45W"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Wi-Fi 6E / Wi-Fi 7 đa băng tần"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Tương thích các dòng bút cảm ứng stylus của Xiaomi"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Kết nối bàn phím Bluetooth"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS (Android 14 / 15)"
+    }
+  ],
+  "verbatimDescription": [
+    "Xiaomi Pad Mini là mẫu máy tính bảng mini cấu hình khủng sinh ra để thống trị phân khúc gaming và giải trí cầm tay. Với màn hình kích thước nhỏ gọn 8.8 inch vừa vặn hai bàn tay và trọng lượng siêu nhẹ chỉ 350g, thiết bị đem lại sự linh hoạt tối đa khi chơi game hay đọc sách di động.",
+    "Màn hình độ phân giải siêu cao 2.8K (2880 x 1800 pixels) cùng tần số quét 144Hz đem đến độ mượt mà và chi tiết sắc nét kinh ngạc. Độ sáng 700 nits kết hợp chuẩn Dolby Vision giúp hình ảnh trong game và phim ảnh hiện lên sống động, chân thực đến từng khung hình.",
+    "Sức mạnh hủy diệt từ con chip Snapdragon 8s Gen 3 kết hợp cùng hệ thống tản nhiệt buồng hơi VC diện tích lớn giúp máy duy trì hiệu năng đỉnh cao liên tục mà không bị quá nhiệt. Viên pin 6.500 mAh cùng sạc nhanh 45W đảm bảo cho các game thủ thoải mái đắm chìm trong các trận chiến kịch tính suốt cả ngày.",
+    "Thiết kế công thái học của Xiaomi Pad Mini được chăm chút đặc biệt cho nhu cầu cầm nắm bằng hai tay khi chiến game: thân máy kim loại nguyên khối mỏng 6,8mm, nặng chỉ khoảng 350g giúp cổ tay không bị mỏi trong suốt các trận đấu kéo dài.",
+    "Hệ thống loa kép Stereo đối xứng chuẩn Dolby Atmos kết hợp mô-tơ rung tuyến tính trục X kép mang lại phản hồi âm thanh định hướng bước chân và hiệu ứng rung chân thực trong từng pha giao tranh.",
+    "Viên pin 6.500 mAh đi kèm sạc nhanh 45W và cổng kết nối USB-C 3.2 Gen 1 tốc độ cao giúp nạp lại năng lượng nhanh chóng và hỗ trợ xuất hình ảnh ra màn hình lớn, biến Xiaomi Pad Mini thành chiếc máy tính bảng cỡ nhỏ toàn diện nhất cho cả game thủ lẫn người dùng hay di chuyển."
+  ],
+  "variants": [
+    {
+      "sku": "TB-MI007-PADMINI-XAM-8GB-256GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 8490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/anh-dai-dien-xiaomi-pad-mini-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/mat-truoc-thang-dung-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/mat-sau-nghieng-trai-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/canh-duoi-cong-sac-loa-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/canh-tren-loa-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/mat-truoc-nghieng-phai-xam.webp"
+      ]
+    },
+    {
+      "sku": "TB-MI007-PADMINI-XAM-12GB-512GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 9990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/anh-dai-dien-xiaomi-pad-mini-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/mat-truoc-thang-dung-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/mat-sau-nghieng-trai-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/canh-duoi-cong-sac-loa-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/canh-tren-loa-xam.webp",
+        "assets/images/products/tablet/xiaomi/xiaomi-pad-mini/mat-truoc-nghieng-phai-xam.webp"
+      ]
+    }
+  ]
+}

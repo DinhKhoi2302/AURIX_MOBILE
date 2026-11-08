@@ -1,0 +1,143 @@
+{
+  "id": "xmobile-usb-c-to-usb-c-60w-1m-dr-t09",
+  "docCode": "PK-CS011-DRT09",
+  "model": "Cáp Sạc Xmobile USB-C to USB-C 60W 1m DR-T09",
+  "brand": "Xmobile",
+  "brandId": "xmobile",
+  "parentGroupId": "xmobile",
+  "series": "Cáp sạc",
+  "subCategory": "cap-sac",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "cap-sac"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Cáp sạc",
+    "highlights": [
+      "60W",
+      "USB-C to USB-C",
+      "1.0 m"
+    ],
+    "description": "Lựa chọn kinh tế và thực dụng cho nhu cầu sạc cơ bản của điện thoại thông minh, tai nghe không dây và pin dự phòng. Cáp hỗ trợ chuẩn sạc nhanh công suất tối đa 60W, độ tương thích cao với hệ sinh thái Android, iPad và các thiết bị hỗ trợ chuẩn sạc Type-C, truyền tải tệp tin mượt mà và an toàn."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 90000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/anh-dai-dien-xmobile-usb-c-to-usb-c-60w-1m-dr-t09-trang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/anh-dai-dien-xmobile-usb-c-to-usb-c-60w-1m-dr-t09-trang.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/can-canh-dau-cam-type-c-goc-nghieng-trang.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/can-canh-co-cap-chong-gay-trang.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/cuon-cap-chieu-dai-1m-trang.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/dau-cap-type-c-thang-dung-trang.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/ket-noi-laptop-voi-dien-thoai-trang.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/ket-noi-pin-sac-du-phong-voi-dien-thoai-trang.webp"
+    ],
+    "byColor": {
+      "Trắng": [
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/anh-dai-dien-xmobile-usb-c-to-usb-c-60w-1m-dr-t09-trang.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/can-canh-dau-cam-type-c-goc-nghieng-trang.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/can-canh-co-cap-chong-gay-trang.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/cuon-cap-chieu-dai-1m-trang.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/dau-cap-type-c-thang-dung-trang.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/ket-noi-laptop-voi-dien-thoai-trang.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/ket-noi-pin-sac-du-phong-voi-dien-thoai-trang.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/can-canh-dau-cam-type-c-goc-nghieng-trang.webp",
+      "screen": "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/can-canh-co-cap-chong-gay-trang.webp",
+      "performance": "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/cuon-cap-chieu-dai-1m-trang.webp",
+      "camera": "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/dau-cap-type-c-thang-dung-trang.webp",
+      "battery": "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/ket-noi-pin-sac-du-phong-voi-dien-thoai-trang.webp",
+      "feature": "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/ket-noi-laptop-voi-dien-thoai-trang.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/can-canh-dau-cam-type-c-goc-nghieng-trang.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/can-canh-co-cap-chong-gay-trang.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/cuon-cap-chieu-dai-1m-trang.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/dau-cap-type-c-thang-dung-trang.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/ket-noi-laptop-voi-dien-thoai-trang.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/ket-noi-pin-sac-du-phong-voi-dien-thoai-trang.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Xmobile",
+      "Loại cáp": "USB-C to USB-C",
+      "Cổng kết nối": "USB-C sang USB-C",
+      "Công suất sạc tối đa": "60W (20V/3A)",
+      "Chiều dài dây": "1.0 m",
+      "Tốc độ truyền dữ liệu": "480 Mbps",
+      "Chất liệu dây": "Nhựa TPE dẻo bền bỉ, an toàn",
+      "Màu sắc": "Trắng"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Xmobile"
+    },
+    {
+      "label": "Loại cáp",
+      "value": "USB-C to USB-C"
+    },
+    {
+      "label": "Cổng kết nối",
+      "value": "USB-C sang USB-C"
+    },
+    {
+      "label": "Công suất sạc tối đa",
+      "value": "60W (20V/3A)"
+    },
+    {
+      "label": "Chiều dài dây",
+      "value": "1.0 m"
+    },
+    {
+      "label": "Tốc độ truyền dữ liệu",
+      "value": "480 Mbps"
+    },
+    {
+      "label": "Chất liệu dây",
+      "value": "Nhựa TPE dẻo bền bỉ, an toàn"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Trắng"
+    }
+  ],
+  "verbatimDescription": [
+    "Lựa chọn kinh tế và thực dụng cho nhu cầu sạc cơ bản của điện thoại thông minh, tai nghe không dây và pin dự phòng. Cáp hỗ trợ chuẩn sạc nhanh công suất tối đa 60W, độ tương thích cao với hệ sinh thái Android, iPad và các thiết bị hỗ trợ chuẩn sạc Type-C, truyền tải tệp tin mượt mà và an toàn."
+  ],
+  "variants": [
+    {
+      "sku": "PK-CS011-DRT09-TRANG-TIEU-CHUAN",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 90000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/anh-dai-dien-xmobile-usb-c-to-usb-c-60w-1m-dr-t09-trang.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/can-canh-dau-cam-type-c-goc-nghieng-trang.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/can-canh-co-cap-chong-gay-trang.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/cuon-cap-chieu-dai-1m-trang.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/dau-cap-type-c-thang-dung-trang.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/ket-noi-laptop-voi-dien-thoai-trang.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-60w-1m-dr-t09/ket-noi-pin-sac-du-phong-voi-dien-thoai-trang.webp"
+      ]
+    }
+  ]
+}

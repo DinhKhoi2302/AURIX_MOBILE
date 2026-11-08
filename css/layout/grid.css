@@ -1,0 +1,37 @@
+/* TechPhone — Responsive E-commerce Grids */
+.tp-hero-layout {
+  display: grid;
+  grid-template-columns: 255px minmax(0, 1fr);
+  gap: 1.25rem;
+  align-items: stretch;
+}
+.tp-benefits-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 0.75rem;
+  background: var(--tp-white);
+  border-radius: var(--tp-radius-lg);
+  padding: 1rem 1.25rem;
+  border: 1px solid var(--tp-border);
+  box-shadow: var(--tp-shadow-xs);
+}
+.tp-promo-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.15rem;
+}
+.tp-product-grid-6 {
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  gap: 1rem;
+}
+.tp-product-grid-4 {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1.15rem;
+}
+.tp-product-grid-3 {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.15rem;
+}

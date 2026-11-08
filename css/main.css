@@ -1,0 +1,43 @@
+/*
+ * AURIX MOBILE — Main Entry Stylesheet
+ * Order:
+ * 1. Reset
+ * 2. Tokens
+ * 3. Typography
+ * 4. Utilities
+ * 5. Layout
+ * 6. Components
+ * 7. Motion
+ * Note: Responsive stylesheets (tablet.css, mobile.css) are loaded once after page-specific CSS in HTML <head>.
+ */
+@import url('./base/reset.css');
+@import url('./base/tokens.css');
+@import url('./base/typography.css');
+@import url('./base/utilities.css');
+
+@import url('./layout/containers.css');
+@import url('./layout/grid.css');
+@import url('./layout/header.css');
+@import url('./layout/navigation.css');
+@import url('./layout/footer.css');
+
+@import url('./components/buttons.css');
+@import url('./components/forms.css');
+@import url('./components/badges.css');
+@import url('./components/product-card.css');
+@import url('./components/modal.css');
+@import url('./components/drawer.css');
+@import url('./components/toast.css');
+@import url('./components/carousel.css');
+@import url('./components/accordion.css');
+@import url('./components/pagination.css');
+@import url('./components/breadcrumb.css');
+@import url('./components/loading.css');
+@import url('./components/empty-state.css');
+
+@import url('./motion/motion-tokens.css');
+@import url('./motion/entrances.css');
+@import url('./motion/hover-effects.css');
+@import url('./motion/transitions.css');
+@import url('./motion/product-motion.css');
+@import url('./motion/reduced-motion.css');

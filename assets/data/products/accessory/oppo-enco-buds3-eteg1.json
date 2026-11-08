@@ -1,0 +1,171 @@
+{
+  "id": "oppo-enco-buds3-eteg1",
+  "docCode": "PK-TN005-ETEG1",
+  "model": "Tai Nghe Không Dây OPPO Enco Buds3 ETEG1",
+  "brand": "OPPO",
+  "brandId": "oppo",
+  "parentGroupId": "oppo",
+  "series": "Tai nghe",
+  "subCategory": "tai-nghe",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "tai-nghe"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Tai nghe",
+    "highlights": [
+      "In-ear"
+    ],
+    "description": "Tai nghe True Wireless giá mềm chất lượng vượt trội từ OPPO với màng loa titan composite 12.4mm cho dải bass bùng nổ sống động. Thời lượng pin trâu lên đến 43 tiếng và thuật toán AI Deep Noise Cancellation lọc sạch tạp âm khi gọi điện thoại."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 690000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/anh-dai-dien-oppo-enco-buds3-eteg1-trang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/anh-dai-dien-oppo-enco-buds3-eteg1-trang.webp",
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/hai-tai-nghe-goc-nghieng-trang.webp",
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/can-canh-cong-sac-type-c-duoi-day-trang.webp",
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/hai-tai-nghe-dat-canh-hop-sac-trang.webp",
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/hai-tai-nghe-thang-dung-trang.webp",
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/hop-sac-dat-tren-ban-trang.webp",
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/hop-sac-dong-nap-trang.webp",
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/ket-noi-dien-thoai-va-hop-phu-kien-trang.webp",
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/kich-thuoc-chi-tiet-tai-nghe-trang.webp",
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/mat-sau-hop-sac-trang.webp",
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/mat-trong-hai-tai-nghe-trang.webp",
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/tai-nghe-trong-hop-sac-dat-tren-ban-trang.webp",
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/tai-nghe-trong-hop-sac-mo-nap-trang.webp",
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/banner-pin-trau-dung-lau-trang-den.webp"
+    ],
+    "byColor": {
+      "Trắng": [
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/anh-dai-dien-oppo-enco-buds3-eteg1-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/hai-tai-nghe-goc-nghieng-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/can-canh-cong-sac-type-c-duoi-day-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/hai-tai-nghe-dat-canh-hop-sac-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/hai-tai-nghe-thang-dung-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/hop-sac-dat-tren-ban-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/hop-sac-dong-nap-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/ket-noi-dien-thoai-va-hop-phu-kien-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/kich-thuoc-chi-tiet-tai-nghe-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/mat-sau-hop-sac-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/mat-trong-hai-tai-nghe-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/tai-nghe-trong-hop-sac-dat-tren-ban-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/tai-nghe-trong-hop-sac-mo-nap-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/banner-pin-trau-dung-lau-trang-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/mat-sau-hop-sac-trang.webp",
+      "screen": "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/hai-tai-nghe-goc-nghieng-trang.webp",
+      "performance": "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/can-canh-cong-sac-type-c-duoi-day-trang.webp",
+      "camera": "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/hai-tai-nghe-dat-canh-hop-sac-trang.webp",
+      "battery": "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/hop-sac-dat-tren-ban-trang.webp",
+      "feature": "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/hai-tai-nghe-thang-dung-trang.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/hai-tai-nghe-goc-nghieng-trang.webp",
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/can-canh-cong-sac-type-c-duoi-day-trang.webp",
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/hai-tai-nghe-dat-canh-hop-sac-trang.webp",
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/hai-tai-nghe-thang-dung-trang.webp",
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/hop-sac-dat-tren-ban-trang.webp",
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/hop-sac-dong-nap-trang.webp",
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/ket-noi-dien-thoai-va-hop-phu-kien-trang.webp",
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/kich-thuoc-chi-tiet-tai-nghe-trang.webp",
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/mat-sau-hop-sac-trang.webp",
+      "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/mat-trong-hai-tai-nghe-trang.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "OPPO",
+      "Kiểu tai nghe": "In-ear",
+      "Kết nối": "Bluetooth 5.4, độ trễ thấp 47ms",
+      "Cổng sạc": "USB-C",
+      "Chống ồn chủ động (ANC)": "Không (Khử tiếng ồn cuộc gọi thông minh bằng AI)",
+      "Microphone": "Có",
+      "Thời lượng pin": "Lên đến 8.5 giờ cho tai nghe (43 giờ kèm hộp sạc)",
+      "Kháng nước, bụi": "IP55 (chống bụi và chống tia nước bắn)",
+      "Màu sắc": "Trắng"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "OPPO"
+    },
+    {
+      "label": "Kiểu tai nghe",
+      "value": "In-ear"
+    },
+    {
+      "label": "Kết nối",
+      "value": "Bluetooth 5.4, độ trễ thấp 47ms"
+    },
+    {
+      "label": "Cổng sạc",
+      "value": "USB-C"
+    },
+    {
+      "label": "Chống ồn chủ động (ANC)",
+      "value": "Không (Khử tiếng ồn cuộc gọi thông minh bằng AI)"
+    },
+    {
+      "label": "Microphone",
+      "value": "Có"
+    },
+    {
+      "label": "Thời lượng pin",
+      "value": "Lên đến 8.5 giờ cho tai nghe (43 giờ kèm hộp sạc)"
+    },
+    {
+      "label": "Kháng nước, bụi",
+      "value": "IP55 (chống bụi và chống tia nước bắn)"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Trắng"
+    }
+  ],
+  "verbatimDescription": [
+    "Tai nghe True Wireless giá mềm chất lượng vượt trội từ OPPO với màng loa titan composite 12.4mm cho dải bass bùng nổ sống động. Thời lượng pin trâu lên đến 43 tiếng và thuật toán AI Deep Noise Cancellation lọc sạch tạp âm khi gọi điện thoại."
+  ],
+  "variants": [
+    {
+      "sku": "PK-TN005-ETEG1-TRANG-TIEU-CHUAN",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/anh-dai-dien-oppo-enco-buds3-eteg1-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/hai-tai-nghe-goc-nghieng-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/can-canh-cong-sac-type-c-duoi-day-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/hai-tai-nghe-dat-canh-hop-sac-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/hai-tai-nghe-thang-dung-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/hop-sac-dat-tren-ban-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/hop-sac-dong-nap-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/ket-noi-dien-thoai-va-hop-phu-kien-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/kich-thuoc-chi-tiet-tai-nghe-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/mat-sau-hop-sac-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/mat-trong-hai-tai-nghe-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/tai-nghe-trong-hop-sac-dat-tren-ban-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/tai-nghe-trong-hop-sac-mo-nap-trang.webp",
+        "assets/images/products/accessory/tai-nghe/oppo-enco-buds3-eteg1/banner-pin-trau-dung-lau-trang-den.webp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+/* TechPhone — Accessible Accordion */
+.tp-accordion-item {
+  background: var(--tp-white);
+  border: 1px solid var(--tp-border);
+  border-radius: var(--tp-radius-md);
+  margin-bottom: 0.75rem;
+  overflow: hidden;
+}
+.tp-accordion-trigger {
+  width: 100%;
+  padding: 1rem 1.25rem;
+  text-align: left;
+  font-weight: 700;
+  font-size: 0.96rem;
+  color: var(--tp-navy);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  background: var(--tp-white);
+  transition: background 0.2s ease, color 0.2s ease;
+}
+.tp-accordion-trigger:hover,
+.tp-accordion-trigger[aria-expanded="true"] {
+  background: var(--tp-primary-soft);
+  color: var(--tp-primary);
+}
+.tp-accordion-icon {
+  transition: transform 0.25s ease;
+}
+.tp-accordion-trigger[aria-expanded="true"] .tp-accordion-icon {
+  transform: rotate(180deg);
+}
+.tp-accordion-panel {
+  padding: 0 1.25rem 1.15rem;
+  color: var(--tp-text-secondary);
+  font-size: 0.92rem;
+  line-height: 1.65;
+  border-top: 1px solid var(--tp-border);
+  padding-top: 0.9rem;
+}
+.tp-accordion-panel[hidden] {
+  display: none;
+}

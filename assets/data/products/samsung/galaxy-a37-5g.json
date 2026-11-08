@@ -1,0 +1,671 @@
+{
+  "id": "galaxy-a37-5g",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "model": "Samsung Galaxy A37 5G",
+  "series": "Galaxy A Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "midrange"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Giảm giá",
+      "type": "sale"
+    }
+  ],
+  "overview": {
+    "releaseDate": "Năm 2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Samsung Galaxy A37 5G là mẫu smartphone tầm trung nổi bật của Samsung năm 2026, sở hữu màn hình Super AMOLED 6,7 inch 120Hz độ sáng đỉnh 1.900 nit, vi xử lý Exynos 1480 (4nm) kết hợp GPU Xclipse 530, cụm 3 camera 50MP OIS, chuẩn kháng nước nâng cấp lên IP68 cùng viên pin 5.000 mAh hỗ trợ sạc siêu nhanh 45W.",
+    "highlights": [
+      "6,7 inch Super AMOLED 120Hz",
+      "Exynos 1480 (4nm) · 8GB RAM",
+      "Camera 50MP OIS + 8MP + 5MP",
+      "Pin 5.000 mAh · Sạc 45W · IP68"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 7990000,
+    "originalPrice": 11190000,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT007-SSA375G-TIM-8GB-128GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 7990000,
+      "originalPrice": 11190000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a37-5g/anh-dai-dien-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-truoc-mat-sau-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/canh-phai-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/canh-trai-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/he-thong-camera-50mp-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/dung-luong-pin-5000mah-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/Galaxy-A37-5G.jpg",
+        "assets/images/products/samsung/galaxy-a37-5g/thong-so-man-hinh-super-amoled-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/thong-so-noi-bat-samsung-galaxy-a37-5g-tim-den-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT007-SSA375G-TIM-8GB-256GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 8990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a37-5g/anh-dai-dien-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-truoc-mat-sau-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/canh-phai-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/canh-trai-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/he-thong-camera-50mp-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/dung-luong-pin-5000mah-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/Galaxy-A37-5G.jpg",
+        "assets/images/products/samsung/galaxy-a37-5g/thong-so-man-hinh-super-amoled-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/thong-so-noi-bat-samsung-galaxy-a37-5g-tim-den-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT007-SSA375G-TRANG-8GB-128GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 7990000,
+      "originalPrice": 11190000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a37-5g/anh-dai-dien-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-truoc-mat-sau-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/man-hinh-mat-truoc-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/canh-phai-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/canh-trai-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/Galaxy-A37-5G.jpg",
+        "assets/images/products/samsung/galaxy-a37-5g/thong-so-man-hinh-super-amoled-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/thong-so-noi-bat-samsung-galaxy-a37-5g-tim-den-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT007-SSA375G-TRANG-8GB-256GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 8990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a37-5g/anh-dai-dien-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-truoc-mat-sau-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/man-hinh-mat-truoc-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/canh-phai-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/canh-trai-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/Galaxy-A37-5G.jpg",
+        "assets/images/products/samsung/galaxy-a37-5g/thong-so-man-hinh-super-amoled-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/thong-so-noi-bat-samsung-galaxy-a37-5g-tim-den-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT007-SSA375G-DEN-8GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 7990000,
+      "originalPrice": 11190000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a37-5g/anh-dai-dien-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-truoc-mat-sau-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/canh-phai-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/canh-trai-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/hieu-nang-vi-xu-ly-8-nhan-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/Galaxy-A37-5G.jpg",
+        "assets/images/products/samsung/galaxy-a37-5g/thong-so-man-hinh-super-amoled-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/thong-so-noi-bat-samsung-galaxy-a37-5g-tim-den-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT007-SSA375G-DEN-8GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 8990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a37-5g/anh-dai-dien-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-truoc-mat-sau-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/canh-phai-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/canh-trai-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/hieu-nang-vi-xu-ly-8-nhan-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/Galaxy-A37-5G.jpg",
+        "assets/images/products/samsung/galaxy-a37-5g/thong-so-man-hinh-super-amoled-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/thong-so-noi-bat-samsung-galaxy-a37-5g-tim-den-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT007-SSA375G-XANH-LA-8GB-128GB",
+      "color": "Xanh Lá",
+      "colorHex": "#228B57",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 7990000,
+      "originalPrice": 11190000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a37-5g/anh-dai-dien-samsung-galaxy-a37-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-truoc-mat-sau-samsung-galaxy-a37-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a37-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a37-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-samsung-galaxy-a37-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/canh-phai-samsung-galaxy-a37-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/canh-trai-samsung-galaxy-a37-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a37-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a37-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/Galaxy-A37-5G.jpg",
+        "assets/images/products/samsung/galaxy-a37-5g/thong-so-man-hinh-super-amoled-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/thong-so-noi-bat-samsung-galaxy-a37-5g-tim-den-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT007-SSA375G-XANH-LA-8GB-256GB",
+      "color": "Xanh Lá",
+      "colorHex": "#228B57",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 8990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a37-5g/anh-dai-dien-samsung-galaxy-a37-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-truoc-mat-sau-samsung-galaxy-a37-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a37-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a37-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-samsung-galaxy-a37-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/canh-phai-samsung-galaxy-a37-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/canh-trai-samsung-galaxy-a37-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a37-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a37-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/Galaxy-A37-5G.jpg",
+        "assets/images/products/samsung/galaxy-a37-5g/thong-so-man-hinh-super-amoled-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/thong-so-noi-bat-samsung-galaxy-a37-5g-tim-den-trang.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "Super AMOLED",
+    "size": "6,7 inch",
+    "resolution": "Full HD+ (1080 x 2340 pixel)",
+    "refreshRate": "120Hz",
+    "brightness": "1.900 nit (peak)",
+    "hdr": "HDR",
+    "protection": "Corning Gorilla Glass Victus+",
+    "features": [
+      "Tần số quét 120Hz",
+      "Vision Booster 1.900 nit",
+      "Bảo vệ mắt"
+    ]
+  },
+  "performance": {
+    "chipset": "Samsung Exynos 1480 (4nm)",
+    "cpu": "8 nhân (4x 2,75 GHz Cortex-A78 + 4x 2,0 GHz Cortex-A55)",
+    "gpu": "Samsung Xclipse 530",
+    "ram": [
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "operatingSystem": "Android 16, One UI 8.5",
+    "uiVersion": "One UI 8.5",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Wide f/1.8 (1/1.56\", PDAF, OIS)",
+    "ultraWide": "8MP Ultra Wide f/2.2 (16mm)",
+    "telephoto": "5MP Macro f/2.4",
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "4K@30fps",
+      "1080p@30/60fps",
+      "gyro-EIS"
+    ],
+    "aiFeatures": [
+      "Awesome Intelligence AI",
+      "Object Eraser",
+      "Nightography"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "12MP Wide f/2.2",
+    "features": [
+      "10-bit HDR"
+    ],
+    "videoRecording": [
+      "4K@30fps",
+      "1080p@30fps"
+    ]
+  },
+  "battery": {
+    "capacity": "5.000 mAh",
+    "wiredCharging": "Sạc siêu nhanh 45W USB-C",
+    "wirelessCharging": null,
+    "reverseCharging": null,
+    "chargingTechnology": "Super Fast Charging 2.0 (45W)"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM / eSIM kép"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 6 (802.11 a/b/g/n/ac/6) băng tần kép",
+    "bluetooth": "Bluetooth 5.4 (A2DP, LE)",
+    "gps": [
+      "GPS",
+      "GALILEO",
+      "GLONASS",
+      "BDS",
+      "QZSS"
+    ],
+    "usb": "USB Type-C 2.0, OTG",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "162,9 x 78,2 x 7,4 mm",
+    "weight": "196 g",
+    "materials": [
+      "Hai mặt kính Corning Gorilla Glass Victus+",
+      "Khung viền gia cố cứng cáp"
+    ],
+    "waterResistance": "IP68 (1,5m trong 30 phút)",
+    "availableColors": [
+      "Đen",
+      "Xanh"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa đơn / Stereo tiêu chuẩn",
+    "headphoneJack": null,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "6,7 inch Super AMOLED 120Hz",
+    "Exynos 1480 (4nm) · 8GB RAM",
+    "Camera 50MP OIS + 8MP + 5MP",
+    "Pin 5.000 mAh · Sạc 45W · IP68"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Samsung tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/samsung/galaxy-a37-5g/anh-dai-dien-samsung-galaxy-a37-5g-tim.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/samsung/galaxy-a37-5g/anh-dai-dien-samsung-galaxy-a37-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/anh-dai-dien-samsung-galaxy-a37-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/anh-dai-dien-samsung-galaxy-a37-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/anh-dai-dien-samsung-galaxy-a37-5g-xanh-la.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/mat-truoc-mat-sau-samsung-galaxy-a37-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/mat-truoc-mat-sau-samsung-galaxy-a37-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/mat-truoc-mat-sau-samsung-galaxy-a37-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/mat-truoc-mat-sau-samsung-galaxy-a37-5g-xanh-la.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/man-hinh-mat-truoc-samsung-galaxy-a37-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a37-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a37-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a37-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a37-5g-xanh-la.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a37-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a37-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a37-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a37-5g-xanh-la.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/mat-lung-samsung-galaxy-a37-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/mat-lung-samsung-galaxy-a37-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/mat-lung-samsung-galaxy-a37-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/mat-lung-samsung-galaxy-a37-5g-xanh-la.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/canh-phai-samsung-galaxy-a37-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/canh-phai-samsung-galaxy-a37-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/canh-phai-samsung-galaxy-a37-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/canh-phai-samsung-galaxy-a37-5g-xanh-la.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/canh-trai-samsung-galaxy-a37-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/canh-trai-samsung-galaxy-a37-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/canh-trai-samsung-galaxy-a37-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/canh-trai-samsung-galaxy-a37-5g-xanh-la.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a37-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a37-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a37-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a37-5g-xanh-la.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a37-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a37-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a37-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a37-5g-xanh-la.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/he-thong-camera-50mp-samsung-galaxy-a37-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/05-feature.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/Galaxy-A37-5G.jpg",
+      "assets/images/products/samsung/galaxy-a37-5g/dung-luong-pin-5000mah-samsung-galaxy-a37-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/hieu-nang-vi-xu-ly-8-nhan-samsung-galaxy-a37-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/thong-so-man-hinh-super-amoled-samsung-galaxy-a37-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/thong-so-noi-bat-samsung-galaxy-a37-5g-tim-den-trang.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/samsung/galaxy-a37-5g/anh-dai-dien-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-truoc-mat-sau-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/canh-phai-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/canh-trai-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/hieu-nang-vi-xu-ly-8-nhan-samsung-galaxy-a37-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/Galaxy-A37-5G.jpg",
+        "assets/images/products/samsung/galaxy-a37-5g/thong-so-man-hinh-super-amoled-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/thong-so-noi-bat-samsung-galaxy-a37-5g-tim-den-trang.webp"
+      ],
+      "Tím": [
+        "assets/images/products/samsung/galaxy-a37-5g/anh-dai-dien-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-truoc-mat-sau-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/canh-phai-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/canh-trai-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/he-thong-camera-50mp-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/dung-luong-pin-5000mah-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/Galaxy-A37-5G.jpg",
+        "assets/images/products/samsung/galaxy-a37-5g/thong-so-man-hinh-super-amoled-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/thong-so-noi-bat-samsung-galaxy-a37-5g-tim-den-trang.webp"
+      ],
+      "Trắng": [
+        "assets/images/products/samsung/galaxy-a37-5g/anh-dai-dien-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-truoc-mat-sau-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/man-hinh-mat-truoc-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/canh-phai-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/canh-trai-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a37-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/Galaxy-A37-5G.jpg",
+        "assets/images/products/samsung/galaxy-a37-5g/thong-so-man-hinh-super-amoled-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/thong-so-noi-bat-samsung-galaxy-a37-5g-tim-den-trang.webp"
+      ],
+      "Xanh Lá": [
+        "assets/images/products/samsung/galaxy-a37-5g/anh-dai-dien-samsung-galaxy-a37-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-truoc-mat-sau-samsung-galaxy-a37-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a37-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a37-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/mat-lung-samsung-galaxy-a37-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/canh-phai-samsung-galaxy-a37-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/canh-trai-samsung-galaxy-a37-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a37-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a37-5g-xanh-la.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/Galaxy-A37-5G.jpg",
+        "assets/images/products/samsung/galaxy-a37-5g/thong-so-man-hinh-super-amoled-samsung-galaxy-a37-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a37-5g/thong-so-noi-bat-samsung-galaxy-a37-5g-tim-den-trang.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/samsung/galaxy-a37-5g/mat-truoc-mat-sau-samsung-galaxy-a37-5g-den.webp",
+      "screen": "assets/images/products/samsung/galaxy-a37-5g/mat-truoc-mat-sau-samsung-galaxy-a37-5g-tim.webp",
+      "performance": "assets/images/products/samsung/galaxy-a37-5g/hieu-nang-vi-xu-ly-8-nhan-samsung-galaxy-a37-5g-den.webp",
+      "camera": "assets/images/products/samsung/galaxy-a37-5g/he-thong-camera-50mp-samsung-galaxy-a37-5g-tim.webp",
+      "battery": "assets/images/products/samsung/galaxy-a37-5g/dung-luong-pin-5000mah-samsung-galaxy-a37-5g-tim.webp",
+      "feature": "assets/images/products/samsung/galaxy-a37-5g/anh-dai-dien-samsung-galaxy-a37-5g-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/samsung/galaxy-a37-5g/anh-dai-dien-samsung-galaxy-a37-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/anh-dai-dien-samsung-galaxy-a37-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/anh-dai-dien-samsung-galaxy-a37-5g-xanh-la.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/mat-truoc-mat-sau-samsung-galaxy-a37-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/mat-truoc-mat-sau-samsung-galaxy-a37-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/mat-truoc-mat-sau-samsung-galaxy-a37-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/mat-truoc-mat-sau-samsung-galaxy-a37-5g-xanh-la.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/man-hinh-mat-truoc-samsung-galaxy-a37-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a37-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a37-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a37-5g-tim.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s26-series",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s25-series",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-z",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-a",
+      "https://www.samsung.com/vn/smartphones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "partial_retail_listing",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT007-SSA375G",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "Super AMOLED",
+      "Kích thước màn hình": "6,7 inch (tỷ lệ hiển thị ~86,5% mặt trước)",
+      "Độ phân giải màn hình": "Full HD+ (1080 x 2340 pixel, ~385 ppi)",
+      "Tần số quét": "120Hz",
+      "Kiểu màn hình": "Màn hình phẳng Infinity-O, kính Corning Gorilla Glass Victus+",
+      "Tính năng màn hình": "Độ sáng 1.200 nit (HBM) / 1.900 nit (đỉnh), Vision Booster, bảo vệ mắt"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera: Chính 50MP (f/1.8, cảm biến 1/1.56\", PDAF, chống rung OIS) + Góc siêu rộng 8MP (f/2.2, 16mm) + Macro 5MP (f/2.4)",
+      "Quay video": "4K@30fps, 1080p@30/60fps, chống rung OIS + gyro-EIS",
+      "Tính năng camera": "Awesome Intelligence AI, xóa vật thể Object Eraser, chụp đêm Nightography, HDR, Panorama"
+    },
+    "Camera trước": {
+      "Camera trước": "12MP (f/2.2, 1/3.2\"); hỗ trợ quay video 4K@30fps chuẩn 10-bit HDR"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Samsung Exynos 1480 (tiến trình 4nm)",
+      "Loại CPU": "8 nhân (4 nhân Cortex-A78 2,75 GHz + 4 nhân Cortex-A55 2,0 GHz)",
+      "GPU": "Samsung Xclipse 530"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB",
+      "Bộ nhớ trong": "2 phiên bản: 128GB và 256GB chuẩn UFS 3.1"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.000 mAh (Li-Ion)",
+      "Công nghệ sạc": "Sạc siêu nhanh có dây 45W (Super Fast Charging 2.0)",
+      "Cổng sạc": "USB Type-C 2.0, hỗ trợ OTG"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 16, giao diện One UI 8.5 (hỗ trợ cập nhật 6 thế hệ Android)",
+      "Công nghệ - Tiện ích": "Bộ công cụ AI Awesome Intelligence, Circle to Search, Object Eraser",
+      "Tiện ích khác": "Bảo mật Samsung Knox Vault, cảm biến vân tay quang học dưới màn hình",
+      "Thời điểm ra mắt": "Tháng 03/2026 (Mở bán tháng 04/2026)"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G SA/NSA/Sub6 đa băng tần, LTE-A",
+      "Thẻ SIM": "SIM kép (Nano-SIM + eSIM hoặc 2 Nano-SIM)",
+      "Wi-Fi": "Wi-Fi 6 (802.11 a/b/g/n/ac/6) băng tần kép, Wi-Fi Direct",
+      "Bluetooth": "Bluetooth 5.4 (A2DP, LE)",
+      "Công nghệ NFC": "Có hỗ trợ NFC",
+      "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền phẳng tích hợp cụm phím nổi Key Island",
+      "Chất liệu mặt lưng": "Hai mặt kính cường lực Corning Gorilla Glass Victus+",
+      "Kích thước": "162,9 x 78,2 x 7,4 mm",
+      "Trọng lượng": "196 gram",
+      "Chỉ số kháng nước, bụi": "IP68 theo tiêu chuẩn IEC 60529 (kháng nước ở độ sâu 1,5 mét trong 30 phút)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo, hỗ trợ Dolby Atmos",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình",
+      "Các loại cảm biến": "Vân tay dưới màn hình, Gia tốc kế, Con quay hồi chuyển, Cảm biến tiệm cận ảo, La bàn số"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,7 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "Super AMOLED"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "Full HD+ (1080 x 2340 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Samsung Exynos 1480 (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB LPDDR5"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB UFS 3.1"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính OIS + 8MP Ultra Wide + 5MP Macro"
+    },
+    {
+      "label": "Camera trước",
+      "value": "12MP, khẩu độ f/2.2, quay 4K 30fps (10-bit HDR)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc siêu nhanh có dây 45W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 16, One UI 8.5"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 (1,5 mét trong 30 phút)"
+    }
+  ],
+  "verbatimDescription": [
+    "Samsung Galaxy A37 5G mang đến loạt nâng cấp đáng giá trong phân khúc tầm trung khi kết hợp độ bền chuẩn IP68, hai mặt kính cường lực Corning Gorilla Glass Victus+ và công nghệ sạc siêu nhanh 45W trong thân máy mỏng chỉ 7,4 mm.",
+    "Mặt trước của Galaxy A37 5G là màn hình phẳng Super AMOLED rộng 6,7 inch độ phân giải Full HD+ (1080 x 2340 pixel), tần số quét 120Hz mượt mà và độ sáng cực đại lên tới 1.900 nit (1.200 nit HBM). Công nghệ Vision Booster giúp màn hình tự động tối ưu màu sắc và độ tương phản khi sử dụng ngoài trời nắng.",
+    "Cung cấp sức mạnh cho thiết bị là vi xử lý Samsung Exynos 1480 sản xuất trên tiến trình 4nm (4 nhân Cortex-A78 2,75 GHz + 4 nhân Cortex-A55 2,0 GHz) tích hợp đồ họa Xclipse 530 kiến trúc AMD RDNA. Đi kèm 8GB RAM và bộ nhớ trong chuẩn UFS 3.1 (128GB hoặc 256GB), máy đáp ứng trơn tru nhu cầu đa nhiệm, giải trí và các tính năng AI thông minh.",
+    "Hệ thống 3 camera sau của Galaxy A37 5G được nâng cấp cảm biến chính 50MP kích thước lớn 1/1.56\" (khẩu độ f/1.8, lấy nét PDAF và chống rung quang học OIS), kết hợp camera góc siêu rộng 8MP (f/2.2) và camera Macro 5MP (f/2.4). Camera trước 12MP hỗ trợ quay video 4K@30fps 10-bit HDR sắc nét.",
+    "Viên pin dung lượng 5.000 mAh trên Galaxy A37 5G đi kèm công nghệ sạc siêu nhanh có dây 45W chuẩn PPS (Super Fast Charging 2.0), giúp rút ngắn tối đa thời gian chờ nạp pin.",
+    "Máy cài sẵn Android 16 và giao diện One UI 8.5 (hỗ trợ nâng cấp lên One UI 9 và 6 thế hệ Android), trang bị loa kép Stereo, cảm biến vân tay dưới màn hình, kết nối 5G, Wi-Fi 6, Bluetooth 5.4, eSIM và NFC."
+  ],
+  "priceSegment": "midrange"
+}

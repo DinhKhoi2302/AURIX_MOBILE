@@ -1,0 +1,487 @@
+{
+  "id": "oppo-a6t-pro",
+  "brand": "OPPO",
+  "brandId": "oppo",
+  "parentGroupId": "oppo",
+  "model": "OPPO A6t Pro",
+  "series": "OPPO A Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "midrange"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025 – 2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "OPPO A6t Pro sở hữu viên pin Silicon-Carbon dung lượng lớn 7000mAh kết hợp sạc nhanh 45W SUPERVOOC, màn hình 6,75 inch HD+ tần số quét 120Hz độ sáng HBM 1125 nit, vi xử lý Qualcomm Snapdragon 685 (6nm), RAM 8GB LPDDR4X, bộ nhớ 128GB/256GB UFS 2.2, cụm camera kép 50MP AF + 2MP hỗ trợ chụp dưới nước và chuẩn kháng nước bụi IP68/IP69.",
+    "highlights": [
+      "Pin khủng 7000mAh đi kèm công nghệ sạc nhanh 45W SUPERVOOC",
+      "Kháng nước và bụi chuẩn IP68/IP69, hỗ trợ chế độ chụp ảnh dưới nước",
+      "Màn hình lớn 6,75 inch 120Hz, độ sáng thông thường 800 nit (HBM 1125 nit)",
+      "Vi xử lý Qualcomm Snapdragon 685 (6nm) cùng RAM 8GB LPDDR4X & ROM 128GB/256GB UFS 2.2",
+      "Camera chính 50MP f/1.8 AF + 2MP Đơn sắc, loa kép Stereo, hỗ trợ NFC"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 5290000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT006-OPA6TPRO-TRANG-8GB-128GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 5290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-a6t-pro/anh-dai-dien-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/mat-truoc-mat-sau-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/man-hinh-mat-truoc-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/thiet-ke-mat-lung-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/tren-tay-mat-lung-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/canh-duoi-cong-sac-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/canh-trai-canh-phai-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/canh-tren-canh-duoi-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/goc-nghieng-camera-sau-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/cum-camera-sau-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/dung-luong-pin-7000mah-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/he-thong-tan-nhiet-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/tren-tay-man-hinh-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/hieu-nang-snapdragon-685-oppo-a6t-pro-den.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/tinh-nang-loa-kep-300-oppo-a6t-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/thong-so-man-hinh-120hz-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/thong-so-noi-bat-oppo-a6t-pro-trang-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT006-OPA6TPRO-TRANG-8GB-256GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 5890000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-a6t-pro/anh-dai-dien-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/mat-truoc-mat-sau-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/man-hinh-mat-truoc-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/thiet-ke-mat-lung-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/tren-tay-mat-lung-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/canh-duoi-cong-sac-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/canh-trai-canh-phai-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/canh-tren-canh-duoi-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/goc-nghieng-camera-sau-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/cum-camera-sau-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/dung-luong-pin-7000mah-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/he-thong-tan-nhiet-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/tren-tay-man-hinh-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/hieu-nang-snapdragon-685-oppo-a6t-pro-den.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/tinh-nang-loa-kep-300-oppo-a6t-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/thong-so-man-hinh-120hz-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/thong-so-noi-bat-oppo-a6t-pro-trang-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT006-OPA6TPRO-TIM-8GB-128GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 5290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-a6t-pro/mat-truoc-mat-sau-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/man-hinh-mat-truoc-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/thiet-ke-mat-lung-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/tren-tay-mat-lung-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/canh-duoi-cong-sac-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/canh-trai-canh-phai-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/canh-tren-canh-duoi-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/goc-nghieng-camera-sau-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/cum-camera-sau-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/tren-tay-man-hinh-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/hieu-nang-snapdragon-685-oppo-a6t-pro-den.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/tinh-nang-loa-kep-300-oppo-a6t-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/thong-so-man-hinh-120hz-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/thong-so-noi-bat-oppo-a6t-pro-trang-tim.webp"
+      ]
+    },
+    {
+      "sku": "DT006-OPA6TPRO-TIM-8GB-256GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 5890000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-a6t-pro/mat-truoc-mat-sau-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/man-hinh-mat-truoc-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/thiet-ke-mat-lung-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/tren-tay-mat-lung-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/canh-duoi-cong-sac-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/canh-trai-canh-phai-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/canh-tren-canh-duoi-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/goc-nghieng-camera-sau-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/cum-camera-sau-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/tren-tay-man-hinh-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/hieu-nang-snapdragon-685-oppo-a6t-pro-den.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/tinh-nang-loa-kep-300-oppo-a6t-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/thong-so-man-hinh-120hz-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/thong-so-noi-bat-oppo-a6t-pro-trang-tim.webp"
+      ]
+    }
+  ],
+  "display": {
+    "size": "6,75 inch",
+    "technology": "IPS LCD (16,7 triệu màu, tỷ lệ màn hình 90,6%)",
+    "resolution": "HD+ (1570 × 720 Pixels)",
+    "refreshRate": "120Hz",
+    "maxBrightness": "800 nit (tiêu chuẩn) / 1125 nit (HBM)",
+    "protection": "Kính cường lực"
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 685 (6nm)",
+    "cpu": "8 nhân (4×2.8GHz Cortex-A73 + 4×1.9GHz Cortex-A53)",
+    "gpu": "Adreno 610 @ 1260MHz",
+    "ram": "8GB LPDDR4X",
+    "internalStorage": "128GB / 256GB UFS 2.2 (Hỗ trợ thẻ nhớ microSDXC)",
+    "os": "Android 15 (ColorOS 15.0)"
+  },
+  "rearCamera": {
+    "mainSensor": "50MP (f/1.8, FOV 76°, ống kính 5P, hỗ trợ lấy nét tự động AF)",
+    "ultraWide": "2MP Đơn sắc (f/2.4, FOV 89°, ống kính 3P)",
+    "telephoto": "Hỗ trợ zoom kỹ thuật số tối đa 10x",
+    "videoRecording": "1080p@30fps, 720p@30fps, Slow-motion 720p@120fps",
+    "features": [
+      "Chụp dưới nước (Underwater)",
+      "Chân dung xóa phông",
+      "Độ phân giải cao Hi-Res 50MP",
+      "Dual-view Video",
+      "Chế độ PRO"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "8MP (f/2.0, FOV 80°, ống kính 4P)",
+    "videoRecording": "1080p@30fps, 720p@30fps",
+    "features": [
+      "Làm đẹp Retouch",
+      "Screen Fill Light",
+      "Dual-view Video",
+      "Hi-Res"
+    ]
+  },
+  "battery": {
+    "capacity": "7000 mAh",
+    "batteryType": "Pin Silicon-Carbon (Si/C Li-Ion)",
+    "chargingPower": "Sạc nhanh 45W SUPERVOOC (33W PPS, 15W VOOC, 13.5W PD, sạc ngược có dây 5W)",
+    "wirelessCharging": "Không hỗ trợ"
+  },
+  "connectivity": {
+    "sim": "2 Nano-SIM (Hỗ trợ thẻ nhớ microSD)",
+    "network": "4G LTE FDD/TDD đa băng tần",
+    "wifi": "Wi-Fi 5 (802.11ac), Dual-band",
+    "bluetooth": "Bluetooth 5.0 (SBC, AAC, aptX)",
+    "nfc": "Có hỗ trợ",
+    "usb": "USB Type-C 2.0, OTG"
+  },
+  "design": {
+    "formFactor": "Nguyên khối họa tiết Pha Lê sang trọng, kháng nước bụi IP68/IP69",
+    "materials": "Mặt trước kính cường lực, khung và mặt lưng hoàn thiện bền bỉ",
+    "dimensionsWeight": "166,61 × 78,51 × 8,61 mm | 215g",
+    "waterResistance": "IP68 / IP69 (Kháng bụi, ngâm nước 1,5m và tia nước áp lực cao)",
+    "availableColors": [
+      "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa đơn / Stereo tiêu chuẩn",
+    "headphoneJack": null,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Pin khủng 7000mAh đi kèm công nghệ sạc nhanh 45W SUPERVOOC",
+    "Kháng nước và bụi chuẩn IP68/IP69, hỗ trợ chế độ chụp ảnh dưới nước",
+    "Màn hình lớn 6,75 inch 120Hz, độ sáng thông thường 800 nit (HBM 1125 nit)",
+    "Vi xử lý Qualcomm Snapdragon 685 (6nm) cùng RAM 8GB LPDDR4X & ROM 128GB/256GB UFS 2.2",
+    "Camera chính 50MP f/1.8 AF + 2MP Đơn sắc, loa kép Stereo, hỗ trợ NFC"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền OPPO tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/oppo/oppo-a6t-pro/anh-dai-dien-oppo-a6t-pro-trang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/oppo/oppo-a6t-pro/anh-dai-dien-oppo-a6t-pro-trang.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/mat-truoc-mat-sau-oppo-a6t-pro-tim.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/mat-truoc-mat-sau-oppo-a6t-pro-trang.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/man-hinh-mat-truoc-oppo-a6t-pro-tim.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/man-hinh-mat-truoc-oppo-a6t-pro-trang.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/thiet-ke-mat-lung-oppo-a6t-pro-tim.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/thiet-ke-mat-lung-oppo-a6t-pro-trang.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/tren-tay-mat-lung-oppo-a6t-pro-tim.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/tren-tay-mat-lung-oppo-a6t-pro-trang.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/canh-duoi-cong-sac-oppo-a6t-pro-tim.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/canh-duoi-cong-sac-oppo-a6t-pro-trang.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/canh-trai-canh-phai-oppo-a6t-pro-tim.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/canh-trai-canh-phai-oppo-a6t-pro-trang.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/canh-tren-canh-duoi-oppo-a6t-pro-tim.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/canh-tren-canh-duoi-oppo-a6t-pro-trang.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/goc-nghieng-camera-sau-oppo-a6t-pro-tim.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/goc-nghieng-camera-sau-oppo-a6t-pro-trang.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/cum-camera-sau-oppo-a6t-pro-tim.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/cum-camera-sau-oppo-a6t-pro-trang.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/dung-luong-pin-7000mah-oppo-a6t-pro-trang.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/he-thong-tan-nhiet-oppo-a6t-pro-trang.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/hieu-nang-snapdragon-685-oppo-a6t-pro-den.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/tinh-nang-loa-kep-300-oppo-a6t-pro-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/tren-tay-man-hinh-oppo-a6t-pro-tim.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/tren-tay-man-hinh-oppo-a6t-pro-trang.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/thong-so-man-hinh-120hz-oppo-a6t-pro-tim.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/thong-so-noi-bat-oppo-a6t-pro-trang-tim.webp"
+    ],
+    "byColor": {
+      "Trắng": [
+        "assets/images/products/oppo/oppo-a6t-pro/anh-dai-dien-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/mat-truoc-mat-sau-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/man-hinh-mat-truoc-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/thiet-ke-mat-lung-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/tren-tay-mat-lung-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/canh-duoi-cong-sac-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/canh-trai-canh-phai-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/canh-tren-canh-duoi-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/goc-nghieng-camera-sau-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/cum-camera-sau-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/dung-luong-pin-7000mah-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/he-thong-tan-nhiet-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/tren-tay-man-hinh-oppo-a6t-pro-trang.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/hieu-nang-snapdragon-685-oppo-a6t-pro-den.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/tinh-nang-loa-kep-300-oppo-a6t-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/thong-so-man-hinh-120hz-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/thong-so-noi-bat-oppo-a6t-pro-trang-tim.webp"
+      ],
+      "Tím": [
+        "assets/images/products/oppo/oppo-a6t-pro/mat-truoc-mat-sau-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/man-hinh-mat-truoc-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/thiet-ke-mat-lung-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/tren-tay-mat-lung-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/canh-duoi-cong-sac-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/canh-trai-canh-phai-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/canh-tren-canh-duoi-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/goc-nghieng-camera-sau-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/cum-camera-sau-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/tren-tay-man-hinh-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/hieu-nang-snapdragon-685-oppo-a6t-pro-den.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/tinh-nang-loa-kep-300-oppo-a6t-pro-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/thong-so-man-hinh-120hz-oppo-a6t-pro-tim.webp",
+        "assets/images/products/oppo/oppo-a6t-pro/thong-so-noi-bat-oppo-a6t-pro-trang-tim.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/oppo/oppo-a6t-pro/mat-truoc-mat-sau-oppo-a6t-pro-tim.webp",
+      "screen": "assets/images/products/oppo/oppo-a6t-pro/mat-truoc-mat-sau-oppo-a6t-pro-trang.webp",
+      "performance": "assets/images/products/oppo/oppo-a6t-pro/hieu-nang-snapdragon-685-oppo-a6t-pro-den.webp",
+      "camera": "assets/images/products/oppo/oppo-a6t-pro/goc-nghieng-camera-sau-oppo-a6t-pro-tim.webp",
+      "battery": "assets/images/products/oppo/oppo-a6t-pro/canh-duoi-cong-sac-oppo-a6t-pro-tim.webp",
+      "feature": "assets/images/products/oppo/oppo-a6t-pro/canh-trai-canh-phai-oppo-a6t-pro-tim.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/oppo/oppo-a6t-pro/mat-truoc-mat-sau-oppo-a6t-pro-tim.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/mat-truoc-mat-sau-oppo-a6t-pro-trang.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/man-hinh-mat-truoc-oppo-a6t-pro-tim.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/man-hinh-mat-truoc-oppo-a6t-pro-trang.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/thiet-ke-mat-lung-oppo-a6t-pro-tim.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/thiet-ke-mat-lung-oppo-a6t-pro-trang.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/tren-tay-mat-lung-oppo-a6t-pro-tim.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/tren-tay-mat-lung-oppo-a6t-pro-trang.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/canh-duoi-cong-sac-oppo-a6t-pro-tim.webp",
+      "assets/images/products/oppo/oppo-a6t-pro/canh-duoi-cong-sac-oppo-a6t-pro-trang.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-oppo",
+      "https://www.oppo.com/vn/smartphones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT006-OPA6TPRO",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "IPS LCD, 16,7 triệu màu, 100% sRGB / 85% DCI-P3",
+      "Kích thước màn hình": "6,75 inch (Tỷ lệ màn hình 90,6%)",
+      "Độ phân giải màn hình": "HD+ (1570 × 720 Pixels), 256 PPI",
+      "Tần số quét": "120Hz (Lấy mẫu cảm ứng 240Hz)",
+      "Kiểu màn hình": "Chưa có thông tin trong dữ liệu gốc",
+      "Tính năng màn hình": "Độ sáng tối đa: 800 nit (Điển hình) / 1125 nit (HBM); Kính bảo vệ: Kính cường lực bảo vệ"
+    },
+    "Camera sau": {
+      "Camera sau": "Camera chính: 50MP (f/1.8, FOV 76°, ống kính 5P, hỗ trợ lấy nét tự động AF); Camera phụ: 2MP Đơn sắc (f/2.4, FOV 89°, ống kính 3P)",
+      "Quay video": "1080p@30fps, 720p@30fps, Slow-motion 720p@120fps",
+      "Tính năng camera": "Chụp dưới nước (Underwater), Chân dung xóa phông, Hi-Res 50MP, Dual-view Video, Chế độ PRO"
+    },
+    "Camera trước": {
+      "Camera trước": "8MP (f/2.0, FOV 80°, ống kính 4P); Quay video: 1080p@30fps, 720p@30fps; Tính năng: Làm đẹp (Retouch), Đèn màn hình hỗ trợ selfie (Screen Fill Light), Video kép"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 685 (Tiến trình 6nm)",
+      "Loại CPU": "8 nhân (4×2.8GHz Cortex-A73 + 4×1.9GHz Cortex-A53)",
+      "GPU": "Adreno 610 @ 1260MHz"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB chuẩn LPDDR4X",
+      "Bộ nhớ trong": "128GB / 256GB chuẩn UFS 2.2; Thẻ nhớ ngoài: Hỗ trợ thẻ nhớ microSDXC & USB OTG"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "7000 mAh (Điển hình) / 6830 mAh (Định mức); Loại pin: Pin Silicon-Carbon (Si/C Li-Ion)",
+      "Công nghệ sạc": "Sạc có dây: 45W SUPERVOOC (Tương thích 33W SUPERVOOC, 33W PPS, 15W VOOC, 13.5W PD, sạc ngược 5W); Sạc không dây: Không hỗ trợ",
+      "Cổng sạc": "USB Type-C 2.0, OTG"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "ColorOS 15.0 (Nền tảng Android 15)",
+      "Công nghệ - Tiện ích": "Chế độ chụp dưới nước, Quay video kép (Dual-view), Mở rộng RAM thông minh",
+      "Tiện ích khác": "Chưa có thông tin trong dữ liệu gốc",
+      "Thời điểm ra mắt": "2025 – 2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "4G LTE FDD/TDD",
+      "Thẻ SIM": "2 Nano-SIM",
+      "Wi-Fi": "Wi-Fi 5 (802.11ac), Wi-Fi Display, WLAN Tethering",
+      "Bluetooth": "Bluetooth 5.0 BLE (SBC, AAC, aptX)",
+      "Công nghệ NFC": "Hỗ trợ NFC",
+      "GPS": "Chưa có thông tin trong dữ liệu gốc"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Mặt trước kính cường lực, khung và mặt lưng nhựa cao cấp",
+      "Chất liệu mặt lưng": "mặt lưng nhựa cao cấp",
+      "Kích thước": "166,61 × 78,51 × 8,61 mm; Kiểu dáng: Nguyên khối mặt lưng Pha Lê, chống bám bẩn và chống tia nước áp lực cao",
+      "Trọng lượng": "Nặng 215g",
+      "Chỉ số kháng nước, bụi": "Kháng nước và bụi chuẩn IP68 / IP69"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa kép Stereo, hỗ trợ codec âm thanh aptX",
+      "Cảm biến vân tay": "Cảm biến vân tay cạnh bên",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Tiệm cận, Ánh sáng, La bàn số; Bảo mật: Mở khóa khuôn mặt"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,75 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "IPS LCD"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "HD+ (1570 × 720 Pixels, 256 PPI)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 685 (6nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB LPDDR4X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB UFS 2.2"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính f/1.8 AF + 2MP Đơn sắc f/2.4"
+    },
+    {
+      "label": "Camera trước",
+      "value": "8MP f/2.0 (Quay 1080p@30fps)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "7000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "45W SUPERVOOC (33W PPS)"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 15 (ColorOS 15.0)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "4G LTE, Wi-Fi 5, Bluetooth 5.0, NFC"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 / IP69"
+    }
+  ],
+  "verbatimDescription": [
+    "OPPO A6t Pro nổi bật trong phân khúc phổ thông nhờ sự kết hợp giữa viên pin Silicon-Carbon dung lượng lên tới 7000mAh, bộ nhớ RAM 8GB rộng rãi và chuẩn kháng nước, kháng bụi cao cấp IP68/IP69. Thiết kế mặt lưng hiệu ứng Pha Lê tạo vẻ ngoài thanh lịch cùng độ dày 8,61mm cân đối.",
+    "Máy được trang bị màn hình lớn 6,75 inch tấm nền LCD độ phân giải HD+ (1570 × 720 pixel) đạt tỷ lệ hiển thị 90,6%. Với tần số quét 120Hz, tốc độ lấy mẫu cảm ứng 240Hz và độ sáng thông thường 800 nit (HBM lên tới 1125 nit), màn hình mang lại thao tác vuốt chạm mượt mà và dễ nhìn ngay cả dưới trời nắng gắt.",
+    "Cung cấp sức mạnh cho OPPO A6t Pro là vi xử lý Qualcomm Snapdragon 685 (6nm) 8 nhân xung nhịp tối đa 2.8GHz cùng nhân đồ họa Adreno 610. Đi kèm RAM 8GB LPDDR4X và bộ nhớ trong 128GB/256GB chuẩn UFS 2.2 (hỗ trợ khe cắm thẻ nhớ microSDXC), máy đảm bảo khả năng đa nhiệm ổn định và lưu trữ dữ liệu thoải mái.",
+    "Hệ thống camera sau bao gồm cảm biến chính 50MP (khẩu độ f/1.8, ống kính 5P, lấy nét tự động AF) và camera đơn sắc 2MP hỗ trợ đo chiều sâu xóa phông. Đặc biệt, nhờ chuẩn kháng nước IP68/IP69, thiết bị tích hợp sẵn chế độ chụp ảnh dưới nước cùng khả năng quay video kép Dual-view.",
+    "Camera trước 8MP (khẩu độ f/2.0) hỗ trợ đèn bù sáng màn hình Screen Fill Light và làm đẹp AI tự nhiên. Viên pin khủng 7000mAh đi kèm củ sạc nhanh 45W SUPERVOOC (hỗ trợ cả sạc ngược có dây 5W) đáp ứng trọn vẹn nhu cầu sử dụng cường độ cao suốt nhiều ngày liền.",
+    "Vận hành trên giao diện ColorOS 15.0 (Android 15), OPPO A6t Pro còn trang bị cảm biến vân tay cạnh bên tiện lợi, hệ thống loa kép Stereo âm lượng lớn, kết nối Wi-Fi 5 băng tần kép, Bluetooth 5.0 hỗ trợ aptX và NFC đa năng."
+  ],
+  "priceSegment": "midrange"
+}

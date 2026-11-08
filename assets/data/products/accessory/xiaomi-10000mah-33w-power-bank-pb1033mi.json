@@ -1,0 +1,127 @@
+{
+  "id": "xiaomi-10000mah-33w-power-bank-pb1033mi",
+  "docCode": "PK-PB011-PB1033MI",
+  "model": "Pin Sạc Dự Phòng Xiaomi Pocket Edition Pro 10.000mAh 33W PB1033MI",
+  "brand": "Xiaomi",
+  "brandId": "xiaomi",
+  "parentGroupId": "xiaomi",
+  "series": "Pin sạc dự phòng",
+  "subCategory": "pin-sac-du-phong",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "pin-sac-du-phong"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Pin sạc dự phòng",
+    "highlights": [
+      "33W",
+      "10.000 mAh"
+    ],
+    "description": "Thiết kế bo tròn bóng bẩy đẹp mắt với trọng lượng chỉ hơn 200g. Hỗ trợ sạc siêu tốc độ 33W cho các dòng điện thoại Xiaomi và sạc chuẩn PD cho iPhone, sử dụng lõi pin cao cấp tích hợp 9 lớp vi mạch bảo vệ an toàn tối ưu."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 490000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/pin-sac-du-phong/xiaomi-10000mah-33w-power-bank-pb1033mi/anh-dai-dien-xiaomi-10000mah-33w-power-bank-pb1033mi-xanh-duong.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/pin-sac-du-phong/xiaomi-10000mah-33w-power-bank-pb1033mi/anh-dai-dien-xiaomi-10000mah-33w-power-bank-pb1033mi-xanh-duong.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/xiaomi-10000mah-33w-power-bank-pb1033mi/goc-nghieng-trai-kem-cap-tich-hop-xanh-duong.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/xiaomi-10000mah-33w-power-bank-pb1033mi/mat-sau-va-cap-tich-hop-gon-gang-xanh-duong.webp"
+    ],
+    "byColor": {
+      "Xanh Dương": [
+        "assets/images/products/accessory/pin-sac-du-phong/xiaomi-10000mah-33w-power-bank-pb1033mi/anh-dai-dien-xiaomi-10000mah-33w-power-bank-pb1033mi-xanh-duong.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/xiaomi-10000mah-33w-power-bank-pb1033mi/goc-nghieng-trai-kem-cap-tich-hop-xanh-duong.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/xiaomi-10000mah-33w-power-bank-pb1033mi/mat-sau-va-cap-tich-hop-gon-gang-xanh-duong.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/pin-sac-du-phong/xiaomi-10000mah-33w-power-bank-pb1033mi/mat-sau-va-cap-tich-hop-gon-gang-xanh-duong.webp",
+      "screen": "assets/images/products/accessory/pin-sac-du-phong/xiaomi-10000mah-33w-power-bank-pb1033mi/goc-nghieng-trai-kem-cap-tich-hop-xanh-duong.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/pin-sac-du-phong/xiaomi-10000mah-33w-power-bank-pb1033mi/goc-nghieng-trai-kem-cap-tich-hop-xanh-duong.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/xiaomi-10000mah-33w-power-bank-pb1033mi/mat-sau-va-cap-tich-hop-gon-gang-xanh-duong.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Xiaomi",
+      "Dung lượng pin": "10.000 mAh",
+      "Công suất đầu ra tối đa": "33W",
+      "Công suất đầu vào": "22.5W",
+      "Số lượng cổng kết nối": "2 cổng (1 USB-C + 1 USB-A)",
+      "Loại cổng kết nối": "USB-C, USB-A",
+      "Sạc không dây": "Không",
+      "Công nghệ sạc": "Mi Turbo Charge 33W, PD 3.0, QC 3.0",
+      "Màu sắc": "Xanh dương"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Xiaomi"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "10.000 mAh"
+    },
+    {
+      "label": "Công suất đầu ra tối đa",
+      "value": "33W"
+    },
+    {
+      "label": "Công suất đầu vào",
+      "value": "22.5W"
+    },
+    {
+      "label": "Số lượng cổng kết nối",
+      "value": "2 cổng (1 USB-C + 1 USB-A)"
+    },
+    {
+      "label": "Loại cổng kết nối",
+      "value": "USB-C, USB-A"
+    },
+    {
+      "label": "Sạc không dây",
+      "value": "Không"
+    },
+    {
+      "label": "Công nghệ sạc",
+      "value": "Mi Turbo Charge 33W, PD 3.0, QC 3.0"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Xanh dương"
+    }
+  ],
+  "verbatimDescription": [
+    "Thiết kế bo tròn bóng bẩy đẹp mắt với trọng lượng chỉ hơn 200g. Hỗ trợ sạc siêu tốc độ 33W cho các dòng điện thoại Xiaomi và sạc chuẩn PD cho iPhone, sử dụng lõi pin cao cấp tích hợp 9 lớp vi mạch bảo vệ an toàn tối ưu."
+  ],
+  "variants": [
+    {
+      "sku": "PK-PB011-PB1033MI-XANH-DUONG-TIEU-CHUAN",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/pin-sac-du-phong/xiaomi-10000mah-33w-power-bank-pb1033mi/anh-dai-dien-xiaomi-10000mah-33w-power-bank-pb1033mi-xanh-duong.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/xiaomi-10000mah-33w-power-bank-pb1033mi/goc-nghieng-trai-kem-cap-tich-hop-xanh-duong.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/xiaomi-10000mah-33w-power-bank-pb1033mi/mat-sau-va-cap-tich-hop-gon-gang-xanh-duong.webp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,542 @@
+{
+  "id": "xiaomi-18-pro-max",
+  "model": "Xiaomi 18 Pro Max",
+  "brand": "Xiaomi",
+  "brandId": "xiaomi",
+  "parentGroupId": "xiaomi",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "flagship"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "highlights": [
+      "6,9 inch 2K+ LTPO",
+      "Snapdragon Flagship 3nm",
+      "Camera Leica 200MP / Sạc 120W"
+    ],
+    "description": "Ra mắt vào quý 3/2026, Xiaomi 18 Pro Max là phiên bản flagship màn hình lớn cao cấp thuộc thế hệ Xiaomi 18 Series, hội tụ màn hình 6,85–6,9 inch 2K+ LTPO 3.500 nit bảo vệ bởi kính Dragon Crystal Glass 3.0, hệ thống camera Leica có ống kính tiềm vọng 200MP OIS, vi xử lý Snapdragon đầu bảng và viên pin Silicon-Carbon dung lượng cực lớn hỗ trợ sạc nhanh có dây 120W và không dây 80W. (Nguồn tham chiếu: GSMArena - Xiaomi 18 Pro Max).",
+    "releaseDate": "Tháng 10/2026"
+  },
+  "display": {
+    "technology": "LTPO AMOLED 2K+ (68 tỷ màu), 1–120Hz, 3.500 nit",
+    "size": "6,9 inch",
+    "resolution": "3200 x 1440 pixel (WQHD+, 510 ppi)",
+    "refreshRate": "1–120Hz LTPO thích ứng",
+    "brightness": "Dolby Vision, HDR10+; Độ sáng đỉnh 3.500 nit; Làm mờ PWM tần số siêu cao 2160Hz/3840Hz, cảm biến vân tay siêu âm 3D",
+    "hdr": "HDR10+ / HLG",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "ram": [
+      "12GB",
+      "16GB"
+    ],
+    "storage": [
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "chipset": "Qualcomm Snapdragon 8 Gen 5 Extreme / Snapdragon 8 Elite Gen 6 (tiến trình 3nm/2nm TSMC)",
+    "operatingSystem": "Xiaomi HyperOS 3.0 (Android 16 / Android 17)",
+    "cpu": "CPU 8 nhân kiến trúc Oryon xung nhịp tối đa 4,4 – 4,6 GHz",
+    "gpu": "Qualcomm Adreno thế hệ mới hỗ trợ Ray Tracing 2.0, đi kèm buồng hơi tản nhiệt 3D Wing-type IceLoop"
+  },
+  "rearCamera": {
+    "main": "Hệ thống Leica: 50MP 1-inch OIS + 200MP Tele tiềm vọng 5x OIS + 50MP Tele 3x OIS + 50MP Siêu rộng",
+    "ultraWide": null,
+    "telephoto": null,
+    "ois": true,
+    "videoRecording": [
+      "Quay video 8K ở 30fps, 4K ở 30/60/120fps; Quay 4K 60fps Dolby Vision HDR 10-bit và 10-bit Log chuẩn ACES trên toàn bộ ống kính"
+    ],
+    "aiFeatures": [
+      "2 phong cách ảnh Leica Authentic & Vibrant; Leica Master Lens System; Nền tảng Xiaomi AISP thế hệ mới, chụp nhanh Leica Fastshot"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "50MP (ƒ/2.0), quay 4K 60fps",
+    "features": [
+      "Camera Selfie 50MP (khẩu độ ƒ/2.0, góc rộng, tự động lấy nét AF); Quay video 4K ở 30/60fps kèm chống rung EIS"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "6.500 mAh / 8.500 mAh (Pin Silicon-Carbon thế hệ mới)",
+    "wiredCharging": "Sạc siêu nhanh có dây 120W HyperCharge, sạc không dây 80W",
+    "wirelessCharging": "Có hỗ trợ sạc không dây",
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": "Sạc siêu nhanh có dây 120W HyperCharge | Sạc nhanh không dây 80W Wireless HyperCharge | Sạc ngược không dây 15W"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM hoặc Nano-SIM + eSIM"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 7 (802.11be) ba băng tần, 2x2 MIMO",
+    "bluetooth": "Bluetooth 6.0 hỗ trợ aptX Lossless, LDAC, LHDC 5.0",
+    "gps": [
+      "Định vị vệ tinh đa băng tần L1+L5: GPS, GLONASS, BeiDou, Galileo, QZSS"
+    ],
+    "usb": "USB Type-C chuẩn tốc độ cao USB 3.2 Gen 2 (10Gbps), hỗ trợ DisplayPort",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "163,4 x 77,6 x 8,4 mm",
+    "weight": "232 – 235 gram",
+    "materials": [
+      "Khung Titanium / Hợp kim nhôm hàng không nguyên khối cứng cáp",
+      "Mặt lưng gốm Ceramic hoặc kính cường lực nhám mờ chống trầy xước"
+    ],
+    "waterResistance": "IP68 & IP69",
+    "availableColors": [
+      "Hồng",
+      "Trắng",
+      "Xanh Dương",
+      "Đen",
+      "Đỏ"
+    ]
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 26990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-hong.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-hong.webp",
+      "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-den.webp",
+      "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-do.webp",
+      "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-xanh-duong.webp",
+      "assets/images/products/xiaomi/xiaomi-18-pro-max/4-tuy-chon-mau-sac-kem-man-hinh-phu-sau.webp",
+      "assets/images/products/xiaomi/xiaomi-18-pro-max/banner-quang-cao-chuong-trinh-khuyen-mai.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-den.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/4-tuy-chon-mau-sac-kem-man-hinh-phu-sau.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/banner-quang-cao-chuong-trinh-khuyen-mai.webp"
+      ],
+      "Đỏ": [
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-do.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/4-tuy-chon-mau-sac-kem-man-hinh-phu-sau.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/banner-quang-cao-chuong-trinh-khuyen-mai.webp"
+      ],
+      "Hồng": [
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-hong.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/4-tuy-chon-mau-sac-kem-man-hinh-phu-sau.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/banner-quang-cao-chuong-trinh-khuyen-mai.webp"
+      ],
+      "Trắng": [
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/4-tuy-chon-mau-sac-kem-man-hinh-phu-sau.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/banner-quang-cao-chuong-trinh-khuyen-mai.webp"
+      ],
+      "Xanh Dương": [
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-xanh-duong.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/4-tuy-chon-mau-sac-kem-man-hinh-phu-sau.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/banner-quang-cao-chuong-trinh-khuyen-mai.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-den.webp",
+      "screen": "assets/images/products/xiaomi/xiaomi-18-pro-max/4-tuy-chon-mau-sac-kem-man-hinh-phu-sau.webp",
+      "performance": "assets/images/products/xiaomi/xiaomi-18-pro-max/banner-quang-cao-chuong-trinh-khuyen-mai.webp",
+      "camera": "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-do.webp",
+      "battery": "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-trang.webp",
+      "feature": "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-xanh-duong.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-den.webp",
+      "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-do.webp",
+      "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-trang.webp",
+      "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-xanh-duong.webp",
+      "assets/images/products/xiaomi/xiaomi-18-pro-max/4-tuy-chon-mau-sac-kem-man-hinh-phu-sau.webp",
+      "assets/images/products/xiaomi/xiaomi-18-pro-max/banner-quang-cao-chuong-trinh-khuyen-mai.webp"
+    ]
+  },
+  "variants": [
+    {
+      "sku": "DT011-MI18PM-HONG-12GB-256GB",
+      "color": "Hồng",
+      "colorHex": "#F472B6",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 26990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-hong.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/4-tuy-chon-mau-sac-kem-man-hinh-phu-sau.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/banner-quang-cao-chuong-trinh-khuyen-mai.webp"
+      ]
+    },
+    {
+      "sku": "DT011-MI18PM-HONG-16GB-512GB",
+      "color": "Hồng",
+      "colorHex": "#F472B6",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 30990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-hong.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/4-tuy-chon-mau-sac-kem-man-hinh-phu-sau.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/banner-quang-cao-chuong-trinh-khuyen-mai.webp"
+      ]
+    },
+    {
+      "sku": "DT011-MI18PM-HONG-16GB-1TB",
+      "color": "Hồng",
+      "colorHex": "#F472B6",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 36990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-hong.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/4-tuy-chon-mau-sac-kem-man-hinh-phu-sau.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/banner-quang-cao-chuong-trinh-khuyen-mai.webp"
+      ]
+    },
+    {
+      "sku": "DT011-MI18PM-TRANG-12GB-256GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 26990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/4-tuy-chon-mau-sac-kem-man-hinh-phu-sau.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/banner-quang-cao-chuong-trinh-khuyen-mai.webp"
+      ]
+    },
+    {
+      "sku": "DT011-MI18PM-TRANG-16GB-512GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 30990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/4-tuy-chon-mau-sac-kem-man-hinh-phu-sau.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/banner-quang-cao-chuong-trinh-khuyen-mai.webp"
+      ]
+    },
+    {
+      "sku": "DT011-MI18PM-TRANG-16GB-1TB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 36990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-trang.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/4-tuy-chon-mau-sac-kem-man-hinh-phu-sau.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/banner-quang-cao-chuong-trinh-khuyen-mai.webp"
+      ]
+    },
+    {
+      "sku": "DT011-MI18PM-XANH-DUONG-12GB-256GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 26990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-xanh-duong.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/4-tuy-chon-mau-sac-kem-man-hinh-phu-sau.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/banner-quang-cao-chuong-trinh-khuyen-mai.webp"
+      ]
+    },
+    {
+      "sku": "DT011-MI18PM-XANH-DUONG-16GB-512GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 30990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-xanh-duong.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/4-tuy-chon-mau-sac-kem-man-hinh-phu-sau.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/banner-quang-cao-chuong-trinh-khuyen-mai.webp"
+      ]
+    },
+    {
+      "sku": "DT011-MI18PM-XANH-DUONG-16GB-1TB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 36990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-xanh-duong.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/4-tuy-chon-mau-sac-kem-man-hinh-phu-sau.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/banner-quang-cao-chuong-trinh-khuyen-mai.webp"
+      ]
+    },
+    {
+      "sku": "DT011-MI18PM-DEN-12GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 26990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-den.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/4-tuy-chon-mau-sac-kem-man-hinh-phu-sau.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/banner-quang-cao-chuong-trinh-khuyen-mai.webp"
+      ]
+    },
+    {
+      "sku": "DT011-MI18PM-DEN-16GB-512GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 30990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-den.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/4-tuy-chon-mau-sac-kem-man-hinh-phu-sau.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/banner-quang-cao-chuong-trinh-khuyen-mai.webp"
+      ]
+    },
+    {
+      "sku": "DT011-MI18PM-DEN-16GB-1TB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 36990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-den.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/4-tuy-chon-mau-sac-kem-man-hinh-phu-sau.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/banner-quang-cao-chuong-trinh-khuyen-mai.webp"
+      ]
+    },
+    {
+      "sku": "DT011-MI18PM-DO-12GB-256GB",
+      "color": "Đỏ",
+      "colorHex": "#DC2626",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 26990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-do.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/4-tuy-chon-mau-sac-kem-man-hinh-phu-sau.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/banner-quang-cao-chuong-trinh-khuyen-mai.webp"
+      ]
+    },
+    {
+      "sku": "DT011-MI18PM-DO-16GB-512GB",
+      "color": "Đỏ",
+      "colorHex": "#DC2626",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 30990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-do.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/4-tuy-chon-mau-sac-kem-man-hinh-phu-sau.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/banner-quang-cao-chuong-trinh-khuyen-mai.webp"
+      ]
+    },
+    {
+      "sku": "DT011-MI18PM-DO-16GB-1TB",
+      "color": "Đỏ",
+      "colorHex": "#DC2626",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 36990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/anh-dai-dien-xiaomi-18-pro-max-do.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/4-tuy-chon-mau-sac-kem-man-hinh-phu-sau.webp",
+        "assets/images/products/xiaomi/xiaomi-18-pro-max/banner-quang-cao-chuong-trinh-khuyen-mai.webp"
+      ]
+    }
+  ],
+  "docCode": "DT011-MI18PM",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "All Around Liquid LTPO AMOLED 2K+ hiển thị 68 tỷ màu (12-bit), độ phủ màu 100% DCI-P3, công nghệ chống nhìn trộm thông minh Privacy Display",
+      "Kích thước màn hình": "6,85 – 6,9 inch theo đường chéo (chiếm ~92,5% diện tích mặt trước)",
+      "Độ phân giải màn hình": "3200 x 1440 pixel (chuẩn 2K+ WQHD+, mật độ điểm ảnh ~510 ppi)",
+      "Tần số quét": "Tần số quét thích ứng LTPO từ 1Hz đến 120Hz",
+      "Kiểu màn hình": "Màn hình cong nhẹ viền siêu mỏng 4 cạnh, bảo vệ bởi kính Xiaomi Dragon Crystal Glass 3.0",
+      "Tính năng màn hình": "Dolby Vision, HDR10+; Độ sáng đỉnh 3.500 nit; Làm mờ PWM tần số siêu cao 2160Hz/3840Hz, cảm biến vân tay siêu âm 3D"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera Leica Summilux thế hệ mới: (1) Camera chính 50MP Leica: cảm biến lớn 1-inch / 1/1.28-inch, khẩu độ ƒ/1.6, tiêu cự 23mm, Dual Pixel PDAF + Laser AF, chống rung quang học OIS; (2) Camera Periscope Telephoto 200MP Leica: cảm biến lớn 1/1.4 inch, khẩu độ ƒ/2.5, zoom quang học 5x (zoom lossless 10x, zoom số 120x), chống rung OIS; (3) Camera Telephoto 50MP Leica: zoom quang 3x, chống rung OIS, hỗ trợ chụp Telephoto Macro; (4) Camera Góc siêu rộng 50MP Leica: khẩu độ ƒ/2.0, góc nhìn 115°–122°",
+      "Quay video": "Quay video 8K ở 30fps, 4K ở 30/60/120fps; Quay 4K 60fps Dolby Vision HDR 10-bit và 10-bit Log chuẩn ACES trên toàn bộ ống kính",
+      "Tính năng camera": "2 phong cách ảnh Leica Authentic & Vibrant; Leica Master Lens System; Nền tảng Xiaomi AISP thế hệ mới, chụp nhanh Leica Fastshot"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera Selfie 50MP (khẩu độ ƒ/2.0, góc rộng, tự động lấy nét AF); Quay video 4K ở 30/60fps kèm chống rung EIS"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 8 Gen 5 Extreme / Snapdragon 8 Elite Gen 6 (tiến trình 3nm/2nm TSMC)",
+      "Loại CPU": "CPU 8 nhân kiến trúc Oryon xung nhịp tối đa 4,4 – 4,6 GHz",
+      "GPU": "Qualcomm Adreno thế hệ mới hỗ trợ Ray Tracing 2.0, đi kèm buồng hơi tản nhiệt 3D Wing-type IceLoop"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "12GB hoặc 16GB LPDDR5X tốc độ 9600 Mbps",
+      "Bộ nhớ trong": "3 phiên bản: 256GB, 512GB và 1TB chuẩn UFS 4.1"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "6.500 mAh / 8.500 mAh (tùy phiên bản thị trường, sử dụng công nghệ pin Xiaomi Surge Silicon-Carbon mật độ siêu cao)",
+      "Công nghệ sạc": "Sạc siêu nhanh có dây 120W HyperCharge | Sạc nhanh không dây 80W Wireless HyperCharge | Sạc ngược không dây 15W",
+      "Cổng sạc": "USB Type-C chuẩn tốc độ cao USB 3.2 Gen 2 (10Gbps), hỗ trợ DisplayPort"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS 3.0 (Android 16 / Android 17)",
+      "Công nghệ - Tiện ích": "Hệ sinh thái Xiaomi HyperAI toàn diện, Google Gemini, Circle to Search, liên lạc vệ tinh (trên phiên bản hỗ trợ)",
+      "Tiện ích khác": "Cảm biến vân tay siêu âm 3D dưới màn hình, cổng hồng ngoại IR Blaster",
+      "Thời điểm ra mắt": "Tháng 09 – 10/2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G đa băng tần (SA/NSA Sub-6GHz), 4G LTE-A",
+      "Thẻ SIM": "2 Nano-SIM hoặc Nano-SIM + eSIM",
+      "Wi-Fi": "Wi-Fi 7 (802.11be) ba băng tần, 2x2 MIMO",
+      "Bluetooth": "Bluetooth 6.0 hỗ trợ aptX Lossless, LDAC, LHDC 5.0",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa năng",
+      "GPS": "Định vị vệ tinh đa băng tần L1+L5: GPS, GLONASS, BeiDou, Galileo, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung Titanium / Hợp kim nhôm hàng không nguyên khối cứng cáp",
+      "Chất liệu mặt lưng": "Mặt lưng gốm Ceramic hoặc kính cường lực nhám mờ chống trầy xước",
+      "Kích thước": "163,4 x 77,6 x 8,4 mm",
+      "Trọng lượng": "232 – 235 gram",
+      "Chỉ số kháng nước, bụi": "Đạt đồng thời chuẩn IP68 & IP69"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa kép Stereo chuẩn Dolby Atmos, Hi-Res Audio & Hi-Res Wireless",
+      "Cảm biến vân tay": "Cảm biến vân tay siêu âm 3D dưới màn hình + Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Vân tay siêu âm 3D, Laser AF, Cảm biến phổ màu, Áp kế, Gia tốc kế, Con quay hồi chuyển, Tiệm cận, Ánh sáng, La bàn số, Hồng ngoại"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,9 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "LTPO AMOLED 2K+ (68 tỷ màu), 1–120Hz, 3.500 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "3200 x 1440 pixel (WQHD+, 510 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "1–120Hz LTPO thích ứng"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 8 Elite Extreme / Gen 6 (3nm/2nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB / 16GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "3 phiên bản: 256GB, 512GB và 1TB chuẩn UFS 4.1"
+    },
+    {
+      "label": "Camera sau",
+      "value": "Hệ thống Leica: 50MP 1-inch OIS + 200MP Tele tiềm vọng 5x OIS + 50MP Tele 3x OIS + 50MP Siêu rộng"
+    },
+    {
+      "label": "Camera trước",
+      "value": "50MP (ƒ/2.0), quay 4K 60fps"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "6.500 mAh / 8.500 mAh (Pin Silicon-Carbon thế hệ mới)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc siêu nhanh có dây 120W HyperCharge, sạc không dây 80W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS 3.0 (Android 16 / 17)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 & IP69"
+    }
+  ],
+  "verbatimDescription": [
+    "Ra mắt vào quý 3/2026, Xiaomi 18 Pro Max là phiên bản flagship màn hình lớn cao cấp thuộc thế hệ Xiaomi 18 Series, hội tụ màn hình 6,85–6,9 inch 2K+ LTPO 3.500 nit bảo vệ bởi kính Dragon Crystal Glass 3.0, hệ thống camera Leica có ống kính tiềm vọng 200MP OIS, vi xử lý Snapdragon đầu bảng và viên pin Silicon-Carbon dung lượng cực lớn hỗ trợ sạc nhanh có dây 120W và không dây 80W. Tại AURIX MOBILE, sản phẩm hướng tới người dùng yêu thích màn hình lớn và thời lượng pin đỉnh cao.",
+    "Xiaomi 18 Pro Max sở hữu ngoại hình bề thế với kích thước 163,4 x 77,6 x 8,4 mm, mặt trước phủ kính Dragon Crystal Glass 3.0 chống trầy xước và rơi vỡ vượt trội, đi kèm chuẩn kháng nước bụi kép IP68 & IP69.",
+    "Màn hình 2K+ LTPO AMOLED hiển thị 68 tỷ màu với tần số quét thích ứng 1–120Hz, độ sáng đỉnh 3.500 nit và tích hợp cảm biến vân tay siêu âm 3D dưới màn hình.",
+    "Hệ thống nhiếp ảnh Leica Summilux trên Xiaomi 18 Pro Max kết hợp camera chính 50MP cảm biến lớn OIS, ống kính Telephoto tiềm vọng 200MP OIS, camera tele chân dung 50MP và camera góc siêu rộng 50MP, hỗ trợ quay video 8K@30fps và 4K@120fps Dolby Vision.",
+    "Sức mạnh phần cứng đến từ vi xử lý Snapdragon đầu bảng đi kèm tùy chọn 12GB/16GB RAM LPDDR5X và bộ nhớ trong 256GB/512GB/1TB chuẩn UFS 4.1 trên nền tảng Xiaomi HyperOS 3.0.",
+    "Viên pin Silicon-Carbon dung lượng lớn kết hợp sạc nhanh có dây 120W HyperCharge và sạc không dây 80W đảm bảo trải nghiệm liền mạch suốt nhiều ngày sử dụng."
+  ],
+  "series": "Xiaomi 18 Series",
+  "priceSegment": "flagship"
+}

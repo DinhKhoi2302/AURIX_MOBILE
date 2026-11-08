@@ -1,0 +1,169 @@
+{
+  "id": "ban-phim-apple-magic-keyboard-ipad-air-11-inch",
+  "docCode": "PK-KB001-APPAIR11",
+  "model": "Bàn Phím Apple Magic Keyboard cho iPad Air 11 inch (M2/M3)",
+  "brand": "Apple",
+  "brandId": "apple",
+  "parentGroupId": "apple",
+  "series": "Bàn phím & Bao da",
+  "subCategory": "keyboard",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "keyboard"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Bàn phím & Bao da",
+    "highlights": [
+      "Smart Connector"
+    ],
+    "description": "Thiết kế treo lơ lửng trứ danh của Apple cho phép gắn iPad bằng từ tính và tùy chỉnh góc nhìn êm ái. Bàn phím cơ chế cắt kéo hành trình 1mm êm ái, tích hợp bàn di chuột hỗ trợ đầy đủ cử chỉ Multi-Touch của iPadOS và cổng sạc USB-C pass-through tiện dụng."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 6990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/anh-dai-dien-ban-phim-apple-magic-keyboard-ipad-air-11-inch-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/anh-dai-dien-ban-phim-apple-magic-keyboard-ipad-air-11-inch-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/anh-dai-dien-ban-phim-apple-magic-keyboard-ipad-air-11-inch-trang.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/mat-chinh-dien-kem-ipad-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/goc-nghieng-mat-sau-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/canh-ben-ban-le-treo-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/canh-ben-ban-le-treo-trang.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/goc-nghieng-phai-kem-ipad-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/goc-nghieng-phai-kem-ipad-trang.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/goc-tren-xuong-ban-phim-va-trackpad-trang.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/anh-dai-dien-ban-phim-apple-magic-keyboard-ipad-air-11-inch-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/mat-chinh-dien-kem-ipad-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/goc-nghieng-mat-sau-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/canh-ben-ban-le-treo-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/goc-nghieng-phai-kem-ipad-den.webp"
+      ],
+      "Trắng": [
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/anh-dai-dien-ban-phim-apple-magic-keyboard-ipad-air-11-inch-trang.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/canh-ben-ban-le-treo-trang.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/goc-nghieng-phai-kem-ipad-trang.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/goc-tren-xuong-ban-phim-va-trackpad-trang.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/goc-nghieng-mat-sau-den.webp",
+      "screen": "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/mat-chinh-dien-kem-ipad-den.webp",
+      "performance": "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/goc-nghieng-phai-kem-ipad-den.webp",
+      "camera": "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/anh-dai-dien-ban-phim-apple-magic-keyboard-ipad-air-11-inch-trang.webp",
+      "battery": "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/canh-ben-ban-le-treo-den.webp",
+      "feature": "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/goc-nghieng-phai-kem-ipad-trang.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/anh-dai-dien-ban-phim-apple-magic-keyboard-ipad-air-11-inch-trang.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/mat-chinh-dien-kem-ipad-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/goc-nghieng-mat-sau-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/canh-ben-ban-le-treo-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/canh-ben-ban-le-treo-trang.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/goc-nghieng-phai-kem-ipad-den.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/goc-nghieng-phai-kem-ipad-trang.webp",
+      "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/goc-tren-xuong-ban-phim-va-trackpad-trang.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Apple",
+      "Loại bàn phím": "Bao da bàn phím lơ lửng (Floating Cantilever)",
+      "Thiết bị tương thích": "iPad Air 11 inch (M2), iPad Air 10.9 inch (Gen 4, Gen 5), iPad Pro 11 inch (Gen 1, 2, 3)",
+      "Kiểu kết nối": "Smart Connector (hút nam châm, không cần Bluetooth)",
+      "Ngôn ngữ bàn phím": "Tiếng Anh (US English)",
+      "Bàn di chuột (Touchpad)": "Có (Trackpad kính đa điểm mượt mà)",
+      "Đèn nền bàn phím": "Có (Đèn nền LED tự động điều chỉnh độ sáng)",
+      "Nguồn cấp điện": "Cấp nguồn trực tiếp từ iPad qua Smart Connector (không cần sạc pin)",
+      "Màu sắc": "Đen, Trắng"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Apple"
+    },
+    {
+      "label": "Loại bàn phím",
+      "value": "Bao da bàn phím lơ lửng (Floating Cantilever)"
+    },
+    {
+      "label": "Thiết bị tương thích",
+      "value": "iPad Air 11 inch (M2), iPad Air 10.9 inch (Gen 4, Gen 5), iPad Pro 11 inch (Gen 1, 2, 3)"
+    },
+    {
+      "label": "Kiểu kết nối",
+      "value": "Smart Connector (hút nam châm, không cần Bluetooth)"
+    },
+    {
+      "label": "Ngôn ngữ bàn phím",
+      "value": "Tiếng Anh (US English)"
+    },
+    {
+      "label": "Bàn di chuột (Touchpad)",
+      "value": "Có (Trackpad kính đa điểm mượt mà)"
+    },
+    {
+      "label": "Đèn nền bàn phím",
+      "value": "Có (Đèn nền LED tự động điều chỉnh độ sáng)"
+    },
+    {
+      "label": "Nguồn cấp điện",
+      "value": "Cấp nguồn trực tiếp từ iPad qua Smart Connector (không cần sạc pin)"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Đen, Trắng"
+    }
+  ],
+  "verbatimDescription": [
+    "Thiết kế treo lơ lửng trứ danh của Apple cho phép gắn iPad bằng từ tính và tùy chỉnh góc nhìn êm ái. Bàn phím cơ chế cắt kéo hành trình 1mm êm ái, tích hợp bàn di chuột hỗ trợ đầy đủ cử chỉ Multi-Touch của iPadOS và cổng sạc USB-C pass-through tiện dụng."
+  ],
+  "variants": [
+    {
+      "sku": "PK-KB001-APPAIR11-DEN-TIEU-CHUAN",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 6990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/anh-dai-dien-ban-phim-apple-magic-keyboard-ipad-air-11-inch-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/mat-chinh-dien-kem-ipad-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/goc-nghieng-mat-sau-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/canh-ben-ban-le-treo-den.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/goc-nghieng-phai-kem-ipad-den.webp"
+      ]
+    },
+    {
+      "sku": "PK-KB001-APPAIR11-TRANG-TIEU-CHUAN",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 6990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/anh-dai-dien-ban-phim-apple-magic-keyboard-ipad-air-11-inch-trang.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/canh-ben-ban-le-treo-trang.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/goc-nghieng-phai-kem-ipad-trang.webp",
+        "assets/images/products/accessory/keyboard/ban-phim-apple-magic-keyboard-ipad-air-11-inch/goc-tren-xuong-ban-phim-va-trackpad-trang.webp"
+      ]
+    }
+  ]
+}

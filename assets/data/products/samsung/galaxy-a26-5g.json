@@ -1,0 +1,340 @@
+{
+  "id": "galaxy-a26-5g",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "model": "Galaxy A26 5G",
+  "series": "Galaxy A",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "midrange",
+    "5g-ready"
+  ],
+  "status": "needs_verification",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 19,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Samsung Galaxy A26 5G là mẫu smartphone tầm trung bền bỉ của dòng Galaxy A, nổi bật với chuẩn kháng nước/bụi IP67, hai mặt kính cường lực Gorilla Glass Victus+, màn hình Super AMOLED 6,7 inch 120Hz, vi xử lý Exynos 1380 (5nm), cụm 3 camera 50MP OIS và viên pin 5.000 mAh sạc nhanh 25W.",
+    "highlights": [
+      "6,7 inch Super AMOLED 120Hz",
+      "Exynos 1380 (5nm)",
+      "Camera 50MP OIS + 8MP + 2MP",
+      "Pin 5.000 mAh · Sạc 25W · IP67"
+    ],
+    "officialDistribution": "Model được bảo lưu từ danh sách trước nhưng chưa đủ bằng chứng đang mở bán chính thức trong lượt đối chiếu ngày 01/11/2026; giữ trạng thái needs_verification để không mất dấu dữ liệu."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": null,
+    "originalPrice": null,
+    "promotionPrice": null,
+    "priceUpdatedAt": "2026-11-01",
+    "priceVerified": false
+  },
+  "variants": [
+    {
+      "sku": "AUR-SAM-A26-5G-RAM-STD-01",
+      "color": "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)",
+      "colorHex": "#102347",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "price": null,
+      "originalPrice": null,
+      "stockStatus": "needs_verification",
+      "images": [
+        "assets/images/placeholders/placeholder-default.svg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "Super AMOLED",
+    "size": "6,7 inch",
+    "resolution": "Full HD+ (1080 x 2340 pixel)",
+    "refreshRate": "120Hz",
+    "brightness": "1.000 nit",
+    "hdr": "HDR",
+    "protection": "Corning Gorilla Glass Victus+",
+    "features": [
+      "Tần số quét 120Hz",
+      "Bảo vệ mắt Eye Comfort Shield"
+    ]
+  },
+  "performance": {
+    "chipset": "Samsung Exynos 1380 (5nm)",
+    "cpu": "8 nhân (4x 2,4 GHz Cortex-A78 + 4x 2,0 GHz Cortex-A55)",
+    "gpu": "Mali-G68 MP5",
+    "ram": [
+      "6GB",
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "operatingSystem": "Android 15, One UI 7 (Nâng cấp One UI 8.5)",
+    "uiVersion": "One UI",
+    "expandableStorage": "Hỗ trợ thẻ nhớ microSDXC"
+  },
+  "rearCamera": {
+    "main": "50MP Wide f/1.8 (27mm, PDAF, OIS)",
+    "ultraWide": "8MP Ultra Wide f/2.2 (120°)",
+    "telephoto": "2MP Macro f/2.4",
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "4K@30fps",
+      "1080p@30fps",
+      "gyro-EIS"
+    ],
+    "aiFeatures": [
+      "Awesome Intelligence",
+      "Object Eraser",
+      "Circle to Search"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "13MP Wide f/2.2",
+    "features": [
+      "Chân dung AI"
+    ],
+    "videoRecording": [
+      "1080p@30fps"
+    ]
+  },
+  "battery": {
+    "capacity": "5.000 mAh",
+    "wiredCharging": "Sạc nhanh 25W USB-C",
+    "wirelessCharging": null,
+    "reverseCharging": null,
+    "chargingTechnology": "Super Fast Charging 25W"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM / Nano-SIM + eSIM"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép",
+    "bluetooth": "Bluetooth 5.3 (A2DP, LE)",
+    "gps": [
+      "GPS",
+      "GALILEO",
+      "GLONASS",
+      "BDS",
+      "QZSS"
+    ],
+    "usb": "USB Type-C 2.0, OTG",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "164,0 x 77,5 x 7,7 mm",
+    "weight": "200 g",
+    "materials": [
+      "Hai mặt kính Corning Gorilla Glass Victus+",
+      "Khung viền Key Island"
+    ],
+    "waterResistance": "IP67 (kháng nước 1m trong 30 phút)",
+    "availableColors": [
+      "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa đơn / Stereo tiêu chuẩn",
+    "headphoneJack": null,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "6,7 inch Super AMOLED 120Hz",
+    "Exynos 1380 (5nm)",
+    "Camera 50MP OIS + 8MP + 2MP",
+    "Pin 5.000 mAh · Sạc 25W · IP67"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Samsung tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/placeholders/placeholder-default.svg",
+    "hasAvatarNamed": false,
+    "gallery": [
+      "assets/images/placeholders/placeholder-default.svg"
+    ],
+    "byColor": {},
+    "bySection": {
+      "performance": "assets/images/placeholders/placeholder-default.svg"
+    }
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s26-series",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s25-series",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-z",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-a",
+      "https://www.samsung.com/vn/smartphones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "needs_verification",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Cần xác minh thêm",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "verbatimDescription": [
+    "Samsung Galaxy A26 5G mang chuẩn kháng nước và bụi IP67 cao cấp xuống phân khúc tầm trung phổ thông, kết hợp thiết kế mỏng 7,7 mm cùng mặt lưng kính cường lực Corning Gorilla Glass Victus+ bóng bẩy và cụm phím nổi Key Island đặc trưng.",
+    "Không gian hiển thị của Galaxy A26 5G được mở rộng lên 6,7 inch trên tấm nền Super AMOLED độ phân giải Full HD+ (1080 x 2340 pixel) cùng tần số quét mượt mà 120Hz. Hình ảnh hiển thị có độ tương phản sâu, màu sắc tươi tắn và góc nhìn rộng cho nhu cầu xem phim, giải trí mỗi ngày.",
+    "Máy vận hành trên vi xử lý 8 nhân Samsung Exynos 1380 (5nm) tốc độ lên đến 2,4 GHz cùng GPU Mali-G68 MP5, đi kèm tùy chọn RAM 6GB/8GB và bộ nhớ trong 128GB/256GB (hỗ trợ mở rộng qua thẻ nhớ microSDXC), đáp ứng ổn định các tác vụ đa nhiệm và kết nối 5G tốc độ cao.",
+    "Hệ thống 3 camera sau gồm camera chính 50MP (f/1.8) có chống rung quang học OIS giúp chụp ảnh rõ nét và quay video 4K@30fps ổn định, kết hợp camera góc siêu rộng 8MP (120°) và camera Macro 2MP. Camera selfie mặt trước 13MP (f/2.2) tái tạo tông da tự nhiên và rõ nét khi gọi video.",
+    "Viên pin 5.000 mAh cung cấp năng lượng bền bỉ suốt ngày dài sử dụng, đi kèm công nghệ sạc nhanh có dây 25W qua cổng USB Type-C.",
+    "Với cam kết hỗ trợ tới 6 bản cập nhật hệ điều hành Android lớn, bảo mật phần cứng Samsung Knox Vault, tính năng Khoanh tròn để tìm kiếm (Circle to Search), Bluetooth 5.3 và NFC, Galaxy A26 5G mang lại giá trị sử dụng lâu dài và an tâm."
+  ],
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,7 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "Super AMOLED"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "Full HD+ (1080 x 2340 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Samsung Exynos 1380 (5nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "6GB / 8GB"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB (hỗ trợ microSDXC)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính OIS + 8MP Ultra Wide + 2MP Macro"
+    },
+    {
+      "label": "Camera trước",
+      "value": "13MP, khẩu độ f/2.2"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh có dây 25W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 15, One UI 7 (hỗ trợ One UI 8.5)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP67 (1 mét trong 30 phút)"
+    }
+  ],
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "Super AMOLED",
+      "Kích thước màn hình": "6,7 inch (tỷ lệ hiển thị ~86,7% mặt trước)",
+      "Độ phân giải màn hình": "Full HD+ (1080 x 2340 pixel, ~385 ppi)",
+      "Tần số quét": "120Hz",
+      "Kiểu màn hình": "Màn hình phẳng bảo vệ bởi kính cường lực Corning Gorilla Glass Victus+",
+      "Tính năng màn hình": "Tần số quét mượt 120Hz, bảo vệ mắt Eye Comfort Shield"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera: Chính 50MP (f/1.8, 27mm, PDAF, chống rung quang học OIS) + Góc siêu rộng 8MP (f/2.2, 120°) + Macro 2MP (f/2.4)",
+      "Quay video": "4K@30fps, 1080p@30fps, Slo-mo 720p@480fps, chống rung OIS + gyro-EIS",
+      "Tính năng camera": "Xóa vật thể Object Eraser, Chụp đêm, Chân dung xóa phông, HDR, Panorama"
+    },
+    "Camera trước": {
+      "Camera trước": "13MP (f/2.2); hỗ trợ quay video Full HD 1080p@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Samsung Exynos 1380 (tiến trình 5nm)",
+      "Loại CPU": "8 nhân (4 nhân Cortex-A78 2,4 GHz + 4 nhân Cortex-A55 2,0 GHz)",
+      "GPU": "Mali-G68 MP5"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "6GB / 8GB",
+      "Bộ nhớ trong": "128GB / 256GB (hỗ trợ khe cắm thẻ nhớ microSDXC)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.000 mAh (Li-Ion)",
+      "Công nghệ sạc": "Sạc nhanh có dây 25W qua cổng USB-C",
+      "Cổng sạc": "USB Type-C 2.0, hỗ trợ OTG"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 15, One UI 7 (hỗ trợ cập nhật 6 thế hệ Android, đã có One UI 8.5)",
+      "Công nghệ - Tiện ích": "Circle to Search, Object Eraser, bảo mật Samsung Knox Vault",
+      "Tiện ích khác": "Khe cắm thẻ nhớ microSDXC, cảm biến vân tay cạnh bên",
+      "Thời điểm ra mắt": "Tháng 03/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G SA/NSA/Sub6 đa băng tần, 4G LTE",
+      "Thẻ SIM": "SIM kép (Nano-SIM + eSIM hoặc 2 Nano-SIM)",
+      "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép, Wi-Fi Direct",
+      "Bluetooth": "Bluetooth 5.3 (A2DP, LE)",
+      "Công nghệ NFC": "Có hỗ trợ NFC",
+      "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền phẳng tích hợp cụm phím nổi Key Island",
+      "Chất liệu mặt lưng": "Hai mặt kính cường lực Corning Gorilla Glass Victus+",
+      "Kích thước": "164,0 x 77,5 x 7,7 mm",
+      "Trọng lượng": "200 gram",
+      "Chỉ số kháng nước, bụi": "IP67 theo tiêu chuẩn IEC 60529 (kháng nước ở độ sâu 1 mét trong 30 phút)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài tích hợp, hỗ trợ Dolby Atmos qua tai nghe",
+      "Cảm biến vân tay": "Cảm biến vân tay tích hợp nút nguồn cạnh bên",
+      "Các loại cảm biến": "Vân tay cạnh bên, Gia tốc kế, Con quay hồi chuyển, Cảm biến tiệm cận ảo, La bàn số"
+    }
+  }
+}

@@ -1,0 +1,665 @@
+{
+  "id": "galaxy-a57-5g",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "model": "Samsung Galaxy A57 5G",
+  "series": "Galaxy A Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "midrange"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Giảm giá",
+      "type": "sale"
+    }
+  ],
+  "overview": {
+    "releaseDate": "Năm 2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Samsung Galaxy A57 5G là mẫu smartphone chủ lực cao cấp nhất dòng Galaxy A năm 2026, gây ấn tượng mạnh với thiết kế khung kim loại siêu mỏng chỉ 6,9 mm nhẹ 179 gram, chuẩn kháng nước IP68, màn hình Super AMOLED+ 6,7 inch 120Hz sáng 1.900 nit, vi xử lý Exynos 1680 (4nm) cùng cụm 3 camera 50MP OIS và pin 5.000 mAh sạc siêu nhanh 45W.",
+    "highlights": [
+      "6,7 inch Super AMOLED+ 120Hz",
+      "Exynos 1680 (4nm) · GPU Xclipse 550",
+      "Camera 50MP OIS + 12MP + 5MP",
+      "Mỏng 6,9mm · IP68 · Sạc 45W"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 9490000,
+    "originalPrice": 13490000,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT008-SSA575G-DEN-8GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 9490000,
+      "originalPrice": 13490000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a57-5g/anh-dai-dien-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-truoc-mat-sau-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/canh-phai-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/canh-trai-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/he-thong-camera-50mp-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/dung-luong-pin-5000mah-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/hieu-nang-vi-xu-ly-8-nhan-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/Galaxy-A57-5G.jpg",
+        "assets/images/products/samsung/galaxy-a57-5g/thong-so-man-hinh-super-amoled-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/thong-so-noi-bat-samsung-galaxy-a57-5g-tim-den-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT008-SSA575G-DEN-8GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 10490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a57-5g/anh-dai-dien-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-truoc-mat-sau-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/canh-phai-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/canh-trai-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/he-thong-camera-50mp-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/dung-luong-pin-5000mah-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/hieu-nang-vi-xu-ly-8-nhan-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/Galaxy-A57-5G.jpg",
+        "assets/images/products/samsung/galaxy-a57-5g/thong-so-man-hinh-super-amoled-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/thong-so-noi-bat-samsung-galaxy-a57-5g-tim-den-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT008-SSA575G-TRANG-8GB-128GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 9490000,
+      "originalPrice": 13490000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a57-5g/anh-dai-dien-samsung-galaxy-a57-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-truoc-mat-sau-samsung-galaxy-a57-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a57-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a57-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-samsung-galaxy-a57-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/canh-phai-samsung-galaxy-a57-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/canh-trai-samsung-galaxy-a57-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a57-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a57-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/Galaxy-A57-5G.jpg",
+        "assets/images/products/samsung/galaxy-a57-5g/thong-so-man-hinh-super-amoled-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/thong-so-noi-bat-samsung-galaxy-a57-5g-tim-den-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT008-SSA575G-TRANG-8GB-256GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 10490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a57-5g/anh-dai-dien-samsung-galaxy-a57-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-truoc-mat-sau-samsung-galaxy-a57-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a57-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a57-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-samsung-galaxy-a57-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/canh-phai-samsung-galaxy-a57-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/canh-trai-samsung-galaxy-a57-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a57-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a57-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/Galaxy-A57-5G.jpg",
+        "assets/images/products/samsung/galaxy-a57-5g/thong-so-man-hinh-super-amoled-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/thong-so-noi-bat-samsung-galaxy-a57-5g-tim-den-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT008-SSA575G-TIM-8GB-128GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 9490000,
+      "originalPrice": 13490000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a57-5g/anh-dai-dien-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-truoc-mat-sau-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/man-hinh-mat-truoc-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/canh-trai-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/Galaxy-A57-5G.jpg",
+        "assets/images/products/samsung/galaxy-a57-5g/thong-so-man-hinh-super-amoled-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/thong-so-noi-bat-samsung-galaxy-a57-5g-tim-den-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT008-SSA575G-TIM-8GB-256GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 10490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a57-5g/anh-dai-dien-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-truoc-mat-sau-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/man-hinh-mat-truoc-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/canh-trai-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/Galaxy-A57-5G.jpg",
+        "assets/images/products/samsung/galaxy-a57-5g/thong-so-man-hinh-super-amoled-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/thong-so-noi-bat-samsung-galaxy-a57-5g-tim-den-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT008-SSA575G-XAM-8GB-128GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 9490000,
+      "originalPrice": 13490000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a57-5g/anh-dai-dien-samsung-galaxy-a57-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-truoc-mat-sau-samsung-galaxy-a57-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a57-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a57-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-samsung-galaxy-a57-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/canh-phai-samsung-galaxy-a57-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/canh-trai-samsung-galaxy-a57-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a57-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a57-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/Galaxy-A57-5G.jpg",
+        "assets/images/products/samsung/galaxy-a57-5g/thong-so-man-hinh-super-amoled-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/thong-so-noi-bat-samsung-galaxy-a57-5g-tim-den-trang.webp"
+      ]
+    },
+    {
+      "sku": "DT008-SSA575G-XAM-8GB-256GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 10490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-a57-5g/anh-dai-dien-samsung-galaxy-a57-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-truoc-mat-sau-samsung-galaxy-a57-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a57-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a57-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-samsung-galaxy-a57-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/canh-phai-samsung-galaxy-a57-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/canh-trai-samsung-galaxy-a57-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a57-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a57-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/Galaxy-A57-5G.jpg",
+        "assets/images/products/samsung/galaxy-a57-5g/thong-so-man-hinh-super-amoled-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/thong-so-noi-bat-samsung-galaxy-a57-5g-tim-den-trang.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "Super AMOLED+",
+    "size": "6,7 inch",
+    "resolution": "Full HD+ (1080 x 2340 pixel)",
+    "refreshRate": "120Hz",
+    "brightness": "1.900 nit (peak)",
+    "hdr": "HDR10+",
+    "protection": "Corning Gorilla Glass Victus+",
+    "features": [
+      "Tần số quét 120Hz",
+      "Vision Booster 1.900 nit",
+      "Bảo vệ mắt"
+    ]
+  },
+  "performance": {
+    "chipset": "Samsung Exynos 1680 (4nm)",
+    "cpu": "8 nhân (1x 2,9 GHz Cortex-A720 + 4x 2,6 GHz Cortex-A720 + 3x 1,95 GHz Cortex-A520)",
+    "gpu": "Samsung Xclipse 550",
+    "ram": [
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "operatingSystem": "Android 16, One UI 8.5",
+    "uiVersion": "One UI 8.5",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Wide f/1.8 (1/1.56\", PDAF, OIS)",
+    "ultraWide": "12MP Ultra Wide f/2.2 (13mm)",
+    "telephoto": "5MP Macro f/2.4",
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "4K@30fps",
+      "1080p@30/60fps",
+      "gyro-EIS"
+    ],
+    "aiFeatures": [
+      "Awesome Intelligence AI",
+      "Best Face",
+      "Object Eraser",
+      "Nightography"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "12MP Wide f/2.2",
+    "features": [
+      "10-bit HDR"
+    ],
+    "videoRecording": [
+      "4K@30fps",
+      "1080p@30fps"
+    ]
+  },
+  "battery": {
+    "capacity": "5.000 mAh",
+    "wiredCharging": "Sạc siêu nhanh 45W USB-C",
+    "wirelessCharging": null,
+    "reverseCharging": null,
+    "chargingTechnology": "Super Fast Charging 2.0 (45W)"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM / eSIM kép"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 6E (802.11 a/b/g/n/ac/6e)",
+    "bluetooth": "Bluetooth 6.0 (A2DP, LE)",
+    "gps": [
+      "GPS",
+      "GALILEO",
+      "GLONASS",
+      "BDS",
+      "QZSS"
+    ],
+    "usb": "USB Type-C 2.0, OTG",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "161,5 x 76,8 x 6,9 mm",
+    "weight": "179 g",
+    "materials": [
+      "Khung kim loại Key Island",
+      "Hai mặt kính Corning Gorilla Glass Victus+"
+    ],
+    "waterResistance": "IP68 (1,5m trong 30 phút)",
+    "availableColors": [
+      "Xám",
+      "Xanh"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa đơn / Stereo tiêu chuẩn",
+    "headphoneJack": null,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "6,7 inch Super AMOLED+ 120Hz",
+    "Exynos 1680 (4nm) · GPU Xclipse 550",
+    "Camera 50MP OIS + 12MP + 5MP",
+    "Mỏng 6,9mm · IP68 · Sạc 45W"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Samsung tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/samsung/galaxy-a57-5g/anh-dai-dien-samsung-galaxy-a57-5g-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/samsung/galaxy-a57-5g/anh-dai-dien-samsung-galaxy-a57-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/anh-dai-dien-samsung-galaxy-a57-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/anh-dai-dien-samsung-galaxy-a57-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/anh-dai-dien-samsung-galaxy-a57-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/mat-truoc-mat-sau-samsung-galaxy-a57-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/mat-truoc-mat-sau-samsung-galaxy-a57-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/mat-truoc-mat-sau-samsung-galaxy-a57-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/mat-truoc-mat-sau-samsung-galaxy-a57-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/man-hinh-mat-truoc-samsung-galaxy-a57-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a57-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a57-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a57-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a57-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a57-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a57-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a57-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a57-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/mat-lung-samsung-galaxy-a57-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/mat-lung-samsung-galaxy-a57-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/mat-lung-samsung-galaxy-a57-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/mat-lung-samsung-galaxy-a57-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/canh-phai-samsung-galaxy-a57-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/canh-phai-samsung-galaxy-a57-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/canh-phai-samsung-galaxy-a57-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/canh-trai-samsung-galaxy-a57-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/canh-trai-samsung-galaxy-a57-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/canh-trai-samsung-galaxy-a57-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/canh-trai-samsung-galaxy-a57-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a57-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a57-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a57-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a57-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a57-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a57-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a57-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a57-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/he-thong-camera-50mp-samsung-galaxy-a57-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/05-feature.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/Galaxy-A57-5G.jpg",
+      "assets/images/products/samsung/galaxy-a57-5g/dung-luong-pin-5000mah-samsung-galaxy-a57-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/hieu-nang-vi-xu-ly-8-nhan-samsung-galaxy-a57-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/thong-so-man-hinh-super-amoled-samsung-galaxy-a57-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/thong-so-noi-bat-samsung-galaxy-a57-5g-tim-den-trang.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/samsung/galaxy-a57-5g/anh-dai-dien-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-truoc-mat-sau-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/canh-phai-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/canh-trai-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/he-thong-camera-50mp-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/dung-luong-pin-5000mah-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/hieu-nang-vi-xu-ly-8-nhan-samsung-galaxy-a57-5g-den.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/Galaxy-A57-5G.jpg",
+        "assets/images/products/samsung/galaxy-a57-5g/thong-so-man-hinh-super-amoled-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/thong-so-noi-bat-samsung-galaxy-a57-5g-tim-den-trang.webp"
+      ],
+      "Tím": [
+        "assets/images/products/samsung/galaxy-a57-5g/anh-dai-dien-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-truoc-mat-sau-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/man-hinh-mat-truoc-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/canh-trai-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/Galaxy-A57-5G.jpg",
+        "assets/images/products/samsung/galaxy-a57-5g/thong-so-man-hinh-super-amoled-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/thong-so-noi-bat-samsung-galaxy-a57-5g-tim-den-trang.webp"
+      ],
+      "Trắng": [
+        "assets/images/products/samsung/galaxy-a57-5g/anh-dai-dien-samsung-galaxy-a57-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-truoc-mat-sau-samsung-galaxy-a57-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a57-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a57-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-samsung-galaxy-a57-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/canh-phai-samsung-galaxy-a57-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/canh-trai-samsung-galaxy-a57-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a57-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a57-5g-trang.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/Galaxy-A57-5G.jpg",
+        "assets/images/products/samsung/galaxy-a57-5g/thong-so-man-hinh-super-amoled-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/thong-so-noi-bat-samsung-galaxy-a57-5g-tim-den-trang.webp"
+      ],
+      "Xám": [
+        "assets/images/products/samsung/galaxy-a57-5g/anh-dai-dien-samsung-galaxy-a57-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-truoc-mat-sau-samsung-galaxy-a57-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a57-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-trai-samsung-galaxy-a57-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/mat-lung-samsung-galaxy-a57-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/canh-phai-samsung-galaxy-a57-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/canh-trai-samsung-galaxy-a57-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-phai-samsung-galaxy-a57-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/man-hinh-goc-nghieng-trai-samsung-galaxy-a57-5g-xam.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/05-feature.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/Galaxy-A57-5G.jpg",
+        "assets/images/products/samsung/galaxy-a57-5g/thong-so-man-hinh-super-amoled-samsung-galaxy-a57-5g-tim.webp",
+        "assets/images/products/samsung/galaxy-a57-5g/thong-so-noi-bat-samsung-galaxy-a57-5g-tim-den-trang.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/samsung/galaxy-a57-5g/mat-truoc-mat-sau-samsung-galaxy-a57-5g-den.webp",
+      "screen": "assets/images/products/samsung/galaxy-a57-5g/mat-truoc-mat-sau-samsung-galaxy-a57-5g-tim.webp",
+      "performance": "assets/images/products/samsung/galaxy-a57-5g/hieu-nang-vi-xu-ly-8-nhan-samsung-galaxy-a57-5g-den.webp",
+      "camera": "assets/images/products/samsung/galaxy-a57-5g/he-thong-camera-50mp-samsung-galaxy-a57-5g-den.webp",
+      "battery": "assets/images/products/samsung/galaxy-a57-5g/dung-luong-pin-5000mah-samsung-galaxy-a57-5g-den.webp",
+      "feature": "assets/images/products/samsung/galaxy-a57-5g/anh-dai-dien-samsung-galaxy-a57-5g-tim.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/samsung/galaxy-a57-5g/anh-dai-dien-samsung-galaxy-a57-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/anh-dai-dien-samsung-galaxy-a57-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/anh-dai-dien-samsung-galaxy-a57-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/mat-truoc-mat-sau-samsung-galaxy-a57-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/mat-truoc-mat-sau-samsung-galaxy-a57-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/mat-truoc-mat-sau-samsung-galaxy-a57-5g-trang.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/mat-truoc-mat-sau-samsung-galaxy-a57-5g-xam.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/man-hinh-mat-truoc-samsung-galaxy-a57-5g-tim.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a57-5g-den.webp",
+      "assets/images/products/samsung/galaxy-a57-5g/mat-lung-goc-nghieng-phai-samsung-galaxy-a57-5g-tim.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.samsung.com/vn/smartphones/",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-a",
+      "https://www.samsung.com/vn/smartphones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "verified",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT008-SSA575G",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "Super AMOLED+",
+      "Kích thước màn hình": "6,7 inch (tỷ lệ hiển thị ~88,8% mặt trước)",
+      "Độ phân giải màn hình": "Full HD+ (1080 x 2340 pixel, ~385 ppi)",
+      "Tần số quét": "120Hz",
+      "Kiểu màn hình": "Màn hình phẳng Infinity-O viền mỏng, kính Corning Gorilla Glass Victus+",
+      "Tính năng màn hình": "HDR10+, độ sáng 1.200 nit (HBM) / 1.900 nit (đỉnh), Vision Booster, bảo vệ mắt"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera: Chính 50MP (f/1.8, cảm biến lớn 1/1.56\", PDAF, chống rung OIS) + Góc siêu rộng 12MP (f/2.2, 13mm) + Macro 5MP (f/2.4)",
+      "Quay video": "4K@30fps, 1080p@30/60fps, chống rung quang học OIS kết hợp điện tử gyro-EIS",
+      "Tính năng camera": "Awesome Intelligence AI, Best Face, xóa vật thể Object Eraser, chụp đêm Nightography, HDR, Panorama"
+    },
+    "Camera trước": {
+      "Camera trước": "12MP (f/2.2, 1/3.2\"); hỗ trợ quay video 4K@30fps chuẩn 10-bit HDR"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Samsung Exynos 1680 (tiến trình 4nm)",
+      "Loại CPU": "8 nhân (1 nhân Cortex-A720 2,9 GHz + 4 nhân Cortex-A720 2,6 GHz + 3 nhân Cortex-A520 1,95 GHz)",
+      "GPU": "Samsung Xclipse 550"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB",
+      "Bộ nhớ trong": "2 phiên bản: 128GB và 256GB chuẩn UFS 3.1"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.000 mAh (Li-Ion)",
+      "Công nghệ sạc": "Sạc siêu nhanh có dây 45W (Super Fast Charging 2.0)",
+      "Cổng sạc": "USB Type-C 2.0, hỗ trợ OTG"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 16, giao diện One UI 8.5 (hỗ trợ cập nhật 6 thế hệ Android)",
+      "Công nghệ - Tiện ích": "Bộ tính năng AI Awesome Intelligence, Circle to Search, Best Face, Object Eraser",
+      "Tiện ích khác": "Bảo mật phần cứng Samsung Knox Vault, cảm biến vân tay dưới màn hình",
+      "Thời điểm ra mắt": "Tháng 03/2026 (Mở bán tháng 04/2026)"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G SA/NSA/Sub6 đa băng tần, LTE-A",
+      "Thẻ SIM": "SIM kép (Nano-SIM + eSIM hoặc 2 Nano-SIM)",
+      "Wi-Fi": "Wi-Fi 6E (802.11 a/b/g/n/ac/6e), Wi-Fi Direct",
+      "Bluetooth": "Bluetooth 6.0 (A2DP, LE)",
+      "Công nghệ NFC": "Có hỗ trợ NFC",
+      "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung hợp kim nhôm vát phẳng với cụm phím nổi Key Island",
+      "Chất liệu mặt lưng": "Hai mặt kính cường lực Corning Gorilla Glass Victus+",
+      "Kích thước": "161,5 x 76,8 x 6,9 mm (siêu mỏng 6,9 mm)",
+      "Trọng lượng": "179 gram",
+      "Chỉ số kháng nước, bụi": "IP68 theo tiêu chuẩn IEC 60529 (kháng nước ở độ sâu 1,5 mét trong 30 phút)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo, hỗ trợ Dolby Atmos",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình",
+      "Các loại cảm biến": "Vân tay dưới màn hình, Gia tốc kế, Con quay hồi chuyển, Cảm biến tiệm cận, La bàn số"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,7 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "Super AMOLED+"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "Full HD+ (1080 x 2340 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Samsung Exynos 1680 (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB LPDDR5"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB UFS 3.1"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính OIS + 12MP Ultra Wide + 5MP Macro"
+    },
+    {
+      "label": "Camera trước",
+      "value": "12MP, khẩu độ f/2.2, quay 4K 30fps (10-bit HDR)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc siêu nhanh có dây 45W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 16, One UI 8.5"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 (1,5 mét trong 30 phút)"
+    }
+  ],
+  "verbatimDescription": [
+    "Samsung Galaxy A57 5G thiết lập chuẩn mực mới cho phân khúc tầm trung - cận cao cấp năm 2026 khi thừa hưởng nhiều trang bị vốn chỉ có trên dòng flagship Galaxy S. Máy nổi bật với thân hình siêu mỏng chỉ 6,9 mm, trọng lượng nhẹ 179 gram cùng khung viền hợp kim nhôm và chuẩn kháng nước/bụi cao cấp IP68.",
+    "Hai mặt trước và sau của Galaxy A57 5G đều được bảo vệ bởi kính cường lực Corning Gorilla Glass Victus+ bền bỉ. Mặt trước là tấm nền Super AMOLED+ kích thước 6,7 inch độ phân giải Full HD+ (1080 x 2340 pixel), tần số quét 120Hz, chuẩn HDR10+ và độ sáng đỉnh lên tới 1.900 nit giúp nội dung hiển thị sống động, rực rỡ ngay cả dưới ánh nắng gắt.",
+    "Về hiệu năng, thiết bị được trang bị vi xử lý Samsung Exynos 1680 (tiến trình 4nm) với nhân hiệu năng cao Cortex-A720 tốc độ 2,9 GHz và GPU Xclipse 550, đạt hơn 1 triệu điểm AnTuTu v10. Đi kèm 8GB RAM và bộ nhớ trong chuẩn UFS 3.1 (128GB hoặc 256GB), Galaxy A57 5G xử lý mượt mà mọi tác vụ hàng ngày, chơi game ổn định và vận hành bộ công cụ AI Awesome Intelligence.",
+    "Hệ thống 3 camera sau trên Galaxy A57 5G bao gồm cảm biến chính 50MP (khẩu độ f/1.8, kích thước cảm biến lớn 1/1.56\", chống rung quang học OIS), camera góc siêu rộng 12MP (f/2.2) và camera chụp cận cảnh Macro 5MP (f/2.4). Camera trước 12MP hỗ trợ quay video 4K@30fps chuẩn 10-bit HDR, kết hợp các tính năng thông minh như Best Face và Object Eraser.",
+    "Dù sở hữu độ mỏng chỉ 6,9 mm, Galaxy A57 5G vẫn mang trong mình viên pin dung lượng lớn 5.000 mAh cùng công nghệ sạc siêu nhanh có dây 45W (Super Fast Charging 2.0), cho phép nạp đầy năng lượng nhanh chóng để sử dụng lên đến gần 2 ngày.",
+    "Cài sẵn Android 16 và giao diện One UI 8.5 với cam kết cập nhật tới 6 thế hệ hệ điều hành Android, kết nối 5G, Wi-Fi 6E, Bluetooth 6.0, eSIM, NFC và loa kép Stereo, Galaxy A57 5G là sự lựa chọn toàn diện và bền bỉ bậc nhất phân khúc dưới 10 triệu đồng."
+  ],
+  "priceSegment": "midrange"
+}

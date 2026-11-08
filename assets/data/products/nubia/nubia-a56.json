@@ -1,0 +1,455 @@
+{
+  "id": "nubia-a56",
+  "brand": "nubia",
+  "brandId": "nubia",
+  "parentGroupId": "nubia",
+  "model": "nubia A56",
+  "series": "nubia A Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "entry-level"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025 – 2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Ra mắt tháng 6/2025, nubia A56 là phiên bản nâng cấp bộ nhớ trong dòng A-Series phổ thông của ZTE nubia với dung lượng lưu trữ 128GB tiêu chuẩn, tùy chọn RAM 4GB/6GB (mở rộng lên tới 12GB/14GB), màn hình lớn 6,75 inch 90Hz có Live Island, camera trước nâng lên 8MP và viên pin 5.000 mAh chạy Android 15. (Nguồn tham chiếu: ZTE nubia Official - nubia A56).",
+    "highlights": [
+      "6,75 inch 90Hz",
+      "ROM 128GB / Android 15",
+      "Pin 5.000 mAh / Live Island"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 2990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT002-NBA56-VANG-4GB-128GB",
+      "color": "Vàng",
+      "colorHex": "#EAB308",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 2990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-a56/anh-dai-dien-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/mat-truoc-mat-sau-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/man-hinh-mat-truoc-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/thiet-ke-mat-lung-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/canh-duoi-cong-sac-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/canh-trai-canh-phai-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/canh-tren-canh-duoi-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/goc-nghieng-camera-sau-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/cum-camera-sau-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/trai-nghiem-chup-anh-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/nubia-A56.jpg"
+      ]
+    },
+    {
+      "sku": "DT002-NBA56-VANG-6GB-128GB",
+      "color": "Vàng",
+      "colorHex": "#EAB308",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 3390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-a56/anh-dai-dien-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/mat-truoc-mat-sau-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/man-hinh-mat-truoc-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/thiet-ke-mat-lung-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/canh-duoi-cong-sac-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/canh-trai-canh-phai-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/canh-tren-canh-duoi-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/goc-nghieng-camera-sau-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/cum-camera-sau-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/trai-nghiem-chup-anh-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/nubia-A56.jpg"
+      ]
+    },
+    {
+      "sku": "DT002-NBA56-DEN-4GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 2990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-a56/mat-truoc-mat-sau-nubia-a56-den.webp",
+        "assets/images/products/nubia/nubia-a56/man-hinh-mat-truoc-nubia-a56-den.webp",
+        "assets/images/products/nubia/nubia-a56/canh-trai-canh-phai-nubia-a56-den.webp",
+        "assets/images/products/nubia/nubia-a56/canh-tren-canh-duoi-nubia-a56-den.webp",
+        "assets/images/products/nubia/nubia-a56/goc-nghieng-camera-sau-nubia-a56-den.webp",
+        "assets/images/products/nubia/nubia-a56/cum-camera-sau-nubia-a56-den.webp",
+        "assets/images/products/nubia/nubia-a56/nubia-A56.jpg"
+      ]
+    },
+    {
+      "sku": "DT002-NBA56-DEN-6GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 3390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/nubia/nubia-a56/mat-truoc-mat-sau-nubia-a56-den.webp",
+        "assets/images/products/nubia/nubia-a56/man-hinh-mat-truoc-nubia-a56-den.webp",
+        "assets/images/products/nubia/nubia-a56/canh-trai-canh-phai-nubia-a56-den.webp",
+        "assets/images/products/nubia/nubia-a56/canh-tren-canh-duoi-nubia-a56-den.webp",
+        "assets/images/products/nubia/nubia-a56/goc-nghieng-camera-sau-nubia-a56-den.webp",
+        "assets/images/products/nubia/nubia-a56/cum-camera-sau-nubia-a56-den.webp",
+        "assets/images/products/nubia/nubia-a56/nubia-A56.jpg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "IPS LCD 90Hz, độ sáng 500 nit",
+    "size": "6,75 inch",
+    "resolution": "1600 x 720 pixel (HD+, 260 ppi)",
+    "refreshRate": "90Hz",
+    "brightness": "Tần số quét 90Hz mượt mà, Live Island hiển thị cuộc gọi, pin và nhạc trực quan",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Unisoc T7200 8 nhân (12nm)",
+    "cpu": "CPU 8 nhân: 2 nhân Cortex-A75 (1,6 GHz) + 6 nhân Cortex-A55 (1,6 GHz)",
+    "gpu": "ARM Mali-G57 MP1",
+    "ram": [
+      "4GB",
+      "6GB"
+    ],
+    "storage": [
+      "128GB"
+    ],
+    "operatingSystem": "Android 15 (Giao diện MyOS 15)",
+    "uiVersion": "Android",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "13MP / 50MP AI Dual Camera kèm đèn flash LED",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "Quay video Full HD 1080p ở 30fps, HD 720p ở 30fps"
+    ],
+    "aiFeatures": [
+      "Chụp đêm Night Mode, Chân dung AI, HDR, Panorama, Nhận diện cảnh vật AI"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "8MP Selfie, quay video 1080p",
+    "features": [
+      "Camera Selfie 8MP (khẩu độ ƒ/2.0), hỗ trợ làm đẹp chân dung AI và mở khóa bằng khuôn mặt"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "5.000 mAh",
+    "wiredCharging": "Sạc 10W / 18W qua cổng USB Type-C",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc có dây qua cổng USB Type-C kèm thuật toán quản lý năng lượng AI"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM vật lý + 1 khe thẻ nhớ MicroSD"
+    ],
+    "network": [
+      "4G LTE"
+    ],
+    "wifi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép (2.4GHz & 5GHz)",
+    "bluetooth": "Bluetooth 5.2 hỗ trợ A2DP, LE",
+    "gps": [
+      "GPS, GLONASS, GALILEO"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": false
+  },
+  "design": {
+    "dimensions": "167,6 x 77,4 x 8,3 mm",
+    "weight": "193 gram",
+    "materials": [
+      "Khung phẳng vát cạnh hiện đại",
+      "Mặt lưng hoàn thiện nhám mờ chống bám mồ hôi và vân tay"
+    ],
+    "waterResistance": "IP54 kháng bụi và nước bắn",
+    "availableColors": [
+      "Vàng",
+      "Đen"
+    ]
+  },
+  "audio": {
+    "speakers": "Hệ thống âm thanh tinh chỉnh bởi DTS, tích hợp giắc tai nghe 3.5mm",
+    "headphoneJack": true,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "LCD 6.75 inch"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền nubia tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/nubia/nubia-a56/anh-dai-dien-nubia-a56-vang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/nubia/nubia-a56/anh-dai-dien-nubia-a56-vang.webp",
+      "assets/images/products/nubia/nubia-a56/mat-truoc-mat-sau-nubia-a56-den.webp",
+      "assets/images/products/nubia/nubia-a56/mat-truoc-mat-sau-nubia-a56-vang.webp",
+      "assets/images/products/nubia/nubia-a56/man-hinh-mat-truoc-nubia-a56-den.webp",
+      "assets/images/products/nubia/nubia-a56/man-hinh-mat-truoc-nubia-a56-vang.webp",
+      "assets/images/products/nubia/nubia-a56/thiet-ke-mat-lung-nubia-a56-vang.webp",
+      "assets/images/products/nubia/nubia-a56/canh-duoi-cong-sac-nubia-a56-vang.webp",
+      "assets/images/products/nubia/nubia-a56/canh-trai-canh-phai-nubia-a56-den.webp",
+      "assets/images/products/nubia/nubia-a56/canh-trai-canh-phai-nubia-a56-vang.webp",
+      "assets/images/products/nubia/nubia-a56/canh-tren-canh-duoi-nubia-a56-den.webp",
+      "assets/images/products/nubia/nubia-a56/canh-tren-canh-duoi-nubia-a56-vang.webp",
+      "assets/images/products/nubia/nubia-a56/goc-nghieng-camera-sau-nubia-a56-den.webp",
+      "assets/images/products/nubia/nubia-a56/goc-nghieng-camera-sau-nubia-a56-vang.webp",
+      "assets/images/products/nubia/nubia-a56/cum-camera-sau-nubia-a56-den.webp",
+      "assets/images/products/nubia/nubia-a56/cum-camera-sau-nubia-a56-vang.webp",
+      "assets/images/products/nubia/nubia-a56/nubia-A56.jpg",
+      "assets/images/products/nubia/nubia-a56/trai-nghiem-chup-anh-nubia-a56-vang.webp"
+    ],
+    "byColor": {
+      "Vàng": [
+        "assets/images/products/nubia/nubia-a56/anh-dai-dien-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/mat-truoc-mat-sau-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/man-hinh-mat-truoc-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/thiet-ke-mat-lung-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/canh-duoi-cong-sac-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/canh-trai-canh-phai-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/canh-tren-canh-duoi-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/goc-nghieng-camera-sau-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/cum-camera-sau-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/trai-nghiem-chup-anh-nubia-a56-vang.webp",
+        "assets/images/products/nubia/nubia-a56/nubia-A56.jpg"
+      ],
+      "Đen": [
+        "assets/images/products/nubia/nubia-a56/mat-truoc-mat-sau-nubia-a56-den.webp",
+        "assets/images/products/nubia/nubia-a56/man-hinh-mat-truoc-nubia-a56-den.webp",
+        "assets/images/products/nubia/nubia-a56/canh-trai-canh-phai-nubia-a56-den.webp",
+        "assets/images/products/nubia/nubia-a56/canh-tren-canh-duoi-nubia-a56-den.webp",
+        "assets/images/products/nubia/nubia-a56/goc-nghieng-camera-sau-nubia-a56-den.webp",
+        "assets/images/products/nubia/nubia-a56/cum-camera-sau-nubia-a56-den.webp",
+        "assets/images/products/nubia/nubia-a56/nubia-A56.jpg"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/nubia/nubia-a56/mat-truoc-mat-sau-nubia-a56-den.webp",
+      "screen": "assets/images/products/nubia/nubia-a56/mat-truoc-mat-sau-nubia-a56-vang.webp",
+      "performance": "assets/images/products/nubia/nubia-a56/goc-nghieng-camera-sau-nubia-a56-den.webp",
+      "camera": "assets/images/products/nubia/nubia-a56/goc-nghieng-camera-sau-nubia-a56-vang.webp",
+      "battery": "assets/images/products/nubia/nubia-a56/canh-duoi-cong-sac-nubia-a56-vang.webp",
+      "feature": "assets/images/products/nubia/nubia-a56/canh-trai-canh-phai-nubia-a56-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/nubia/nubia-a56/mat-truoc-mat-sau-nubia-a56-den.webp",
+      "assets/images/products/nubia/nubia-a56/mat-truoc-mat-sau-nubia-a56-vang.webp",
+      "assets/images/products/nubia/nubia-a56/man-hinh-mat-truoc-nubia-a56-den.webp",
+      "assets/images/products/nubia/nubia-a56/man-hinh-mat-truoc-nubia-a56-vang.webp",
+      "assets/images/products/nubia/nubia-a56/thiet-ke-mat-lung-nubia-a56-vang.webp",
+      "assets/images/products/nubia/nubia-a56/canh-duoi-cong-sac-nubia-a56-vang.webp",
+      "assets/images/products/nubia/nubia-a56/canh-trai-canh-phai-nubia-a56-den.webp",
+      "assets/images/products/nubia/nubia-a56/canh-trai-canh-phai-nubia-a56-vang.webp",
+      "assets/images/products/nubia/nubia-a56/canh-tren-canh-duoi-nubia-a56-den.webp",
+      "assets/images/products/nubia/nubia-a56/canh-tren-canh-duoi-nubia-a56-vang.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-nubia",
+      "https://www.nubia.com/vn/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "partial_retail_listing",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT002-NBA56",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "IPS LCD 90Hz, độ sáng 500 nit",
+      "Kích thước màn hình": "6,75 inch",
+      "Độ phân giải màn hình": "1600 x 720 pixel (HD+, 260 ppi)",
+      "Tần số quét": "90Hz",
+      "Kiểu màn hình": "Màn hình phẳng rộng rãi tích hợp giao diện Live Island",
+      "Tính năng màn hình": "Tần số quét 90Hz mượt mà, Live Island hiển thị cuộc gọi, pin và nhạc trực quan"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera kép AI: Camera chính 13MP (khẩu độ ƒ/2.2, AF) + Cảm biến phụ AI hỗ trợ xóa phông và tối ưu hóa bối cảnh chụp",
+      "Quay video": "Quay video Full HD 1080p ở 30fps, HD 720p ở 30fps",
+      "Tính năng camera": "Chụp đêm Night Mode, Chân dung AI, HDR, Panorama, Nhận diện cảnh vật AI"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera Selfie 8MP (khẩu độ ƒ/2.0), hỗ trợ làm đẹp chân dung AI và mở khóa bằng khuôn mặt"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Unisoc T7200 8 nhân (12nm)",
+      "Loại CPU": "CPU 8 nhân: 2 nhân Cortex-A75 (1,6 GHz) + 6 nhân Cortex-A55 (1,6 GHz)",
+      "GPU": "ARM Mali-G57 MP1"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "4GB / 6GB (+8GB Dynamic RAM mở rộng)",
+      "Bộ nhớ trong": "128GB chuẩn bộ nhớ tốc độ cao (Hỗ trợ MicroSD 1TB)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.000 mAh (Pin Li-Po bền bỉ sử dụng lên đến 2 ngày)",
+      "Công nghệ sạc": "Sạc có dây qua cổng USB Type-C kèm thuật toán quản lý năng lượng AI",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 15 (Giao diện MyOS 15)",
+      "Công nghệ - Tiện ích": "Live Island thông báo động, Dynamic RAM mở rộng bộ nhớ đa nhiệm",
+      "Tiện ích khác": "Giắc cắm tai nghe 3.5mm, âm thanh DTS, khay SIM 3-trong-1",
+      "Thời điểm ra mắt": "Tháng 06/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "4G LTE",
+      "Thẻ SIM": "2 Nano-SIM vật lý + 1 khe thẻ nhớ MicroSD",
+      "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép (2.4GHz & 5GHz)",
+      "Bluetooth": "Bluetooth 5.2 hỗ trợ A2DP, LE",
+      "Công nghệ NFC": "Không hỗ trợ NFC",
+      "GPS": "GPS, GLONASS, GALILEO"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung phẳng vát cạnh hiện đại",
+      "Chất liệu mặt lưng": "Mặt lưng hoàn thiện nhám mờ chống bám mồ hôi và vân tay",
+      "Kích thước": "167,6 x 77,4 x 8,3 mm",
+      "Trọng lượng": "193 gram",
+      "Chỉ số kháng nước, bụi": "Thiết kế kháng bụi và tia nước bắn sinh hoạt chuẩn IP54"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống âm thanh tinh chỉnh bởi DTS, tích hợp giắc tai nghe 3.5mm",
+      "Cảm biến vân tay": "Cảm biến vân tay tích hợp phím nguồn cạnh bên + Mở khóa khuôn mặt",
+      "Các loại cảm biến": "Gia tốc kế, Cảm biến tiệm cận, Cảm biến ánh sáng"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,75 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "IPS LCD 90Hz, độ sáng 500 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "1600 x 720 pixel (HD+, 260 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "90Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Unisoc T7200 8 nhân (12nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "4GB / 6GB (+8GB Dynamic RAM mở rộng)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB chuẩn bộ nhớ tốc độ cao (Hỗ trợ MicroSD 1TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "13MP / 50MP AI Dual Camera kèm đèn flash LED"
+    },
+    {
+      "label": "Camera trước",
+      "value": "8MP Selfie, quay video 1080p"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc 10W / 18W qua cổng USB Type-C"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 15 (Giao diện MyOS 15)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "4G LTE"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP54 kháng bụi và nước bắn"
+    }
+  ],
+  "verbatimDescription": [
+    "Ra mắt tháng 6/2025, nubia A56 là phiên bản nâng cấp bộ nhớ trong dòng A-Series phổ thông của ZTE nubia với dung lượng lưu trữ 128GB tiêu chuẩn, tùy chọn RAM 4GB/6GB (mở rộng lên tới 12GB/14GB), màn hình lớn 6,75 inch 90Hz có Live Island, camera trước nâng lên 8MP và viên pin 5.000 mAh chạy Android 15. Tại AURIX MOBILE, nubia A56 mang lại không gian lưu trữ rộng rãi trong tầm giá phổ thông.",
+    "nubia A56 sở hữu thiết kế khung viền phẳng thanh lịch, mặt lưng nhám mờ hạn chế bám vân tay và đạt chuẩn kháng bụi nước nhẹ IP54.",
+    "Màn hình lớn 6,75 inch IPS LCD (1600 x 720 pixel) tần số quét 90Hz tích hợp tính năng Live Island hiển thị thông báo cuộc gọi, hẹn giờ và trạng thái sạc sinh động.",
+    "So với bản A36, nubia A56 nâng cấp camera selfie lên 8MP cho chất lượng gọi video sắc nét hơn, kết hợp cụm camera kép AI phía sau hỗ trợ chụp đêm và xóa phông chân dung.",
+    "Vi xử lý 8 nhân Unisoc T7200 đi kèm RAM 4GB/6GB (+8GB Dynamic RAM) và bộ nhớ trong 128GB giúp lưu trữ thoải mái hàng ngàn bức ảnh và ứng dụng trên Android 15.",
+    "Viên pin 5.000 mAh kết hợp âm thanh DTS, cảm biến vân tay cạnh bên và cổng tai nghe 3.5mm đáp ứng bền bỉ nhu cầu sử dụng suốt cả ngày dài."
+  ],
+  "priceSegment": "entry-level"
+}

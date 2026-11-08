@@ -1,0 +1,351 @@
+{
+  "id": "redmi-note-15-pro-5g",
+  "brand": "Redmi",
+  "brandId": "redmi",
+  "parentGroupId": "xiaomi_group",
+  "model": "Redmi Note 15 Pro 5G",
+  "series": "Redmi Note",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "midrange",
+    "5g-ready"
+  ],
+  "status": "needs_verification",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Redmi Note 15 Pro 5G tạo dấu ấn mạnh mẽ với màn hình lớn 6,83 inch 1.5K AMOLED độ sáng 3.200 nit, viên pin Silicon-Carbon lên tới 7.000 mAh gói gọn trong thân máy mỏng 7,78mm (kèm sạc ngược 22,5W), vi xử lý Dimensity 7400-Ultra (4nm) và chuẩn kháng nước bụi cao cấp nhất IP68/IP69K.",
+    "highlights": [
+      "Viên pin Silicon-Carbon 7.000 mAh sạc nhanh 45W kiêm sạc ngược 22,5W trong thân máy mỏng 7,78mm",
+      "Màn hình 6,83 inch 1.5K AMOLED 120Hz độ sáng đỉnh 3.200 nit bảo vệ bởi kính Dragon Crystal",
+      "Vi xử lý Dimensity 7400-Ultra (4nm), camera 50MP Sony LYT-600 f/1.5 OIS và kháng nước IP68/IP69K"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": null,
+    "originalPrice": null,
+    "promotionPrice": null,
+    "priceUpdatedAt": "2026-11-01",
+    "priceVerified": false
+  },
+  "variants": [
+    {
+      "sku": "AUR-RED-NOTE-15-PRO-5G-8GB-256GB-01",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "256GB",
+      "price": null,
+      "originalPrice": null,
+      "stockStatus": "needs_verification",
+      "images": [
+        "assets/images/placeholders/placeholder-default.svg"
+      ]
+    },
+    {
+      "sku": "AUR-RED-NOTE-15-PRO-5G-12GB-256GB-02",
+      "color": "Xanh",
+      "colorHex": "#3B82F6",
+      "ram": "12GB",
+      "storage": "256GB",
+      "price": null,
+      "originalPrice": null,
+      "stockStatus": "needs_verification",
+      "images": [
+        "assets/images/placeholders/placeholder-default.svg"
+      ]
+    },
+    {
+      "sku": "AUR-RED-NOTE-15-PRO-5G-12GB-512GB-03",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "12GB",
+      "storage": "512GB",
+      "price": null,
+      "originalPrice": null,
+      "stockStatus": "needs_verification",
+      "images": [
+        "assets/images/placeholders/placeholder-default.svg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "AMOLED 1.5K 120Hz Dolby Vision",
+    "size": "6,83 inch",
+    "resolution": "1.5K (2772 x 1280 pixel)",
+    "refreshRate": "120Hz",
+    "brightness": "Độ sáng đỉnh 3.200 nit, cảm ứng thông minh dưới mưa Wet Touch 2.0, đạt 3 chứng nhận bảo vệ mắt TÜV Rheinland",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "MediaTek Dimensity 7400-Ultra (tiến trình TSMC 4nm hiệu suất cao và mát mẻ)",
+    "cpu": "CPU 8 nhân (4 nhân hiệu năng cao Cortex-A78 xung nhịp lên tới 2.6GHz + 4 nhân tiết kiệm điện Cortex-A55 xung nhịp 2.0GHz)",
+    "gpu": "ARM Mali-G615 MC2",
+    "ram": [
+      "8GB",
+      "12GB"
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ],
+    "operatingSystem": "Xiaomi HyperOS 2.0 dựa trên Android 15",
+    "uiVersion": "Xiaomi HyperOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Sony LYT-600 (ƒ/1.5, OIS) + 8MP Siêu rộng + 2MP Macro",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "Quay video 4K ở 24/30 fps; 1080p ở 30/60/120 fps; chống rung kép OIS + EIS"
+    ],
+    "aiFeatures": [
+      "Xiaomi Imaging Brain, Chụp đêm RAW Night Mode, Chân dung AI, AI Erase Pro, AI Image Expansion, Live Photo"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "20MP (ƒ/2.2)",
+    "features": [
+      "Camera selfie 20MP OmniVision OV20B (khẩu độ ƒ/2.2), hỗ trợ HDR và quay video 1080p@30/60fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "7.000 mAh",
+    "wiredCharging": "Sạc nhanh Turbo 45W | Sạc ngược 22.5W",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": "Sạc nhanh Turbo 45W qua cổng USB Type-C, hỗ trợ sạc ngược có dây công suất cao 22,5W | Không hỗ trợ sạc không dây"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano SIM"
+    ],
+    "network": [
+      "5G Sub-6GHz Dual SIM"
+    ],
+    "wifi": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax, 2x2 MIMO)",
+    "bluetooth": "Bluetooth 5.4",
+    "gps": [
+      "GPS, GLONASS, Galileo, BDS, QZSS"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "163,6 x 78,1 x 7,78 mm",
+    "weight": "210,5 gram",
+    "materials": [
+      "Khung viền gia cường kiến trúc chống rơi vỡ trên nền đá hoa cương",
+      "Mặt lưng sợi thủy tinh siêu bền mỏng nhẹ (Đen, Xanh, Tím, Trắng)"
+    ],
+    "waterResistance": "Kháng nước & bụi IP68/IP69K",
+    "availableColors": [
+      "Đen",
+      "Xanh",
+      "Tím"
+    ]
+  },
+  "audio": {
+    "speakers": "Hệ thống loa kép Stereo đối xứng chuẩn Dolby Atmos, Hi-Res Audio, chế độ tăng âm lượng 400%",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "AMOLED 6.83 inch"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Redmi tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/placeholders/placeholder-default.svg",
+    "hasAvatarNamed": false,
+    "gallery": [
+      "assets/images/placeholders/placeholder-default.svg"
+    ],
+    "byColor": {},
+    "bySection": {
+      "performance": "assets/images/placeholders/placeholder-default.svg"
+    }
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-xiaomi",
+      "https://www.mi.com/vn/phone/#redmi"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "partial_retail_listing",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "verbatimDescription": [
+    "Redmi Note 15 Pro 5G nâng cấp toàn diện ba trụ cột quan trọng nhất của dòng Redmi Note: kích thước màn hình, thời lượng pin và độ bền vật lý. Mặt trước của máy được mở rộng lên 6,83 inch với độ phân giải 1.5K (2772 x 1280 pixel) sắc nét, độ sáng đỉnh 3.200 nit và viền cong nhẹ bốn cạnh tạo cảm giác vuốt chạm liền lạc.",
+    "Điểm đột phá lớn nhất là viên pin Xiaomi Surge Silicon-Carbon dung lượng lên tới 7.000 mAh nhưng thân máy vẫn giữ độ mỏng đáng kinh ngạc chỉ 7,78 mm. Không chỉ đáp ứng hơn 2 ngày sử dụng nặng, máy còn hỗ trợ sạc ngược có dây công suất tới 22,5W để sạc nhanh cho điện thoại khác hay tai nghe không dây.",
+    "Độ bền của Redmi Note 15 Pro 5G đạt chuẩn mực cao nhất với kính cường lực Dragon Crystal / Victus 2 kết hợp chuẩn kháng nước bụi IP66/IP68/IP69/IP69K, chịu được cả tia nước nóng áp lực cao.",
+    "Về hiệu năng và nhiếp ảnh, vi xử lý MediaTek Dimensity 7400-Ultra (4nm) xung nhịp 2.6GHz phối hợp cùng camera chính 50MP Sony LYT-600 khẩu độ siêu lớn f/1.5 có chống rung OIS mang lại trải nghiệm chụp đêm và quay phim 4K ấn tượng.",
+    "Hệ thống loa kép Stereo đối xứng có khả năng khuếch đại âm lượng tới 400%, đi kèm kết nối Wi-Fi 6, NFC và cổng hồng ngoại IR Blaster."
+  ],
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,83 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "AMOLED 1.5K 120Hz Dolby Vision"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "1.5K (2772 x 1280 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 7400-Ultra (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB / 12GB LPDDR4X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB / 512GB UFS 2.2"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Sony LYT-600 (ƒ/1.5, OIS) + 8MP Siêu rộng + 2MP Macro"
+    },
+    {
+      "label": "Camera trước",
+      "value": "20MP (ƒ/2.2)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "7.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh Turbo 45W | Sạc ngược 22.5W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS 2.0 (Android 15)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G Sub-6GHz Dual SIM"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "Kháng nước & bụi IP68/IP69K"
+    }
+  ],
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "CrystalRes 1.5K AMOLED 12-bit (68,7 tỷ màu), hỗ trợ Dolby Vision, HDR10+, làm mờ 3840Hz PWM Dimming",
+      "Kích thước màn hình": "6,83 inch",
+      "Độ phân giải màn hình": "2772 x 1280 pixel (chuẩn 1.5K, mật độ điểm ảnh ~447 ppi)",
+      "Tần số quét": "120Hz (tần số lấy mẫu cảm ứng tức thời 2560Hz)",
+      "Kiểu màn hình": "Màn hình cong viền mỏng đối xứng 4 cạnh, bảo vệ bởi kính cường lực Xiaomi Dragon Crystal Glass / Gorilla Glass Victus 2",
+      "Tính năng màn hình": "Độ sáng đỉnh 3.200 nit, cảm ứng thông minh dưới mưa Wet Touch 2.0, đạt 3 chứng nhận bảo vệ mắt TÜV Rheinland"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera: Camera chính 50MP cảm biến Sony LYT-600 (kích thước 1/1.95 inch, khẩu độ ƒ/1.5, chống rung quang học OIS, zoom cảm biến 2x) + Camera góc siêu rộng 8MP (khẩu độ ƒ/2.2, góc nhìn 120°) + Camera Macro 2MP",
+      "Quay video": "Quay video 4K ở 24/30 fps; 1080p ở 30/60/120 fps; chống rung kép OIS + EIS",
+      "Tính năng camera": "Xiaomi Imaging Brain, Chụp đêm RAW Night Mode, Chân dung AI, AI Erase Pro, AI Image Expansion, Live Photo"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera selfie 20MP OmniVision OV20B (khẩu độ ƒ/2.2), hỗ trợ HDR và quay video 1080p@30/60fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Dimensity 7400-Ultra (tiến trình TSMC 4nm hiệu suất cao và mát mẻ)",
+      "Loại CPU": "CPU 8 nhân (4 nhân hiệu năng cao Cortex-A78 xung nhịp lên tới 2.6GHz + 4 nhân tiết kiệm điện Cortex-A55 xung nhịp 2.0GHz)",
+      "GPU": "ARM Mali-G615 MC2"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB / 12GB (hỗ trợ mở rộng RAM ảo thêm tối đa 12GB)",
+      "Bộ nhớ trong": "256GB / 512GB"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "7.000 mAh (Pin Xiaomi Surge Silicon-Carbon mật độ cao giữ trên 80% dung lượng sau 1.600 chu kỳ sạc)",
+      "Công nghệ sạc": "Sạc nhanh Turbo 45W qua cổng USB Type-C, hỗ trợ sạc ngược có dây công suất cao 22,5W | Không hỗ trợ sạc không dây",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS 2.0 dựa trên Android 15",
+      "Công nghệ - Tiện ích": "Sạc ngược 22,5W như pin dự phòng, Circle to Search, AI Erase Pro, Cổng hồng ngoại IR Blaster",
+      "Tiện ích khác": "Đạt chuẩn kháng nước áp suất cao IP66/IP68/IP69/IP69K kết hợp kính Dragon Crystal trong thân máy mỏng 7,78mm",
+      "Thời điểm ra mắt": "08/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G Sub-6GHz (SA/NSA), Dual 5G Standby",
+      "Thẻ SIM": "2 Nano SIM",
+      "Wi-Fi": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax, 2x2 MIMO)",
+      "Bluetooth": "Bluetooth 5.4",
+      "Công nghệ NFC": "Có hỗ trợ đầy đủ",
+      "GPS": "GPS, GLONASS, Galileo, BDS, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền gia cường kiến trúc chống rơi vỡ trên nền đá hoa cương",
+      "Chất liệu mặt lưng": "Mặt lưng sợi thủy tinh siêu bền mỏng nhẹ (Đen, Xanh, Tím, Trắng)",
+      "Kích thước": "163,6 x 78,1 x 7,78 mm",
+      "Trọng lượng": "210,5 gram",
+      "Chỉ số kháng nước, bụi": "Chuẩn IP66 / IP68 / IP69 / IP69K (kháng bụi tuyệt đối, chịu ngâm nước sâu 2m và tia nước nóng áp lực cao)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo đối xứng chuẩn Dolby Atmos, Hi-Res Audio, chế độ tăng âm lượng 400%",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình & Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Cảm biến ánh sáng, Cảm biến tiệm cận, La bàn điện tử, Hồng ngoại IR"
+    }
+  }
+}

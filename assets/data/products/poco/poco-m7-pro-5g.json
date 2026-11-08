@@ -1,0 +1,323 @@
+{
+  "id": "poco-m7-pro-5g",
+  "brand": "POCO",
+  "brandId": "poco",
+  "parentGroupId": "xiaomi_group",
+  "model": "POCO M7 Pro 5G",
+  "series": "POCO M",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "midrange",
+    "5g-ready"
+  ],
+  "status": "needs_verification",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 19,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "POCO M7 Pro 5G mang đến loạt trang bị vượt trội trong tầm giá phổ thông 5G với màn hình AMOLED 120Hz độ sáng đỉnh 2.100 nit, camera chính 50MP cảm biến Sony LYT-600 khẩu độ siêu lớn f/1.5 có chống rung OIS và vi xử lý Dimensity 7025-Ultra đi kèm pin 5.110 mAh sạc nhanh 45W.",
+    "highlights": [
+      "Camera chính 50MP Sony LYT-600 khẩu độ cực lớn f/1.5 tích hợp chống rung quang học OIS",
+      "Màn hình 6,67 inch AMOLED FHD+ 120Hz độ sáng đỉnh 2.100 nit, tích hợp vân tay dưới màn hình",
+      "Hiệu năng 5G mượt mà với Dimensity 7025-Ultra (6nm), loa kép Dolby Atmos và sạc nhanh 45W"
+    ],
+    "officialDistribution": "Model được bảo lưu từ danh sách trước nhưng chưa đủ bằng chứng đang mở bán chính thức trong lượt đối chiếu ngày 01/11/2026; giữ trạng thái needs_verification để không mất dấu dữ liệu."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": null,
+    "originalPrice": null,
+    "promotionPrice": null,
+    "priceUpdatedAt": "2026-11-01",
+    "priceVerified": false
+  },
+  "variants": [
+    {
+      "sku": "AUR-POC-M7-PRO-5G-RAM-STD-01",
+      "color": "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)",
+      "colorHex": "#102347",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "price": null,
+      "originalPrice": null,
+      "stockStatus": "needs_verification",
+      "images": [
+        "assets/images/placeholders/placeholder-default.svg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "AMOLED FHD+ 120Hz",
+    "size": "6,67 inch",
+    "resolution": "FHD+ (2400 x 1080 pixel)",
+    "refreshRate": "120Hz",
+    "brightness": "Độ sáng đỉnh 2.100 nit, cảm ứng thông minh khi tay ướt Wet Touch, 3 chứng nhận bảo vệ mắt TÜV Rheinland và SGS",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "MediaTek Dimensity 7025-Ultra (tiến trình 6nm hỗ trợ 5G tốc độ cao)",
+    "cpu": "CPU 8 nhân (2 nhân hiệu năng cao Cortex-A78 xung nhịp 2.5GHz + 6 nhân tiết kiệm điện Cortex-A55 xung nhịp 2.0GHz)",
+    "gpu": "IMG BXM-8-256",
+    "ram": [
+      "6GB"
+    ],
+    "storage": [
+      "128GB"
+    ],
+    "operatingSystem": "Xiaomi HyperOS (Android 14, nâng cấp Android 15)",
+    "uiVersion": "Xiaomi HyperOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Sony LYT-600 (ƒ/1.5, OIS) + 2MP Xóa phông",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "Quay video 1080p Full HD ở 30 fps; 720p HD ở 30 fps; chống rung kép OIS + EIS"
+    ],
+    "aiFeatures": [
+      "Thuật toán POCO Imaging Engine, Chế độ chụp đêm RAW Domain Ultra-Sense Night, Zoom 2x không suy giảm chất lượng, Xóa vật thể AI Erase, Bầu trời AI Sky"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "20MP (ƒ/2.2)",
+    "features": [
+      "Camera selfie 20MP (khẩu độ ƒ/2.2, tự động chuyển góc rộng 0.8x khi chụp selfie nhóm), hỗ trợ quay video 1080p@30fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "5.110 mAh",
+    "wiredCharging": "Sạc nhanh Turbo 45W",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc nhanh Turbo Charging 45W (sạc 60% chỉ trong khoảng 30 phút) | Không hỗ trợ sạc không dây"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano SIM (hoặc 1 Nano SIM + 1 thẻ nhớ microSD)"
+    ],
+    "network": [
+      "5G Sub-6GHz Dual SIM"
+    ],
+    "wifi": "Wi-Fi 5 (802.11 a/b/g/n/ac, băng tần kép 2.4GHz / 5GHz)",
+    "bluetooth": "Bluetooth 5.3",
+    "gps": [
+      "GPS, GLONASS, Galileo, BDS"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "162,4 x 75,7 x 7,99 mm",
+    "weight": "190 gram",
+    "materials": [
+      "Khung viền phẳng hợp chất polycarbonate cứng cáp",
+      "Mặt lưng hoàn thiện hiệu ứng vân đá hai tông màu sang trọng, bo cong nhẹ 2 cạnh bên"
+    ],
+    "waterResistance": "Kháng nước & bụi IP64",
+    "availableColors": [
+      "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)"
+    ]
+  },
+  "audio": {
+    "speakers": "Hệ thống loa kép Stereo hỗ trợ Dolby Atmos, Hi-Res Audio, chế độ tăng âm lượng 300% và cổng tai nghe 3.5mm",
+    "headphoneJack": true,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "POCO M",
+    "POCO",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền POCO tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/placeholders/placeholder-default.svg",
+    "hasAvatarNamed": false,
+    "gallery": [
+      "assets/images/placeholders/placeholder-default.svg"
+    ],
+    "byColor": {},
+    "bySection": {
+      "performance": "assets/images/placeholders/placeholder-default.svg"
+    }
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-xiaomi-poco",
+      "https://www.po.co/global/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "needs_verification",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Cần xác minh thêm",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "verbatimDescription": [
+    "POCO M7 Pro 5G thiết lập tiêu chuẩn giải trí và nhiếp ảnh mới cho dòng POCO M-Series khi mang nhiều tính năng của phân khúc tầm trung xuống mức giá dễ tiếp cận. Mặt trước của máy là tấm nền AMOLED 6,67 inch Full HD+ tần số quét 120Hz với độ sáng đỉnh lên tới 2.100 nit, cho khả năng hiển thị rực rỡ dưới ánh nắng gắt cùng viền màn hình mỏng ấn tượng.",
+    "Điểm nâng cấp đắt giá nhất nằm ở camera chính 50MP sử dụng cảm biến Sony LYT-600 kết hợp chống rung quang học OIS và khẩu độ lớn hiếm có f/1.5. Khẩu độ f/1.5 cho phép thu nhận lượng ánh sáng vượt trội khi chụp đêm và tái tạo hiệu ứng xóa phông quang học tự nhiên khi chụp cận cảnh hoặc chân dung 2x.",
+    "Về sức mạnh vận hành, vi xử lý MediaTek Dimensity 7025-Ultra tiến trình 6nm với hai nhân Cortex-A78 xung nhịp 2.5GHz mang lại kết nối 5G tốc độ cao và khả năng xử lý trơn tru mọi tác vụ giải trí, chơi game phổ biến hàng ngày.",
+    "Trải nghiệm nghe nhìn càng thêm trọn vẹn nhờ hệ thống loa kép Stereo hỗ trợ công nghệ âm thanh vòm Dolby Atmos, chế độ khuếch đại âm lượng 300% và sự hiện diện của giắc cắm tai nghe 3.5mm truyền thống.",
+    "Viên pin 5.110 mAh kết hợp sạc nhanh Turbo 45W giúp nạp lại 60% năng lượng chỉ trong 30 phút. Máy còn sở hữu cảm biến vân tay ngay dưới màn hình, kính cường lực Gorilla Glass 5 và chuẩn kháng bụi nước IP64 bền bỉ."
+  ],
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,67 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "AMOLED FHD+ 120Hz"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "FHD+ (2400 x 1080 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 7025-Ultra (6nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "6GB / 8GB / 12GB LPDDR4X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB UFS 2.2"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Sony LYT-600 (ƒ/1.5, OIS) + 2MP Xóa phông"
+    },
+    {
+      "label": "Camera trước",
+      "value": "20MP (ƒ/2.2)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.110 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh Turbo 45W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS (Android 14/15)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G Sub-6GHz Dual SIM"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "Kháng nước & bụi IP64"
+    }
+  ],
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "GOLED / AMOLED 120Hz, hỗ trợ HDR10+, dải màu 100% DCI-P3, làm mờ 2160Hz PWM Dimming bảo vệ mắt",
+      "Kích thước màn hình": "6,67 inch (viền màn hình mỏng với tỷ lệ hiển thị ~92%)",
+      "Độ phân giải màn hình": "2400 x 1080 pixel (Full HD+, mật độ điểm ảnh ~395 ppi)",
+      "Tần số quét": "120Hz (tần số lấy mẫu cảm ứng tức thời 2160Hz)",
+      "Kiểu màn hình": "Màn hình phẳng đục lỗ, bảo vệ bởi kính cường lực Corning Gorilla Glass 5",
+      "Tính năng màn hình": "Độ sáng đỉnh 2.100 nit, cảm ứng thông minh khi tay ướt Wet Touch, 3 chứng nhận bảo vệ mắt TÜV Rheinland và SGS"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera kép: Camera chính 50MP cảm biến Sony LYT-600 (kích thước 1/1.95 inch, khẩu độ siêu lớn ƒ/1.5, chống rung quang học OIS + EIS, zoom cảm biến 2x In-sensor Zoom) + Cảm biến đo độ sâu 2MP (khẩu độ ƒ/2.4)",
+      "Quay video": "Quay video 1080p Full HD ở 30 fps; 720p HD ở 30 fps; chống rung kép OIS + EIS",
+      "Tính năng camera": "Thuật toán POCO Imaging Engine, Chế độ chụp đêm RAW Domain Ultra-Sense Night, Zoom 2x không suy giảm chất lượng, Xóa vật thể AI Erase, Bầu trời AI Sky"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera selfie 20MP (khẩu độ ƒ/2.2, tự động chuyển góc rộng 0.8x khi chụp selfie nhóm), hỗ trợ quay video 1080p@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Dimensity 7025-Ultra (tiến trình 6nm hỗ trợ 5G tốc độ cao)",
+      "Loại CPU": "CPU 8 nhân (2 nhân hiệu năng cao Cortex-A78 xung nhịp 2.5GHz + 6 nhân tiết kiệm điện Cortex-A55 xung nhịp 2.0GHz)",
+      "GPU": "IMG BXM-8-256"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "6GB / 8GB / 12GB LPDDR4X (hỗ trợ mở rộng RAM ảo thêm tối đa 12GB)",
+      "Bộ nhớ trong": "128GB / 256GB chuẩn UFS 2.2 (hỗ trợ thẻ nhớ microSD mở rộng)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.110 mAh (Pin Li-Po bền bỉ đạt chứng nhận tuổi thọ TÜV SÜD sau 1.600 chu kỳ sạc)",
+      "Công nghệ sạc": "Sạc nhanh Turbo Charging 45W (sạc 60% chỉ trong khoảng 30 phút) | Không hỗ trợ sạc không dây",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS (Android 14, nâng cấp Android 15)",
+      "Công nghệ - Tiện ích": "Tăng cường âm lượng loa 300%, Cổng hồng ngoại IR Blaster, Mở rộng bộ nhớ RAM, Game Turbo",
+      "Tiện ích khác": "Giữ lại giắc cắm tai nghe 3.5mm, tích hợp vân tay dưới màn hình",
+      "Thời điểm ra mắt": "12/2024"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G Sub-6GHz (SA/NSA), 4G LTE Dual SIM",
+      "Thẻ SIM": "2 Nano SIM (hoặc 1 Nano SIM + 1 thẻ nhớ microSD)",
+      "Wi-Fi": "Wi-Fi 5 (802.11 a/b/g/n/ac, băng tần kép 2.4GHz / 5GHz)",
+      "Bluetooth": "Bluetooth 5.3",
+      "Công nghệ NFC": "Có hỗ trợ (tùy thị trường)",
+      "GPS": "GPS, GLONASS, Galileo, BDS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền phẳng hợp chất polycarbonate cứng cáp",
+      "Chất liệu mặt lưng": "Mặt lưng hoàn thiện hiệu ứng vân đá hai tông màu sang trọng, bo cong nhẹ 2 cạnh bên",
+      "Kích thước": "162,4 x 75,7 x 7,99 mm",
+      "Trọng lượng": "190 gram",
+      "Chỉ số kháng nước, bụi": "Chuẩn IP64 (kháng bụi hoàn toàn và chống tia nước bắn)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo hỗ trợ Dolby Atmos, Hi-Res Audio, chế độ tăng âm lượng 300% và cổng tai nghe 3.5mm",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình & Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Cảm biến ánh sáng, Cảm biến tiệm cận, La bàn điện tử, Hồng ngoại IR"
+    }
+  }
+}

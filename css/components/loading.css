@@ -1,0 +1,39 @@
+/* TechPhone — Skeleton Loading & Page Curtain */
+.tp-skeleton {
+  background: linear-gradient(90deg, #EDF2F8 25%, #F8FAFC 50%, #EDF2F8 75%);
+  background-size: 200% 100%;
+  animation: tpSkeletonShimmer 1.4s infinite linear;
+  border-radius: var(--tp-radius-sm);
+}
+@keyframes tpSkeletonShimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+.tp-page-curtain {
+  position: fixed;
+  inset: 0;
+  background: var(--tp-white);
+  z-index: 1400;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.22s ease;
+}
+.tp-page-curtain.is-active {
+  opacity: 0.92;
+}
+@keyframes tpSpin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.tp-spinner {
+  display: inline-block;
+  width: 1.15rem;
+  height: 1.15rem;
+  border: 2.5px solid rgba(255, 255, 255, 0.35);
+  border-top-color: #FFFFFF;
+  border-radius: 50%;
+  animation: tpSpin 0.75s infinite linear;
+  vertical-align: -0.2rem;
+  margin-right: 0.5rem;
+}

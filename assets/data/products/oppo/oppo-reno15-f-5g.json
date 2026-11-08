@@ -1,0 +1,530 @@
+{
+  "id": "oppo-reno15-f-5g",
+  "brand": "OPPO",
+  "brandId": "oppo",
+  "parentGroupId": "oppo",
+  "model": "OPPO Reno15 F 5G",
+  "series": "OPPO Reno15 Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "midrange"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "Năm 2025",
+    "segment": "Cận cao cấp",
+    "description": "OPPO Reno15 F 5G là mẫu smartphone 5G nổi bật với viên pin Silicon-Carbon 7000mAh sạc siêu nhanh 80W SUPERVOOC, màn hình AMOLED 6,57 inch FHD+ 120Hz (1,07 tỷ màu), vi xử lý Qualcomm Snapdragon 6 Gen 1 (4nm), cụm 3 camera sau 50MP OIS + 8MP Góc siêu rộng + 2MP Macro, camera selfie 50MP góc rộng 100° AF và chuẩn kháng nước bụi IP68/IP69.",
+    "highlights": [
+      "Pin Silicon-Carbon 7000mAh siêu bền bỉ kết hợp sạc nhanh 80W SUPERVOOC",
+      "Camera chính 50MP chống rung quang học OIS + 8MP Góc siêu rộng 112° + 2MP Macro",
+      "Camera trước 50MP góc rộng 100° hỗ trợ lấy nét tự động AF và quay video 4K@30fps",
+      "Màn hình AMOLED 6,57 inch FHD+ 120Hz, 1,07 tỷ màu, độ sáng HBM 1400 nit",
+      "Vi xử lý Snapdragon 6 Gen 1 (4nm), bộ nhớ UFS 3.1, kháng nước bụi IP68/IP69"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 8990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT012-OPRENO15F5G-XANH-NHAT-8GB-256GB",
+      "color": "Xanh Nhạt",
+      "colorHex": "#93C5FD",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 8990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-reno15-f-5g/anh-dai-dien-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/mat-truoc-mat-sau-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/man-hinh-mat-truoc-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/thiet-ke-mat-lung-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/canh-duoi-cong-sac-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/canh-trai-canh-phai-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/canh-tren-canh-duoi-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/goc-nghieng-camera-sau-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/cum-camera-sau-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/he-thong-camera-50mp-ois-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/dung-luong-pin-7000mah-sac-80w-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/hieu-nang-snapdragon-6-gen-1-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/tren-tay-man-hinh-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/thong-so-man-hinh-amoled-120hz-oppo-reno15-f-5g-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "DT012-OPRENO15F5G-XANH-NHAT-12GB-256GB",
+      "color": "Xanh Nhạt",
+      "colorHex": "#93C5FD",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 9990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-reno15-f-5g/anh-dai-dien-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/mat-truoc-mat-sau-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/man-hinh-mat-truoc-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/thiet-ke-mat-lung-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/canh-duoi-cong-sac-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/canh-trai-canh-phai-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/canh-tren-canh-duoi-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/goc-nghieng-camera-sau-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/cum-camera-sau-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/he-thong-camera-50mp-ois-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/dung-luong-pin-7000mah-sac-80w-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/hieu-nang-snapdragon-6-gen-1-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/tren-tay-man-hinh-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/thong-so-man-hinh-amoled-120hz-oppo-reno15-f-5g-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "DT012-OPRENO15F5G-HONG-8GB-256GB",
+      "color": "Hồng",
+      "colorHex": "#F472B6",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 8990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-reno15-f-5g/mat-truoc-mat-sau-oppo-reno15-f-5g-hong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/man-hinh-mat-truoc-oppo-reno15-f-5g-hong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/thiet-ke-mat-lung-oppo-reno15-f-5g-hong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/canh-duoi-cong-sac-oppo-reno15-f-5g-hong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/canh-trai-canh-phai-oppo-reno15-f-5g-hong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/canh-tren-canh-duoi-oppo-reno15-f-5g-hong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/goc-nghieng-camera-sau-oppo-reno15-f-5g-hong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/cum-camera-sau-oppo-reno15-f-5g-hong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/tren-tay-man-hinh-oppo-reno15-f-5g-hong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/thong-so-man-hinh-amoled-120hz-oppo-reno15-f-5g-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "DT012-OPRENO15F5G-HONG-12GB-256GB",
+      "color": "Hồng",
+      "colorHex": "#F472B6",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 9990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-reno15-f-5g/mat-truoc-mat-sau-oppo-reno15-f-5g-hong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/man-hinh-mat-truoc-oppo-reno15-f-5g-hong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/thiet-ke-mat-lung-oppo-reno15-f-5g-hong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/canh-duoi-cong-sac-oppo-reno15-f-5g-hong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/canh-trai-canh-phai-oppo-reno15-f-5g-hong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/canh-tren-canh-duoi-oppo-reno15-f-5g-hong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/goc-nghieng-camera-sau-oppo-reno15-f-5g-hong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/cum-camera-sau-oppo-reno15-f-5g-hong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/tren-tay-man-hinh-oppo-reno15-f-5g-hong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/thong-so-man-hinh-amoled-120hz-oppo-reno15-f-5g-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "DT012-OPRENO15F5G-XANH-DUONG-8GB-256GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 8990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-reno15-f-5g/mat-truoc-mat-sau-oppo-reno15-f-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/man-hinh-mat-truoc-oppo-reno15-f-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/thiet-ke-mat-lung-oppo-reno15-f-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/canh-duoi-cong-sac-oppo-reno15-f-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/canh-trai-canh-phai-oppo-reno15-f-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/canh-tren-canh-duoi-oppo-reno15-f-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/goc-nghieng-camera-sau-oppo-reno15-f-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/cum-camera-sau-oppo-reno15-f-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/tren-tay-man-hinh-oppo-reno15-f-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/thong-so-man-hinh-amoled-120hz-oppo-reno15-f-5g-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "DT012-OPRENO15F5G-XANH-DUONG-12GB-256GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 9990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/oppo/oppo-reno15-f-5g/mat-truoc-mat-sau-oppo-reno15-f-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/man-hinh-mat-truoc-oppo-reno15-f-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/thiet-ke-mat-lung-oppo-reno15-f-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/canh-duoi-cong-sac-oppo-reno15-f-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/canh-trai-canh-phai-oppo-reno15-f-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/canh-tren-canh-duoi-oppo-reno15-f-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/goc-nghieng-camera-sau-oppo-reno15-f-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/cum-camera-sau-oppo-reno15-f-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/tren-tay-man-hinh-oppo-reno15-f-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/thong-so-man-hinh-amoled-120hz-oppo-reno15-f-5g-xanh-duong.webp"
+      ]
+    }
+  ],
+  "display": {
+    "size": "6,57 inch",
+    "technology": "AMOLED (1,07 tỷ màu, 100% DCI-P3)",
+    "resolution": "FHD+ (1080 × 2372 Pixels)",
+    "refreshRate": "120Hz",
+    "maxBrightness": "600 nit (tiêu chuẩn) / 1400 nit (HBM)",
+    "protection": "AGC DT-Star D+ / Corning Gorilla Glass+"
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 6 Gen 1 (4nm)",
+    "cpu": "8 nhân (4×2.2GHz Cortex-A78 + 4×1.8GHz Cortex-A55)",
+    "gpu": "Adreno 710 @ 676MHz",
+    "ram": "8GB / 12GB LPDDR4X",
+    "internalStorage": "256GB UFS 3.1 (Hỗ trợ thẻ nhớ microSDXC)",
+    "os": "Android 16 (ColorOS 16.0)"
+  },
+  "rearCamera": {
+    "mainSensor": "50MP (f/1.8, 26mm, FOV 79°, ống kính 5P, AF, chống rung OIS)",
+    "ultraWide": "8MP (f/2.2, 16mm, góc nhìn 112°, ống kính 5P)",
+    "telephoto": "2MP Macro (f/2.4, FOV 89°, ống kính 3P)",
+    "videoRecording": "4K@30fps, 1080p@30/60fps, Slow-motion 1080p@120fps / 720p@240fps, chống rung EIS/OIS",
+    "features": [
+      "Chống rung quang học OIS",
+      "Chụp hình dưới nước (Underwater)",
+      "Chân dung AI",
+      "Dual-view Video",
+      "Quét tài liệu"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "50MP (f/2.1, 18mm, góc nhìn 100°, ống kính 5P, hỗ trợ lấy nét tự động AF)",
+    "videoRecording": "4K@30fps, 1080p@30fps (Chống rung EIS)",
+    "features": [
+      "Selfie góc rộng 100° AF",
+      "Retouch AI",
+      "Screen Fill Light",
+      "Dual-view Video"
+    ]
+  },
+  "battery": {
+    "capacity": "7000 mAh",
+    "batteryType": "Pin Silicon-Carbon (Si/C Li-Ion)",
+    "chargingPower": "Sạc siêu nhanh 80W SUPERVOOC (55W PPS, 13.5W PD/QC)",
+    "wirelessCharging": "Không hỗ trợ"
+  },
+  "connectivity": {
+    "sim": "2 Nano-SIM hoặc 1 Nano-SIM + 1 thẻ nhớ microSD",
+    "network": "5G SA/NSA đa băng tần & 4G LTE",
+    "wifi": "Wi-Fi 5 (802.11ac), Dual-band",
+    "bluetooth": "Bluetooth 5.1 (LDAC, aptX, aptX HD)",
+    "nfc": "Có hỗ trợ",
+    "usb": "USB Type-C 2.0, OTG"
+  },
+  "design": {
+    "formFactor": "Nguyên khối mỏng gọn 8,14mm dù mang viên pin 7000mAh",
+    "materials": "Mặt trước kính Gorilla Glass+, mặt lưng kính AGC DT-Star D+",
+    "dimensionsWeight": "158,18 × 74,93 × 8,14–8,27 mm | 195g–202g",
+    "waterResistance": "IP68 / IP69 (Kháng bụi, ngâm nước 1,5m và tia nước áp lực cao)",
+    "availableColors": [
+      "Xanh"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo",
+    "headphoneJack": null,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Pin Silicon-Carbon 7000mAh siêu bền bỉ kết hợp sạc nhanh 80W SUPERVOOC",
+    "Camera chính 50MP chống rung quang học OIS + 8MP Góc siêu rộng 112° + 2MP Macro",
+    "Camera trước 50MP góc rộng 100° hỗ trợ lấy nét tự động AF và quay video 4K@30fps",
+    "Màn hình AMOLED 6,57 inch FHD+ 120Hz, 1,07 tỷ màu, độ sáng HBM 1400 nit",
+    "Vi xử lý Snapdragon 6 Gen 1 (4nm), bộ nhớ UFS 3.1, kháng nước bụi IP68/IP69"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền OPPO tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/oppo/oppo-reno15-f-5g/anh-dai-dien-oppo-reno15-f-5g-xanh-nhat.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/oppo/oppo-reno15-f-5g/anh-dai-dien-oppo-reno15-f-5g-xanh-nhat.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/mat-truoc-mat-sau-oppo-reno15-f-5g-hong.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/mat-truoc-mat-sau-oppo-reno15-f-5g-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/mat-truoc-mat-sau-oppo-reno15-f-5g-xanh-nhat.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/man-hinh-mat-truoc-oppo-reno15-f-5g-hong.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/man-hinh-mat-truoc-oppo-reno15-f-5g-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/man-hinh-mat-truoc-oppo-reno15-f-5g-xanh-nhat.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/thiet-ke-mat-lung-oppo-reno15-f-5g-hong.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/thiet-ke-mat-lung-oppo-reno15-f-5g-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/thiet-ke-mat-lung-oppo-reno15-f-5g-xanh-nhat.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/canh-duoi-cong-sac-oppo-reno15-f-5g-hong.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/canh-duoi-cong-sac-oppo-reno15-f-5g-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/canh-duoi-cong-sac-oppo-reno15-f-5g-xanh-nhat.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/canh-trai-canh-phai-oppo-reno15-f-5g-hong.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/canh-trai-canh-phai-oppo-reno15-f-5g-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/canh-trai-canh-phai-oppo-reno15-f-5g-xanh-nhat.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/canh-tren-canh-duoi-oppo-reno15-f-5g-hong.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/canh-tren-canh-duoi-oppo-reno15-f-5g-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/canh-tren-canh-duoi-oppo-reno15-f-5g-xanh-nhat.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/goc-nghieng-camera-sau-oppo-reno15-f-5g-hong.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/goc-nghieng-camera-sau-oppo-reno15-f-5g-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/goc-nghieng-camera-sau-oppo-reno15-f-5g-xanh-nhat.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/cum-camera-sau-oppo-reno15-f-5g-hong.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/cum-camera-sau-oppo-reno15-f-5g-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/cum-camera-sau-oppo-reno15-f-5g-xanh-nhat.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/he-thong-camera-50mp-ois-oppo-reno15-f-5g-xanh-nhat.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/dung-luong-pin-7000mah-sac-80w-oppo-reno15-f-5g-xanh-nhat.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/hieu-nang-snapdragon-6-gen-1-oppo-reno15-f-5g-xanh-nhat.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/tren-tay-man-hinh-oppo-reno15-f-5g-hong.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/tren-tay-man-hinh-oppo-reno15-f-5g-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/tren-tay-man-hinh-oppo-reno15-f-5g-xanh-nhat.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/thong-so-man-hinh-amoled-120hz-oppo-reno15-f-5g-xanh-duong.webp"
+    ],
+    "byColor": {
+      "Xanh Nhạt": [
+        "assets/images/products/oppo/oppo-reno15-f-5g/anh-dai-dien-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/mat-truoc-mat-sau-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/man-hinh-mat-truoc-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/thiet-ke-mat-lung-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/canh-duoi-cong-sac-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/canh-trai-canh-phai-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/canh-tren-canh-duoi-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/goc-nghieng-camera-sau-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/cum-camera-sau-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/he-thong-camera-50mp-ois-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/dung-luong-pin-7000mah-sac-80w-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/hieu-nang-snapdragon-6-gen-1-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/tren-tay-man-hinh-oppo-reno15-f-5g-xanh-nhat.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/thong-so-man-hinh-amoled-120hz-oppo-reno15-f-5g-xanh-duong.webp"
+      ],
+      "Hồng": [
+        "assets/images/products/oppo/oppo-reno15-f-5g/mat-truoc-mat-sau-oppo-reno15-f-5g-hong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/man-hinh-mat-truoc-oppo-reno15-f-5g-hong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/thiet-ke-mat-lung-oppo-reno15-f-5g-hong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/canh-duoi-cong-sac-oppo-reno15-f-5g-hong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/canh-trai-canh-phai-oppo-reno15-f-5g-hong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/canh-tren-canh-duoi-oppo-reno15-f-5g-hong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/goc-nghieng-camera-sau-oppo-reno15-f-5g-hong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/cum-camera-sau-oppo-reno15-f-5g-hong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/tren-tay-man-hinh-oppo-reno15-f-5g-hong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/thong-so-man-hinh-amoled-120hz-oppo-reno15-f-5g-xanh-duong.webp"
+      ],
+      "Xanh Dương": [
+        "assets/images/products/oppo/oppo-reno15-f-5g/mat-truoc-mat-sau-oppo-reno15-f-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/man-hinh-mat-truoc-oppo-reno15-f-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/thiet-ke-mat-lung-oppo-reno15-f-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/canh-duoi-cong-sac-oppo-reno15-f-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/canh-trai-canh-phai-oppo-reno15-f-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/canh-tren-canh-duoi-oppo-reno15-f-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/goc-nghieng-camera-sau-oppo-reno15-f-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/cum-camera-sau-oppo-reno15-f-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/tren-tay-man-hinh-oppo-reno15-f-5g-xanh-duong.webp",
+        "assets/images/products/oppo/oppo-reno15-f-5g/thong-so-man-hinh-amoled-120hz-oppo-reno15-f-5g-xanh-duong.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/oppo/oppo-reno15-f-5g/mat-truoc-mat-sau-oppo-reno15-f-5g-hong.webp",
+      "screen": "assets/images/products/oppo/oppo-reno15-f-5g/mat-truoc-mat-sau-oppo-reno15-f-5g-xanh-duong.webp",
+      "performance": "assets/images/products/oppo/oppo-reno15-f-5g/hieu-nang-snapdragon-6-gen-1-oppo-reno15-f-5g-xanh-nhat.webp",
+      "camera": "assets/images/products/oppo/oppo-reno15-f-5g/goc-nghieng-camera-sau-oppo-reno15-f-5g-hong.webp",
+      "battery": "assets/images/products/oppo/oppo-reno15-f-5g/canh-duoi-cong-sac-oppo-reno15-f-5g-hong.webp",
+      "feature": "assets/images/products/oppo/oppo-reno15-f-5g/canh-trai-canh-phai-oppo-reno15-f-5g-hong.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/oppo/oppo-reno15-f-5g/mat-truoc-mat-sau-oppo-reno15-f-5g-hong.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/mat-truoc-mat-sau-oppo-reno15-f-5g-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/mat-truoc-mat-sau-oppo-reno15-f-5g-xanh-nhat.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/man-hinh-mat-truoc-oppo-reno15-f-5g-hong.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/man-hinh-mat-truoc-oppo-reno15-f-5g-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/man-hinh-mat-truoc-oppo-reno15-f-5g-xanh-nhat.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/thiet-ke-mat-lung-oppo-reno15-f-5g-hong.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/thiet-ke-mat-lung-oppo-reno15-f-5g-xanh-duong.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/thiet-ke-mat-lung-oppo-reno15-f-5g-xanh-nhat.webp",
+      "assets/images/products/oppo/oppo-reno15-f-5g/canh-duoi-cong-sac-oppo-reno15-f-5g-hong.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-oppo",
+      "https://www.oppo.com/vn/smartphones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "partial_retail_listing",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT012-OPRENO15F5G",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "AMOLED, 1,07 tỷ màu (10-bit), 100% DCI-P3",
+      "Kích thước màn hình": "6,57 inch (Tỷ lệ màn hình 92,8%)",
+      "Độ phân giải màn hình": "FHD+ (1080 × 2372 Pixels), 397 PPI",
+      "Tần số quét": "120Hz (Lấy mẫu cảm ứng 240Hz)",
+      "Kiểu màn hình": "Chưa có thông tin trong dữ liệu gốc",
+      "Tính năng màn hình": "Độ sáng tối đa: 600 nit (Tiêu chuẩn) / 1400 nit (HBM); Kính bảo vệ: Corning Gorilla Glass+ / AGC DT-Star D+"
+    },
+    "Camera sau": {
+      "Camera sau": "Camera chính: 50MP (f/1.8, FOV 79°, ống kính 5P, lấy nét tự động AF, chống rung quang học OIS); Camera phụ: 8MP Góc siêu rộng (f/2.2, FOV 112°, ống kính 5P) + 2MP Macro (f/2.4, FOV 89°, ống kính 3P)",
+      "Quay video": "4K@30fps, 1080p@30/60fps, Slow-motion 1080p@120fps / 720p@240fps, chống rung EIS/OIS",
+      "Tính năng camera": "Chân dung AI, Chụp dưới nước, Dual-view Video, Macro, Quét tài liệu, Cảm biến nhiệt độ màu"
+    },
+    "Camera trước": {
+      "Camera trước": "50MP (f/2.1, FOV 100°, ống kính 5P, hỗ trợ lấy nét tự động AF); Quay video: 4K@30fps, 1080p@30fps (Chống rung EIS); Tính năng: Selfie góc rộng 100°, Làm đẹp AI (Retouch), Đèn bù sáng màn hình, Dual-view Video"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 6 Gen 1 (Tiến trình 4nm)",
+      "Loại CPU": "8 nhân (4×2.2GHz Cortex-A78 + 4×1.8GHz Cortex-A55)",
+      "GPU": "Adreno 710 @ 676MHz"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB / 12GB chuẩn LPDDR4X",
+      "Bộ nhớ trong": "256GB chuẩn UFS 3.1; Thẻ nhớ ngoài: Hỗ trợ thẻ nhớ microSDXC & USB OTG"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "7000 mAh (Điển hình) / 6830 mAh (Định mức); Loại pin: Pin Silicon-Carbon (Si/C Li-Ion)",
+      "Công nghệ sạc": "Sạc có dây: 80W SUPERVOOC (Tương thích 67W SUPERVOOC, 55W PPS, 13.5W PD/QC); Sạc không dây: Không hỗ trợ",
+      "Cổng sạc": "USB Type-C 2.0, OTG"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "ColorOS 16.0 (Nền tảng Android 16)",
+      "Công nghệ - Tiện ích": "OPPO AI Portrait, Chụp hình dưới nước, Quét tài liệu thông minh",
+      "Tiện ích khác": "Chưa có thông tin trong dữ liệu gốc",
+      "Thời điểm ra mắt": "Năm 2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G SA/NSA & 4G LTE",
+      "Thẻ SIM": "2 Nano-SIM hoặc 1 Nano-SIM + 1 thẻ nhớ",
+      "Wi-Fi": "Wi-Fi 5 (802.11ac), Wi-Fi Display, WLAN Tethering",
+      "Bluetooth": "Bluetooth 5.1 BLE (SBC, AAC, LDAC, aptX, aptX HD)",
+      "Công nghệ NFC": "Hỗ trợ NFC",
+      "GPS": "Chưa có thông tin trong dữ liệu gốc"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Mặt trước kính Gorilla Glass+, mặt lưng kính cường lực AGC DT-Star D+",
+      "Chất liệu mặt lưng": "mặt lưng kính cường lực AGC DT-Star D+",
+      "Kích thước": "158,18 × 74,93 × 8,14 mm (Hồng, Xanh Dương) / 8,27 mm (Xanh Nhạt); Kiểu dáng: Nguyên khối mỏng 8,14mm, trọng lượng cân đối 195g",
+      "Trọng lượng": "Nặng 195g–202g",
+      "Chỉ số kháng nước, bụi": "Kháng nước và bụi chuẩn IP68 / IP69"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa kép Stereo, hỗ trợ âm thanh chất lượng cao LDAC & aptX HD",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Tiệm cận, Ánh sáng, La bàn số; Bảo mật: Mở khóa khuôn mặt"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,57 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "AMOLED (1 tỷ màu, 100% DCI-P3)"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "FHD+ (1080 × 2372 Pixels, 397 PPI)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 6 Gen 1 (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB / 12GB LPDDR4X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB UFS 3.1"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính OIS + 8MP Góc siêu rộng 112° + 2MP Macro"
+    },
+    {
+      "label": "Camera trước",
+      "value": "50MP f/2.1 Góc rộng 100° AF (Quay 4K@30fps)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "7000 mAh (Pin Silicon-Carbon)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "80W SUPERVOOC (55W PPS)"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 16 (ColorOS 16.0)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G, Wi-Fi 5, Bluetooth 5.1, NFC"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 / IP69"
+    }
+  ],
+  "verbatimDescription": [
+    "OPPO Reno15 F 5G kết hợp hài hòa giữa thời lượng pin vượt trội và thiết kế thời trang mỏng nhẹ của dòng Reno15 Series. Nhờ công nghệ pin Silicon-Carbon mật độ cao, máy tích hợp viên pin dung lượng lên tới 7000mAh bên trong thân máy mỏng chỉ 8,14mm và nặng 195g, đồng thời đạt chuẩn kháng nước và bụi cao cấp IP68/IP69.",
+    "Thiết bị sở hữu màn hình AMOLED 6,57 inch độ phân giải FHD+ (1080 × 2372 pixel, 397 PPI) với tỷ lệ hiển thị 92,8% mặt trước. Tấm nền 10-bit hiển thị 1,07 tỷ màu chuẩn 100% DCI-P3, tần số quét 120Hz mượt mà, độ sáng HBM 1400 nit cùng lớp kính cường lực Corning Gorilla Glass+ và mặt lưng kính AGC DT-Star D+.",
+    "Cung cấp sức mạnh cho OPPO Reno15 F 5G là vi xử lý Qualcomm Snapdragon 6 Gen 1 sản xuất trên tiến trình 4nm tiết kiệm năng lượng cùng GPU Adreno 710. Đi kèm tùy chọn RAM 8GB/12GB LPDDR4X và bộ nhớ trong 256GB chuẩn UFS 3.1 (hỗ trợ mở rộng qua khe thẻ nhớ microSD), thiết bị xử lý trơn tru các tác vụ học tập, làm việc và giải trí.",
+    "Hệ thống nhiếp ảnh sau của máy gồm 3 ống kính: camera chính 50MP (khẩu độ f/1.8, hỗ trợ lấy nét tự động AF và chống rung quang học OIS), camera góc siêu rộng 8MP (FOV 112°) và camera Macro 2MP chụp cận cảnh. Máy hỗ trợ quay video 4K@30fps chống rung OIS/EIS, cảm biến nhiệt độ màu và chế độ chụp ảnh dưới nước.",
+    "Điểm cộng lớn của OPPO Reno15 F 5G là camera trước độ phân giải lên tới 50MP góc rộng 100°, tích hợp lấy nét tự động AF và quay video 4K@30fps sắc nét. Viên pin 7000mAh kết hợp công nghệ sạc siêu nhanh 80W SUPERVOOC giúp rút ngắn tối đa thời gian chờ sạc.",
+    "Máy cài đặt sẵn giao diện ColorOS 16.0 (Android 16) mượt mà, trang bị cảm biến vân tay quang học dưới màn hình, hệ thống loa kép Stereo, kết nối 5G, Wi-Fi 5, Bluetooth 5.1 hỗ trợ LDAC/aptX HD và NFC tiện lợi."
+  ],
+  "priceSegment": "midrange"
+}

@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Đăng nhập Tài khoản Thành viên | AURIX MOBILE</title>
+  <meta name="description" content="Đăng nhập tài khoản thành viên AURIX MOBILE để quản lý giỏ hàng, danh sách yêu thích và nhận đặc quyền ưu đãi.">
+  <link rel="icon" type="image/svg+xml" href="assets/images/logo/favicon.svg">
+  <link rel="stylesheet" href="vendor/bootstrap/bootstrap.min.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/pages/login.css">
+  <link rel="stylesheet" href="css/responsive/tablet.css">
+  <link rel="stylesheet" href="css/responsive/mobile.css">
+</head>
+<body data-page="login">
+  <!-- Shared Header (Matches image_7c1303.png & Brandkit 09) -->
+  <header class="tp-header" role="banner">
+    <div class="tp-container">
+      <div class="tp-header-top">
+        <a href="index.html" class="tp-brand" aria-label="AURIX MOBILE Trang chủ">
+          <img src="assets/images/logo/logo-aurix-on-blue.svg" alt="AURIX MOBILE — Công nghệ trong tầm tay · Đẳng cấp trong từng lựa chọn" width="236" height="48">
+        </a>
+
+        <form id="tp-header-search-form" class="tp-search-bar" role="search" aria-label="Tìm kiếm điện thoại, phụ kiện">
+          <input type="search" id="tp-header-search-input" data-open-overlay-on-focus="true" placeholder="Bạn đang tìm kiếm điện thoại, phụ kiện...?" autocomplete="off" aria-label="Từ khóa tìm kiếm">
+          <button type="submit" class="tp-search-submit" aria-label="Tìm kiếm">
+            <img src="assets/icons/ui/search.svg" alt="" width="18" height="18" style="filter:brightness(10);">
+          </button>
+        </form>
+
+        <div class="tp-header-actions">
+          <a href="lienhe.html" class="tp-action-item" title="Tổng đài hỗ trợ 24/7">
+            <span class="tp-action-icon">
+              <img src="assets/icons/ui/headset.svg" alt="" width="20" height="20">
+            </span>
+            <span class="tp-action-text">
+              <span class="tp-action-label">Hỗ trợ</span>
+              <span class="tp-action-value">24/7</span>
+            </span>
+          </a>
+
+          <a href="lienhe.html#store-system" class="tp-action-item" title="Hệ thống cửa hàng gần bạn">
+            <span class="tp-action-icon">
+              <img src="assets/icons/ui/map-pin.svg" alt="" width="20" height="20">
+            </span>
+            <span class="tp-action-text">
+              <span class="tp-action-label">Cửa hàng</span>
+              <span class="tp-action-value">Gần bạn</span>
+            </span>
+          </a>
+
+          <a href="dangnhap.html" class="tp-action-item" title="Đăng nhập hoặc quản lý tài khoản">
+            <span class="tp-action-icon">
+              <img src="assets/icons/ui/user.svg" alt="" width="20" height="20">
+            </span>
+            <span class="tp-action-text">
+              <span class="tp-action-label" data-auth-label>Đăng nhập</span>
+              <span class="tp-action-value" data-auth-value>Tài khoản</span>
+            </span>
+          </a>
+
+          <a href="donhang.html?tab=cart" class="tp-action-item" data-cart-icon-target title="Xem giỏ hàng">
+            <span class="tp-action-icon">
+              <img src="assets/icons/ui/cart.svg" alt="" width="20" height="20">
+              <span class="tp-badge-count" data-cart-badge>0</span>
+            </span>
+            <span class="tp-action-text">
+              <span class="tp-action-label">Giỏ hàng</span>
+              <span class="tp-action-value" data-cart-text>0 sản phẩm</span>
+            </span>
+          </a>
+
+          <button type="button" class="tp-mobile-toggle" data-mobile-nav-toggle aria-expanded="false" aria-label="Mở menu điều hướng">
+            ☰
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <nav class="tp-nav-bar" aria-label="Điều hướng chính">
+      <div class="tp-container tp-nav-inner">
+        <button type="button" class="tp-cat-trigger" data-mega-trigger aria-expanded="false" aria-controls="tp-mega-menu">
+          <span>☰</span>
+          <span>Danh mục sản phẩm</span>
+        </button>
+
+        <ul class="tp-nav-links" data-main-nav-links>
+          <li><a href="index.html" class="tp-nav-link">Trang chủ</a></li>
+          <li><a href="sanpham.html?category=smartphone" class="tp-nav-link">Điện thoại</a></li>
+          <li><a href="sanpham.html?category=accessory" class="tp-nav-link">Phụ kiện</a></li>
+          <li><a href="sanpham.html?category=tablet" class="tp-nav-link">Tablet</a></li>
+          <li><a href="sanpham.html?q=Giảm" class="tp-nav-link">Khuyến mãi</a></li>
+          <li><a href="tintuc.html" class="tp-nav-link">Tin tức</a></li>
+          <li><a href="gioithieu.html" class="tp-nav-link">Giới thiệu</a></li>
+          <li><a href="lienhe.html" class="tp-nav-link">Liên hệ</a></li>
+        </ul>
+
+        <a href="donhang.html" class="tp-hot-deal-btn" data-magnetic title="Xem các đơn hàng đã đặt">
+          <span>📦</span>
+          <span>Đơn hàng của tôi</span>
+        </a>
+
+                <!-- Mega Menu -->
+        <div id="tp-mega-menu" class="tp-mega-menu" role="region" aria-label="Danh mục chi tiết AURIX MOBILE">
+          <div class="tp-mega-grid">
+            <div class="tp-mega-col">
+              <h4>📱 Flagship Hàng Đầu</h4>
+              <ul>
+                <li><a href="sanpham.html?brand=Apple"><span>Apple iPhone (18 / 17 / 16 / 15)</span><span class="tp-badge tp-badge-hot">Hot</span></a></li>
+                <li><a href="sanpham.html?brand=Samsung"><span>Samsung Galaxy S / Z / A</span><span class="tp-badge tp-badge-sale">AI</span></a></li>
+                <li><a href="sanpham.html?brand=Xiaomi"><span>Xiaomi 17 / 15T / 14T Series</span><span class="tp-badge tp-badge-new">Leica</span></a></li>
+                <li><a href="sanpham.html?brand=OPPO"><span>OPPO Find X9 &amp; Reno16 Series</span><span>›</span></a></li>
+                <li><a href="sanpham.html?brand=vivo"><span>vivo X300 Ultra / V70 / Y Series</span><span>›</span></a></li>
+              </ul>
+            </div>
+            <div class="tp-mega-col">
+              <h4>⚡ Thương Hiệu Nổi Bật</h4>
+              <ul>
+                <li><a href="sanpham.html?brand=HONOR"><span>HONOR 600 / 400 / Magic V / X</span><span class="tp-badge tp-badge-new">Mới</span></a></li>
+                <li><a href="sanpham.html?brand=realme"><span>realme 16 Pro / 15 Pro / C100</span><span>›</span></a></li>
+                <li><a href="sanpham.html?brand=Redmi"><span>Redmi Note 17 / Note 15 Series</span><span>›</span></a></li>
+                <li><a href="sanpham.html?brand=POCO"><span>POCO F9 Ultra / X8 Pro / M8</span><span>›</span></a></li>
+                <li><a href="sanpham.html?brand=Nothing"><span>Nothing Phone (4a) Pro / (4b)</span><span>›</span></a></li>
+              </ul>
+            </div>
+            <div class="tp-mega-col">
+              <h4>🌐 Đa Phân Khúc &amp; Màn Gập</h4>
+              <ul>
+                <li><a href="sanpham.html?brand=Motorola"><span>Motorola Razr / Edge / Moto G</span><span>›</span></a></li>
+                <li><a href="sanpham.html?brand=TECNO"><span>TECNO POVA Curve 2 &amp; Spark 50</span><span>›</span></a></li>
+                <li><a href="sanpham.html?brand=nubia"><span>nubia Air 5G &amp; V80 Series</span><span>›</span></a></li>
+                <li><a href="sanpham.html?category=foldable"><span>Điện thoại Màn hình gập</span><span class="tp-badge tp-badge-hot">VIP</span></a></li>
+                <li><a href="sanpham.html?category=5g-ready"><span>Điện thoại Hỗ trợ 5G</span><span>›</span></a></li>
+              </ul>
+            </div>
+                        <div class="tp-mega-col">
+              <h4>🧭 Tiện Ích Hệ Thống AURIX</h4>
+              <ul>
+                <li><a href="donhang.html?tab=cart"><span>Giỏ hàng &amp; Mã giảm giá AURIX500</span><span>›</span></a></li>
+                <li><a href="donhang.html"><span>Đơn hàng của tôi</span><span class="tp-badge tp-badge-new">Mới</span></a></li>
+                <li><a href="dathang.html"><span>Thanh toán &amp; Đặt hàng nhanh</span><span>›</span></a></li>
+                <li><a href="dangky.html"><span>Đăng ký thành viên AURIX</span><span>›</span></a></li>
+                <li><a href="dangnhap.html"><span>Đăng nhập tài khoản thành viên</span><span>›</span></a></li>
+                <li><a href="chinhsachbaohanh.html"><span>Chính sách bảo hành (18–36 tháng)</span><span class="tp-badge tp-badge-hot">Care+</span></a></li>
+                <li><a href="lienhe.html"><span>Trung tâm hỗ trợ &amp; Liên hệ</span><span>›</span></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <main class="tp-main" id="main-content">
+    <div class="tp-container">
+      <nav class="tp-breadcrumb" aria-label="Breadcrumb">
+        <a href="index.html">Trang chủ</a>
+        <span>/</span>
+        <span class="is-current" id="tp-login-bc-current">Đăng nhập tài khoản</span>
+      </nav>
+
+      <!-- Guest View: Modern Email-Only Login Card (Hidden when logged in) -->
+      <div id="tp-login-guest-view" class="tp-auth-wrap tp-reveal">
+        <div class="tp-auth-aside">
+          <div>
+            <span class="tp-badge tp-badge-new mb-3" style="background:rgba(255,255,255,0.18);color:#FFFFFF;">AURIX MOBILE MEMBER VIP</span>
+            <h1 class="tp-h2 text-white mb-2" style="color:#FFFFFF;">Chào mừng bạn quay lại AURIX MOBILE</h1>
+            <p style="color:#E0ECFF;line-height:1.65;margin-bottom:0;">
+              Đăng nhập bằng địa chỉ Email thành viên để đồng bộ giỏ hàng, chọn sản phẩm thanh toán, quản lý hồ sơ cá nhân và theo dõi đơn hàng.
+            </p>
+            <ul class="tp-auth-feature-list">
+              <li class="tp-auth-feature-item">
+                <span>🎁</span>
+                <span>Áp dụng ngay mã ưu đãi <strong>AURIX500</strong>, <strong>WELCOME200</strong> tại giỏ hàng</span>
+              </li>
+              <li class="tp-auth-feature-item">
+                <span>🛒</span>
+                <span>Tích chọn linh hoạt từng sản phẩm muốn thanh toán trong giỏ hàng</span>
+              </li>
+              <li class="tp-auth-feature-item">
+                <span>👤</span>
+                <span>Quản lý hồ sơ cá nhân, cập nhật ảnh đại diện &amp; mật khẩu dễ dàng</span>
+              </li>
+            </ul>
+          </div>
+          <div class="p-3 rounded" style="background:rgba(255,255,255,0.12);border:1px solid rgba(255,255,255,0.22);font-size:0.84rem;">
+            <strong>🔒 Bảo mật tài khoản thành viên:</strong>
+            <p class="mb-0 mt-1" style="color:#DDEEFF;">
+              Mật khẩu được băm một chiều an toàn và đồng bộ trực tiếp với giỏ hàng cá nhân của từng tài khoản.
+            </p>
+          </div>
+        </div>
+
+        <div class="tp-auth-form-box">
+          <div class="mb-3">
+            <span class="tp-badge tp-badge-new mb-2">ĐĂNG NHẬP HỆ THỐNG</span>
+            <h2 class="tp-h2 mb-1">Đăng nhập tài khoản</h2>
+            <p class="tp-text-small mb-0">Nhập địa chỉ Email và mật khẩu thành viên của bạn để tiếp tục mua sắm:</p>
+          </div>
+
+          <div id="tp-login-feedback" hidden></div>
+
+          <form id="tp-login-form" novalidate>
+            <div class="tp-form-group mb-3">
+              <label for="tp-login-identifier" class="tp-label">Địa chỉ Email *</label>
+              <input type="email" id="tp-login-identifier" name="identifier" class="tp-input" placeholder="nhapemail@gmail.com" autocomplete="email" required>
+              <span class="tp-field-error" data-error-for="identifier"></span>
+            </div>
+
+            <div class="tp-form-group mb-3">
+              <label for="tp-login-password" class="tp-label">Mật khẩu *</label>
+              <div class="tp-auth-input-wrap">
+                <input type="password" id="tp-login-password" name="password" class="tp-input" style="padding-right:4.5rem;" placeholder="Nhập mật khẩu của bạn..." autocomplete="current-password" required>
+                <button type="button" id="tp-toggle-login-pwd" class="tp-pwd-toggle-btn" aria-label="Hiện hoặc ẩn mật khẩu">Hiện</button>
+              </div>
+              <span class="tp-field-error" data-error-for="password"></span>
+            </div>
+
+            <div class="d-flex justify-content-between align-items-center mb-4">
+              <span class="tp-caption">Hỗ trợ thành viên AURIX 24/7</span>
+              <button type="button" id="tp-forgot-pwd-btn" class="tp-text-small tp-text-primary fw-semibold" style="background:none;border:none;cursor:pointer;">Quên mật khẩu?</button>
+            </div>
+
+            <button type="submit" class="tp-btn tp-btn-primary w-100 tp-btn-lg mb-2">Đăng nhập →</button>
+            <button type="button" id="tp-fill-demo-account" class="tp-btn tp-btn-secondary tp-btn-sm w-100 mb-3">⚡ Điền nhanh tài khoản thành viên mẫu</button>
+
+            <div class="text-center tp-text-small pt-2" style="border-top:1px solid var(--tp-border);">
+              Chưa có tài khoản thành viên? <a href="dangky.html" class="tp-text-primary fw-bold">Đăng ký tài khoản mới →</a>
+            </div>
+          </form>
+        </div>
+      </div>
+
+      <!-- Logged-in View: Personal Account Profile Dashboard (Shown only when logged in; no duplicate logout button) -->
+      <div id="tp-account-profile-view" hidden></div>
+    </div>
+
+    <!-- Edit Profile & Password & Avatar Modal -->
+    <div id="tp-edit-profile-modal" class="tp-modal-backdrop" aria-hidden="true">
+      <div class="tp-modal-dialog" style="max-width:580px;" role="dialog" aria-modal="true" aria-labelledby="tp-edit-profile-title">
+        <button type="button" class="tp-modal-close" data-modal-close aria-label="Đóng">✕</button>
+        <div class="mb-3 pb-2" style="border-bottom:1px solid var(--tp-border);">
+          <span class="tp-badge tp-badge-new mb-1">CẬP NHẬT HỒ SƠ CÁ NHÂN</span>
+          <h3 id="tp-edit-profile-title" class="tp-h3 mb-0">Chỉnh sửa thông tin tài khoản &amp; Mật khẩu</h3>
+        </div>
+
+        <form id="tp-edit-profile-form" novalidate>
+          <!-- Avatar Edit Box -->
+          <div class="tp-avatar-uploader mb-3">
+            <div class="tp-avatar-circle">
+              <img src="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20120%20120%22%20fill%3D%22none%22%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%2260%22%20r%3D%2260%22%20fill%3D%22%23EBF3FF%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%2245%22%20r%3D%2221%22%20fill%3D%22%230666F5%22%2F%3E%3Cpath%20d%3D%22M24%20104c5-20%2021-31%2036-31s31%2011%2036%2031%22%20fill%3D%22%230666F5%22%2F%3E%3C%2Fsvg%3E" alt="Ảnh đại diện" id="tp-edit-avatar-preview">
+            </div>
+            <div style="flex:1;">
+              <div class="fw-bold tp-text-navy mb-1" style="font-size:0.92rem;">Ảnh đại diện tài khoản</div>
+              <div class="tp-caption mb-2">Hỗ trợ JPG, JPEG, PNG, WebP. Tự động cắt tròn và tối ưu dung lượng.</div>
+              <div class="d-flex flex-wrap gap-2">
+                <label for="tp-edit-avatar-input" class="tp-btn tp-btn-secondary tp-btn-sm" style="cursor:pointer;margin:0;">
+                  📷 Tải ảnh đại diện mới
+                </label>
+                <input type="file" id="tp-edit-avatar-input" accept=".jpg,.jpeg,.png,.webp,image/jpeg,image/png,image/webp" hidden>
+                <button type="button" id="tp-edit-avatar-remove-btn" class="tp-btn tp-btn-ghost tp-btn-sm tp-text-coral" hidden>
+                  Xóa ảnh hiện tại
+                </button>
+              </div>
+              <span class="tp-field-error d-block mt-1" id="tp-edit-avatar-error"></span>
+            </div>
+          </div>
+
+          <div class="row g-3">
+            <div class="col-md-6">
+              <div class="tp-form-group">
+                <label for="tp-edit-fullname" class="tp-label">Họ và tên *</label>
+                <input type="text" id="tp-edit-fullname" name="fullName" class="tp-input" required>
+                <span class="tp-field-error" data-edit-error-for="fullName"></span>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="tp-form-group">
+                <label for="tp-edit-phone" class="tp-label">Số điện thoại *</label>
+                <input type="tel" id="tp-edit-phone" name="phone" class="tp-input" required>
+                <span class="tp-field-error" data-edit-error-for="phone"></span>
+              </div>
+            </div>
+            <div class="col-12">
+              <div class="tp-form-group">
+                <label for="tp-edit-email" class="tp-label">Địa chỉ Email *</label>
+                <input type="email" id="tp-edit-email" name="email" class="tp-input" required>
+                <span class="tp-field-error" data-edit-error-for="email"></span>
+              </div>
+            </div>
+
+            <div class="col-12 pt-2" style="border-top:1px dashed var(--tp-border);">
+              <div class="d-flex justify-content-between align-items-center mb-1">
+                <strong class="tp-text-navy" style="font-size:0.9rem;">🔒 Đổi mật khẩu mới (Để trống nếu giữ nguyên mật khẩu cũ)</strong>
+                <button type="button" id="tp-toggle-edit-pwd" class="tp-caption tp-text-primary fw-bold" style="background:none;border:none;cursor:pointer;">Hiện mật khẩu</button>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="tp-form-group">
+                <label for="tp-edit-new-password" class="tp-label">Mật khẩu mới (tối thiểu 8 ký tự)</label>
+                <input type="password" id="tp-edit-new-password" name="newPassword" class="tp-input" placeholder="Nhập mật khẩu mới...">
+                <span class="tp-field-error" data-edit-error-for="newPassword"></span>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="tp-form-group">
+                <label for="tp-edit-confirm-password" class="tp-label">Xác nhận mật khẩu mới</label>
+                <input type="password" id="tp-edit-confirm-password" name="confirmNewPassword" class="tp-input" placeholder="Nhập lại mật khẩu mới...">
+                <span class="tp-field-error" data-edit-error-for="confirmNewPassword"></span>
+              </div>
+            </div>
+          </div>
+
+          <div class="d-flex justify-content-end gap-2 mt-4 pt-3" style="border-top:1px solid var(--tp-border);">
+            <button type="button" class="tp-btn tp-btn-ghost" data-modal-close>Hủy bỏ</button>
+            <button type="submit" class="tp-btn tp-btn-primary">💾 Lưu thay đổi</button>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <!-- Forgot Password Modal -->
+    <div id="tp-forgot-modal" class="tp-modal-backdrop" aria-hidden="true">
+      <div class="tp-modal-dialog" style="max-width:480px;" role="dialog" aria-modal="true" aria-labelledby="tp-forgot-title">
+        <button type="button" class="tp-modal-close" data-modal-close aria-label="Đóng">✕</button>
+        <h3 id="tp-forgot-title" class="tp-h3 mb-2">Hướng dẫn khôi phục mật khẩu</h3>
+        <p class="tp-text-small mb-3">Nếu bạn quên mật khẩu đăng nhập, vui lòng tạo tài khoản thành viên mới tại trang Đăng ký hoặc gửi yêu cầu tại trang Liên hệ để được hỗ trợ.</p>
+        <div class="d-flex justify-content-end gap-2">
+          <a href="dangky.html" class="tp-btn tp-btn-primary tp-btn-sm">Tạo tài khoản mới</a>
+          <button type="button" class="tp-btn tp-btn-ghost tp-btn-sm" data-modal-close>Đã hiểu</button>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- Newsletter Promotional Strip (Matches bottom of image_7c1303.png) -->
+  <section class="tp-newsletter-strip" aria-label="Đăng ký nhận bản tin khuyến mãi">
+    <div class="tp-container tp-newsletter-inner">
+      <div class="tp-newsletter-brand">
+                <div class="tp-gift-badge" aria-hidden="true" style="padding:8px;">
+          <img src="assets/images/logo/favicon.svg" alt="AURIX Icon" width="38" height="38" style="border-radius:50%;">
+        </div>
+        <div>
+          <h2 class="tp-h3 text-white mb-0" style="color:#FFFFFF;">Đăng ký ngay</h2>
+          <p class="mb-0" style="color:#DDEEFF;font-weight:700;font-size:1.05rem;">Nhận ưu đãi đặc biệt!</p>
+        </div>
+      </div>
+
+      <form class="tp-newsletter-form" data-newsletter-form aria-label="Form đăng ký email nhận ưu đãi">
+        <input type="email" name="newsletterEmail" placeholder="✉ Nhập email của bạn..." required aria-label="Nhập email của bạn">
+        <button type="submit" class="tp-btn tp-btn-primary tp-btn-sm" style="padding:0.52rem 1rem;flex-shrink:0;">Đăng ký</button>
+      </form>
+
+      <div class="tp-newsletter-perks">
+        <span>🏷️ Giảm giá độc quyền</span>
+        <span>📱 Thông tin sản phẩm mới</span>
+        <span>🎂 Ưu đãi sinh nhật</span>
+      </div>
+    </div>
+  </section>
+
+    <!-- Shared Footer -->
+  <footer class="tp-footer" role="contentinfo">
+    <div class="tp-container">
+      <div class="tp-footer-grid">
+        <div>
+          <img src="assets/images/logo/logo-aurix-dark.svg" alt="AURIX MOBILE Logo" width="220" height="48" class="mb-3">
+          <p class="mb-3" style="color:#B4C4E0;line-height:1.65;">
+            <strong>AURIX MOBILE</strong> — Hệ thống bán lẻ điện thoại thông minh và thiết bị công nghệ chính hãng. Trải nghiệm mua sắm hiện đại, minh bạch thông số kỹ thuật và dịch vụ tận tâm.
+          </p>
+          <div class="d-flex gap-2">
+            <a href="sanpham.html?category=smartphone" class="tp-btn tp-btn-ghost tp-btn-sm" style="background:rgba(255,255,255,0.08);color:#FFF;border:none;">Sản phẩm</a>
+            <a href="tintuc.html" class="tp-btn tp-btn-ghost tp-btn-sm" style="background:rgba(255,255,255,0.08);color:#FFF;border:none;">Tin công nghệ</a>
+            <a href="sodotrang.html" class="tp-btn tp-btn-ghost tp-btn-sm" style="background:rgba(255,255,255,0.08);color:#FFF;border:none;">Sitemap</a>
+          </div>
+        </div>
+
+        <div>
+          <h3 class="tp-footer-title">Danh mục sản phẩm</h3>
+          <ul class="tp-footer-links">
+            <li><a href="sanpham.html?category=smartphone">Điện thoại iPhone / Galaxy / Xiaomi</a></li>
+            <li><a href="sanpham.html?category=flagship">Flagship Cao cấp chính hãng</a></li>
+            <li><a href="sanpham.html?category=foldable">Điện thoại Màn hình gập</a></li>
+            <li><a href="sanpham.html?q=Giảm">Sản phẩm đang Khuyến mãi</a></li>
+            <li><a href="tintuc.html">Chuyên trang Tin tức công nghệ</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h3 class="tp-footer-title">Hỗ trợ &amp; Dịch vụ</h3>
+          <ul class="tp-footer-links">
+            <li><a href="gioithieu.html">Giới thiệu thương hiệu AURIX MOBILE</a></li>
+            <li><a href="chinhsachbaohanh.html">Chính sách bảo hành (18 – 36 tháng)</a></li>
+            <li><a href="donhang.html?tab=cart">Giỏ hàng &amp; Chính sách vận chuyển</a></li>
+            <li><a href="dathang.html">Hướng dẫn thanh toán &amp; Trả góp 0%</a></li>
+            <li><a href="lienhe.html">Trung tâm hỗ trợ &amp; Liên hệ</a></li>
+            <li><a href="sodotrang.html">Sơ đồ cấu trúc Website (Sitemap)</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h3 class="tp-footer-title">Kênh hỗ trợ trực tuyến</h3>
+          <ul class="tp-footer-links">
+            <li>💬 Gửi yêu cầu trực tuyến tại <a href="lienhe.html" class="text-white fw-bold">Trang Liên hệ</a></li>
+            <li>🛡️ <a href="chinhsachbaohanh.html" class="text-white fw-bold">Chính sách bảo hành mở rộng đến 36 tháng</a></li>
+            <li>🔄 <a href="chinhsachbaohanh.html#heading-exchange-policy">Hỗ trợ 1 đổi 1 trong 30 ngày theo quy định</a></li>
+            <li>👤 Phụ trách phát triển: <strong class="text-white">Trương Đình Khôi</strong></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="tp-footer-bottom">
+        <div>© 2026 <strong>AURIX MOBILE</strong>. Phát triển bởi <strong>Trương Đình Khôi</strong>.</div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Local Offline Vendor Libraries (Section 8 & PDF Requirement 10) -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/bootstrap.bundle.min.js"></script>
+
+  <!-- AURIX MOBILE Modular JavaScript Architecture -->
+  <script src="js/config.js"></script>
+  <script src="js/data/categories.js"></script>
+  <script src="js/data/products.js"></script>
+  <script src="js/data/news.js"></script>
+  <script src="js/data/demo-users.js"></script>
+
+  <script src="js/core/dom.js"></script>
+  <script src="js/core/events.js"></script>
+  <script src="js/core/error-handler.js"></script>
+  <script src="js/core/navigation.js"></script>
+  <script src="js/core/page-init.js"></script>
+
+  <script src="js/services/storage-service.js"></script>
+  <script src="js/services/image-resolver.js"></script>
+  <script src="js/services/product-validator.js"></script>
+  <script src="js/services/product-repository.js"></script>
+  <script src="js/services/product-loader.js"></script>
+  <script src="js/services/product-service.js"></script>
+  <script src="js/services/cart-service.js"></script>
+  <script src="js/services/wishlist-service.js"></script>
+  <script src="js/services/auth-service.js"></script>
+  <script src="js/services/order-service.js"></script>
+  <script src="js/services/search-service.js"></script>
+  <script src="js/services/news-service.js"></script>
+
+  <script src="js/components/toast.js"></script>
+  <script src="js/components/modal.js"></script>
+  <script src="js/components/mega-menu.js"></script>
+  <script src="js/components/search-overlay.js"></script>
+  <script src="js/components/product-card.js"></script>
+  <script src="js/components/product-gallery.js"></script>
+  <script src="js/components/quick-view.js"></script>
+  <script src="js/components/cart-drawer.js"></script>
+  <script src="js/components/header.js"></script>
+  <script src="js/components/footer.js"></script>
+  <script src="js/components/accordion.js"></script>
+  <script src="js/components/carousel.js"></script>
+  <script src="js/components/pagination.js"></script>
+
+  <script src="js/motion/motion-fallbacks.js"></script>
+  <script src="js/motion/hero-reveal.js"></script>
+  <script src="js/motion/scroll-reveal.js"></script>
+  <script src="js/motion/parallax.js"></script>
+  <script src="js/motion/product-3d.js"></script>
+  <script src="js/motion/product-card-motion.js"></script>
+  <script src="js/motion/magnetic-button.js"></script>
+  <script src="js/motion/page-transition.js"></script>
+  <script src="js/motion/shared-element.js"></script>
+  <script src="js/motion/cursor.js"></script>
+  <script src="js/motion/counters.js"></script>
+  <script src="js/motion/cart-motion.js"></script>
+  <script src="js/motion/loading-motion.js"></script>
+  <script src="js/motion/motion-manager.js"></script>
+  <script src="js/pages/login-page.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

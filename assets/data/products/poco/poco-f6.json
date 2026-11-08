@@ -1,0 +1,366 @@
+{
+  "id": "poco-f6",
+  "model": "POCO F6",
+  "brand": "POCO",
+  "brandId": "poco",
+  "parentGroupId": "xiaomi",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "midrange"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "highlights": [
+      "Hiệu năng bùng nổ với Snapdragon 8s Gen 3 (4nm), RAM LPDDR5X, ROM UFS 4.0 và tản nhiệt IceLoop",
+      "Màn hình 6,67 inch 1.5K Flow AMOLED 68 tỷ màu, độ sáng 2.400 nit, kính Gorilla Glass Victus",
+      "Camera chính 50MP Sony IMX882 khẩu độ lớn f/1.59 có chống rung OIS và sạc nhanh Turbo 90W"
+    ],
+    "description": "POCO F6 là mẫu 'Flagship Killer' thực thụ trong phân khúc cận cao cấp khi sở hữu vi xử lý Snapdragon 8s Gen 3 (4nm) kết hợp bộ nhớ LPDDR5X + UFS 4.0 cực nhanh, màn hình 1.5K Flow AMOLED 120Hz bảo vệ bằng kính Gorilla Glass Victus và sạc nhanh 90W trong thân máy siêu nhẹ chỉ 179g.",
+    "releaseDate": "Tháng 05/2024"
+  },
+  "display": {
+    "technology": "CrystalRes Flow AMOLED 68 tỷ màu",
+    "size": "6,67 inch",
+    "resolution": "1.5K (2712 x 1220 pixel)",
+    "refreshRate": "120Hz",
+    "brightness": "Độ sáng tối đa 2.400 nit (Peak), 1.200 nit (HBM), độ tương phản 5.000.000:1, dải màu 100% DCI-P3, chứng nhận bảo vệ mắt TÜV Rheinland",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "ram": [
+      "8GB",
+      "12GB"
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ],
+    "chipset": "Qualcomm Snapdragon 8s Gen 3 (tiến trình TSMC 4nm, cùng kiến trúc thế hệ với Snapdragon 8 Gen 3, đi kèm tản nhiệt chất lỏng LiquidCool 4.0 với hệ thống IceLoop 4800mm²)",
+    "operatingSystem": "Xiaomi HyperOS (trên nền Android 14, nâng cấp Android 15/16)",
+    "cpu": "CPU 8 nhân Kryo (1 siêu nhân Cortex-X4 xung nhịp 3.0GHz + 4 nhân hiệu năng cao Cortex-A720 2.8GHz + 3 nhân tiết kiệm điện Cortex-A520 2.0GHz)",
+    "gpu": "Qualcomm Adreno 735 (tối ưu hóa bằng công nghệ WildBoost Optimization 3.0)"
+  },
+  "rearCamera": {
+    "main": "50MP Sony IMX882 OIS + 8MP Góc siêu rộng",
+    "ultraWide": null,
+    "telephoto": null,
+    "ois": true,
+    "videoRecording": [
+      "Quay video 4K ở 30/60 fps; 1080p ở 30/60/120/240 fps; quay chuyển động siêu chậm 720p ở 120/240/960 fps; hỗ trợ HDR10+"
+    ],
+    "aiFeatures": [
+      "Thuật toán Xiaomi Imaging Brain 2.0, Chụp nhanh chuyển động Motion Tracking Focus 2.0, Chụp siêu đêm Ultra Night, Xóa vật thể AI Erase Pro, Mở rộng khung hình AI Expansion"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "20MP (ƒ/2.2, AON)",
+    "features": [
+      "Camera selfie 20MP OmniVision OV20B (khẩu độ ƒ/2.2, kích thước cảm biến 1/4.0 inch), hỗ trợ điều khiển cử chỉ không chạm (AON Air Gestures), chụp đêm và quay video 1080p@30/60fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "5.000 mAh",
+    "wiredCharging": "Sạc nhanh Turbo 90W",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc nhanh Turbo Charging 90W (nạp đầy 100% pin chỉ trong khoảng 35 phút), hỗ trợ sạc thông minh ở nhiệt độ thấp tới -15°C | Không hỗ trợ sạc không dây"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano SIM (Dual 5G Standby)"
+    ],
+    "network": [
+      "5G Sub-6GHz Dual SIM"
+    ],
+    "wifi": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax, MIMO 2x2)",
+    "bluetooth": "Bluetooth 5.4 (hỗ trợ Dual-Bluetooth, aptX HD, aptX Adaptive, LHDC)",
+    "gps": [
+      "GPS (L1), GLONASS (G1), BDS (B1I+B1C), Galileo (E1), QZSS"
+    ],
+    "usb": "USB Type-C 2.0 (hỗ trợ OTG)",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "160,5 x 74,4 x 7,8 mm",
+    "weight": "179 gram (thiết kế mỏng nhẹ ấn tượng)",
+    "materials": [
+      "Khung viền polymer cường lực gia cố khung nhôm bên trong",
+      "Mặt lưng полиcarbonate hoàn thiện nhám mịn siêu nhẹ kết hợp vòng camera viền tua-bin"
+    ],
+    "waterResistance": "Kháng nước & bụi IP64",
+    "availableColors": [
+      "Titan",
+      "Xanh Lá",
+      "Đen"
+    ]
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 8690000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/poco/poco-f6/anh-dai-dien-xiaomi-poco-f6-titan.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/poco/poco-f6/anh-dai-dien-xiaomi-poco-f6-titan.webp",
+      "assets/images/products/poco/poco-f6/anh-dai-dien-xiaomi-poco-f6-den.webp",
+      "assets/images/products/poco/poco-f6/anh-dai-dien-xiaomi-poco-f6-xanh-la.webp",
+      "assets/images/products/poco/poco-f6/3-tuy-chon-mau-sac-den-xanh-la-titan.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/poco/poco-f6/anh-dai-dien-xiaomi-poco-f6-den.webp",
+        "assets/images/products/poco/poco-f6/3-tuy-chon-mau-sac-den-xanh-la-titan.webp"
+      ],
+      "Titan": [
+        "assets/images/products/poco/poco-f6/anh-dai-dien-xiaomi-poco-f6-titan.webp",
+        "assets/images/products/poco/poco-f6/3-tuy-chon-mau-sac-den-xanh-la-titan.webp"
+      ],
+      "Xanh Lá": [
+        "assets/images/products/poco/poco-f6/anh-dai-dien-xiaomi-poco-f6-xanh-la.webp",
+        "assets/images/products/poco/poco-f6/3-tuy-chon-mau-sac-den-xanh-la-titan.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/poco/poco-f6/anh-dai-dien-xiaomi-poco-f6-den.webp",
+      "screen": "assets/images/products/poco/poco-f6/anh-dai-dien-xiaomi-poco-f6-xanh-la.webp",
+      "performance": "assets/images/products/poco/poco-f6/3-tuy-chon-mau-sac-den-xanh-la-titan.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/poco/poco-f6/anh-dai-dien-xiaomi-poco-f6-den.webp",
+      "assets/images/products/poco/poco-f6/anh-dai-dien-xiaomi-poco-f6-xanh-la.webp",
+      "assets/images/products/poco/poco-f6/3-tuy-chon-mau-sac-den-xanh-la-titan.webp"
+    ]
+  },
+  "variants": [
+    {
+      "sku": "DT012-POCOF6-TITAN-8GB-256GB",
+      "color": "Titan",
+      "colorHex": "#9CA3AF",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 8690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/poco/poco-f6/anh-dai-dien-xiaomi-poco-f6-titan.webp",
+        "assets/images/products/poco/poco-f6/3-tuy-chon-mau-sac-den-xanh-la-titan.webp"
+      ]
+    },
+    {
+      "sku": "DT012-POCOF6-TITAN-12GB-512GB",
+      "color": "Titan",
+      "colorHex": "#9CA3AF",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 9990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/poco/poco-f6/anh-dai-dien-xiaomi-poco-f6-titan.webp",
+        "assets/images/products/poco/poco-f6/3-tuy-chon-mau-sac-den-xanh-la-titan.webp"
+      ]
+    },
+    {
+      "sku": "DT012-POCOF6-XANH-LA-8GB-256GB",
+      "color": "Xanh Lá",
+      "colorHex": "#228B57",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 8690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/poco/poco-f6/anh-dai-dien-xiaomi-poco-f6-xanh-la.webp",
+        "assets/images/products/poco/poco-f6/3-tuy-chon-mau-sac-den-xanh-la-titan.webp"
+      ]
+    },
+    {
+      "sku": "DT012-POCOF6-XANH-LA-12GB-512GB",
+      "color": "Xanh Lá",
+      "colorHex": "#228B57",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 9990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/poco/poco-f6/anh-dai-dien-xiaomi-poco-f6-xanh-la.webp",
+        "assets/images/products/poco/poco-f6/3-tuy-chon-mau-sac-den-xanh-la-titan.webp"
+      ]
+    },
+    {
+      "sku": "DT012-POCOF6-DEN-8GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 8690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/poco/poco-f6/anh-dai-dien-xiaomi-poco-f6-den.webp",
+        "assets/images/products/poco/poco-f6/3-tuy-chon-mau-sac-den-xanh-la-titan.webp"
+      ]
+    },
+    {
+      "sku": "DT012-POCOF6-DEN-12GB-512GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 9990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/poco/poco-f6/anh-dai-dien-xiaomi-poco-f6-den.webp",
+        "assets/images/products/poco/poco-f6/3-tuy-chon-mau-sac-den-xanh-la-titan.webp"
+      ]
+    }
+  ],
+  "docCode": "DT012-POCOF6",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "CrystalRes 1.5K Flow AMOLED, 12-bit (68,7 tỷ màu), hỗ trợ Dolby Vision, HDR10+ và làm mờ xung nhịp cao 2160Hz PWM Dimming",
+      "Kích thước màn hình": "6,67 inch (tỷ lệ màn hình trên thân máy đạt 94,27% với viền siêu mỏng)",
+      "Độ phân giải màn hình": "2712 x 1220 pixel (chuẩn 1.5K CrystalRes, mật độ điểm ảnh 446 ppi)",
+      "Tần số quét": "120Hz (tần số lấy mẫu cảm ứng tức thời 2160Hz phục vụ eSports)",
+      "Kiểu màn hình": "Màn hình phẳng đục lỗ viền siêu mỏng, bảo vệ bởi kính cường lực Corning Gorilla Glass Victus",
+      "Tính năng màn hình": "Độ sáng tối đa 2.400 nit (Peak), 1.200 nit (HBM), độ tương phản 5.000.000:1, dải màu 100% DCI-P3, chứng nhận bảo vệ mắt TÜV Rheinland"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera kép chống rung kép: Camera chính 50MP Sony IMX882 (kích thước cảm biến 1/1.95 inch, khẩu độ lớn ƒ/1.59, điểm ảnh gộp 1.6μm, lấy nét toàn điểm ảnh All-pixel PDAF, chống rung quang học OIS + EIS) + Camera góc siêu rộng 8MP Sony IMX355 (góc nhìn 119°)",
+      "Quay video": "Quay video 4K ở 30/60 fps; 1080p ở 30/60/120/240 fps; quay chuyển động siêu chậm 720p ở 120/240/960 fps; hỗ trợ HDR10+",
+      "Tính năng camera": "Thuật toán Xiaomi Imaging Brain 2.0, Chụp nhanh chuyển động Motion Tracking Focus 2.0, Chụp siêu đêm Ultra Night, Xóa vật thể AI Erase Pro, Mở rộng khung hình AI Expansion"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera selfie 20MP OmniVision OV20B (khẩu độ ƒ/2.2, kích thước cảm biến 1/4.0 inch), hỗ trợ điều khiển cử chỉ không chạm (AON Air Gestures), chụp đêm và quay video 1080p@30/60fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 8s Gen 3 (tiến trình TSMC 4nm, cùng kiến trúc thế hệ với Snapdragon 8 Gen 3, đi kèm tản nhiệt chất lỏng LiquidCool 4.0 với hệ thống IceLoop 4800mm²)",
+      "Loại CPU": "CPU 8 nhân Kryo (1 siêu nhân Cortex-X4 xung nhịp 3.0GHz + 4 nhân hiệu năng cao Cortex-A720 2.8GHz + 3 nhân tiết kiệm điện Cortex-A520 2.0GHz)",
+      "GPU": "Qualcomm Adreno 735 (tối ưu hóa bằng công nghệ WildBoost Optimization 3.0)"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB / 12GB LPDDR5X tốc độ cao 8533Mbps",
+      "Bộ nhớ trong": "256GB / 512GB chuẩn UFS 4.0 tốc độ đọc ghi vượt trội (Không hỗ trợ thẻ nhớ ngoài)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.000 mAh (tích hợp cặp chip quản lý sạc Xiaomi Surge P2 và quản lý pin Surge G1)",
+      "Công nghệ sạc": "Sạc nhanh Turbo Charging 90W (nạp đầy 100% pin chỉ trong khoảng 35 phút), hỗ trợ sạc thông minh ở nhiệt độ thấp tới -15°C | Không hỗ trợ sạc không dây",
+      "Cổng sạc": "USB Type-C 2.0 (hỗ trợ OTG)"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS (trên nền Android 14, nâng cấp Android 15/16)",
+      "Công nghệ - Tiện ích": "AI Air Gestures điều khiển không chạm, Phụ đề AI, Tóm tắt ghi âm AI, Chế độ Game Turbo với WildBoost 3.0, Cổng hồng ngoại IR Blaster",
+      "Tiện ích khác": "Hệ thống tản nhiệt vòng lặp IceLoop 4800mm², động cơ rung tuyến tính trục X",
+      "Thời điểm ra mắt": "05/2024"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G Sub-6GHz (SA/NSA), 4G LTE tốc độ cao",
+      "Thẻ SIM": "2 Nano SIM (Dual 5G Standby)",
+      "Wi-Fi": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax, MIMO 2x2)",
+      "Bluetooth": "Bluetooth 5.4 (hỗ trợ Dual-Bluetooth, aptX HD, aptX Adaptive, LHDC)",
+      "Công nghệ NFC": "Có hỗ trợ đầy đủ",
+      "GPS": "GPS (L1), GLONASS (G1), BDS (B1I+B1C), Galileo (E1), QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền polymer cường lực gia cố khung nhôm bên trong",
+      "Chất liệu mặt lưng": "Mặt lưng полиcarbonate hoàn thiện nhám mịn siêu nhẹ kết hợp vòng camera viền tua-bin",
+      "Kích thước": "160,5 x 74,4 x 7,8 mm",
+      "Trọng lượng": "179 gram (thiết kế mỏng nhẹ ấn tượng)",
+      "Chỉ số kháng nước, bụi": "Chuẩn IP64 (kháng bụi hoàn toàn và chống tia nước bắn mạnh)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo hỗ trợ Dolby Atmos, chứng nhận Hi-Res Audio & Hi-Res Audio Wireless",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình (hỗ trợ đo nhịp tim) & Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Cảm biến ánh sáng 360°, Cảm biến tiệm cận, La bàn điện tử, Cổng hồng ngoại IR, Cảm biến nhấp nháy (Flicker Sensor)"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,67 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "CrystalRes Flow AMOLED 68 tỷ màu"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "1.5K (2712 x 1220 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Snapdragon 8s Gen 3 (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB / 12GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB / 512GB UFS 4.0"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Sony IMX882 OIS + 8MP Góc siêu rộng"
+    },
+    {
+      "label": "Camera trước",
+      "value": "20MP (ƒ/2.2, AON)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh Turbo 90W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS (Android 14/15)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G Sub-6GHz Dual SIM"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "Kháng nước & bụi IP64"
+    }
+  ],
+  "verbatimDescription": [
+    "POCO F6 tiếp nối truyền thống hiệu năng vượt tầm giá của dòng POCO F-Series khi trang bị vi xử lý Qualcomm Snapdragon 8s Gen 3 sản xuất trên tiến trình 4nm của TSMC. Chia sẻ chung kiến trúc nhân siêu hiệu năng Cortex-X4 với dòng chip đầu bảng Snapdragon 8 Gen 3, kết hợp cùng chuẩn RAM LPDDR5X và bộ nhớ trong UFS 4.0, thiết bị đạt điểm hiệu năng ấn tượng để chinh phục mượt mà các tựa game nặng ở mức thiết lập đồ họa cao.",
+    "Để duy trì xung nhịp ổn định trong suốt các phiên chiến game kéo dài, POCO F6 tích hợp công nghệ tản nhiệt LiquidCool 4.0 với hệ thống bơm lạnh tuần hoàn IceLoop diện tích 4.800mm² tách biệt luồng khí và chất lỏng. Thuật toán WildBoost Optimization 3.0 trên nền Xiaomi HyperOS còn giúp ổn định tốc độ khung hình và độ sáng màn hình khi tải nặng.",
+    "Trải nghiệm thị giác trên POCO F6 được nâng lên chuẩn mực mới nhờ tấm nền 6,67 inch CrystalRes 1.5K Flow AMOLED 68 tỷ màu. Viền màn hình siêu mỏng đem lại tỷ lệ hiển thị tới 94,27%, kết hợp độ sáng đỉnh 2.400 nit, chuẩn Dolby Vision và công nghệ làm mờ 2160Hz PWM Dimming vừa rực rỡ ngoài nắng vừa dịu mắt trong đêm. Bề mặt màn hình được gia cố bằng kính cường lực Corning Gorilla Glass Victus cao cấp.",
+    "Về nhiếp ảnh, POCO F6 sở hữu cảm biến chính 50MP Sony IMX882 đi kèm khẩu độ cực lớn f/1.59 và chống rung quang học OIS. Khẩu độ lớn cho phép thu nhận lượng ánh sáng dồi dào hơn đáng kể khi chụp đêm và tạo hiệu ứng xóa phông quang học tự nhiên, đồng thời hỗ trợ quay video 4K@60fps mượt mà.",
+    "Dù mang trong mình viên pin 5.000 mAh và hệ thống tản nhiệt lớn, POCO F6 vẫn giữ được độ mỏng chỉ 7,8 mm và trọng lượng nhẹ đáng kinh ngạc 179 gram. Công nghệ sạc nhanh 90W Turbo Charging kết hợp bộ đôi chip quản lý năng lượng Surge P2 & G1 giúp nạp đầy 100% pin chỉ trong khoảng 35 phút."
+  ],
+  "series": "POCO F Series",
+  "priceSegment": "midrange"
+}

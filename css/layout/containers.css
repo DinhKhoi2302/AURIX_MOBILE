@@ -1,0 +1,17 @@
+/* TechPhone — Layout Containers */
+.tp-container {
+  width: 100%;
+  max-width: var(--tp-container-max);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.tp-main {
+  min-height: 68vh;
+  padding-top: 1.25rem;
+  padding-bottom: 3.5rem;
+}
+.tp-section {
+  margin-bottom: 2.25rem;
+}

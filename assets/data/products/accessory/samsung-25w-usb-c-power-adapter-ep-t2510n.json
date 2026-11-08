@@ -1,0 +1,146 @@
+{
+  "id": "samsung-25w-usb-c-power-adapter-ep-t2510n",
+  "docCode": "PK-CU007-EPT2510N",
+  "model": "Củ Sạc Nhanh Samsung Type-C 25W EP-T2510N",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "series": "Củ sạc",
+  "subCategory": "cu-sac",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "cu-sac"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Củ sạc",
+    "highlights": [
+      "25W"
+    ],
+    "description": "Phiên bản nâng cấp nhỏ gọn hơn của củ sạc 25W quốc dân từ Samsung. Ứng dụng công nghệ GaN giúp kích thước thu gọn và giảm mức tiêu thụ điện khi không tải xuống dưới 5mW, cung cấp dòng sạc chuẩn Super Fast Charging cho các dòng Galaxy A, Galaxy S và Z Fold/Flip."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 390000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/cu-sac/samsung-25w-usb-c-power-adapter-ep-t2510n/anh-dai-dien-samsung-25w-usb-c-power-adapter-ep-t2510n-trang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/cu-sac/samsung-25w-usb-c-power-adapter-ep-t2510n/anh-dai-dien-samsung-25w-usb-c-power-adapter-ep-t2510n-trang.webp",
+      "assets/images/products/accessory/cu-sac/samsung-25w-usb-c-power-adapter-ep-t2510n/anh-dai-dien-samsung-25w-usb-c-power-adapter-ep-t2510n-den.webp",
+      "assets/images/products/accessory/cu-sac/samsung-25w-usb-c-power-adapter-ep-t2510n/goc-nghieng-mat-truoc-trang.webp",
+      "assets/images/products/accessory/cu-sac/samsung-25w-usb-c-power-adapter-ep-t2510n/can-canh-cong-sac-type-c-trang.webp",
+      "assets/images/products/accessory/cu-sac/samsung-25w-usb-c-power-adapter-ep-t2510n/tu-the-nam-ngang-trang.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/accessory/cu-sac/samsung-25w-usb-c-power-adapter-ep-t2510n/anh-dai-dien-samsung-25w-usb-c-power-adapter-ep-t2510n-den.webp"
+      ],
+      "Trắng": [
+        "assets/images/products/accessory/cu-sac/samsung-25w-usb-c-power-adapter-ep-t2510n/anh-dai-dien-samsung-25w-usb-c-power-adapter-ep-t2510n-trang.webp",
+        "assets/images/products/accessory/cu-sac/samsung-25w-usb-c-power-adapter-ep-t2510n/goc-nghieng-mat-truoc-trang.webp",
+        "assets/images/products/accessory/cu-sac/samsung-25w-usb-c-power-adapter-ep-t2510n/can-canh-cong-sac-type-c-trang.webp",
+        "assets/images/products/accessory/cu-sac/samsung-25w-usb-c-power-adapter-ep-t2510n/tu-the-nam-ngang-trang.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/cu-sac/samsung-25w-usb-c-power-adapter-ep-t2510n/goc-nghieng-mat-truoc-trang.webp",
+      "screen": "assets/images/products/accessory/cu-sac/samsung-25w-usb-c-power-adapter-ep-t2510n/anh-dai-dien-samsung-25w-usb-c-power-adapter-ep-t2510n-den.webp",
+      "performance": "assets/images/products/accessory/cu-sac/samsung-25w-usb-c-power-adapter-ep-t2510n/tu-the-nam-ngang-trang.webp",
+      "camera": "assets/images/products/accessory/cu-sac/samsung-25w-usb-c-power-adapter-ep-t2510n/can-canh-cong-sac-type-c-trang.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/cu-sac/samsung-25w-usb-c-power-adapter-ep-t2510n/anh-dai-dien-samsung-25w-usb-c-power-adapter-ep-t2510n-den.webp",
+      "assets/images/products/accessory/cu-sac/samsung-25w-usb-c-power-adapter-ep-t2510n/goc-nghieng-mat-truoc-trang.webp",
+      "assets/images/products/accessory/cu-sac/samsung-25w-usb-c-power-adapter-ep-t2510n/can-canh-cong-sac-type-c-trang.webp",
+      "assets/images/products/accessory/cu-sac/samsung-25w-usb-c-power-adapter-ep-t2510n/tu-the-nam-ngang-trang.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Samsung",
+      "Công suất sạc tối đa": "25W (Super Fast Charging)",
+      "Số lượng cổng sạc": "1 cổng",
+      "Loại cổng sạc": "USB-C",
+      "Công nghệ sạc": "Super Fast Charging, PD 3.0 PPS",
+      "Công nghệ chế tạo": "GaN tiết kiệm điện năng ở chế độ chờ (< 5mW)",
+      "Kiểu chân cắm": "Chân tròn chuẩn Việt Nam / Châu Âu",
+      "Màu sắc": "Đen, Trắng"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Samsung"
+    },
+    {
+      "label": "Công suất sạc tối đa",
+      "value": "25W (Super Fast Charging)"
+    },
+    {
+      "label": "Số lượng cổng sạc",
+      "value": "1 cổng"
+    },
+    {
+      "label": "Loại cổng sạc",
+      "value": "USB-C"
+    },
+    {
+      "label": "Công nghệ sạc",
+      "value": "Super Fast Charging, PD 3.0 PPS"
+    },
+    {
+      "label": "Công nghệ chế tạo",
+      "value": "GaN tiết kiệm điện năng ở chế độ chờ (< 5mW)"
+    },
+    {
+      "label": "Kiểu chân cắm",
+      "value": "Chân tròn chuẩn Việt Nam / Châu Âu"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Đen, Trắng"
+    }
+  ],
+  "verbatimDescription": [
+    "Phiên bản nâng cấp nhỏ gọn hơn của củ sạc 25W quốc dân từ Samsung. Ứng dụng công nghệ GaN giúp kích thước thu gọn và giảm mức tiêu thụ điện khi không tải xuống dưới 5mW, cung cấp dòng sạc chuẩn Super Fast Charging cho các dòng Galaxy A, Galaxy S và Z Fold/Flip."
+  ],
+  "variants": [
+    {
+      "sku": "PK-CU007-EPT2510N-TRANG-TIEU-CHUAN",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/cu-sac/samsung-25w-usb-c-power-adapter-ep-t2510n/anh-dai-dien-samsung-25w-usb-c-power-adapter-ep-t2510n-trang.webp",
+        "assets/images/products/accessory/cu-sac/samsung-25w-usb-c-power-adapter-ep-t2510n/goc-nghieng-mat-truoc-trang.webp",
+        "assets/images/products/accessory/cu-sac/samsung-25w-usb-c-power-adapter-ep-t2510n/can-canh-cong-sac-type-c-trang.webp",
+        "assets/images/products/accessory/cu-sac/samsung-25w-usb-c-power-adapter-ep-t2510n/tu-the-nam-ngang-trang.webp"
+      ]
+    },
+    {
+      "sku": "PK-CU007-EPT2510N-DEN-TIEU-CHUAN",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/cu-sac/samsung-25w-usb-c-power-adapter-ep-t2510n/anh-dai-dien-samsung-25w-usb-c-power-adapter-ep-t2510n-den.webp"
+      ]
+    }
+  ]
+}

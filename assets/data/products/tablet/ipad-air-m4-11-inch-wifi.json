@@ -1,0 +1,531 @@
+{
+  "id": "ipad-air-m4-11-inch-wifi",
+  "docCode": "TB-AP002-AIRM4-11",
+  "model": "iPad Air 11 inch M4 Wi-Fi",
+  "brand": "Apple",
+  "brandId": "apple",
+  "parentGroupId": "apple",
+  "series": "iPad Air M4",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "11.0 inch",
+      "M4",
+      "Pin 28.93 Wh"
+    ],
+    "description": "iPad Air 11 inch trang bị vi xử lý Apple M4 mang đến một bước nhảy vọt ngoạn mục về hiệu năng và định hình lại chuẩn mực máy tính bảng mỏng nhẹ. Với thiết kế nguyên khối sang trọng cùng bốn tùy chọn màu sắc thời thượng gồm Tím pastel thanh lịch, Vàng ánh sao tinh tế, Xám không gian mạnh mẽ và Xanh dương hiện đại, thiết bị toát lên vẻ đẹp công nghệ đỉnh cao.",
+    "releaseDate": "2024 / 2025"
+  },
+  "performance": {
+    "chipset": "Apple M4 (tiến trình 3nm thế hệ thứ 2 siêu tiết kiệm điện)",
+    "ram": [
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "1TB",
+      "256GB",
+      "512GB"
+    ],
+    "operatingSystem": "iPadOS 18"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 16990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-xanh-duong.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-xanh-duong.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-tim.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-vang-anh-sao.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-xam.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-tim.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-vang-anh-sao.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-xam.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-xanh-duong.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/cam-tren-tay-goi-video-ngoai-troi-xanh-duong.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/hieu-nang-chip-m4-va-ipados-xanh-duong.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/phu-kien-trong-hop-xanh-duong.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/su-dung-kem-but-apple-pencil-pro-xanh-duong.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/tinh-nang-apple-intelligence-xanh-duong.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+    ],
+    "byColor": {
+      "Tím": [
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-tim.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-tim.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ],
+      "Vàng Ánh Sao": [
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-vang-anh-sao.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-vang-anh-sao.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ],
+      "Xám": [
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ],
+      "Xanh Dương": [
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/cam-tren-tay-goi-video-ngoai-troi-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/hieu-nang-chip-m4-va-ipados-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/phu-kien-trong-hop-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/su-dung-kem-but-apple-pencil-pro-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/tinh-nang-apple-intelligence-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-tim.webp",
+      "screen": "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-vang-anh-sao.webp",
+      "performance": "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-tim.webp",
+      "camera": "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-vang-anh-sao.webp",
+      "battery": "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/phu-kien-trong-hop-xanh-duong.webp",
+      "feature": "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-xam.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-tim.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-vang-anh-sao.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-xam.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-tim.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-vang-anh-sao.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-xam.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-xanh-duong.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/cam-tren-tay-goi-video-ngoai-troi-xanh-duong.webp",
+      "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/hieu-nang-chip-m4-va-ipados-xanh-duong.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "11 inch Liquid Retina, độ phân giải 2360 x 1640 pixels, dải màu chuẩn điện ảnh P3, True Tone, 500 nits",
+      "Tính năng màn hình": "Dải màu rộng DCI-P3, True Tone, độ sáng 500 nits, lớp phủ chống phản chiếu và chống bám vân tay"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "Apple M4 kiến trúc 3nm tối tân với 16-core Neural Engine xử lý 38 nghìn tỷ phép tính mỗi giây",
+      "CPU & Đồ họa": "8 nhân CPU thế hệ mới, 10 nhân GPU hỗ trợ Mesh Shading và Hardware-accelerated Ray Tracing",
+      "Hệ điều hành khi ra mắt": "iPadOS 18 tích hợp trọn vẹn sức mạnh trí tuệ nhân tạo Apple Intelligence"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "8GB RAM đồng nhất (Unified Memory) với băng thông bộ nhớ lên đến 120 GB/s",
+      "Bộ nhớ trong": "128GB / 256GB / 512GB / 1TB bộ nhớ lưu trữ siêu tốc độ"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "12MP Wide, khẩu độ f/1.8, zoom kỹ thuật số 5x, Smart HDR 4, quay phim 4K 60fps",
+      "Camera trước": "12MP Ultra Wide đặt ngang, góc rộng 122 độ, khẩu độ f/2.4, Center Stage",
+      "Chi tiết hệ thống Camera": "Camera sau 12MP f/1.8 tự động lấy nét Focus Pixels, quay 4K ProRes; Camera trước 12MP Ultra Wide đặt ngang hỗ trợ Center Stage"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "28.93 Wh (~7.606 mAh), sạc nhanh 30W qua cổng USB-C",
+      "Pin và công nghệ sạc": "Pin Lithium-Polymer 28.93 Wh, sạc nhanh qua cổng USB-C hỗ trợ công suất sạc lên đến 30W"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Tương thích Apple Pencil Pro (Haptic feedback, Barrel roll, Squeeze) và Apple Pencil (USB-C)",
+      "Hỗ trợ bàn phím rời": "Tương thích bàn phím Apple Magic Keyboard qua chân tiếp xúc Smart Connector",
+      "Công nghệ âm thanh": "Hệ thống loa âm thanh nổi đa chiều nằm ngang với chất âm chi tiết và âm trầm sâu lắng",
+      "Thuộc tính đặc biệt": "Hỗ trợ Apple Pencil Pro (cảm ứng bóp, xoay thân bút), Magic Keyboard mới"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Wi-Fi 6E (802.11ax) với 2x2 MIMO băng tần kép và 6GHz",
+      "Thẻ SIM": "Không hỗ trợ (Bản Wi-Fi)",
+      "Kết nối không dây & Cổng giao tiếp": "Wi-Fi 6E tốc độ cao, Bluetooth 5.3, cổng USB-C chuẩn USB 3.1 Gen 2 tốc độ truyền lên tới 10Gbps",
+      "Công nghệ - Tiện ích": "Tính năng Apple Intelligence, Stage Manager đa nhiệm chuyên nghiệp, xuất màn hình ngoài 6K"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Kiểu dáng siêu mỏng nhẹ chỉ 6.1 mm, kích thước 247.6 x 178.5 x 6.1 mm, trọng lượng 462 g",
+      "Bảo mật và độ bền": "Touch ID tích hợp tại nút nguồn, vỏ nhôm tái chế chuẩn hàng không vũ trụ",
+      "Thời điểm ra mắt": "Năm 2024 / 2025"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "11.0 inch Liquid Retina IPS LCD, độ phân giải 2360 x 1640 pixels (264 ppi)"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Dải màu rộng DCI-P3, True Tone, độ sáng 500 nits, lớp phủ chống phản chiếu và chống bám vân tay"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Apple M4 (tiến trình 3nm thế hệ thứ 2 siêu tiết kiệm điện)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB RAM băng thông 120GB/s"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB, 256GB, 512GB, 1TB"
+    },
+    {
+      "label": "Camera sau",
+      "value": "12MP Wide, khẩu độ f/1.8, zoom kỹ thuật số 5x, Smart HDR 4, quay phim 4K 60fps"
+    },
+    {
+      "label": "Camera trước",
+      "value": "12MP Ultra Wide đặt ngang, góc rộng 122 độ, khẩu độ f/2.4, Center Stage"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Pin Lithium-Polymer 28.93 Wh, sạc nhanh qua cổng USB-C hỗ trợ công suất sạc lên đến 30W"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Wi-Fi 6E (802.11ax) với 2x2 MIMO băng tần kép và 6GHz"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Tương thích Apple Pencil Pro (Haptic feedback, Barrel roll, Squeeze) và Apple Pencil (USB-C)"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Tương thích bàn phím Apple Magic Keyboard qua chân tiếp xúc Smart Connector"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "iPadOS 18"
+    }
+  ],
+  "verbatimDescription": [
+    "iPad Air 11 inch trang bị vi xử lý Apple M4 mang đến một bước nhảy vọt ngoạn mục về hiệu năng và định hình lại chuẩn mực máy tính bảng mỏng nhẹ. Với thiết kế nguyên khối sang trọng cùng bốn tùy chọn màu sắc thời thượng gồm Tím pastel thanh lịch, Vàng ánh sao tinh tế, Xám không gian mạnh mẽ và Xanh dương hiện đại, thiết bị toát lên vẻ đẹp công nghệ đỉnh cao.",
+    "Trái tim của máy là bộ vi xử lý Apple M4 sản xuất trên tiến trình 3nm thế hệ thứ hai. Với 8 nhân CPU và 10 nhân GPU hỗ trợ công nghệ dò tia Ray Tracing tăng tốc phần cứng, iPad Air M4 cho tốc độ xử lý nhanh hơn gấp nhiều lần so với các thế hệ chip trước, sẵn sàng giải quyết gọn gàng các file đồ họa 3D phức tạp, render video 4K nhiều lớp và vận hành mượt mà các mô hình trí tuệ nhân tạo Apple Intelligence.",
+    "Màn hình Liquid Retina 11 inch hiển thị hình ảnh xuất sắc với độ phân giải 2360 x 1640 pixels cùng dải màu rộng chuẩn điện ảnh DCI-P3. Lớp phủ chống lóa phản xạ chỉ 1.8% kết hợp cùng công nghệ True Tone giúp trải nghiệm thị giác luôn trong trẻo, tự nhiên dưới mọi điều kiện ánh sáng trong phòng lẫn ngoài trời.",
+    "Apple đã nâng tầm trải nghiệm đàm thoại khi chuyển camera trước 12MP Ultra Wide lên cạnh ngang của iPad Air. Nhờ đó, góc nhìn khi gọi video call hay hội họp trực tuyến trở nên tự nhiên và chuyên nghiệp hơn rất nhiều. Tính năng Center Stage sử dụng trí tuệ nhân tạo tự động quét và căn chỉnh khung hình theo từng cử động của người dùng.",
+    "Khả năng sáng tạo đột phá nhờ sự tương thích hoàn hảo với chiếc bút Apple Pencil Pro thế hệ mới nhất. Người dùng có thể bóp nhẹ thân bút để mở menu công cụ, xoay thân bút để đổi góc nét vẽ và cảm nhận rung phản hồi xúc giác chân thực, biến chiếc iPad Air thành bảng vẽ kỹ thuật số chuyên nghiệp bậc nhất dành cho các nhà thiết kế và họa sĩ.",
+    "Thời lượng pin của iPad Air 11 inch đạt mốc 10 giờ sử dụng liên tục, hỗ trợ cổng sạc USB-C chuẩn USB 3.1 Gen 2 cho tốc độ truyền tệp tin lên tới 10Gbps và xuất tín hiệu ra màn hình ngoài độ phân giải lên đến 6K. Điều này biến chiếc tablet mỏng nhẹ thành một trạm làm việc đồ họa linh hoạt mọi lúc mọi nơi.",
+    "Khi kết hợp với bàn phím Magic Keyboard có trackpad mượt mà, người dùng có được trải nghiệm gõ văn bản và làm việc đa nhiệm không thua kém bất kỳ chiếc máy tính xách tay cao cấp nào. Sự hòa quyện giữa phần cứng tối tân và phần mềm iPadOS 18 biến iPad Air 11 inch M4 thành biểu tượng của sự sáng tạo và năng suất đỉnh cao."
+  ],
+  "variants": [
+    {
+      "sku": "TB-AP002-AIRM4-11-XANH-DUONG-128GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "8GB",
+      "storage": "128GB",
+      "rom": "128GB",
+      "price": 16990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/cam-tren-tay-goi-video-ngoai-troi-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/hieu-nang-chip-m4-va-ipados-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/phu-kien-trong-hop-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/su-dung-kem-but-apple-pencil-pro-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/tinh-nang-apple-intelligence-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP002-AIRM4-11-XANH-DUONG-256GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "8GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 19490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/cam-tren-tay-goi-video-ngoai-troi-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/hieu-nang-chip-m4-va-ipados-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/phu-kien-trong-hop-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/su-dung-kem-but-apple-pencil-pro-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/tinh-nang-apple-intelligence-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP002-AIRM4-11-XANH-DUONG-512GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "8GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 24990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/cam-tren-tay-goi-video-ngoai-troi-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/hieu-nang-chip-m4-va-ipados-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/phu-kien-trong-hop-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/su-dung-kem-but-apple-pencil-pro-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/tinh-nang-apple-intelligence-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP002-AIRM4-11-XANH-DUONG-1TB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "8GB",
+      "storage": "1TB",
+      "rom": "1TB",
+      "price": 30490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/cam-tren-tay-goi-video-ngoai-troi-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/hieu-nang-chip-m4-va-ipados-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/phu-kien-trong-hop-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/su-dung-kem-but-apple-pencil-pro-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/tinh-nang-apple-intelligence-xanh-duong.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP002-AIRM4-11-TIM-128GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "8GB",
+      "storage": "128GB",
+      "rom": "128GB",
+      "price": 16990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-tim.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-tim.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP002-AIRM4-11-TIM-256GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "8GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 19490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-tim.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-tim.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP002-AIRM4-11-TIM-512GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "8GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 24990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-tim.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-tim.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP002-AIRM4-11-TIM-1TB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "8GB",
+      "storage": "1TB",
+      "rom": "1TB",
+      "price": 30490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-tim.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-tim.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP002-AIRM4-11-VANG-ANH-SAO-128GB",
+      "color": "Vàng Ánh Sao",
+      "colorHex": "#F0E5D3",
+      "ram": "8GB",
+      "storage": "128GB",
+      "rom": "128GB",
+      "price": 16990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-vang-anh-sao.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-vang-anh-sao.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP002-AIRM4-11-VANG-ANH-SAO-256GB",
+      "color": "Vàng Ánh Sao",
+      "colorHex": "#F0E5D3",
+      "ram": "8GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 19490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-vang-anh-sao.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-vang-anh-sao.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP002-AIRM4-11-VANG-ANH-SAO-512GB",
+      "color": "Vàng Ánh Sao",
+      "colorHex": "#F0E5D3",
+      "ram": "8GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 24990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-vang-anh-sao.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-vang-anh-sao.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP002-AIRM4-11-VANG-ANH-SAO-1TB",
+      "color": "Vàng Ánh Sao",
+      "colorHex": "#F0E5D3",
+      "ram": "8GB",
+      "storage": "1TB",
+      "rom": "1TB",
+      "price": 30490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-vang-anh-sao.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-vang-anh-sao.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP002-AIRM4-11-XAM-128GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "128GB",
+      "rom": "128GB",
+      "price": 16990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP002-AIRM4-11-XAM-256GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "256GB",
+      "rom": "256GB",
+      "price": 19490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP002-AIRM4-11-XAM-512GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "512GB",
+      "rom": "512GB",
+      "price": 24990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-AP002-AIRM4-11-XAM-1TB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "1TB",
+      "rom": "1TB",
+      "price": 30490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/anh-dai-dien-ipad-air-m4-11-inch-wifi-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/goc-nghieng-mat-truoc-sau-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/canh-ben-4-phien-ban-mau-xanh-tim-vang-xam.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/su-dung-kem-ban-phim-magic-keyboard-den.webp",
+        "assets/images/products/tablet/apple/ipad-air-m4-11-inch-wifi/tong-quan-tinh-nang-noi-bat-xanh-duong.webp"
+      ]
+    }
+  ]
+}

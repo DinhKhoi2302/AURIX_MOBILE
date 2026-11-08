@@ -1,0 +1,483 @@
+{
+  "id": "redmi-note-14-pro-plus",
+  "model": "Redmi Note 14 Pro Plus",
+  "brand": "Redmi",
+  "brandId": "redmi",
+  "parentGroupId": "xiaomi",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "midrange"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "highlights": [
+      "Hệ thống 3 camera chuyên nghiệp: 50MP Light Hunter 800 OIS + 50MP Tele 2.5x (60mm) + 8MP Siêu rộng",
+      "Viên pin Silicon-Carbon 6.200 mAh bền bỉ đi kèm sạc siêu tốc 90W và chip Snapdragon 7s Gen 3 (4nm)",
+      "Màn hình cong 1.5K AMOLED độ sáng 3.000 nit bảo vệ bởi kính Gorilla Glass Victus 2 và chuẩn IP68"
+    ],
+    "description": "Redmi Note 14 Pro Plus là mẫu smartphone dẫn đầu dòng Redmi Note 14 với sự kết hợp giữa độ bền All-Star Armor (kính Victus 2 + kháng nước IP68), viên pin Silicon-Carbon 6.200 mAh sạc nhanh 90W, vi xử lý Snapdragon 7s Gen 3 (4nm) và cụm 3 camera có cảm biến chính Light Hunter 800 OIS cùng ống kính Tele chân dung 50MP 2.5x.",
+    "releaseDate": "Tháng 09/2024"
+  },
+  "display": {
+    "technology": "CrystalRes 1.5K AMOLED Cong 68 tỷ màu",
+    "size": "6,67 inch",
+    "resolution": "1.5K (2712 x 1220 pixel)",
+    "refreshRate": "120Hz",
+    "brightness": "Độ sáng đỉnh 3.000 nit, cảm ứng thông minh khi tay ướt Wet Touch 2.0, đạt 3 chứng nhận bảo vệ mắt TÜV Rheinland",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "ram": [
+      "12GB",
+      "16GB"
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ],
+    "chipset": "Qualcomm Snapdragon 7s Gen 3 (tiến trình TSMC 4nm, đi kèm buồng hơi tản nhiệt VC diện tích 5000mm²)",
+    "operatingSystem": "Xiaomi HyperOS (Android 14, nâng cấp Android 15)",
+    "cpu": "CPU 8 nhân Kryo (1 nhân Cortex-A720 xung nhịp 2.5GHz + 3 nhân Cortex-A720 2.4GHz + 4 nhân Cortex-A520 1.8GHz)",
+    "gpu": "Qualcomm Adreno 810"
+  },
+  "rearCamera": {
+    "main": "50MP Light Hunter 800 OIS + 50MP Tele 2.5x + 8MP Siêu rộng",
+    "ultraWide": null,
+    "telephoto": null,
+    "ois": true,
+    "videoRecording": [
+      "Quay video 4K ở 24/30 fps; 1080p ở 30/60/120 fps; 720p ở 120/240 fps; chống rung kép OIS + EIS"
+    ],
+    "aiFeatures": [
+      "Xiaomi Imaging Brain, Chụp chân dung bán thân 60mm, Chụp đêm RAW Night Mode, AI Erase Pro, AI Image Expansion, AI Bokeh"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "20MP (ƒ/2.2)",
+    "features": [
+      "Camera selfie 20MP OmniVision OV20B (khẩu độ ƒ/2.2), hỗ trợ tự động chuyển góc rộng 0.8x khi chụp nhóm và quay video 1080p@30/60fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "6.200 mAh",
+    "wiredCharging": "Sạc siêu tốc HyperCharge 90W",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc siêu tốc 90W qua cổng USB Type-C (nạp đầy 100% trong khoảng 35–40 phút) | Không hỗ trợ sạc không dây"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano SIM (hỗ trợ eSIM tùy thị trường)"
+    ],
+    "network": [
+      "5G Sub-6GHz Dual SIM"
+    ],
+    "wifi": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax, 2x2 MIMO)",
+    "bluetooth": "Bluetooth 5.4",
+    "gps": [
+      "GPS, GLONASS, Galileo, BDS, QZSS"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "162,53 x 74,67 x 8,69 mm",
+    "weight": "210,8 gram",
+    "materials": [
+      "Khung viền composite gia cường hợp kim nhôm bên trong thuộc kiến trúc King Kong / All-Star Armor",
+      "Mặt lưng kính cường lực Corning Gorilla Glass 7i bo cong 3D hoặc da sinh học cao cấp"
+    ],
+    "waterResistance": "Kháng nước & bụi IP68",
+    "availableColors": [
+      "Tím",
+      "Vàng Đồng",
+      "Xanh Ngọc",
+      "Đen"
+    ]
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 8290000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/redmi/redmi-note-14-pro-plus/anh-dai-dien-xiaomi-redmi-note-14-pro-plus-tim.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/redmi/redmi-note-14-pro-plus/anh-dai-dien-xiaomi-redmi-note-14-pro-plus-tim.webp",
+      "assets/images/products/redmi/redmi-note-14-pro-plus/anh-dai-dien-xiaomi-redmi-note-14-pro-plus-den.webp",
+      "assets/images/products/redmi/redmi-note-14-pro-plus/anh-dai-dien-xiaomi-redmi-note-14-pro-plus-vang-dong.webp",
+      "assets/images/products/redmi/redmi-note-14-pro-plus/anh-dai-dien-xiaomi-redmi-note-14-pro-plus-xanh-ngoc.webp",
+      "assets/images/products/redmi/redmi-note-14-pro-plus/mat-truoc-man-hinh-tim.webp",
+      "assets/images/products/redmi/redmi-note-14-pro-plus/goc-nghieng-mat-lung-trai-tim.webp",
+      "assets/images/products/redmi/redmi-note-14-pro-plus/mat-lung-da-tim.webp",
+      "assets/images/products/redmi/redmi-note-14-pro-plus/canh-tren-va-canh-duoi-tim.webp",
+      "assets/images/products/redmi/redmi-note-14-pro-plus/hai-canh-ben-tim.webp",
+      "assets/images/products/redmi/redmi-note-14-pro-plus/goc-nghieng-man-hinh-phai-tim.webp",
+      "assets/images/products/redmi/redmi-note-14-pro-plus/goc-nghieng-man-hinh-trai-tim.webp",
+      "assets/images/products/redmi/redmi-note-14-pro-plus/he-thong-camera-ai-200mp-thu-phong-quang-hoc-4x-tim.webp",
+      "assets/images/products/redmi/redmi-note-14-pro-plus/he-thong-loa-kep-dolby-atmos.webp",
+      "assets/images/products/redmi/redmi-note-14-pro-plus/man-hinh-crystalres-1-5k-120hz-3000-nits.webp",
+      "assets/images/products/redmi/redmi-note-14-pro-plus/vi-xu-ly-qualcomm-snapdragon-7s-gen-3.webp",
+      "assets/images/products/redmi/redmi-note-14-pro-plus/tong-quan-tinh-nang-camera-200mp-ip68-snapdragon-7s-gen-3.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/redmi/redmi-note-14-pro-plus/anh-dai-dien-xiaomi-redmi-note-14-pro-plus-den.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/he-thong-loa-kep-dolby-atmos.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/man-hinh-crystalres-1-5k-120hz-3000-nits.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/vi-xu-ly-qualcomm-snapdragon-7s-gen-3.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/tong-quan-tinh-nang-camera-200mp-ip68-snapdragon-7s-gen-3.webp"
+      ],
+      "Tím": [
+        "assets/images/products/redmi/redmi-note-14-pro-plus/anh-dai-dien-xiaomi-redmi-note-14-pro-plus-tim.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/mat-truoc-man-hinh-tim.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/goc-nghieng-mat-lung-trai-tim.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/mat-lung-da-tim.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/canh-tren-va-canh-duoi-tim.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/hai-canh-ben-tim.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/goc-nghieng-man-hinh-phai-tim.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/goc-nghieng-man-hinh-trai-tim.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/he-thong-camera-ai-200mp-thu-phong-quang-hoc-4x-tim.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/he-thong-loa-kep-dolby-atmos.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/man-hinh-crystalres-1-5k-120hz-3000-nits.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/vi-xu-ly-qualcomm-snapdragon-7s-gen-3.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/tong-quan-tinh-nang-camera-200mp-ip68-snapdragon-7s-gen-3.webp"
+      ],
+      "Vàng Đồng": [
+        "assets/images/products/redmi/redmi-note-14-pro-plus/anh-dai-dien-xiaomi-redmi-note-14-pro-plus-vang-dong.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/he-thong-loa-kep-dolby-atmos.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/man-hinh-crystalres-1-5k-120hz-3000-nits.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/vi-xu-ly-qualcomm-snapdragon-7s-gen-3.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/tong-quan-tinh-nang-camera-200mp-ip68-snapdragon-7s-gen-3.webp"
+      ],
+      "Xanh Ngọc": [
+        "assets/images/products/redmi/redmi-note-14-pro-plus/anh-dai-dien-xiaomi-redmi-note-14-pro-plus-xanh-ngoc.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/he-thong-loa-kep-dolby-atmos.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/man-hinh-crystalres-1-5k-120hz-3000-nits.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/vi-xu-ly-qualcomm-snapdragon-7s-gen-3.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/tong-quan-tinh-nang-camera-200mp-ip68-snapdragon-7s-gen-3.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/redmi/redmi-note-14-pro-plus/goc-nghieng-mat-lung-trai-tim.webp",
+      "screen": "assets/images/products/redmi/redmi-note-14-pro-plus/mat-truoc-man-hinh-tim.webp",
+      "performance": "assets/images/products/redmi/redmi-note-14-pro-plus/vi-xu-ly-qualcomm-snapdragon-7s-gen-3.webp",
+      "camera": "assets/images/products/redmi/redmi-note-14-pro-plus/he-thong-camera-ai-200mp-thu-phong-quang-hoc-4x-tim.webp",
+      "battery": "assets/images/products/redmi/redmi-note-14-pro-plus/canh-tren-va-canh-duoi-tim.webp",
+      "feature": "assets/images/products/redmi/redmi-note-14-pro-plus/anh-dai-dien-xiaomi-redmi-note-14-pro-plus-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/redmi/redmi-note-14-pro-plus/anh-dai-dien-xiaomi-redmi-note-14-pro-plus-den.webp",
+      "assets/images/products/redmi/redmi-note-14-pro-plus/anh-dai-dien-xiaomi-redmi-note-14-pro-plus-vang-dong.webp",
+      "assets/images/products/redmi/redmi-note-14-pro-plus/anh-dai-dien-xiaomi-redmi-note-14-pro-plus-xanh-ngoc.webp",
+      "assets/images/products/redmi/redmi-note-14-pro-plus/mat-truoc-man-hinh-tim.webp",
+      "assets/images/products/redmi/redmi-note-14-pro-plus/goc-nghieng-mat-lung-trai-tim.webp",
+      "assets/images/products/redmi/redmi-note-14-pro-plus/mat-lung-da-tim.webp",
+      "assets/images/products/redmi/redmi-note-14-pro-plus/canh-tren-va-canh-duoi-tim.webp",
+      "assets/images/products/redmi/redmi-note-14-pro-plus/hai-canh-ben-tim.webp",
+      "assets/images/products/redmi/redmi-note-14-pro-plus/goc-nghieng-man-hinh-phai-tim.webp",
+      "assets/images/products/redmi/redmi-note-14-pro-plus/goc-nghieng-man-hinh-trai-tim.webp"
+    ]
+  },
+  "variants": [
+    {
+      "sku": "DT022-RN14PP-TIM-12GB-256GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 8290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-note-14-pro-plus/anh-dai-dien-xiaomi-redmi-note-14-pro-plus-tim.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/mat-truoc-man-hinh-tim.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/goc-nghieng-mat-lung-trai-tim.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/mat-lung-da-tim.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/canh-tren-va-canh-duoi-tim.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/hai-canh-ben-tim.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/goc-nghieng-man-hinh-phai-tim.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/goc-nghieng-man-hinh-trai-tim.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/he-thong-camera-ai-200mp-thu-phong-quang-hoc-4x-tim.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/he-thong-loa-kep-dolby-atmos.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/man-hinh-crystalres-1-5k-120hz-3000-nits.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/vi-xu-ly-qualcomm-snapdragon-7s-gen-3.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/tong-quan-tinh-nang-camera-200mp-ip68-snapdragon-7s-gen-3.webp"
+      ]
+    },
+    {
+      "sku": "DT022-RN14PP-TIM-16GB-512GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 9490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-note-14-pro-plus/anh-dai-dien-xiaomi-redmi-note-14-pro-plus-tim.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/mat-truoc-man-hinh-tim.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/goc-nghieng-mat-lung-trai-tim.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/mat-lung-da-tim.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/canh-tren-va-canh-duoi-tim.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/hai-canh-ben-tim.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/goc-nghieng-man-hinh-phai-tim.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/goc-nghieng-man-hinh-trai-tim.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/he-thong-camera-ai-200mp-thu-phong-quang-hoc-4x-tim.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/he-thong-loa-kep-dolby-atmos.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/man-hinh-crystalres-1-5k-120hz-3000-nits.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/vi-xu-ly-qualcomm-snapdragon-7s-gen-3.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/tong-quan-tinh-nang-camera-200mp-ip68-snapdragon-7s-gen-3.webp"
+      ]
+    },
+    {
+      "sku": "DT022-RN14PP-VANG-DONG-12GB-256GB",
+      "color": "Vàng Đồng",
+      "colorHex": "#CA8A04",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 8290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-note-14-pro-plus/anh-dai-dien-xiaomi-redmi-note-14-pro-plus-vang-dong.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/he-thong-loa-kep-dolby-atmos.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/man-hinh-crystalres-1-5k-120hz-3000-nits.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/vi-xu-ly-qualcomm-snapdragon-7s-gen-3.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/tong-quan-tinh-nang-camera-200mp-ip68-snapdragon-7s-gen-3.webp"
+      ]
+    },
+    {
+      "sku": "DT022-RN14PP-VANG-DONG-16GB-512GB",
+      "color": "Vàng Đồng",
+      "colorHex": "#CA8A04",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 9490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-note-14-pro-plus/anh-dai-dien-xiaomi-redmi-note-14-pro-plus-vang-dong.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/he-thong-loa-kep-dolby-atmos.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/man-hinh-crystalres-1-5k-120hz-3000-nits.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/vi-xu-ly-qualcomm-snapdragon-7s-gen-3.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/tong-quan-tinh-nang-camera-200mp-ip68-snapdragon-7s-gen-3.webp"
+      ]
+    },
+    {
+      "sku": "DT022-RN14PP-XANH-NGOC-12GB-256GB",
+      "color": "Xanh Ngọc",
+      "colorHex": "#48B5A3",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 8290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-note-14-pro-plus/anh-dai-dien-xiaomi-redmi-note-14-pro-plus-xanh-ngoc.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/he-thong-loa-kep-dolby-atmos.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/man-hinh-crystalres-1-5k-120hz-3000-nits.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/vi-xu-ly-qualcomm-snapdragon-7s-gen-3.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/tong-quan-tinh-nang-camera-200mp-ip68-snapdragon-7s-gen-3.webp"
+      ]
+    },
+    {
+      "sku": "DT022-RN14PP-XANH-NGOC-16GB-512GB",
+      "color": "Xanh Ngọc",
+      "colorHex": "#48B5A3",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 9490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-note-14-pro-plus/anh-dai-dien-xiaomi-redmi-note-14-pro-plus-xanh-ngoc.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/he-thong-loa-kep-dolby-atmos.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/man-hinh-crystalres-1-5k-120hz-3000-nits.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/vi-xu-ly-qualcomm-snapdragon-7s-gen-3.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/tong-quan-tinh-nang-camera-200mp-ip68-snapdragon-7s-gen-3.webp"
+      ]
+    },
+    {
+      "sku": "DT022-RN14PP-DEN-12GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 8290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-note-14-pro-plus/anh-dai-dien-xiaomi-redmi-note-14-pro-plus-den.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/he-thong-loa-kep-dolby-atmos.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/man-hinh-crystalres-1-5k-120hz-3000-nits.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/vi-xu-ly-qualcomm-snapdragon-7s-gen-3.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/tong-quan-tinh-nang-camera-200mp-ip68-snapdragon-7s-gen-3.webp"
+      ]
+    },
+    {
+      "sku": "DT022-RN14PP-DEN-16GB-512GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 9490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-note-14-pro-plus/anh-dai-dien-xiaomi-redmi-note-14-pro-plus-den.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/he-thong-loa-kep-dolby-atmos.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/man-hinh-crystalres-1-5k-120hz-3000-nits.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/vi-xu-ly-qualcomm-snapdragon-7s-gen-3.webp",
+        "assets/images/products/redmi/redmi-note-14-pro-plus/tong-quan-tinh-nang-camera-200mp-ip68-snapdragon-7s-gen-3.webp"
+      ]
+    }
+  ],
+  "docCode": "DT022-RN14PP",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "CrystalRes 1.5K AMOLED cong 3D, 12-bit (68,7 tỷ màu), hỗ trợ Dolby Vision, HDR10+, làm mờ 1920Hz PWM Dimming",
+      "Kích thước màn hình": "6,67 inch",
+      "Độ phân giải màn hình": "2712 x 1220 pixel (chuẩn 1.5K, mật độ điểm ảnh 446 ppi)",
+      "Tần số quét": "120Hz (tần số lấy mẫu cảm ứng tức thời 2560Hz)",
+      "Kiểu màn hình": "Màn hình cong tràn cạnh đối xứng, bảo vệ bởi kính cường lực Corning Gorilla Glass Victus 2",
+      "Tính năng màn hình": "Độ sáng đỉnh 3.000 nit, cảm ứng thông minh khi tay ướt Wet Touch 2.0, đạt 3 chứng nhận bảo vệ mắt TÜV Rheinland"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera đa tiêu cự cao cấp: Camera chính 50MP Light Hunter 800 (cảm biến 1/1.55 inch, khẩu độ ƒ/1.6, điểm ảnh gộp 2.0μm, dải tương phản 13.2EV, chống rung quang học OIS) + Camera Tele chân dung 50MP (tiêu cự 60mm, khẩu độ ƒ/2.0, zoom quang học 2.5x, zoom lossless 5x) + Camera góc siêu rộng 8MP (khẩu độ ƒ/2.2, góc nhìn 120°)",
+      "Quay video": "Quay video 4K ở 24/30 fps; 1080p ở 30/60/120 fps; 720p ở 120/240 fps; chống rung kép OIS + EIS",
+      "Tính năng camera": "Xiaomi Imaging Brain, Chụp chân dung bán thân 60mm, Chụp đêm RAW Night Mode, AI Erase Pro, AI Image Expansion, AI Bokeh"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera selfie 20MP OmniVision OV20B (khẩu độ ƒ/2.2), hỗ trợ tự động chuyển góc rộng 0.8x khi chụp nhóm và quay video 1080p@30/60fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 7s Gen 3 (tiến trình TSMC 4nm, đi kèm buồng hơi tản nhiệt VC diện tích 5000mm²)",
+      "Loại CPU": "CPU 8 nhân Kryo (1 nhân Cortex-A720 xung nhịp 2.5GHz + 3 nhân Cortex-A720 2.4GHz + 4 nhân Cortex-A520 1.8GHz)",
+      "GPU": "Qualcomm Adreno 810"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "12GB / 16GB (hỗ trợ mở rộng RAM ảo thêm tối đa 12GB)",
+      "Bộ nhớ trong": "256GB / 512GB"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "6.200 mAh (Pin Silicon-Carbon mật độ năng lượng cao 814Wh/L tích hợp chip quản lý Surge P2 & G1, hoạt động ở -20°C)",
+      "Công nghệ sạc": "Sạc siêu tốc 90W qua cổng USB Type-C (nạp đầy 100% trong khoảng 35–40 phút) | Không hỗ trợ sạc không dây",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS (Android 14, nâng cấp Android 15)",
+      "Công nghệ - Tiện ích": "Bộ công cụ AI (Circle to Search, AI Interpreter, AI Notes, AI Subtitles), Cổng hồng ngoại IR Blaster, Chip tăng cường sóng Surge T1",
+      "Tiện ích khác": "Cấu trúc chống va đập All-Star Armor (kính Victus 2 mặt trước + Gorilla Glass 7i mặt sau), kháng nước IP68",
+      "Thời điểm ra mắt": "09/2024 - 01/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G Sub-6GHz (SA/NSA), Dual 5G Standby",
+      "Thẻ SIM": "2 Nano SIM (hỗ trợ eSIM tùy thị trường)",
+      "Wi-Fi": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax, 2x2 MIMO)",
+      "Bluetooth": "Bluetooth 5.4",
+      "Công nghệ NFC": "Có hỗ trợ đầy đủ",
+      "GPS": "GPS, GLONASS, Galileo, BDS, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền composite gia cường hợp kim nhôm bên trong thuộc kiến trúc King Kong / All-Star Armor",
+      "Chất liệu mặt lưng": "Mặt lưng kính cường lực Corning Gorilla Glass 7i bo cong 3D hoặc da sinh học cao cấp",
+      "Kích thước": "162,53 x 74,67 x 8,69 mm",
+      "Trọng lượng": "210,8 gram",
+      "Chỉ số kháng nước, bụi": "Chuẩn IP68 (kháng bụi tuyệt đối và chịu ngâm nước ở độ sâu 1,5m trong 30 phút)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo hỗ trợ Dolby Atmos, Hi-Res Audio & Hi-Res Wireless",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình & Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Cảm biến ánh sáng 360°, Cảm biến tiệm cận, La bàn điện tử, Hồng ngoại IR"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,67 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "CrystalRes 1.5K AMOLED Cong 68 tỷ màu"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "1.5K (2712 x 1220 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Snapdragon 7s Gen 3 (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB / 16GB LPDDR4X/LPDDR5"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB / 512GB UFS 2.2/UFS 3.1"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Light Hunter 800 OIS + 50MP Tele 2.5x + 8MP Siêu rộng"
+    },
+    {
+      "label": "Camera trước",
+      "value": "20MP (ƒ/2.2)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "6.200 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc siêu tốc HyperCharge 90W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS (Android 14/15)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G Sub-6GHz Dual SIM"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "Kháng nước & bụi IP68"
+    }
+  ],
+  "verbatimDescription": [
+    "Redmi Note 14 Pro Plus định nghĩa lại chuẩn mực độ bền và nhiếp ảnh ở phân khúc tầm trung - cận cao cấp. Thiết bị được chế tác theo kiến trúc All-Star Armor với mặt trước bảo vệ bởi kính Corning Gorilla Glass Victus 2, mặt lưng kính Gorilla Glass 7i bo cong đối xứng và đạt chuẩn kháng bụi nước IP68.",
+    "Hệ thống camera sau tạo sự khác biệt lớn nhờ trang bị cảm biến chính 50MP Light Hunter 800 kích thước 1/1.55 inch có dải tương phản động cao 13.2EV và chống rung OIS, phối hợp cùng ống kính Tele 50MP tiêu cự vàng 60mm hỗ trợ zoom quang 2.5x và zoom lossless 5x chuyên trị ảnh chân dung xóa phông.",
+    "Về năng lượng, Redmi Note 14 Pro Plus sở hữu viên pin Silicon-Carbon dung lượng lên tới 6.200 mAh với mật độ năng lượng 814Wh/L, hoạt động ổn định ngay cả trong môi trường lạnh -20°C và nạp đầy nhanh chóng qua công nghệ sạc 90W.",
+    "Trái tim của máy là vi xử lý Qualcomm Snapdragon 7s Gen 3 sản xuất trên tiến trình 4nm TSMC đi kèm buồng hơi tản nhiệt VC 5.000mm², đảm bảo hiệu suất mượt mà cho cả công việc lẫn giải trí.",
+    "Màn hình cong 6,67 inch CrystalRes 1.5K AMOLED 68 tỷ màu có độ sáng đỉnh 3.000 nit, hỗ trợ Dolby Vision và đi kèm hệ thống loa kép Stereo chuẩn Hi-Res Audio."
+  ],
+  "series": "Redmi Note 14 Series",
+  "priceSegment": "midrange"
+}

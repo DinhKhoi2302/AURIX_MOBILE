@@ -1,0 +1,291 @@
+{
+  "id": "samsung-galaxy-tab-a11-plus-wifi",
+  "docCode": "TB-SS003-A11P-WF",
+  "model": "Samsung Galaxy Tab A11 Plus Wi-Fi",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "series": "Galaxy Tab A11 Series",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "11.0 inch",
+      "Dimensity 7300",
+      "Pin 7.040 mAh"
+    ],
+    "description": "Samsung Galaxy Tab A11 Plus Wi-Fi là chiếc máy tính bảng màn hình lớn 11 inch hoàn hảo cho nhu cầu học tập, giải trí và làm việc tại nhà. Thiết kế viền mỏng tinh tế kết hợp thân kim loại unibody cao cấp với hai gam màu Bạc và Xám mang lại phong cách hiện đại, thanh lịch.",
+    "releaseDate": "2024 / 2025"
+  },
+  "performance": {
+    "chipset": "MediaTek Dimensity 7300 (tiến trình 4nm tiên tiến)",
+    "ram": [
+      "6GB",
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "operatingSystem": "Android 14 (One UI 6.1)"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 5990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/anh-dai-dien-samsung-galaxy-tab-a11-plus-wifi-bac.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/anh-dai-dien-samsung-galaxy-tab-a11-plus-wifi-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/anh-dai-dien-samsung-galaxy-tab-a11-plus-wifi-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-sau-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-nam-ngang-nghieng-phai-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-nam-ngang-nghieng-phai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-nam-ngang-nghieng-trai-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-nam-ngang-nghieng-trai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thiet-ke-mong-nhe-cam-hung-galaxy-s-xam-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thong-so-chip-mediatek-dimensity-7300-xam-den.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thong-so-man-hinh-tft-lcd-11-inch-90hz-den-xanh.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thong-so-pin-7040mah-sac-nhanh-25w-den-xanh.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/tong-quan-tinh-nang-ai-pin-7040mah-sac-25w-xam-xanh.webp"
+    ],
+    "byColor": {
+      "Bạc": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/anh-dai-dien-samsung-galaxy-tab-a11-plus-wifi-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-sau-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-nam-ngang-nghieng-phai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-nam-ngang-nghieng-trai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thiet-ke-mong-nhe-cam-hung-galaxy-s-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thong-so-chip-mediatek-dimensity-7300-xam-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thong-so-man-hinh-tft-lcd-11-inch-90hz-den-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thong-so-pin-7040mah-sac-nhanh-25w-den-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/tong-quan-tinh-nang-ai-pin-7040mah-sac-25w-xam-xanh.webp"
+      ],
+      "Xám": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/anh-dai-dien-samsung-galaxy-tab-a11-plus-wifi-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-nam-ngang-nghieng-phai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-nam-ngang-nghieng-trai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thiet-ke-mong-nhe-cam-hung-galaxy-s-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thong-so-chip-mediatek-dimensity-7300-xam-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thong-so-man-hinh-tft-lcd-11-inch-90hz-den-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thong-so-pin-7040mah-sac-nhanh-25w-den-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/tong-quan-tinh-nang-ai-pin-7040mah-sac-25w-xam-xanh.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-sau-bac.webp",
+      "screen": "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-nam-ngang-nghieng-phai-bac.webp",
+      "performance": "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-nam-ngang-nghieng-phai-xam.webp",
+      "camera": "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/anh-dai-dien-samsung-galaxy-tab-a11-plus-wifi-xam.webp",
+      "battery": "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thong-so-pin-7040mah-sac-nhanh-25w-den-xanh.webp",
+      "feature": "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-nam-ngang-nghieng-trai-bac.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/anh-dai-dien-samsung-galaxy-tab-a11-plus-wifi-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-sau-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-nam-ngang-nghieng-phai-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-nam-ngang-nghieng-phai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-nam-ngang-nghieng-trai-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-nam-ngang-nghieng-trai-xam.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thiet-ke-mong-nhe-cam-hung-galaxy-s-xam-bac.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thong-so-chip-mediatek-dimensity-7300-xam-den.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thong-so-man-hinh-tft-lcd-11-inch-90hz-den-xanh.webp",
+      "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thong-so-pin-7040mah-sac-nhanh-25w-den-xanh.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "11,0 inch WUXGA LCD (1920 x 1200 pixel), tỷ lệ 16:10, tần số quét 90Hz mượt mà, độ sáng nâng cấp 500 nit",
+      "Tính năng màn hình": "Tần số quét 90Hz, chế độ bảo vệ mắt Eye Comfort Shield và hỗ trợ hiển thị đồng thời 3 ứng dụng đa nhiệm"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "MediaTek Dimensity 7300 4nm mạnh mẽ, mát máy và ổn định",
+      "CPU & Đồ họa": "Octa-core 4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55, GPU Mali-G615 MC2",
+      "Hệ điều hành khi ra mắt": "Android 14 One UI 6.1 giao diện tối ưu hóa cho màn hình máy tính bảng"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "6GB / 8GB RAM LPDDR4X",
+      "Bộ nhớ trong": "128GB / 256GB, hỗ trợ thẻ cắm MicroSD mở rộng lưu trữ"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "8MP tự động lấy nét, quay phim 1080p 30fps",
+      "Camera trước": "5MP góc rộng đặt ngang phục vụ họp và học trực tuyến",
+      "Chi tiết hệ thống Camera": "Camera chính 8MP AF có quay phim Full HD; Camera trước 5MP tối ưu cuộc gọi video"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "7.040 mAh, sạc nhanh công suất 25W qua USB-C",
+      "Pin và công nghệ sạc": "Pin Lithium-Polymer 7.040 mAh, sạc nhanh 25W qua cổng USB-C"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Tương thích các dòng bút cảm ứng stylus điện dung",
+      "Hỗ trợ bàn phím rời": "Kết nối bàn phím và chuột không dây Bluetooth",
+      "Công nghệ âm thanh": "Dàn 4 loa ngoài Quad Speakers tích hợp âm thanh vòm Dolby Atmos",
+      "Thuộc tính đặc biệt": "Màn hình lớn 11 inch 90Hz, 4 loa stereo Dolby Atmos, pin 7.040mAh, sạc nhanh 25W"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Wi-Fi 6 (802.11ax) băng tần kép",
+      "Thẻ SIM": "Không hỗ trợ (Bản thuần Wi-Fi)",
+      "Kết nối không dây & Cổng giao tiếp": "Wi-Fi 6, Bluetooth 5.3, cổng giao tiếp dữ liệu Type-C 2.0",
+      "Công nghệ - Tiện ích": "Chia 3 cửa sổ đa nhiệm cùng lúc, tính năng Samsung DeX tiện ích"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Độ mỏng chỉ 6.9 mm, kích thước 257.1 x 168.7 x 6.9 mm, trọng lượng khoảng 480 g",
+      "Bảo mật và độ bền": "Mở khóa khuôn mặt Face Unlock, thân vỏ kim loại nguyên khối",
+      "Thời điểm ra mắt": "Năm 2024 / 2025"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "11.0 inch TFT LCD, độ phân giải sắc nét WUXGA (1920 x 1200 pixels)"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Tần số quét 90Hz mượt mà, tỷ lệ 16:10, độ sáng 500 nits"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 7300 (tiến trình 4nm tiên tiến)"
+    },
+    {
+      "label": "RAM",
+      "value": "6GB / 8GB"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB (Hỗ trợ thẻ nhớ MicroSD tối đa 1TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "8MP tự động lấy nét, quay phim 1080p 30fps"
+    },
+    {
+      "label": "Camera trước",
+      "value": "5MP góc rộng đặt ngang phục vụ họp và học trực tuyến"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Pin Lithium-Polymer 7.040 mAh, sạc nhanh 25W qua cổng USB-C"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Wi-Fi 6 (802.11ax) băng tần kép"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Tương thích các dòng bút cảm ứng stylus điện dung"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Kết nối bàn phím và chuột không dây Bluetooth"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 14 (One UI 6.1)"
+    }
+  ],
+  "verbatimDescription": [
+    "Samsung Galaxy Tab A11 Plus Wi-Fi là chiếc máy tính bảng màn hình lớn 11 inch hoàn hảo cho nhu cầu học tập, giải trí và làm việc tại nhà. Thiết kế viền mỏng tinh tế kết hợp thân kim loại unibody cao cấp với hai gam màu Bạc và Xám mang lại phong cách hiện đại, thanh lịch.",
+    "Màn hình 11 inch WUXGA với tần số quét 90Hz giúp trải nghiệm đọc sách, xem phim Netflix và lướt web vô cùng mượt mà, hạn chế tối đa bóng mờ chuyển động. Hệ thống âm thanh 4 loa vòm chuẩn Dolby Atmos đem lại chất lượng âm thanh nổi sống động, biến phòng khách gia đình thành không gian rạp phim mini.",
+    "Trang bị vi xử lý 4nm Dimensity 7300 tiên tiến, thiết bị xử lý nhẹ nhàng các tác vụ văn phòng, học tập đa nhiệm và game đồ họa phổ biến. Viên pin lớn 7.040 mAh cùng sạc nhanh 25W đảm bảo thiết bị luôn sẵn sàng phục vụ nhu cầu sử dụng của cả gia đình suốt cả ngày dài.",
+    "Khi kích hoạt chế độ Samsung DeX và kết nối với bàn phím, chuột không dây, Galaxy Tab A11 Plus Wi-Fi lập tức chuyển sang giao diện cửa sổ đa nhiệm quen thuộc như trên máy tính để bàn, đáp ứng hiệu quả nhu cầu soạn thảo tài liệu và học tập của sinh viên.",
+    "Dàn 4 loa ngoài Quad Speakers hỗ trợ công nghệ âm thanh vòm Dolby Atmos phân bổ đều ở các góc máy, mang lại chất âm trong trẻo và sống động dù cầm máy theo chiều ngang hay chiều dọc.",
+    "Viên pin 7.040 mAh sạc nhanh 25W cùng khả năng đồng bộ liền mạch hệ sinh thái Galaxy (Auto Switch tai nghe Galaxy Buds, sao chép văn bản liên thiết bị, Quick Share) biến đây thành mẫu máy tính bảng gia đình đáng giá bậc nhất."
+  ],
+  "variants": [
+    {
+      "sku": "TB-SS003-A11P-WF-BAC-6GB-128GB-WI-FI",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "6GB",
+      "storage": "6GB/128GB (Wi-Fi)",
+      "rom": "128GB",
+      "price": 5990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/anh-dai-dien-samsung-galaxy-tab-a11-plus-wifi-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-sau-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-nam-ngang-nghieng-phai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-nam-ngang-nghieng-trai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thiet-ke-mong-nhe-cam-hung-galaxy-s-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thong-so-chip-mediatek-dimensity-7300-xam-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thong-so-man-hinh-tft-lcd-11-inch-90hz-den-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thong-so-pin-7040mah-sac-nhanh-25w-den-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/tong-quan-tinh-nang-ai-pin-7040mah-sac-25w-xam-xanh.webp"
+      ]
+    },
+    {
+      "sku": "TB-SS003-A11P-WF-BAC-8GB-256GB-WI-FI",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "8GB",
+      "storage": "8GB/256GB (Wi-Fi)",
+      "rom": "256GB",
+      "price": 6990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/anh-dai-dien-samsung-galaxy-tab-a11-plus-wifi-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-sau-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-nam-ngang-nghieng-phai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-nam-ngang-nghieng-trai-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thiet-ke-mong-nhe-cam-hung-galaxy-s-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thong-so-chip-mediatek-dimensity-7300-xam-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thong-so-man-hinh-tft-lcd-11-inch-90hz-den-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thong-so-pin-7040mah-sac-nhanh-25w-den-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/tong-quan-tinh-nang-ai-pin-7040mah-sac-25w-xam-xanh.webp"
+      ]
+    },
+    {
+      "sku": "TB-SS003-A11P-WF-XAM-6GB-128GB-WI-FI",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "6GB",
+      "storage": "6GB/128GB (Wi-Fi)",
+      "rom": "128GB",
+      "price": 5990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/anh-dai-dien-samsung-galaxy-tab-a11-plus-wifi-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-nam-ngang-nghieng-phai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-nam-ngang-nghieng-trai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thiet-ke-mong-nhe-cam-hung-galaxy-s-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thong-so-chip-mediatek-dimensity-7300-xam-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thong-so-man-hinh-tft-lcd-11-inch-90hz-den-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thong-so-pin-7040mah-sac-nhanh-25w-den-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/tong-quan-tinh-nang-ai-pin-7040mah-sac-25w-xam-xanh.webp"
+      ]
+    },
+    {
+      "sku": "TB-SS003-A11P-WF-XAM-8GB-256GB-WI-FI",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "8GB/256GB (Wi-Fi)",
+      "rom": "256GB",
+      "price": 6990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/anh-dai-dien-samsung-galaxy-tab-a11-plus-wifi-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-nam-ngang-nghieng-phai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/mat-truoc-nam-ngang-nghieng-trai-xam.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thiet-ke-mong-nhe-cam-hung-galaxy-s-xam-bac.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thong-so-chip-mediatek-dimensity-7300-xam-den.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thong-so-man-hinh-tft-lcd-11-inch-90hz-den-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/thong-so-pin-7040mah-sac-nhanh-25w-den-xanh.webp",
+        "assets/images/products/tablet/samsung/samsung-galaxy-tab-a11-plus-wifi/tong-quan-tinh-nang-ai-pin-7040mah-sac-25w-xam-xanh.webp"
+      ]
+    }
+  ]
+}

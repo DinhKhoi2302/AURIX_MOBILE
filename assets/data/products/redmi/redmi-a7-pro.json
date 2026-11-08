@@ -1,0 +1,427 @@
+{
+  "id": "redmi-a7-pro",
+  "model": "Redmi A7 Pro",
+  "brand": "Redmi",
+  "brandId": "redmi",
+  "parentGroupId": "xiaomi",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "entry-level"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "highlights": [
+      "Bộ nhớ lưu trữ 128GB kết hợp 4GB RAM (mở rộng RAM ảo lên 8GB) trong tầm giá siêu rẻ",
+      "Màn hình 6,74 inch tần số quét 90Hz hiển thị mượt mà và bảo vệ mắt",
+      "Viên pin 5.000 mAh sạc qua cổng USB Type-C 15W và cảm biến vân tay cạnh bên"
+    ],
+    "description": "Redmi A7 Pro là mẫu smartphone phổ thông giá tiết kiệm sở hữu bộ nhớ trong 128GB rộng rãi, màn hình lớn 6,74 inch tần số quét 90Hz, vi xử lý 8 nhân Unisoc T612 và viên pin 5.000 mAh bền bỉ.",
+    "releaseDate": "Tháng 03/2025"
+  },
+  "display": {
+    "technology": "IPS LCD 90Hz",
+    "size": "6,74 inch",
+    "resolution": "HD+ (1600 x 720 pixel)",
+    "refreshRate": "90Hz",
+    "brightness": "Độ sáng 550 nit, chế độ Đọc sách bảo vệ mắt",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "ram": [
+      "4GB"
+    ],
+    "storage": [
+      "128GB"
+    ],
+    "chipset": "Unisoc T612 8 nhân (tiến trình 12nm)",
+    "operatingSystem": "Android 15 / Xiaomi HyperOS",
+    "cpu": "CPU 8 nhân (2 nhân Cortex-A75 xung nhịp 1.8GHz + 6 nhân Cortex-A55 xung nhịp 1.8GHz)",
+    "gpu": "ARM Mali-G57"
+  },
+  "rearCamera": {
+    "main": "13MP AI Camera (ƒ/1.8) + Cảm biến phụ",
+    "ultraWide": null,
+    "telephoto": null,
+    "ois": false,
+    "videoRecording": [
+      "Quay video 1080p Full HD ở 30 fps; 720p HD ở 30 fps"
+    ],
+    "aiFeatures": [
+      "Chụp đêm, Làm đẹp chân dung AI, HDR, Bộ lọc filmCamera"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "5MP (ƒ/2.2)",
+    "features": [
+      "Camera trước 5MP (khẩu độ ƒ/2.2), tích hợp vòng sáng màn hình Soft-light Ring và quay video 720p@30fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "5.000 mAh",
+    "wiredCharging": "Sạc 15W USB-C",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc 15W qua cổng USB Type-C | Không hỗ trợ sạc không dây"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano SIM + 1 khe thẻ nhớ microSD độc lập"
+    ],
+    "network": [
+      "4G LTE Dual SIM"
+    ],
+    "wifi": "Wi-Fi 5 băng tần kép (2.4GHz / 5GHz)",
+    "bluetooth": "Bluetooth 5.0",
+    "gps": [
+      "GPS, GLONASS, Galileo"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": false
+  },
+  "design": {
+    "dimensions": "168,4 x 76,3 x 8,3 mm",
+    "weight": "192 gram",
+    "materials": [
+      "Khung viền phẳng nhựa polycarbonate",
+      "Mặt lưng vân nhám chống bám vân tay (Đen, Xanh Lá Nhạt, Xanh Dương Nhạt, Cam)"
+    ],
+    "waterResistance": "Kháng bụi & tia nước nhẹ",
+    "availableColors": [
+      "Đen",
+      "Xanh Lá Nhạt",
+      "Xanh Dương Nhạt",
+      "Cam"
+    ]
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 2690000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/redmi/redmi-a7-pro/anh-dai-dien-xiaomi-redmi-a7-pro-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/redmi/redmi-a7-pro/anh-dai-dien-xiaomi-redmi-a7-pro-den.webp",
+      "assets/images/products/redmi/redmi-a7-pro/anh-dai-dien-xiaomi-redmi-a7-pro-xanh-duong-nhat.webp",
+      "assets/images/products/redmi/redmi-a7-pro/anh-dai-dien-xiaomi-redmi-a7-pro-xanh-la-nhat.webp",
+      "assets/images/products/redmi/redmi-a7-pro/goc-nghieng-mat-lung-phai-cam.webp",
+      "assets/images/products/redmi/redmi-a7-pro/goc-nghieng-mat-lung-trai-cam.webp",
+      "assets/images/products/redmi/redmi-a7-pro/canh-tren-va-canh-duoi-den.webp",
+      "assets/images/products/redmi/redmi-a7-pro/hai-canh-ben-den.webp",
+      "assets/images/products/redmi/redmi-a7-pro/thuc-te-canh-ben-tren-hop-xanh-la-nhat.webp",
+      "assets/images/products/redmi/redmi-a7-pro/thuc-te-canh-ben-va-cum-camera-den.webp",
+      "assets/images/products/redmi/redmi-a7-pro/thuc-te-canh-duoi-cong-sac-jack-3-5mm-xanh-la-nhat.webp",
+      "assets/images/products/redmi/redmi-a7-pro/goc-nghieng-man-hinh-phai-cam.webp",
+      "assets/images/products/redmi/redmi-a7-pro/goc-nghieng-man-hinh-trai-cam.webp",
+      "assets/images/products/redmi/redmi-a7-pro/thuc-te-can-canh-cum-camera-den.webp",
+      "assets/images/products/redmi/redmi-a7-pro/thuc-te-can-canh-cum-camera-van-song-xanh-la-nhat.webp",
+      "assets/images/products/redmi/redmi-a7-pro/camera-kep-ai-13mp-sac-net-xanh-duong-nhat.webp",
+      "assets/images/products/redmi/redmi-a7-pro/hieu-nang-unisoc-t7250-ram-mo-rong-8gb-cam.webp",
+      "assets/images/products/redmi/redmi-a7-pro/man-hinh-6-9-inch-120hz-sieu-muot-800-nits.webp",
+      "assets/images/products/redmi/redmi-a7-pro/pin-6000mah-ben-bi-suot-ngay-dai.webp",
+      "assets/images/products/redmi/redmi-a7-pro/thuc-te-cam-tay-man-hinh-chinh-xanh-la-nhat.webp",
+      "assets/images/products/redmi/redmi-a7-pro/thuc-te-man-hinh-chinh-tren-ban-den.webp",
+      "assets/images/products/redmi/redmi-a7-pro/thuc-te-mat-lung-va-hop-may-den.webp",
+      "assets/images/products/redmi/redmi-a7-pro/thuc-te-mat-lung-va-hop-may-xanh-la-nhat.webp",
+      "assets/images/products/redmi/redmi-a7-pro/thuc-te-mat-truoc-va-hop-may-den.webp",
+      "assets/images/products/redmi/redmi-a7-pro/vi-xu-ly-8-nhan-unisoc-t7250.webp",
+      "assets/images/products/redmi/redmi-a7-pro/tong-quan-tinh-nang-man-hinh-6-9-inch-camera-13mp-pin-6000mah.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/redmi/redmi-a7-pro/anh-dai-dien-xiaomi-redmi-a7-pro-den.webp",
+        "assets/images/products/redmi/redmi-a7-pro/canh-tren-va-canh-duoi-den.webp",
+        "assets/images/products/redmi/redmi-a7-pro/hai-canh-ben-den.webp",
+        "assets/images/products/redmi/redmi-a7-pro/thuc-te-canh-ben-va-cum-camera-den.webp",
+        "assets/images/products/redmi/redmi-a7-pro/thuc-te-can-canh-cum-camera-den.webp",
+        "assets/images/products/redmi/redmi-a7-pro/thuc-te-man-hinh-chinh-tren-ban-den.webp",
+        "assets/images/products/redmi/redmi-a7-pro/thuc-te-mat-lung-va-hop-may-den.webp",
+        "assets/images/products/redmi/redmi-a7-pro/thuc-te-mat-truoc-va-hop-may-den.webp",
+        "assets/images/products/redmi/redmi-a7-pro/man-hinh-6-9-inch-120hz-sieu-muot-800-nits.webp",
+        "assets/images/products/redmi/redmi-a7-pro/pin-6000mah-ben-bi-suot-ngay-dai.webp",
+        "assets/images/products/redmi/redmi-a7-pro/vi-xu-ly-8-nhan-unisoc-t7250.webp",
+        "assets/images/products/redmi/redmi-a7-pro/tong-quan-tinh-nang-man-hinh-6-9-inch-camera-13mp-pin-6000mah.webp"
+      ],
+      "Xanh Dương Nhạt": [
+        "assets/images/products/redmi/redmi-a7-pro/anh-dai-dien-xiaomi-redmi-a7-pro-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-a7-pro/camera-kep-ai-13mp-sac-net-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-a7-pro/man-hinh-6-9-inch-120hz-sieu-muot-800-nits.webp",
+        "assets/images/products/redmi/redmi-a7-pro/pin-6000mah-ben-bi-suot-ngay-dai.webp",
+        "assets/images/products/redmi/redmi-a7-pro/vi-xu-ly-8-nhan-unisoc-t7250.webp",
+        "assets/images/products/redmi/redmi-a7-pro/tong-quan-tinh-nang-man-hinh-6-9-inch-camera-13mp-pin-6000mah.webp"
+      ],
+      "Xanh Lá Nhạt": [
+        "assets/images/products/redmi/redmi-a7-pro/anh-dai-dien-xiaomi-redmi-a7-pro-xanh-la-nhat.webp",
+        "assets/images/products/redmi/redmi-a7-pro/thuc-te-canh-ben-tren-hop-xanh-la-nhat.webp",
+        "assets/images/products/redmi/redmi-a7-pro/thuc-te-canh-duoi-cong-sac-jack-3-5mm-xanh-la-nhat.webp",
+        "assets/images/products/redmi/redmi-a7-pro/thuc-te-can-canh-cum-camera-van-song-xanh-la-nhat.webp",
+        "assets/images/products/redmi/redmi-a7-pro/thuc-te-cam-tay-man-hinh-chinh-xanh-la-nhat.webp",
+        "assets/images/products/redmi/redmi-a7-pro/thuc-te-mat-lung-va-hop-may-xanh-la-nhat.webp",
+        "assets/images/products/redmi/redmi-a7-pro/man-hinh-6-9-inch-120hz-sieu-muot-800-nits.webp",
+        "assets/images/products/redmi/redmi-a7-pro/pin-6000mah-ben-bi-suot-ngay-dai.webp",
+        "assets/images/products/redmi/redmi-a7-pro/vi-xu-ly-8-nhan-unisoc-t7250.webp",
+        "assets/images/products/redmi/redmi-a7-pro/tong-quan-tinh-nang-man-hinh-6-9-inch-camera-13mp-pin-6000mah.webp"
+      ],
+      "Cam": [
+        "assets/images/products/redmi/redmi-a7-pro/goc-nghieng-mat-lung-phai-cam.webp",
+        "assets/images/products/redmi/redmi-a7-pro/goc-nghieng-mat-lung-trai-cam.webp",
+        "assets/images/products/redmi/redmi-a7-pro/goc-nghieng-man-hinh-phai-cam.webp",
+        "assets/images/products/redmi/redmi-a7-pro/goc-nghieng-man-hinh-trai-cam.webp",
+        "assets/images/products/redmi/redmi-a7-pro/hieu-nang-unisoc-t7250-ram-mo-rong-8gb-cam.webp",
+        "assets/images/products/redmi/redmi-a7-pro/man-hinh-6-9-inch-120hz-sieu-muot-800-nits.webp",
+        "assets/images/products/redmi/redmi-a7-pro/pin-6000mah-ben-bi-suot-ngay-dai.webp",
+        "assets/images/products/redmi/redmi-a7-pro/vi-xu-ly-8-nhan-unisoc-t7250.webp",
+        "assets/images/products/redmi/redmi-a7-pro/tong-quan-tinh-nang-man-hinh-6-9-inch-camera-13mp-pin-6000mah.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/redmi/redmi-a7-pro/goc-nghieng-mat-lung-phai-cam.webp",
+      "screen": "assets/images/products/redmi/redmi-a7-pro/goc-nghieng-man-hinh-phai-cam.webp",
+      "performance": "assets/images/products/redmi/redmi-a7-pro/hieu-nang-unisoc-t7250-ram-mo-rong-8gb-cam.webp",
+      "camera": "assets/images/products/redmi/redmi-a7-pro/thuc-te-canh-ben-va-cum-camera-den.webp",
+      "battery": "assets/images/products/redmi/redmi-a7-pro/thuc-te-canh-duoi-cong-sac-jack-3-5mm-xanh-la-nhat.webp",
+      "feature": "assets/images/products/redmi/redmi-a7-pro/anh-dai-dien-xiaomi-redmi-a7-pro-xanh-duong-nhat.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/redmi/redmi-a7-pro/anh-dai-dien-xiaomi-redmi-a7-pro-xanh-duong-nhat.webp",
+      "assets/images/products/redmi/redmi-a7-pro/anh-dai-dien-xiaomi-redmi-a7-pro-xanh-la-nhat.webp",
+      "assets/images/products/redmi/redmi-a7-pro/goc-nghieng-mat-lung-phai-cam.webp",
+      "assets/images/products/redmi/redmi-a7-pro/goc-nghieng-mat-lung-trai-cam.webp",
+      "assets/images/products/redmi/redmi-a7-pro/canh-tren-va-canh-duoi-den.webp",
+      "assets/images/products/redmi/redmi-a7-pro/hai-canh-ben-den.webp",
+      "assets/images/products/redmi/redmi-a7-pro/thuc-te-canh-ben-tren-hop-xanh-la-nhat.webp",
+      "assets/images/products/redmi/redmi-a7-pro/thuc-te-canh-ben-va-cum-camera-den.webp",
+      "assets/images/products/redmi/redmi-a7-pro/thuc-te-canh-duoi-cong-sac-jack-3-5mm-xanh-la-nhat.webp",
+      "assets/images/products/redmi/redmi-a7-pro/goc-nghieng-man-hinh-phai-cam.webp"
+    ]
+  },
+  "variants": [
+    {
+      "sku": "DT031-RA7P-DEN-4GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 2690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-a7-pro/anh-dai-dien-xiaomi-redmi-a7-pro-den.webp",
+        "assets/images/products/redmi/redmi-a7-pro/canh-tren-va-canh-duoi-den.webp",
+        "assets/images/products/redmi/redmi-a7-pro/hai-canh-ben-den.webp",
+        "assets/images/products/redmi/redmi-a7-pro/thuc-te-canh-ben-va-cum-camera-den.webp",
+        "assets/images/products/redmi/redmi-a7-pro/thuc-te-can-canh-cum-camera-den.webp",
+        "assets/images/products/redmi/redmi-a7-pro/thuc-te-man-hinh-chinh-tren-ban-den.webp",
+        "assets/images/products/redmi/redmi-a7-pro/thuc-te-mat-lung-va-hop-may-den.webp",
+        "assets/images/products/redmi/redmi-a7-pro/thuc-te-mat-truoc-va-hop-may-den.webp",
+        "assets/images/products/redmi/redmi-a7-pro/man-hinh-6-9-inch-120hz-sieu-muot-800-nits.webp",
+        "assets/images/products/redmi/redmi-a7-pro/pin-6000mah-ben-bi-suot-ngay-dai.webp",
+        "assets/images/products/redmi/redmi-a7-pro/vi-xu-ly-8-nhan-unisoc-t7250.webp",
+        "assets/images/products/redmi/redmi-a7-pro/tong-quan-tinh-nang-man-hinh-6-9-inch-camera-13mp-pin-6000mah.webp"
+      ]
+    },
+    {
+      "sku": "DT031-RA7P-XANH-LA-NHAT-4GB-128GB",
+      "color": "Xanh Lá Nhạt",
+      "colorHex": "#D1E8D5",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 2690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-a7-pro/anh-dai-dien-xiaomi-redmi-a7-pro-xanh-la-nhat.webp",
+        "assets/images/products/redmi/redmi-a7-pro/thuc-te-canh-ben-tren-hop-xanh-la-nhat.webp",
+        "assets/images/products/redmi/redmi-a7-pro/thuc-te-canh-duoi-cong-sac-jack-3-5mm-xanh-la-nhat.webp",
+        "assets/images/products/redmi/redmi-a7-pro/thuc-te-can-canh-cum-camera-van-song-xanh-la-nhat.webp",
+        "assets/images/products/redmi/redmi-a7-pro/thuc-te-cam-tay-man-hinh-chinh-xanh-la-nhat.webp",
+        "assets/images/products/redmi/redmi-a7-pro/thuc-te-mat-lung-va-hop-may-xanh-la-nhat.webp",
+        "assets/images/products/redmi/redmi-a7-pro/man-hinh-6-9-inch-120hz-sieu-muot-800-nits.webp",
+        "assets/images/products/redmi/redmi-a7-pro/pin-6000mah-ben-bi-suot-ngay-dai.webp",
+        "assets/images/products/redmi/redmi-a7-pro/vi-xu-ly-8-nhan-unisoc-t7250.webp",
+        "assets/images/products/redmi/redmi-a7-pro/tong-quan-tinh-nang-man-hinh-6-9-inch-camera-13mp-pin-6000mah.webp"
+      ]
+    },
+    {
+      "sku": "DT031-RA7P-XANH-DUONG-NHAT-4GB-128GB",
+      "color": "Xanh Dương Nhạt",
+      "colorHex": "#D4E5F7",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 2690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-a7-pro/anh-dai-dien-xiaomi-redmi-a7-pro-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-a7-pro/camera-kep-ai-13mp-sac-net-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-a7-pro/man-hinh-6-9-inch-120hz-sieu-muot-800-nits.webp",
+        "assets/images/products/redmi/redmi-a7-pro/pin-6000mah-ben-bi-suot-ngay-dai.webp",
+        "assets/images/products/redmi/redmi-a7-pro/vi-xu-ly-8-nhan-unisoc-t7250.webp",
+        "assets/images/products/redmi/redmi-a7-pro/tong-quan-tinh-nang-man-hinh-6-9-inch-camera-13mp-pin-6000mah.webp"
+      ]
+    },
+    {
+      "sku": "DT031-RA7P-CAM-4GB-128GB",
+      "color": "Cam",
+      "colorHex": "#EA580C",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 2690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-a7-pro/goc-nghieng-mat-lung-phai-cam.webp",
+        "assets/images/products/redmi/redmi-a7-pro/goc-nghieng-mat-lung-trai-cam.webp",
+        "assets/images/products/redmi/redmi-a7-pro/goc-nghieng-man-hinh-phai-cam.webp",
+        "assets/images/products/redmi/redmi-a7-pro/goc-nghieng-man-hinh-trai-cam.webp",
+        "assets/images/products/redmi/redmi-a7-pro/hieu-nang-unisoc-t7250-ram-mo-rong-8gb-cam.webp",
+        "assets/images/products/redmi/redmi-a7-pro/man-hinh-6-9-inch-120hz-sieu-muot-800-nits.webp",
+        "assets/images/products/redmi/redmi-a7-pro/pin-6000mah-ben-bi-suot-ngay-dai.webp",
+        "assets/images/products/redmi/redmi-a7-pro/vi-xu-ly-8-nhan-unisoc-t7250.webp",
+        "assets/images/products/redmi/redmi-a7-pro/tong-quan-tinh-nang-man-hinh-6-9-inch-camera-13mp-pin-6000mah.webp"
+      ]
+    }
+  ],
+  "docCode": "DT031-RA7P",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "IPS LCD 90Hz, hỗ trợ DC Dimming và chế độ bảo vệ mắt giảm ánh sáng xanh",
+      "Kích thước màn hình": "6,74 inch",
+      "Độ phân giải màn hình": "1600 x 720 pixel (HD+, ~260 ppi)",
+      "Tần số quét": "90Hz",
+      "Kiểu màn hình": "Màn hình giọt nước, bảo vệ bởi kính cường lực",
+      "Tính năng màn hình": "Độ sáng 550 nit, chế độ Đọc sách bảo vệ mắt"
+    },
+    "Camera sau": {
+      "Camera sau": "Camera chính 13MP AI (khẩu độ ƒ/1.8, lấy nét AF) + Cảm biến phụ hỗ trợ chụp xóa phông",
+      "Quay video": "Quay video 1080p Full HD ở 30 fps; 720p HD ở 30 fps",
+      "Tính năng camera": "Chụp đêm, Làm đẹp chân dung AI, HDR, Bộ lọc filmCamera"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera trước 5MP (khẩu độ ƒ/2.2), tích hợp vòng sáng màn hình Soft-light Ring và quay video 720p@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Unisoc T612 8 nhân (tiến trình 12nm)",
+      "Loại CPU": "CPU 8 nhân (2 nhân Cortex-A75 xung nhịp 1.8GHz + 6 nhân Cortex-A55 xung nhịp 1.8GHz)",
+      "GPU": "ARM Mali-G57"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "4GB LPDDR4X (hỗ trợ mở rộng RAM ảo thêm 4GB lên 8GB)",
+      "Bộ nhớ trong": "128GB (hỗ trợ mở rộng qua khe thẻ nhớ microSD độc lập lên đến 1TB)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.000 mAh",
+      "Công nghệ sạc": "Sạc 15W qua cổng USB Type-C | Không hỗ trợ sạc không dây",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 15 / Xiaomi HyperOS",
+      "Công nghệ - Tiện ích": "Mở rộng RAM ảo, Đài FM Radio, Chế độ đơn giản",
+      "Tiện ích khác": "Giắc cắm tai nghe 3.5mm, khe cắm 2 SIM + 1 thẻ nhớ độc lập",
+      "Thời điểm ra mắt": "2025 / 2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "4G LTE Dual SIM",
+      "Thẻ SIM": "2 Nano SIM + 1 khe thẻ nhớ microSD độc lập",
+      "Wi-Fi": "Wi-Fi 5 băng tần kép (2.4GHz / 5GHz)",
+      "Bluetooth": "Bluetooth 5.0",
+      "Công nghệ NFC": "Không hỗ trợ",
+      "GPS": "GPS, GLONASS, Galileo"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền phẳng nhựa polycarbonate",
+      "Chất liệu mặt lưng": "Mặt lưng vân nhám chống bám vân tay (Đen, Xanh Lá Nhạt, Xanh Dương Nhạt, Cam)",
+      "Kích thước": "168,4 x 76,3 x 8,3 mm",
+      "Trọng lượng": "192 gram",
+      "Chỉ số kháng nước, bụi": "Kháng bụi và tia nước bắn nhẹ hàng ngày"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài lớn rõ ràng, tích hợp cổng tai nghe 3.5mm",
+      "Cảm biến vân tay": "Cảm biến vân tay tích hợp phím nguồn cạnh bên & Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Cảm biến ánh sáng ảo, Cảm biến tiệm cận ảo"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,74 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "IPS LCD 90Hz"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "HD+ (1600 x 720 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "90Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Unisoc T612 8 nhân (12nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "4GB (Mở rộng RAM ảo 4GB)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB (Hỗ trợ thẻ nhớ 1TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "13MP AI Camera (ƒ/1.8) + Cảm biến phụ"
+    },
+    {
+      "label": "Camera trước",
+      "value": "5MP (ƒ/2.2)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc 15W USB-C"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 15 / Xiaomi HyperOS"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "4G LTE Dual SIM"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "Kháng bụi & tia nước nhẹ"
+    }
+  ],
+  "verbatimDescription": [
+    "Redmi A7 Pro được thiết kế để mang lại không gian lưu trữ rộng rãi 128GB cho người dùng phổ thông với mức chi phí tiết kiệm nhất. Kết hợp cùng 4GB RAM vật lý và 4GB RAM mở rộng, máy đáp ứng tốt nhu cầu cài đặt các ứng dụng ngân hàng, mạng xã hội và lưu trữ hàng nghìn bức ảnh.",
+    "Màn hình IPS LCD 6,74 inch hỗ trợ tần số quét 90Hz giúp các thao tác vuốt cuộn trang mượt mà hơn hẳn màn hình 60Hz truyền thống, đồng thời tích hợp chế độ bảo vệ mắt vào ban đêm.",
+    "Bên trong thiết bị là vi xử lý 8 nhân Unisoc T612 tiến trình 12nm vận hành ổn định trên nền tảng Android 15 và giao diện Xiaomi HyperOS nhẹ nhàng.",
+    "Cụm camera sau 13MP AI đi kèm đèn trợ sáng và camera trước 5MP đáp ứng đầy đủ nhu cầu gọi video Zalo, Messenger và quét mã QR thanh toán hàng ngày.",
+    "Viên pin 5.000 mAh bền bỉ cùng cổng sạc USB Type-C 15W, giắc cắm tai nghe 3.5mm và cảm biến vân tay cạnh bên giúp Redmi A7 Pro trở thành chiếc điện thoại khởi đầu đáng tin cậy."
+  ],
+  "series": "Redmi Series (17 / 15C / A7)",
+  "priceSegment": "entry-level"
+}

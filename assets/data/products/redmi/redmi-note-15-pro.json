@@ -1,0 +1,516 @@
+{
+  "id": "redmi-note-15-pro",
+  "brand": "Redmi",
+  "brandId": "redmi",
+  "parentGroupId": "xiaomi_group",
+  "model": "Redmi Note 15 Pro",
+  "series": "Redmi Note 15 Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "midrange"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "Tháng 09/2025",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Redmi Note 15 Pro kết hợp màn hình cong 1.5K AMOLED 120Hz độ sáng 3.200 nit bảo vệ bởi kính Gorilla Glass Victus 2, vi xử lý Dimensity 7400-Ultra (4nm), hệ thống 3 camera 50MP OIS và viên pin 6.000 mAh sạc nhanh 67W kèm chuẩn kháng nước IP68.",
+    "highlights": [
+      "Màn hình cong 1.5K AMOLED 120Hz độ sáng đỉnh 3.200 nit và kính Gorilla Glass Victus 2",
+      "Vi xử lý MediaTek Dimensity 7400-Ultra (4nm) kết hợp RAM 8GB/12GB và ROM tới 512GB",
+      "Pin lớn 6.000 mAh sạc nhanh 67W, camera chính 50MP OIS và chuẩn kháng nước IP68"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 7290000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT024-RN15P-XANH-DUONG-NHAT-8GB-256GB",
+      "color": "Xanh Dương Nhạt",
+      "colorHex": "#D4E5F7",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 7290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-note-15-pro/anh-dai-dien-xiaomi-redmi-note-15-pro-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/mat-truoc-sau-kem-chan-dung-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/mat-truoc-man-hinh-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/goc-nghieng-mat-lung-phai-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/goc-nghieng-mat-lung-trai-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/mat-lung-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/canh-duoi-cong-sac-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/canh-phai-nut-nguon-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/canh-trai-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/canh-tren-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/goc-nghieng-man-hinh-phai-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/goc-nghieng-man-hinh-trai-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/he-thong-camera-200mp-an-tuong-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/man-hinh-flagship-6-77-inch-120hz-3200-nits.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/pin-silicon-carbon-6500mah-sieu-lon.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/vi-xu-ly-mediatek-helio-g200-ultra-tien-trinh-6nm.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/tong-quan-tinh-nang-camera-200mp-helio-g200-ultra-pin-6500mah.webp"
+      ]
+    },
+    {
+      "sku": "DT024-RN15P-XANH-DUONG-NHAT-12GB-512GB",
+      "color": "Xanh Dương Nhạt",
+      "colorHex": "#D4E5F7",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 8390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-note-15-pro/anh-dai-dien-xiaomi-redmi-note-15-pro-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/mat-truoc-sau-kem-chan-dung-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/mat-truoc-man-hinh-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/goc-nghieng-mat-lung-phai-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/goc-nghieng-mat-lung-trai-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/mat-lung-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/canh-duoi-cong-sac-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/canh-phai-nut-nguon-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/canh-trai-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/canh-tren-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/goc-nghieng-man-hinh-phai-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/goc-nghieng-man-hinh-trai-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/he-thong-camera-200mp-an-tuong-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/man-hinh-flagship-6-77-inch-120hz-3200-nits.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/pin-silicon-carbon-6500mah-sieu-lon.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/vi-xu-ly-mediatek-helio-g200-ultra-tien-trinh-6nm.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/tong-quan-tinh-nang-camera-200mp-helio-g200-ultra-pin-6500mah.webp"
+      ]
+    },
+    {
+      "sku": "DT024-RN15P-XAM-TITAN-8GB-256GB",
+      "color": "Xám Titan",
+      "colorHex": "#71717A",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 7290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-note-15-pro/anh-dai-dien-xiaomi-redmi-note-15-pro-xam-titan.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/man-hinh-flagship-6-77-inch-120hz-3200-nits.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/pin-silicon-carbon-6500mah-sieu-lon.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/vi-xu-ly-mediatek-helio-g200-ultra-tien-trinh-6nm.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/tong-quan-tinh-nang-camera-200mp-helio-g200-ultra-pin-6500mah.webp"
+      ]
+    },
+    {
+      "sku": "DT024-RN15P-XAM-TITAN-12GB-512GB",
+      "color": "Xám Titan",
+      "colorHex": "#71717A",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 8390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-note-15-pro/anh-dai-dien-xiaomi-redmi-note-15-pro-xam-titan.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/man-hinh-flagship-6-77-inch-120hz-3200-nits.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/pin-silicon-carbon-6500mah-sieu-lon.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/vi-xu-ly-mediatek-helio-g200-ultra-tien-trinh-6nm.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/tong-quan-tinh-nang-camera-200mp-helio-g200-ultra-pin-6500mah.webp"
+      ]
+    },
+    {
+      "sku": "DT024-RN15P-DEN-8GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 7290000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-note-15-pro/anh-dai-dien-xiaomi-redmi-note-15-pro-den.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/man-hinh-flagship-6-77-inch-120hz-3200-nits.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/pin-silicon-carbon-6500mah-sieu-lon.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/vi-xu-ly-mediatek-helio-g200-ultra-tien-trinh-6nm.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/tong-quan-tinh-nang-camera-200mp-helio-g200-ultra-pin-6500mah.webp"
+      ]
+    },
+    {
+      "sku": "DT024-RN15P-DEN-12GB-512GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 8390000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/redmi/redmi-note-15-pro/anh-dai-dien-xiaomi-redmi-note-15-pro-den.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/man-hinh-flagship-6-77-inch-120hz-3200-nits.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/pin-silicon-carbon-6500mah-sieu-lon.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/vi-xu-ly-mediatek-helio-g200-ultra-tien-trinh-6nm.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/tong-quan-tinh-nang-camera-200mp-helio-g200-ultra-pin-6500mah.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "AMOLED 1.5K 120Hz",
+    "size": "6,67 inch / 6,83 inch",
+    "resolution": "1.5K (2712 x 1220 pixel)",
+    "refreshRate": "120Hz",
+    "brightness": "Độ sáng đỉnh 3.200 nit, cảm ứng thông minh dưới mưa Wet Touch 2.0, chứng nhận bảo vệ mắt TÜV Rheinland",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "MediaTek Dimensity 7400-Ultra (tiến trình TSMC 4nm)",
+    "cpu": "CPU 8 nhân (4 nhân Cortex-A78 xung nhịp 2.6GHz + 4 nhân Cortex-A55 xung nhịp 2.0GHz)",
+    "gpu": "ARM Mali-G615 MC2",
+    "ram": [
+      "8GB",
+      "12GB"
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ],
+    "operatingSystem": "Xiaomi HyperOS 2.0 (Android 15)",
+    "uiVersion": "Xiaomi HyperOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Chính OIS + 12MP Siêu rộng + 2MP Macro",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "Quay video 4K ở 30/60 fps; 1080p ở 30/60/120 fps; chống rung kép OIS + EIS"
+    ],
+    "aiFeatures": [
+      "Xiaomi Imaging Engine, Chụp đêm RAW Night Mode, Chân dung AI, AI Erase Pro, AI Image Expansion"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "20MP (ƒ/2.2)",
+    "features": [
+      "Camera trước 20MP (khẩu độ ƒ/2.2), hỗ trợ HDR, làm đẹp chân dung AI và quay video 1080p@60fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "6.000 mAh",
+    "wiredCharging": "Sạc nhanh Turbo 67W",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc nhanh Turbo 67W qua cổng USB Type-C | Không hỗ trợ sạc không dây"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano SIM"
+    ],
+    "network": [
+      "5G Sub-6GHz Dual SIM"
+    ],
+    "wifi": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax)",
+    "bluetooth": "Bluetooth 5.4",
+    "gps": [
+      "GPS, GLONASS, Galileo, BDS, QZSS"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "162,5 x 74,8 x 8,2 mm",
+    "weight": "195 gram",
+    "materials": [
+      "Khung viền hợp chất gia cường cấu trúc King Kong",
+      "Mặt lưng kính nhám mờ bo cong êm ái (Xanh Dương Nhạt, Xám Titan, Đen)"
+    ],
+    "waterResistance": "Kháng nước & bụi IP68",
+    "availableColors": [
+      "Xanh Dương Nhạt",
+      "Xám Titan",
+      "Đen"
+    ]
+  },
+  "audio": {
+    "speakers": "Hệ thống loa kép Stereo hỗ trợ Dolby Atmos, Hi-Res Audio",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Redmi Note",
+    "Redmi",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Redmi tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/redmi/redmi-note-15-pro/anh-dai-dien-xiaomi-redmi-note-15-pro-xanh-duong-nhat.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/redmi/redmi-note-15-pro/anh-dai-dien-xiaomi-redmi-note-15-pro-xanh-duong-nhat.webp",
+      "assets/images/products/redmi/redmi-note-15-pro/anh-dai-dien-xiaomi-redmi-note-15-pro-den.webp",
+      "assets/images/products/redmi/redmi-note-15-pro/anh-dai-dien-xiaomi-redmi-note-15-pro-xam-titan.webp",
+      "assets/images/products/redmi/redmi-note-15-pro/mat-truoc-sau-kem-chan-dung-xanh-duong-nhat.webp",
+      "assets/images/products/redmi/redmi-note-15-pro/mat-truoc-man-hinh-xanh-duong-nhat.webp",
+      "assets/images/products/redmi/redmi-note-15-pro/goc-nghieng-mat-lung-phai-xanh-duong-nhat.webp",
+      "assets/images/products/redmi/redmi-note-15-pro/goc-nghieng-mat-lung-trai-xanh-duong-nhat.webp",
+      "assets/images/products/redmi/redmi-note-15-pro/mat-lung-xanh-duong-nhat.webp",
+      "assets/images/products/redmi/redmi-note-15-pro/canh-duoi-cong-sac-xanh-duong-nhat.webp",
+      "assets/images/products/redmi/redmi-note-15-pro/canh-phai-nut-nguon-xanh-duong-nhat.webp",
+      "assets/images/products/redmi/redmi-note-15-pro/canh-trai-xanh-duong-nhat.webp",
+      "assets/images/products/redmi/redmi-note-15-pro/canh-tren-xanh-duong-nhat.webp",
+      "assets/images/products/redmi/redmi-note-15-pro/goc-nghieng-man-hinh-phai-xanh-duong-nhat.webp",
+      "assets/images/products/redmi/redmi-note-15-pro/goc-nghieng-man-hinh-trai-xanh-duong-nhat.webp",
+      "assets/images/products/redmi/redmi-note-15-pro/he-thong-camera-200mp-an-tuong-xanh-duong-nhat.webp",
+      "assets/images/products/redmi/redmi-note-15-pro/man-hinh-flagship-6-77-inch-120hz-3200-nits.webp",
+      "assets/images/products/redmi/redmi-note-15-pro/pin-silicon-carbon-6500mah-sieu-lon.webp",
+      "assets/images/products/redmi/redmi-note-15-pro/vi-xu-ly-mediatek-helio-g200-ultra-tien-trinh-6nm.webp",
+      "assets/images/products/redmi/redmi-note-15-pro/tong-quan-tinh-nang-camera-200mp-helio-g200-ultra-pin-6500mah.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/redmi/redmi-note-15-pro/anh-dai-dien-xiaomi-redmi-note-15-pro-den.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/man-hinh-flagship-6-77-inch-120hz-3200-nits.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/pin-silicon-carbon-6500mah-sieu-lon.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/vi-xu-ly-mediatek-helio-g200-ultra-tien-trinh-6nm.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/tong-quan-tinh-nang-camera-200mp-helio-g200-ultra-pin-6500mah.webp"
+      ],
+      "Xám Titan": [
+        "assets/images/products/redmi/redmi-note-15-pro/anh-dai-dien-xiaomi-redmi-note-15-pro-xam-titan.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/man-hinh-flagship-6-77-inch-120hz-3200-nits.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/pin-silicon-carbon-6500mah-sieu-lon.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/vi-xu-ly-mediatek-helio-g200-ultra-tien-trinh-6nm.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/tong-quan-tinh-nang-camera-200mp-helio-g200-ultra-pin-6500mah.webp"
+      ],
+      "Xanh Dương Nhạt": [
+        "assets/images/products/redmi/redmi-note-15-pro/anh-dai-dien-xiaomi-redmi-note-15-pro-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/mat-truoc-sau-kem-chan-dung-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/mat-truoc-man-hinh-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/goc-nghieng-mat-lung-phai-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/goc-nghieng-mat-lung-trai-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/mat-lung-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/canh-duoi-cong-sac-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/canh-phai-nut-nguon-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/canh-trai-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/canh-tren-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/goc-nghieng-man-hinh-phai-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/goc-nghieng-man-hinh-trai-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/he-thong-camera-200mp-an-tuong-xanh-duong-nhat.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/man-hinh-flagship-6-77-inch-120hz-3200-nits.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/pin-silicon-carbon-6500mah-sieu-lon.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/vi-xu-ly-mediatek-helio-g200-ultra-tien-trinh-6nm.webp",
+        "assets/images/products/redmi/redmi-note-15-pro/tong-quan-tinh-nang-camera-200mp-helio-g200-ultra-pin-6500mah.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/redmi/redmi-note-15-pro/mat-truoc-sau-kem-chan-dung-xanh-duong-nhat.webp",
+      "screen": "assets/images/products/redmi/redmi-note-15-pro/mat-truoc-man-hinh-xanh-duong-nhat.webp",
+      "performance": "assets/images/products/redmi/redmi-note-15-pro/vi-xu-ly-mediatek-helio-g200-ultra-tien-trinh-6nm.webp",
+      "camera": "assets/images/products/redmi/redmi-note-15-pro/he-thong-camera-200mp-an-tuong-xanh-duong-nhat.webp",
+      "battery": "assets/images/products/redmi/redmi-note-15-pro/canh-duoi-cong-sac-xanh-duong-nhat.webp",
+      "feature": "assets/images/products/redmi/redmi-note-15-pro/anh-dai-dien-xiaomi-redmi-note-15-pro-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/redmi/redmi-note-15-pro/anh-dai-dien-xiaomi-redmi-note-15-pro-den.webp",
+      "assets/images/products/redmi/redmi-note-15-pro/anh-dai-dien-xiaomi-redmi-note-15-pro-xam-titan.webp",
+      "assets/images/products/redmi/redmi-note-15-pro/mat-truoc-sau-kem-chan-dung-xanh-duong-nhat.webp",
+      "assets/images/products/redmi/redmi-note-15-pro/mat-truoc-man-hinh-xanh-duong-nhat.webp",
+      "assets/images/products/redmi/redmi-note-15-pro/goc-nghieng-mat-lung-phai-xanh-duong-nhat.webp",
+      "assets/images/products/redmi/redmi-note-15-pro/goc-nghieng-mat-lung-trai-xanh-duong-nhat.webp",
+      "assets/images/products/redmi/redmi-note-15-pro/mat-lung-xanh-duong-nhat.webp",
+      "assets/images/products/redmi/redmi-note-15-pro/canh-duoi-cong-sac-xanh-duong-nhat.webp",
+      "assets/images/products/redmi/redmi-note-15-pro/canh-phai-nut-nguon-xanh-duong-nhat.webp",
+      "assets/images/products/redmi/redmi-note-15-pro/canh-trai-xanh-duong-nhat.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-xiaomi",
+      "https://www.mi.com/vn/phone/#redmi"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT024-RN15P",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "AMOLED 1.5K 120Hz, 12-bit (68,7 tỷ màu), hỗ trợ Dolby Vision, HDR10+, làm mờ 3840Hz PWM Dimming",
+      "Kích thước màn hình": "6,67 inch",
+      "Độ phân giải màn hình": "2712 x 1220 pixel (chuẩn 1.5K, mật độ điểm ảnh 446 ppi)",
+      "Tần số quét": "120Hz",
+      "Kiểu màn hình": "Màn hình cong tràn viền, bảo vệ bởi kính cường lực Corning Gorilla Glass Victus 2",
+      "Tính năng màn hình": "Độ sáng đỉnh 3.200 nit, cảm ứng thông minh dưới mưa Wet Touch 2.0, chứng nhận bảo vệ mắt TÜV Rheinland"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera: Camera chính 50MP (khẩu độ ƒ/1.5, chống rung quang học OIS) + Camera góc siêu rộng 12MP (góc nhìn 120°) + Camera Macro 2MP",
+      "Quay video": "Quay video 4K ở 30/60 fps; 1080p ở 30/60/120 fps; chống rung kép OIS + EIS",
+      "Tính năng camera": "Xiaomi Imaging Engine, Chụp đêm RAW Night Mode, Chân dung AI, AI Erase Pro, AI Image Expansion"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera trước 20MP (khẩu độ ƒ/2.2), hỗ trợ HDR, làm đẹp chân dung AI và quay video 1080p@60fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Dimensity 7400-Ultra (tiến trình TSMC 4nm)",
+      "Loại CPU": "CPU 8 nhân (4 nhân Cortex-A78 xung nhịp 2.6GHz + 4 nhân Cortex-A55 xung nhịp 2.0GHz)",
+      "GPU": "ARM Mali-G615 MC2"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB / 12GB (hỗ trợ mở rộng RAM ảo thêm tối đa 12GB)",
+      "Bộ nhớ trong": "256GB / 512GB"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "6.000 mAh (Pin Silicon-Carbon mật độ cao bền bỉ)",
+      "Công nghệ sạc": "Sạc nhanh Turbo 67W qua cổng USB Type-C | Không hỗ trợ sạc không dây",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS 2.0 (Android 15)",
+      "Công nghệ - Tiện ích": "Circle to Search, AI Erase Pro, AI Sky, Cổng hồng ngoại IR Blaster",
+      "Tiện ích khác": "Kính cường lực Gorilla Glass Victus 2 và chuẩn kháng bụi nước IP68",
+      "Thời điểm ra mắt": "2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G Sub-6GHz (SA/NSA), Dual 5G Standby",
+      "Thẻ SIM": "2 Nano SIM",
+      "Wi-Fi": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax)",
+      "Bluetooth": "Bluetooth 5.4",
+      "Công nghệ NFC": "Có hỗ trợ",
+      "GPS": "GPS, GLONASS, Galileo, BDS, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền hợp chất gia cường cấu trúc King Kong",
+      "Chất liệu mặt lưng": "Mặt lưng kính nhám mờ bo cong êm ái (Xanh Dương Nhạt, Xám Titan, Đen)",
+      "Kích thước": "162,5 x 74,8 x 8,2 mm",
+      "Trọng lượng": "195 gram",
+      "Chỉ số kháng nước, bụi": "Chuẩn IP68 (kháng bụi tuyệt đối và chịu ngâm nước ở độ sâu 1,5m trong 30 phút)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo hỗ trợ Dolby Atmos, Hi-Res Audio",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học dưới màn hình & Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Con quay hồi chuyển, Cảm biến ánh sáng, Cảm biến tiệm cận, La bàn điện tử, Hồng ngoại IR"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,67 inch / 6,83 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "AMOLED 1.5K 120Hz"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "1.5K (2712 x 1220 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 7400-Ultra (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB / 12GB LPDDR4X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB / 512GB UFS 2.2"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính OIS + 12MP Siêu rộng + 2MP Macro"
+    },
+    {
+      "label": "Camera trước",
+      "value": "20MP (ƒ/2.2)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "6.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh Turbo 67W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS 2.0 (Android 15)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G Sub-6GHz Dual SIM"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "Kháng nước & bụi IP68"
+    }
+  ],
+  "verbatimDescription": [
+    "Redmi Note 15 Pro mang đến sự nâng cấp đồng đều về thời lượng pin, tốc độ sạc và hiệu năng xử lý cho phân khúc tầm trung. Máy sở hữu màn hình cong 6,67 inch độ phân giải 1.5K sắc nét với độ sáng đỉnh 3.200 nit và kính cường lực Gorilla Glass Victus 2.",
+    "Bên trong thiết bị là vi xử lý MediaTek Dimensity 7400-Ultra sản xuất trên tiến trình 4nm TSMC, nâng xung nhịp nhân hiệu năng lên 2.6GHz để xử lý mượt mà hơn các tác vụ chỉnh sửa ảnh AI và chơi game.",
+    "Cụm 3 camera sau bao gồm cảm biến chính 50MP tích hợp chống rung quang học OIS, ống kính góc siêu rộng nâng cấp lên 12MP và ống kính Macro 2MP.",
+    "Dung lượng pin được nâng lên mức 6.000 mAh đi kèm công nghệ sạc nhanh Turbo 67W, đảm bảo nguồn năng lượng dồi dào cho cả ngày dài làm việc và giải trí.",
+    "Thiết bị đạt chuẩn kháng bụi và ngâm nước IP68, tích hợp loa kép Stereo Dolby Atmos, NFC và giao diện Xiaomi HyperOS 2.0 trên nền Android 15."
+  ],
+  "priceSegment": "midrange"
+}

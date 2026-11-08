@@ -1,0 +1,337 @@
+{
+  "id": "galaxy-a17",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "model": "Galaxy A17",
+  "series": "Galaxy A",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "entry-level"
+  ],
+  "status": "needs_verification",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 19,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Samsung Galaxy A17 (bản 4G) là mẫu smartphone phổ thông cân bằng hoàn hảo giữa chi phí và chất lượng hiển thị, trang bị màn hình Super AMOLED 6,7 inch Full HD+ 90Hz phủ kính Gorilla Glass Victus+, vi xử lý MediaTek Helio G99 (6nm) tiết kiệm điện, cụm 3 camera 50MP có chống rung quang học OIS và viên pin 5.000 mAh sạc nhanh 25W.",
+    "highlights": [
+      "6,7 inch Super AMOLED 90Hz",
+      "MediaTek Helio G99 (6nm)",
+      "Camera 50MP OIS + 5MP + 2MP",
+      "Pin 5.000 mAh · Sạc 25W · IP54"
+    ],
+    "officialDistribution": "Model được bảo lưu từ danh sách trước nhưng chưa đủ bằng chứng đang mở bán chính thức trong lượt đối chiếu ngày 01/11/2026; giữ trạng thái needs_verification để không mất dấu dữ liệu."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": null,
+    "originalPrice": null,
+    "promotionPrice": null,
+    "priceUpdatedAt": "2026-11-01",
+    "priceVerified": false
+  },
+  "variants": [
+    {
+      "sku": "AUR-SAM-A17-RAM-STD-01",
+      "color": "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)",
+      "colorHex": "#102347",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "price": null,
+      "originalPrice": null,
+      "stockStatus": "needs_verification",
+      "images": [
+        "assets/images/placeholders/placeholder-default.svg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "Super AMOLED",
+    "size": "6,7 inch",
+    "resolution": "Full HD+ (1080 x 2340 pixel)",
+    "refreshRate": "90Hz",
+    "brightness": "800 nit",
+    "hdr": null,
+    "protection": "Corning Gorilla Glass Victus+",
+    "features": [
+      "Tần số quét 90Hz",
+      "Bảo vệ mắt Eye Comfort Shield"
+    ]
+  },
+  "performance": {
+    "chipset": "MediaTek Helio G99 (6nm)",
+    "cpu": "8 nhân (2x 2,2 GHz Cortex-A76 + 6x 2,0 GHz Cortex-A55)",
+    "gpu": "Mali-G57 MC2",
+    "ram": [
+      "4GB",
+      "6GB",
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "operatingSystem": "Android 15, One UI 7",
+    "uiVersion": "One UI 7",
+    "expandableStorage": "Hỗ trợ thẻ nhớ microSDXC"
+  },
+  "rearCamera": {
+    "main": "50MP Wide f/1.8 (1/2.76\", AF, OIS)",
+    "ultraWide": "5MP Ultra Wide f/2.2",
+    "telephoto": "2MP Macro",
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "1080p@30fps"
+    ],
+    "aiFeatures": [
+      "Chống rung quang học OIS",
+      "Chân dung xóa phông"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "13MP Wide f/2.0",
+    "features": [
+      "Làm đẹp AI"
+    ],
+    "videoRecording": [
+      "1080p@30fps"
+    ]
+  },
+  "battery": {
+    "capacity": "5.000 mAh",
+    "wiredCharging": "Sạc nhanh 25W USB-C",
+    "wirelessCharging": null,
+    "reverseCharging": null,
+    "chargingTechnology": "Super Fast Charging 25W"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM"
+    ],
+    "network": [
+      "4G LTE"
+    ],
+    "wifi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép",
+    "bluetooth": "Bluetooth 5.3 (A2DP, LE)",
+    "gps": [
+      "GPS",
+      "GALILEO",
+      "GLONASS",
+      "BDS",
+      "QZSS"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "164,4 x 77,9 x 7,5 mm",
+    "weight": "190 g",
+    "materials": [
+      "Mặt trước kính Corning Gorilla Glass Victus+",
+      "Khung và mặt lưng nhựa cao cấp"
+    ],
+    "waterResistance": "IP54 (kháng bụi & kháng tia nước bắn)",
+    "availableColors": [
+      "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa đơn / Stereo tiêu chuẩn",
+    "headphoneJack": null,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "6,7 inch Super AMOLED 90Hz",
+    "MediaTek Helio G99 (6nm)",
+    "Camera 50MP OIS + 5MP + 2MP",
+    "Pin 5.000 mAh · Sạc 25W · IP54"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Samsung tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/placeholders/placeholder-default.svg",
+    "hasAvatarNamed": false,
+    "gallery": [
+      "assets/images/placeholders/placeholder-default.svg"
+    ],
+    "byColor": {},
+    "bySection": {
+      "performance": "assets/images/placeholders/placeholder-default.svg"
+    }
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s26-series",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-s25-series",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-z",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-a",
+      "https://www.samsung.com/vn/smartphones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "needs_verification",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Cần xác minh thêm",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "verbatimDescription": [
+    "Samsung Galaxy A17 (phiên bản 4G) được thiết kế dành cho người dùng tìm kiếm một chiếc smartphone màn hình đẹp, camera có chống rung OIS và thời lượng pin ấn tượng với mức giá tiết kiệm. Thân máy mỏng nhẹ chỉ 7,5 mm và nặng 190 gram mang lại cảm giác cầm nắm thoải mái suốt ngày dài.",
+    "Mặt trước của máy được bảo vệ bởi kính cường lực cao cấp Corning Gorilla Glass Victus+, bao phủ tấm nền Super AMOLED rộng 6,7 inch độ phân giải Full HD+ (1080 x 2340 pixel) và tần số quét 90Hz. Độ tương phản sâu và màu sắc tươi tắn của tấm nền Super AMOLED giúp việc xem video, đọc báo và học tập trực tuyến trở nên dễ chịu hơn.",
+    "Trái tim của Galaxy A17 4G là vi xử lý 8 nhân MediaTek Helio G99 (tiến trình 6nm) vận hành mát mẻ và ổn định, kết hợp dung lượng bộ nhớ 128GB / 256GB (có hỗ trợ khe cắm thẻ nhớ microSDXC) đáp ứng tốt nhu cầu lưu trữ hình ảnh, tài liệu và ứng dụng hàng ngày.",
+    "Hệ thống 3 camera sau nổi bật với cảm biến chính 50MP (f/1.8) tích hợp công nghệ chống rung quang học OIS hiếm thấy trong phân khúc phổ thông, đi kèm camera góc siêu rộng 5MP (f/2.2), camera Macro 2MP và camera selfie mặt trước 13MP (f/2.0).",
+    "Viên pin 5.000 mAh kết hợp tiến trình chip 6nm cho thời lượng hoạt động lên tới gần 2 ngày với các tác vụ thông thường, đồng thời hỗ trợ sạc nhanh có dây 25W qua cổng USB Type-C.",
+    "Cài sẵn Android 15 và One UI 7 với cam kết cập nhật tới 6 thế hệ Android, chuẩn kháng bụi/nước IP54, bảo mật Samsung Knox Vault và cảm biến vân tay cạnh bên, Galaxy A17 là sản phẩm đáng tin cậy cho nhu cầu sử dụng lâu dài."
+  ],
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,7 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "Super AMOLED"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "Full HD+ (1080 x 2340 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "90Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Helio G99 (6nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "4GB / 6GB / 8GB"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB (hỗ trợ microSDXC)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính OIS + 5MP Ultra Wide + 2MP Macro"
+    },
+    {
+      "label": "Camera trước",
+      "value": "13MP, khẩu độ f/2.0"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "5.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh có dây 25W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 15, One UI 7"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "4G LTE"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP54 (kháng bụi & tia nước)"
+    }
+  ],
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "Super AMOLED",
+      "Kích thước màn hình": "6,7 inch (tỷ lệ hiển thị ~86,0% mặt trước)",
+      "Độ phân giải màn hình": "Full HD+ (1080 x 2340 pixel, ~385 ppi)",
+      "Tần số quét": "90Hz",
+      "Kiểu màn hình": "Màn hình phẳng bảo vệ bởi kính cường lực Corning Gorilla Glass Victus+",
+      "Tính năng màn hình": "Độ sáng cao 800 nit, bảo vệ mắt Eye Comfort Shield"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera: Chính 50MP (f/1.8, lấy nét tự động AF, chống rung quang học OIS) + Góc siêu rộng 5MP (f/2.2) + Macro 2MP",
+      "Quay video": "Full HD 1080p@30fps",
+      "Tính năng camera": "Chống rung quang học OIS, Chân dung xóa phông, HDR, Panorama"
+    },
+    "Camera trước": {
+      "Camera trước": "13MP (f/2.0); hỗ trợ quay video Full HD 1080p@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Helio G99 (tiến trình 6nm)",
+      "Loại CPU": "8 nhân (2 nhân Cortex-A76 2,2 GHz + 6 nhân Cortex-A55 2,0 GHz)",
+      "GPU": "Mali-G57 MC2"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "4GB / 6GB / 8GB",
+      "Bộ nhớ trong": "128GB / 256GB (hỗ trợ khe cắm thẻ nhớ microSDXC)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "5.000 mAh (Li-Ion)",
+      "Công nghệ sạc": "Sạc nhanh có dây 25W qua cổng USB-C",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 15, giao diện One UI 7 (hỗ trợ cập nhật 6 thế hệ Android)",
+      "Công nghệ - Tiện ích": "Bảo mật Samsung Knox Vault, Quick Share, Thư mục bảo mật",
+      "Tiện ích khác": "Khe cắm thẻ nhớ microSDXC, cảm biến vân tay tích hợp nút nguồn cạnh bên",
+      "Thời điểm ra mắt": "18/09/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "4G LTE đa băng tần tốc độ cao",
+      "Thẻ SIM": "2 Nano-SIM (khe SIM lai microSDXC)",
+      "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép, Wi-Fi Direct",
+      "Bluetooth": "Bluetooth 5.3 (A2DP, LE)",
+      "Công nghệ NFC": "Có hỗ trợ NFC (tùy thị trường)",
+      "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền phẳng tích hợp cụm phím nổi Key Island",
+      "Chất liệu mặt lưng": "Mặt trước kính Corning Gorilla Glass Victus+, mặt lưng hoàn thiện nhám mờ",
+      "Kích thước": "164,4 x 77,9 x 7,5 mm",
+      "Trọng lượng": "190 gram",
+      "Chỉ số kháng nước, bụi": "IP54 (kháng bụi và kháng tia nước bắn)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài tích hợp, hỗ trợ Dolby Atmos qua tai nghe",
+      "Cảm biến vân tay": "Cảm biến vân tay tích hợp nút nguồn cạnh bên",
+      "Các loại cảm biến": "Vân tay cạnh bên, Gia tốc kế, Cảm biến tiệm cận ảo, La bàn số"
+    }
+  }
+}

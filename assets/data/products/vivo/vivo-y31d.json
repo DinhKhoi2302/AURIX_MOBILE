@@ -1,0 +1,536 @@
+{
+  "id": "vivo-y31d",
+  "brand": "vivo",
+  "brandId": "vivo",
+  "parentGroupId": "vivo",
+  "model": "vivo Y31d",
+  "series": "vivo Y Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "entry-level"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Giảm giá",
+      "type": "sale"
+    }
+  ],
+  "overview": {
+    "releaseDate": "20/05/2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "Chính thức ra mắt vào tháng 04/2026 – Mở bán chính thức tháng 05/2026 tại Việt Nam, vivo Y31d là bước tiến quan trọng của thương hiệu Vivo trong chiến lược chinh phục người tiêu dùng hiện đại. Thiết bị sở hữu mã hiệu V2450 / V2450A, được định vị là Kỷ lục gia thời lượng pin thế giới với viên pin khổng lồ 7.200 mAh, chuẩn kháng nước bụi IP68 cao cấp và vi xử lý Snapdragon 6s Gen 2 bền bỉ. Với mức giá niêm yết tham khảo trong khoảng 4.990.000 VNĐ – 5.490.000 VNĐ, sản phẩm không chỉ mang lại giá trị công nghệ vượt trội mà còn khẳng định ngôn ngữ thiết kế thời thượng, đột phá của Vivo.\n\nTrong bối cảnh thị trường smartphone ngày càng cạnh tranh khốc liệt, vivo Y31d nổi lên như một điểm sáng nhờ sự dung hòa hoàn hảo giữa vẻ đẹp thẩm mỹ bên ngoài và sức mạnh phần cứng bên trong. Vivo đã lắng nghe sâu sắc phản hồi của người dùng Việt Nam để tinh chỉnh từng đường nét thiết kế, tối ưu hóa thuật toán phần mềm Funtouch OS và trang bị các linh kiện phần cứng hàng đầu nhằm mang lại trải nghiệm cầm nắm và vận hành bền bỉ qua nhiều năm sử dụng.",
+    "highlights": [
+      "6,75 inch",
+      "Qualcomm Snapdragon 6s 4G Gen 2",
+      "Pin 7.200 mAh"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 4490000,
+    "originalPrice": 7990000,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT012-VVY31D-XAM-DEN-4GB-128GB",
+      "color": "Xám Đen",
+      "colorHex": "#374151",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 4490000,
+      "originalPrice": 7990000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/vivo/vivo-y31d/anh-dai-dien-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/mat-truoc-mat-sau-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/man-hinh-mat-truoc-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/thiet-ke-mat-lung-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/tren-tay-mat-lung-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/canh-duoi-cong-sac-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/canh-trai-canh-phai-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/canh-tren-canh-duoi-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/goc-nghieng-camera-sau-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/cum-camera-sau-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/khay-sim-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/vivo-Y31d.jpg",
+        "assets/images/products/vivo/vivo-y31d/thong-so-noi-bat-vivo-y31d-trang-xam-den.webp"
+      ]
+    },
+    {
+      "sku": "DT012-VVY31D-XAM-DEN-6GB-128GB",
+      "color": "Xám Đen",
+      "colorHex": "#374151",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 4990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/vivo/vivo-y31d/anh-dai-dien-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/mat-truoc-mat-sau-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/man-hinh-mat-truoc-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/thiet-ke-mat-lung-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/tren-tay-mat-lung-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/canh-duoi-cong-sac-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/canh-trai-canh-phai-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/canh-tren-canh-duoi-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/goc-nghieng-camera-sau-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/cum-camera-sau-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/khay-sim-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/vivo-Y31d.jpg",
+        "assets/images/products/vivo/vivo-y31d/thong-so-noi-bat-vivo-y31d-trang-xam-den.webp"
+      ]
+    },
+    {
+      "sku": "DT012-VVY31D-XAM-DEN-8GB-128GB",
+      "color": "Xám Đen",
+      "colorHex": "#374151",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 5490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/vivo/vivo-y31d/anh-dai-dien-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/mat-truoc-mat-sau-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/man-hinh-mat-truoc-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/thiet-ke-mat-lung-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/tren-tay-mat-lung-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/canh-duoi-cong-sac-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/canh-trai-canh-phai-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/canh-tren-canh-duoi-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/goc-nghieng-camera-sau-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/cum-camera-sau-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/khay-sim-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/vivo-Y31d.jpg",
+        "assets/images/products/vivo/vivo-y31d/thong-so-noi-bat-vivo-y31d-trang-xam-den.webp"
+      ]
+    },
+    {
+      "sku": "DT012-VVY31D-TRANG-4GB-128GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "4GB",
+      "storage": "4GB/128GB",
+      "rom": "128GB",
+      "price": 4490000,
+      "originalPrice": 7990000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/vivo/vivo-y31d/mat-truoc-mat-sau-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/man-hinh-mat-truoc-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/thiet-ke-mat-lung-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/tren-tay-mat-lung-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/canh-duoi-cong-sac-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/canh-trai-canh-phai-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/canh-tren-canh-duoi-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/goc-nghieng-camera-sau-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/cum-camera-sau-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/tren-tay-man-hinh-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/vivo-Y31d.jpg",
+        "assets/images/products/vivo/vivo-y31d/thong-so-noi-bat-vivo-y31d-trang-xam-den.webp"
+      ]
+    },
+    {
+      "sku": "DT012-VVY31D-TRANG-6GB-128GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 4990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/vivo/vivo-y31d/mat-truoc-mat-sau-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/man-hinh-mat-truoc-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/thiet-ke-mat-lung-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/tren-tay-mat-lung-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/canh-duoi-cong-sac-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/canh-trai-canh-phai-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/canh-tren-canh-duoi-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/goc-nghieng-camera-sau-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/cum-camera-sau-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/tren-tay-man-hinh-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/vivo-Y31d.jpg",
+        "assets/images/products/vivo/vivo-y31d/thong-so-noi-bat-vivo-y31d-trang-xam-den.webp"
+      ]
+    },
+    {
+      "sku": "DT012-VVY31D-TRANG-8GB-128GB",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 5490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/vivo/vivo-y31d/mat-truoc-mat-sau-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/man-hinh-mat-truoc-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/thiet-ke-mat-lung-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/tren-tay-mat-lung-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/canh-duoi-cong-sac-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/canh-trai-canh-phai-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/canh-tren-canh-duoi-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/goc-nghieng-camera-sau-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/cum-camera-sau-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/tren-tay-man-hinh-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/vivo-Y31d.jpg",
+        "assets/images/products/vivo/vivo-y31d/thong-so-noi-bat-vivo-y31d-trang-xam-den.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "IPS LCD 120Hz, độ sáng 1.000 nit",
+    "size": "6,75 inch",
+    "resolution": "1600 x 720 pixel (HD+, 260 ppi)",
+    "refreshRate": "120Hz",
+    "brightness": "Không hỗ trợ, Độ sáng tiêu chuẩn 650 nit / đỉnh ngoài trời 1.250 nit (HBM), Bảo vệ mắt chứng nhận TÜV Rheinland, chế độ Sunlight Screen hiển thị rõ ràng dưới ánh nắng gay gắt",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 6s Gen 2 4G (tiến trình 6nm hiện đại)",
+    "cpu": "8 nhân: 2 nhân hiệu năng Kryo Gold (Cortex-A78) xung nhịp lên đến 2,2 GHz + 6 nhân tiết kiệm điện Kryo Silver (Cortex-A55) xung nhịp 1,8 GHz",
+    "gpu": "Adreno 619 xử lý đồ họa mượt mà",
+    "ram": [
+      "4GB",
+      "6GB",
+      "8GB"
+    ],
+    "storage": [
+      "128GB"
+    ],
+    "operatingSystem": "Android 16 cùng giao diện Funtouch OS 16 mượt mà",
+    "uiVersion": "Funtouch OS / OriginOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Chính (ƒ/1.8, PDAF) + 2MP Đo chiều sâu",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "Quay video 1080p ở tốc độ 30 fps, 720p ở tốc độ 30 fps"
+    ],
+    "aiFeatures": [
+      "Chân dung chuyên nghiệp Bokeh Flare, Chụp đêm Super Night Mode, Panorama, Time-lapse, Chụp chuyên nghiệp Pro, Zoom: Zoom kỹ thuật số tối đa 10x"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "8MP Selfie (ƒ/2.0)",
+    "features": [
+      "8MP, khẩu độ ƒ/2.0, Quay video: Quay video 1080p ở tốc độ 30 fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "7.200 mAh (Pin khủng BlueVolt)",
+    "wiredCharging": "Sạc nhanh FlashCharge 44W",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc nhanh FlashCharge 44W (nạp đầy 100% viên pin khổng lồ 7.200mAh trong khoảng 80 phút) | Không hỗ trợ sạc không dây"
+  },
+  "connectivity": {
+    "sim": [
+      "Hai Nano-SIM vật lý + 1 khe cắm thẻ microSD độc lập"
+    ],
+    "network": [
+      "4G LTE"
+    ],
+    "wifi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép (2.4GHz & 5GHz)",
+    "bluetooth": "Bluetooth 5.1",
+    "gps": [
+      "GPS, GLONASS, Galileo, BeiDou, QZSS"
+    ],
+    "usb": "USB Type-C (USB 2.0), giắc cắm tai nghe 3.5mm",
+    "nfc": false
+  },
+  "design": {
+    "dimensions": "166,64 x 78,43 x 8,39 mm",
+    "weight": "219 gram",
+    "materials": [
+      "Khung viền polycarbonate siêu cứng cáp",
+      "mặt lưng hoàn thiện nhám mờ chống trầy và chống va đập"
+    ],
+    "waterResistance": "IP64 & Kháng va đập chuẩn SGS",
+    "availableColors": [
+      "Xám Đen",
+      "Trắng"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo với chế độ Siêu âm lượng 300% Ultra Volume Boost",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "LCD 6.75 inch"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền vivo tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/vivo/vivo-y31d/anh-dai-dien-vivo-y31d-xam-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/vivo/vivo-y31d/anh-dai-dien-vivo-y31d-xam-den.webp",
+      "assets/images/products/vivo/vivo-y31d/mat-truoc-mat-sau-vivo-y31d-trang.webp",
+      "assets/images/products/vivo/vivo-y31d/mat-truoc-mat-sau-vivo-y31d-xam-den.webp",
+      "assets/images/products/vivo/vivo-y31d/man-hinh-mat-truoc-vivo-y31d-trang.webp",
+      "assets/images/products/vivo/vivo-y31d/man-hinh-mat-truoc-vivo-y31d-xam-den.webp",
+      "assets/images/products/vivo/vivo-y31d/thiet-ke-mat-lung-vivo-y31d-trang.webp",
+      "assets/images/products/vivo/vivo-y31d/thiet-ke-mat-lung-vivo-y31d-xam-den.webp",
+      "assets/images/products/vivo/vivo-y31d/tren-tay-mat-lung-vivo-y31d-trang.webp",
+      "assets/images/products/vivo/vivo-y31d/tren-tay-mat-lung-vivo-y31d-xam-den.webp",
+      "assets/images/products/vivo/vivo-y31d/canh-duoi-cong-sac-vivo-y31d-trang.webp",
+      "assets/images/products/vivo/vivo-y31d/canh-duoi-cong-sac-vivo-y31d-xam-den.webp",
+      "assets/images/products/vivo/vivo-y31d/canh-trai-canh-phai-vivo-y31d-trang.webp",
+      "assets/images/products/vivo/vivo-y31d/canh-trai-canh-phai-vivo-y31d-xam-den.webp",
+      "assets/images/products/vivo/vivo-y31d/canh-tren-canh-duoi-vivo-y31d-trang.webp",
+      "assets/images/products/vivo/vivo-y31d/canh-tren-canh-duoi-vivo-y31d-xam-den.webp",
+      "assets/images/products/vivo/vivo-y31d/goc-nghieng-camera-sau-vivo-y31d-trang.webp",
+      "assets/images/products/vivo/vivo-y31d/goc-nghieng-camera-sau-vivo-y31d-xam-den.webp",
+      "assets/images/products/vivo/vivo-y31d/cum-camera-sau-vivo-y31d-trang.webp",
+      "assets/images/products/vivo/vivo-y31d/cum-camera-sau-vivo-y31d-xam-den.webp",
+      "assets/images/products/vivo/vivo-y31d/khay-sim-vivo-y31d-xam-den.webp",
+      "assets/images/products/vivo/vivo-y31d/tren-tay-man-hinh-vivo-y31d-trang.webp",
+      "assets/images/products/vivo/vivo-y31d/vivo-Y31d.jpg",
+      "assets/images/products/vivo/vivo-y31d/thong-so-noi-bat-vivo-y31d-trang-xam-den.webp"
+    ],
+    "byColor": {
+      "Xám Đen": [
+        "assets/images/products/vivo/vivo-y31d/anh-dai-dien-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/mat-truoc-mat-sau-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/man-hinh-mat-truoc-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/thiet-ke-mat-lung-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/tren-tay-mat-lung-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/canh-duoi-cong-sac-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/canh-trai-canh-phai-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/canh-tren-canh-duoi-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/goc-nghieng-camera-sau-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/cum-camera-sau-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/khay-sim-vivo-y31d-xam-den.webp",
+        "assets/images/products/vivo/vivo-y31d/vivo-Y31d.jpg",
+        "assets/images/products/vivo/vivo-y31d/thong-so-noi-bat-vivo-y31d-trang-xam-den.webp"
+      ],
+      "Trắng": [
+        "assets/images/products/vivo/vivo-y31d/mat-truoc-mat-sau-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/man-hinh-mat-truoc-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/thiet-ke-mat-lung-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/tren-tay-mat-lung-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/canh-duoi-cong-sac-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/canh-trai-canh-phai-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/canh-tren-canh-duoi-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/goc-nghieng-camera-sau-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/cum-camera-sau-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/tren-tay-man-hinh-vivo-y31d-trang.webp",
+        "assets/images/products/vivo/vivo-y31d/vivo-Y31d.jpg",
+        "assets/images/products/vivo/vivo-y31d/thong-so-noi-bat-vivo-y31d-trang-xam-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/vivo/vivo-y31d/mat-truoc-mat-sau-vivo-y31d-trang.webp",
+      "screen": "assets/images/products/vivo/vivo-y31d/mat-truoc-mat-sau-vivo-y31d-xam-den.webp",
+      "performance": "assets/images/products/vivo/vivo-y31d/goc-nghieng-camera-sau-vivo-y31d-trang.webp",
+      "camera": "assets/images/products/vivo/vivo-y31d/goc-nghieng-camera-sau-vivo-y31d-xam-den.webp",
+      "battery": "assets/images/products/vivo/vivo-y31d/canh-duoi-cong-sac-vivo-y31d-trang.webp",
+      "feature": "assets/images/products/vivo/vivo-y31d/canh-trai-canh-phai-vivo-y31d-trang.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/vivo/vivo-y31d/mat-truoc-mat-sau-vivo-y31d-trang.webp",
+      "assets/images/products/vivo/vivo-y31d/mat-truoc-mat-sau-vivo-y31d-xam-den.webp",
+      "assets/images/products/vivo/vivo-y31d/man-hinh-mat-truoc-vivo-y31d-trang.webp",
+      "assets/images/products/vivo/vivo-y31d/man-hinh-mat-truoc-vivo-y31d-xam-den.webp",
+      "assets/images/products/vivo/vivo-y31d/thiet-ke-mat-lung-vivo-y31d-trang.webp",
+      "assets/images/products/vivo/vivo-y31d/thiet-ke-mat-lung-vivo-y31d-xam-den.webp",
+      "assets/images/products/vivo/vivo-y31d/tren-tay-mat-lung-vivo-y31d-trang.webp",
+      "assets/images/products/vivo/vivo-y31d/tren-tay-mat-lung-vivo-y31d-xam-den.webp",
+      "assets/images/products/vivo/vivo-y31d/canh-duoi-cong-sac-vivo-y31d-trang.webp",
+      "assets/images/products/vivo/vivo-y31d/canh-duoi-cong-sac-vivo-y31d-xam-den.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-vivo",
+      "https://www.vivo.com/vn/products"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "partial_retail_listing",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT012-VVY31D",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "IPS LCD 16,7 triệu màu, góc nhìn rộng, độ tương phản cao",
+      "Kích thước màn hình": "6,75 inch theo đường chéo (màn hình phẳng viền giọt nước)",
+      "Độ phân giải màn hình": "1570 x 720 pixel (chuẩn HD+, tỷ lệ 19.6:9)",
+      "Tần số quét": "120Hz mượt mà (hỗ trợ chuyển đổi tần số quét thông minh)",
+      "Kiểu màn hình": "Màn hình phẳng tràn viền",
+      "Tính năng màn hình": "Không hỗ trợ, Độ sáng tiêu chuẩn 650 nit / đỉnh ngoài trời 1.250 nit (HBM), Bảo vệ mắt chứng nhận TÜV Rheinland, chế độ Sunlight Screen hiển thị rõ ràng dưới ánh nắng gay gắt"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 2 camera sau: 50MP Chính + 2MP Đo độ sâu trường ảnh - 50MP HD Main Camera, khẩu độ ƒ/1.8, tự động lấy nét theo pha PDAF",
+      "Quay video": "Quay video 1080p ở tốc độ 30 fps, 720p ở tốc độ 30 fps",
+      "Tính năng camera": "Chân dung chuyên nghiệp Bokeh Flare, Chụp đêm Super Night Mode, Panorama, Time-lapse, Chụp chuyên nghiệp Pro, Zoom: Zoom kỹ thuật số tối đa 10x"
+    },
+    "Camera trước": {
+      "Camera trước": "8MP, khẩu độ ƒ/2.0, Quay video: Quay video 1080p ở tốc độ 30 fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 6s Gen 2 4G (tiến trình 6nm hiện đại)",
+      "Loại CPU": "8 nhân: 2 nhân hiệu năng Kryo Gold (Cortex-A78) xung nhịp lên đến 2,2 GHz + 6 nhân tiết kiệm điện Kryo Silver (Cortex-A55) xung nhịp 1,8 GHz",
+      "GPU": "Adreno 619 xử lý đồ họa mượt mà"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "6GB LPDDR4X (mở rộng thêm 6GB RAM ảo)",
+      "Bộ nhớ trong": "128GB chuẩn UFS 2.2 tốc độ cao"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "7.200 mAh (dung lượng pin kỷ lục thế giới phân khúc phổ thông với công nghệ BlueVolt) - Thời lượng sử dụng lên đến 3,5 đến 4 ngày hỗn hợp; xem video liên tục 32 giờ; gọi thoại 58 giờ",
+      "Công nghệ sạc": "Sạc nhanh FlashCharge 44W (nạp đầy 100% viên pin khổng lồ 7.200mAh trong khoảng 80 phút) | Không hỗ trợ sạc không dây",
+      "Cổng sạc": "USB Type-C (USB 2.0), giắc cắm tai nghe 3.5mm"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 16 cùng giao diện Funtouch OS 16 mượt mà",
+      "Công nghệ - Tiện ích": "Trợ lý AI thông minh Jovi, thuật toán phân bổ tài nguyên phần cứng thông minh, Thiết kế khuyết đỉnh giọt nước (Waterdrop notch)",
+      "Tiện ích khác": "Phím nguồn vân tay, tăng/giảm âm lượng, SOS khẩn cấp",
+      "Thời điểm ra mắt": "20/05/2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "Hỗ trợ mạng 4G LTE-A Cat.13 đa băng tần",
+      "Thẻ SIM": "Hai Nano-SIM vật lý + 1 khe cắm thẻ microSD độc lập",
+      "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép (2.4GHz & 5GHz)",
+      "Bluetooth": "Bluetooth 5.1",
+      "Công nghệ NFC": "Không hỗ trợ NFC",
+      "GPS": "GPS, GLONASS, Galileo, BeiDou, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền polycarbonate siêu cứng cáp",
+      "Chất liệu mặt lưng": "mặt lưng hoàn thiện nhám mờ chống trầy và chống va đập",
+      "Kích thước": "166,64 x 78,43 x 8,39 mm",
+      "Trọng lượng": "219 gram",
+      "Chỉ số kháng nước, bụi": "IP68 (chuẩn kháng nước và bụi cao cấp nhất, ngâm nước sâu 1,5 mét trong 30 phút an toàn)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa kép Stereo với chế độ Siêu âm lượng 300% Ultra Volume Boost",
+      "Cảm biến vân tay": "Cảm biến vân tay tích hợp nút nguồn cạnh bên, Mở khóa bằng khuôn mặt 2D Face Access",
+      "Các loại cảm biến": "Cảm biến vân tay cạnh bên, gia tốc kế, con quay hồi chuyển, cảm biến tiệm cận, cảm biến ánh sáng"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,75 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "IPS LCD 120Hz, độ sáng 1.000 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "1600 x 720 pixel (HD+, 260 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 6s 4G Gen 2 (6nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "4GB / 6GB / 8GB LPDDR4X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB (Hỗ trợ MicroSD 1TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính (ƒ/1.8, PDAF) + 2MP Đo chiều sâu"
+    },
+    {
+      "label": "Camera trước",
+      "value": "8MP Selfie (ƒ/2.0)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "7.200 mAh (Pin khủng BlueVolt)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh FlashCharge 44W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Funtouch OS 16 (Android 16)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "4G LTE"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP64 & Kháng va đập chuẩn SGS"
+    }
+  ],
+  "verbatimDescription": [
+    "Chính thức ra mắt vào tháng 04/2026 – Mở bán chính thức tháng 05/2026 tại Việt Nam, vivo Y31d là bước tiến quan trọng của thương hiệu Vivo trong chiến lược chinh phục người tiêu dùng hiện đại. Thiết bị sở hữu mã hiệu V2450 / V2450A, được định vị là Kỷ lục gia thời lượng pin thế giới với viên pin khổng lồ 7.200 mAh, chuẩn kháng nước bụi IP68 cao cấp và vi xử lý Snapdragon 6s Gen 2 bền bỉ. Với mức giá niêm yết tham khảo trong khoảng 4.990.000 VNĐ – 5.490.000 VNĐ, sản phẩm không chỉ mang lại giá trị công nghệ vượt trội mà còn khẳng định ngôn ngữ thiết kế thời thượng, đột phá của Vivo.\n\nTrong bối cảnh thị trường smartphone ngày càng cạnh tranh khốc liệt, vivo Y31d nổi lên như một điểm sáng nhờ sự dung hòa hoàn hảo giữa vẻ đẹp thẩm mỹ bên ngoài và sức mạnh phần cứng bên trong. Vivo đã lắng nghe sâu sắc phản hồi của người dùng Việt Nam để tinh chỉnh từng đường nét thiết kế, tối ưu hóa thuật toán phần mềm Funtouch OS và trang bị các linh kiện phần cứng hàng đầu nhằm mang lại trải nghiệm cầm nắm và vận hành bền bỉ qua nhiều năm sử dụng.",
+    "Ngoại hình của vivo Y31d thu hút mọi ánh nhìn với kích thước chuẩn mực 166,64 x 78,43 x 8,39 mm cùng trọng lượng 219 gram. Thân máy được chế tác từ Khung viền polycarbonate siêu cứng cáp, mặt lưng hoàn thiện nhám mờ chống trầy và chống va đập, mang lại cảm giác đầm tay, chắc chắn nhưng vẫn vô cùng êm ái khi sử dụng liên tục trong thời gian dài. Các phiên bản màu sắc chính thức gồm Bạc Titan (Titanium Silver), Đen Huyền Bí (Mystic Black) được xử lý bề mặt tinh xảo, vừa toát lên vẻ sang trọng vừa hạn chế tối đa tình trạng bám dính dấu vân tay và mồ hôi.\n\nMặt trước của máy là không gian hiển thị ấn tượng với kích thước 6,75 inch theo đường chéo (màn hình phẳng viền giọt nước). Vivo trang bị tấm nền IPS LCD 16,7 triệu màu, góc nhìn rộng, độ tương phản cao cùng độ phân giải 1570 x 720 pixel (chuẩn HD+, tỷ lệ 19.6:9) đạt mật độ điểm ảnh 256 ppi. Tần số quét 120Hz mượt mà (hỗ trợ chuyển đổi tần số quét thông minh) kết hợp độ sáng Độ sáng tiêu chuẩn 650 nit / đỉnh ngoài trời 1.250 nit (HBM) giúp màn hình hiển thị xuất sắc trong mọi điều kiện ánh sáng, kể cả dưới trời nắng chói chang giữa trưa. Lớp bảo vệ Kính cường lực chịu lực chống va đập đạt chuẩn độ bền quân đội và chuẩn kháng nước bụi IP68 (chuẩn kháng nước và bụi cao cấp nhất, ngâm nước sâu 1,5 mét trong 30 phút an toàn) đem lại sự an tâm tuyệt đối trước các tác động va đập hay thời tiết khắc nghiệt.",
+    "Ẩn chứa bên trong vivo Y31d là sức mạnh của bộ vi xử lý Qualcomm Snapdragon 6s Gen 2 4G (tiến trình 6nm hiện đại). Cấu trúc CPU gồm 8 nhân: 2 nhân hiệu năng Kryo Gold (Cortex-A78) xung nhịp lên đến 2,2 GHz + 6 nhân tiết kiệm điện Kryo Silver (Cortex-A55) xung nhịp 1,8 GHz, đi kèm chip đồ họa Adreno 619 xử lý đồ họa mượt mà và bộ xử lý trí tuệ nhân tạo Qualcomm AI Engine tối ưu hóa hiệu suất và tiết kiệm năng lượng. Sự kết hợp phần cứng đồng bộ này đem lại hiệu năng ấn tượng: Đạt trên 380.000 điểm AnTuTu, chơi mượt mà các tựa game như Liên Quân Mobile, Free Fire ở mức 60 fps ổn định.\n\nKhả năng quản lý đa nhiệm của thiết bị được nâng tầm nhờ bộ nhớ RAM 6GB LPDDR4X (mở rộng thêm 6GB RAM ảo). Bộ nhớ trong 128GB chuẩn UFS 2.2 tốc độ cao chuẩn tốc độ cao mang lại không gian lưu trữ rộng rãi cho hàng nghìn bức ảnh, tài liệu và các tựa game nặng. Khả năng hỗ trợ thẻ nhớ (Hỗ trợ thẻ nhớ MicroSD dung lượng lên đến 1TB) đem lại sự linh hoạt tối đa cho người dùng có nhu cầu lưu trữ dữ liệu lớn trong công việc và học tập hàng ngày.",
+    "Hệ thống camera là một trong những niềm tự hào lớn nhất trên vivo Y31d. Mặt sau máy được bố trí Hệ thống 2 camera sau: 50MP Chính + 2MP Đo độ sâu trường ảnh, trong đó camera chính sở hữu thông số 50MP HD Main Camera, khẩu độ ƒ/1.8, tự động lấy nét theo pha PDAF. Ống kính góc siêu rộng (Không trang bị) và ống kính tele (Camera xóa phông 2MP đo độ sâu trường ảnh) mang đến khả năng thu phóng quang học và kỹ thuật số ấn tượng (Zoom kỹ thuật số tối đa 10x).\n\nSức mạnh nhiếp ảnh của máy được củng cố bởi công nghệ xử lý hình ảnh Thuật toán xử lý đêm đa khung hình Super Night Algorithm kết hợp AI Portrait cùng hàng loạt chế độ chụp thông minh: Chân dung chuyên nghiệp Bokeh Flare, Chụp đêm Super Night Mode, Panorama, Time-lapse, Chụp chuyên nghiệp Pro. Về khả năng quay phim, máy hỗ trợ Quay video 1080p ở tốc độ 30 fps, 720p ở tốc độ 30 fps với khả năng chống rung quang học và điện tử ổn định vượt trội. Ở mặt trước, camera selfie 8MP, khẩu độ ƒ/2.0 tích hợp các chế độ AI Face Beauty đa cấp độ, chân dung xóa phông tự nhiên, flash màn hình và quay video Quay video 1080p ở tốc độ 30 fps, giúp bạn luôn tỏa sáng rạng rỡ trong mọi bức ảnh tự chụp cũng như các cuộc gọi video công việc.",
+    "Thời lượng sử dụng của vivo Y31d được bảo chứng bởi viên pin công nghệ cao có dung lượng 7.200 mAh (dung lượng pin kỷ lục thế giới phân khúc phổ thông với công nghệ BlueVolt). Nhờ vào việc sử dụng vật liệu mật độ năng lượng cao kết hợp thuật toán tối ưu hóa tiêu thụ điện năng của hệ điều hành, máy cho thời gian vận hành bền bỉ: Thời lượng sử dụng lên đến 3,5 đến 4 ngày hỗn hợp; xem video liên tục 32 giờ; gọi thoại 58 giờ. Người dùng hoàn toàn có thể yên tâm sử dụng máy với cường độ cao mà không phải loay hoay tìm kiếm ổ cắm sạc giữa chừng.\n\nKhi cần tái nạp năng lượng, công nghệ sạc Sạc nhanh FlashCharge 44W (nạp đầy 100% viên pin khổng lồ 7.200mAh trong khoảng 80 phút) sẽ phát huy sức mạnh tối đa. Thiết bị có thể nạp phần lớn dung lượng pin chỉ trong thời gian ngắn uống một tách cà phê, sẵn sàng đồng hành cùng bạn suốt cả ngày dài. Bên cạnh đó, máy còn hỗ trợ các chuẩn sạc tiện ích: Không hỗ trợ sạc không dây, mang lại sự tiện nghi cao cấp và bảo đảm tuổi thọ pin an toàn qua hàng nghìn chu kỳ sạc xả.",
+    "vivo Y31d xuất xưởng với nền tảng hệ điều hành Android 16 cùng giao diện Funtouch OS 16 mượt mà, và tính đến tháng 11/2026 máy vận hành trên Android 16 với 3 năm cập nhật bảo mật liên tục. Giao diện người dùng Funtouch OS được thiết kế hiện đại, mượt mà và trực quan, tích hợp sâu các tiện ích trí tuệ nhân tạo Trợ lý AI thông minh Jovi, thuật toán phân bổ tài nguyên phần cứng thông minh giúp tự động hóa các tác vụ hàng ngày và cá nhân hóa trải nghiệm người dùng.\n\nVề bảo mật và an toàn dữ liệu, thiết bị tích hợp hệ thống Cảm biến vân tay tích hợp nút nguồn cạnh bên, Mở khóa bằng khuôn mặt 2D Face Access cho tốc độ phản hồi gần như tức thì và độ chính xác cực cao. Các phím bấm vật lý cùng tính năng khẩn cấp (Phím nguồn vân tay, tăng/giảm âm lượng, SOS khẩn cấp) được thiết kế công thái học thuận tiện. Hệ thống kết nối đa dạng gồm Hỗ trợ mạng 4G LTE-A Cat.13 đa băng tần, Wi-Fi 802.11 a/b/g/n/ac băng tần kép (2.4GHz & 5GHz), Bluetooth 5.1, Không hỗ trợ NFC; Hỗ trợ hệ thống định vị GPS, GLONASS, Galileo, BeiDou, QZSS; không hỗ trợ UWB, Hai Nano-SIM vật lý + 1 khe cắm thẻ microSD độc lập cùng hệ thống loa Loa kép Stereo với chế độ Siêu âm lượng 300% Ultra Volume Boost tạo nên một không gian làm việc và giải trí trọn vẹn, liền mạch trong hệ sinh thái Vivo.",
+    "vivo Y31d là sự lựa chọn lý tưởng dành cho người dùng đang tìm kiếm một chiếc điện thoại thông minh toàn diện, sở hữu ngôn ngữ thiết kế hiện đại, cấu hình mạnh mẽ và độ bền bỉ đáng tin cậy. Sản phẩm đặc biệt phù hợp với người dùng yêu thích nhiếp ảnh di động, học sinh, sinh viên, nhân viên văn phòng và các nhà sáng tạo nội dung số cần một thiết bị có màn hình đẹp, thời lượng pin trâu và camera chất lượng cao phục vụ công việc và giải trí hàng ngày.",
+    "Tổng kết lại, vivo Y31d khẳng định vững chắc vị thế dẫn đầu trong phân khúc giá của mình. Với sự kết hợp hoàn hảo giữa phần cứng cao cấp, thuật toán xử lý hình ảnh tiên tiến và chính sách hỗ trợ phần mềm dài hạn từ Vivo, chiếc smartphone này xứng đáng là một trong những khoản đầu tư công nghệ thực dụng và đáng giá nhất trong năm 2026."
+  ],
+  "priceSegment": "entry-level"
+}

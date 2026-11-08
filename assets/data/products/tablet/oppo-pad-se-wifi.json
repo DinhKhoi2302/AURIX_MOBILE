@@ -1,0 +1,243 @@
+{
+  "id": "oppo-pad-se-wifi",
+  "docCode": "TB-OP005-SEWIFI",
+  "model": "OPPO Pad SE Wi-Fi",
+  "brand": "OPPO",
+  "brandId": "oppo",
+  "parentGroupId": "oppo",
+  "series": "OPPO Pad Series",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "11.0 inch",
+      "Snapdragon 680",
+      "Pin 8.000 mAh"
+    ],
+    "description": "OPPO Pad SE Wi-Fi là phiên bản máy tính bảng hướng tới người dùng gia đình, học sinh và sinh viên cần một thiết bị màn hình lớn đáng tin cậy để học tập và giải trí tại nhà hoặc trường học. Thiết kế kim loại nguyên khối màu Bạc ánh trăng sang trọng mang lại cảm giác cao cấp vượt trội so với mức giá.",
+    "releaseDate": "2024 / 2025"
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 680 (tiến trình 6nm tiết kiệm điện năng)",
+    "ram": [
+      "6GB",
+      "8GB"
+    ],
+    "storage": [
+      "128GB"
+    ],
+    "operatingSystem": "ColorOS 14 for Pad (Android 14)"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 4890000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/oppo/oppo-pad-se-wifi/anh-dai-dien-oppo-pad-se-wifi-bac.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/oppo/oppo-pad-se-wifi/anh-dai-dien-oppo-pad-se-wifi-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-wifi/mat-truoc-sau-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-wifi/mat-truoc-dat-tren-ban-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-wifi/mat-sau-dat-tren-ban-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-wifi/can-canh-nut-am-luong-canh-ben-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-wifi/canh-ben-trai-phai-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-wifi/canh-tren-duoi-loa-cong-sac-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-wifi/can-canh-cum-camera-sau-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-wifi/cam-tren-tay-man-hinh-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-wifi/can-canh-cong-sac-type-c-va-loa-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-wifi/can-canh-nut-nguon-va-loa-bac.webp"
+    ],
+    "byColor": {
+      "Bạc": [
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/anh-dai-dien-oppo-pad-se-wifi-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/mat-truoc-sau-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/mat-truoc-dat-tren-ban-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/mat-sau-dat-tren-ban-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/can-canh-nut-am-luong-canh-ben-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/canh-ben-trai-phai-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/canh-tren-duoi-loa-cong-sac-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/can-canh-cum-camera-sau-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/cam-tren-tay-man-hinh-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/can-canh-cong-sac-type-c-va-loa-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/can-canh-nut-nguon-va-loa-bac.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/oppo/oppo-pad-se-wifi/mat-truoc-sau-bac.webp",
+      "screen": "assets/images/products/tablet/oppo/oppo-pad-se-wifi/mat-truoc-dat-tren-ban-bac.webp",
+      "performance": "assets/images/products/tablet/oppo/oppo-pad-se-wifi/cam-tren-tay-man-hinh-bac.webp",
+      "camera": "assets/images/products/tablet/oppo/oppo-pad-se-wifi/can-canh-cum-camera-sau-bac.webp",
+      "battery": "assets/images/products/tablet/oppo/oppo-pad-se-wifi/canh-tren-duoi-loa-cong-sac-bac.webp",
+      "feature": "assets/images/products/tablet/oppo/oppo-pad-se-wifi/canh-ben-trai-phai-bac.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/oppo/oppo-pad-se-wifi/mat-truoc-sau-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-wifi/mat-truoc-dat-tren-ban-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-wifi/mat-sau-dat-tren-ban-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-wifi/can-canh-nut-am-luong-canh-ben-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-wifi/canh-ben-trai-phai-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-wifi/canh-tren-duoi-loa-cong-sac-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-wifi/can-canh-cum-camera-sau-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-wifi/cam-tren-tay-man-hinh-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-wifi/can-canh-cong-sac-type-c-va-loa-bac.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-se-wifi/can-canh-nut-nguon-va-loa-bac.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "11,0 inch IPS LCD WUXGA (1920 x 1200 pixel), tỷ lệ 16:10, tần số quét 90Hz mượt mà, độ sáng 400 nit",
+      "Tính năng màn hình": "Chứng nhận bảo vệ mắt TÜV Rheinland Low Blue Light, hỗ trợ chia đôi màn hình đa nhiệm và chế độ Đọc sách dịu mắt"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "Qualcomm Snapdragon 680 tiến trình 6nm mát mẻ và ổn định",
+      "CPU & Đồ họa": "Octa-core Kryo 265 xung nhịp tối đa 2.4 GHz, GPU Adreno 610",
+      "Hệ điều hành khi ra mắt": "ColorOS 14 for Pad phát triển trên Android 14 với giao diện trực quan"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "6GB / 8GB RAM LPDDR4X kết hợp mở rộng RAM ảo",
+      "Bộ nhớ trong": "128GB lưu trữ, hỗ trợ mở rộng qua khay cắm thẻ MicroSD"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "8MP tự động lấy nét, khẩu độ f/2.0, quay video 1080p 30fps",
+      "Camera trước": "5MP góc rộng hỗ trợ đàm thoại học tập trực tuyến",
+      "Chi tiết hệ thống Camera": "Camera chính sau 8MP AF; Camera selfie trước 5MP sắc nét"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "8.000 mAh bền bỉ, công nghệ sạc nhanh SuperVOOC 33W",
+      "Pin và công nghệ sạc": "Pin Lithium Polymer 8.000 mAh, sạc nhanh SuperVOOC 33W qua cổng USB-C"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Tương thích các loại bút cảm ứng stylus điện dung",
+      "Hỗ trợ bàn phím rời": "Hỗ trợ kết nối bàn phím và chuột không dây Bluetooth",
+      "Công nghệ âm thanh": "Hệ thống 4 loa ngoài stereo âm thanh vòm Dolby Atmos sống động",
+      "Thuộc tính đặc biệt": "Màn hình 90Hz bảo vệ mắt, hệ thống 4 loa Dolby Atmos, sạc nhanh SuperVOOC 33W"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Wi-Fi 5 (802.11 a/b/g/n/ac) băng tần kép",
+      "Thẻ SIM": "Không hỗ trợ (Bản thuần Wi-Fi)",
+      "Kết nối không dây & Cổng giao tiếp": "Wi-Fi 802.11 a/b/g/n/ac băng tần kép 2.4/5GHz, Bluetooth 5.1, cổng Type-C 2.0",
+      "Công nghệ - Tiện ích": "Tính năng chia đôi màn hình thông minh, đồng bộ không dây với điện thoại OPPO"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Độ mỏng 7.1 mm, kích thước 255.4 x 167.0 x 7.1 mm, trọng lượng khoảng 500 g",
+      "Bảo mật và độ bền": "Mở khóa khuôn mặt AI Face Unlock, thân máy kim loại nhôm nguyên khối",
+      "Thời điểm ra mắt": "Năm 2024 / 2025"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "11.0 inch IPS LCD, độ phân giải Full HD+ (1920 x 1200 pixels)"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Tần số quét 90Hz mượt mà, độ sáng 400 nits, chứng nhận bảo vệ mắt TÜV Rheinland"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 680 (tiến trình 6nm tiết kiệm điện năng)"
+    },
+    {
+      "label": "RAM",
+      "value": "6GB / 8GB LPDDR4X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB (Hỗ trợ thẻ nhớ MicroSD tối đa 1TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "8MP tự động lấy nét, khẩu độ f/2.0, quay video 1080p 30fps"
+    },
+    {
+      "label": "Camera trước",
+      "value": "5MP góc rộng hỗ trợ đàm thoại học tập trực tuyến"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Pin Lithium Polymer 8.000 mAh, sạc nhanh SuperVOOC 33W qua cổng USB-C"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Wi-Fi 5 (802.11 a/b/g/n/ac) băng tần kép"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Tương thích các loại bút cảm ứng stylus điện dung"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Hỗ trợ kết nối bàn phím và chuột không dây Bluetooth"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "ColorOS 14 for Pad (Android 14)"
+    }
+  ],
+  "verbatimDescription": [
+    "OPPO Pad SE Wi-Fi là phiên bản máy tính bảng hướng tới người dùng gia đình, học sinh và sinh viên cần một thiết bị màn hình lớn đáng tin cậy để học tập và giải trí tại nhà hoặc trường học. Thiết kế kim loại nguyên khối màu Bạc ánh trăng sang trọng mang lại cảm giác cao cấp vượt trội so với mức giá.",
+    "Màn hình 11 inch Full HD+ với tần số quét 90Hz cho cảm giác vuốt chạm trơn tru, hiển thị sắc nét từng nét chữ bài giảng và hình ảnh video. Chứng nhận bảo vệ mắt từ TÜV Rheinland giúp giảm thiểu ánh sáng xanh có hại, bảo vệ mắt trẻ nhỏ khi xem phim hoạt hình hay học bài trực tuyến.",
+    "Trang bị vi xử lý Snapdragon 680 ổn định kết hợp viên pin lớn 8.000 mAh và sạc nhanh 33W, máy đáp ứng trọn vẹn cả ngày sử dụng liên tục. Dàn 4 loa ngoài Dolby Atmos mang lại không gian âm nhạc sống động, biến những giờ phút giải trí của gia đình trở nên trọn vẹn.",
+    "Trải nghiệm nghe nhìn trên OPPO Pad SE Wi-Fi vượt trội trong tầm giá nhờ hệ thống 4 loa ngoài Stereo phân bổ đối xứng hai bên kết hợp công nghệ âm thanh vòm Dolby Atmos, tái hiện âm thanh sống động khi xem phim và học trực tuyến.",
+    "Nền tảng ColorOS 14 for Pad tối ưu hóa không gian màn hình 11 inch với các cử chỉ đa nhiệm thông minh như vuốt hai ngón tay để chia đôi màn hình hoặc thu nhỏ ứng dụng thành cửa sổ nổi. Ngoài ra, tính năng Kids Space giúp phụ huynh dễ dàng quản lý thời gian và nội dung giải trí an toàn cho trẻ nhỏ.",
+    "Với thân máy hợp kim nhôm nguyên khối mỏng chỉ 7,1mm, trọng lượng nhẹ 500g và khe cắm thẻ nhớ microSD mở rộng tới 1TB, OPPO Pad SE Wi-Fi là mẫu máy tính bảng gia đình bền đẹp và kinh tế."
+  ],
+  "variants": [
+    {
+      "sku": "TB-OP005-SEWIFI-BAC-6GB-128GB-WI-FI",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "6GB",
+      "storage": "6GB/128GB (Wi-Fi)",
+      "rom": "128GB",
+      "price": 4890000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/anh-dai-dien-oppo-pad-se-wifi-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/mat-truoc-sau-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/mat-truoc-dat-tren-ban-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/mat-sau-dat-tren-ban-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/can-canh-nut-am-luong-canh-ben-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/canh-ben-trai-phai-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/canh-tren-duoi-loa-cong-sac-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/can-canh-cum-camera-sau-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/cam-tren-tay-man-hinh-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/can-canh-cong-sac-type-c-va-loa-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/can-canh-nut-nguon-va-loa-bac.webp"
+      ]
+    },
+    {
+      "sku": "TB-OP005-SEWIFI-BAC-8GB-128GB-WI-FI",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "8GB",
+      "storage": "8GB/128GB (Wi-Fi)",
+      "rom": "128GB",
+      "price": 5590000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/anh-dai-dien-oppo-pad-se-wifi-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/mat-truoc-sau-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/mat-truoc-dat-tren-ban-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/mat-sau-dat-tren-ban-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/can-canh-nut-am-luong-canh-ben-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/canh-ben-trai-phai-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/canh-tren-duoi-loa-cong-sac-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/can-canh-cum-camera-sau-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/cam-tren-tay-man-hinh-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/can-canh-cong-sac-type-c-va-loa-bac.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-se-wifi/can-canh-nut-nguon-va-loa-bac.webp"
+      ]
+    }
+  ]
+}

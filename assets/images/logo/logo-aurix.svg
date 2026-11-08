@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 68" width="300" height="68" fill="none">
+  <defs>
+    <linearGradient id="aurixBlueGrad" x1="4" y1="60" x2="48" y2="6" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0449B8"/>
+      <stop offset="55%" stop-color="#0666F5"/>
+      <stop offset="100%" stop-color="#27C4E8"/>
+    </linearGradient>
+    <linearGradient id="aurixFoldGrad" x1="22" y1="14" x2="54" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#27C4E8"/>
+      <stop offset="100%" stop-color="#0666F5"/>
+    </linearGradient>
+  </defs>
+  <!-- Geometric Ribbon 'A' Icon with 4-Point Spark -->
+  <g transform="translate(4, 5)">
+    <!-- Left leg of A -->
+    <path d="M24 6 L4 54 H17 L30 22 Z" fill="url(#aurixBlueGrad)"/>
+    <!-- Right leg of A -->
+    <path d="M24 6 L31 6 L51 54 H38 L24 20 Z" fill="url(#aurixFoldGrad)"/>
+    <!-- Dynamic Swoosh Crossbar -->
+    <path d="M13 40 Q27 32 42 42 L37 49 Q26 41 10 47 Z" fill="#102347"/>
+    <!-- 4-Point Star Spark at Top Right -->
+    <path d="M48 4 L50 10 L56 12 L50 14 L48 20 L46 14 L40 12 L46 10 Z" fill="#27C4E8"/>
+  </g>
+  <!-- Brand Wordmark & Tagline -->
+  <text x="68" y="31" font-family="'Be Vietnam Pro', 'Inter', sans-serif" font-size="27" font-weight="800" letter-spacing="0.03em" fill="#102347">AURIX <tspan font-weight="500" fill="#69758A" font-size="22">MOBILE</tspan></text>
+  <text x="69" y="51" font-family="'Be Vietnam Pro', 'Inter', sans-serif" font-size="10.3" font-weight="600" fill="#69758A">Công nghệ trong tầm tay · Đẳng cấp trong từng lựa chọn</text>
+</svg>

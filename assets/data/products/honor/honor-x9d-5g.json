@@ -1,0 +1,722 @@
+{
+  "id": "honor-x9d-5g",
+  "brand": "HONOR",
+  "brandId": "honor",
+  "parentGroupId": "honor",
+  "model": "HONOR X9d 5G",
+  "series": "HONOR X Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "midrange"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025 – 2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "HONOR X9d 5G (tên niêm yết trên trang chủ HONOR Việt Nam là HONOR X9d) được chính thức công bố vào ngày 24/09/2025 và mở bán tại thị trường Việt Nam vào tháng 10/2025 qua hệ thống Thế Giới Di Động và CellphoneS. Đây là phiên bản quốc tế đổi tên từ mẫu smartphone nội địa Honor X70, được xem là kiệt tác công nghệ 'phá vỡ mọi giới hạn vật lý' khi trang bị viên pin Silicon-Carbon dung lượng khủng nhất lịch sử smartphone thương mại lên tới 8300 mAh trong thân máy mỏng chỉ 7.76mm. Tại thị trường Việt Nam, HONOR X9d 5G là cỗ máy hoàn hảo cho người dùng tìm kiếm sự bền bỉ tuyệt đối: pin dùng gần 4 ngày, đạt cùng lúc 4 tiêu chuẩn chống nước IP66/IP68/IP69/IP69K, màn hình AMOLED 1.5K siêu sáng 6000 nits và camera 108MP OIS quay video 4K.",
+    "highlights": [
+      "6,79 inch",
+      "Qualcomm Snapdragon 6 Gen 4 5G",
+      "Pin 8.300 mAh"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 8190000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT014-HNX9D5G-VANG-8GB-256GB",
+      "color": "Vàng",
+      "colorHex": "#EAB308",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 8190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-x9d-5g/anh-dai-dien-mat-truoc-sau-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-sau-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-sau-nghieng-phai-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-sau-nghieng-trai-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-nghieng-phai-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-nghieng-trai-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/tinh-nang-camera-ai-108mp-ois-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/tinh-nang-khang-nuoc-ip69k-chong-roi-do-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/tinh-nang-loa-kep-400-nfc-vang-cam.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-camera-108mp-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-chip-snapdragon-6-gen-4-den-xanh.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-chip-snapdragon-6-gen-4-tan-nhiet-do-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-man-hinh-amoled-1-5k-120hz-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-man-hinh-amoled-6000nits-cam-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-pin-8300mah-sac-66w-xanh-hong.webp",
+        "assets/images/products/honor/honor-x9d-5g/tong-quan-tinh-nang-do-vang-den.webp"
+      ]
+    },
+    {
+      "sku": "DT014-HNX9D5G-VANG-12GB-256GB",
+      "color": "Vàng",
+      "colorHex": "#EAB308",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 8990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-x9d-5g/anh-dai-dien-mat-truoc-sau-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-sau-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-sau-nghieng-phai-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-sau-nghieng-trai-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-nghieng-phai-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-nghieng-trai-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/tinh-nang-camera-ai-108mp-ois-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/tinh-nang-khang-nuoc-ip69k-chong-roi-do-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/tinh-nang-loa-kep-400-nfc-vang-cam.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-camera-108mp-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-chip-snapdragon-6-gen-4-den-xanh.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-chip-snapdragon-6-gen-4-tan-nhiet-do-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-man-hinh-amoled-1-5k-120hz-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-man-hinh-amoled-6000nits-cam-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-pin-8300mah-sac-66w-xanh-hong.webp",
+        "assets/images/products/honor/honor-x9d-5g/tong-quan-tinh-nang-do-vang-den.webp"
+      ]
+    },
+    {
+      "sku": "DT014-HNX9D5G-VANG-12GB-512GB",
+      "color": "Vàng",
+      "colorHex": "#EAB308",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 9990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-x9d-5g/anh-dai-dien-mat-truoc-sau-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-sau-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-sau-nghieng-phai-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-sau-nghieng-trai-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-nghieng-phai-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-nghieng-trai-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/tinh-nang-camera-ai-108mp-ois-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/tinh-nang-khang-nuoc-ip69k-chong-roi-do-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/tinh-nang-loa-kep-400-nfc-vang-cam.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-camera-108mp-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-chip-snapdragon-6-gen-4-den-xanh.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-chip-snapdragon-6-gen-4-tan-nhiet-do-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-man-hinh-amoled-1-5k-120hz-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-man-hinh-amoled-6000nits-cam-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-pin-8300mah-sac-66w-xanh-hong.webp",
+        "assets/images/products/honor/honor-x9d-5g/tong-quan-tinh-nang-do-vang-den.webp"
+      ]
+    },
+    {
+      "sku": "DT014-HNX9D5G-DEN-8GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 8190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-sau-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-sau-xep-chong-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-dat-tren-ban-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-sau-dat-tren-ban-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-sau-thang-dung-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/can-canh-canh-duoi-cong-sac-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/can-canh-nut-bam-canh-ben-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/canh-ben-trai-phai-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/canh-tren-duoi-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/can-canh-cum-camera-sau-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/cam-hai-tay-chup-anh-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/cam-tren-tay-man-hinh-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/tinh-nang-khang-nuoc-ip69k-chong-roi-do-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/tinh-nang-loa-kep-400-nfc-vang-cam.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-camera-108mp-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-chip-snapdragon-6-gen-4-den-xanh.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-chip-snapdragon-6-gen-4-tan-nhiet-do-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-man-hinh-amoled-1-5k-120hz-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-man-hinh-amoled-6000nits-cam-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-pin-8300mah-sac-66w-xanh-hong.webp",
+        "assets/images/products/honor/honor-x9d-5g/tong-quan-tinh-nang-do-vang-den.webp"
+      ]
+    },
+    {
+      "sku": "DT014-HNX9D5G-DEN-12GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 8990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-sau-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-sau-xep-chong-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-dat-tren-ban-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-sau-dat-tren-ban-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-sau-thang-dung-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/can-canh-canh-duoi-cong-sac-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/can-canh-nut-bam-canh-ben-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/canh-ben-trai-phai-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/canh-tren-duoi-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/can-canh-cum-camera-sau-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/cam-hai-tay-chup-anh-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/cam-tren-tay-man-hinh-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/tinh-nang-khang-nuoc-ip69k-chong-roi-do-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/tinh-nang-loa-kep-400-nfc-vang-cam.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-camera-108mp-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-chip-snapdragon-6-gen-4-den-xanh.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-chip-snapdragon-6-gen-4-tan-nhiet-do-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-man-hinh-amoled-1-5k-120hz-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-man-hinh-amoled-6000nits-cam-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-pin-8300mah-sac-66w-xanh-hong.webp",
+        "assets/images/products/honor/honor-x9d-5g/tong-quan-tinh-nang-do-vang-den.webp"
+      ]
+    },
+    {
+      "sku": "DT014-HNX9D5G-DEN-12GB-512GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 9990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-sau-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-sau-xep-chong-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-dat-tren-ban-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-sau-dat-tren-ban-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-sau-thang-dung-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/can-canh-canh-duoi-cong-sac-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/can-canh-nut-bam-canh-ben-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/canh-ben-trai-phai-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/canh-tren-duoi-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/can-canh-cum-camera-sau-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/cam-hai-tay-chup-anh-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/cam-tren-tay-man-hinh-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/tinh-nang-khang-nuoc-ip69k-chong-roi-do-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/tinh-nang-loa-kep-400-nfc-vang-cam.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-camera-108mp-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-chip-snapdragon-6-gen-4-den-xanh.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-chip-snapdragon-6-gen-4-tan-nhiet-do-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-man-hinh-amoled-1-5k-120hz-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-man-hinh-amoled-6000nits-cam-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-pin-8300mah-sac-66w-xanh-hong.webp",
+        "assets/images/products/honor/honor-x9d-5g/tong-quan-tinh-nang-do-vang-den.webp"
+      ]
+    },
+    {
+      "sku": "DT014-HNX9D5G-DO-8GB-256GB",
+      "color": "Đỏ",
+      "colorHex": "#DC2626",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 8190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-sau-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-dat-tren-ban-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-sau-dat-tren-ban-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/can-canh-canh-duoi-cong-sac-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/can-canh-khay-sim-canh-duoi-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/can-canh-nut-bam-canh-ben-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/canh-ben-trai-phai-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/canh-tren-duoi-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/can-canh-cum-camera-sau-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/cam-hai-tay-chup-anh-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/cam-tren-tay-man-hinh-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/tinh-nang-khang-nuoc-ip69k-chong-roi-do-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/tinh-nang-loa-kep-400-nfc-vang-cam.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-camera-108mp-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-chip-snapdragon-6-gen-4-den-xanh.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-chip-snapdragon-6-gen-4-tan-nhiet-do-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-man-hinh-amoled-1-5k-120hz-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-man-hinh-amoled-6000nits-cam-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-pin-8300mah-sac-66w-xanh-hong.webp",
+        "assets/images/products/honor/honor-x9d-5g/tong-quan-tinh-nang-do-vang-den.webp"
+      ]
+    },
+    {
+      "sku": "DT014-HNX9D5G-DO-12GB-256GB",
+      "color": "Đỏ",
+      "colorHex": "#DC2626",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 8990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-sau-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-dat-tren-ban-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-sau-dat-tren-ban-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/can-canh-canh-duoi-cong-sac-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/can-canh-khay-sim-canh-duoi-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/can-canh-nut-bam-canh-ben-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/canh-ben-trai-phai-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/canh-tren-duoi-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/can-canh-cum-camera-sau-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/cam-hai-tay-chup-anh-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/cam-tren-tay-man-hinh-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/tinh-nang-khang-nuoc-ip69k-chong-roi-do-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/tinh-nang-loa-kep-400-nfc-vang-cam.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-camera-108mp-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-chip-snapdragon-6-gen-4-den-xanh.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-chip-snapdragon-6-gen-4-tan-nhiet-do-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-man-hinh-amoled-1-5k-120hz-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-man-hinh-amoled-6000nits-cam-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-pin-8300mah-sac-66w-xanh-hong.webp",
+        "assets/images/products/honor/honor-x9d-5g/tong-quan-tinh-nang-do-vang-den.webp"
+      ]
+    },
+    {
+      "sku": "DT014-HNX9D5G-DO-12GB-512GB",
+      "color": "Đỏ",
+      "colorHex": "#DC2626",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 9990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-sau-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-dat-tren-ban-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-sau-dat-tren-ban-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/can-canh-canh-duoi-cong-sac-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/can-canh-khay-sim-canh-duoi-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/can-canh-nut-bam-canh-ben-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/canh-ben-trai-phai-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/canh-tren-duoi-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/can-canh-cum-camera-sau-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/cam-hai-tay-chup-anh-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/cam-tren-tay-man-hinh-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/tinh-nang-khang-nuoc-ip69k-chong-roi-do-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/tinh-nang-loa-kep-400-nfc-vang-cam.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-camera-108mp-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-chip-snapdragon-6-gen-4-den-xanh.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-chip-snapdragon-6-gen-4-tan-nhiet-do-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-man-hinh-amoled-1-5k-120hz-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-man-hinh-amoled-6000nits-cam-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-pin-8300mah-sac-66w-xanh-hong.webp",
+        "assets/images/products/honor/honor-x9d-5g/tong-quan-tinh-nang-do-vang-den.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "AMOLED 1,5K 120Hz, PWM 3840Hz, 6.000 nit",
+    "size": "6,79 inch",
+    "resolution": "2640 x 1200 pixel (1.5K)",
+    "refreshRate": "120Hz",
+    "brightness": "Độ sáng: 800 nits (tiêu chuẩn) / 1800 nits (HBM) / 6000 nits (đỉnh APL ngoài trời); Làm mờ PWM tần số siêu cao 3840Hz khử nhấp nháy, chứng nhận bảo vệ mắt TÜV Rheinland, kính cường lực bảo vệ Aluminosilicate; Cảm ứng khi tay ướt và dính dầu mỡ, Chế độ đọc sách e-ink bảo vệ mắt ban đêm",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 6 Gen 4 (tiến trình 4nm TSMC hiện đại)",
+    "cpu": "CPU 8 nhân: 1 nhân Cortex-A720 xung nhịp 2.3 GHz + 3 nhân Cortex-A720 xung nhịp 2.2 GHz + 4 nhân Cortex-A520 xung nhịp 1.8 GHz",
+    "gpu": "Qualcomm Adreno 810 (Adreno A810) hiệu suất đồ họa tăng 30%, tiết kiệm điện | Tản nhiệt: Tản nhiệt buồng hơi VC siêu mỏng kết hợp các tấm than chì đa tầng",
+    "ram": [
+      "8GB",
+      "12GB"
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ],
+    "operatingSystem": "MagicOS 9.0 phát triển trên nền tảng Android 15 chính thức",
+    "uiVersion": "MagicOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "108MP Chính OIS (ƒ/1.75, 1/1.67\") + 5MP Góc siêu rộng",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "Quay video 4K ở tốc độ 30fps (3840 x 2160 pixels); 1080p ở tốc độ 30fps với chống rung kép OIS + gyro-EIS"
+    ],
+    "aiFeatures": [
+      "Các chế độ chụp ảnh: Chụp đêm AI Ultra-Night, Chân dung xóa phông chuyên sâu, Chụp ảnh siêu nét 108MP, Chụp tài liệu thông minh, Panorama | Khả năng zoom: Zoom cảm biến in-sensor 3x lossless từ camera 108MP; zoom kỹ thuật số tối đa 10x | Đèn flash: Đèn flash LED đơn trợ sáng"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "16MP Selfie (ƒ/2.45)",
+    "features": [
+      "16 MP, khẩu độ f/2.45, tiêu cự 24mm, cảm biến góc rộng; Lấy nét: Lấy nét cố định thông minh; Tính năng: Chân dung làm đẹp AI tự nhiên, Tự động kích hoạt HDR ngược sáng, Mở khóa khuôn mặt 2D; Quay video: Quay video 1080p ở tốc độ 30fps (lên đến 2520 x 1080 pixels)"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "8.300 mAh (Kỷ lục pin Silicon-Carbon)",
+    "wiredCharging": "Sạc nhanh 66W HONOR SuperCharge, sạc ngược 7,5W",
+    "wirelessCharging": "Có hỗ trợ sạc không dây",
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": "Sạc siêu nhanh có dây HONOR SuperCharge 66W (20V/3.3A) | Sạc không dây: Không hỗ trợ | Sạc ngược: Hỗ trợ sạc ngược có dây OTG 7.5W (5V/1.5A) chia sẻ năng lượng tiện lợi"
+  },
+  "connectivity": {
+    "sim": [
+      "2 khe Nano-SIM vật lý riêng biệt (không hỗ trợ eSIM)"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax, 2.4GHz & 5GHz, 1024 QAM, băng thông 80MHz, Wi-Fi Direct, Hotspot)",
+    "bluetooth": "Bluetooth 5.2 (BLE, SBC, AAC, LDAC, aptX, aptX HD, aptX Adaptive)",
+    "gps": [
+      "GPS, AGPS, GLONASS, BeiDou, Galileo"
+    ],
+    "usb": "USB Type-C chuẩn USB 2.0, hỗ trợ OTG truyền tải dữ liệu và sạc ngược 7.5W",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "161.9 x 76.1 x 7.76 mm (độ mỏng khó tin chỉ 7.76mm chứa pin 8300 mAh)",
+    "weight": "Khoảng 193 gram (nhẹ hơn nhiều máy pin 5000 mAh thông thường)",
+    "materials": [
+      "Khung viền gia cường đệm đa tầng, mặt lưng hoàn thiện mờ nhung cao cấp",
+      "Khung viền gia cường đệm đa tầng, mặt lưng hoàn thiện mờ nhung cao cấp"
+    ],
+    "waterResistance": "IP66 / IP68 / IP69 / IP69K & Chống rơi 2,5m SGS",
+    "availableColors": [
+      "Vàng",
+      "Đen",
+      "Đỏ"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo đối xứng, hiệu ứng âm thanh HONOR Sound 7.3 không gian sống động; ; Jack 3.5mm: Không có (xuất âm qua Type-C)",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "AMOLED 6.78 inch"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền HONOR tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/honor/honor-x9d-5g/anh-dai-dien-mat-truoc-sau-vang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/honor/honor-x9d-5g/anh-dai-dien-mat-truoc-sau-vang.webp",
+      "assets/images/products/honor/honor-x9d-5g/mat-truoc-sau-den.webp",
+      "assets/images/products/honor/honor-x9d-5g/mat-truoc-sau-do.webp",
+      "assets/images/products/honor/honor-x9d-5g/mat-truoc-sau-vang.webp",
+      "assets/images/products/honor/honor-x9d-5g/mat-truoc-sau-xep-chong-den.webp",
+      "assets/images/products/honor/honor-x9d-5g/mat-truoc-dat-tren-ban-den.webp",
+      "assets/images/products/honor/honor-x9d-5g/mat-truoc-dat-tren-ban-do.webp",
+      "assets/images/products/honor/honor-x9d-5g/mat-sau-dat-tren-ban-den.webp",
+      "assets/images/products/honor/honor-x9d-5g/mat-sau-dat-tren-ban-do.webp",
+      "assets/images/products/honor/honor-x9d-5g/mat-sau-nghieng-phai-vang.webp",
+      "assets/images/products/honor/honor-x9d-5g/mat-sau-nghieng-trai-vang.webp",
+      "assets/images/products/honor/honor-x9d-5g/mat-sau-thang-dung-den.webp",
+      "assets/images/products/honor/honor-x9d-5g/can-canh-canh-duoi-cong-sac-den.webp",
+      "assets/images/products/honor/honor-x9d-5g/can-canh-canh-duoi-cong-sac-do.webp",
+      "assets/images/products/honor/honor-x9d-5g/can-canh-khay-sim-canh-duoi-do.webp",
+      "assets/images/products/honor/honor-x9d-5g/can-canh-nut-bam-canh-ben-den.webp",
+      "assets/images/products/honor/honor-x9d-5g/can-canh-nut-bam-canh-ben-do.webp",
+      "assets/images/products/honor/honor-x9d-5g/canh-ben-trai-phai-den.webp",
+      "assets/images/products/honor/honor-x9d-5g/canh-ben-trai-phai-do.webp",
+      "assets/images/products/honor/honor-x9d-5g/canh-tren-duoi-den.webp",
+      "assets/images/products/honor/honor-x9d-5g/canh-tren-duoi-do.webp",
+      "assets/images/products/honor/honor-x9d-5g/mat-truoc-nghieng-phai-vang.webp",
+      "assets/images/products/honor/honor-x9d-5g/mat-truoc-nghieng-trai-vang.webp",
+      "assets/images/products/honor/honor-x9d-5g/can-canh-cum-camera-sau-den.webp",
+      "assets/images/products/honor/honor-x9d-5g/can-canh-cum-camera-sau-do.webp",
+      "assets/images/products/honor/honor-x9d-5g/cam-hai-tay-chup-anh-den.webp",
+      "assets/images/products/honor/honor-x9d-5g/cam-hai-tay-chup-anh-do.webp",
+      "assets/images/products/honor/honor-x9d-5g/cam-tren-tay-man-hinh-den.webp",
+      "assets/images/products/honor/honor-x9d-5g/cam-tren-tay-man-hinh-do.webp",
+      "assets/images/products/honor/honor-x9d-5g/tinh-nang-camera-ai-108mp-ois-vang.webp",
+      "assets/images/products/honor/honor-x9d-5g/tinh-nang-khang-nuoc-ip69k-chong-roi-do-vang.webp",
+      "assets/images/products/honor/honor-x9d-5g/tinh-nang-loa-kep-400-nfc-vang-cam.webp",
+      "assets/images/products/honor/honor-x9d-5g/thong-so-camera-108mp-den.webp",
+      "assets/images/products/honor/honor-x9d-5g/thong-so-chip-snapdragon-6-gen-4-den-xanh.webp",
+      "assets/images/products/honor/honor-x9d-5g/thong-so-chip-snapdragon-6-gen-4-tan-nhiet-do-den.webp",
+      "assets/images/products/honor/honor-x9d-5g/thong-so-man-hinh-amoled-1-5k-120hz-vang.webp",
+      "assets/images/products/honor/honor-x9d-5g/thong-so-man-hinh-amoled-6000nits-cam-vang.webp",
+      "assets/images/products/honor/honor-x9d-5g/thong-so-pin-8300mah-sac-66w-xanh-hong.webp",
+      "assets/images/products/honor/honor-x9d-5g/tong-quan-tinh-nang-do-vang-den.webp"
+    ],
+    "byColor": {
+      "Vàng": [
+        "assets/images/products/honor/honor-x9d-5g/anh-dai-dien-mat-truoc-sau-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-sau-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-sau-nghieng-phai-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-sau-nghieng-trai-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-nghieng-phai-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-nghieng-trai-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/tinh-nang-camera-ai-108mp-ois-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/tinh-nang-khang-nuoc-ip69k-chong-roi-do-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/tinh-nang-loa-kep-400-nfc-vang-cam.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-camera-108mp-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-chip-snapdragon-6-gen-4-den-xanh.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-chip-snapdragon-6-gen-4-tan-nhiet-do-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-man-hinh-amoled-1-5k-120hz-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-man-hinh-amoled-6000nits-cam-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-pin-8300mah-sac-66w-xanh-hong.webp",
+        "assets/images/products/honor/honor-x9d-5g/tong-quan-tinh-nang-do-vang-den.webp"
+      ],
+      "Đen": [
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-sau-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-sau-xep-chong-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-dat-tren-ban-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-sau-dat-tren-ban-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-sau-thang-dung-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/can-canh-canh-duoi-cong-sac-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/can-canh-nut-bam-canh-ben-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/canh-ben-trai-phai-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/canh-tren-duoi-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/can-canh-cum-camera-sau-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/cam-hai-tay-chup-anh-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/cam-tren-tay-man-hinh-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/tinh-nang-khang-nuoc-ip69k-chong-roi-do-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/tinh-nang-loa-kep-400-nfc-vang-cam.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-camera-108mp-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-chip-snapdragon-6-gen-4-den-xanh.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-chip-snapdragon-6-gen-4-tan-nhiet-do-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-man-hinh-amoled-1-5k-120hz-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-man-hinh-amoled-6000nits-cam-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-pin-8300mah-sac-66w-xanh-hong.webp",
+        "assets/images/products/honor/honor-x9d-5g/tong-quan-tinh-nang-do-vang-den.webp"
+      ],
+      "Đỏ": [
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-sau-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-truoc-dat-tren-ban-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/mat-sau-dat-tren-ban-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/can-canh-canh-duoi-cong-sac-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/can-canh-khay-sim-canh-duoi-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/can-canh-nut-bam-canh-ben-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/canh-ben-trai-phai-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/canh-tren-duoi-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/can-canh-cum-camera-sau-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/cam-hai-tay-chup-anh-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/cam-tren-tay-man-hinh-do.webp",
+        "assets/images/products/honor/honor-x9d-5g/tinh-nang-khang-nuoc-ip69k-chong-roi-do-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/tinh-nang-loa-kep-400-nfc-vang-cam.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-camera-108mp-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-chip-snapdragon-6-gen-4-den-xanh.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-chip-snapdragon-6-gen-4-tan-nhiet-do-den.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-man-hinh-amoled-1-5k-120hz-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-man-hinh-amoled-6000nits-cam-vang.webp",
+        "assets/images/products/honor/honor-x9d-5g/thong-so-pin-8300mah-sac-66w-xanh-hong.webp",
+        "assets/images/products/honor/honor-x9d-5g/tong-quan-tinh-nang-do-vang-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/honor/honor-x9d-5g/mat-truoc-sau-den.webp",
+      "screen": "assets/images/products/honor/honor-x9d-5g/mat-truoc-sau-do.webp",
+      "performance": "assets/images/products/honor/honor-x9d-5g/thong-so-chip-snapdragon-6-gen-4-den-xanh.webp",
+      "camera": "assets/images/products/honor/honor-x9d-5g/can-canh-cum-camera-sau-den.webp",
+      "battery": "assets/images/products/honor/honor-x9d-5g/can-canh-canh-duoi-cong-sac-den.webp",
+      "feature": "assets/images/products/honor/honor-x9d-5g/mat-sau-nghieng-phai-vang.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/honor/honor-x9d-5g/mat-truoc-sau-den.webp",
+      "assets/images/products/honor/honor-x9d-5g/mat-truoc-sau-do.webp",
+      "assets/images/products/honor/honor-x9d-5g/mat-truoc-sau-vang.webp",
+      "assets/images/products/honor/honor-x9d-5g/mat-truoc-sau-xep-chong-den.webp",
+      "assets/images/products/honor/honor-x9d-5g/mat-truoc-dat-tren-ban-den.webp",
+      "assets/images/products/honor/honor-x9d-5g/mat-truoc-dat-tren-ban-do.webp",
+      "assets/images/products/honor/honor-x9d-5g/mat-sau-dat-tren-ban-den.webp",
+      "assets/images/products/honor/honor-x9d-5g/mat-sau-dat-tren-ban-do.webp",
+      "assets/images/products/honor/honor-x9d-5g/mat-sau-nghieng-phai-vang.webp",
+      "assets/images/products/honor/honor-x9d-5g/mat-sau-nghieng-trai-vang.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-honor",
+      "https://www.honor.com/vn/phones/",
+      "https://www.honor.com/vn/phones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "partial_retail_listing",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT014-HNX9D5G",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "AMOLED phẳng 1.07 tỷ màu (10-bit), 100% gam màu DCI-P3 rực rỡ, hỗ trợ HDR",
+      "Kích thước màn hình": "6.79 inch theo đường chéo (tỷ lệ màn hình so với thân máy đạt 91.5%)",
+      "Độ phân giải màn hình": "1.5K (2640 x 1200 pixels, tỷ lệ 19.8:9 sắc nét) (427 ppi)",
+      "Tần số quét": "120Hz mượt mà thích ứng",
+      "Kiểu màn hình": "Đục lỗ nốt ruồi trung tâm siêu nhỏ gọn",
+      "Tính năng màn hình": "Độ sáng: 800 nits (tiêu chuẩn) / 1800 nits (HBM) / 6000 nits (đỉnh APL ngoài trời); Làm mờ PWM tần số siêu cao 3840Hz khử nhấp nháy, chứng nhận bảo vệ mắt TÜV Rheinland, kính cường lực bảo vệ Aluminosilicate; Cảm ứng khi tay ướt và dính dầu mỡ, Chế độ đọc sách e-ink bảo vệ mắt ban đêm"
+    },
+    "Camera sau": {
+      "Camera sau": "Số lượng camera: Cụm camera kép AI Ultra-Clear thiết kế module tròn Matrix đối xứng sang trọng | Camera Chính (Wide): 108 MP, khẩu độ f/1.75, tiêu cự 24mm, cảm biến lớn 1/1.67\", 1.0µm (gộp 9-in-1), lấy nét theo pha PDAF, chống rung quang học OIS | Camera Góc Siêu Rộng & Macro: 5 MP, khẩu độ f/2.2, tiêu cự 17mm, góc nhìn siêu rộng hỗ trợ chụp phong cảnh và macro",
+      "Quay video": "Quay video 4K ở tốc độ 30fps (3840 x 2160 pixels); 1080p ở tốc độ 30fps với chống rung kép OIS + gyro-EIS",
+      "Tính năng camera": "Các chế độ chụp ảnh: Chụp đêm AI Ultra-Night, Chân dung xóa phông chuyên sâu, Chụp ảnh siêu nét 108MP, Chụp tài liệu thông minh, Panorama | Khả năng zoom: Zoom cảm biến in-sensor 3x lossless từ camera 108MP; zoom kỹ thuật số tối đa 10x | Đèn flash: Đèn flash LED đơn trợ sáng"
+    },
+    "Camera trước": {
+      "Camera trước": "16 MP, khẩu độ f/2.45, tiêu cự 24mm, cảm biến góc rộng; Lấy nét: Lấy nét cố định thông minh; Tính năng: Chân dung làm đẹp AI tự nhiên, Tự động kích hoạt HDR ngược sáng, Mở khóa khuôn mặt 2D; Quay video: Quay video 1080p ở tốc độ 30fps (lên đến 2520 x 1080 pixels)"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 6 Gen 4 (tiến trình 4nm TSMC hiện đại)",
+      "Loại CPU": "CPU 8 nhân: 1 nhân Cortex-A720 xung nhịp 2.3 GHz + 3 nhân Cortex-A720 xung nhịp 2.2 GHz + 4 nhân Cortex-A520 xung nhịp 1.8 GHz",
+      "GPU": "Qualcomm Adreno 810 (Adreno A810) hiệu suất đồ họa tăng 30%, tiết kiệm điện | Tản nhiệt: Tản nhiệt buồng hơi VC siêu mỏng kết hợp các tấm than chì đa tầng"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB hoặc 12GB RAM LPDDR4X (HONOR RAM Turbo cho phép mở rộng thêm 12GB RAM ảo từ bộ nhớ trong (tổng cộng 24GB))",
+      "Bộ nhớ trong": "256GB hoặc 512GB chuẩn UFS 2.2 tốc độ cao (Không hỗ trợ khe cắm thẻ nhớ microSD ngoài)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "8300 mAh (dung lượng điển hình siêu khủng), pin Silicon-Carbon Lithium-ion Polymer — Hơn 3.5 đến 4 ngày sử dụng hỗn hợp thông thường; hơn 32 giờ xem video liên tục",
+      "Công nghệ sạc": "Sạc siêu nhanh có dây HONOR SuperCharge 66W (20V/3.3A) | Sạc không dây: Không hỗ trợ | Sạc ngược: Hỗ trợ sạc ngược có dây OTG 7.5W (5V/1.5A) chia sẻ năng lượng tiện lợi",
+      "Cổng sạc": "USB Type-C chuẩn USB 2.0, hỗ trợ OTG truyền tải dữ liệu và sạc ngược 7.5W"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "MagicOS 9.0 phát triển trên nền tảng Android 15 chính thức",
+      "Công nghệ - Tiện ích": "Khoanh tròn tìm kiếm Circle to Search, Tẩy vật thể AI, Tóm tắt tài liệu AI Notes, Magic Capsule",
+      "Tiện ích khác": "Hỗ trợ các bản cập nhật phần mềm và vá bảo mật định kỳ lâu dài",
+      "Thời điểm ra mắt": "Công bố: 24/09/2025 – Mở bán tại Việt Nam: Tháng 10/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G NR kép (hỗ trợ đầy đủ băng tần SA/NSA Sub-6GHz tại Việt Nam n1/n3/n28/n41/n77/n78), 4G LTE, 3G WCDMA, 2G GSM",
+      "Thẻ SIM": "2 khe Nano-SIM vật lý riêng biệt (không hỗ trợ eSIM)",
+      "Wi-Fi": "Wi-Fi 6 (802.11 a/b/g/n/ac/ax, 2.4GHz & 5GHz, 1024 QAM, băng thông 80MHz, Wi-Fi Direct, Hotspot)",
+      "Bluetooth": "Bluetooth 5.2 (BLE, SBC, AAC, LDAC, aptX, aptX HD, aptX Adaptive)",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa chức năng (Google Pay, chạm truyền dữ liệu)",
+      "GPS": "GPS, AGPS, GLONASS, BeiDou, Galileo"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền gia cường đệm đa tầng, mặt lưng hoàn thiện mờ nhung cao cấp",
+      "Chất liệu mặt lưng": "Khung viền gia cường đệm đa tầng, mặt lưng hoàn thiện mờ nhung cao cấp",
+      "Kích thước": "161.9 x 76.1 x 7.76 mm (độ mỏng khó tin chỉ 7.76mm chứa pin 8300 mAh)",
+      "Trọng lượng": "Khoảng 193 gram (nhẹ hơn nhiều máy pin 5000 mAh thông thường)",
+      "Chỉ số kháng nước, bụi": "Đạt đồng thời 4 chuẩn kháng bụi và nước cao nhất: IP66, IP68, IP69 và IP69K (chịu tia nước nóng 85°C và ngâm sâu 6m) (Đạt chuẩn chống sốc chống rơi vỡ từ độ cao 2.5m chuẩn 5 sao từ tổ chức SGS Thụy Sĩ)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa kép Stereo đối xứng, hiệu ứng âm thanh HONOR Sound 7.3 không gian sống động; ; Jack 3.5mm: Không có (xuất âm qua Type-C)",
+      "Cảm biến vân tay": "Cảm biến vân tay quang học ẩn dưới màn hình siêu nhạy, Mở khóa khuôn mặt 2D",
+      "Các loại cảm biến": "Con quay hồi chuyển, La bàn số, Trọng lực, Cảm biến ánh sáng môi trường, Cảm biến tiệm cận siêu âm"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,79 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "AMOLED 1,5K 120Hz, PWM 3840Hz, 6.000 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2640 x 1200 pixel (1.5K)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 6 Gen 4 5G (4nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB / 12GB LPDDR5"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB / 512GB UFS 3.1"
+    },
+    {
+      "label": "Camera sau",
+      "value": "108MP Chính OIS (ƒ/1.75, 1/1.67\") + 5MP Góc siêu rộng"
+    },
+    {
+      "label": "Camera trước",
+      "value": "16MP Selfie (ƒ/2.45)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "8.300 mAh (Kỷ lục pin Silicon-Carbon)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh 66W HONOR SuperCharge, sạc ngược 7,5W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "MagicOS 9.0 (Android 15)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP66 / IP68 / IP69 / IP69K & Chống rơi 2,5m SGS"
+    }
+  ],
+  "verbatimDescription": [
+    "HONOR X9d 5G (tên niêm yết trên trang chủ HONOR Việt Nam là HONOR X9d) được chính thức công bố vào ngày 24/09/2025 và mở bán tại thị trường Việt Nam vào tháng 10/2025 qua hệ thống Thế Giới Di Động và CellphoneS. Đây là phiên bản quốc tế đổi tên từ mẫu smartphone nội địa Honor X70, được xem là kiệt tác công nghệ 'phá vỡ mọi giới hạn vật lý' khi trang bị viên pin Silicon-Carbon dung lượng khủng nhất lịch sử smartphone thương mại lên tới 8300 mAh trong thân máy mỏng chỉ 7.76mm. Tại thị trường Việt Nam, HONOR X9d 5G là cỗ máy hoàn hảo cho người dùng tìm kiếm sự bền bỉ tuyệt đối: pin dùng gần 4 ngày, đạt cùng lúc 4 tiêu chuẩn chống nước IP66/IP68/IP69/IP69K, màn hình AMOLED 1.5K siêu sáng 6000 nits và camera 108MP OIS quay video 4K.",
+    "Việc trang bị viên pin 8300 mAh trong thân máy chỉ mỏng 7.76 mm và trọng lượng chỉ 193 gram là một kỳ tích công nghệ phi thường của HONOR. Bằng việc ứng dụng vật liệu cực âm Silicon-Carbon thế hệ mới với hàm lượng silicon cao, mật độ năng lượng của pin đã tăng vọt, giúp máy nhẹ hơn cả nhiều chiếc điện thoại pin 5000 mAh thông thường. Thời lượng pin thực tế của máy đạt tới 3.5 đến 4 ngày sử dụng hỗn hợp hoặc hơn 32 giờ xem video liên tục. Máy hỗ trợ công nghệ sạc nhanh HONOR SuperCharge 66W đi kèm củ sạc chính hãng trong hộp, sạc đầy viên pin khổng lồ chỉ trong khoảng 55 phút, cùng khả năng sạc ngược 7.5W tiện lợi.",
+    "HONOR X9d 5G được mệnh danh là chiếc điện thoại 'bất tử' khi đạt đồng thời cả 4 tiêu chuẩn kháng bụi và nước khắt khe nhất thế giới: IP66 (chống tia nước mạnh), IP68 (ngâm nước sâu tới 6m), IP69 (chịu tia nước áp lực cao) và IP69K (chống nước nóng lên tới 85 độ C). Toàn bộ cấu trúc thân máy được thiết kế đệm giảm chấn đa tầng với khung hợp kim gia cường, giúp máy sống sót an toàn sau những cú rơi tự do từ độ cao 2.5m xuống nền đá hoa cương, đạt chứng nhận chống va đập 5 sao toàn diện từ tổ chức kiểm định quốc tế SGS Thụy Sĩ.",
+    "Mặt trước của máy là màn hình AMOLED phẳng kích thước lớn 6.79 inch độ phân giải 1.5K (2640 x 1200 pixels) với mật độ điểm ảnh 427 ppi cực kỳ sắc nét. Màn hình hỗ trợ hiển thị 1.07 tỷ màu, tần số quét 120Hz mượt mà và độ sáng đỉnh ngoài trời đạt mức kinh ngạc 6000 nits, hiển thị rõ mồn một từng chi tiết dưới ánh nắng gắt nhất. Công nghệ khử nhấp nháy PWM Dimming tần số 3840Hz loại bỏ hoàn toàn hiện tượng mỏi mắt khi dùng trong đêm tối. Cảm biến vân tay quang học thời thượng được tích hợp ẩn dưới màn hình, cho tốc độ mở khóa tức thì.",
+    "Cụm camera Matrix hình tròn sang trọng ở mặt lưng trang bị camera chính 108MP cảm biến lớn 1/1.67 inch với khẩu độ lớn f/1.75 và chống rung quang học OIS. Ảnh chụp từ máy có độ chi tiết vượt trội, dải tương phản động rộng và khả năng chụp đêm AI Ultra-Night vô cùng trong trẻo. Khác với các dòng máy giá rẻ, HONOR X9d 5G hỗ trợ quay video độ phân giải cao 4K ở tốc độ 30fps với sự ổn định tuyệt đối từ hệ thống chống rung kép OIS + gyro-EIS. Đi kèm là camera góc siêu rộng 5MP và camera selfie 16MP chất lượng cao ở mặt trước.",
+    "Cung cấp sức mạnh cho máy là vi xử lý Qualcomm Snapdragon 6 Gen 4 sản xuất trên tiến trình 4nm hiện đại. Kiến trúc CPU 8 nhân mới kết hợp GPU Adreno 810 mang lại hiệu năng xử lý đồ họa tăng 30% và tiết kiệm pin vượt bậc, đáp ứng hoàn hảo mọi nhu cầu chơi game và làm việc online. Máy hỗ trợ kết nối mạng 5G kép, Wi-Fi 6 tốc độ cao, NFC thanh toán một chạm và hệ thống loa kép Stereo HONOR Sound 7.3 to rõ. Giao diện MagicOS 9.0 trên nền Android 15 hoạt động ổn định và mượt mà trong suốt nhiều năm sử dụng."
+  ],
+  "priceSegment": "midrange"
+}

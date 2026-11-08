@@ -1,0 +1,551 @@
+{
+  "id": "honor-x7d-5g",
+  "brand": "HONOR",
+  "brandId": "honor",
+  "parentGroupId": "honor",
+  "model": "HONOR X7d 5G",
+  "series": "HONOR X Series",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "midrange"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2025 – 2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "HONOR X7d 5G được công bố vào ngày 24/09/2025 và chính thức lên kệ tại Việt Nam vào tháng 10/2025. Đây là phiên bản nâng cấp chiến lược của dòng X7d, mang kết nối mạng di động 5G thế hệ mới và vi xử lý Snapdragon 6s Gen 3 mạnh mẽ đến với người dùng phân khúc tầm trung giá rẻ. Tại thị trường Việt Nam, HONOR X7d 5G là lựa chọn lý tưởng cho thế hệ người dùng trẻ, các tài xế công nghệ và người làm việc trực tuyến cần tốc độ mạng di động 5G siêu nhanh, viên pin lớn 6500 mAh bền bỉ cả ngày dài và nút AI vật lý thông minh độc đáo.",
+    "highlights": [
+      "6,77 inch",
+      "Qualcomm Snapdragon 6s Gen 3 5G",
+      "Pin 6.500 mAh"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 6190000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT012-HNX7D5G-VANG-8GB-128GB",
+      "color": "Vàng",
+      "colorHex": "#EAB308",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 6190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-x7d-5g/anh-dai-dien-mat-truoc-sau-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/mat-truoc-sau-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/cam-tren-tay-canh-ben-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/can-canh-nut-ai-canh-trai-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/canh-ben-trai-phai-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/canh-tren-duoi-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/can-canh-cum-camera-sau-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/cam-tren-tay-man-hinh-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/can-canh-nut-nguon-am-luong-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/mat-sau-dat-canh-hop-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/tinh-nang-chinh-sua-anh-ai-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/thong-so-man-hinh-120hz-loa-kep-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/tong-quan-tinh-nang-vang-bac-den.webp"
+      ]
+    },
+    {
+      "sku": "DT012-HNX7D5G-VANG-8GB-256GB",
+      "color": "Vàng",
+      "colorHex": "#EAB308",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 6890000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-x7d-5g/anh-dai-dien-mat-truoc-sau-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/mat-truoc-sau-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/cam-tren-tay-canh-ben-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/can-canh-nut-ai-canh-trai-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/canh-ben-trai-phai-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/canh-tren-duoi-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/can-canh-cum-camera-sau-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/cam-tren-tay-man-hinh-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/can-canh-nut-nguon-am-luong-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/mat-sau-dat-canh-hop-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/tinh-nang-chinh-sua-anh-ai-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/thong-so-man-hinh-120hz-loa-kep-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/tong-quan-tinh-nang-vang-bac-den.webp"
+      ]
+    },
+    {
+      "sku": "DT012-HNX7D5G-BAC-8GB-128GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 6190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-x7d-5g/mat-truoc-sau-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/cam-tren-tay-canh-ben-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/can-canh-canh-duoi-cong-sac-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/can-canh-nut-ai-canh-trai-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/canh-ben-trai-phai-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/canh-tren-duoi-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/can-canh-cum-camera-sau-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/cam-tren-tay-man-hinh-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/can-canh-nut-nguon-am-luong-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/mat-sau-dat-canh-hop-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/mat-truoc-dat-canh-hop-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/thong-so-man-hinh-120hz-loa-kep-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/tong-quan-tinh-nang-vang-bac-den.webp"
+      ]
+    },
+    {
+      "sku": "DT012-HNX7D5G-BAC-8GB-256GB",
+      "color": "Bạc",
+      "colorHex": "#D1D5DB",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 6890000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-x7d-5g/mat-truoc-sau-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/cam-tren-tay-canh-ben-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/can-canh-canh-duoi-cong-sac-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/can-canh-nut-ai-canh-trai-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/canh-ben-trai-phai-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/canh-tren-duoi-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/can-canh-cum-camera-sau-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/cam-tren-tay-man-hinh-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/can-canh-nut-nguon-am-luong-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/mat-sau-dat-canh-hop-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/mat-truoc-dat-canh-hop-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/thong-so-man-hinh-120hz-loa-kep-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/tong-quan-tinh-nang-vang-bac-den.webp"
+      ]
+    },
+    {
+      "sku": "DT012-HNX7D5G-DEN-8GB-128GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/128GB",
+      "rom": "128GB",
+      "price": 6190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-x7d-5g/mat-truoc-sau-den.webp",
+        "assets/images/products/honor/honor-x7d-5g/mat-sau-nghieng-phai-den.webp",
+        "assets/images/products/honor/honor-x7d-5g/mat-sau-nghieng-trai-den.webp",
+        "assets/images/products/honor/honor-x7d-5g/mat-truoc-nghieng-phai-den.webp",
+        "assets/images/products/honor/honor-x7d-5g/mat-truoc-nghieng-trai-den.webp",
+        "assets/images/products/honor/honor-x7d-5g/tinh-nang-nut-bam-ai-vat-ly-den.webp",
+        "assets/images/products/honor/honor-x7d-5g/thong-so-man-hinh-120hz-loa-kep-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/tong-quan-tinh-nang-vang-bac-den.webp"
+      ]
+    },
+    {
+      "sku": "DT012-HNX7D5G-DEN-8GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "8GB",
+      "storage": "8GB/256GB",
+      "rom": "256GB",
+      "price": 6890000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/honor/honor-x7d-5g/mat-truoc-sau-den.webp",
+        "assets/images/products/honor/honor-x7d-5g/mat-sau-nghieng-phai-den.webp",
+        "assets/images/products/honor/honor-x7d-5g/mat-sau-nghieng-trai-den.webp",
+        "assets/images/products/honor/honor-x7d-5g/mat-truoc-nghieng-phai-den.webp",
+        "assets/images/products/honor/honor-x7d-5g/mat-truoc-nghieng-trai-den.webp",
+        "assets/images/products/honor/honor-x7d-5g/tinh-nang-nut-bam-ai-vat-ly-den.webp",
+        "assets/images/products/honor/honor-x7d-5g/thong-so-man-hinh-120hz-loa-kep-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/tong-quan-tinh-nang-vang-bac-den.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "TFT LCD 120Hz, độ sáng 850 nit",
+    "size": "6,77 inch",
+    "resolution": "1610 x 720 pixel (HD+)",
+    "refreshRate": "120Hz",
+    "brightness": "Độ sáng: 700 nits (tiêu chuẩn) / 850 nits (chế độ ngoài trời HBM); Chế độ Bảo vệ mắt giảm ánh sáng xanh, Làm mờ động Dynamic Dimming bảo vệ giấc ngủ, kính cường lực bảo vệ; Cảm ứng khi tay ướt, Chế độ đọc sách e-ink bảo vệ mắt ban đêm",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 6s Gen 3 (SM6375, tiến trình 6nm tối ưu năng lượng)",
+    "cpu": "CPU 8 nhân: 2 nhân Cortex-A78 xung nhịp 2.3 GHz + 6 nhân Cortex-A55 xung nhịp 2.0 GHz",
+    "gpu": "Qualcomm Adreno 619 mượt mà, hỗ trợ chơi game đồ họa ổn định | Tản nhiệt: Tản nhiệt tấm than chì diện tích lớn giúp máy duy trì nhiệt độ mát mẻ",
+    "ram": [
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "operatingSystem": "MagicOS 9.0 phát triển trên nền tảng Android 15 (hỗ trợ nâng cấp MagicOS 10)",
+    "uiVersion": "MagicOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Chính (ƒ/1.8, PDAF) + 2MP Xóa phông, Nút Instant AI",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "Quay video 1080p ở tốc độ 30fps (1920 x 1080 pixels)"
+    ],
+    "aiFeatures": [
+      "Các chế độ chụp ảnh: Chụp đêm AI Ultra-Night, Chân dung xóa phông, Chụp tài liệu thông minh, Panorama | Khả năng zoom: Zoom cảm biến in-sensor 2x; zoom kỹ thuật số tối đa 8x | Đèn flash: Đèn flash LED đơn trợ sáng"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "5MP Selfie (ƒ/2.2)",
+    "features": [
+      "5 MP, khẩu độ f/2.2, góc rộng; Lấy nét: Lấy nét cố định thông minh; Tính năng: Chân dung làm đẹp AI tự nhiên, Chụp HDR tự động, Mở khóa khuôn mặt 2D; Quay video: Quay video 1080p ở tốc độ 30fps (1920 x 1080 pixels)"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "6.500 mAh",
+    "wiredCharging": "Sạc nhanh 35W SuperCharge, sạc ngược 7,5W",
+    "wirelessCharging": "Có hỗ trợ sạc không dây",
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": "Sạc nhanh có dây HONOR SuperCharge 35W (11V/3.2A) | Sạc không dây: Không hỗ trợ | Sạc ngược: Hỗ trợ sạc ngược có dây OTG 7.5W (1.5A/5V) cho các thiết bị phụ kiện"
+  },
+  "connectivity": {
+    "sim": [
+      "2 khe Nano-SIM vật lý riêng biệt"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 5 (802.11 a/b/g/n/ac, 2.4GHz & 5GHz, Wi-Fi Direct, Hotspot)",
+    "bluetooth": "Bluetooth 5.1 (hỗ trợ BLE, SBC, AAC, LDAC, aptX HD)",
+    "gps": [
+      "BeiDou (B1I+B1C), GPS (L1), GLONASS (G1), Galileo (E1), A-GNSS"
+    ],
+    "usb": "USB Type-C chuẩn USB 2.0, hỗ trợ OTG truyền tải dữ liệu và sạc ngược 7.5W",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "166.89 x 76.8 x 8.24 mm (thân máy gọn gàng)",
+    "weight": "Khoảng 206 gram (nhẹ hơn bản 4G một chút, cầm nắm rất đầm tay)",
+    "materials": [
+      "Mặt lưng nhựa nhám mờ cao cấp chống bám vân tay, khung viền gia cố bền bỉ",
+      "Mặt lưng nhựa nhám mờ cao cấp chống bám vân tay, khung viền gia cố bền bỉ"
+    ],
+    "waterResistance": "IP65 & Chống rơi vỡ SGS 5 sao",
+    "availableColors": [
+      "Vàng",
+      "Bạc",
+      "Đen"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo đối xứng, hiệu ứng âm thanh HONOR Sound 7.3 không gian sống động; ; Jack 3.5mm: Không có (xuất âm qua Type-C)",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Qualcomm Snapdragon 6s Gen 3",
+    "LCD / AMOLED 120Hz 6.77 inch",
+    "Camera 50MP",
+    "Pin 6500 mAh"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền HONOR tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/honor/honor-x7d-5g/anh-dai-dien-mat-truoc-sau-vang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/honor/honor-x7d-5g/anh-dai-dien-mat-truoc-sau-vang.webp",
+      "assets/images/products/honor/honor-x7d-5g/mat-truoc-sau-bac.webp",
+      "assets/images/products/honor/honor-x7d-5g/mat-truoc-sau-den.webp",
+      "assets/images/products/honor/honor-x7d-5g/mat-truoc-sau-vang.webp",
+      "assets/images/products/honor/honor-x7d-5g/mat-sau-nghieng-phai-den.webp",
+      "assets/images/products/honor/honor-x7d-5g/mat-sau-nghieng-trai-den.webp",
+      "assets/images/products/honor/honor-x7d-5g/cam-tren-tay-canh-ben-bac.webp",
+      "assets/images/products/honor/honor-x7d-5g/cam-tren-tay-canh-ben-vang.webp",
+      "assets/images/products/honor/honor-x7d-5g/can-canh-canh-duoi-cong-sac-bac.webp",
+      "assets/images/products/honor/honor-x7d-5g/can-canh-nut-ai-canh-trai-bac.webp",
+      "assets/images/products/honor/honor-x7d-5g/can-canh-nut-ai-canh-trai-vang.webp",
+      "assets/images/products/honor/honor-x7d-5g/canh-ben-trai-phai-bac.webp",
+      "assets/images/products/honor/honor-x7d-5g/canh-ben-trai-phai-vang.webp",
+      "assets/images/products/honor/honor-x7d-5g/canh-tren-duoi-bac.webp",
+      "assets/images/products/honor/honor-x7d-5g/canh-tren-duoi-vang.webp",
+      "assets/images/products/honor/honor-x7d-5g/mat-truoc-nghieng-phai-den.webp",
+      "assets/images/products/honor/honor-x7d-5g/mat-truoc-nghieng-trai-den.webp",
+      "assets/images/products/honor/honor-x7d-5g/can-canh-cum-camera-sau-bac.webp",
+      "assets/images/products/honor/honor-x7d-5g/can-canh-cum-camera-sau-vang.webp",
+      "assets/images/products/honor/honor-x7d-5g/cam-tren-tay-man-hinh-bac.webp",
+      "assets/images/products/honor/honor-x7d-5g/cam-tren-tay-man-hinh-vang.webp",
+      "assets/images/products/honor/honor-x7d-5g/can-canh-nut-nguon-am-luong-bac.webp",
+      "assets/images/products/honor/honor-x7d-5g/can-canh-nut-nguon-am-luong-vang.webp",
+      "assets/images/products/honor/honor-x7d-5g/mat-sau-dat-canh-hop-bac.webp",
+      "assets/images/products/honor/honor-x7d-5g/mat-sau-dat-canh-hop-vang.webp",
+      "assets/images/products/honor/honor-x7d-5g/mat-truoc-dat-canh-hop-bac.webp",
+      "assets/images/products/honor/honor-x7d-5g/tinh-nang-chinh-sua-anh-ai-vang.webp",
+      "assets/images/products/honor/honor-x7d-5g/tinh-nang-nut-bam-ai-vat-ly-den.webp",
+      "assets/images/products/honor/honor-x7d-5g/thong-so-man-hinh-120hz-loa-kep-vang.webp",
+      "assets/images/products/honor/honor-x7d-5g/tong-quan-tinh-nang-vang-bac-den.webp"
+    ],
+    "byColor": {
+      "Vàng": [
+        "assets/images/products/honor/honor-x7d-5g/anh-dai-dien-mat-truoc-sau-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/mat-truoc-sau-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/cam-tren-tay-canh-ben-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/can-canh-nut-ai-canh-trai-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/canh-ben-trai-phai-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/canh-tren-duoi-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/can-canh-cum-camera-sau-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/cam-tren-tay-man-hinh-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/can-canh-nut-nguon-am-luong-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/mat-sau-dat-canh-hop-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/tinh-nang-chinh-sua-anh-ai-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/thong-so-man-hinh-120hz-loa-kep-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/tong-quan-tinh-nang-vang-bac-den.webp"
+      ],
+      "Bạc": [
+        "assets/images/products/honor/honor-x7d-5g/mat-truoc-sau-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/cam-tren-tay-canh-ben-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/can-canh-canh-duoi-cong-sac-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/can-canh-nut-ai-canh-trai-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/canh-ben-trai-phai-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/canh-tren-duoi-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/can-canh-cum-camera-sau-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/cam-tren-tay-man-hinh-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/can-canh-nut-nguon-am-luong-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/mat-sau-dat-canh-hop-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/mat-truoc-dat-canh-hop-bac.webp",
+        "assets/images/products/honor/honor-x7d-5g/thong-so-man-hinh-120hz-loa-kep-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/tong-quan-tinh-nang-vang-bac-den.webp"
+      ],
+      "Đen": [
+        "assets/images/products/honor/honor-x7d-5g/mat-truoc-sau-den.webp",
+        "assets/images/products/honor/honor-x7d-5g/mat-sau-nghieng-phai-den.webp",
+        "assets/images/products/honor/honor-x7d-5g/mat-sau-nghieng-trai-den.webp",
+        "assets/images/products/honor/honor-x7d-5g/mat-truoc-nghieng-phai-den.webp",
+        "assets/images/products/honor/honor-x7d-5g/mat-truoc-nghieng-trai-den.webp",
+        "assets/images/products/honor/honor-x7d-5g/tinh-nang-nut-bam-ai-vat-ly-den.webp",
+        "assets/images/products/honor/honor-x7d-5g/thong-so-man-hinh-120hz-loa-kep-vang.webp",
+        "assets/images/products/honor/honor-x7d-5g/tong-quan-tinh-nang-vang-bac-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/honor/honor-x7d-5g/mat-truoc-sau-bac.webp",
+      "screen": "assets/images/products/honor/honor-x7d-5g/mat-truoc-sau-den.webp",
+      "performance": "assets/images/products/honor/honor-x7d-5g/mat-truoc-nghieng-phai-den.webp",
+      "camera": "assets/images/products/honor/honor-x7d-5g/can-canh-cum-camera-sau-bac.webp",
+      "battery": "assets/images/products/honor/honor-x7d-5g/can-canh-canh-duoi-cong-sac-bac.webp",
+      "feature": "assets/images/products/honor/honor-x7d-5g/mat-sau-nghieng-phai-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/honor/honor-x7d-5g/mat-truoc-sau-bac.webp",
+      "assets/images/products/honor/honor-x7d-5g/mat-truoc-sau-den.webp",
+      "assets/images/products/honor/honor-x7d-5g/mat-truoc-sau-vang.webp",
+      "assets/images/products/honor/honor-x7d-5g/mat-sau-nghieng-phai-den.webp",
+      "assets/images/products/honor/honor-x7d-5g/mat-sau-nghieng-trai-den.webp",
+      "assets/images/products/honor/honor-x7d-5g/cam-tren-tay-canh-ben-bac.webp",
+      "assets/images/products/honor/honor-x7d-5g/cam-tren-tay-canh-ben-vang.webp",
+      "assets/images/products/honor/honor-x7d-5g/can-canh-canh-duoi-cong-sac-bac.webp",
+      "assets/images/products/honor/honor-x7d-5g/can-canh-nut-ai-canh-trai-bac.webp",
+      "assets/images/products/honor/honor-x7d-5g/can-canh-nut-ai-canh-trai-vang.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.honor.com/vn/phones/",
+      "https://www.thegioididong.com/dtdd-honor",
+      "https://www.thegioididong.com/tin-tuc/tat-tan-tat-ve-honor-x7d-pin-6-500mah-loa-kep-400-va-do-ben-5-sao-1585021",
+      "https://www.honor.com/vn/phones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "verified",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT012-HNX7D5G",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "TFT LCD 16.7 triệu màu (85% NTSC)",
+      "Kích thước màn hình": "6.77 inch theo đường chéo (tỷ lệ màn hình so với thân máy đạt 90.8%)",
+      "Độ phân giải màn hình": "HD+ (1610 x 720 pixels, tỷ lệ 20:9) (261 ppi)",
+      "Tần số quét": "120Hz siêu mượt mà",
+      "Kiểu màn hình": "Đục lỗ nốt ruồi trung tâm gọn gàng",
+      "Tính năng màn hình": "Độ sáng: 700 nits (tiêu chuẩn) / 850 nits (chế độ ngoài trời HBM); Chế độ Bảo vệ mắt giảm ánh sáng xanh, Làm mờ động Dynamic Dimming bảo vệ giấc ngủ, kính cường lực bảo vệ; Cảm ứng khi tay ướt, Chế độ đọc sách e-ink bảo vệ mắt ban đêm"
+    },
+    "Camera sau": {
+      "Camera sau": "Số lượng camera: Cụm camera kép AI thiết kế thanh lịch | Camera Chính (Wide): 50 MP, khẩu độ f/1.8, lấy nét tự động theo pha PDAF | Camera Phụ: 2 MP, khẩu độ f/2.4 đo chiều sâu hỗ trợ chụp chân dung xóa phông",
+      "Quay video": "Quay video 1080p ở tốc độ 30fps (1920 x 1080 pixels)",
+      "Tính năng camera": "Các chế độ chụp ảnh: Chụp đêm AI Ultra-Night, Chân dung xóa phông, Chụp tài liệu thông minh, Panorama | Khả năng zoom: Zoom cảm biến in-sensor 2x; zoom kỹ thuật số tối đa 8x | Đèn flash: Đèn flash LED đơn trợ sáng"
+    },
+    "Camera trước": {
+      "Camera trước": "5 MP, khẩu độ f/2.2, góc rộng; Lấy nét: Lấy nét cố định thông minh; Tính năng: Chân dung làm đẹp AI tự nhiên, Chụp HDR tự động, Mở khóa khuôn mặt 2D; Quay video: Quay video 1080p ở tốc độ 30fps (1920 x 1080 pixels)"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 6s Gen 3 (SM6375, tiến trình 6nm tối ưu năng lượng)",
+      "Loại CPU": "CPU 8 nhân: 2 nhân Cortex-A78 xung nhịp 2.3 GHz + 6 nhân Cortex-A55 xung nhịp 2.0 GHz",
+      "GPU": "Qualcomm Adreno 619 mượt mà, hỗ trợ chơi game đồ họa ổn định | Tản nhiệt: Tản nhiệt tấm than chì diện tích lớn giúp máy duy trì nhiệt độ mát mẻ"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "8GB RAM vật lý chuẩn LPDDR4X (HONOR RAM Turbo cho phép mở rộng thêm 8GB RAM ảo (tổng cộng 16GB đa nhiệm))",
+      "Bộ nhớ trong": "256GB tốc độ cao chuẩn UFS 2.2 (Không hỗ trợ khe cắm thẻ nhớ microSD ngoài)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "6500 mAh (dung lượng định mức 6350 mAh), pin Li-ion Polymer mật độ cao bền bỉ — Lên đến gần 3 ngày sử dụng hỗn hợp thông thường; hơn 24 giờ xem video liên tục",
+      "Công nghệ sạc": "Sạc nhanh có dây HONOR SuperCharge 35W (11V/3.2A) | Sạc không dây: Không hỗ trợ | Sạc ngược: Hỗ trợ sạc ngược có dây OTG 7.5W (1.5A/5V) cho các thiết bị phụ kiện",
+      "Cổng sạc": "USB Type-C chuẩn USB 2.0, hỗ trợ OTG truyền tải dữ liệu và sạc ngược 7.5W"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "MagicOS 9.0 phát triển trên nền tảng Android 15 (hỗ trợ nâng cấp MagicOS 10)",
+      "Công nghệ - Tiện ích": "Nút bấm Instant AI Button vật lý kích hoạt nhanh tính năng, Khoanh tròn tìm kiếm Circle to Search, Magic Capsule",
+      "Tiện ích khác": "Hỗ trợ các bản cập nhật phần mềm và vá bảo mật định kỳ lâu dài",
+      "Thời điểm ra mắt": "Công bố: 24/09/2025 – Mở bán tại Việt Nam: Tháng 10/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G NR kép (hỗ trợ các băng tần SA/NSA Sub-6GHz tại Việt Nam n1/n3/n28/n41/n77/n78), 4G LTE, 3G WCDMA, 2G GSM",
+      "Thẻ SIM": "2 khe Nano-SIM vật lý riêng biệt",
+      "Wi-Fi": "Wi-Fi 5 (802.11 a/b/g/n/ac, 2.4GHz & 5GHz, Wi-Fi Direct, Hotspot)",
+      "Bluetooth": "Bluetooth 5.1 (hỗ trợ BLE, SBC, AAC, LDAC, aptX HD)",
+      "Công nghệ NFC": "Có hỗ trợ NFC thanh toán Google Pay tiện lợi",
+      "GPS": "BeiDou (B1I+B1C), GPS (L1), GLONASS (G1), Galileo (E1), A-GNSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Mặt lưng nhựa nhám mờ cao cấp chống bám vân tay, khung viền gia cố bền bỉ",
+      "Chất liệu mặt lưng": "Mặt lưng nhựa nhám mờ cao cấp chống bám vân tay, khung viền gia cố bền bỉ",
+      "Kích thước": "166.89 x 76.8 x 8.24 mm (thân máy gọn gàng)",
+      "Trọng lượng": "Khoảng 206 gram (nhẹ hơn bản 4G một chút, cầm nắm rất đầm tay)",
+      "Chỉ số kháng nước, bụi": "Kháng bụi và nước chuẩn IP65 chính thức (an toàn trước mưa lớn và bụi bẩn) (Thiết kế bền bỉ chuẩn HONOR)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa kép Stereo đối xứng, hiệu ứng âm thanh HONOR Sound 7.3 không gian sống động; ; Jack 3.5mm: Không có (xuất âm qua Type-C)",
+      "Cảm biến vân tay": "Cảm biến vân tay tích hợp nút nguồn cạnh viền mở khóa cực nhạy, Mở khóa khuôn mặt 2D",
+      "Các loại cảm biến": "Cảm biến trọng lực, La bàn số, Cảm biến gia tốc, Cảm biến ánh sáng môi trường, Cảm biến tiệm cận"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,77 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "TFT LCD 120Hz, độ sáng 850 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "1610 x 720 pixel (HD+)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 6s Gen 3 5G (6nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB (+8GB RAM Turbo)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính (ƒ/1.8, PDAF) + 2MP Xóa phông, Nút Instant AI"
+    },
+    {
+      "label": "Camera trước",
+      "value": "5MP Selfie (ƒ/2.2)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "6.500 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh 35W SuperCharge, sạc ngược 7,5W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "MagicOS 9.0 (Android 15)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP65 & Chống rơi vỡ SGS 5 sao"
+    }
+  ],
+  "verbatimDescription": [
+    "HONOR X7d 5G được công bố vào ngày 24/09/2025 và chính thức lên kệ tại Việt Nam vào tháng 10/2025. Đây là phiên bản nâng cấp chiến lược của dòng X7d, mang kết nối mạng di động 5G thế hệ mới và vi xử lý Snapdragon 6s Gen 3 mạnh mẽ đến với người dùng phân khúc tầm trung giá rẻ. Tại thị trường Việt Nam, HONOR X7d 5G là lựa chọn lý tưởng cho thế hệ người dùng trẻ, các tài xế công nghệ và người làm việc trực tuyến cần tốc độ mạng di động 5G siêu nhanh, viên pin lớn 6500 mAh bền bỉ cả ngày dài và nút AI vật lý thông minh độc đáo.",
+    "Trái tim của HONOR X7d 5G là con chip Qualcomm Snapdragon 6s Gen 3 sản xuất trên tiến trình 6nm hiện đại. Với 2 nhân Cortex-A78 xung nhịp 2.3 GHz và GPU Adreno 619, máy đem lại tốc độ phản hồi nhanh nhạy, hỗ trợ mạng 5G kép ổn định trên cả hai SIM với tốc độ tải xuống gấp hàng chục lần so với 4G truyền thống. Máy sở hữu bộ nhớ RAM 8GB LPDDR4X tích hợp công nghệ HONOR RAM Turbo mở rộng thêm 8GB ảo thành 16GB đa nhiệm, cùng dung lượng bộ nhớ trong tiêu chuẩn lên tới 256GB tha hồ lưu trữ dữ liệu cá nhân.",
+    "HONOR X7d 5G sở hữu viên pin dung lượng lớn 6500 mAh. Nhờ tiến trình 6nm tiết kiệm điện của Snapdragon 6s Gen 3, máy cho thời lượng sử dụng bền bỉ từ 2.5 đến 3 ngày sau một lần sạc đầy. Máy hỗ trợ sạc nhanh có dây HONOR SuperCharge 35W (đi kèm sẵn củ sạc trong hộp) và tính năng sạc ngược có dây OTG công suất 7.5W tiện lợi, biến chiếc điện thoại thành nguồn pin sạc dự phòng cứu cánh cho bạn bè khi cần.",
+    "Mặt trước là màn hình kích thước lớn 6.77 inch với tần số quét 120Hz mượt mà, độ sáng ngoài trời đạt 850 nits hiển thị rõ ràng dưới ánh nắng. Các công nghệ bảo vệ mắt Dynamic Dimming và giảm ánh sáng xanh giúp bảo vệ thị lực tối đa. Trải nghiệm âm thanh được nâng cấp mạnh mẽ với hệ thống loa kép Stereo đối xứng kết hợp hiệu ứng âm thanh HONOR Sound 7.3, cho âm lượng to rõ và hiệu ứng âm thanh vòm sống động khi xem phim, chơi game hay nghe gọi giữa phố thị ồn ào.",
+    "Máy trang bị camera chính 50MP khẩu độ lớn f/1.8 hỗ trợ lấy nét theo pha PDAF và camera phụ 2MP đo chiều sâu. Thuật toán chụp đêm AI Ultra-Night giúp các bức ảnh đêm luôn giữ được độ sáng rõ ràng và màu sắc tự nhiên. Điểm độc đáo ở cạnh máy là phím vật lý Instant AI Button chuyên dụng. Người dùng có thể nhấn phím để mở nhanh tính năng tìm kiếm Circle to Search, mở đèn pin hoặc kích hoạt ứng dụng làm việc tức thì mà không cần mở khóa màn hình.",
+    "HONOR X7d 5G đạt chuẩn kháng bụi và nước IP65 chính thức, cho phép chịu được mưa rào và bụi bẩn môi trường. Thân máy có trọng lượng 206 gram đầm chắc với ba màu sắc trang nhã gồm Vàng Sa Mạc, Bạc Thiên Thạch và Đen Huyền Bí. Máy cài sẵn MagicOS 9.0 phát triển trên nền Android 15 (đã có bản cập nhật lên MagicOS 10 / Android 16), tích hợp đầy đủ kết nối NFC thanh toán một chạm, cảm biến vân tay cạnh viền mở khóa siêu nhạy."
+  ],
+  "priceSegment": "midrange"
+}

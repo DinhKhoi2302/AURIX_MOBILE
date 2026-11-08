@@ -1,0 +1,127 @@
+{
+  "id": "baseus-qpow-3-ultra-20000mah-45w-ppfls-2045",
+  "docCode": "PK-PB006-PPFLS2045",
+  "model": "Pin Sạc Dự Phòng Baseus Qpow 3 Ultra 20.000mAh 45W PPFLS-2045",
+  "brand": "Baseus",
+  "brandId": "baseus",
+  "parentGroupId": "baseus",
+  "series": "Pin sạc dự phòng",
+  "subCategory": "pin-sac-du-phong",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "pin-sac-du-phong"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Pin sạc dự phòng",
+    "highlights": [
+      "45W",
+      "20.000 mAh"
+    ],
+    "description": "Bản nâng cấp mạnh mẽ thế hệ thứ 3 của dòng Qpow nổi tiếng với công suất nâng lên 45W. Cáp sạc dẹt linh hoạt tích hợp vừa sạc vừa dùng làm quai xách tiện dụng, cung cấp nguồn năng lượng dồi dào cho các chuyến công tác xa và du lịch dài ngày."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 720000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/pin-sac-du-phong/baseus-qpow-3-ultra-20000mah-45w-ppfls-2045/anh-dai-dien-baseus-qpow-3-ultra-20000mah-45w-ppfls-2045-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/pin-sac-du-phong/baseus-qpow-3-ultra-20000mah-45w-ppfls-2045/anh-dai-dien-baseus-qpow-3-ultra-20000mah-45w-ppfls-2045-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/baseus-qpow-3-ultra-20000mah-45w-ppfls-2045/goc-nghieng-phai-man-hinh-led-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/baseus-qpow-3-ultra-20000mah-45w-ppfls-2045/goc-nghieng-trai-kem-cap-tich-hop-den.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/accessory/pin-sac-du-phong/baseus-qpow-3-ultra-20000mah-45w-ppfls-2045/anh-dai-dien-baseus-qpow-3-ultra-20000mah-45w-ppfls-2045-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/baseus-qpow-3-ultra-20000mah-45w-ppfls-2045/goc-nghieng-phai-man-hinh-led-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/baseus-qpow-3-ultra-20000mah-45w-ppfls-2045/goc-nghieng-trai-kem-cap-tich-hop-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/pin-sac-du-phong/baseus-qpow-3-ultra-20000mah-45w-ppfls-2045/goc-nghieng-phai-man-hinh-led-den.webp",
+      "screen": "assets/images/products/accessory/pin-sac-du-phong/baseus-qpow-3-ultra-20000mah-45w-ppfls-2045/goc-nghieng-trai-kem-cap-tich-hop-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/pin-sac-du-phong/baseus-qpow-3-ultra-20000mah-45w-ppfls-2045/goc-nghieng-phai-man-hinh-led-den.webp",
+      "assets/images/products/accessory/pin-sac-du-phong/baseus-qpow-3-ultra-20000mah-45w-ppfls-2045/goc-nghieng-trai-kem-cap-tich-hop-den.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Baseus",
+      "Dung lượng pin": "20.000 mAh",
+      "Công suất đầu ra tối đa": "45W",
+      "Công suất đầu vào": "30W",
+      "Số lượng cổng kết nối": "3 kết nối (1 cổng Type-C, 1 cổng USB-A, 1 cáp Type-C liền dẻo)",
+      "Loại cổng kết nối": "USB-C, USB-A, Dây cáp Type-C tích hợp",
+      "Sạc không dây": "Không",
+      "Công nghệ sạc": "PD 45W, QC 4+, AFC, PPS",
+      "Màu sắc": "Đen"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Baseus"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "20.000 mAh"
+    },
+    {
+      "label": "Công suất đầu ra tối đa",
+      "value": "45W"
+    },
+    {
+      "label": "Công suất đầu vào",
+      "value": "30W"
+    },
+    {
+      "label": "Số lượng cổng kết nối",
+      "value": "3 kết nối (1 cổng Type-C, 1 cổng USB-A, 1 cáp Type-C liền dẻo)"
+    },
+    {
+      "label": "Loại cổng kết nối",
+      "value": "USB-C, USB-A, Dây cáp Type-C tích hợp"
+    },
+    {
+      "label": "Sạc không dây",
+      "value": "Không"
+    },
+    {
+      "label": "Công nghệ sạc",
+      "value": "PD 45W, QC 4+, AFC, PPS"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Đen"
+    }
+  ],
+  "verbatimDescription": [
+    "Bản nâng cấp mạnh mẽ thế hệ thứ 3 của dòng Qpow nổi tiếng với công suất nâng lên 45W. Cáp sạc dẹt linh hoạt tích hợp vừa sạc vừa dùng làm quai xách tiện dụng, cung cấp nguồn năng lượng dồi dào cho các chuyến công tác xa và du lịch dài ngày."
+  ],
+  "variants": [
+    {
+      "sku": "PK-PB006-PPFLS2045-DEN-TIEU-CHUAN",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 720000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/pin-sac-du-phong/baseus-qpow-3-ultra-20000mah-45w-ppfls-2045/anh-dai-dien-baseus-qpow-3-ultra-20000mah-45w-ppfls-2045-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/baseus-qpow-3-ultra-20000mah-45w-ppfls-2045/goc-nghieng-phai-man-hinh-led-den.webp",
+        "assets/images/products/accessory/pin-sac-du-phong/baseus-qpow-3-ultra-20000mah-45w-ppfls-2045/goc-nghieng-trai-kem-cap-tich-hop-den.webp"
+      ]
+    }
+  ]
+}

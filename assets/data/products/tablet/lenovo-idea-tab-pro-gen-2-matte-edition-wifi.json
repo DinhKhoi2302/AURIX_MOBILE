@@ -1,0 +1,264 @@
+{
+  "id": "lenovo-idea-tab-pro-gen-2-matte-edition-wifi",
+  "docCode": "TB-LN002-IDPROG2",
+  "model": "Lenovo Idea Tab Pro Gen 2 Matte Edition Wi-Fi",
+  "brand": "Lenovo",
+  "brandId": "lenovo",
+  "parentGroupId": "lenovo",
+  "series": "Lenovo Idea Tab & Tab Series",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "13.0 inch",
+      "Pin 11.500 mAh"
+    ],
+    "description": "Lenovo Idea Tab Pro Gen 2 Matte Edition là cỗ máy tính bảng làm việc và sáng tạo đỉnh cao nhất của Lenovo. Sở hữu màn hình ngoại cỡ 13 inch với độ phân giải siêu nét 3.5K (3200 x 2000 pixels) cùng tần số quét 144Hz dẫn đầu ngành, sản phẩm mang lại không gian hiển thị rộng mở và độ sắc nét đến từng chi tiết vi mô cho các nhà thiết kế đồ họa, kiến trúc sư và chuyên gia công nghệ.",
+    "releaseDate": "2024 / 2025"
+  },
+  "performance": {
+    "chipset": "Qualcomm Snapdragon 8s Gen 3 / 8s Gen 4 (tiến trình 4nm đẳng cấp flagship)",
+    "ram": [
+      "12GB",
+      "16GB"
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ],
+    "operatingSystem": "Android 14 (ZUI 16 chuyên sâu)"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 12990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/anh-dai-dien-lenovo-idea-tab-pro-gen-2-matte-edition-wifi-xam.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/anh-dai-dien-lenovo-idea-tab-pro-gen-2-matte-edition-wifi-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/mat-truoc-sau-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/mat-truoc-dat-tren-ban-kem-but-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/mat-sau-dat-tren-ban-kem-but-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-camera-va-canh-ben-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-nut-am-luong-canh-tren-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/canh-ben-trai-phai-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/canh-tren-duoi-loa-cong-sac-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-cum-camera-sau-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/cam-hai-tay-chup-anh-camera-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-but-cam-ung-va-chan-ket-noi-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-cong-sac-type-c-va-loa-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-khay-the-nho-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-nut-nguon-va-loa-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/hop-va-bo-phu-kien-but-sac-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/tong-quan-tinh-nang-man-hinh-13-inch-3-5k-matte-snapdragon-8s-gen-4-xam-tim.webp"
+    ],
+    "byColor": {
+      "Xám": [
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/anh-dai-dien-lenovo-idea-tab-pro-gen-2-matte-edition-wifi-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/mat-truoc-sau-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/mat-truoc-dat-tren-ban-kem-but-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/mat-sau-dat-tren-ban-kem-but-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-camera-va-canh-ben-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-nut-am-luong-canh-tren-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-cum-camera-sau-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/cam-hai-tay-chup-anh-camera-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-but-cam-ung-va-chan-ket-noi-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-cong-sac-type-c-va-loa-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-khay-the-nho-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-nut-nguon-va-loa-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/hop-va-bo-phu-kien-but-sac-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/tong-quan-tinh-nang-man-hinh-13-inch-3-5k-matte-snapdragon-8s-gen-4-xam-tim.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/mat-truoc-sau-xam.webp",
+      "screen": "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/mat-truoc-dat-tren-ban-kem-but-xam.webp",
+      "performance": "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/tong-quan-tinh-nang-man-hinh-13-inch-3-5k-matte-snapdragon-8s-gen-4-xam-tim.webp",
+      "camera": "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-camera-va-canh-ben-xam.webp",
+      "battery": "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/canh-tren-duoi-loa-cong-sac-xam.webp",
+      "feature": "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/mat-sau-dat-tren-ban-kem-but-xam.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/mat-truoc-sau-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/mat-truoc-dat-tren-ban-kem-but-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/mat-sau-dat-tren-ban-kem-but-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-camera-va-canh-ben-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-nut-am-luong-canh-tren-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/canh-ben-trai-phai-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/canh-tren-duoi-loa-cong-sac-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-cum-camera-sau-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/cam-hai-tay-chup-anh-camera-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-but-cam-ung-va-chan-ket-noi-xam.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "13,0 inch LTPS LCD 3.5K (3200 x 2000 pixel), tỷ lệ 16:10, bề mặt khắc nano AG Matte Paper-like chống phản chiếu, tần số quét 144Hz thích ứng, độ sáng 650 nit, hỗ trợ Dolby Vision & HDR10+",
+      "Tính năng màn hình": "Công nghệ khắc nano Matte chống lóa giữ trọn độ sắc nét 3.5K, tần số quét 144Hz siêu mượt, dải màu 100% DCI-P3, chứng nhận bảo vệ mắt TÜV Rheinland Flicker Free & Low Blue Light"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "Qualcomm Snapdragon 8s hàng đầu với NPU AI xử lý tác vụ trí tuệ nhân tạo chuyên sâu",
+      "CPU & Đồ họa": "Octa-core xung nhịp tối đa 3.0 GHz, GPU Adreno 735 hỗ trợ công nghệ đồ họa Ray Tracing",
+      "Hệ điều hành khi ra mắt": "Android 14 giao diện ZUI 16 hỗ trợ tính năng liên kết đa thiết bị Lenovo Freestyle"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "12GB / 16GB RAM LPDDR5X băng thông cực rộng",
+      "Bộ nhớ trong": "256GB / 512GB chuẩn UFS 4.0 nhanh gấp đôi thế hệ trước"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "Cụm camera kép 13MP (chính) + 5MP (góc siêu rộng), quay video 4K 60fps",
+      "Camera trước": "8MP góc rộng tối ưu hóa khử ồn hội nghị truyền hình",
+      "Chi tiết hệ thống Camera": "Camera sau kép 13MP f/2.2 + 5MP siêu rộng quay 4K; Camera trước 8MP tích hợp AI làm đẹp và xóa phông"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "11.500 mAh dung lượng cực khủng, sạc siêu nhanh 68W qua USB-C",
+      "Pin và công nghệ sạc": "Pin Lithium Polymer 11.500 mAh, công nghệ sạc siêu nhanh 68W nạp 80% pin trong 45 phút"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Tương thích bút cảm ứng Lenovo Precision Pen 3 / Tab Pen Plus (4.096 mức lực nhấn, nhận diện góc nghiêng, phản hồi xúc giác mô phỏng tiếng sột soạt của ngòi bút trên giấy và sạc không dây từ tính sau lưng máy)",
+      "Hỗ trợ bàn phím rời": "Hỗ trợ bàn phím 2 mảnh tháo rời Lenovo Keyboard Pack qua chân Pogo Pin",
+      "Công nghệ âm thanh": "Hệ thống 8 loa JBL (4 loa trầm woofer + 4 loa bổng tweeter) phân bổ đối xứng hai cạnh bên, tinh chỉnh bởi Dolby Atmos và chứng nhận Hi-Res Audio",
+      "Thuộc tính đặc biệt": "Màn hình 3.5K 144Hz nhám nano, chip Snapdragon 8s, 8 loa JBL, sạc 68W"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Wi-Fi 7 / Wi-Fi 6E (802.11be/ax) đa băng tần",
+      "Thẻ SIM": "Không hỗ trợ (Bản Wi-Fi)",
+      "Kết nối không dây & Cổng giao tiếp": "Wi-Fi 7, Bluetooth 5.4, cổng Type-C USB 3.2 Gen 1 (5Gbps) hỗ trợ xuất màn hình ngoài DisplayPort, Pogo Pin",
+      "Công nghệ - Tiện ích": "Lenovo Freestyle làm màn hình phụ không dây cho laptop Windows, chạy song song ứng dụng PC"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Độ mỏng ấn tượng 6.5 mm, kích thước 291.5 x 191.2 x 6.5 mm, trọng lượng 650 g",
+      "Bảo mật và độ bền": "Cảm biến vân tay tích hợp nút nguồn và mở khóa khuôn mặt 2D, thân kim loại nhôm nguyên khối",
+      "Thời điểm ra mắt": "Năm 2024 / 2025"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "13.0 inch IPS LCD 3.5K Matte Edition, độ phân giải siêu nét 3200 x 2000 pixels"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Lớp phủ nhám Paper-like nano chống chói, tần số quét đỉnh cao 144Hz, HDR10+, Dolby Vision, 650 nits"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Qualcomm Snapdragon 8s Gen 3 / 8s Gen 4 (tiến trình 4nm đẳng cấp flagship)"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB / 16GB LPDDR5X tốc độ 8533 Mbps"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB / 512GB UFS 4.0 siêu tốc độ"
+    },
+    {
+      "label": "Camera sau",
+      "value": "Cụm camera kép 13MP (chính) + 5MP (góc siêu rộng), quay video 4K 60fps"
+    },
+    {
+      "label": "Camera trước",
+      "value": "8MP góc rộng tối ưu hóa khử ồn hội nghị truyền hình"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Pin Lithium Polymer 11.500 mAh, công nghệ sạc siêu nhanh 68W nạp 80% pin trong 45 phút"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Wi-Fi 7 / Wi-Fi 6E (802.11be/ax) đa băng tần"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Tương thích bút cảm ứng cao cấp Lenovo Precision Pen 3 đính hút sạc không dây ở mặt lưng"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Hỗ trợ bàn phím 2 mảnh tháo rời Lenovo Keyboard Pack qua chân Pogo Pin"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 14 (ZUI 16 chuyên sâu)"
+    }
+  ],
+  "verbatimDescription": [
+    "Lenovo Idea Tab Pro Gen 2 Matte Edition là cỗ máy tính bảng làm việc và sáng tạo đỉnh cao nhất của Lenovo. Sở hữu màn hình ngoại cỡ 13 inch với độ phân giải siêu nét 3.5K (3200 x 2000 pixels) cùng tần số quét 144Hz dẫn đầu ngành, sản phẩm mang lại không gian hiển thị rộng mở và độ sắc nét đến từng chi tiết vi mô cho các nhà thiết kế đồ họa, kiến trúc sư và chuyên gia công nghệ.",
+    "Bề mặt màn hình được chế tác với công nghệ khắc nano Matte Edition độc quyền, tái tạo cảm giác lướt chạm mịn màng, loại bỏ hoàn toàn hiện tượng lóa bóng gương của màn hình thông thường mà vẫn giữ trọn độ chuẩn xác của màu sắc và độ tương phản cao với chuẩn Dolby Vision và HDR10+.",
+    "Ẩn chứa sức mạnh vượt bậc là con chip flagship Qualcomm Snapdragon 8s đi kèm bộ nhớ RAM khủng lên đến 16GB LPDDR5X và bộ nhớ UFS 4.0 siêu tốc. Cấu hình này đáp ứng hoàn hảo mọi nhu cầu nặng nề nhất như dựng video 4K nhiều lớp, mô phỏng 3D phức tạp hay chơi mượt mà mọi tựa game nặng ở mức thiết lập đồ họa cao nhất.",
+    "Điểm nhấn âm thanh vô tiền khoáng hậu với dàn 8 loa ngoài JBL phân bổ đối xứng hai bên thân máy tạo nên âm trường rộng mở, tiếng bass sâu lắng đầy uy lực. Kết hợp cùng viên pin khổng lồ 11.500 mAh và sạc siêu tốc 68W, Idea Tab Pro Gen 2 chính là lựa chọn thay thế máy tính xách tay toàn diện cho công việc di động hiện đại.",
+    "Hệ sinh thái làm việc trên Lenovo Idea Tab Pro Gen 2 Matte Edition đạt đẳng cấp máy trạm di động nhờ cổng USB-C 3.2 Gen 1 hỗ trợ xuất hình ảnh DisplayPort ra màn hình rời 4K, kết hợp cùng bàn phím 2 mảnh Lenovo Keyboard Pack tích hợp bàn di chuột đa điểm và chân đế mở rộng góc nghiêng linh hoạt.",
+    "Nhờ giải pháp liên kết đa thiết bị Lenovo Freestyle và Smart Connect, các nhà thiết kế và kỹ sư có thể sử dụng trực tiếp màn hình nhám 13 inch 3.5K làm bảng vẽ đồ họa cảm ứng lực cho máy tính Windows, vừa phác thảo bằng bút Lenovo Precision Pen 3 vừa quan sát kết quả thời gian thực trên PC.",
+    "Viên pin khổng lồ 11.500 mAh đi kèm công nghệ sạc siêu nhanh 68W giúp nạp lại 80% năng lượng chỉ trong khoảng 45 phút. Với thân máy kim loại nguyên khối mỏng chỉ 6,5mm và cảm biến vân tay tích hợp trên nút nguồn, thiết bị hội tụ đầy đủ yếu tố của một chiếc tablet flagship thay thế laptop."
+  ],
+  "variants": [
+    {
+      "sku": "TB-LN002-IDPROG2-XAM-12GB-256GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 12990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/anh-dai-dien-lenovo-idea-tab-pro-gen-2-matte-edition-wifi-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/mat-truoc-sau-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/mat-truoc-dat-tren-ban-kem-but-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/mat-sau-dat-tren-ban-kem-but-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-camera-va-canh-ben-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-nut-am-luong-canh-tren-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-cum-camera-sau-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/cam-hai-tay-chup-anh-camera-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-but-cam-ung-va-chan-ket-noi-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-cong-sac-type-c-va-loa-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-khay-the-nho-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-nut-nguon-va-loa-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/hop-va-bo-phu-kien-but-sac-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/tong-quan-tinh-nang-man-hinh-13-inch-3-5k-matte-snapdragon-8s-gen-4-xam-tim.webp"
+      ]
+    },
+    {
+      "sku": "TB-LN002-IDPROG2-XAM-16GB-512GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 15490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/anh-dai-dien-lenovo-idea-tab-pro-gen-2-matte-edition-wifi-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/mat-truoc-sau-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/mat-truoc-dat-tren-ban-kem-but-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/mat-sau-dat-tren-ban-kem-but-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-camera-va-canh-ben-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-nut-am-luong-canh-tren-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-cum-camera-sau-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/cam-hai-tay-chup-anh-camera-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-but-cam-ung-va-chan-ket-noi-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-cong-sac-type-c-va-loa-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-khay-the-nho-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/can-canh-nut-nguon-va-loa-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/hop-va-bo-phu-kien-but-sac-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-idea-tab-pro-gen-2-matte-edition-wifi/tong-quan-tinh-nang-man-hinh-13-inch-3-5k-matte-snapdragon-8s-gen-4-xam-tim.webp"
+      ]
+    }
+  ]
+}

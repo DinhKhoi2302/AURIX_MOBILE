@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 200" width="480" height="200" fill="none">
+  <defs>
+    <linearGradient id="g_promo-s24-series.svg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E9D7FF"/>
+      <stop offset="100%" stop-color="#C4B5FD"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="200" rx="20" fill="url(#g_promo-s24-series.svg)"/>
+  <circle cx="400" cy="100" r="90" fill="#FFFFFF" fill-opacity="0.35"/>
+  <rect x="330" y="28" width="70" height="144" rx="14" transform="rotate(-8 365 100)" fill="#102347" stroke="#FFFFFF" stroke-width="2"/>
+  <rect x="380" y="34" width="70" height="144" rx="14" transform="rotate(6 415 106)" fill="#6D28D9" stroke="#FFFFFF" stroke-width="2"/>
+  <text x="28" y="48" font-family="'Be Vietnam Pro', 'Inter', sans-serif" font-size="13" font-weight="800" fill="#6D28D9">SAMSUNG</text>
+  <text x="28" y="84" font-family="'Be Vietnam Pro', 'Inter', sans-serif" font-size="26" font-weight="800" fill="#102347">Galaxy S24 Series</text>
+  <text x="28" y="114" font-family="'Be Vietnam Pro', 'Inter', sans-serif" font-size="14" font-weight="500" fill="#172033">AI - Mở ra kỷ nguyên mới</text>
+</svg>

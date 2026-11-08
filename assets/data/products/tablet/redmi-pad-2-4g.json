@@ -1,0 +1,360 @@
+{
+  "id": "redmi-pad-2-4g",
+  "docCode": "TB-MI001-RP2-4G",
+  "model": "Xiaomi Redmi Pad 2 4G",
+  "brand": "Redmi",
+  "brandId": "redmi",
+  "parentGroupId": "xiaomi",
+  "series": "Redmi Pad 2 Series",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "10.61 inch",
+      "Helio G99",
+      "Pin 8.000 mAh"
+    ],
+    "description": "Xiaomi Redmi Pad 2 4G là mẫu máy tính bảng quốc dân thế hệ mới mang lại sự kết hợp hoàn hảo giữa thiết kế kim loại unibody cao cấp và tính tiện dụng của khay Nano-SIM 4G LTE. Thiết bị giúp bạn duy trì kết nối mạng tốc độ cao liên tục ở bất cứ đâu mà không cần phụ thuộc vào mạng Wi-Fi.",
+    "releaseDate": "2024 / 2025"
+  },
+  "performance": {
+    "chipset": "MediaTek Helio G99 (tiến trình 6nm ổn định)",
+    "ram": [
+      "4GB",
+      "6GB",
+      "8GB"
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "operatingSystem": "Xiaomi HyperOS (Android 14)"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 4690000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/anh-dai-dien-redmi-pad-2-4g-xanh-la.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/anh-dai-dien-redmi-pad-2-4g-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/anh-dai-dien-redmi-pad-2-4g-xam.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/mat-truoc-sau-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/canh-ben-trai-phai-xam.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/canh-ben-trai-phai-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/canh-tren-duoi-loa-cong-sac-xam.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/canh-tren-duoi-loa-cong-sac-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-cum-camera-sau-xam.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-cum-camera-sau-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/cam-tren-tay-man-hinh-xam.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/cam-tren-tay-man-hinh-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-cong-sac-type-c-va-jack-tai-nghe-xam.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-cong-sac-type-c-va-jack-tai-nghe-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-nut-am-luong-va-khay-sim-xam.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-nut-am-luong-va-khay-sim-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-nut-nguon-va-loa-xam.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-nut-nguon-va-loa-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/mat-sau-dat-canh-hop-xam.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/mat-sau-dat-canh-hop-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/mat-truoc-dat-canh-hop-xam.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/mat-truoc-dat-canh-hop-xanh-la.webp"
+    ],
+    "byColor": {
+      "Xám": [
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/anh-dai-dien-redmi-pad-2-4g-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-cum-camera-sau-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/cam-tren-tay-man-hinh-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-cong-sac-type-c-va-jack-tai-nghe-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-nut-am-luong-va-khay-sim-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-nut-nguon-va-loa-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/mat-sau-dat-canh-hop-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/mat-truoc-dat-canh-hop-xam.webp"
+      ],
+      "Xanh Lá": [
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/anh-dai-dien-redmi-pad-2-4g-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/mat-truoc-sau-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/canh-ben-trai-phai-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/canh-tren-duoi-loa-cong-sac-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-cum-camera-sau-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/cam-tren-tay-man-hinh-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-cong-sac-type-c-va-jack-tai-nghe-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-nut-am-luong-va-khay-sim-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-nut-nguon-va-loa-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/mat-sau-dat-canh-hop-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/mat-truoc-dat-canh-hop-xanh-la.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/mat-truoc-sau-xanh-la.webp",
+      "screen": "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/cam-tren-tay-man-hinh-xam.webp",
+      "performance": "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/cam-tren-tay-man-hinh-xanh-la.webp",
+      "camera": "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-cum-camera-sau-xam.webp",
+      "battery": "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/canh-tren-duoi-loa-cong-sac-xam.webp",
+      "feature": "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/anh-dai-dien-redmi-pad-2-4g-xam.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/anh-dai-dien-redmi-pad-2-4g-xam.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/mat-truoc-sau-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/canh-ben-trai-phai-xam.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/canh-ben-trai-phai-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/canh-tren-duoi-loa-cong-sac-xam.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/canh-tren-duoi-loa-cong-sac-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-cum-camera-sau-xam.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-cum-camera-sau-xanh-la.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/cam-tren-tay-man-hinh-xam.webp",
+      "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/cam-tren-tay-man-hinh-xanh-la.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "10,61 inch IPS LCD 2K (2000 x 1200 pixel), tần số quét 90Hz, hiển thị hơn 1 tỷ màu (10-bit), độ sáng 400 nit, độ tương phản 1500:1",
+      "Tính năng màn hình": "Đạt chứng nhận kép bảo vệ mắt từ TÜV Rheinland (Low Blue Light phần cứng) và SGS (Low Visual Fatigue), giúp đọc sách và học tập nhiều giờ không mỏi mắt"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "MediaTek Helio G99 6nm tiết kiệm pin tối ưu và vận hành mát mẻ",
+      "CPU & Đồ họa": "Octa-core 2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55, GPU Mali-G57 MC2",
+      "Hệ điều hành khi ra mắt": "Xiaomi HyperOS phát triển trên Android 14 với khả năng kết nối liên thiết bị"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "4GB / 6GB / 8GB RAM LPDDR4X kết hợp công nghệ mở rộng bộ nhớ",
+      "Bộ nhớ trong": "128GB / 256GB chuẩn UFS 2.2, hỗ trợ khe thẻ nhớ ngoài MicroSD lên đến 1TB"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "8MP tự động lấy nét, khẩu độ f/2.0, quay video 1080p 30fps",
+      "Camera trước": "8MP góc rộng 105 độ với tính năng FocusFrame tự động căn giữa",
+      "Chi tiết hệ thống Camera": "Camera chính sau 8MP f/2.0 AF; Camera trước 8MP góc rộng 105 độ hỗ trợ FocusFrame"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "8.000 mAh dung lượng lớn, sạc nhanh công suất 18W / 22.5W qua USB-C",
+      "Pin và công nghệ sạc": "Pin Lithium Polymer 8.000 mAh, sạc nhanh có dây 18W (củ sạc đi kèm 22.5W)"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Tương thích các dòng bút cảm ứng stylus điện dung",
+      "Hỗ trợ bàn phím rời": "Kết nối dễ dàng với bàn phím và chuột không dây Bluetooth",
+      "Công nghệ âm thanh": "Dàn 4 loa ngoài Quad Speakers tích hợp công nghệ âm thanh vòm Dolby Atmos và Hi-Res",
+      "Thuộc tính đặc biệt": "Kết nối SIM 4G tiện lợi, màn hình 90Hz 1 tỷ màu, 4 loa Dolby Atmos"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Mạng di động 4G LTE đa băng tần, Wi-Fi 5 băng tần kép",
+      "Thẻ SIM": "1 Nano-SIM (Hỗ trợ data di động 4G và đàm thoại)",
+      "Kết nối không dây & Cổng giao tiếp": "4G LTE di động, 1 Nano-SIM, Wi-Fi 802.11 a/b/g/n/ac băng tần kép, Bluetooth 5.3, USB-C 2.0",
+      "Công nghệ - Tiện ích": "Xiaomi Interconnectivity chia sẻ màn hình điện thoại, đa nhiệm chia đôi và cửa sổ nổi"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Độ mỏng ấn tượng 7.05 mm, kích thước 250.4 x 158.0 x 7.05 mm, trọng lượng khoảng 465 g",
+      "Bảo mật và độ bền": "Mở khóa khuôn mặt AI Face Unlock, thân kim loại unibody sang trọng",
+      "Thời điểm ra mắt": "Năm 2024 / 2025"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "10.61 inch IPS LCD 2K sắc nét, độ phân giải 2000 x 1200 pixels"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Tần số quét 90Hz mượt mà, hiển thị 1 tỷ màu, chứng nhận bảo vệ mắt TÜV Rheinland, độ sáng 400 nits"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Helio G99 (tiến trình 6nm ổn định)"
+    },
+    {
+      "label": "RAM",
+      "value": "4GB / 6GB / 8GB LPDDR4X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB (Hỗ trợ thẻ nhớ MicroSD tối đa 1TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "8MP tự động lấy nét, khẩu độ f/2.0, quay video 1080p 30fps"
+    },
+    {
+      "label": "Camera trước",
+      "value": "8MP góc rộng 105 độ với tính năng FocusFrame tự động căn giữa"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Pin Lithium Polymer 8.000 mAh, sạc nhanh có dây 18W (củ sạc đi kèm 22.5W)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Mạng di động 4G LTE đa băng tần, Wi-Fi 5 băng tần kép"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Tương thích các dòng bút cảm ứng stylus điện dung"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Kết nối dễ dàng với bàn phím và chuột không dây Bluetooth"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Xiaomi HyperOS (Android 14)"
+    }
+  ],
+  "verbatimDescription": [
+    "Xiaomi Redmi Pad 2 4G là mẫu máy tính bảng quốc dân thế hệ mới mang lại sự kết hợp hoàn hảo giữa thiết kế kim loại unibody cao cấp và tính tiện dụng của khay Nano-SIM 4G LTE. Thiết bị giúp bạn duy trì kết nối mạng tốc độ cao liên tục ở bất cứ đâu mà không cần phụ thuộc vào mạng Wi-Fi.",
+    "Màn hình 10.61 inch độ phân giải 2K sắc nét hiển thị 1 tỷ màu rực rỡ cùng tần số quét 90Hz mượt mà mang lại trải nghiệm thị giác vượt trội trong tầm giá. Chứng nhận bảo vệ mắt từ TÜV Rheinland giúp hạn chế tối đa cảm giác mỏi mắt khi học tập và làm việc kéo dài.",
+    "Cung cấp sức mạnh cho máy là vi xử lý Helio G99 tiến trình 6nm kết hợp cùng hệ điều hành Xiaomi HyperOS tối ưu hóa tài nguyên phần cứng. Dàn 4 loa ngoài hỗ trợ Dolby Atmos cùng viên pin lớn 8.000 mAh mang lại thời lượng xem phim bền bỉ suốt cả ngày dài.",
+    "Khả năng kết nối 4G LTE qua khe cắm Nano-SIM giúp Xiaomi Redmi Pad 2 4G luôn trực tuyến trên mọi cung đường di chuyển, phục vụ đắc lực cho công việc bán hàng, tra cứu bản đồ hoặc học tập từ xa.",
+    "Hệ thống âm thanh gồm 4 loa ngoài Quad Speakers hỗ trợ công nghệ Dolby Atmos và Hi-Res Audio kết hợp cùng camera trước 8MP góc siêu rộng 105° tích hợp tính năng FocusFrame tự động giữ người dùng ở chính giữa khung hình khi gọi video.",
+    "Viên pin 8.000 mAh bền bỉ trong thân máy kim loại nguyên khối mỏng chỉ 7,05mm và nhẹ 465g, đi kèm khả năng mở rộng thẻ nhớ microSD tới 1TB biến Redmi Pad 2 4G thành thiết bị di động toàn năng."
+  ],
+  "variants": [
+    {
+      "sku": "TB-MI001-RP2-4G-XANH-LA-4GB-128GB-4G",
+      "color": "Xanh Lá",
+      "colorHex": "#228B57",
+      "ram": "4GB",
+      "storage": "4GB/128GB (4G)",
+      "rom": "128GB",
+      "price": 4690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/anh-dai-dien-redmi-pad-2-4g-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/mat-truoc-sau-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/canh-ben-trai-phai-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/canh-tren-duoi-loa-cong-sac-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-cum-camera-sau-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/cam-tren-tay-man-hinh-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-cong-sac-type-c-va-jack-tai-nghe-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-nut-am-luong-va-khay-sim-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-nut-nguon-va-loa-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/mat-sau-dat-canh-hop-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/mat-truoc-dat-canh-hop-xanh-la.webp"
+      ]
+    },
+    {
+      "sku": "TB-MI001-RP2-4G-XANH-LA-6GB-128GB-4G",
+      "color": "Xanh Lá",
+      "colorHex": "#228B57",
+      "ram": "6GB",
+      "storage": "6GB/128GB (4G)",
+      "rom": "128GB",
+      "price": 5190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/anh-dai-dien-redmi-pad-2-4g-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/mat-truoc-sau-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/canh-ben-trai-phai-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/canh-tren-duoi-loa-cong-sac-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-cum-camera-sau-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/cam-tren-tay-man-hinh-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-cong-sac-type-c-va-jack-tai-nghe-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-nut-am-luong-va-khay-sim-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-nut-nguon-va-loa-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/mat-sau-dat-canh-hop-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/mat-truoc-dat-canh-hop-xanh-la.webp"
+      ]
+    },
+    {
+      "sku": "TB-MI001-RP2-4G-XANH-LA-8GB-256GB-4G",
+      "color": "Xanh Lá",
+      "colorHex": "#228B57",
+      "ram": "8GB",
+      "storage": "8GB/256GB (4G)",
+      "rom": "256GB",
+      "price": 5890000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/anh-dai-dien-redmi-pad-2-4g-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/mat-truoc-sau-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/canh-ben-trai-phai-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/canh-tren-duoi-loa-cong-sac-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-cum-camera-sau-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/cam-tren-tay-man-hinh-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-cong-sac-type-c-va-jack-tai-nghe-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-nut-am-luong-va-khay-sim-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-nut-nguon-va-loa-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/mat-sau-dat-canh-hop-xanh-la.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/mat-truoc-dat-canh-hop-xanh-la.webp"
+      ]
+    },
+    {
+      "sku": "TB-MI001-RP2-4G-XAM-4GB-128GB-4G",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "4GB",
+      "storage": "4GB/128GB (4G)",
+      "rom": "128GB",
+      "price": 4690000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/anh-dai-dien-redmi-pad-2-4g-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-cum-camera-sau-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/cam-tren-tay-man-hinh-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-cong-sac-type-c-va-jack-tai-nghe-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-nut-am-luong-va-khay-sim-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-nut-nguon-va-loa-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/mat-sau-dat-canh-hop-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/mat-truoc-dat-canh-hop-xam.webp"
+      ]
+    },
+    {
+      "sku": "TB-MI001-RP2-4G-XAM-6GB-128GB-4G",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "6GB",
+      "storage": "6GB/128GB (4G)",
+      "rom": "128GB",
+      "price": 5190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/anh-dai-dien-redmi-pad-2-4g-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-cum-camera-sau-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/cam-tren-tay-man-hinh-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-cong-sac-type-c-va-jack-tai-nghe-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-nut-am-luong-va-khay-sim-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-nut-nguon-va-loa-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/mat-sau-dat-canh-hop-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/mat-truoc-dat-canh-hop-xam.webp"
+      ]
+    },
+    {
+      "sku": "TB-MI001-RP2-4G-XAM-8GB-256GB-4G",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "8GB/256GB (4G)",
+      "rom": "256GB",
+      "price": 5890000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/anh-dai-dien-redmi-pad-2-4g-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-cum-camera-sau-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/cam-tren-tay-man-hinh-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-cong-sac-type-c-va-jack-tai-nghe-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-nut-am-luong-va-khay-sim-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/can-canh-nut-nguon-va-loa-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/mat-sau-dat-canh-hop-xam.webp",
+        "assets/images/products/tablet/xiaomi/redmi-pad-2-4g/mat-truoc-dat-canh-hop-xam.webp"
+      ]
+    }
+  ]
+}

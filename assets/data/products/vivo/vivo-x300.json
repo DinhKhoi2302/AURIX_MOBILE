@@ -1,0 +1,353 @@
+{
+  "id": "vivo-x300",
+  "brand": "vivo",
+  "brandId": "vivo",
+  "parentGroupId": "vivo",
+  "model": "vivo X300",
+  "series": "vivo X300 Series (ZEISS)",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "5g-ready",
+    "high-end"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 19,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "14/10/2025",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "vivo X300 là mẫu flagship nhỏ gọn (Compact Flagship) hiếm hoi trên thị trường kết hợp thành công màn hình phẳng 6,31 inch vừa vặn trong lòng bàn tay với ống kính Telephoto tiềm vọng 200MP ZEISS APO (cảm biến 1/1.4 inch), vi xử lý 3nm MediaTek Dimensity 9500 và viên pin BlueVolt 6.040 mAh. Tại AURIX MOBILE, vivo X300 được khách hàng yêu thích nhờ trọng lượng nhẹ chỉ 190 gram nhưng mang đầy đủ sức mạnh nhiếp ảnh và hiệu năng của một chiếc máy đầu bảng. (Nguồn tham chiếu: GSMArena - vivo X300 5G).",
+    "highlights": [
+      "6,31 inch 1.5K LTPO",
+      "Dimensity 9500",
+      "Tele ZEISS 200MP / Pin 6.040 mAh"
+    ],
+    "officialDistribution": "Model được bảo lưu từ danh sách trước nhưng chưa đủ bằng chứng đang mở bán chính thức trong lượt đối chiếu ngày 01/11/2026; giữ trạng thái needs_verification để không mất dấu dữ liệu."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 21990000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT001-VVX300-DEN-12GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 21990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/vivo/vivo-x300/anh-dai-dien-vivo-x300-den.webp",
+        "assets/images/products/vivo/vivo-x300/vivo-X300.jpg"
+      ]
+    },
+    {
+      "sku": "DT001-VVX300-DEN-16GB-512GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "16GB",
+      "storage": "16GB/512GB",
+      "rom": "512GB",
+      "price": 24490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/vivo/vivo-x300/anh-dai-dien-vivo-x300-den.webp",
+        "assets/images/products/vivo/vivo-x300/vivo-X300.jpg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "LTPO AMOLED 1,07 tỷ màu, 1–120Hz, 4.500 nit",
+    "size": "6,31 inch (Compact Flagship)",
+    "resolution": "2640 x 1216 pixel (1.5K, 460 ppi)",
+    "refreshRate": "1–120Hz LTPO thích ứng",
+    "brightness": "HDR10+, Dolby Vision; Độ sáng đỉnh ngoài trời 4.500 nit; Làm mờ PWM tần số cao 2160Hz bảo vệ mắt, chứng nhận TÜV Rheinland",
+    "hdr": "HDR10+ / HLG",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "MediaTek Dimensity 9500 (tiến trình 3nm TSMC)",
+    "cpu": "CPU 8 nhân kiến trúc All-Big-Core: 1 nhân Cortex-X925 (3,63 GHz) + 3 nhân Cortex-X4 (3,3 GHz) + 4 nhân Cortex-A720 (2,4 GHz)",
+    "gpu": "ARM Immortalis-G925 MC12 hỗ trợ dò tia phần cứng Ray Tracing",
+    "ram": [
+      "12GB",
+      "16GB"
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ],
+    "operatingSystem": "Android 16 với giao diện Funtouch OS 16 / OriginOS 6",
+    "uiVersion": "Funtouch OS / OriginOS",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Chính OIS + 200MP Tele tiềm vọng ZEISS APO 3.7x OIS + 50MP Góc siêu rộng AF",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "Quay video 4K ở 30/60/120fps, 1080p ở 30/60/120/240fps; Quay 4K Cinematic Portrait Video, 4K HDR10+ và 10-bit Log chuyên nghiệp"
+    ],
+    "aiFeatures": [
+      "Chân dung đa tiêu cự ZEISS (24mm, 35mm, 50mm, 85mm, 100mm) kèm hiệu ứng bokeh ZEISS Biotar, Sonnar, Planar, Distagon, Cine-flare; Lớp tráng phủ ZEISS T* giảm lóa; Chế độ chụp đường phố Street Photography, Super Night Mode, Astro Mode"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "50MP AF (ƒ/2.0, góc rộng 92°), quay 4K 60fps",
+    "features": [
+      "Camera Selfie 50MP (khẩu độ ƒ/2.0, tiêu cự 21mm góc rộng 92°, hỗ trợ lấy nét tự động AF); Quay video 4K ở 30/60fps và 1080p ở 30/60fps kèm chống rung EIS"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "6.040 mAh (Pin BlueVolt Silicon-Carbon)",
+    "wiredCharging": "Sạc nhanh có dây 90W FlashCharge, sạc không dây 40W",
+    "wirelessCharging": "Có hỗ trợ sạc không dây",
+    "reverseCharging": "Có hỗ trợ",
+    "chargingTechnology": "Sạc siêu nhanh có dây FlashCharge 90W | Sạc nhanh không dây 40W | Hỗ trợ sạc ngược không dây"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano-SIM vật lý hoặc kết hợp eSIM"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 7 (802.11be) ba băng tần, 2x2 MIMO",
+    "bluetooth": "Bluetooth 5.4 hỗ trợ aptX HD, LDAC, LHDC 5.0",
+    "gps": [
+      "Định vị vệ tinh tần số kép L1+L5: GPS, GLONASS, Galileo, BeiDou, QZSS"
+    ],
+    "usb": "USB Type-C hỗ trợ chuẩn truyền dữ liệu tốc độ cao và OTG",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "150,8 x 71,7 x 7,99 mm",
+    "weight": "190 gram",
+    "materials": [
+      "Khung viền hợp kim nhôm phẳng vát kim cương sang trọng",
+      "Mặt lưng kính cường lực nhám mờ AG chống bám vân tay"
+    ],
+    "waterResistance": "IP68 & IP69",
+    "availableColors": [
+      "Đen"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo đạt chuẩn Hi-Res Audio & Hi-Res Wireless",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "vivo X",
+    "vivo",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền vivo tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/vivo/vivo-x300/anh-dai-dien-vivo-x300-den.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/vivo/vivo-x300/anh-dai-dien-vivo-x300-den.webp",
+      "assets/images/products/vivo/vivo-x300/vivo-X300.jpg"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/vivo/vivo-x300/anh-dai-dien-vivo-x300-den.webp",
+        "assets/images/products/vivo/vivo-x300/vivo-X300.jpg"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/vivo/vivo-x300/vivo-X300.jpg"
+    },
+    "descriptionImages": [
+      "assets/images/products/vivo/vivo-x300/vivo-X300.jpg"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-vivo",
+      "https://www.vivo.com/vn/products"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "needs_verification",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Cần xác minh thêm",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT001-VVX300",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "LTPO AMOLED 8T hiển thị 1,07 tỷ màu (10-bit), độ phủ màu 100% DCI-P3, công nghệ ZEISS Natural Color",
+      "Kích thước màn hình": "6,31 inch theo đường chéo (kích thước nhỏ gọn chuẩn công thái học, viền mỏng đều 4 cạnh)",
+      "Độ phân giải màn hình": "2640 x 1216 pixel (chuẩn 1.5K sắc nét, tỷ lệ 19,5:9, mật độ điểm ảnh 460 ppi)",
+      "Tần số quét": "Công nghệ LTPO thích ứng thông minh từ 1Hz đến 120Hz",
+      "Kiểu màn hình": "Màn hình phẳng đục lỗ viền siêu mỏng, bảo vệ bởi kính cường lực Armor Glass",
+      "Tính năng màn hình": "HDR10+, Dolby Vision; Độ sáng đỉnh ngoài trời 4.500 nit; Làm mờ PWM tần số cao 2160Hz bảo vệ mắt, chứng nhận TÜV Rheinland"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống 3 camera ZEISS cao cấp trong thân máy nhỏ gọn: (1) Camera chính 50MP ZEISS True Color: cảm biến Sony LYT-818 / IMX921 kích thước 1/1.28–1/1.56 inch, khẩu độ lớn ƒ/1.57, tiêu cự 23mm, lấy nét PDAF, chống rung quang học OIS; (2) Camera Telephoto tiềm vọng 200MP ZEISS APO: cảm biến Samsung ISOCELL HPB kích thước lớn 1/1.4 inch, khẩu độ ƒ/2.67, tiêu cự 85mm (zoom quang 3.7x, zoom lossless 7.4x/10x, zoom số 100x), chống rung OIS và hỗ trợ chụp Telephoto Macro 15cm; (3) Camera Góc siêu rộng 50MP: cảm biến 1/2.76 inch, khẩu độ ƒ/2.0, tiêu cự 15mm (119°), có tự động lấy nét AF",
+      "Quay video": "Quay video 4K ở 30/60/120fps, 1080p ở 30/60/120/240fps; Quay 4K Cinematic Portrait Video, 4K HDR10+ và 10-bit Log chuyên nghiệp",
+      "Tính năng camera": "Chân dung đa tiêu cự ZEISS (24mm, 35mm, 50mm, 85mm, 100mm) kèm hiệu ứng bokeh ZEISS Biotar, Sonnar, Planar, Distagon, Cine-flare; Lớp tráng phủ ZEISS T* giảm lóa; Chế độ chụp đường phố Street Photography, Super Night Mode, Astro Mode"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera Selfie 50MP (khẩu độ ƒ/2.0, tiêu cự 21mm góc rộng 92°, hỗ trợ lấy nét tự động AF); Quay video 4K ở 30/60fps và 1080p ở 30/60fps kèm chống rung EIS"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Dimensity 9500 (tiến trình 3nm TSMC)",
+      "Loại CPU": "CPU 8 nhân kiến trúc All-Big-Core: 1 nhân Cortex-X925 (3,63 GHz) + 3 nhân Cortex-X4 (3,3 GHz) + 4 nhân Cortex-A720 (2,4 GHz)",
+      "GPU": "ARM Immortalis-G925 MC12 hỗ trợ dò tia phần cứng Ray Tracing"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "12GB hoặc 16GB LPDDR5X tốc độ cao (hỗ trợ mở rộng RAM ảo thêm 12GB/16GB)",
+      "Bộ nhớ trong": "2 phiên bản: 256GB và 512GB chuẩn UFS 4.1"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "6.040 mAh (Pin BlueVolt Silicon-Carbon mật độ cao trong thân máy nhỏ gọn 6,31 inch) – Đáp ứng 2 ngày sử dụng hỗn hợp",
+      "Công nghệ sạc": "Sạc siêu nhanh có dây FlashCharge 90W | Sạc nhanh không dây 40W | Hỗ trợ sạc ngược không dây",
+      "Cổng sạc": "USB Type-C hỗ trợ chuẩn truyền dữ liệu tốc độ cao và OTG"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 16 với giao diện Funtouch OS 16 / OriginOS 6",
+      "Công nghệ - Tiện ích": "Bộ tính năng Vivo AI (AI Erase, AI Photo Enhance, AI Note Assist, Circle to Search), Origin Island",
+      "Tiện ích khác": "Cổng hồng ngoại IR Blaster điều khiển thiết bị điện tử, tản nhiệt buồng hơi VC hiệu suất cao",
+      "Thời điểm ra mắt": "Tháng 10/2025"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G đa băng tần (SA/NSA Sub-6GHz), 4G LTE-A",
+      "Thẻ SIM": "2 Nano-SIM vật lý hoặc kết hợp eSIM",
+      "Wi-Fi": "Wi-Fi 7 (802.11be) ba băng tần, 2x2 MIMO",
+      "Bluetooth": "Bluetooth 5.4 hỗ trợ aptX HD, LDAC, LHDC 5.0",
+      "Công nghệ NFC": "Có hỗ trợ NFC đa năng 360 độ",
+      "GPS": "Định vị vệ tinh tần số kép L1+L5: GPS, GLONASS, Galileo, BeiDou, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền hợp kim nhôm phẳng vát kim cương sang trọng",
+      "Chất liệu mặt lưng": "Mặt lưng kính cường lực nhám mờ AG chống bám vân tay",
+      "Kích thước": "150,8 x 71,7 x 7,99 mm",
+      "Trọng lượng": "190 gram",
+      "Chỉ số kháng nước, bụi": "Đạt chuẩn kháng nước và bụi kép IP68 & IP69"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa kép Stereo đạt chuẩn Hi-Res Audio & Hi-Res Wireless",
+      "Cảm biến vân tay": "Cảm biến vân tay siêu âm dưới màn hình + Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Vân tay siêu âm, Laser AF, Cảm biến phổ màu, Gia tốc kế, Con quay hồi chuyển, Tiệm cận, Ánh sáng kép, La bàn số, Hồng ngoại"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,31 inch (Compact Flagship)"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "LTPO AMOLED 1,07 tỷ màu, 1–120Hz, 4.500 nit"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "2640 x 1216 pixel (1.5K, 460 ppi)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "1–120Hz LTPO thích ứng"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 9500 (3nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB / 16GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "2 phiên bản: 256GB và 512GB chuẩn UFS 4.1"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính OIS + 200MP Tele tiềm vọng ZEISS APO 3.7x OIS + 50MP Góc siêu rộng AF"
+    },
+    {
+      "label": "Camera trước",
+      "value": "50MP AF (ƒ/2.0, góc rộng 92°), quay 4K 60fps"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "6.040 mAh (Pin BlueVolt Silicon-Carbon)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh có dây 90W FlashCharge, sạc không dây 40W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Funtouch OS 16 / OriginOS 6 (Android 16)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP68 & IP69"
+    }
+  ],
+  "verbatimDescription": [
+    "vivo X300 là mẫu flagship nhỏ gọn (Compact Flagship) hiếm hoi trên thị trường kết hợp thành công màn hình phẳng 6,31 inch vừa vặn trong lòng bàn tay với ống kính Telephoto tiềm vọng 200MP ZEISS APO (cảm biến 1/1.4 inch), vi xử lý 3nm MediaTek Dimensity 9500 và viên pin BlueVolt 6.040 mAh. Tại AURIX MOBILE, vivo X300 được khách hàng yêu thích nhờ trọng lượng nhẹ chỉ 190 gram nhưng mang đầy đủ sức mạnh nhiếp ảnh và hiệu năng của một chiếc máy đầu bảng.",
+    "Với kích thước tổng thể chỉ 150,8 x 71,7 x 7,99 mm và nặng 190 gram, vivo X300 mang lại cảm giác cầm nắm bằng một tay vô cùng linh hoạt và thoải mái. Khung viền hợp kim nhôm vát phẳng kết hợp mặt lưng kính nhám mờ AG tạo nên vẻ ngoài hiện đại, tinh tế. Dù có thân hình nhỏ nhắn, thiết bị vẫn đạt chuẩn kháng bụi và kháng nước cao nhất IP68 & IP69, chịu được cả ngâm nước sâu lẫn tia nước nóng áp lực cao.",
+    "Màn hình phẳng 6,31 inch của máy sử dụng tấm nền LTPO AMOLED 8T độ phân giải 1.5K (2640 x 1216 pixel, 460 ppi) với viền bezel siêu mỏng đều nhau ở cả 4 cạnh. Tần số quét thích ứng 1–120Hz cùng độ sáng đỉnh 4.500 nit và công nghệ làm mờ PWM 2160Hz đảm bảo hình ảnh luôn sắc nét, rực rỡ dưới nắng gắt và dịu mắt khi sử dụng trong bóng tối.",
+    "Không giống như nhiều mẫu máy nhỏ gọn thường bị cắt giảm camera tele, vivo X300 được ưu ái trang bị nguyên vẹn ống kính Telephoto tiềm vọng 200MP ZEISS APO (cảm biến 1/1.4 inch ISOCELL HPB, tiêu cự 85mm, khẩu độ ƒ/2.67, OIS) kết hợp camera chính 50MP OIS (ƒ/1.57) và camera góc siêu rộng 50MP AF. Lớp tráng phủ ZEISS T* cùng gói chân dung đa tiêu cự ZEISS (24mm–100mm) giúp người dùng dễ dàng sáng tạo những bức ảnh chân dung xóa phông nghệ thuật và ảnh chụp cận cảnh Telephoto Macro sắc nét.",
+    "Bên trong thân máy nhỏ gọn là vi xử lý 3nm MediaTek Dimensity 9500 mạnh mẽ đi kèm tùy chọn 12GB hoặc 16GB RAM LPDDR5X và bộ nhớ trong 256GB/512GB chuẩn UFS 4.1. Mọi tác vụ từ chơi game đồ họa Ray Tracing cho đến quay dựng video 4K 120fps hay vận hành các tính năng Vivo AI trên Android 16 đều diễn ra nhanh nhạy và mượt mà.",
+    "Nhờ công nghệ pin Silicon-Carbon thế hệ thứ 3, vivo đã nén thành công dung lượng pin lên tới 6.040 mAh vào thân máy 6,31 inch — vượt xa nhiều mẫu máy màn hình lớn truyền thống. Đi kèm sạc nhanh có dây 90W FlashCharge, sạc không dây 40W và cảm biến vân tay siêu âm dưới màn hình, vivo X300 là định nghĩa hoàn hảo cho một chiếc flagship nhỏ gọn không thỏa hiệp."
+  ],
+  "priceSegment": "high-end"
+}

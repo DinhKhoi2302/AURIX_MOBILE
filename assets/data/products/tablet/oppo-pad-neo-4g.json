@@ -1,0 +1,233 @@
+{
+  "id": "oppo-pad-neo-4g",
+  "docCode": "TB-OP003-NEO4G",
+  "model": "OPPO Pad Neo 4G LTE",
+  "brand": "OPPO",
+  "brandId": "oppo",
+  "parentGroupId": "oppo",
+  "series": "OPPO Pad Series",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "11.4 inch",
+      "Helio G99",
+      "Pin 8.000 mAh"
+    ],
+    "description": "OPPO Pad Neo 4G là mẫu máy tính bảng đột phá dành riêng cho giới trẻ năng động và người dùng văn phòng cần sự kết nối liên tục. Thiết bị ghi điểm tuyệt đối nhờ việc tích hợp khay SIM 4G LTE tốc độ cao, giúp bạn thoải mái truy cập internet, làm việc và giải trí trên từng nẻo đường mà không cần tìm kiếm mạng Wi-Fi công cộng.",
+    "releaseDate": "2024"
+  },
+  "performance": {
+    "chipset": "MediaTek Helio G99 (tiến trình 6nm tối ưu năng lượng)",
+    "ram": [
+      "8GB"
+    ],
+    "storage": [
+      "128GB"
+    ],
+    "operatingSystem": "ColorOS 13.2 for Pad (nâng cấp Android 14)"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 6490000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/oppo/oppo-pad-neo-4g/anh-dai-dien-oppo-pad-neo-4g-xam.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/oppo/oppo-pad-neo-4g/anh-dai-dien-oppo-pad-neo-4g-xam.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-neo-4g/mat-truoc-dat-tren-ban-xam.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-neo-4g/mat-sau-dat-tren-ban-xam.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-neo-4g/canh-ben-trai-phai-xam.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-neo-4g/canh-tren-duoi-loa-cong-sac-xam.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-neo-4g/can-canh-cum-camera-sau-xam.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-neo-4g/cam-hai-tay-man-hinh-xam.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-neo-4g/can-canh-khay-sim-va-nut-am-luong-xam.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-neo-4g/can-canh-nut-nguon-va-loa-xam.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-neo-4g/he-thong-4-loa-am-thanh-dolby-atmos-xanh-den.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-neo-4g/tan-so-quet-man-hinh-90hz-muot-ma-do-cam.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-neo-4g/thiet-ke-duong-net-tinh-xao-xam-den.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-neo-4g/thong-so-chip-mediatek-helio-g99-ram-8gb-den-xanh.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-neo-4g/thong-so-man-hinh-ips-lcd-11-4-inch-xanh-la.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-neo-4g/thong-so-pin-8000mah-xanh-ngoc.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-neo-4g/tong-quan-tinh-nang-man-hinh-11-4-inch-90hz-sac-33w-xam-xanh.webp"
+    ],
+    "byColor": {
+      "Xám": [
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/anh-dai-dien-oppo-pad-neo-4g-xam.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/mat-truoc-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/mat-sau-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/can-canh-cum-camera-sau-xam.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/cam-hai-tay-man-hinh-xam.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/can-canh-khay-sim-va-nut-am-luong-xam.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/can-canh-nut-nguon-va-loa-xam.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/he-thong-4-loa-am-thanh-dolby-atmos-xanh-den.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/tan-so-quet-man-hinh-90hz-muot-ma-do-cam.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/thiet-ke-duong-net-tinh-xao-xam-den.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/thong-so-chip-mediatek-helio-g99-ram-8gb-den-xanh.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/thong-so-man-hinh-ips-lcd-11-4-inch-xanh-la.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/thong-so-pin-8000mah-xanh-ngoc.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/tong-quan-tinh-nang-man-hinh-11-4-inch-90hz-sac-33w-xam-xanh.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/oppo/oppo-pad-neo-4g/mat-sau-dat-tren-ban-xam.webp",
+      "screen": "assets/images/products/tablet/oppo/oppo-pad-neo-4g/mat-truoc-dat-tren-ban-xam.webp",
+      "performance": "assets/images/products/tablet/oppo/oppo-pad-neo-4g/thong-so-chip-mediatek-helio-g99-ram-8gb-den-xanh.webp",
+      "camera": "assets/images/products/tablet/oppo/oppo-pad-neo-4g/can-canh-cum-camera-sau-xam.webp",
+      "battery": "assets/images/products/tablet/oppo/oppo-pad-neo-4g/canh-tren-duoi-loa-cong-sac-xam.webp",
+      "feature": "assets/images/products/tablet/oppo/oppo-pad-neo-4g/canh-ben-trai-phai-xam.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/oppo/oppo-pad-neo-4g/mat-truoc-dat-tren-ban-xam.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-neo-4g/mat-sau-dat-tren-ban-xam.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-neo-4g/canh-ben-trai-phai-xam.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-neo-4g/canh-tren-duoi-loa-cong-sac-xam.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-neo-4g/can-canh-cum-camera-sau-xam.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-neo-4g/cam-hai-tay-man-hinh-xam.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-neo-4g/can-canh-khay-sim-va-nut-am-luong-xam.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-neo-4g/can-canh-nut-nguon-va-loa-xam.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-neo-4g/he-thong-4-loa-am-thanh-dolby-atmos-xanh-den.webp",
+      "assets/images/products/tablet/oppo/oppo-pad-neo-4g/tan-so-quet-man-hinh-90hz-muot-ma-do-cam.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "11,4 inch LTPS LCD 2.4K (2408 x 1720 pixel, mật độ điểm ảnh 260 ppi), tỷ lệ sách 7:5 ReadFit độc quyền, tần số quét 90Hz, hiển thị 1,07 tỷ màu (10-bit), độ phủ màu 96% NTSC",
+      "Tính năng màn hình": "Đạt chứng nhận bảo vệ mắt kép TÜV Rheinland (Circadian Friendly & Full Care Display 2.0), lọc ánh sáng xanh phần cứng dưới 40% và tự động điều chỉnh nhiệt độ màu theo thời gian thực"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "MediaTek Helio G99 8 nhân tiến trình 6nm tiết kiệm điện tối ưu",
+      "CPU & Đồ họa": "Octa-core 2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55, GPU Mali-G57 MC2",
+      "Hệ điều hành khi ra mắt": "ColorOS 13.2 for Pad (nâng cấp ColorOS 14 Android 14) mượt mà"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "8GB RAM LPDDR4X kết hợp công nghệ mở rộng RAM Turbo",
+      "Bộ nhớ trong": "128GB UFS 2.2, có khay cắm thẻ nhớ thẻ nhớ ngoài MicroSD tiện lợi"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "8MP góc rộng, khẩu độ f/2.0, tự động lấy nét, quay phim 1080p 30fps",
+      "Camera trước": "8MP góc rộng 77 độ, hỗ trợ đàm thoại video rõ nét",
+      "Chi tiết hệ thống Camera": "Camera chính 8MP AF f/2.0 quay video 1080p; Camera trước 8MP f/2.0 nhận diện khuôn mặt"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "8.000 mAh bền bỉ, công nghệ sạc nhanh SuperVOOC 33W",
+      "Pin và công nghệ sạc": "Pin Lithium Polymer 8.000 mAh, sạc nhanh SuperVOOC 33W nạp pin an toàn và nhanh chóng"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Tương thích các dòng bút cảm ứng stylus điện dung",
+      "Hỗ trợ bàn phím rời": "Kết nối bàn phím và chuột không dây qua Bluetooth",
+      "Công nghệ âm thanh": "Hệ thống 4 loa stereo công suất lớn buồng âm 8cc tích hợp công nghệ Dolby Atmos",
+      "Thuộc tính đặc biệt": "Màn hình tỷ lệ 7:5 chống ánh sáng xanh thông minh, hỗ trợ kết nối 4G LTE di động mọi lúc mọi nơi"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Mạng di động 4G LTE tốc độ cao, Wi-Fi 5 băng tần kép",
+      "Thẻ SIM": "1 Nano-SIM (Hỗ trợ truy cập mạng 4G dữ liệu di động)",
+      "Kết nối không dây & Cổng giao tiếp": "4G LTE di động, 1 Nano-SIM, Wi-Fi 802.11 a/b/g/n/ac băng tần kép, Bluetooth 5.2, GPS, USB-C 2.0",
+      "Công nghệ - Tiện ích": "Tính năng kết nối không dây đồng bộ điện thoại OPPO, chế độ bảo vệ nhịp sinh học ban đêm"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Độ mỏng 6.89 mm, kích thước 255.1 x 188.0 x 6.89 mm, trọng lượng khoảng 538 g",
+      "Bảo mật và độ bền": "Mở khóa khuôn mặt Face Unlock, thân máy kim loại cao cấp kết hợp dải ăng-ten thẩm mỹ",
+      "Thời điểm ra mắt": "Năm 2024"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "11.4 inch IPS LCD, tỷ lệ 7:5 ReadFit, độ phân giải 2.4K (2408 x 1720 pixels)"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Tần số quét 90Hz, chứng nhận bảo vệ mắt toàn diện TÜV Rheinland Circadian Friendly, 400 nits"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Helio G99 (tiến trình 6nm tối ưu năng lượng)"
+    },
+    {
+      "label": "RAM",
+      "value": "8GB LPDDR4X (Mở rộng RAM ảo lên tới 16GB)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB UFS 2.2 (Hỗ trợ thẻ nhớ MicroSD tối đa 1TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "8MP góc rộng, khẩu độ f/2.0, tự động lấy nét, quay phim 1080p 30fps"
+    },
+    {
+      "label": "Camera trước",
+      "value": "8MP góc rộng 77 độ, hỗ trợ đàm thoại video rõ nét"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Pin Lithium Polymer 8.000 mAh, sạc nhanh SuperVOOC 33W nạp pin an toàn và nhanh chóng"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Mạng di động 4G LTE tốc độ cao, Wi-Fi 5 băng tần kép"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Tương thích các dòng bút cảm ứng stylus điện dung"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Kết nối bàn phím và chuột không dây qua Bluetooth"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "ColorOS 13.2 for Pad (nâng cấp Android 14)"
+    }
+  ],
+  "verbatimDescription": [
+    "OPPO Pad Neo 4G là mẫu máy tính bảng đột phá dành riêng cho giới trẻ năng động và người dùng văn phòng cần sự kết nối liên tục. Thiết bị ghi điểm tuyệt đối nhờ việc tích hợp khay SIM 4G LTE tốc độ cao, giúp bạn thoải mái truy cập internet, làm việc và giải trí trên từng nẻo đường mà không cần tìm kiếm mạng Wi-Fi công cộng.",
+    "Màn hình kích thước 11.4 inch độ phân giải 2.4K (2408 x 1720 pixels) với tỷ lệ vàng 7:5 ReadFit mang lại không gian đọc sách và xem bảng biểu tối ưu hơn tới 20% so với màn hình thông thường. Màn hình đạt chứng nhận Circadian Friendly từ TÜV Rheinland giúp tự động điều chỉnh ánh sáng màn hình theo nhịp sinh học cơ thể, bảo vệ giấc ngủ và sức khỏe thị giác tối đa.",
+    "Trang bị vi xử lý Helio G99 6nm cùng bộ nhớ RAM 8GB có thể mở rộng thêm 8GB RAM ảo, máy xử lý mượt mà mọi tác vụ học tập, lướt mạng xã hội và đa nhiệm nhiều ứng dụng. Hệ thống 4 loa stereo với buồng âm lớn 8cc tích hợp Dolby Atmos mang lại chất lượng âm thanh to rõ và trầm ấm bất ngờ.",
+    "Viên pin dung lượng 8.000 mAh kết hợp cùng công nghệ sạc nhanh SuperVOOC 33W giúp thiết bị luôn sẵn sàng đồng hành cùng bạn suốt cả ngày dài năng động mà không lo cạn pin.",
+    "Hệ thống âm thanh 4 loa Stereo trên OPPO Pad Neo 4G sở hữu buồng âm thể tích lớn 8cc kết hợp công nghệ Dolby Atmos, tạo ra âm trường rộng mở và chi tiết khi thưởng thức phim ảnh hay nghe nhạc chất lượng cao.",
+    "Nhờ tính năng kết nối liên thiết bị Communication Sharing và Content Sync trên ColorOS for Pad, chiếc tablet có thể đồng bộ tức thì ảnh chụp, video và văn bản sao chép với smartphone. Sự kết hợp giữa màn hình tỷ lệ sách 7:5 dịu mắt, kết nối 4G LTE độc lập và viên pin 8.000 mAh sạc nhanh 33W biến OPPO Pad Neo 4G thành người bạn đồng hành lý tưởng cho công việc và giải trí di động."
+  ],
+  "variants": [
+    {
+      "sku": "TB-OP003-NEO4G-XAM-8GB-128GB-4G",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "8GB",
+      "storage": "8GB/128GB (4G)",
+      "rom": "128GB",
+      "price": 6490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/anh-dai-dien-oppo-pad-neo-4g-xam.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/mat-truoc-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/mat-sau-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/can-canh-cum-camera-sau-xam.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/cam-hai-tay-man-hinh-xam.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/can-canh-khay-sim-va-nut-am-luong-xam.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/can-canh-nut-nguon-va-loa-xam.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/he-thong-4-loa-am-thanh-dolby-atmos-xanh-den.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/tan-so-quet-man-hinh-90hz-muot-ma-do-cam.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/thiet-ke-duong-net-tinh-xao-xam-den.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/thong-so-chip-mediatek-helio-g99-ram-8gb-den-xanh.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/thong-so-man-hinh-ips-lcd-11-4-inch-xanh-la.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/thong-so-pin-8000mah-xanh-ngoc.webp",
+        "assets/images/products/tablet/oppo/oppo-pad-neo-4g/tong-quan-tinh-nang-man-hinh-11-4-inch-90hz-sac-33w-xam-xanh.webp"
+      ]
+    }
+  ]
+}

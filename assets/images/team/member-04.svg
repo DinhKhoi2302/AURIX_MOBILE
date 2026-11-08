@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" fill="none">
+  <rect width="240" height="240" rx="120" fill="#F5F8FC" stroke="#DDEEFF" stroke-width="6"/>
+  <circle cx="120" cy="96" r="44" fill="#FF5147"/>
+  <path d="M44 210 C44 162 196 162 196 210" fill="#FF5147" fill-opacity="0.85"/>
+  <text x="120" y="106" text-anchor="middle" font-family="'Be Vietnam Pro', 'Inter', sans-serif" font-size="24" font-weight="800" fill="#FFFFFF">PTD</text>
+</svg>

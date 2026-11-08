@@ -1,0 +1,311 @@
+{
+  "id": "lenovo-tab-4g",
+  "docCode": "TB-LN004-TAB4G",
+  "model": "Lenovo Tab 4G (Bản Nghe Gọi & Data Di Động)",
+  "brand": "Lenovo",
+  "brandId": "lenovo",
+  "parentGroupId": "lenovo",
+  "series": "Lenovo Idea Tab & Tab Series",
+  "category": "tablet",
+  "categoryIds": [
+    "tablet"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Máy tính bảng chính hãng",
+    "highlights": [
+      "10.6 inch",
+      "Pin 7.700 mAh"
+    ],
+    "description": "Lenovo Tab 4G là giải pháp máy tính bảng kết nối toàn năng, phá vỡ giới hạn phụ thuộc vào mạng Wi-Fi cố định. Nhờ trang bị khe cắm Nano-SIM hỗ trợ mạng 4G LTE tốc độ cao và tính năng gọi thoại di động trực tiếp, người dùng có thể thoải mái truy cập internet, làm việc và liên lạc ở bất kỳ đâu từ trên ô tô, công trường đến các vùng dã ngoại.",
+    "releaseDate": "2024 / 2025"
+  },
+  "performance": {
+    "chipset": "MediaTek Helio G88 / G99 hỗ trợ 4G LTE tốc độ cao",
+    "ram": [
+      "4GB",
+      "6GB"
+    ],
+    "storage": [
+      "128GB",
+      "64GB"
+    ],
+    "operatingSystem": "Android 13 / 14"
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 4490000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/tablet/lenovo/lenovo-tab-4g/anh-dai-dien-lenovo-tab-4g-xam.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/anh-dai-dien-lenovo-tab-4g-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/anh-dai-dien-lenovo-tab-4g-xanh-duong.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/mat-truoc-sau-xanh-duong.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/mat-truoc-dat-tren-ban-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/mat-sau-dat-tren-ban-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/can-canh-camera-va-canh-ben-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-ben-nam-ngang-xanh-duong.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-ben-thang-dung-phai-xanh-duong.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-ben-thang-dung-trai-xanh-duong.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-ben-trai-phai-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-tren-duoi-loa-cong-sac-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-tren-nut-bam-nam-ngang-xanh-duong.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/dung-nghieng-kem-bao-da-ban-phim-xanh-duong.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/mat-truoc-nghieng-trai-xanh-duong.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/can-canh-cum-camera-sau-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/can-canh-cong-sac-type-c-va-jack-tai-nghe-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/can-canh-loa-va-nut-nguon-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/can-canh-nut-am-luong-va-khay-sim-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/hop-va-bo-phu-kien-op-lung-sac-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/mat-truoc-kem-but-cam-ung-xanh-duong.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/su-dung-kem-ban-phim-va-but-xanh-duong.webp"
+    ],
+    "byColor": {
+      "Xám": [
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/anh-dai-dien-lenovo-tab-4g-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/mat-truoc-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/mat-sau-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/can-canh-camera-va-canh-ben-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/can-canh-cum-camera-sau-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/can-canh-cong-sac-type-c-va-jack-tai-nghe-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/can-canh-loa-va-nut-nguon-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/can-canh-nut-am-luong-va-khay-sim-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/hop-va-bo-phu-kien-op-lung-sac-xam.webp"
+      ],
+      "Xanh Dương": [
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/anh-dai-dien-lenovo-tab-4g-xanh-duong.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/mat-truoc-sau-xanh-duong.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-ben-nam-ngang-xanh-duong.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-ben-thang-dung-phai-xanh-duong.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-ben-thang-dung-trai-xanh-duong.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-tren-nut-bam-nam-ngang-xanh-duong.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/dung-nghieng-kem-bao-da-ban-phim-xanh-duong.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/mat-truoc-nghieng-trai-xanh-duong.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/mat-truoc-kem-but-cam-ung-xanh-duong.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/su-dung-kem-ban-phim-va-but-xanh-duong.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/tablet/lenovo/lenovo-tab-4g/mat-truoc-sau-xanh-duong.webp",
+      "screen": "assets/images/products/tablet/lenovo/lenovo-tab-4g/mat-truoc-dat-tren-ban-xam.webp",
+      "performance": "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-ben-nam-ngang-xanh-duong.webp",
+      "camera": "assets/images/products/tablet/lenovo/lenovo-tab-4g/can-canh-camera-va-canh-ben-xam.webp",
+      "battery": "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-tren-duoi-loa-cong-sac-xam.webp",
+      "feature": "assets/images/products/tablet/lenovo/lenovo-tab-4g/anh-dai-dien-lenovo-tab-4g-xanh-duong.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/anh-dai-dien-lenovo-tab-4g-xanh-duong.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/mat-truoc-sau-xanh-duong.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/mat-truoc-dat-tren-ban-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/mat-sau-dat-tren-ban-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/can-canh-camera-va-canh-ben-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-ben-nam-ngang-xanh-duong.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-ben-thang-dung-phai-xanh-duong.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-ben-thang-dung-trai-xanh-duong.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-ben-trai-phai-xam.webp",
+      "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-tren-duoi-loa-cong-sac-xam.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Màn hình & Hiển thị": {
+      "Màn hình": "10,61 inch IPS LCD 2K (2000 x 1200 pixel), tỷ lệ 15:9, góc nhìn rộng 178 độ, độ sáng 400 nit, hiển thị sắc nét",
+      "Tính năng màn hình": "Chứng nhận bảo vệ mắt TÜV Rheinland Low Blue Light giảm thiểu ánh sáng xanh có hại, chế độ Đọc sách chuyên dụng"
+    },
+    "Vi xử lý & Hiệu năng": {
+      "Chipset": "MediaTek Helio 8 nhân tích hợp modem 4G LTE Cat-7/13 kết nối sóng di động mạnh mẽ",
+      "CPU & Đồ họa": "Octa-core 2x Cortex-A75 2.0GHz & 6x Cortex-A55 1.8GHz, GPU Mali-G52 MC2",
+      "Hệ điều hành khi ra mắt": "Android 13 nâng cấp Android 14 với đầy đủ dịch vụ Google Play"
+    },
+    "RAM & Lưu trữ": {
+      "Dung lượng RAM": "4GB / 6GB RAM hoạt động đa nhiệm mượt mà",
+      "Bộ nhớ trong": "64GB / 128GB lưu trữ, hỗ trợ thẻ nhớ ngoài MicroSD mở rộng dung lượng"
+    },
+    "Camera & Đàm thoại": {
+      "Camera sau": "8MP tự động lấy nét, quay phim 1080p 30fps",
+      "Camera trước": "8MP góc rộng phục vụ gọi video trực tuyến",
+      "Chi tiết hệ thống Camera": "Camera chính sau 8MP AF; Camera trước 8MP góc rộng thu hình rõ nét"
+    },
+    "Pin & Công nghệ sạc": {
+      "Dung lượng pin": "7.700 mAh, hỗ trợ sạc 20W qua cổng USB-C",
+      "Pin và công nghệ sạc": "Pin Lithium Polymer 7.700 mAh, hỗ trợ sạc nhanh công suất 20W qua cổng Type-C"
+    },
+    "Bút cảm ứng, Bàn phím & Âm thanh": {
+      "Hỗ trợ bút cảm ứng": "Tương thích các dòng bút stylus điện dung thông dụng",
+      "Hỗ trợ bàn phím rời": "Kết nối dễ dàng với bàn phím và chuột Bluetooth",
+      "Công nghệ âm thanh": "Hệ thống 4 loa stereo công nghệ âm thanh vòm Dolby Atmos to rõ",
+      "Thuộc tính đặc biệt": "Hỗ trợ SIM 4G nghe gọi điện thoại như smartphone cỡ lớn, định vị GPS độc lập"
+    },
+    "Kết nối & Tiện ích": {
+      "Hỗ trợ mạng": "Mạng di động 4G LTE đa băng tần, Wi-Fi 5 băng tần kép",
+      "Thẻ SIM": "1 Nano-SIM (Hỗ trợ gọi thoại di động và kết nối internet 4G)",
+      "Kết nối không dây & Cổng giao tiếp": "Khay cắm 1 Nano-SIM hỗ trợ 4G LTE nghe gọi & dữ liệu di động, Wi-Fi 5 băng tần kép (2.4GHz/5GHz), Bluetooth 5.1, định vị vệ tinh độc lập GPS/GLONASS/BDS, cổng USB-C 2.0 và giắc tai nghe 3.5mm",
+      "Công nghệ - Tiện ích": "Tính năng đàm thoại di động nghe gọi thoại trực tiếp qua loa ngoài hoặc tai nghe, định vị bản đồ xe hơi"
+    },
+    "Thiết kế & Bảo mật": {
+      "Thiết kế và kích thước": "Thiết kế mỏng nhẹ 7.45 mm, kích thước 251.2 x 158.8 x 7.45 mm, trọng lượng khoảng 465 g",
+      "Bảo mật và độ bền": "Mở khóa bằng khuôn mặt Face Unlock, thân máy kim loại cao cấp kết hợp dải ăng-ten bắt sóng",
+      "Thời điểm ra mắt": "Năm 2024 / 2025"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "10.6 inch IPS LCD 2K sắc nét, độ phân giải 2000 x 1200 pixels"
+    },
+    {
+      "label": "Tính năng màn hình",
+      "value": "Màn hình IPS góc nhìn rộng 178 độ, độ sáng 400 nits, chứng nhận bảo vệ mắt TÜV Rheinland"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Helio G88 / G99 hỗ trợ 4G LTE tốc độ cao"
+    },
+    {
+      "label": "RAM",
+      "value": "4GB / 6GB LPDDR4X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "64GB / 128GB (Mở rộng thẻ nhớ MicroSD tối đa 1TB)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "8MP tự động lấy nét, quay phim 1080p 30fps"
+    },
+    {
+      "label": "Camera trước",
+      "value": "8MP góc rộng phục vụ gọi video trực tuyến"
+    },
+    {
+      "label": "Pin & Sạc",
+      "value": "Pin Lithium Polymer 7.700 mAh, hỗ trợ sạc nhanh công suất 20W qua cổng Type-C"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "Mạng di động 4G LTE đa băng tần, Wi-Fi 5 băng tần kép"
+    },
+    {
+      "label": "Bút cảm ứng",
+      "value": "Tương thích các dòng bút stylus điện dung thông dụng"
+    },
+    {
+      "label": "Bàn phím rời",
+      "value": "Kết nối dễ dàng với bàn phím và chuột Bluetooth"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 13 / 14"
+    }
+  ],
+  "verbatimDescription": [
+    "Lenovo Tab 4G là giải pháp máy tính bảng kết nối toàn năng, phá vỡ giới hạn phụ thuộc vào mạng Wi-Fi cố định. Nhờ trang bị khe cắm Nano-SIM hỗ trợ mạng 4G LTE tốc độ cao và tính năng gọi thoại di động trực tiếp, người dùng có thể thoải mái truy cập internet, làm việc và liên lạc ở bất kỳ đâu từ trên ô tô, công trường đến các vùng dã ngoại.",
+    "Màn hình 10.6 inch độ phân giải 2K sắc nét với tấm nền IPS góc nhìn rộng mang lại hình ảnh chi tiết, màu sắc chân thực. Tích hợp định vị vệ tinh GPS độc lập biến chiếc tablet thành một màn hình dẫn đường xe hơi cỡ lớn cực kỳ tiện dụng và chuẩn xác.",
+    "Thiết kế thân máy kết hợp giữa kim loại cứng cáp và lớp hoàn thiện chống bám vân tay với hai tùy chọn màu sắc Xám thanh lịch và Xanh dương trẻ trung. Trọng lượng nhẹ chỉ 465g giúp người dùng dễ dàng mang theo bên mình trong mọi chuyến hành trình.",
+    "Dung lượng pin 7.700 mAh bền bỉ kết hợp cùng hệ thống 4 loa ngoài chuẩn Dolby Atmos mang lại trải nghiệm xem phim, nghe nhạc và đàm thoại to rõ không bị gián đoạn, là lựa chọn kinh tế hàng đầu cho người dùng cần sự cơ động cao.",
+    "Hệ thống định vị vệ tinh độc lập (GPS, GLONASS, BDS) kết hợp cùng kết nối 4G LTE biến Lenovo Tab 4G thành một màn hình dẫn đường và giải trí lý tưởng trên xe hơi hoặc cho đội ngũ nhân viên kinh doanh, khảo sát thị trường thường xuyên làm việc ngoài văn phòng.",
+    "Camera trước và sau đều có độ phân giải 8MP hỗ trợ lấy nét tự động ở mặt sau để chụp chứng từ, biên lai rõ nét và đàm thoại video sắc sảo ở mặt trước. Đi kèm khe cắm thẻ nhớ microSD mở rộng tới 1TB và cổng tai nghe 3.5mm, đây là chiếc tablet 4G bền bỉ, đa dụng và tiết kiệm bậc nhất."
+  ],
+  "variants": [
+    {
+      "sku": "TB-LN004-TAB4G-XAM-4GB-64GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "4GB",
+      "storage": "4GB/64GB",
+      "rom": "64GB",
+      "price": 4490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/anh-dai-dien-lenovo-tab-4g-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/mat-truoc-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/mat-sau-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/can-canh-camera-va-canh-ben-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/can-canh-cum-camera-sau-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/can-canh-cong-sac-type-c-va-jack-tai-nghe-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/can-canh-loa-va-nut-nguon-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/can-canh-nut-am-luong-va-khay-sim-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/hop-va-bo-phu-kien-op-lung-sac-xam.webp"
+      ]
+    },
+    {
+      "sku": "TB-LN004-TAB4G-XAM-6GB-128GB",
+      "color": "Xám",
+      "colorHex": "#6B7280",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 5190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/anh-dai-dien-lenovo-tab-4g-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/mat-truoc-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/mat-sau-dat-tren-ban-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/can-canh-camera-va-canh-ben-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-ben-trai-phai-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-tren-duoi-loa-cong-sac-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/can-canh-cum-camera-sau-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/can-canh-cong-sac-type-c-va-jack-tai-nghe-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/can-canh-loa-va-nut-nguon-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/can-canh-nut-am-luong-va-khay-sim-xam.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/hop-va-bo-phu-kien-op-lung-sac-xam.webp"
+      ]
+    },
+    {
+      "sku": "TB-LN004-TAB4G-XANH-DUONG-4GB-64GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "4GB",
+      "storage": "4GB/64GB",
+      "rom": "64GB",
+      "price": 4490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/anh-dai-dien-lenovo-tab-4g-xanh-duong.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/mat-truoc-sau-xanh-duong.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-ben-nam-ngang-xanh-duong.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-ben-thang-dung-phai-xanh-duong.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-ben-thang-dung-trai-xanh-duong.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-tren-nut-bam-nam-ngang-xanh-duong.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/dung-nghieng-kem-bao-da-ban-phim-xanh-duong.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/mat-truoc-nghieng-trai-xanh-duong.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/mat-truoc-kem-but-cam-ung-xanh-duong.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/su-dung-kem-ban-phim-va-but-xanh-duong.webp"
+      ]
+    },
+    {
+      "sku": "TB-LN004-TAB4G-XANH-DUONG-6GB-128GB",
+      "color": "Xanh Dương",
+      "colorHex": "#2563EB",
+      "ram": "6GB",
+      "storage": "6GB/128GB",
+      "rom": "128GB",
+      "price": 5190000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/anh-dai-dien-lenovo-tab-4g-xanh-duong.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/mat-truoc-sau-xanh-duong.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-ben-nam-ngang-xanh-duong.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-ben-thang-dung-phai-xanh-duong.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-ben-thang-dung-trai-xanh-duong.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/canh-tren-nut-bam-nam-ngang-xanh-duong.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/dung-nghieng-kem-bao-da-ban-phim-xanh-duong.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/mat-truoc-nghieng-trai-xanh-duong.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/mat-truoc-kem-but-cam-ung-xanh-duong.webp",
+        "assets/images/products/tablet/lenovo/lenovo-tab-4g/su-dung-kem-ban-phim-va-but-xanh-duong.webp"
+      ]
+    }
+  ]
+}

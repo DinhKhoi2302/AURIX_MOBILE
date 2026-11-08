@@ -1,0 +1,726 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chi tiết Sản phẩm | AURIX MOBILE Chính Hãng</title>
+  <meta name="description" content="Xem thông số kỹ thuật, chọn màu sắc, dung lượng bộ nhớ và đặt mua điện thoại chính hãng tại AURIX MOBILE.">
+  <link rel="icon" type="image/svg+xml" href="assets/images/logo/favicon.svg">
+  <link rel="stylesheet" href="vendor/bootstrap/bootstrap.min.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/pages/product-detail.css">
+  <link rel="stylesheet" href="css/responsive/tablet.css">
+  <link rel="stylesheet" href="css/responsive/mobile.css">
+</head>
+<body data-page="product-detail">
+  <!-- Shared Header (Matches image_7c1303.png & Brandkit 09) -->
+  <header class="tp-header" role="banner">
+    <div class="tp-container">
+      <div class="tp-header-top">
+        <a href="index.html" class="tp-brand" aria-label="AURIX MOBILE Trang chủ">
+          <img src="assets/images/logo/logo-aurix-on-blue.svg" alt="AURIX MOBILE — Công nghệ trong tầm tay · Đẳng cấp trong từng lựa chọn" width="236" height="48">
+        </a>
+
+        <form id="tp-header-search-form" class="tp-search-bar" role="search" aria-label="Tìm kiếm điện thoại, phụ kiện">
+          <input type="search" id="tp-header-search-input" data-open-overlay-on-focus="true" placeholder="Bạn đang tìm kiếm điện thoại, phụ kiện...?" autocomplete="off" aria-label="Từ khóa tìm kiếm">
+          <button type="submit" class="tp-search-submit" aria-label="Tìm kiếm">
+            <img src="assets/icons/ui/search.svg" alt="" width="18" height="18" style="filter:brightness(10);">
+          </button>
+        </form>
+
+        <div class="tp-header-actions">
+          <a href="lienhe.html" class="tp-action-item" title="Tổng đài hỗ trợ 24/7">
+            <span class="tp-action-icon">
+              <img src="assets/icons/ui/headset.svg" alt="" width="20" height="20">
+            </span>
+            <span class="tp-action-text">
+              <span class="tp-action-label">Hỗ trợ</span>
+              <span class="tp-action-value">24/7</span>
+            </span>
+          </a>
+
+          <a href="lienhe.html#store-system" class="tp-action-item" title="Hệ thống cửa hàng gần bạn">
+            <span class="tp-action-icon">
+              <img src="assets/icons/ui/map-pin.svg" alt="" width="20" height="20">
+            </span>
+            <span class="tp-action-text">
+              <span class="tp-action-label">Cửa hàng</span>
+              <span class="tp-action-value">Gần bạn</span>
+            </span>
+          </a>
+
+          <a href="dangnhap.html" class="tp-action-item" title="Đăng nhập hoặc quản lý tài khoản">
+            <span class="tp-action-icon">
+              <img src="assets/icons/ui/user.svg" alt="" width="20" height="20">
+            </span>
+            <span class="tp-action-text">
+              <span class="tp-action-label" data-auth-label>Đăng nhập</span>
+              <span class="tp-action-value" data-auth-value>Tài khoản</span>
+            </span>
+          </a>
+
+          <a href="donhang.html?tab=cart" class="tp-action-item" data-cart-icon-target title="Xem giỏ hàng">
+            <span class="tp-action-icon">
+              <img src="assets/icons/ui/cart.svg" alt="" width="20" height="20">
+              <span class="tp-badge-count" data-cart-badge>0</span>
+            </span>
+            <span class="tp-action-text">
+              <span class="tp-action-label">Giỏ hàng</span>
+              <span class="tp-action-value" data-cart-text>0 sản phẩm</span>
+            </span>
+          </a>
+
+          <button type="button" class="tp-mobile-toggle" data-mobile-nav-toggle aria-expanded="false" aria-label="Mở menu điều hướng">
+            ☰
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <nav class="tp-nav-bar" aria-label="Điều hướng chính">
+      <div class="tp-container tp-nav-inner">
+        <button type="button" class="tp-cat-trigger" data-mega-trigger aria-expanded="false" aria-controls="tp-mega-menu">
+          <span>☰</span>
+          <span>Danh mục sản phẩm</span>
+        </button>
+
+        <ul class="tp-nav-links" data-main-nav-links>
+          <li><a href="index.html" class="tp-nav-link">Trang chủ</a></li>
+          <li><a href="sanpham.html?category=smartphone" class="tp-nav-link">Điện thoại</a></li>
+          <li><a href="sanpham.html?category=accessory" class="tp-nav-link">Phụ kiện</a></li>
+          <li><a href="sanpham.html?category=tablet" class="tp-nav-link">Tablet</a></li>
+          <li><a href="sanpham.html?q=Giảm" class="tp-nav-link">Khuyến mãi</a></li>
+          <li><a href="tintuc.html" class="tp-nav-link">Tin tức</a></li>
+          <li><a href="gioithieu.html" class="tp-nav-link">Giới thiệu</a></li>
+          <li><a href="lienhe.html" class="tp-nav-link">Liên hệ</a></li>
+        </ul>
+
+        <a href="donhang.html" class="tp-hot-deal-btn" data-magnetic title="Xem các đơn hàng đã đặt">
+          <span>📦</span>
+          <span>Đơn hàng của tôi</span>
+        </a>
+
+                <!-- Mega Menu -->
+        <div id="tp-mega-menu" class="tp-mega-menu" role="region" aria-label="Danh mục chi tiết AURIX MOBILE">
+          <div class="tp-mega-grid">
+            <div class="tp-mega-col">
+              <h4>📱 Flagship Hàng Đầu</h4>
+              <ul>
+                <li><a href="sanpham.html?brand=Apple"><span>Apple iPhone (18 / 17 / 16 / 15)</span><span class="tp-badge tp-badge-hot">Hot</span></a></li>
+                <li><a href="sanpham.html?brand=Samsung"><span>Samsung Galaxy S / Z / A</span><span class="tp-badge tp-badge-sale">AI</span></a></li>
+                <li><a href="sanpham.html?brand=Xiaomi"><span>Xiaomi 17 / 15T / 14T Series</span><span class="tp-badge tp-badge-new">Leica</span></a></li>
+                <li><a href="sanpham.html?brand=OPPO"><span>OPPO Find X9 &amp; Reno16 Series</span><span>›</span></a></li>
+                <li><a href="sanpham.html?brand=vivo"><span>vivo X300 Ultra / V70 / Y Series</span><span>›</span></a></li>
+              </ul>
+            </div>
+            <div class="tp-mega-col">
+              <h4>⚡ Thương Hiệu Nổi Bật</h4>
+              <ul>
+                <li><a href="sanpham.html?brand=HONOR"><span>HONOR 600 / 400 / Magic V / X</span><span class="tp-badge tp-badge-new">Mới</span></a></li>
+                <li><a href="sanpham.html?brand=realme"><span>realme 16 Pro / 15 Pro / C100</span><span>›</span></a></li>
+                <li><a href="sanpham.html?brand=Redmi"><span>Redmi Note 17 / Note 15 Series</span><span>›</span></a></li>
+                <li><a href="sanpham.html?brand=POCO"><span>POCO F9 Ultra / X8 Pro / M8</span><span>›</span></a></li>
+                <li><a href="sanpham.html?brand=Nothing"><span>Nothing Phone (4a) Pro / (4b)</span><span>›</span></a></li>
+              </ul>
+            </div>
+            <div class="tp-mega-col">
+              <h4>🌐 Đa Phân Khúc &amp; Màn Gập</h4>
+              <ul>
+                <li><a href="sanpham.html?brand=Motorola"><span>Motorola Razr / Edge / Moto G</span><span>›</span></a></li>
+                <li><a href="sanpham.html?brand=TECNO"><span>TECNO POVA Curve 2 &amp; Spark 50</span><span>›</span></a></li>
+                <li><a href="sanpham.html?brand=nubia"><span>nubia Air 5G &amp; V80 Series</span><span>›</span></a></li>
+                <li><a href="sanpham.html?category=foldable"><span>Điện thoại Màn hình gập</span><span class="tp-badge tp-badge-hot">VIP</span></a></li>
+                <li><a href="sanpham.html?category=5g-ready"><span>Điện thoại Hỗ trợ 5G</span><span>›</span></a></li>
+              </ul>
+            </div>
+                        <div class="tp-mega-col">
+              <h4>🧭 Tiện Ích Hệ Thống AURIX</h4>
+              <ul>
+                <li><a href="donhang.html?tab=cart"><span>Giỏ hàng &amp; Mã giảm giá AURIX500</span><span>›</span></a></li>
+                <li><a href="donhang.html"><span>Đơn hàng của tôi</span><span class="tp-badge tp-badge-new">Mới</span></a></li>
+                <li><a href="dathang.html"><span>Thanh toán &amp; Đặt hàng nhanh</span><span>›</span></a></li>
+                <li><a href="dangky.html"><span>Đăng ký thành viên AURIX</span><span>›</span></a></li>
+                <li><a href="dangnhap.html"><span>Đăng nhập tài khoản thành viên</span><span>›</span></a></li>
+                <li><a href="chinhsachbaohanh.html"><span>Chính sách bảo hành (18–36 tháng)</span><span class="tp-badge tp-badge-hot">Care+</span></a></li>
+                <li><a href="lienhe.html"><span>Trung tâm hỗ trợ &amp; Liên hệ</span><span>›</span></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <main class="tp-main" id="main-content">
+    <div class="tp-container">
+      <nav class="tp-breadcrumb" aria-label="Breadcrumb">
+        <a href="index.html">Trang chủ</a>
+        <span>/</span>
+        <a href="sanpham.html">Điện thoại &amp; Thiết bị</a>
+        <span>/</span>
+        <span id="tp-detail-bc-name" class="is-current">Chi tiết sản phẩm</span>
+      </nav>
+
+      <!-- Not Found Fallback State -->
+      <div id="tp-detail-not-found" class="tp-empty-state" hidden>
+        <div class="tp-empty-icon">⚠️</div>
+        <h1 class="tp-h2 mb-2">Không tìm thấy sản phẩm yêu cầu</h1>
+        <p class="tp-text-small mb-3">Mã sản phẩm trên thanh địa chỉ URL không tồn tại hoặc đã ngừng kinh doanh.</p>
+        <a href="sanpham.html" class="tp-btn tp-btn-primary">Quay lại danh mục sản phẩm</a>
+      </div>
+
+      <div id="tp-detail-content">
+        <section class="tp-detail-top">
+          <!-- Left: Multi-Image Gallery (Section 3.1 & 3.2) -->
+          <div>
+            <div id="tp-detail-gallery-stage" class="tp-gallery-stage" tabindex="0" data-detail-3d-stage aria-label="Bộ sưu tập hình ảnh sản phẩm">
+              <button type="button" class="tp-gallery-nav tp-gallery-prev" data-gallery-prev aria-label="Ảnh trước">‹</button>
+              <img src="assets/images/products/apple/iphone-16-pro-max/anh-dai-dien-iphone-16-pro-max-titan-sa-mac.webp" alt="Sản phẩm AURIX MOBILE" data-gallery-main class="tp-gallery-main-img">
+              <button type="button" class="tp-gallery-nav tp-gallery-next" data-gallery-next aria-label="Ảnh tiếp theo">›</button>
+              <span class="tp-gallery-counter" data-gallery-counter>1 / 1</span>
+              <div class="tp-gallery-empty-notice" data-gallery-empty-color hidden></div>
+            </div>
+            <div class="tp-thumb-list" data-gallery-thumbs aria-label="Ảnh thu nhỏ các góc"></div>
+            <p class="tp-caption text-center mt-2">💡 Chọn ảnh thu nhỏ, bấm nút ‹ › hoặc chọn màu sắc để xem bộ ảnh tương ứng.</p>
+          </div>
+
+          <!-- Right: Configuration & Purchase (Section 3.2 & Section 4) -->
+          <div>
+            <div class="d-flex align-items-center gap-2 mb-2">
+              <span id="tp-detail-brand" class="tp-badge tp-badge-new">Apple</span>
+              <span id="tp-detail-stock-badge" class="tp-badge tp-badge-instock">✓ Còn hàng chính hãng</span>
+            </div>
+            <h1 id="tp-detail-title" class="tp-h2 mb-2">iPhone 16 Pro Max</h1>
+            <div id="tp-detail-rating" class="tp-rating-pill mb-3">★★★★★ 4.9/5 (68 đánh giá)</div>
+
+            <div class="p-3 rounded mb-3" style="background:var(--tp-bg-page);border:1px solid var(--tp-border);">
+              <div class="d-flex align-items-baseline flex-wrap gap-2">
+                <span id="tp-detail-price" class="tp-price" style="font-size:1.85rem;">30.590.000đ</span>
+                <span id="tp-detail-old-price" class="tp-price-old" style="font-size:1.05rem;"></span>
+              </div>
+              <div id="tp-detail-selected-variant" class="tp-text-small fw-semibold tp-text-primary mt-1">Đang chọn: Titan Sa Mạc · 256GB</div>
+            </div>
+
+            <div class="tp-variant-group">
+              <label class="tp-label">1. Chọn màu sắc: <strong id="tp-detail-color-selected-label" class="tp-text-primary">Titan Sa Mạc</strong></label>
+              <div id="tp-detail-colors" class="tp-variant-options"></div>
+            </div>
+
+            <div class="tp-variant-group">
+              <label class="tp-label">2. Chọn phiên bản dung lượng: <strong id="tp-detail-storage-selected-label" class="tp-text-primary">256GB</strong></label>
+              <div id="tp-detail-storages" class="tp-variant-options"></div>
+            </div>
+
+            <div class="tp-variant-group d-flex align-items-center gap-3">
+              <label for="tp-detail-qty" class="tp-label mb-0">Số lượng:</label>
+              <div class="tp-qty-stepper">
+                <button type="button" id="tp-detail-qty-dec" class="tp-qty-btn" aria-label="Giảm số lượng">−</button>
+                <input type="number" id="tp-detail-qty" class="tp-qty-input" value="1" min="1" max="10" aria-label="Số lượng mua">
+                <button type="button" id="tp-detail-qty-inc" class="tp-qty-btn" aria-label="Tăng số lượng">+</button>
+              </div>
+            </div>
+
+            <div class="tp-detail-cta-row">
+              <button type="button" id="tp-detail-buy-now" class="tp-btn tp-btn-coral tp-btn-lg">
+                <span>Mua ngay · Giao nhanh 2h</span>
+              </button>
+              <button type="button" id="tp-detail-add-cart" class="tp-btn tp-btn-primary tp-btn-lg">
+                <span>🛒 Thêm vào giỏ hàng</span>
+              </button>
+            </div>
+
+            <div class="row g-2 tp-text-small">
+              <div class="col-sm-6">
+                <div class="p-2 rounded border bg-white">🛡️ Hàng chính hãng · Bảo hành theo quy định nhà sản xuất</div>
+              </div>
+              <div class="col-sm-6">
+                <div class="p-2 rounded border bg-white">📦 Kiểm tra ngoại quan nguyên seal khi nhận hàng</div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Section 3: 2-Column 6:4 Layout — Left (6 parts): THÔNG SỐ KỸ THUẬT NỔI BẬT | Right (4 parts): Cam kết sản phẩm & Bảo hành + Khuyến mãi đi kèm -->
+        <div class="tp-detail-specs-promo-layout">
+          <section id="tp-detail-featured-specs-section" class="tp-featured-specs-section" aria-labelledby="heading-featured-specs">
+            <div class="d-flex align-items-center justify-content-between flex-wrap gap-2 mb-3">
+              <div>
+                <span class="tp-badge tp-badge-new mb-1">CẤU HÌNH TÓM TẮT</span>
+                <h2 id="heading-featured-specs" class="tp-h3 mb-0">THÔNG SỐ KỸ THUẬT NỔI BẬT</h2>
+              </div>
+              <button type="button" id="tp-toggle-full-specs-btn" class="tp-btn tp-btn-secondary tp-btn-sm" aria-haspopup="dialog">
+                Xem cấu hình chi tiết
+              </button>
+            </div>
+            <div id="tp-detail-featured-specs-grid" class="tp-vertical-specs-wrap"></div>
+          </section>
+
+          <aside class="tp-detail-side-panel" aria-label="Cam kết sản phẩm, bảo hành và khuyến mãi đi kèm">
+            <!-- Card 1: Cam kết sản phẩm & Bảo hành -->
+            <section class="tp-detail-commitment-card" aria-labelledby="heading-detail-commitment">
+              <div class="d-flex align-items-center justify-content-between flex-wrap gap-2 mb-3">
+                <h2 id="heading-detail-commitment" class="tp-h3 mb-0" style="font-size:1.08rem;">🛡️ Cam kết sản phẩm &amp; Bảo hành</h2>
+                <a href="chinhsachbaohanh.html" class="tp-text-small fw-bold tp-text-primary">Xem chi tiết →</a>
+              </div>
+
+              <div class="tp-commitment-grid">
+                <div class="tp-commitment-item">
+                  <span class="tp-commitment-icon" aria-hidden="true">📱</span>
+                  <div class="tp-commitment-text">
+                    <strong>Máy mới 100% nguyên seal</strong>
+                    <span id="tp-commitment-box-accessories">Chính hãng phân phối, đầy đủ hộp, cáp sạc và phụ kiện tiêu chuẩn từ nhà sản xuất.</span>
+                  </div>
+                </div>
+
+                <div class="tp-commitment-item">
+                  <span class="tp-commitment-icon" aria-hidden="true">🛡️</span>
+                  <div class="tp-commitment-text">
+                    <strong>Bảo hành <span id="tp-detail-total-warranty">18 – 36 tháng</span></strong>
+                    <span>Bảo hành 12 tháng chính hãng + Tặng thêm <strong id="tp-detail-bonus-warranty">06 – 24 tháng</strong> mở rộng AURIX Care+ miễn phí. <a href="chinhsachbaohanh.html" class="fw-bold tp-text-primary">Xem chính sách</a></span>
+                  </div>
+                </div>
+
+                <div class="tp-commitment-item">
+                  <span class="tp-commitment-icon" aria-hidden="true">🔄</span>
+                  <div class="tp-commitment-text">
+                    <strong>1 đổi 1 trong 30 ngày đầu</strong>
+                    <span>Đổi ngay máy mới 100% nguyên seal nếu phát sinh lỗi phần cứng từ nhà sản xuất. <a href="chinhsachbaohanh.html#heading-exchange-policy" class="fw-bold tp-text-primary">Xem quy định</a></span>
+                  </div>
+                </div>
+
+                <div class="tp-commitment-item">
+                  <span class="tp-commitment-icon" aria-hidden="true">🏷️</span>
+                  <div class="tp-commitment-text">
+                    <strong>Giá đã bao gồm thuế VAT</strong>
+                    <span>Xuất hóa đơn VAT (e-Invoice) đầy đủ, hỗ trợ trả góp 0% lãi suất &amp; kiểm tra hàng khi nhận.</span>
+                  </div>
+                </div>
+              </div>
+            </section>
+
+            <!-- Card 2: Khuyến mãi & Ưu đãi đi kèm -->
+            <section class="tp-detail-promo-card" aria-labelledby="heading-detail-promo">
+              <div class="tp-detail-promo-header">
+                <div class="d-flex align-items-center gap-2">
+                  <span style="font-size:1.2rem;">🎁</span>
+                  <h2 id="heading-detail-promo" class="tp-h3 mb-0" style="font-size:1.05rem;color:var(--tp-primary);">Khuyến mãi &amp; Ưu đãi đi kèm</h2>
+                </div>
+                <span class="tp-caption">Giá và khuyến mãi áp dụng trực tiếp khi đặt mua trực tuyến hoặc tại cửa hàng</span>
+              </div>
+
+              <ul class="tp-detail-promo-list">
+                <li>
+                  <span class="tp-promo-step-badge">1</span>
+                  <div>
+                    Nhập mã <strong>AURIX500</strong> giảm ngay <strong>500.000đ</strong> (đơn từ 10 triệu) hoặc mã <strong>WELCOME200</strong> giảm <strong>200.000đ</strong> (đơn từ 3 triệu) tại giỏ hàng.
+                  </div>
+                </li>
+                <li>
+                  <span class="tp-promo-step-badge">2</span>
+                  <div>
+                    <strong>Tặng gói bảo hành mở rộng AURIX Care+:</strong> Cộng thêm tối thiểu <strong>06 – 24 tháng</strong> bảo hành phần cứng miễn phí (nâng tổng bảo hành lên <strong>18 – 36 tháng</strong>). <a href="chinhsachbaohanh.html" class="fw-bold tp-text-primary">Xem chi tiết</a>
+                  </div>
+                </li>
+                <li>
+                  <span class="tp-promo-step-badge">3</span>
+                  <div>
+                    <strong>Thu cũ đổi mới — Lên đời nhanh:</strong> Định giá máy cũ chuyên sâu chỉ trong 5 phút, trợ giá thêm đến <strong>3.000.000đ</strong>.
+                  </div>
+                </li>
+                <li>
+                  <span class="tp-promo-step-badge">4</span>
+                  <div>
+                    <strong>Ưu đãi hệ sinh thái Phụ kiện:</strong> Giảm ngay <strong>20% – 35%</strong> khi mua kèm củ sạc nhanh, tai nghe, kính cường lực hoặc ốp lưng chính hãng.
+                  </div>
+                </li>
+                <li>
+                  <span class="tp-promo-step-badge">5</span>
+                  <div>
+                    <strong>Miễn phí giao nhanh nội thành 2 giờ</strong>, hỗ trợ đồng kiểm ngoại quan nguyên seal trước khi thanh toán.
+                  </div>
+                </li>
+              </ul>
+            </section>
+          </aside>
+        </div>
+
+        <!-- Section 6: 2-Column 6:4 Split Layout — Left (6 parts): Mô tả sản phẩm & Đánh giá (Bình luận) | Right (4 parts): Video đánh giá (2-4 video) & Thông tin liên hệ / Địa chỉ cửa hàng -->
+        <div class="tp-detail-desc-side-layout">
+          <div class="tp-detail-desc-main-col">
+            <!-- Block 1: Mô tả sản phẩm & Đánh giá chi tiết -->
+            <section class="tp-surface p-4 mb-4" aria-labelledby="heading-product-desc">
+              <div class="d-flex align-items-center justify-content-between flex-wrap gap-2 mb-3">
+                <div>
+                  <span class="tp-badge tp-badge-new mb-1">ĐÁNH GIÁ CHUYÊN SÂU</span>
+                  <h2 id="heading-product-desc" class="tp-h3 mb-0">Mô tả sản phẩm &amp; Đánh giá chi tiết</h2>
+                </div>
+              </div>
+              <div id="tp-detail-description" class="tp-body mb-2"></div>
+            </section>
+
+            <!-- Block 2: Đánh giá & Bình luận sản phẩm (Ngay dưới phần mô tả điện thoại) -->
+            <section id="tp-detail-reviews-section" class="tp-surface p-4" aria-labelledby="heading-product-reviews">
+              <div class="d-flex align-items-center justify-content-between flex-wrap gap-2 mb-3">
+                <div>
+                  <span class="tp-badge tp-badge-new mb-1">KHÁCH HÀNG NHẬN XÉT</span>
+                  <h2 id="heading-product-reviews" class="tp-h3 mb-0">Đánh giá &amp; Bình luận <span id="tp-review-product-name" class="tp-text-primary"></span></h2>
+                </div>
+                <span class="tp-caption fw-semibold">✓ 100% đánh giá từ khách hàng thực tế</span>
+              </div>
+
+              <!-- Rating Summary Box -->
+              <div class="tp-review-summary-box mb-4">
+                <div class="tp-review-score-col">
+                  <div id="tp-review-avg-score" class="tp-review-big-score">4.9<span>/5</span></div>
+                  <div class="tp-review-stars-display" aria-hidden="true">★★★★★</div>
+                  <div class="tp-caption mt-1"><strong id="tp-review-total-count">68</strong> đánh giá &amp; nhận xét</div>
+                </div>
+                <div class="tp-review-bars-col" id="tp-review-bars">
+                  <div class="tp-review-bar-row">
+                    <span class="tp-review-bar-label">5 ★</span>
+                    <div class="tp-review-bar-track"><div class="tp-review-bar-fill" style="width:88%;"></div></div>
+                    <span class="tp-review-bar-pct">88%</span>
+                  </div>
+                  <div class="tp-review-bar-row">
+                    <span class="tp-review-bar-label">4 ★</span>
+                    <div class="tp-review-bar-track"><div class="tp-review-bar-fill" style="width:10%;"></div></div>
+                    <span class="tp-review-bar-pct">10%</span>
+                  </div>
+                  <div class="tp-review-bar-row">
+                    <span class="tp-review-bar-label">3 ★</span>
+                    <div class="tp-review-bar-track"><div class="tp-review-bar-fill" style="width:2%;"></div></div>
+                    <span class="tp-review-bar-pct">2%</span>
+                  </div>
+                  <div class="tp-review-bar-row">
+                    <span class="tp-review-bar-label">2 ★</span>
+                    <div class="tp-review-bar-track"><div class="tp-review-bar-fill" style="width:0%;"></div></div>
+                    <span class="tp-review-bar-pct">0%</span>
+                  </div>
+                  <div class="tp-review-bar-row">
+                    <span class="tp-review-bar-label">1 ★</span>
+                    <div class="tp-review-bar-track"><div class="tp-review-bar-fill" style="width:0%;"></div></div>
+                    <span class="tp-review-bar-pct">0%</span>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Interactive Comment & Rating Form -->
+              <form id="tp-review-form" class="tp-review-form-card mb-4" novalidate>
+                <div class="d-flex align-items-center justify-content-between flex-wrap gap-2 mb-2">
+                  <strong class="tp-text-navy" style="font-size:0.96rem;">✍️ Gửi đánh giá &amp; bình luận của bạn</strong>
+                  <div class="d-flex align-items-center gap-2">
+                    <span class="tp-caption">Chọn mức đánh giá:</span>
+                    <div id="tp-review-star-picker" class="tp-star-picker" role="radiogroup" aria-label="Chọn số sao đánh giá">
+                      <button type="button" class="tp-star-btn is-active" data-star-val="1" aria-label="1 sao">★</button>
+                      <button type="button" class="tp-star-btn is-active" data-star-val="2" aria-label="2 sao">★</button>
+                      <button type="button" class="tp-star-btn is-active" data-star-val="3" aria-label="3 sao">★</button>
+                      <button type="button" class="tp-star-btn is-active" data-star-val="4" aria-label="4 sao">★</button>
+                      <button type="button" class="tp-star-btn is-active" data-star-val="5" aria-label="5 sao">★</button>
+                    </div>
+                    <span id="tp-review-star-text" class="tp-badge tp-badge-instock" style="font-size:0.75rem;">Tuyệt vời (5/5)</span>
+                  </div>
+                </div>
+
+                <div class="tp-review-quick-tags mb-3" id="tp-review-quick-tags">
+                  <button type="button" class="tp-filter-chip" data-quick-review-tag="Máy thiết kế đẹp, màn hình hiển thị sắc nét mượt mà.">+ Màn hình sắc nét</button>
+                  <button type="button" class="tp-filter-chip" data-quick-review-tag="Hiệu năng xử lý rất nhanh, đa nhiệm ổn định và mát máy.">+ Hiệu năng mượt</button>
+                  <button type="button" class="tp-filter-chip" data-quick-review-tag="Camera chụp ảnh chân dung và chụp đêm rất ấn tượng.">+ Camera chụp đẹp</button>
+                  <button type="button" class="tp-filter-chip" data-quick-review-tag="Pin dùng rất trâu, sạc nhanh tiện lợi, giao hàng nguyên seal 2h.">+ Pin trâu · Giao nhanh 2h</button>
+                </div>
+
+                <div class="row g-2 mb-2">
+                  <div class="col-sm-6">
+                    <input type="text" id="tp-review-author" class="tp-input" placeholder="Họ và tên của bạn *" required aria-label="Họ và tên người đánh giá">
+                  </div>
+                  <div class="col-sm-6">
+                    <input type="tel" id="tp-review-phone" class="tp-input" placeholder="Số điện thoại (Tùy chọn, đã ẩn bảo mật)" aria-label="Số điện thoại">
+                  </div>
+                </div>
+
+                <div class="mb-2">
+                  <textarea id="tp-review-comment" rows="3" class="tp-textarea" placeholder="Nhập nội dung bình luận hoặc cảm nhận thực tế của bạn về sản phẩm..." required aria-label="Nội dung bình luận"></textarea>
+                </div>
+
+                <div class="d-flex align-items-center justify-content-between flex-wrap gap-2">
+                  <span class="tp-caption">💡 Bình luận của bạn sẽ được hiển thị ngay bên dưới.</span>
+                  <button type="submit" class="tp-btn tp-btn-primary tp-btn-sm" style="padding:0.5rem 1.15rem;">
+                    Gửi đánh giá &amp; bình luận →
+                  </button>
+                </div>
+              </form>
+
+              <!-- Comments List -->
+              <div id="tp-review-list" class="tp-review-list"></div>
+            </section>
+          </div>
+
+          <!-- Right Column (4 parts): Video Reviews (2-4 videos) + Contact Phone & Store Addresses -->
+          <aside class="tp-detail-side-panel" aria-label="Video đánh giá sản phẩm và thông tin liên hệ cửa hàng">
+            <!-- Card 1: Khung Video Đánh giá / Review sản phẩm (4 video) -->
+            <section class="tp-detail-video-card" aria-labelledby="heading-detail-videos">
+              <div class="d-flex align-items-center justify-content-between flex-wrap gap-2 mb-3">
+                <div>
+                  <span class="tp-badge tp-badge-hot mb-1">🎬 VIDEO REVIEW</span>
+                  <h2 id="heading-detail-videos" class="tp-h3 mb-0" style="font-size:1.06rem;">Video đánh giá &amp; Review thực tế</h2>
+                </div>
+                <span class="tp-badge tp-badge-new" id="tp-video-count-badge">3 Video &amp; Review</span>
+              </div>
+
+              <!-- Featured Active Video Stage -->
+              <div id="tp-detail-video-stage" class="tp-video-stage mb-3"></div>
+
+              <!-- Playlist of 4 Review Videos -->
+              <div id="tp-detail-video-list" class="tp-video-playlist"></div>
+            </section>
+
+            <!-- Card 2: Thông tin Liên hệ & Hệ thống Cửa hàng AURIX MOBILE -->
+            <section class="tp-detail-contact-card" aria-labelledby="heading-detail-contact">
+              <div class="tp-detail-contact-header">
+                <div class="d-flex align-items-center gap-2">
+                  <span style="font-size:1.25rem;">📞</span>
+                  <div>
+                    <h2 id="heading-detail-contact" class="tp-h3 mb-0" style="font-size:1.05rem;color:var(--tp-navy);">Liên hệ Tư vấn &amp; Hệ thống Cửa hàng</h2>
+                    <span class="tp-caption">Hỗ trợ giữ máy nguyên seal tại cửa hàng &amp; giao nhanh 2h</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="tp-detail-contact-body">
+                <!-- Hotline Box -->
+                <div class="tp-hotline-highlight-box mb-3">
+                  <div class="d-flex align-items-center justify-content-between flex-wrap gap-2">
+                    <div>
+                      <span class="tp-caption fw-bold text-uppercase" style="color:var(--tp-primary);letter-spacing:0.04em;">Hotline / Zalo tư vấn trực tiếp</span>
+                      <a href="tel:0941054053" class="tp-hotline-number">0941054053</a>
+                      <span class="tp-caption d-block">Hoạt động 08:00 – 22:00 (Cả Chủ nhật &amp; Ngày lễ)</span>
+                    </div>
+                    <div class="d-flex flex-column gap-1">
+                      <a href="tel:0941054053" class="tp-btn tp-btn-primary tp-btn-sm" style="padding:0.4rem 0.85rem;">📞 Gọi ngay</a>
+                      <button type="button" class="tp-btn tp-btn-secondary tp-btn-sm" id="tp-copy-hotline-btn" data-copy-phone="0941054053" style="padding:0.32rem 0.85rem;font-size:0.76rem;">📋 Sao chép số</button>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- 3 Store Branches -->
+                <div class="tp-caption fw-bold tp-text-navy mb-2">📍 HỆ THỐNG 3 CHI NHÁNH AURIX MOBILE CHÍNH HÃNG:</div>
+                <ul class="tp-store-branch-list">
+                  <li class="tp-store-branch-item">
+                    <span class="tp-store-branch-badge">TP.HCM</span>
+                    <div class="tp-store-branch-info">
+                      <strong>12 Nguyễn Văn Bảo, TP.HCM</strong>
+                      <span><em class="tp-store-stock-dot">●</em> Còn hàng nguyên seal · Giao nhanh 2h · ĐT: <a href="tel:0941054053" class="fw-bold tp-text-primary">0941054053</a></span>
+                    </div>
+                  </li>
+                  <li class="tp-store-branch-item">
+                    <span class="tp-store-branch-badge">Đà Nẵng</span>
+                    <div class="tp-store-branch-info">
+                      <strong>Số 20 Đường số 53, Đà Nẵng</strong>
+                      <span><em class="tp-store-stock-dot">●</em> Còn hàng nguyên seal · Nhận tại shop · ĐT: <a href="tel:0941054053" class="fw-bold tp-text-primary">0941054053</a></span>
+                    </div>
+                  </li>
+                  <li class="tp-store-branch-item">
+                    <span class="tp-store-branch-badge">Hà Nội</span>
+                    <div class="tp-store-branch-info">
+                      <strong>10 Đường Nguyễn Văn Dung, Hà Nội</strong>
+                      <span><em class="tp-store-stock-dot">●</em> Còn hàng nguyên seal · Giao nhanh 2h · ĐT: <a href="tel:0941054053" class="fw-bold tp-text-primary">0941054053</a></span>
+                    </div>
+                  </li>
+                </ul>
+
+                <div class="tp-store-perks-strip mt-3">
+                  <span>🚗 Miễn phí gửi xe ô tô / xe máy</span>
+                  <span>💳 Trả góp 0% &amp; Quẹt thẻ tại quầy</span>
+                </div>
+              </div>
+            </section>
+          </aside>
+        </div>
+
+        <!-- Related Products -->
+        <section class="tp-section" aria-labelledby="heading-related">
+          <h2 id="heading-related" class="tp-section-title mb-3">Sản phẩm tương tự bạn có thể thích</h2>
+          <div id="tp-detail-related-grid" class="tp-product-grid-4"></div>
+        </section>
+      </div>
+    </div>
+
+    <!-- Effect 35: Compact Floating Sticky Purchase Bar (Requirement 1 / Hình 1) -->
+    <div id="tp-sticky-purchase-bar" class="tp-sticky-purchase" role="region" aria-label="Thanh mua hàng nhanh khi cuộn">
+      <div class="tp-sticky-purchase-inner">
+        <div class="tp-sticky-product-meta">
+          <img id="tp-sticky-thumb" src="assets/images/placeholders/placeholder-default.svg" alt="" class="tp-sticky-thumb" width="46" height="46">
+          <div class="tp-sticky-title-wrap">
+            <strong id="tp-sticky-title" class="tp-sticky-title">iPhone 18 Pro Max</strong>
+            <span id="tp-sticky-variant" class="tp-sticky-variant">12GB 256GB-Đỏ Rượu Vang</span>
+          </div>
+        </div>
+        <div class="tp-sticky-actions-group">
+          <div class="tp-sticky-price-col">
+            <span id="tp-sticky-price" class="tp-sticky-price">41.990.000đ</span>
+            <span id="tp-sticky-old-price" class="tp-sticky-old-price">45.990.000đ</span>
+          </div>
+          <button type="button" id="tp-sticky-installment-btn" class="tp-sticky-installment-box" title="Mua trả góp 0% lãi suất">
+            <span class="tp-sticky-installment-pill">6 tháng</span>
+            <span class="tp-sticky-installment-title">Trả góp 0%</span>
+            <span id="tp-sticky-installment-sub" class="tp-sticky-installment-sub">4.898.000đ/tháng</span>
+          </button>
+          <button type="button" id="tp-sticky-buy-btn" class="tp-sticky-buy-now-btn">Mua Ngay</button>
+          <button type="button" id="tp-sticky-add-btn" class="tp-sticky-cart-icon-btn" aria-label="Thêm vào giỏ hàng" title="Thêm vào giỏ hàng">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <circle cx="9" cy="21" r="1.5"></circle>
+              <circle cx="20" cy="21" r="1.5"></circle>
+              <path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path>
+              <line x1="12" y1="8.5" x2="12" y2="13.5"></line>
+              <line x1="9.5" y1="11" x2="14.5" y2="11"></line>
+            </svg>
+          </button>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- Newsletter Promotional Strip (Matches bottom of image_7c1303.png) -->
+  <section class="tp-newsletter-strip" aria-label="Đăng ký nhận bản tin khuyến mãi">
+    <div class="tp-container tp-newsletter-inner">
+      <div class="tp-newsletter-brand">
+                <div class="tp-gift-badge" aria-hidden="true" style="padding:8px;">
+          <img src="assets/images/logo/favicon.svg" alt="AURIX Icon" width="38" height="38" style="border-radius:50%;">
+        </div>
+        <div>
+          <h2 class="tp-h3 text-white mb-0" style="color:#FFFFFF;">Đăng ký ngay</h2>
+          <p class="mb-0" style="color:#DDEEFF;font-weight:700;font-size:1.05rem;">Nhận ưu đãi đặc biệt!</p>
+        </div>
+      </div>
+
+      <form class="tp-newsletter-form" data-newsletter-form aria-label="Form đăng ký email nhận ưu đãi">
+        <input type="email" name="newsletterEmail" placeholder="✉ Nhập email của bạn..." required aria-label="Nhập email của bạn">
+        <button type="submit" class="tp-btn tp-btn-primary tp-btn-sm" style="padding:0.52rem 1rem;flex-shrink:0;">Đăng ký</button>
+      </form>
+
+      <div class="tp-newsletter-perks">
+        <span>🏷️ Giảm giá độc quyền</span>
+        <span>📱 Thông tin sản phẩm mới</span>
+        <span>🎂 Ưu đãi sinh nhật</span>
+      </div>
+    </div>
+  </section>
+
+    <!-- Shared Footer -->
+  <footer class="tp-footer" role="contentinfo">
+    <div class="tp-container">
+      <div class="tp-footer-grid">
+        <div>
+          <img src="assets/images/logo/logo-aurix-dark.svg" alt="AURIX MOBILE Logo" width="220" height="48" class="mb-3">
+          <p class="mb-3" style="color:#B4C4E0;line-height:1.65;">
+            <strong>AURIX MOBILE</strong> — Hệ thống bán lẻ điện thoại thông minh và thiết bị công nghệ chính hãng. Trải nghiệm mua sắm hiện đại, minh bạch thông số kỹ thuật và dịch vụ tận tâm.
+          </p>
+          <div class="d-flex gap-2">
+            <a href="sanpham.html?category=smartphone" class="tp-btn tp-btn-ghost tp-btn-sm" style="background:rgba(255,255,255,0.08);color:#FFF;border:none;">Sản phẩm</a>
+            <a href="tintuc.html" class="tp-btn tp-btn-ghost tp-btn-sm" style="background:rgba(255,255,255,0.08);color:#FFF;border:none;">Tin công nghệ</a>
+            <a href="sodotrang.html" class="tp-btn tp-btn-ghost tp-btn-sm" style="background:rgba(255,255,255,0.08);color:#FFF;border:none;">Sitemap</a>
+          </div>
+        </div>
+
+        <div>
+          <h3 class="tp-footer-title">Danh mục sản phẩm</h3>
+          <ul class="tp-footer-links">
+            <li><a href="sanpham.html?category=smartphone">Điện thoại iPhone / Galaxy / Xiaomi</a></li>
+            <li><a href="sanpham.html?category=flagship">Flagship Cao cấp chính hãng</a></li>
+            <li><a href="sanpham.html?category=foldable">Điện thoại Màn hình gập</a></li>
+            <li><a href="sanpham.html?q=Giảm">Sản phẩm đang Khuyến mãi</a></li>
+            <li><a href="tintuc.html">Chuyên trang Tin tức công nghệ</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h3 class="tp-footer-title">Hỗ trợ &amp; Dịch vụ</h3>
+          <ul class="tp-footer-links">
+            <li><a href="gioithieu.html">Giới thiệu thương hiệu AURIX MOBILE</a></li>
+            <li><a href="chinhsachbaohanh.html">Chính sách bảo hành (18 – 36 tháng)</a></li>
+            <li><a href="donhang.html?tab=cart">Giỏ hàng &amp; Chính sách vận chuyển</a></li>
+            <li><a href="dathang.html">Hướng dẫn thanh toán &amp; Trả góp 0%</a></li>
+            <li><a href="lienhe.html">Trung tâm hỗ trợ &amp; Liên hệ</a></li>
+            <li><a href="sodotrang.html">Sơ đồ cấu trúc Website (Sitemap)</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h3 class="tp-footer-title">Kênh hỗ trợ trực tuyến</h3>
+          <ul class="tp-footer-links">
+            <li>💬 Gửi yêu cầu trực tuyến tại <a href="lienhe.html" class="text-white fw-bold">Trang Liên hệ</a></li>
+            <li>🛡️ <a href="chinhsachbaohanh.html" class="text-white fw-bold">Chính sách bảo hành mở rộng đến 36 tháng</a></li>
+            <li>🔄 <a href="chinhsachbaohanh.html#heading-exchange-policy">Hỗ trợ 1 đổi 1 trong 30 ngày theo quy định</a></li>
+            <li>👤 Phụ trách phát triển: <strong class="text-white">Trương Đình Khôi</strong></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="tp-footer-bottom">
+        <div>© 2026 <strong>AURIX MOBILE</strong>. Phát triển bởi <strong>Trương Đình Khôi</strong>.</div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Local Offline Vendor Libraries (Section 8 & PDF Requirement 10) -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/bootstrap.bundle.min.js"></script>
+
+  <!-- AURIX MOBILE Modular JavaScript Architecture -->
+  <script src="js/config.js"></script>
+  <script src="js/data/categories.js"></script>
+  <script src="js/data/products.js"></script>
+  <script src="js/data/video-reviews.js"></script>
+  <script src="js/data/news.js"></script>
+  <script src="js/data/demo-users.js"></script>
+
+  <script src="js/core/dom.js"></script>
+  <script src="js/core/events.js"></script>
+  <script src="js/core/error-handler.js"></script>
+  <script src="js/core/navigation.js"></script>
+  <script src="js/core/page-init.js"></script>
+
+  <script src="js/services/storage-service.js"></script>
+  <script src="js/services/image-resolver.js"></script>
+  <script src="js/services/product-validator.js"></script>
+  <script src="js/services/product-repository.js"></script>
+  <script src="js/services/product-loader.js"></script>
+  <script src="js/services/product-service.js"></script>
+  <script src="js/services/cart-service.js"></script>
+  <script src="js/services/wishlist-service.js"></script>
+  <script src="js/services/auth-service.js"></script>
+  <script src="js/services/order-service.js"></script>
+  <script src="js/services/search-service.js"></script>
+  <script src="js/services/news-service.js"></script>
+
+  <script src="js/components/toast.js"></script>
+  <script src="js/components/modal.js"></script>
+  <script src="js/components/mega-menu.js"></script>
+  <script src="js/components/search-overlay.js"></script>
+  <script src="js/components/product-card.js"></script>
+  <script src="js/components/product-gallery.js"></script>
+  <script src="js/components/quick-view.js"></script>
+  <script src="js/components/cart-drawer.js"></script>
+  <script src="js/components/header.js"></script>
+  <script src="js/components/footer.js"></script>
+  <script src="js/components/accordion.js"></script>
+  <script src="js/components/carousel.js"></script>
+  <script src="js/components/pagination.js"></script>
+
+  <script src="js/motion/motion-fallbacks.js"></script>
+  <script src="js/motion/hero-reveal.js"></script>
+  <script src="js/motion/scroll-reveal.js"></script>
+  <script src="js/motion/parallax.js"></script>
+  <script src="js/motion/product-3d.js"></script>
+  <script src="js/motion/product-card-motion.js"></script>
+  <script src="js/motion/magnetic-button.js"></script>
+  <script src="js/motion/page-transition.js"></script>
+  <script src="js/motion/shared-element.js"></script>
+  <script src="js/motion/cursor.js"></script>
+  <script src="js/motion/counters.js"></script>
+  <script src="js/motion/cart-motion.js"></script>
+  <script src="js/motion/loading-motion.js"></script>
+  <script src="js/motion/motion-manager.js"></script>
+  <script src="js/pages/product-detail-page.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

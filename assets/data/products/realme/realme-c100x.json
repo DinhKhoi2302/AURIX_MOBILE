@@ -1,0 +1,322 @@
+{
+  "id": "realme-c100x",
+  "brand": "realme",
+  "brandId": "realme",
+  "parentGroupId": "realme",
+  "model": "realme C100x",
+  "series": "realme C",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "entry-level"
+  ],
+  "status": "needs_verification",
+  "featuredOrder": null,
+  "bestseller": false,
+  "rating": 4.8,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Mới",
+      "type": "new"
+    }
+  ],
+  "overview": {
+    "releaseDate": "2026",
+    "segment": "Tầm trung & Phổ thông",
+    "description": "realme C100x mang kết nối 5G tốc độ cao của vi xử lý Dimensity 6300 (6nm) kết hợp cùng viên pin lớn 7.000 mAh sạc nhanh 45W, màn hình 6,8 inch 120Hz và chuẩn độ bền kháng nước IP68/IP69 xuống phân khúc phổ thông.",
+    "highlights": [
+      "Vi xử lý MediaTek Dimensity 6300 5G (6nm) kết nối mạng 5G nhanh chóng, ổn định",
+      "Pin lớn 7.000 mAh đi kèm sạc nhanh SuperVOOC 45W và chuẩn kháng nước IP68/IP69",
+      "Màn hình đục lỗ 6,8 inch tần số quét 120Hz mượt mà và camera chính 50MP AI"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": null,
+    "originalPrice": null,
+    "promotionPrice": null,
+    "priceUpdatedAt": "2026-11-01",
+    "priceVerified": false
+  },
+  "variants": [
+    {
+      "sku": "AUR-REA-C100X-RAM-STD-01",
+      "color": "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)",
+      "colorHex": "#102347",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "price": null,
+      "originalPrice": null,
+      "stockStatus": "needs_verification",
+      "images": [
+        "assets/images/placeholders/placeholder-default.svg"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "IPS LCD 120Hz",
+    "size": "6,8 inch",
+    "resolution": "HD+ (1570 x 720 pixel)",
+    "refreshRate": "120Hz",
+    "brightness": "Độ sáng đỉnh 1.000 nit, chế độ bảo vệ mắt AI Eye Comfort",
+    "hdr": "Chuẩn dải màu rộng DCI-P3",
+    "protection": "Kính cường lực bảo vệ cao cấp",
+    "features": [
+      "Tần số quét cao mượt mà",
+      "Bảo vệ mắt chống ánh sáng xanh"
+    ]
+  },
+  "performance": {
+    "chipset": "MediaTek Dimensity 6300 5G (tiến trình TSMC 6nm)",
+    "cpu": "CPU 8 nhân (2 nhân Cortex-A76 xung nhịp 2.4GHz + 6 nhân Cortex-A55 xung nhịp 2.0GHz)",
+    "gpu": "ARM Mali-G57 MC2",
+    "ram": [
+      "6GB"
+    ],
+    "storage": [
+      "128GB"
+    ],
+    "operatingSystem": "realme UI 7.0 (Android 16)",
+    "uiVersion": "realme UI",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Chính AI (ƒ/1.8) + Cảm biến phụ",
+    "ultraWide": null,
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": false,
+    "videoRecording": [
+      "Quay video 1080p Full HD ở 30 fps; 720p ở 30 fps"
+    ],
+    "aiFeatures": [
+      "Chụp đêm Nightscape, Chân dung xóa phông AI, Chụp dưới nước Underwater Mode"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "8MP (ƒ/2.0)",
+    "features": [
+      "Camera trước 8MP (khẩu độ ƒ/2.0), hỗ trợ làm đẹp AI và quay video 1080p@30fps"
+    ],
+    "videoRecording": [
+      "Quay video sắc nét chuẩn HD/FHD/4K"
+    ]
+  },
+  "battery": {
+    "capacity": "7.000 mAh",
+    "wiredCharging": "Sạc nhanh SuperVOOC 45W",
+    "wirelessCharging": "Không hỗ trợ",
+    "reverseCharging": "Tiêu chuẩn",
+    "chargingTechnology": "Sạc nhanh SuperVOOC 45W qua cổng USB Type-C | Không hỗ trợ sạc không dây"
+  },
+  "connectivity": {
+    "sim": [
+      "2 Nano SIM (hoặc 1 Nano SIM + 1 thẻ nhớ microSD)"
+    ],
+    "network": [
+      "5G Sub-6GHz Dual SIM"
+    ],
+    "wifi": "Wi-Fi 5 băng tần kép (2.4GHz / 5GHz)",
+    "bluetooth": "Bluetooth 5.3",
+    "gps": [
+      "GPS, GLONASS, Galileo, Beidou"
+    ],
+    "usb": "USB Type-C 2.0",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "166,2 x 77,9 x 8,4 mm",
+    "weight": "210 gram",
+    "materials": [
+      "Khung viền phẳng hợp chất gia cường ArmorShell",
+      "Mặt lưng nhám mờ chống trầy xước"
+    ],
+    "waterResistance": "Kháng nước & bụi IP68/IP69",
+    "availableColors": [
+      "Tiêu chuẩn (Chờ xác minh mã màu/bộ nhớ)"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa ngoài siêu âm lượng 300% UltraBoom",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "realme C",
+    "realme",
+    "Phân phối tại Việt Nam"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền realme tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/placeholders/placeholder-default.svg",
+    "hasAvatarNamed": false,
+    "gallery": [
+      "assets/images/placeholders/placeholder-default.svg"
+    ],
+    "byColor": {},
+    "bySection": {
+      "performance": "assets/images/placeholders/placeholder-default.svg"
+    }
+  },
+  "metadata": {
+    "sources": [
+      "https://www.thegioididong.com/dtdd-realme",
+      "https://www.realme.com/vn/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "pending_verification",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "verbatimDescription": [
+    "realme C100x là phiên bản hỗ trợ mạng 5G trong dòng C100 Series, đáp ứng nhu cầu kết nối tốc độ cao với chi phí hợp lý. Máy được trang bị vi xử lý MediaTek Dimensity 6300 5G tiến trình 6nm tiết kiệm điện năng.",
+    "Điểm tựa năng lượng của thiết bị là viên pin 7.000 mAh kết hợp sạc nhanh 45W, cho phép người dùng bật dữ liệu di động 5G và định vị GPS liên tục suốt cả ngày dài mà không lo cạn pin.",
+    "Màn hình đục lỗ 6,8 inch tần số quét 120Hz có độ sáng cao 1.000 nit và hỗ trợ cảm ứng dưới mưa, giúp thao tác vuốt chạm luôn mượt mà trong mọi hoàn cảnh.",
+    "Cấu trúc chống sốc ArmorShell cùng chuẩn kháng bụi nước IP66/IP68/IP69 bảo vệ máy toàn diện trước va đập và nước mưa.",
+    "Hệ thống camera 50MP AI phía sau và camera selfie 8MP phía trước đáp ứng tốt nhu cầu chụp ảnh đời thường, quét mã QR và gọi video trực tuyến."
+  ],
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "6,8 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "IPS LCD 120Hz"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "HD+ (1570 x 720 pixel)"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "MediaTek Dimensity 6300 5G (6nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "6GB / 8GB (Mở rộng RAM ảo 8GB)"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "128GB / 256GB (Hỗ trợ thẻ nhớ)"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính AI (ƒ/1.8) + Cảm biến phụ"
+    },
+    {
+      "label": "Camera trước",
+      "value": "8MP (ƒ/2.0)"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "7.000 mAh"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc nhanh SuperVOOC 45W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "realme UI 7.0 (Android 16)"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G Sub-6GHz Dual SIM"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "Kháng nước & bụi IP68/IP69"
+    }
+  ],
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "IPS LCD 120Hz độ sáng cao, hỗ trợ cảm ứng dưới mưa Rainwater Smart Touch",
+      "Kích thước màn hình": "6,8 inch",
+      "Độ phân giải màn hình": "1570 x 720 pixel (HD+)",
+      "Tần số quét": "120Hz",
+      "Kiểu màn hình": "Màn hình đục lỗ hiện đại, bảo vệ bởi kính cường lực ArmorShell",
+      "Tính năng màn hình": "Độ sáng đỉnh 1.000 nit, chế độ bảo vệ mắt AI Eye Comfort"
+    },
+    "Camera sau": {
+      "Camera sau": "Camera chính 50MP AI (khẩu độ ƒ/1.8, PDAF) + Cảm biến phụ đo chiều sâu",
+      "Quay video": "Quay video 1080p Full HD ở 30 fps; 720p ở 30 fps",
+      "Tính năng camera": "Chụp đêm Nightscape, Chân dung xóa phông AI, Chụp dưới nước Underwater Mode"
+    },
+    "Camera trước": {
+      "Camera trước": "Camera trước 8MP (khẩu độ ƒ/2.0), hỗ trợ làm đẹp AI và quay video 1080p@30fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "MediaTek Dimensity 6300 5G (tiến trình TSMC 6nm)",
+      "Loại CPU": "CPU 8 nhân (2 nhân Cortex-A76 xung nhịp 2.4GHz + 6 nhân Cortex-A55 xung nhịp 2.0GHz)",
+      "GPU": "ARM Mali-G57 MC2"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "6GB / 8GB LPDDR4X (hỗ trợ mở rộng RAM động thêm tối đa 8GB)",
+      "Bộ nhớ trong": "128GB / 256GB (hỗ trợ thẻ nhớ microSD)"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "7.000 mAh (Pin Titan mật độ năng lượng cao)",
+      "Công nghệ sạc": "Sạc nhanh SuperVOOC 45W qua cổng USB Type-C | Không hỗ trợ sạc không dây",
+      "Cổng sạc": "USB Type-C 2.0"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "realme UI 7.0 (Android 16)",
+      "Công nghệ - Tiện ích": "AI Smart Loop, Mini Capsule, Đẩy nước khỏi loa SonicWave, Ultra Volume 300%",
+      "Tiện ích khác": "Kháng bụi nước chuẩn IP66/IP68/IP69 kết hợp khung ArmorShell",
+      "Thời điểm ra mắt": "2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G Sub-6GHz (SA/NSA), Dual 5G Standby",
+      "Thẻ SIM": "2 Nano SIM (hoặc 1 Nano SIM + 1 thẻ nhớ microSD)",
+      "Wi-Fi": "Wi-Fi 5 băng tần kép (2.4GHz / 5GHz)",
+      "Bluetooth": "Bluetooth 5.3",
+      "Công nghệ NFC": "Có hỗ trợ (tùy thị trường)",
+      "GPS": "GPS, GLONASS, Galileo, Beidou"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung viền phẳng hợp chất gia cường ArmorShell",
+      "Chất liệu mặt lưng": "Mặt lưng nhám mờ chống trầy xước",
+      "Kích thước": "166,2 x 77,9 x 8,4 mm",
+      "Trọng lượng": "210 gram",
+      "Chỉ số kháng nước, bụi": "Chuẩn IP66 / IP68 / IP69"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Loa ngoài siêu âm lượng 300% UltraBoom",
+      "Cảm biến vân tay": "Cảm biến vân tay tích hợp phím nguồn cạnh bên & Mở khóa khuôn mặt AI",
+      "Các loại cảm biến": "Gia tốc kế, Cảm biến ánh sáng, Cảm biến tiệm cận, La bàn điện tử"
+    }
+  }
+}

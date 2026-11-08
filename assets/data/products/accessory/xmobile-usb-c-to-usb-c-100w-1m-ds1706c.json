@@ -1,0 +1,143 @@
+{
+  "id": "xmobile-usb-c-to-usb-c-100w-1m-ds1706c",
+  "docCode": "PK-CS009-DS1706C",
+  "model": "Cáp Sạc Xmobile USB-C to USB-C 100W 1m DS1706C",
+  "brand": "Xmobile",
+  "brandId": "xmobile",
+  "parentGroupId": "xmobile",
+  "series": "Cáp sạc",
+  "subCategory": "cap-sac",
+  "category": "accessory",
+  "categoryIds": [
+    "accessory",
+    "cap-sac"
+  ],
+  "status": "active_listing",
+  "overview": {
+    "segment": "Cáp sạc",
+    "highlights": [
+      "100W",
+      "USB-C to USB-C",
+      "1.0 m"
+    ],
+    "description": "Cáp sạc chuẩn USB-C công suất cao 100W với mức giá phổ thông dễ tiếp cận. Đáp ứng toàn diện nhu cầu sạc nhanh hàng ngày cho điện thoại Android, máy tính bảng và laptop văn phòng. Kiểu dáng gọn gàng, dây dẻo mềm dễ uốn nắn, hỗ trợ đồng bộ dữ liệu hình ảnh, tệp tin nhanh chóng giữa các thiết bị."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 110000,
+    "originalPrice": null,
+    "priceVerified": true
+  },
+  "images": {
+    "primary": "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/anh-dai-dien-xmobile-usb-c-to-usb-c-100w-1m-ds1706c-trang.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/anh-dai-dien-xmobile-usb-c-to-usb-c-100w-1m-ds1706c-trang.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/can-canh-dau-cam-type-c-trang.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/can-canh-day-cap-boc-du-trang.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/dau-cap-type-c-thang-dung-trang.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/day-cap-chieu-dai-1m-dat-tren-ban-trang.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/ket-noi-laptop-voi-dien-thoai-trang.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/ket-noi-pin-sac-du-phong-voi-dien-thoai-trang.webp"
+    ],
+    "byColor": {
+      "Trắng": [
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/anh-dai-dien-xmobile-usb-c-to-usb-c-100w-1m-ds1706c-trang.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/can-canh-dau-cam-type-c-trang.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/can-canh-day-cap-boc-du-trang.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/dau-cap-type-c-thang-dung-trang.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/day-cap-chieu-dai-1m-dat-tren-ban-trang.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/ket-noi-laptop-voi-dien-thoai-trang.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/ket-noi-pin-sac-du-phong-voi-dien-thoai-trang.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/can-canh-dau-cam-type-c-trang.webp",
+      "screen": "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/can-canh-day-cap-boc-du-trang.webp",
+      "performance": "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/dau-cap-type-c-thang-dung-trang.webp",
+      "camera": "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/day-cap-chieu-dai-1m-dat-tren-ban-trang.webp",
+      "battery": "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/ket-noi-pin-sac-du-phong-voi-dien-thoai-trang.webp",
+      "feature": "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/ket-noi-laptop-voi-dien-thoai-trang.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/can-canh-dau-cam-type-c-trang.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/can-canh-day-cap-boc-du-trang.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/dau-cap-type-c-thang-dung-trang.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/day-cap-chieu-dai-1m-dat-tren-ban-trang.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/ket-noi-laptop-voi-dien-thoai-trang.webp",
+      "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/ket-noi-pin-sac-du-phong-voi-dien-thoai-trang.webp"
+    ]
+  },
+  "groupedSpecifications10": {
+    "Thông số kỹ thuật chi tiết": {
+      "Thương hiệu": "Xmobile",
+      "Loại cáp": "USB-C to USB-C",
+      "Cổng kết nối": "USB-C sang USB-C",
+      "Công suất sạc tối đa": "100W (20V/5A)",
+      "Chiều dài dây": "1.0 m",
+      "Tốc độ truyền dữ liệu": "480 Mbps",
+      "Chất liệu dây": "Nhựa TPE cao cấp đàn hồi tốt, an toàn",
+      "Màu sắc": "Trắng"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Thương hiệu",
+      "value": "Xmobile"
+    },
+    {
+      "label": "Loại cáp",
+      "value": "USB-C to USB-C"
+    },
+    {
+      "label": "Cổng kết nối",
+      "value": "USB-C sang USB-C"
+    },
+    {
+      "label": "Công suất sạc tối đa",
+      "value": "100W (20V/5A)"
+    },
+    {
+      "label": "Chiều dài dây",
+      "value": "1.0 m"
+    },
+    {
+      "label": "Tốc độ truyền dữ liệu",
+      "value": "480 Mbps"
+    },
+    {
+      "label": "Chất liệu dây",
+      "value": "Nhựa TPE cao cấp đàn hồi tốt, an toàn"
+    },
+    {
+      "label": "Màu sắc",
+      "value": "Trắng"
+    }
+  ],
+  "verbatimDescription": [
+    "Cáp sạc chuẩn USB-C công suất cao 100W với mức giá phổ thông dễ tiếp cận. Đáp ứng toàn diện nhu cầu sạc nhanh hàng ngày cho điện thoại Android, máy tính bảng và laptop văn phòng. Kiểu dáng gọn gàng, dây dẻo mềm dễ uốn nắn, hỗ trợ đồng bộ dữ liệu hình ảnh, tệp tin nhanh chóng giữa các thiết bị."
+  ],
+  "variants": [
+    {
+      "sku": "PK-CS009-DS1706C-TRANG-TIEU-CHUAN",
+      "color": "Trắng",
+      "colorHex": "#F8FAFC",
+      "ram": null,
+      "storage": "Tiêu chuẩn",
+      "rom": null,
+      "price": 110000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/anh-dai-dien-xmobile-usb-c-to-usb-c-100w-1m-ds1706c-trang.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/can-canh-dau-cam-type-c-trang.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/can-canh-day-cap-boc-du-trang.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/dau-cap-type-c-thang-dung-trang.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/day-cap-chieu-dai-1m-dat-tren-ban-trang.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/ket-noi-laptop-voi-dien-thoai-trang.webp",
+        "assets/images/products/accessory/cap-sac/xmobile-usb-c-to-usb-c-100w-1m-ds1706c/ket-noi-pin-sac-du-phong-voi-dien-thoai-trang.webp"
+      ]
+    }
+  ]
+}

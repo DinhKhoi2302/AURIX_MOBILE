@@ -1,0 +1,630 @@
+{
+  "id": "galaxy-z-fold8",
+  "brand": "Samsung",
+  "brandId": "samsung",
+  "parentGroupId": "samsung",
+  "model": "Samsung Galaxy Z Fold8",
+  "series": "Galaxy Z (Màn hình gập)",
+  "category": "smartphone",
+  "categoryIds": [
+    "smartphone",
+    "foldable",
+    "flagship"
+  ],
+  "status": "active_listing",
+  "featuredOrder": null,
+  "bestseller": true,
+  "rating": 4.9,
+  "reviewCount": 68,
+  "badges": [
+    {
+      "text": "Giảm giá",
+      "type": "sale"
+    }
+  ],
+  "overview": {
+    "releaseDate": "Năm 2026",
+    "segment": "Flagship Cao cấp",
+    "description": "Samsung Galaxy Z Fold8 mang đến thiết kế gập kiểu dáng Passport hoàn toàn mới với trọng lượng siêu nhẹ chỉ 201 gram, mở ra màn hình chính 7,6 inch tỷ lệ ngang 4:3 lý tưởng ngay từ lần mở đầu tiên mà không cần xoay máy. Trang bị chip Snapdragon 8 Elite Gen 5 (3nm), bộ đôi camera sau 50MP + 50MP cùng viên pin Silicon-Carbon 4.800 mAh sạc nhanh 45W, đây là mẫu điện thoại gập gọn nhẹ và thực dụng bậc nhất năm 2026.",
+    "highlights": [
+      "Gập 7,6\" 4:3 & Phụ 5,5\"",
+      "Snapdragon 8 Elite Gen 5",
+      "Camera kép 50MP + 50MP",
+      "Pin Si/C 4.800 mAh · Sạc 45W · 201g"
+    ],
+    "officialDistribution": "Model có niêm yết trong kết quả tra cứu danh mục bán lẻ tại Việt Nam (01/11/2026). Cần kiểm tra tồn kho thực tế theo từng chi nhánh/màu/dung lượng trước khi bật in_stock=true."
+  },
+  "pricing": {
+    "currency": "VND",
+    "startingPrice": 39790000,
+    "originalPrice": 46990000,
+    "priceVerified": true
+  },
+  "variants": [
+    {
+      "sku": "DT022-SSZFOLD8-TIM-12GB-256GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 39790000,
+      "originalPrice": 46990000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-z-fold8/anh-dai-dien-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/mat-truoc-mat-sau-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/mat-lung-goc-nghieng-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/mat-lung-khi-gap-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/canh-ben-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/man-hinh-phu-goc-nghieng-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/he-thong-camera-50mp-zoom-10x-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/man-hinh-chinh-khi-mo-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/man-hinh-phu-khi-gap-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/thiet-ke-mong-4-5mm-nhe-201g-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/Galaxy-Z-Fold8.jpg",
+        "assets/images/products/samsung/galaxy-z-fold8/dung-luong-pin-4400mah-samsung-galaxy-z-fold8-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/thong-so-man-hinh-gap-7-6-inch-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/thong-so-noi-bat-samsung-galaxy-z-fold8-tim-den.webp"
+      ]
+    },
+    {
+      "sku": "DT022-SSZFOLD8-TIM-12GB-512GB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 43490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-z-fold8/anh-dai-dien-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/mat-truoc-mat-sau-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/mat-lung-goc-nghieng-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/mat-lung-khi-gap-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/canh-ben-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/man-hinh-phu-goc-nghieng-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/he-thong-camera-50mp-zoom-10x-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/man-hinh-chinh-khi-mo-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/man-hinh-phu-khi-gap-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/thiet-ke-mong-4-5mm-nhe-201g-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/Galaxy-Z-Fold8.jpg",
+        "assets/images/products/samsung/galaxy-z-fold8/dung-luong-pin-4400mah-samsung-galaxy-z-fold8-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/thong-so-man-hinh-gap-7-6-inch-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/thong-so-noi-bat-samsung-galaxy-z-fold8-tim-den.webp"
+      ]
+    },
+    {
+      "sku": "DT022-SSZFOLD8-TIM-16GB-1TB",
+      "color": "Tím",
+      "colorHex": "#8B5CF6",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 49990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-z-fold8/anh-dai-dien-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/mat-truoc-mat-sau-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/mat-lung-goc-nghieng-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/mat-lung-khi-gap-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/canh-ben-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/man-hinh-phu-goc-nghieng-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/he-thong-camera-50mp-zoom-10x-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/man-hinh-chinh-khi-mo-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/man-hinh-phu-khi-gap-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/thiet-ke-mong-4-5mm-nhe-201g-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/Galaxy-Z-Fold8.jpg",
+        "assets/images/products/samsung/galaxy-z-fold8/dung-luong-pin-4400mah-samsung-galaxy-z-fold8-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/thong-so-man-hinh-gap-7-6-inch-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/thong-so-noi-bat-samsung-galaxy-z-fold8-tim-den.webp"
+      ]
+    },
+    {
+      "sku": "DT022-SSZFOLD8-DEN-12GB-256GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 39790000,
+      "originalPrice": 46990000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-z-fold8/anh-dai-dien-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/mat-truoc-mat-sau-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/mat-lung-goc-nghieng-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/mat-lung-khi-gap-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/canh-ben-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/man-hinh-phu-goc-nghieng-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/dung-luong-pin-4800mah-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/hieu-nang-snapdragon-8-elite-gen-5-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/man-hinh-chinh-khi-mo-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/man-hinh-phu-khi-gap-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/Galaxy-Z-Fold8.jpg",
+        "assets/images/products/samsung/galaxy-z-fold8/dung-luong-pin-4400mah-samsung-galaxy-z-fold8-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/thong-so-man-hinh-gap-7-6-inch-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/thong-so-noi-bat-samsung-galaxy-z-fold8-tim-den.webp"
+      ]
+    },
+    {
+      "sku": "DT022-SSZFOLD8-DEN-12GB-512GB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 43490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-z-fold8/anh-dai-dien-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/mat-truoc-mat-sau-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/mat-lung-goc-nghieng-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/mat-lung-khi-gap-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/canh-ben-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/man-hinh-phu-goc-nghieng-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/dung-luong-pin-4800mah-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/hieu-nang-snapdragon-8-elite-gen-5-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/man-hinh-chinh-khi-mo-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/man-hinh-phu-khi-gap-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/Galaxy-Z-Fold8.jpg",
+        "assets/images/products/samsung/galaxy-z-fold8/dung-luong-pin-4400mah-samsung-galaxy-z-fold8-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/thong-so-man-hinh-gap-7-6-inch-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/thong-so-noi-bat-samsung-galaxy-z-fold8-tim-den.webp"
+      ]
+    },
+    {
+      "sku": "DT022-SSZFOLD8-DEN-16GB-1TB",
+      "color": "Đen",
+      "colorHex": "#1F2937",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 49990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-z-fold8/anh-dai-dien-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/mat-truoc-mat-sau-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/mat-lung-goc-nghieng-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/mat-lung-khi-gap-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/canh-ben-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/man-hinh-phu-goc-nghieng-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/dung-luong-pin-4800mah-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/hieu-nang-snapdragon-8-elite-gen-5-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/man-hinh-chinh-khi-mo-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/man-hinh-phu-khi-gap-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/Galaxy-Z-Fold8.jpg",
+        "assets/images/products/samsung/galaxy-z-fold8/dung-luong-pin-4400mah-samsung-galaxy-z-fold8-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/thong-so-man-hinh-gap-7-6-inch-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/thong-so-noi-bat-samsung-galaxy-z-fold8-tim-den.webp"
+      ]
+    },
+    {
+      "sku": "DT022-SSZFOLD8-KEM-12GB-256GB",
+      "color": "Kem",
+      "colorHex": "#FEF3C7",
+      "ram": "12GB",
+      "storage": "12GB/256GB",
+      "rom": "256GB",
+      "price": 39790000,
+      "originalPrice": 46990000,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-z-fold8/anh-dai-dien-samsung-galaxy-z-fold8-kem.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/Galaxy-Z-Fold8.jpg",
+        "assets/images/products/samsung/galaxy-z-fold8/dung-luong-pin-4400mah-samsung-galaxy-z-fold8-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/thong-so-man-hinh-gap-7-6-inch-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/thong-so-noi-bat-samsung-galaxy-z-fold8-tim-den.webp"
+      ]
+    },
+    {
+      "sku": "DT022-SSZFOLD8-KEM-12GB-512GB",
+      "color": "Kem",
+      "colorHex": "#FEF3C7",
+      "ram": "12GB",
+      "storage": "12GB/512GB",
+      "rom": "512GB",
+      "price": 43490000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-z-fold8/anh-dai-dien-samsung-galaxy-z-fold8-kem.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/Galaxy-Z-Fold8.jpg",
+        "assets/images/products/samsung/galaxy-z-fold8/dung-luong-pin-4400mah-samsung-galaxy-z-fold8-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/thong-so-man-hinh-gap-7-6-inch-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/thong-so-noi-bat-samsung-galaxy-z-fold8-tim-den.webp"
+      ]
+    },
+    {
+      "sku": "DT022-SSZFOLD8-KEM-16GB-1TB",
+      "color": "Kem",
+      "colorHex": "#FEF3C7",
+      "ram": "16GB",
+      "storage": "16GB/1TB",
+      "rom": "1TB",
+      "price": 49990000,
+      "originalPrice": null,
+      "stockStatus": "in_stock",
+      "images": [
+        "assets/images/products/samsung/galaxy-z-fold8/anh-dai-dien-samsung-galaxy-z-fold8-kem.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/Galaxy-Z-Fold8.jpg",
+        "assets/images/products/samsung/galaxy-z-fold8/dung-luong-pin-4400mah-samsung-galaxy-z-fold8-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/thong-so-man-hinh-gap-7-6-inch-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/thong-so-noi-bat-samsung-galaxy-z-fold8-tim-den.webp"
+      ]
+    }
+  ],
+  "display": {
+    "technology": "Foldable Dynamic LTPO AMOLED 2X (Chính 7,6\" & Phụ 5,5\")",
+    "size": "Chính 7,6 inch & Phụ 5,5 inch",
+    "resolution": "Chính 2448 x 1848 pixel (tỷ lệ 4:3) | Phụ 1248 x 1972 pixel",
+    "refreshRate": "120Hz thích ứng (cả 2 màn hình)",
+    "brightness": "3.000 nit",
+    "hdr": "HDR10+",
+    "protection": "Flex Titanium + Corning Gorilla Glass Ceramic 3",
+    "features": [
+      "Tần số quét thích ứng 1–120Hz",
+      "Tỷ lệ màn hình rộng kiểu Passport",
+      "Lớp phủ chống phản chiếu"
+    ]
+  },
+  "performance": {
+    "chipset": "Snapdragon 8 Elite Gen 5 for Galaxy (3nm)",
+    "cpu": "8 nhân (2x 4,74 GHz Oryon V3 Phoenix L + 6x 3,62 GHz Oryon V3 Phoenix M)",
+    "gpu": "Adreno 840 (1,3 GHz)",
+    "ram": [
+      "12GB",
+      "16GB"
+    ],
+    "storage": [
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "operatingSystem": "Android 17, One UI 9",
+    "uiVersion": "One UI 9",
+    "expandableStorage": null
+  },
+  "rearCamera": {
+    "main": "50MP Wide f/1.8 (23mm, 1/1.56\", Dual Pixel PDAF, OIS)",
+    "ultraWide": "50MP Ultra Wide f/1.9 (13mm, 120°, multi-directional PDAF)",
+    "telephoto": null,
+    "otherLenses": [],
+    "ois": true,
+    "videoRecording": [
+      "8K@30fps",
+      "4K@30/60/120fps",
+      "1080p@30/60/120/240fps"
+    ],
+    "aiFeatures": [
+      "ProVisual Engine AI",
+      "Galaxy AI Đa nhiệm màn gập",
+      "FlexCam",
+      "Nightography"
+    ]
+  },
+  "frontCamera": {
+    "resolution": "Camera trong 10MP (f/2.2, 18mm) + Camera ngoài 10MP (f/2.2, 24mm)",
+    "features": [
+      "HDR"
+    ],
+    "videoRecording": [
+      "4K@30/60fps",
+      "1080p@30/60fps"
+    ]
+  },
+  "battery": {
+    "capacity": "4.800 mAh (Pin Silicon-Carbon Li-Ion)",
+    "wiredCharging": "Sạc siêu nhanh 45W USB-C (63% trong 30 phút)",
+    "wirelessCharging": "Sạc không dây 20W",
+    "reverseCharging": "Chia sẻ pin không dây 4,5W",
+    "chargingTechnology": "Super Fast Charging 2.0 (45W)"
+  },
+  "connectivity": {
+    "sim": [
+      "Nano-SIM + eSIM kép"
+    ],
+    "network": [
+      "5G"
+    ],
+    "wifi": "Wi-Fi 7 (802.11be) ba băng tần",
+    "bluetooth": "Bluetooth 6.0 (A2DP, LE, aptX HD)",
+    "gps": [
+      "GPS",
+      "GALILEO",
+      "GLONASS",
+      "BDS",
+      "QZSS"
+    ],
+    "usb": "USB Type-C 3.2, OTG",
+    "nfc": true
+  },
+  "design": {
+    "dimensions": "Mở: 161,4 x 123,9 x 4,5 mm | Gập: 81,9 x 123,9 x 9,7 mm",
+    "weight": "201 g",
+    "materials": [
+      "Khung Armor Aluminum",
+      "Lớp nền Flex Titanium",
+      "Kính Gorilla Glass Ceramic 3 & Victus 2"
+    ],
+    "waterResistance": "IP48 (kháng nước 1,5m trong 30 phút & kháng bụi > 1mm)",
+    "availableColors": [
+      "Xám",
+      "Xanh Navy",
+      "Đen"
+    ]
+  },
+  "audio": {
+    "speakers": "Loa kép Stereo",
+    "headphoneJack": false,
+    "microphones": [
+      "Khử ồn cuộc gọi AI"
+    ]
+  },
+  "sensors": [
+    "Gia tốc kế",
+    "Con quay hồi chuyển",
+    "Tiệm cận",
+    "Ánh sáng",
+    "La bàn số"
+  ],
+  "security": [
+    "Cảm biến vân tay",
+    "Mở khóa khuôn mặt AI"
+  ],
+  "specialFeatures": [
+    "Gập 7,6\" 4:3 & Phụ 5,5\"",
+    "Snapdragon 8 Elite Gen 5",
+    "Camera kép 50MP + 50MP",
+    "Pin Si/C 4.800 mAh · Sạc 45W · 201g"
+  ],
+  "accessories": [
+    "Thân máy",
+    "Cáp USB Type-C",
+    "Que lấy SIM",
+    "Sách hướng dẫn sử dụng"
+  ],
+  "warranty": {
+    "duration": "12 tháng",
+    "provider": "Trung tâm bảo hành uỷ quyền Samsung tại Việt Nam",
+    "notes": "1 đổi 1 trong 30 ngày đầu nếu có lỗi phần cứng từ nhà sản xuất tại AURIX MOBILE."
+  },
+  "images": {
+    "primary": "assets/images/products/samsung/galaxy-z-fold8/anh-dai-dien-samsung-galaxy-z-fold8-tim.webp",
+    "primaryPriorityLevel": 1,
+    "hasAvatarNamed": true,
+    "gallery": [
+      "assets/images/products/samsung/galaxy-z-fold8/anh-dai-dien-samsung-galaxy-z-fold8-tim.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/anh-dai-dien-samsung-galaxy-z-fold8-den.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/anh-dai-dien-samsung-galaxy-z-fold8-kem.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/02-front-back.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/mat-truoc-mat-sau-samsung-galaxy-z-fold8-den.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/mat-truoc-mat-sau-samsung-galaxy-z-fold8-tim.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/mat-lung-goc-nghieng-samsung-galaxy-z-fold8-den.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/mat-lung-goc-nghieng-samsung-galaxy-z-fold8-tim.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/mat-lung-khi-gap-samsung-galaxy-z-fold8-den.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/mat-lung-khi-gap-samsung-galaxy-z-fold8-tim.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/canh-ben-samsung-galaxy-z-fold8-den.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/canh-ben-samsung-galaxy-z-fold8-tim.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/man-hinh-phu-goc-nghieng-samsung-galaxy-z-fold8-den.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/man-hinh-phu-goc-nghieng-samsung-galaxy-z-fold8-tim.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/he-thong-camera-50mp-zoom-10x-samsung-galaxy-z-fold8-tim.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/Galaxy-Z-Fold8.jpg",
+      "assets/images/products/samsung/galaxy-z-fold8/dung-luong-pin-4400mah-samsung-galaxy-z-fold8-xanh-navy.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/dung-luong-pin-4800mah-samsung-galaxy-z-fold8-den.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/hieu-nang-snapdragon-8-elite-gen-5-samsung-galaxy-z-fold8-den.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/man-hinh-chinh-khi-mo-samsung-galaxy-z-fold8-den.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/man-hinh-chinh-khi-mo-samsung-galaxy-z-fold8-tim.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/man-hinh-phu-khi-gap-samsung-galaxy-z-fold8-den.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/man-hinh-phu-khi-gap-samsung-galaxy-z-fold8-tim.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/thiet-ke-mong-4-5mm-nhe-201g-samsung-galaxy-z-fold8-tim.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/thong-so-man-hinh-gap-7-6-inch-samsung-galaxy-z-fold8-tim.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/thong-so-noi-bat-samsung-galaxy-z-fold8-tim-den.webp"
+    ],
+    "byColor": {
+      "Đen": [
+        "assets/images/products/samsung/galaxy-z-fold8/anh-dai-dien-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/mat-truoc-mat-sau-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/mat-lung-goc-nghieng-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/mat-lung-khi-gap-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/canh-ben-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/man-hinh-phu-goc-nghieng-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/dung-luong-pin-4800mah-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/hieu-nang-snapdragon-8-elite-gen-5-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/man-hinh-chinh-khi-mo-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/man-hinh-phu-khi-gap-samsung-galaxy-z-fold8-den.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/Galaxy-Z-Fold8.jpg",
+        "assets/images/products/samsung/galaxy-z-fold8/dung-luong-pin-4400mah-samsung-galaxy-z-fold8-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/thong-so-man-hinh-gap-7-6-inch-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/thong-so-noi-bat-samsung-galaxy-z-fold8-tim-den.webp"
+      ],
+      "Kem": [
+        "assets/images/products/samsung/galaxy-z-fold8/anh-dai-dien-samsung-galaxy-z-fold8-kem.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/Galaxy-Z-Fold8.jpg",
+        "assets/images/products/samsung/galaxy-z-fold8/dung-luong-pin-4400mah-samsung-galaxy-z-fold8-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/thong-so-man-hinh-gap-7-6-inch-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/thong-so-noi-bat-samsung-galaxy-z-fold8-tim-den.webp"
+      ],
+      "Tím": [
+        "assets/images/products/samsung/galaxy-z-fold8/anh-dai-dien-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/mat-truoc-mat-sau-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/mat-lung-goc-nghieng-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/mat-lung-khi-gap-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/canh-ben-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/man-hinh-phu-goc-nghieng-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/he-thong-camera-50mp-zoom-10x-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/man-hinh-chinh-khi-mo-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/man-hinh-phu-khi-gap-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/thiet-ke-mong-4-5mm-nhe-201g-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/Galaxy-Z-Fold8.jpg",
+        "assets/images/products/samsung/galaxy-z-fold8/dung-luong-pin-4400mah-samsung-galaxy-z-fold8-xanh-navy.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/thong-so-man-hinh-gap-7-6-inch-samsung-galaxy-z-fold8-tim.webp",
+        "assets/images/products/samsung/galaxy-z-fold8/thong-so-noi-bat-samsung-galaxy-z-fold8-tim-den.webp"
+      ]
+    },
+    "bySection": {
+      "design": "assets/images/products/samsung/galaxy-z-fold8/mat-truoc-mat-sau-samsung-galaxy-z-fold8-den.webp",
+      "screen": "assets/images/products/samsung/galaxy-z-fold8/mat-truoc-mat-sau-samsung-galaxy-z-fold8-tim.webp",
+      "performance": "assets/images/products/samsung/galaxy-z-fold8/hieu-nang-snapdragon-8-elite-gen-5-samsung-galaxy-z-fold8-den.webp",
+      "camera": "assets/images/products/samsung/galaxy-z-fold8/he-thong-camera-50mp-zoom-10x-samsung-galaxy-z-fold8-tim.webp",
+      "battery": "assets/images/products/samsung/galaxy-z-fold8/dung-luong-pin-4400mah-samsung-galaxy-z-fold8-xanh-navy.webp",
+      "feature": "assets/images/products/samsung/galaxy-z-fold8/anh-dai-dien-samsung-galaxy-z-fold8-den.webp"
+    },
+    "descriptionImages": [
+      "assets/images/products/samsung/galaxy-z-fold8/anh-dai-dien-samsung-galaxy-z-fold8-den.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/anh-dai-dien-samsung-galaxy-z-fold8-kem.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/02-front-back.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/mat-truoc-mat-sau-samsung-galaxy-z-fold8-den.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/mat-truoc-mat-sau-samsung-galaxy-z-fold8-tim.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/mat-lung-goc-nghieng-samsung-galaxy-z-fold8-den.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/mat-lung-goc-nghieng-samsung-galaxy-z-fold8-tim.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/mat-lung-khi-gap-samsung-galaxy-z-fold8-den.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/mat-lung-khi-gap-samsung-galaxy-z-fold8-tim.webp",
+      "assets/images/products/samsung/galaxy-z-fold8/canh-ben-samsung-galaxy-z-fold8-den.webp"
+    ]
+  },
+  "metadata": {
+    "sources": [
+      "https://www.samsung.com/vn/smartphones/",
+      "https://www.thegioididong.com/dtdd-samsung-galaxy-z",
+      "https://www.samsung.com/vn/smartphones/"
+    ],
+    "verifiedAt": "2026-11-01",
+    "dataStatus": "active_listing",
+    "verificationLevel": "verified",
+    "notes": [
+      "Có niêm yết trong kết quả tra cứu",
+      "Đối chiếu từ tài liệu AURIX_MOBILE_Danh_muc_model_dien_thoai_Viet_Nam.docx và gói ảnh Hinh_Dien_Thoai.zip. Các trường chưa có thông số công bố chính thức hoặc chưa xác minh tồn kho đều được đặt giá trị null."
+    ]
+  },
+  "docCode": "DT022-SSZFOLD8",
+  "groupedSpecifications10": {
+    "Màn hình": {
+      "Công nghệ màn hình": "Foldable Dynamic LTPO AMOLED 2X (tấm nền Flex Titanium & phủ chống phản chiếu)",
+      "Kích thước màn hình": "Màn hình chính 7,6 inch (tỷ lệ ngang 4:3) + Màn hình phụ bên ngoài 5,5 inch kiểu dáng Passport gọn gàng",
+      "Độ phân giải màn hình": "Màn hình chính 2448 x 1848 pixel (~404 ppi) | Màn hình phụ 1248 x 1972 pixel (~428 ppi)",
+      "Tần số quét": "Thích ứng tự động 1Hz – 120Hz trên cả hai màn hình",
+      "Kiểu màn hình": "Màn hình gập khổ rộng kết hợp màn hình ngoài kính gốm Gorilla Glass Ceramic 3",
+      "Tính năng màn hình": "Độ sáng đỉnh 3.000 nit, HDR10+, lớp phủ chống chói Anti-reflective, tối ưu đọc sách và xem video ngang ngay khi mở máy"
+    },
+    "Camera sau": {
+      "Camera sau": "Hệ thống camera kép 50MP độ phân giải cao: Chính 50MP (f/1.8, 23mm, 1/1.56\", Dual Pixel PDAF, OIS, hỗ trợ Zoom chất lượng quang học 2x) + Góc siêu rộng 50MP (f/1.9, 13mm, 120°, multi-directional PDAF)",
+      "Quay video": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, chống rung OIS + gyro-EIS",
+      "Tính năng camera": "Chụp ảnh Dual Preview, FlexCam rảnh tay, ProVisual Engine AI, Nightography, Panorama"
+    },
+    "Camera trước": {
+      "Camera trước": "2 camera selfie 10MP: Màn hình chính 10MP (f/2.2, 18mm) + Màn hình phụ 10MP (f/2.2, 24mm); quay video 4K@30/60fps"
+    },
+    "Vi xử lý & Đồ họa": {
+      "Chipset": "Qualcomm Snapdragon 8 Elite Gen 5 for Galaxy (tiến trình 3nm)",
+      "Loại CPU": "8 nhân (2 nhân Oryon V3 Phoenix L 4,74 GHz + 6 nhân Oryon V3 Phoenix M 3,62 GHz)",
+      "GPU": "Adreno 840 (1,3 GHz) hỗ trợ Ray Tracing phần cứng"
+    },
+    "RAM & Bộ nhớ": {
+      "Dung lượng RAM": "12GB / 16GB LPDDR5X",
+      "Bộ nhớ trong": "3 phiên bản: 256GB, 512GB và 1TB chuẩn UFS 4.X"
+    },
+    "Pin & Công nghệ sạc": {
+      "Pin": "4.800 mAh (Pin Silicon-Carbon Si/C mật độ năng lượng cao)",
+      "Công nghệ sạc": "Sạc siêu nhanh có dây 45W (đạt 63% pin trong 30 phút), sạc không dây 20W, chia sẻ pin không dây 4,5W",
+      "Cổng sạc": "USB Type-C 3.2, hỗ trợ OTG và Samsung DeX"
+    },
+    "Hệ điều hành & Tiện ích": {
+      "Hệ điều hành khi ra mắt": "Android 17, giao diện One UI 9 (hỗ trợ 7 bản cập nhật Android)",
+      "Công nghệ - Tiện ích": "Trọn bộ Galaxy AI trên màn hình gập, chia đôi màn hình đa nhiệm trực quan, Samsung DeX",
+      "Tiện ích khác": "Định vị Ultra Wideband (UWB), bảo mật phần cứng Samsung Knox Vault",
+      "Thời điểm ra mắt": "22/07/2026"
+    },
+    "Kết nối": {
+      "Hỗ trợ mạng": "5G SA/NSA/Sub6 đa băng tần, LTE-A",
+      "Thẻ SIM": "SIM kép (Nano-SIM + eSIM hoặc 2 eSIM hoạt động đồng thời)",
+      "Wi-Fi": "Wi-Fi 7 (802.11 a/b/g/n/ac/6/7) ba băng tần, Wi-Fi Direct",
+      "Bluetooth": "Bluetooth 6.0 (A2DP, LE, aptX HD)",
+      "Công nghệ NFC": "Có hỗ trợ NFC và Ultra Wideband (UWB)",
+      "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS"
+    },
+    "Thiết kế & Độ bền": {
+      "Chất liệu khung viền": "Khung hợp kim Armor Aluminum kết hợp lớp nền màn hình Flex Titanium",
+      "Chất liệu mặt lưng": "Mặt ngoài kính gốm Gorilla Glass Ceramic 3, mặt lưng kính Gorilla Glass Victus 2",
+      "Kích thước": "Khi mở: 161,4 x 123,9 x 4,5 mm | Khi gập: 81,9 x 123,9 x 9,7 mm",
+      "Trọng lượng": "201 gram (siêu nhẹ chỉ 201g)",
+      "Chỉ số kháng nước, bụi": "IP48 (kháng nước ở độ sâu 1,5 mét trong 30 phút và kháng bụi > 1mm)"
+    },
+    "Âm thanh & Bảo mật": {
+      "Công nghệ âm thanh": "Hệ thống loa kép Stereo, hỗ trợ Dolby Atmos và âm thanh Hi-Res",
+      "Cảm biến vân tay": "Cảm biến vân tay điện dung tích hợp nút nguồn cạnh bên",
+      "Các loại cảm biến": "Vân tay cạnh bên, Gia tốc kế, Con quay hồi chuyển, Cảm biến tiệm cận, La bàn số, Áp kế"
+    }
+  },
+  "featuredSpecs": [
+    {
+      "label": "Màn hình",
+      "value": "Chính 7,6 inch (4:3) & Phụ 5,5 inch"
+    },
+    {
+      "label": "Công nghệ màn hình",
+      "value": "Foldable Dynamic LTPO AMOLED 2X"
+    },
+    {
+      "label": "Độ phân giải",
+      "value": "Chính 2448 x 1848 pixel | Phụ 1248 x 1972 pixel"
+    },
+    {
+      "label": "Tần số quét",
+      "value": "120Hz (thích ứng 1–120Hz cả 2 màn hình)"
+    },
+    {
+      "label": "Vi xử lý (Chipset)",
+      "value": "Snapdragon 8 Elite Gen 5 for Galaxy (3nm)"
+    },
+    {
+      "label": "RAM",
+      "value": "12GB / 16GB LPDDR5X"
+    },
+    {
+      "label": "Bộ nhớ trong",
+      "value": "256GB / 512GB / 1TB UFS 4.X"
+    },
+    {
+      "label": "Camera sau",
+      "value": "50MP Chính OIS + 50MP Ultra Wide PDAF"
+    },
+    {
+      "label": "Camera trước",
+      "value": "Trong 10MP (f/2.2) & Ngoài 10MP (f/2.2), quay 4K 60fps"
+    },
+    {
+      "label": "Dung lượng pin",
+      "value": "4.800 mAh (Pin Silicon-Carbon)"
+    },
+    {
+      "label": "Sạc nhanh",
+      "value": "Sạc có dây 45W, sạc không dây 20W, sạc ngược 4,5W"
+    },
+    {
+      "label": "Hệ điều hành",
+      "value": "Android 17, One UI 9"
+    },
+    {
+      "label": "Kết nối mạng",
+      "value": "5G"
+    },
+    {
+      "label": "Kháng nước / bụi",
+      "value": "IP48 (kháng nước 1,5m trong 30 phút & bụi > 1mm)"
+    }
+  ],
+  "verbatimDescription": [
+    "Samsung Galaxy Z Fold8 tạo nên bước đột phá lớn về công thái học trên dòng điện thoại gập khi áp dụng thiết kế khổ rộng kiểu hộ chiếu (Passport-style) hoàn toàn mới. Khi gập lại, máy có chiều cao gọn gàng 123,9 mm và bề ngang 81,9 mm dễ dàng bỏ túi và gõ phím bằng hai tay; khi mở ra, màn hình chính 7,6 inch hiển thị ngay theo tỷ lệ ngang 4:3 (2448 x 1848 pixel) với trọng lượng toàn máy chỉ 201 gram và mỏng 4,5 mm.",
+    "Cả màn hình chính 7,6 inch lẫn màn hình phụ 5,5 inch (1248 x 1972 pixel) đều sử dụng tấm nền Dynamic LTPO AMOLED 2X tần số quét thích ứng 1–120Hz và độ sáng đỉnh lên tới 3.000 nit. Nhờ cấu trúc tấm đỡ Flex Titanium kết hợp lớp phủ chống phản chiếu ở màn hình trong và kính gốm Corning Gorilla Glass Ceramic 3 ở màn hình ngoài, thiết bị đạt độ bền vượt trội cùng khả năng kháng nước và bụi chuẩn IP48.",
+    "Về sức mạnh xử lý, Galaxy Z Fold8 được trang bị vi xử lý đầu bảng Qualcomm Snapdragon 8 Elite Gen 5 for Galaxy (3nm) xung nhịp 4,74 GHz, đi kèm RAM 12GB hoặc 16GB LPDDR5X và bộ nhớ lưu trữ UFS 4.X lên đến 1TB. Hiệu năng mạnh mẽ giúp máy chạy song song nhiều ứng dụng trên màn hình tỷ lệ 4:3 và xử lý mượt mà các tác vụ Galaxy AI.",
+    "Hệ thống camera sau của Galaxy Z Fold8 được nâng cấp đồng bộ với bộ đôi cảm biến 50MP: camera chính 50MP (f/1.8, 23mm, Dual Pixel PDAF, chống rung quang học OIS) và camera góc siêu rộng 50MP (f/1.9, 13mm, góc nhìn 120° hỗ trợ lấy nét tự động đa hướng PDAF). Kết hợp hai camera selfie 10MP ở màn hình trong và ngoài, máy hỗ trợ quay video 8K@30fps, 4K@120fps và chụp ảnh rảnh tay FlexCam linh hoạt.",
+    "Nhờ công nghệ pin Silicon-Carbon (Si/C) thế hệ mới, Galaxy Z Fold8 tích hợp viên pin dung lượng 4.800 mAh cùng sạc siêu nhanh có dây 45W (sạc 63% trong 30 phút), sạc không dây 20W và sạc ngược không dây 4,5W dù thân máy chỉ nặng 201 gram.",
+    "Cài sẵn Android 17 và giao diện One UI 9 với cam kết 7 năm cập nhật hệ điều hành, kết nối Wi-Fi 7, Bluetooth 6.0, chip Ultra Wideband (UWB) và chế độ máy tính Samsung DeX, Galaxy Z Fold8 là lựa chọn lý tưởng cho người dùng yêu thích sự gọn nhẹ và không gian đa nhiệm thông minh."
+  ],
+  "priceSegment": "flagship"
+}

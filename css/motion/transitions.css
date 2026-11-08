@@ -1,0 +1,39 @@
+/* TechPhone — Filter, Tab, Step & Page Transitions (Effects 16, 21, 22, 23, 25, 41) */
+.tp-filter-transition {
+  transition: opacity var(--tp-dur-normal) var(--tp-ease-out), transform var(--tp-dur-normal) var(--tp-ease-out);
+}
+.tp-filter-transition.is-updating {
+  opacity: 0.35;
+  transform: scale(0.99);
+}
+.tp-search-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(16, 35, 71, 0.6);
+  backdrop-filter: blur(4px);
+  z-index: var(--tp-z-modal);
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 4.5rem 1rem 1rem;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity var(--tp-dur-normal) var(--tp-ease-out), visibility var(--tp-dur-normal);
+}
+.tp-search-overlay.is-open {
+  opacity: 1;
+  visibility: visible;
+}
+.tp-search-panel {
+  background: var(--tp-white);
+  width: 100%;
+  max-width: 680px;
+  border-radius: var(--tp-radius-xl);
+  padding: 1.5rem;
+  box-shadow: var(--tp-shadow-lg);
+  transform: translateY(-16px);
+  transition: transform var(--tp-dur-normal) var(--tp-ease-out);
+}
+.tp-search-overlay.is-open .tp-search-panel {
+  transform: translateY(0);
+}
