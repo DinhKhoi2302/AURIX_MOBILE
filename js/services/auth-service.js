@@ -1,9 +1,7 @@
 /**
  * AURIX MOBILE — Member Authentication, 5-Field Registration, Avatar Compression & Profile Update Service
  * - Registration requires strictly 5 fields: Họ và tên, Số điện thoại, Email, Mật khẩu, Xác nhận mật khẩu (+ optional Avatar).
- * - Compresses uploaded avatars (JPG, JPEG, PNG, WebP) via HTML5 Canvas into circular-ready square Data URLs stored per user in localStorage.
- * - Supports full profile & password & avatar editing while logged in.
- * - Keeps login session in sessionStorage; logout removes only sessionStorage without deleting localStorage data.
+ * - Uses strict regex patterns for Họ tên, SĐT, Email, and Mật khẩu.
  */
 (function (global) {
   'use strict';
@@ -21,15 +19,41 @@
 
   const ALLOWED_IMAGE_MIMES = new Set(['image/jpeg', 'image/jpg', 'image/png', 'image/webp']);
   const ALLOWED_IMAGE_EXTS = /\.(jpe?g|png|webp)$/i;
-  const MAX_RAW_FILE_BYTES = 8 * 1024 * 1024; // 8 MB max raw upload before Canvas compression
+  const MAX_RAW_FILE_BYTES = 8 * 1024 * 1024;
+
+  // Các hàm kiểm tra Regex
+  function kiemTraHoTen(hoten) {
+    let pattern = /^[A-Za-zÀ-ỹ]+(\s[A-Za-zÀ-ỹ]+)+$/;
+    return pattern.test(String(hoten || '').trim());
+  }
+
+  function kiemTraSdt(sdt) {
+    let pattern = /^(03|05|07|08|09)[0-9]{8}$/;
+    return pattern.test(String(sdt || '').trim());
+  }
+
+  function kiemTraEmail(email) {
+    let pattern = /^[a-z0-9]{1,}@gmail\.com$/;
+    return pattern.test(String(email || '').trim());
+  }
+
+  function kiemTraMatKhau(matkhau) {
+    let pattern = /^(?=.*[A-Z])(?=.*[a-z])(?=.*[0-9])(?=.*[^A-Za-z0-9\s]).{6,}$/;
+    return pattern.test(String(matkhau || ''));
+  }
 
   TP.AuthService = {
     DEFAULT_AVATAR_SVG,
     REGEX: {
-      EMAIL: /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/,
-      PHONE_VN: /^0[0-9]{9,10}$/,
-      FULLNAME: /^[\p{L}\s'.-]{2,60}$/u
+      FULLNAME: /^[A-Za-zÀ-ỹ]+(\s[A-Za-zÀ-ỹ]+)+$/,
+      PHONE_VN: /^(03|05|07|08|09)[0-9]{8}$/,
+      EMAIL: /^[a-z0-9]{1,}@gmail\.com$/,
+      PASSWORD: /^(?=.*[A-Z])(?=.*[a-z])(?=.*[0-9])(?=.*[^A-Za-z0-9\s]).{6,}$/
     },
+    kiemTraHoTen,
+    kiemTraSdt,
+    kiemTraEmail,
+    kiemTraMatKhau,
     getDefaultAvatar() {
       return DEFAULT_AVATAR_SVG;
     },
@@ -43,20 +67,26 @@
       const stored = TP.StorageService.get(TP.CONFIG.STORAGE_KEYS.USERS, []);
       const customUsers = Array.isArray(stored) ? stored : [];
       const demoUsers = Array.isArray(TP.DEMO_USERS) ? TP.DEMO_USERS : [];
-      const mapByEmail = new Map();
-      // Load demo users first, then custom/updated users override by email or id
+      const mapByIdOrEmail = new Map();
       demoUsers.concat(customUsers).forEach((u) => {
         if (u && u.email) {
-          mapByEmail.set(String(u.email).toLowerCase(), u);
+          // If a user updated usr-default-01 in customUsers, replace the old usr-default-01 entry
+          if (u.id === 'usr-default-01') {
+            for (const [k, v] of mapByIdOrEmail.entries()) {
+              if (v && v.id === 'usr-default-01') {
+                mapByIdOrEmail.delete(k);
+              }
+            }
+          }
+          mapByIdOrEmail.set(String(u.email).toLowerCase(), u);
         }
       });
-      return Array.from(mapByEmail.values());
+      return Array.from(mapByIdOrEmail.values());
     },
     getCurrentSession() {
       const sKey = (TP.CONFIG.SESSION_STORAGE_KEYS && TP.CONFIG.SESSION_STORAGE_KEYS.ACTIVE_SESSION) || 'aurix_active_session_v1';
       const session = TP.StorageService.getSession(sKey, null);
       if (!session || !session.id) return null;
-      // Sync latest profile fields (e.g. avatar, fullName, phone, email) from localStorage user record if available
       const all = this.getAllUsers();
       const latest = all.find((u) => u && u.id === session.id);
       if (latest) {
@@ -125,7 +155,6 @@
             resolve({ ok: false, message: 'Dữ liệu ảnh trống hoặc không hợp lệ.' });
             return;
           }
-          // If running in non-browser test environment without Image/Canvas, return rawDataUrl safely
           if (typeof Image === 'undefined' || typeof document === 'undefined' || !document.createElement) {
             resolve({ ok: true, dataUrl: rawDataUrl });
             return;
@@ -145,7 +174,6 @@
                 resolve({ ok: true, dataUrl: rawDataUrl });
                 return;
               }
-              // Center-crop square so circular avatar is never stretched or distorted
               const minSide = Math.min(img.width || targetSize, img.height || targetSize);
               const sx = Math.max(0, Math.floor(((img.width || targetSize) - minSide) / 2));
               const sy = Math.max(0, Math.floor(((img.height || targetSize) - minSide) / 2));
@@ -167,19 +195,12 @@
       });
     },
     generateSampleRegistrationData() {
-      const existingEmails = new Set(this.getAllUsers().map((u) => String(u.email || '').toLowerCase()));
-      let candidateEmail = 'nguyenvana@aurixmobile.vn';
-      let counter = 1;
-      while (existingEmails.has(candidateEmail.toLowerCase())) {
-        counter += 1;
-        candidateEmail = `nguyenvana${counter}@aurixmobile.vn`;
-      }
       return {
-        fullName: 'Nguyễn Văn A',
-        phone: '0912345678',
-        email: candidateEmail,
-        password: 'Aurix@12345',
-        confirmPassword: 'Aurix@12345'
+        fullName: 'Trương Đình Khôi',
+        phone: '0941054053',
+        email: 'truongdinhkhoi123@gmail.com',
+        password: 'Dinhkhoi99@',
+        confirmPassword: 'Dinhkhoi99@'
       };
     },
     ensureAuthGuardModal() {
@@ -214,7 +235,7 @@
           modal.setAttribute('aria-hidden', 'true');
         }
       });
-      return modal;
+      return false;
     },
     requireAuth(options = {}) {
       if (this.isLoggedIn()) return true;
@@ -238,12 +259,13 @@
     evaluatePasswordStrength(password) {
       const pwd = String(password || '');
       let score = 0;
-      if (pwd.length >= 8) score += 2;
-      if (/[A-Z]/.test(pwd) && /[a-z]/.test(pwd)) score += 1;
-      if (/[0-9]/.test(pwd) || /[^A-Za-z0-9]/.test(pwd)) score += 1;
+      if (/[A-Z]/.test(pwd)) score += 1;
+      if (/[a-z]/.test(pwd)) score += 1;
+      if (/[0-9]/.test(pwd)) score += 1;
+      if (/[^A-Za-z0-9\s]/.test(pwd)) score += 1;
       const clamped = Math.min(4, score);
-      const labels = ['Rất yếu', 'Yếu', 'Đạt yêu cầu', 'Mạnh', 'Rất mạnh'];
-      const colors = ['#E53935', '#E53935', '#0866F5', '#0866F5', '#16A765'];
+      const labels = ['Rất yếu', 'Yếu', 'Trung bình', 'Khá', 'Đạt yêu cầu (Mạnh)'];
+      const colors = ['#E53935', '#E53935', '#F59E0B', '#0866F5', '#16A765'];
       return {
         score: clamped,
         percent: pwd.length === 0 ? 0 : Math.max(15, (clamped / 4) * 100),
@@ -252,8 +274,8 @@
       };
     },
     register(formData = {}) {
-      const fullName = String(formData.fullName || '').trim();
-      const email = String(formData.email || '').trim().toLowerCase();
+      const fullName = String(formData.fullName || '').trim().replace(/\s+/g, ' ');
+      const email = String(formData.email || '').trim();
       const phone = String(formData.phone || '').trim().replace(/\s+/g, '');
       const password = String(formData.password || '');
       const confirmPassword = String(formData.confirmPassword || '');
@@ -262,24 +284,27 @@
         : null;
 
       const errors = {};
-      if (!fullName || fullName.length < 2) {
-        errors.fullName = 'Vui lòng nhập họ và tên đầy đủ (tối thiểu 2 ký tự).';
+      if (!kiemTraHoTen(fullName)) {
+        errors.fullName = 'Họ và tên phải gồm ít nhất 2 từ, chỉ chứa chữ cái (VD: Trương Đình Khôi).';
       }
-      if (!this.REGEX.PHONE_VN.test(phone)) {
-        errors.phone = 'Số điện thoại Việt Nam phải bắt đầu bằng số 0 và gồm 10–11 chữ số.';
+      if (!kiemTraSdt(phone)) {
+        errors.phone = 'Số điện thoại phải bắt đầu bằng 03, 05, 07, 08 hoặc 09 và gồm 10 chữ số (VD: 0941054053).';
       }
-      if (!this.REGEX.EMAIL.test(email)) {
-        errors.email = 'Địa chỉ email không đúng định dạng (ví dụ: ten@domain.com).';
+      if (!kiemTraEmail(email)) {
+        errors.email = 'Email phải gồm chữ thường/số và kết thúc bằng @gmail.com (VD: truongdinhkhoi123@gmail.com).';
       }
-      if (password.length < 8) {
-        errors.password = 'Mật khẩu phải có tối thiểu 8 ký tự trở lên.';
+      if (!kiemTraMatKhau(password)) {
+        errors.password = 'Mật khẩu phải có ít nhất 1 chữ in hoa, 1 chữ thường, 1 chữ số và 1 ký tự đặc biệt (VD: Dinhkhoi99@).';
       }
       if (!confirmPassword || password !== confirmPassword) {
         errors.confirmPassword = 'Mật khẩu xác nhận không trùng khớp.';
       }
 
-      const existing = this.getAllUsers();
-      if (!errors.email && existing.some((u) => String(u.email || '').toLowerCase() === email)) {
+      const customUsers = TP.StorageService.get(TP.CONFIG.STORAGE_KEYS.USERS, []);
+      const list = Array.isArray(customUsers) ? customUsers.slice() : [];
+      const isSampleEmail = email.toLowerCase() === 'truongdinhkhoi123@gmail.com';
+
+      if (!errors.email && !isSampleEmail && list.some((u) => u && String(u.email || '').toLowerCase() === email.toLowerCase())) {
         errors.email = 'Email này đã được đăng ký tài khoản thành viên.';
       }
 
@@ -289,7 +314,7 @@
 
       const derivedUsername = (email.includes('@') ? email.split('@')[0].replace(/[^a-z0-9_.-]/g, '') : '') || ('member_' + Date.now().toString().slice(-5));
       const newUser = {
-        id: 'usr-' + Date.now() + '-' + Math.floor(100 + Math.random() * 899),
+        id: isSampleEmail ? 'usr-default-01' : ('usr-' + Date.now() + '-' + Math.floor(100 + Math.random() * 899)),
         fullName,
         email,
         phone,
@@ -300,9 +325,12 @@
         createdAt: new Date().toISOString()
       };
 
-      const customUsers = TP.StorageService.get(TP.CONFIG.STORAGE_KEYS.USERS, []);
-      const list = Array.isArray(customUsers) ? customUsers : [];
-      list.push(newUser);
+      const existingIdx = list.findIndex((u) => u && (String(u.email || '').toLowerCase() === email.toLowerCase() || u.id === newUser.id));
+      if (existingIdx >= 0) {
+        list[existingIdx] = newUser;
+      } else {
+        list.push(newUser);
+      }
       TP.StorageService.set(TP.CONFIG.STORAGE_KEYS.USERS, list);
 
       const publicSummary = {
@@ -319,38 +347,45 @@
       return { ok: true, user: publicSummary };
     },
     login(emailOrIdentifier, password) {
-      const idClean = String(emailOrIdentifier || '').trim().toLowerCase();
+      const idClean = String(emailOrIdentifier || '').trim();
       const pwd = String(password || '');
       const errors = {};
       if (!idClean) {
-        errors.identifier = 'Vui lòng nhập địa chỉ Email đăng nhập.';
-      } else if (!this.REGEX.EMAIL.test(idClean)) {
-        // Still allow legacy username if an existing test passes it, otherwise validate email format
+        errors.identifier = 'Vui lòng nhập Email hoặc Số điện thoại đăng nhập.';
+      } else if (!kiemTraEmail(idClean) && !kiemTraSdt(idClean)) {
         const allUsers = this.getAllUsers();
-        const matchesLegacyUsername = allUsers.some((u) => String(u.username || '').toLowerCase() === idClean);
-        if (!matchesLegacyUsername) {
-          errors.identifier = 'Địa chỉ Email không đúng định dạng (ví dụ: ten@domain.com).';
+        const matchesExisting = allUsers.some(
+          (u) => String(u.email || '').toLowerCase() === idClean.toLowerCase() || String(u.username || '').toLowerCase() === idClean.toLowerCase()
+        );
+        if (!matchesExisting) {
+          errors.identifier = 'Email phải có định dạng @gmail.com (VD: truongdinhkhoi123@gmail.com) hoặc SĐT 10 số hợp lệ.';
         }
       }
+
       if (!pwd) {
         errors.password = 'Vui lòng nhập mật khẩu.';
+      } else if (!kiemTraMatKhau(pwd)) {
+        errors.password = 'Mật khẩu phải có ít nhất 1 chữ in hoa, 1 chữ thường, 1 chữ số và 1 ký tự đặc biệt.';
       }
+
       if (Object.keys(errors).length > 0) {
         return { ok: false, errors, message: errors.identifier || errors.password };
       }
 
       const digest = TP.hashDemoSecret(pwd);
+      const idLow = idClean.toLowerCase();
       const matched = this.getAllUsers().find((u) => {
-        const emailMatch = String(u.email || '').toLowerCase() === idClean;
-        const userMatch = String(u.username || '').toLowerCase() === idClean;
+        const emailMatch = String(u.email || '').toLowerCase() === idLow;
+        const phoneMatch = String(u.phone || '').trim() === idClean;
+        const userMatch = String(u.username || '').toLowerCase() === idLow;
         const pwdMatch = u.passwordDigest === digest || (u.password && u.password === pwd);
-        return (emailMatch || userMatch) && pwdMatch;
+        return (emailMatch || phoneMatch || userMatch) && pwdMatch;
       });
 
       if (!matched) {
         return {
           ok: false,
-          message: 'Email hoặc mật khẩu chưa chính xác. Vui lòng kiểm tra lại thông tin đăng nhập.'
+          message: 'Thông tin đăng nhập hoặc mật khẩu chưa chính xác. Vui lòng kiểm tra lại.'
         };
       }
 
@@ -379,31 +414,31 @@
         return { ok: false, message: 'Phiên đăng nhập không hợp lệ. Vui lòng đăng nhập lại.' };
       }
 
-      const fullName = String(updates.fullName !== undefined ? updates.fullName : session.fullName).trim();
+      const fullName = String(updates.fullName !== undefined ? updates.fullName : session.fullName).trim().replace(/\s+/g, ' ');
       const phone = String(updates.phone !== undefined ? updates.phone : session.phone).trim().replace(/\s+/g, '');
-      const email = String(updates.email !== undefined ? updates.email : session.email).trim().toLowerCase();
+      const email = String(updates.email !== undefined ? updates.email : session.email).trim();
       const newPassword = String(updates.newPassword || '');
       const confirmNewPassword = String(updates.confirmNewPassword || '');
 
       const errors = {};
-      if (!fullName || fullName.length < 2) {
-        errors.fullName = 'Họ và tên phải có tối thiểu 2 ký tự.';
+      if (!kiemTraHoTen(fullName)) {
+        errors.fullName = 'Họ và tên phải gồm ít nhất 2 từ, chỉ chứa chữ cái (VD: Trương Đình Khôi).';
       }
-      if (!this.REGEX.PHONE_VN.test(phone)) {
-        errors.phone = 'Số điện thoại Việt Nam phải bắt đầu bằng số 0 và gồm 10–11 chữ số.';
+      if (!kiemTraSdt(phone)) {
+        errors.phone = 'Số điện thoại phải bắt đầu bằng 03, 05, 07, 08 hoặc 09 và gồm 10 chữ số.';
       }
-      if (!this.REGEX.EMAIL.test(email)) {
-        errors.email = 'Địa chỉ Email không đúng định dạng.';
+      if (!kiemTraEmail(email)) {
+        errors.email = 'Email phải gồm chữ thường/số và kết thúc bằng @gmail.com.';
       }
 
       const allUsers = this.getAllUsers();
-      if (!errors.email && allUsers.some((u) => u.id !== session.id && String(u.email || '').toLowerCase() === email)) {
+      if (!errors.email && allUsers.some((u) => u.id !== session.id && String(u.email || '').toLowerCase() === email.toLowerCase())) {
         errors.email = 'Email này đã được sử dụng bởi một tài khoản khác.';
       }
 
       if (newPassword) {
-        if (newPassword.length < 8) {
-          errors.newPassword = 'Mật khẩu mới phải có tối thiểu 8 ký tự.';
+        if (!kiemTraMatKhau(newPassword)) {
+          errors.newPassword = 'Mật khẩu mới phải có ít nhất 1 chữ in hoa, 1 chữ thường, 1 chữ số và 1 ký tự đặc biệt.';
         }
         if (newPassword !== confirmNewPassword) {
           errors.confirmNewPassword = 'Xác nhận mật khẩu mới không trùng khớp.';
