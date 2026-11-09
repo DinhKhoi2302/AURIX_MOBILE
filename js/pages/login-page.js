@@ -319,9 +319,9 @@
 
     if (quickDemoBtn && idInput && pwdInput) {
       quickDemoBtn.addEventListener('click', () => {
-        idInput.value = 'khachhang@aurixmobile.vn';
-        pwdInput.value = 'TechPhone@123';
-        TP.Toast.show('Đã điền Email tài khoản mẫu: khachhang@aurixmobile.vn', 'info');
+        idInput.value = 'truongdinhkhoi123@gmail.com';
+        pwdInput.value = 'Dinhkhoi99@';
+        TP.Toast.show('Đã điền tài khoản mẫu: Trương Đình Khôi (truongdinhkhoi123@gmail.com · 0941054053)', 'info');
       });
     }
 
