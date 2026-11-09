@@ -88,8 +88,9 @@
     },
     validateCheckoutForm(data) {
       const errors = {};
-      if (!data.fullName || String(data.fullName).trim().length < 2) {
-        errors.fullName = 'Vui lòng nhập họ tên người nhận (tối thiểu 2 ký tự).';
+      const fullNameClean = String(data.fullName || '').trim().replace(/\s+/g, ' ');
+      if (!TP.AuthService.REGEX.FULLNAME.test(fullNameClean)) {
+        errors.fullName = 'Họ và tên người nhận phải gồm ít nhất 2 từ, chỉ chứa chữ cái (VD: Trương Đình Khôi).';
       }
       const phoneClean = String(data.phone || '').trim().replace(/\s+/g, '');
       if (!TP.AuthService.REGEX.PHONE_VN.test(phoneClean)) {
