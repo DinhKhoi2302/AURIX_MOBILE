@@ -19,11 +19,11 @@
     {
       id: 'usr-default-01',
       username: 'truongdinhkhoi',
-      email: 'khachhang@aurixmobile.vn',
-      phone: '0901234567',
+      email: 'truongdinhkhoi123@gmail.com',
+      phone: '0941054053',
       fullName: 'Trương Đình Khôi',
       role: 'Thành viên AURIX Member',
-      passwordDigest: TP.hashDemoSecret('TechPhone@123'),
+      passwordDigest: TP.hashDemoSecret('Dinhkhoi99@'),
       createdAt: '2026-01-15T08:00:00.000Z'
     }
   ];
